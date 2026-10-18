@@ -66,7 +66,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "image": "bilder/q2-sun.jpg"
+    "image": "bilder/q2-sun.jpg",
+    "start": 0.0,
+    "countdownStart": 2.094,
+    "reveal": 4.594,
+    "end": 7.222
    },
    {
     "q": "Which of these is **wider** than Pluto?",
@@ -78,7 +82,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🪐  🗺️"
+    "cardText": "🪐  🗺️",
+    "start": 7.222,
+    "countdownStart": 9.106,
+    "reveal": 11.606,
+    "end": 14.534
    },
    {
     "q": "Which letter is in **no** US state name?",
@@ -90,7 +98,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🗺️  🔤"
+    "cardText": "🗺️  🔤",
+    "start": 14.534,
+    "countdownStart": 16.569,
+    "reveal": 19.069,
+    "end": 21.334
    },
    {
     "q": "On which planet is a **day** longer than a year?",
@@ -102,7 +114,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "☀️  🔄  🪐"
+    "cardText": "☀️  🔄  🪐",
+    "start": 21.334,
+    "countdownStart": 23.622,
+    "reveal": 26.122,
+    "end": 27.746
    },
    {
     "q": "Who has more **bones**?",
@@ -114,7 +130,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "👶  🦴  🧑"
+    "cardText": "👶  🦴  🧑",
+    "start": 27.746,
+    "countdownStart": 29.807,
+    "reveal": 32.307,
+    "end": 34.924
    },
    {
     "q": "When was **Nintendo** founded?",
@@ -126,8 +146,19 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🎮  🃏"
+    "cardText": "🎮  🃏",
+    "start": 34.924,
+    "countdownStart": 36.904,
+    "reveal": 39.404,
+    "end": 42.442
    }
-  ]
+  ],
+  "audio": "audio/genius-6-1.mp3",
+  "outroStart": 42.442,
+  "durationInSeconds": 42.442
+ },
+ "uploaded": {
+  "videoId": "FyEfeQscyqI",
+  "at": "2026-10-18T15:40"
  }
 }
