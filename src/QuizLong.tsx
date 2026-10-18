@@ -497,7 +497,7 @@ export const QuizThumb: React.FC<ThumbProps> = (story) => {
   if (v === 'B') {
     return (
       <AbsoluteFill style={{background: '#FFD400', overflow: 'hidden'}}>
-        <AbsoluteFill style={{top: -400, left: -400, right: -400, bottom: -400, background: 'repeating-conic-gradient(from 0deg at 50% 50%, #FFE45C 0 10deg, #FFD400 10deg 20deg)'}} />
+        <div style={{position: 'absolute', left: -660, top: -800, width: 2600, height: 2600, background: 'repeating-conic-gradient(from 0deg at 50% 50%, #FFE45C 0 10deg, #FFD400 10deg 20deg)'}} />
         <div style={{position: 'absolute', left: 30, right: 30, top: 30, textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: 112, lineHeight: 0.95, color: '#111', textShadow: '6px 6px 0 #fff'}}>
           <Highlighted text={text} accent="#E11D48" />
         </div>
@@ -534,7 +534,7 @@ export const QuizThumb: React.FC<ThumbProps> = (story) => {
     <AbsoluteFill style={{background: N.bg, overflow: 'hidden'}}>
       <AbsoluteFill style={{background: 'radial-gradient(circle at 20% 25%, rgba(168,85,247,0.75), transparent 50%), radial-gradient(circle at 85% 80%, rgba(236,72,153,0.65), transparent 50%)'}} />
       <div style={{position: 'absolute', right: 36, top: 50, fontFamily: EMOJI_FONT, fontSize: puzzle ? 250 : 380, lineHeight: 1, transform: 'rotate(8deg)', filter: 'drop-shadow(0 0 40px rgba(253,224,71,0.6))'}}>{emoji}</div>
-      <div style={{position: 'absolute', left: 56, top: 40, width: puzzle ? 900 : 780, fontFamily: FONT, fontWeight: 900, fontSize: puzzle ? 112 : 104, lineHeight: 0.96, color: N.white, textShadow: '0 7px 0 #000, 0 0 40px rgba(236,72,153,0.9)'}}>
+      <div style={{position: 'absolute', left: 56, top: puzzle ? 40 : 110, width: puzzle ? 900 : 760, fontFamily: FONT, fontWeight: 900, fontSize: puzzle ? 112 : 124, lineHeight: 0.96, color: N.white, textShadow: '0 7px 0 #000, 0 0 40px rgba(236,72,153,0.9)'}}>
         <Highlighted text={text} accent={N.yellow} />
       </div>
       {puzzle && (
