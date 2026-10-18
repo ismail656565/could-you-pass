@@ -156,6 +156,7 @@ def analytics():
         if v.get('views') and v.get('engagedViews') is not None:
             v['engagedShare'] = round(v['engagedViews'] / max(1, v['views']), 3)
     ANALYTICS.mkdir(parents=True, exist_ok=True)
+    log(f"Kanal: {ch['snippet']['title']} | Kontrollnummer: {os.environ.get('GOOGLE_REFRESH_TOKEN', '')[-4:]}")
     report = {'fetched': dt.datetime.now().isoformat(timespec='minutes'), 'channel': ch['snippet']['title'],
               'subscribers': ch['statistics'].get('subscriberCount'), 'videos': vids}
     (ANALYTICS / 'report.json').write_text(json.dumps(report, indent=1, ensure_ascii=False), encoding='utf-8')
@@ -326,6 +327,12 @@ def main():
         print('GOOGLE_CLIENT_ID     =', cs['client_id'])
         print('GOOGLE_CLIENT_SECRET =', cs['client_secret'])
         print('GOOGLE_REFRESH_TOKEN =', tok.get('refresh_token'))
+        try:
+            ch = yt().channels().list(part='snippet', mine=True).execute().get('items', [])
+            print('\n>>> Angemeldeter YouTube-Kanal:', ', '.join(i['snippet']['title'] for i in ch) or 'KEINER')
+        except Exception as ex:
+            print('Kanal-Abfrage fehlgeschlagen:', ex)
+        print('>>> Kontrollnummer (Ende des Tokens):', (tok.get('refresh_token') or '')[-4:])
     elif cmd == 'analytics':
         analytics()
     elif cmd == 'produce':
