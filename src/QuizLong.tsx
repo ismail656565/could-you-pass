@@ -280,7 +280,7 @@ const Sticker: React.FC<{text: string; until?: number; color?: string}> = ({text
   const out = until === undefined ? 1 : interpolate(frame, [fps * (until - 0.4), fps * until], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
   if (out <= 0) return null;
   return (
-    <div style={{position: 'absolute', top: 420, left: PAD + COL_L - 520, transform: `rotate(${5 + Math.sin(frame / 3) * 1.5}deg)`, opacity: out, background: color, color: N.bg, fontFamily: FONT, fontWeight: 900, fontSize: 46, padding: '10px 26px', borderRadius: 14, boxShadow: glow(color, 24), zIndex: 5}}>
+    <div style={{position: 'absolute', top: 432, left: PAD + 24, transform: `rotate(${5 + Math.sin(frame / 3) * 1.5}deg)`, opacity: out, background: color, color: N.bg, fontFamily: FONT, fontWeight: 900, fontSize: 46, padding: '10px 26px', borderRadius: 14, boxShadow: glow(color, 24), zIndex: 5}}>
       {text}
     </div>
   );
