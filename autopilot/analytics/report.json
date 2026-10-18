@@ -1,15 +1,23 @@
 {
- "fetched": "2026-10-18T15:43",
+ "fetched": "2026-10-18T17:27",
  "channel": "COULD YOU PASS?",
- "subscribers": "4",
+ "subscribers": "5",
  "videos": [
+  {
+   "id": "kgWV2rM_BLc",
+   "title": "Champions League Quiz: Only REAL Fans Get 20/20 🏆⚽",
+   "published": "2026-10-18T15:56:37Z",
+   "retention": [],
+   "durationSec": 184,
+   "publicViews": "3"
+  },
   {
    "id": "FyEfeQscyqI",
    "title": "Only Geniuses Get 6/6 🧠 Hard Trivia Quiz #shorts",
    "published": "2026-10-18T15:41:15Z",
    "retention": [],
    "durationSec": 43,
-   "publicViews": "0"
+   "publicViews": "405"
   },
   {
    "id": "gulbOkDMLgg",
@@ -17,7 +25,7 @@
    "published": "2026-10-18T07:45:37Z",
    "retention": [],
    "durationSec": 44,
-   "publicViews": "1150"
+   "publicViews": "1160"
   },
   {
    "id": "AU5WA_fEFNc",
@@ -25,7 +33,7 @@
    "published": "2026-10-17T19:54:28Z",
    "retention": [],
    "durationSec": 182,
-   "publicViews": "1"
+   "publicViews": "68"
   },
   {
    "id": "P9BSOeOxJJc",
@@ -41,7 +49,7 @@
    "published": "2026-10-16T17:54:36Z",
    "retention": [],
    "durationSec": 44,
-   "publicViews": "457"
+   "publicViews": "937"
   },
   {
    "id": "hZrSzrXj24I",
@@ -49,7 +57,7 @@
    "published": "2026-10-16T17:32:30Z",
    "retention": [],
    "durationSec": 56,
-   "publicViews": "375"
+   "publicViews": "383"
   },
   {
    "id": "I37Yx8EIj5U",
@@ -65,7 +73,7 @@
    "published": "2026-10-16T07:00:39Z",
    "retention": [],
    "durationSec": 78,
-   "publicViews": "1082"
+   "publicViews": "1081"
   },
   {
    "id": "bRb-fGyhJ48",
@@ -595,7 +603,6 @@
    "likes": 0,
    "comments": 0,
    "subscribersGained": 0,
-   "retention": [],
    "durationSec": 42,
    "publicViews": "53",
    "engagedShare": 0.571
