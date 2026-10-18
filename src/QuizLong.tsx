@@ -470,15 +470,81 @@ export const QuizLong: React.FC<QuizStory> = (story) => {
 };
 
 /** Vorschaubild 1280x720 */
-export const QuizThumb: React.FC<QuizStory & {thumbText?: string; thumbEmoji?: string}> = (story) => (
-  <AbsoluteFill style={{background: N.bg, overflow: 'hidden'}}>
-    <AbsoluteFill style={{background: 'radial-gradient(circle at 25% 30%, rgba(168,85,247,0.7), transparent 50%), radial-gradient(circle at 85% 75%, rgba(236,72,153,0.6), transparent 50%)'}} />
-    <div style={{position: 'absolute', right: 40, top: 60, fontSize: 380, lineHeight: 1, filter: 'drop-shadow(0 0 40px rgba(253,224,71,0.6))'}}>{story.thumbEmoji ?? '🏆'}</div>
-    <div style={{position: 'absolute', left: 60, top: 70, width: 780, fontFamily: FONT, fontWeight: 900, fontSize: 104, lineHeight: 0.98, color: N.white, textShadow: '0 6px 0 #000, 0 0 40px rgba(236,72,153,0.8)'}}>
-      <Highlighted text={story.thumbText ?? story.title} accent={N.yellow} />
-    </div>
-    <div style={{position: 'absolute', left: 60, bottom: 60, fontFamily: FONT, fontWeight: 900, fontSize: 56, color: N.bg, background: N.yellow, padding: '8px 28px', borderRadius: 16, transform: 'rotate(-3deg)', boxShadow: glow(N.yellow, 24)}}>
-      {story.hook ?? `${story.questions.length} QUESTIONS`}
-    </div>
-  </AbsoluteFill>
+type ThumbProps = QuizStory & {thumbText?: string; thumbEmoji?: string; thumbVariant?: 'A' | 'B' | 'C'; thumbPuzzle?: string[]; thumbTexts?: string[]; thumbBadge?: string};
+
+const EMOJI_FONT = '"Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", sans-serif';
+
+const PuzzleRow: React.FC<{tiles: string[]; size: number; tile: React.CSSProperties; q: React.CSSProperties; op: string}> = ({tiles, size, tile, q, op}) => (
+  <div style={{display: 'flex', alignItems: 'center', gap: size * 0.1}}>
+    {tiles.map((t, i) => (
+      <React.Fragment key={i}>
+        {i > 0 && <div style={{fontFamily: FONT, fontWeight: 900, fontSize: size * 0.5, color: op, textShadow: '0 6px 0 #000'}}>+</div>}
+        <div style={{width: size, height: size, borderRadius: size * 0.17, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: EMOJI_FONT, fontSize: t.length > 4 ? size * 0.3 : size * 0.7, ...tile}}>{t}</div>
+      </React.Fragment>
+    ))}
+    <div style={{fontFamily: FONT, fontWeight: 900, fontSize: size * 0.5, color: op, textShadow: '0 6px 0 #000'}}>=</div>
+    <div style={{width: size, height: size, borderRadius: size * 0.17, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: FONT, fontWeight: 900, fontSize: size * 0.75, ...q}}>?</div>
+  </div>
 );
+
+export const QuizThumb: React.FC<ThumbProps> = (story) => {
+  const v = story.thumbVariant ?? 'A';
+  const texts = story.thumbTexts ?? [];
+  const text = (v === 'A' ? texts[0] : v === 'B' ? texts[1] : texts[2]) ?? story.thumbText ?? story.title;
+  const emoji = story.thumbEmoji ?? '🏆';
+  const puzzle = story.thumbPuzzle && story.thumbPuzzle.length ? story.thumbPuzzle : null;
+  const badge = story.thumbBadge ?? story.hook ?? `${story.questions.length} QUESTIONS`;
+  if (v === 'B') {
+    return (
+      <AbsoluteFill style={{background: '#FFD400', overflow: 'hidden'}}>
+        <AbsoluteFill style={{top: -400, left: -400, right: -400, bottom: -400, background: 'repeating-conic-gradient(from 0deg at 50% 50%, #FFE45C 0 10deg, #FFD400 10deg 20deg)'}} />
+        <div style={{position: 'absolute', left: 30, right: 30, top: 30, textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: 112, lineHeight: 0.95, color: '#111', textShadow: '6px 6px 0 #fff'}}>
+          <Highlighted text={text} accent="#E11D48" />
+        </div>
+        <div style={{position: 'absolute', left: 0, right: 0, top: 290, display: 'flex', justifyContent: 'center'}}>
+          {puzzle ? (
+            <PuzzleRow tiles={puzzle} size={230} op="#111" tile={{background: '#fff', border: '8px solid #111', boxShadow: '12px 12px 0 #111'}} q={{background: '#E11D48', color: '#fff', border: '8px solid #111', boxShadow: '12px 12px 0 #111'}} />
+          ) : (
+            <div style={{fontFamily: EMOJI_FONT, fontSize: 260, lineHeight: 1}}>{emoji}</div>
+          )}
+        </div>
+        <div style={{position: 'absolute', left: 0, right: 0, bottom: 0, height: 96, background: '#111', color: '#FFD400', fontFamily: FONT, fontWeight: 900, fontSize: 52, display: 'flex', alignItems: 'center', justifyContent: 'center', whiteSpace: 'nowrap'}}>{badge}</div>
+      </AbsoluteFill>
+    );
+  }
+  if (v === 'C') {
+    return (
+      <AbsoluteFill style={{background: '#0A0A0A', overflow: 'hidden'}}>
+        <AbsoluteFill style={{background: 'radial-gradient(circle at 75% 45%, rgba(239,68,68,0.8), transparent 55%)'}} />
+        <div style={{position: 'absolute', right: 30, top: 40, fontFamily: EMOJI_FONT, fontSize: 420, lineHeight: 1, filter: 'drop-shadow(0 0 60px rgba(239,68,68,0.9))'}}>🤯</div>
+        <div style={{position: 'absolute', left: 56, top: 56, width: 860, fontFamily: FONT, fontWeight: 900, fontSize: 132, lineHeight: 0.95, color: N.white, textShadow: '0 8px 0 #000'}}>
+          <Highlighted text={text} accent={N.red} />
+        </div>
+        <div style={{position: 'absolute', left: 56, bottom: 56}}>
+          {puzzle ? (
+            <PuzzleRow tiles={puzzle} size={170} op="#fff" tile={{background: '#1f1f1f', border: '5px solid #fff'}} q={{background: '#fff', color: '#0A0A0A'}} />
+          ) : (
+            <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 60, color: N.white, background: N.red, padding: '10px 30px', borderRadius: 16, border: '5px solid #fff'}}>{badge}</div>
+          )}
+        </div>
+      </AbsoluteFill>
+    );
+  }
+  return (
+    <AbsoluteFill style={{background: N.bg, overflow: 'hidden'}}>
+      <AbsoluteFill style={{background: 'radial-gradient(circle at 20% 25%, rgba(168,85,247,0.75), transparent 50%), radial-gradient(circle at 85% 80%, rgba(236,72,153,0.65), transparent 50%)'}} />
+      <div style={{position: 'absolute', right: 36, top: 50, fontFamily: EMOJI_FONT, fontSize: puzzle ? 250 : 380, lineHeight: 1, transform: 'rotate(8deg)', filter: 'drop-shadow(0 0 40px rgba(253,224,71,0.6))'}}>{emoji}</div>
+      <div style={{position: 'absolute', left: 56, top: 40, width: puzzle ? 900 : 780, fontFamily: FONT, fontWeight: 900, fontSize: puzzle ? 112 : 104, lineHeight: 0.96, color: N.white, textShadow: '0 7px 0 #000, 0 0 40px rgba(236,72,153,0.9)'}}>
+        <Highlighted text={text} accent={N.yellow} />
+      </div>
+      {puzzle && (
+        <div style={{position: 'absolute', left: 56, top: 330}}>
+          <PuzzleRow tiles={puzzle} size={200} op="#fff" tile={{background: 'rgba(255,255,255,0.08)', border: `6px solid ${N.cyan}`, boxShadow: glow(N.cyan, 30)}} q={{background: N.yellow, color: N.bg, boxShadow: glow(N.yellow, 30)}} />
+        </div>
+      )}
+      <div style={{position: 'absolute', right: 40, bottom: 36, fontFamily: FONT, fontWeight: 900, fontSize: 52, color: N.white, background: N.red, padding: '10px 30px', borderRadius: 18, transform: 'rotate(-4deg)', border: '5px solid #fff', boxShadow: '0 8px 0 #000'}}>
+        {badge}
+      </div>
+    </AbsoluteFill>
+  );
+};

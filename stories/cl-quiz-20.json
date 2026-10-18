@@ -342,5 +342,11 @@
  ],
  "audio": "audio/cl-quiz-20.mp3",
  "outroStart": 183.412,
- "durationInSeconds": 183.412
+ "durationInSeconds": 183.412,
+ "thumbTexts": [
+  "CHAMPIONS LEAGUE **QUIZ**",
+  "ONLY REAL FANS GET **20/20**",
+  "CAN YOU GET **20/20**?"
+ ],
+ "thumbBadge": "20 QUESTIONS ⚽ EASY → LEGEND"
 }

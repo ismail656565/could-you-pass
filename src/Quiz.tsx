@@ -82,6 +82,10 @@ export type QuizStory = {
   /** Vorschaubild-Text für lange Videos */
   thumbText?: string;
   thumbEmoji?: string;
+  thumbVariant?: 'A' | 'B' | 'C';
+  thumbPuzzle?: string[];
+  thumbTexts?: string[];
+  thumbBadge?: string;
   /** langes Video: bei welcher Frage (Index) die Abo-Einblendung kommt */
   midCtaIndex?: number;
   midCtaText?: string;

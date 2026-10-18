@@ -452,5 +452,16 @@
  "uploaded": {
   "videoId": "kgWV2rM_BLc",
   "at": "2026-10-18T15:56"
+ },
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-10-18",
+  "results": {},
+  "done": false
  }
 }

@@ -298,6 +298,92 @@ def fmt_of(item):
     return 'long' if item.get('story', {}).get('format') == 'long' else 'short'
 
 
+THUMBS = AP / 'thumbs'
+
+
+def render_thumbs(name, story):
+    """3 Vorschaubild-Varianten (A neon, B gelb-comic, C rot-challenge) für den automatischen Thumbnail-Test"""
+    THUMBS.mkdir(parents=True, exist_ok=True)
+    out = []
+    for v in ('A', 'B', 'C'):
+        f = THUMBS / f'{name}-{v}.jpg'
+        props = ROOT / 'out' / f'.thumb-{name}-{v}.json'
+        props.parent.mkdir(exist_ok=True)
+        props.write_text(json.dumps({**story, 'thumbVariant': v}, ensure_ascii=False), encoding='utf-8')
+        subprocess.run(['npx', 'remotion', 'still', 'QuizThumb', str(f), f'--props={props}', '--jpeg-quality=90'], cwd=ROOT, shell=(os.name == 'nt'))
+        if f.exists():
+            out.append((v, str(f)))
+        else:
+            log(f'Vorschaubild {v} nicht gerendert')
+    return out
+
+
+def thumb_score(a, vid, start, end):
+    """Klickrate (CTR) des Vorschaubilds im Zeitraum; falls die API das nicht liefert: Aufrufe pro Tag"""
+    try:
+        rep = a.reports().query(ids='channel==MINE', startDate=start, endDate=end, filters=f'video=={vid}',
+                                metrics='videoThumbnailImpressions,videoThumbnailImpressionsClickRate').execute()
+        row = (rep.get('rows') or [[0, 0]])[0]
+        return {'impressions': int(row[0] or 0), 'ctr': round(float(row[1] or 0), 4), 'metric': 'ctr'}
+    except Exception as ex:
+        rep = a.reports().query(ids='channel==MINE', startDate=start, endDate=end, filters=f'video=={vid}', metrics='views').execute()
+        views = int(((rep.get('rows') or [[0]])[0])[0] or 0)
+        days = max(1, (dt.date.fromisoformat(end) - dt.date.fromisoformat(start)).days)
+        return {'views': views, 'ctr': round(views / days, 2), 'metric': 'views/day', 'note': str(ex)[:120]}
+
+
+def thumb_rotate():
+    """Automatischer Thumbnail-Test für lange Videos: jede Variante ~3 Tage, danach die beste behalten"""
+    from googleapiclient.http import MediaFileUpload
+    TEST_DAYS, MIN_IMPR, MAX_DAYS = 4, 200, 8  # Analytics hängt 2–3 Tage hinterher
+    today = dt.date.today()
+    a = y = None
+    for d in sorted(DONE.glob('*.json')):
+        item = json.loads(d.read_text(encoding='utf-8'))
+        t = item.get('thumbTest')
+        vid = item.get('uploaded', {}).get('videoId')
+        if not t or t.get('done') or not vid:
+            continue
+        st_file = ROOT / 'stories' / f"{item['id']}.json"
+        if any(not (THUMBS / f"{item['id']}-{v}.jpg").exists() for v in t['order']) and st_file.exists():
+            render_thumbs(item['id'], json.loads(st_file.read_text(encoding='utf-8')))
+        since = dt.date.fromisoformat(t['since'])
+        age = (today - since).days
+        if age < TEST_DAYS:
+            continue
+        a = a or yta()
+        y = y or yt()
+        try:
+            sc = thumb_score(a, vid, t['since'], today.isoformat())
+        except Exception as ex:
+            log('Thumbnail-Test: Abfrage fehlgeschlagen', vid, str(ex)[:200])
+            continue
+        if sc.get('metric') == 'ctr' and sc['impressions'] < MIN_IMPR and age < MAX_DAYS:
+            log(f"Thumbnail-Test {item['id']}: Variante {t['current']} erst {sc['impressions']} Impressionen – warte noch")
+            continue
+        t['results'][t['current']] = {**sc, 'from': t['since'], 'to': today.isoformat()}
+        log(f"Thumbnail-Test {item['id']}: Variante {t['current']} → {sc}")
+        rest = [v for v in t['order'] if v not in t['results']]
+        if rest:
+            nxt = rest[0]
+        else:
+            nxt = max(t['results'], key=lambda v: t['results'][v]['ctr'])
+            t['done'] = True
+            t['winner'] = nxt
+        f = THUMBS / f"{item['id']}-{nxt}.jpg"
+        if f.exists() and (nxt != t['current'] or not t.get('done')):
+            try:
+                y.thumbnails().set(videoId=vid, media_body=MediaFileUpload(str(f))).execute()
+                log(f"Thumbnail-Test {item['id']}: jetzt Variante {nxt}" + (' (Gewinner)' if t.get('done') else ''))
+            except Exception as ex:
+                log('Thumbnail setzen fehlgeschlagen:', str(ex)[:200])
+                continue
+        t['current'] = nxt
+        t['since'] = today.isoformat()
+        item['thumbTest'] = t
+        d.write_text(json.dumps(item, indent=1, ensure_ascii=False), encoding='utf-8')
+
+
 def produce_one(p):
     item = json.loads(p.read_text(encoding='utf-8'))
     name = item['id']
@@ -313,11 +399,11 @@ def produce_one(p):
             raise RuntimeError('Rendern fehlgeschlagen')
         log('Gerendert')
         if story.get('format') == 'long':
-            thumb = ROOT / 'out' / f'{name}-thumb.jpg'
-            props = ROOT / 'out' / f'.thumb-{name}.json'
-            props.write_text(json.dumps(story, ensure_ascii=False), encoding='utf-8')
-            subprocess.run(['npx', 'remotion', 'still', 'QuizThumb', str(thumb), f'--props={props}'], cwd=ROOT, shell=(os.name == 'nt'))
-            item['_thumb'] = str(thumb)
+            variants = render_thumbs(name, story)
+            if variants:
+                item['_thumb'] = variants[0][1]
+                item['thumbTest'] = {'order': [v for v, _ in variants], 'current': variants[0][0],
+                                     'since': dt.date.today().isoformat(), 'results': {}, 'done': False}
         vid = upload(item, mp4)
         item['uploaded'] = {'videoId': vid, 'at': dt.datetime.now().isoformat(timespec='minutes')}
         DONE.mkdir(exist_ok=True)
@@ -379,11 +465,19 @@ def main():
         analytics()
     elif cmd == 'produce':
         produce()
+    elif cmd == 'thumbs':
+        # nur Vorschaubilder rendern: python autopilot.py thumbs stories/<id>.json
+        st = json.loads(Path(sys.argv[2]).read_text(encoding='utf-8'))
+        log('Thumbnails:', render_thumbs(Path(sys.argv[2]).stem, st))
     else:
         try:
             analytics()
         except Exception:
             log('Analytics-FEHLER:', traceback.format_exc())
+        try:
+            thumb_rotate()
+        except Exception:
+            log('Thumbnail-Test-FEHLER:', traceback.format_exc())
         produce()
 
 
