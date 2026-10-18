@@ -91,7 +91,7 @@ def creds():
         c.refresh(Request())
     else:
         flow = InstalledAppFlow.from_client_secrets_file(str(AP / 'client_secret.json'), SCOPES)
-        c = flow.run_local_server(port=0, access_type='offline', prompt='consent')
+        c = flow.run_local_server(port=0, access_type='offline', prompt='select_account consent')
     tok.write_text(c.to_json(), encoding='utf-8')
     return c
 
