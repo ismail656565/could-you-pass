@@ -1,0 +1,172 @@
+{
+  "type": "quiz",
+  "title": "Could You Pass This IQ Test?",
+  "header": "IQ TEST",
+  "questionLabel": "QUESTION",
+  "ofLabel": "OF",
+  "correctLabel": "CORRECT!",
+  "stripe": [
+    "#FFC93C",
+    "#FFFFFF",
+    "#3B5BDB"
+  ],
+  "audio": "audio/iq-test-1.mp3",
+  "music": "sfx/tension-loop.wav",
+  "musicVolume": 0.06,
+  "questions": [
+    {
+      "q": "What comes next?",
+      "cardText": "2 · 4 · 8 · 16 · ?",
+      "answers": [
+        "24",
+        "30",
+        "32",
+        "36"
+      ],
+      "correct": 2,
+      "start": 0.0,
+      "countdownStart": 8.186,
+      "reveal": 11.186,
+      "end": 12.469
+    },
+    {
+      "q": "What comes next?",
+      "cardText": "1 · 1 · 2 · 3 · 5 · 8 · ?",
+      "answers": [
+        "11",
+        "13",
+        "12",
+        "15"
+      ],
+      "correct": 1,
+      "start": 12.469,
+      "countdownStart": 17.82,
+      "reveal": 20.82,
+      "end": 22.115
+    },
+    {
+      "q": "Which one doesn't belong?",
+      "cardText": "🍎 🍌 🍒 🥕",
+      "answers": [
+        "🍎 Apple",
+        "🍌 Banana",
+        "🍒 Cherry",
+        "🥕 Carrot"
+      ],
+      "correct": 3,
+      "start": 22.115,
+      "countdownStart": 23.769,
+      "reveal": 26.769,
+      "end": 29.299
+    },
+    {
+      "q": "All Bloops are Razzies. All Razzies are Lazzies. Are all Bloops Lazzies?",
+      "cardText": "BLOOP → RAZZIE → LAZZIE",
+      "answers": [
+        "Yes",
+        "No",
+        "Only some",
+        "Can't tell"
+      ],
+      "correct": 0,
+      "start": 29.299,
+      "countdownStart": 35.092,
+      "reveal": 38.092,
+      "end": 39.129
+    },
+    {
+      "q": "A bat and a ball cost $1.10. The bat costs $1 more than the ball. How much is the ball?",
+      "cardText": "🏏 + ⚾ = $1.10",
+      "answers": [
+        "10¢",
+        "5¢",
+        "1¢",
+        "15¢"
+      ],
+      "correct": 1,
+      "start": 39.129,
+      "countdownStart": 46.168,
+      "reveal": 49.168,
+      "end": 51.649
+    },
+    {
+      "q": "Which letter comes next?",
+      "cardText": "J · F · M · A · M · ?",
+      "answers": [
+        "A",
+        "N",
+        "J",
+        "S"
+      ],
+      "correct": 2,
+      "start": 51.649,
+      "countdownStart": 56.648,
+      "reveal": 59.648,
+      "end": 62.594
+    },
+    {
+      "q": "Mary's father has 5 daughters: Nana, Nene, Nini, Nono… What's the 5th daughter's name?",
+      "cardText": "NANA · NENE · NINI · NONO · ?",
+      "answers": [
+        "Nunu",
+        "Nina",
+        "Nancy",
+        "Mary"
+      ],
+      "correct": 3,
+      "start": 62.594,
+      "countdownStart": 69.49,
+      "reveal": 72.49,
+      "end": 73.515
+    },
+    {
+      "q": "What comes next?",
+      "cardText": "3 · 6 · 11 · 18 · 27 · ?",
+      "answers": [
+        "36",
+        "38",
+        "40",
+        "35"
+      ],
+      "correct": 1,
+      "start": 73.515,
+      "countdownStart": 78.775,
+      "reveal": 81.775,
+      "end": 83.103
+    },
+    {
+      "q": "How many months have 28 days?",
+      "cardText": "📅 28 DAYS?",
+      "answers": [
+        "1",
+        "2",
+        "12",
+        "6"
+      ],
+      "correct": 2,
+      "start": 83.103,
+      "countdownStart": 85.322,
+      "reveal": 88.322,
+      "end": 89.616
+    },
+    {
+      "q": "5 machines make 5 widgets in 5 minutes. How long do 100 machines need for 100 widgets?",
+      "cardText": "⚙️ 5 → 5 min",
+      "answers": [
+        "5 min",
+        "100 min",
+        "20 min",
+        "1 min"
+      ],
+      "correct": 0,
+      "start": 89.616,
+      "countdownStart": 97.349,
+      "reveal": 100.349,
+      "end": 101.735
+    }
+  ],
+  "outroStart": 101.735,
+  "outroText": "How many did you get right?",
+  "outroSub": "Tell me in the comments 👇",
+  "durationInSeconds": 104.81
+}

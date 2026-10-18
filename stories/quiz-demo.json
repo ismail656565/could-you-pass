@@ -1,0 +1,18 @@
+{
+  "type": "quiz",
+  "title": "Würdest du den Deutschland-Test bestehen?",
+  "header": "DEUTSCHLAND-TEST",
+  "music": "sfx/tension-loop.wav",
+  "musicVolume": 0.06,
+  "questions": [
+    {"q": "Wie viele Bundesländer hat Deutschland?", "answers": ["12", "14", "16", "18"], "correct": 2, "start": 0, "countdownStart": 3.6, "reveal": 6.6, "end": 8.0},
+    {"q": "Wer wählt den Bundeskanzler?", "answers": ["Das Volk", "Der Bundestag", "Der Bundesrat", "Der Bundespräsident"], "correct": 1, "start": 8.0, "countdownStart": 10.0, "reveal": 13.0, "end": 14.4},
+    {"q": "In welchem Jahr fiel die Berliner Mauer?", "answers": ["1989", "1987", "1991", "1990"], "correct": 0, "start": 14.4, "countdownStart": 16.9, "reveal": 19.9, "end": 21.6},
+    {"q": "Wie beginnt Artikel 1 des Grundgesetzes?", "answers": ["Alle Menschen sind vor dem Gesetz gleich", "Jeder hat das Recht auf Leben", "Alle Staatsgewalt geht vom Volke aus", "Die Würde des Menschen ist unantastbar"], "correct": 3, "start": 21.6, "countdownStart": 24.0, "reveal": 27.0, "end": 29.4},
+    {"q": "Wie viele Sitze hat der Bundestag seit der Wahl 2025?", "answers": ["598", "630", "709", "736"], "correct": 1, "start": 29.4, "countdownStart": 32.4, "reveal": 35.4, "end": 36.8}
+  ],
+  "outroStart": 36.8,
+  "outroText": "Wie viele hattest du richtig?",
+  "outroSub": "Schreib's in die Kommentare 👇",
+  "durationInSeconds": 39.6
+}

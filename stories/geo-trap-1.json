@@ -1,0 +1,159 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "8 Geography Questions 90% Get Wrong 🌍",
+ "header": "GEOGRAPHY",
+ "hook": "90% GET THESE WRONG 😏",
+ "teaser": "WAIT FOR #8 🤯",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "📍",
+ "cardColors": [
+  "#3B0764",
+  "#12001F"
+ ],
+ "audio": "audio/geo-trap-1.mp3",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "questions": [
+  {
+   "q": "Which country has the most **pyramids**?",
+   "cardText": "🔺 🔺 🔺",
+   "answers": [
+    "Egypt",
+    "Mexico",
+    "Sudan",
+    "Peru"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "start": 0.0,
+   "countdownStart": 4.217,
+   "reveal": 6.717,
+   "end": 9.4
+  },
+  {
+   "q": "Which country has the most **time zones**?",
+   "cardText": "🕐  🕓  🕗",
+   "answers": [
+    "Russia",
+    "France",
+    "USA",
+    "China"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "start": 9.4,
+   "countdownStart": 11.637,
+   "reveal": 14.137,
+   "end": 16.701
+  },
+  {
+   "q": "What's the capital of **Australia**?",
+   "cardText": "🦘  🐨",
+   "answers": [
+    "Sydney",
+    "Melbourne",
+    "Perth",
+    "Canberra"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "revealImage": "bilder/cap-city-canberra.jpg",
+   "revealCaption": "CANBERRA",
+   "start": 16.701,
+   "countdownStart": 18.505,
+   "reveal": 21.005,
+   "end": 23.516
+  },
+  {
+   "q": "What's the **biggest** country in Africa?",
+   "cardText": "🌍",
+   "answers": [
+    "Algeria",
+    "Nigeria",
+    "Egypt",
+    "DR Congo"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "start": 23.516,
+   "countdownStart": 25.702,
+   "reveal": 28.202,
+   "end": 29.938
+  },
+  {
+   "q": "Which country has the most **lakes**?",
+   "cardText": "💧 🏞️ 💧",
+   "answers": [
+    "Finland",
+    "Canada",
+    "Russia",
+    "Sweden"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "revealImage": "bilder/cap-flag-canada.jpg",
+   "revealCaption": "CANADA",
+   "start": 29.938,
+   "countdownStart": 31.851,
+   "reveal": 34.351,
+   "end": 37.594
+  },
+  {
+   "q": "What's the capital of **Turkey**?",
+   "cardText": "🕌  🧿",
+   "answers": [
+    "Istanbul",
+    "Izmir",
+    "Ankara",
+    "Antalya"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "revealImage": "bilder/cap-city-ankara.jpg",
+   "revealCaption": "ANKARA",
+   "start": 37.594,
+   "countdownStart": 39.198,
+   "reveal": 41.698,
+   "end": 44.276
+  },
+  {
+   "q": "Which country has the most **islands**?",
+   "cardText": "🏝️ 🏝️ 🏝️",
+   "answers": [
+    "Indonesia",
+    "Philippines",
+    "Norway",
+    "Sweden"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "start": 44.276,
+   "countdownStart": 46.29,
+   "reveal": 48.79,
+   "end": 52.188
+  },
+  {
+   "q": "Which US state is closest to **Africa**?",
+   "cardText": "🗽 ➡️ 🌍",
+   "answers": [
+    "Florida",
+    "Maine",
+    "Texas",
+    "New York"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "start": 52.188,
+   "countdownStart": 55.439,
+   "reveal": 57.939,
+   "end": 60.612
+  }
+ ],
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "outroStart": 60.612,
+ "durationInSeconds": 60.612
+}

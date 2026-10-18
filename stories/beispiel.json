@@ -1,0 +1,24 @@
+{
+  "title": "She Fell 33,330 Feet Without a Parachute — and Lived",
+  "durationInSeconds": 30,
+  "audio": "",
+  "script": "January 26, 1972. Flight attendant Vesna Vulović is working JAT Flight 367 over Czechoslovakia. At 33,330 feet, the plane breaks apart. Twenty-seven people die. Vesna falls. No parachute. A villager finds her in the wreckage, still alive. Skull, legs, spine. All broken. She survives. And Guinness still lists it as the highest fall ever survived without a parachute.",
+  "scenes": [
+    {"start": 0, "end": 4, "kind": "archive", "src": "", "label": "ARCHIVE 1972"},
+    {"start": 4, "end": 9, "kind": "video", "src": ""},
+    {"start": 9, "end": 15, "kind": "video", "src": ""},
+    {"start": 15, "end": 20, "kind": "image", "src": "", "zoom": "in"},
+    {"start": 20, "end": 25, "kind": "archive", "src": "", "label": "HOSPITAL · 1972"},
+    {"start": 25, "end": 30, "kind": "image", "src": "", "zoom": "out"}
+  ],
+  "datelines": [
+    {"start": 0.3, "end": 3.9, "text": "26 JAN 1972 · CZECHOSLOVAKIA"}
+  ],
+  "counters": [
+    {"start": 9, "end": 15, "from": 33330, "to": 0, "unit": "FT", "label": "ALTITUDE"}
+  ],
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/highest-fall-survived-without-parachute",
+    "https://en.wikipedia.org/wiki/JAT_Flight_367"
+  ]
+}

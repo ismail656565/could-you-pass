@@ -1,0 +1,166 @@
+{
+ "type": "quiz",
+ "title": "Only 1% Can Guess All 8 Movies 🍿",
+ "header": "🍿 MOVIES",
+ "hook": "ONLY 1% GET 8/8 😏",
+ "correctLabel": "CORRECT!",
+ "cardColors": [
+  "#1E1B4B",
+  "#0F0A2E"
+ ],
+ "audio": "audio/movies-1.mp3",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "questions": [
+  {
+   "q": "Guess the **movie**!",
+   "cardText": "🏠  🎈  👴",
+   "answers": [
+    "Coco",
+    "Up",
+    "Toy Story",
+    "Home Alone"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "revealImage": "bilder/mv-up.jpg",
+   "revealCaption": "UP",
+   "start": 0.0,
+   "countdownStart": 0.815,
+   "reveal": 3.315,
+   "end": 4.951
+  },
+  {
+   "q": "Guess the **movie**!",
+   "cardText": "🦖  🏝️",
+   "answers": [
+    "Jurassic Park",
+    "King Kong",
+    "Godzilla",
+    "Moana"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "revealImage": "bilder/mv-jp.jpg",
+   "revealCaption": "JURASSIC PARK",
+   "start": 4.951,
+   "countdownStart": 5.754,
+   "reveal": 8.254,
+   "end": 10.537
+  },
+  {
+   "q": "Guess the **movie**!",
+   "cardText": "🚢  🧊  💔",
+   "answers": [
+    "Frozen",
+    "Jaws",
+    "Avatar",
+    "Titanic"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "revealImage": "bilder/mv-titanic.jpg",
+   "revealCaption": "TITANIC",
+   "start": 10.537,
+   "countdownStart": 11.397,
+   "reveal": 13.897,
+   "end": 15.712
+  },
+  {
+   "q": "Guess the **movie**!",
+   "cardText": "🐀  👨‍🍳",
+   "answers": [
+    "Stuart Little",
+    "Ratatouille",
+    "Chef",
+    "Paddington"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "revealImage": "bilder/mv-rat.jpg",
+   "revealCaption": "RATATOUILLE",
+   "start": 15.712,
+   "countdownStart": 16.612,
+   "reveal": 19.112,
+   "end": 20.944
+  },
+  {
+   "q": "Guess the **movie**!",
+   "cardText": "🧙‍♂️  💍  🌋",
+   "answers": [
+    "Harry Potter",
+    "Narnia",
+    "Lord of the Rings",
+    "Dune"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "revealImage": "bilder/mv-hobbiton.jpg",
+   "revealCaption": "LORD OF THE RINGS",
+   "start": 20.944,
+   "countdownStart": 21.898,
+   "reveal": 24.398,
+   "end": 26.652
+  },
+  {
+   "q": "Guess the **movie**!",
+   "cardText": "⏰  🔙  🚗",
+   "answers": [
+    "Cars",
+    "Interstellar",
+    "Fast & Furious",
+    "Back to the Future"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "revealImage": "bilder/mv-delorean.jpg",
+   "revealCaption": "BACK TO THE FUTURE",
+   "start": 26.652,
+   "countdownStart": 27.566,
+   "reveal": 30.066,
+   "end": 32.08
+  },
+  {
+   "q": "Guess the **movie**!",
+   "cardText": "🤖  🌱  ❤️",
+   "answers": [
+    "WALL-E",
+    "Big Hero 6",
+    "I, Robot",
+    "Transformers"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "start": 32.08,
+   "countdownStart": 32.939,
+   "reveal": 35.439,
+   "end": 37.083
+  },
+  {
+   "q": "Guess the **movie**!",
+   "cardText": "👊  🧼",
+   "answers": [
+    "Rocky",
+    "Creed",
+    "Fight Club",
+    "Snatch"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "revealImage": "bilder/mv-soap.jpg",
+   "revealCaption": "FIGHT CLUB",
+   "start": 37.083,
+   "countdownStart": 39.73,
+   "reveal": 42.23,
+   "end": 44.073
+  }
+ ],
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "revealIcon": "🎬",
+ "teaser": "WAIT FOR #8 🤯",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "outroStart": 44.073,
+ "durationInSeconds": 44.073
+}

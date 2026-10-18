@@ -1,0 +1,168 @@
+{
+ "type": "quiz",
+ "title": "Only 1% Can Guess All 8 Countries 🌍",
+ "header": "🌍 COUNTRIES",
+ "hook": "ONLY 1% GET 8/8 😏",
+ "teaser": "WAIT FOR #8 🤯",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "cardColors": [
+  "#0E7490",
+  "#164E63"
+ ],
+ "audio": "audio/countries-1.mp3",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "questions": [
+  {
+   "q": "Guess the **country**!",
+   "cardText": "🍕  🛵  🏛️",
+   "answers": [
+    "Spain",
+    "Italy",
+    "Greece",
+    "France"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "revealImage": "bilder/cap-flag-italy.jpg",
+   "revealCaption": "ITALY",
+   "start": 0.0,
+   "countdownStart": 2.129,
+   "reveal": 4.629,
+   "end": 6.161
+  },
+  {
+   "q": "Guess the **country**!",
+   "cardText": "🥐  🗼  🍷",
+   "answers": [
+    "France",
+    "Belgium",
+    "Italy",
+    "Canada"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "revealImage": "bilder/cap-flag-france.jpg",
+   "revealCaption": "FRANCE",
+   "start": 6.161,
+   "countdownStart": 7.03,
+   "reveal": 9.53,
+   "end": 11.191
+  },
+  {
+   "q": "Guess the **country**!",
+   "cardText": "🍣  🗻  🌸",
+   "answers": [
+    "China",
+    "Korea",
+    "Japan",
+    "Thailand"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "revealImage": "bilder/cap-flag-japan.jpg",
+   "revealCaption": "JAPAN",
+   "start": 11.191,
+   "countdownStart": 12.103,
+   "reveal": 14.603,
+   "end": 16.285
+  },
+  {
+   "q": "Guess the **country**!",
+   "cardText": "🦘  🏄  🐨",
+   "answers": [
+    "New Zealand",
+    "South Africa",
+    "USA",
+    "Australia"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "revealImage": "bilder/cap-flag-australia.jpg",
+   "revealCaption": "AUSTRALIA",
+   "start": 16.285,
+   "countdownStart": 17.191,
+   "reveal": 19.691,
+   "end": 21.458
+  },
+  {
+   "q": "Guess the **country**!",
+   "cardText": "🍁  🏒  🐻",
+   "answers": [
+    "Russia",
+    "Canada",
+    "Norway",
+    "Finland"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "revealImage": "bilder/cap-flag-canada.jpg",
+   "revealCaption": "CANADA",
+   "start": 21.458,
+   "countdownStart": 22.444,
+   "reveal": 24.944,
+   "end": 26.506
+  },
+  {
+   "q": "Guess the **country**!",
+   "cardText": "⚽  🦜  🎭",
+   "answers": [
+    "Argentina",
+    "Mexico",
+    "Brazil",
+    "Colombia"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "revealImage": "bilder/cap-flag-brazil.jpg",
+   "revealCaption": "BRAZIL",
+   "start": 26.506,
+   "countdownStart": 27.417,
+   "reveal": 29.917,
+   "end": 31.513
+  },
+  {
+   "q": "Guess the **country**!",
+   "cardText": "🧀  ⌚  🏔️",
+   "answers": [
+    "Switzerland",
+    "Austria",
+    "Netherlands",
+    "Norway"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "revealImage": "bilder/cap-flag-switzerland.jpg",
+   "revealCaption": "SWITZERLAND",
+   "start": 31.513,
+   "countdownStart": 32.408,
+   "reveal": 34.908,
+   "end": 36.716
+  },
+  {
+   "q": "Guess the **country**!",
+   "cardText": "🧿  🎈  ☕",
+   "answers": [
+    "Greece",
+    "Egypt",
+    "Morocco",
+    "Turkey"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "revealImage": "bilder/cap-flag-turkey.jpg",
+   "revealCaption": "TURKEY",
+   "start": 36.716,
+   "countdownStart": 39.404,
+   "reveal": 41.904,
+   "end": 43.557
+  }
+ ],
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "outroStart": 43.557,
+ "durationInSeconds": 43.557
+}

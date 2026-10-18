@@ -1,0 +1,203 @@
+{
+  "type": "quiz",
+  "title": "Can You Name These Capitals?",
+  "header": "CAPITALS QUIZ",
+  "questionLabel": "QUESTION",
+  "ofLabel": "OF",
+  "correctLabel": "CORRECT!",
+  "stripe": [
+    "#22C55E",
+    "#F97316",
+    "#E63946"
+  ],
+  "audio": "audio/capitals-1.mp3",
+  "music": "sfx/tension-loop.wav",
+  "musicVolume": 0.06,
+  "questions": [
+    {
+      "q": "What's the capital of France?",
+      "answers": [
+        "Lyon",
+        "Paris",
+        "Nice",
+        "Marseille"
+      ],
+      "correct": 1,
+      "level": "EASY",
+      "image": "bilder/cap-flag-france.jpg",
+      "revealImage": "bilder/cap-city-paris.jpg",
+      "revealCaption": "PARIS",
+      "start": 0.0,
+      "countdownStart": 4.687,
+      "reveal": 7.687,
+      "end": 9.424
+    },
+    {
+      "q": "What's the capital of Japan?",
+      "answers": [
+        "Osaka",
+        "Kyoto",
+        "Tokyo",
+        "Yokohama"
+      ],
+      "correct": 2,
+      "level": "EASY",
+      "image": "bilder/cap-flag-japan.jpg",
+      "revealImage": "bilder/cap-city-tokyo.jpg",
+      "revealCaption": "TOKYO",
+      "start": 9.424,
+      "countdownStart": 11.061,
+      "reveal": 14.061,
+      "end": 15.797
+    },
+    {
+      "q": "What's the capital of Italy?",
+      "answers": [
+        "Rome",
+        "Milan",
+        "Venice",
+        "Naples"
+      ],
+      "correct": 0,
+      "level": "EASY",
+      "image": "bilder/cap-flag-italy.jpg",
+      "revealImage": "bilder/cap-city-rome.jpg",
+      "revealCaption": "ROME",
+      "start": 15.797,
+      "countdownStart": 17.429,
+      "reveal": 20.429,
+      "end": 22.179
+    },
+    {
+      "q": "What's the capital of Australia?",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Perth",
+        "Canberra"
+      ],
+      "correct": 3,
+      "level": "MEDIUM",
+      "image": "bilder/cap-flag-australia.jpg",
+      "revealImage": "bilder/cap-city-canberra.jpg",
+      "revealCaption": "CANBERRA",
+      "start": 22.179,
+      "countdownStart": 25.458,
+      "reveal": 28.458,
+      "end": 31.528
+    },
+    {
+      "q": "What's the capital of Canada?",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Vancouver",
+        "Montreal"
+      ],
+      "correct": 1,
+      "level": "MEDIUM",
+      "image": "bilder/cap-flag-canada.jpg",
+      "revealImage": "bilder/cap-city-ottawa.jpg",
+      "revealCaption": "OTTAWA",
+      "start": 31.528,
+      "countdownStart": 33.161,
+      "reveal": 36.161,
+      "end": 37.834
+    },
+    {
+      "q": "What's the capital of Turkey?",
+      "answers": [
+        "Istanbul",
+        "Izmir",
+        "Ankara",
+        "Antalya"
+      ],
+      "correct": 2,
+      "level": "MEDIUM",
+      "image": "bilder/cap-flag-turkey.jpg",
+      "revealImage": "bilder/cap-city-ankara.jpg",
+      "revealCaption": "ANKARA",
+      "start": 37.834,
+      "countdownStart": 39.463,
+      "reveal": 42.463,
+      "end": 45.589
+    },
+    {
+      "q": "What's the capital of Brazil?",
+      "answers": [
+        "Brasília",
+        "Rio de Janeiro",
+        "São Paulo",
+        "Salvador"
+      ],
+      "correct": 0,
+      "level": "MEDIUM",
+      "image": "bilder/cap-flag-brazil.jpg",
+      "revealImage": "bilder/cap-city-brasilia.jpg",
+      "revealCaption": "BRASÍLIA",
+      "start": 45.589,
+      "countdownStart": 47.282,
+      "reveal": 50.282,
+      "end": 52.186
+    },
+    {
+      "q": "What's the capital of Switzerland?",
+      "answers": [
+        "Zurich",
+        "Geneva",
+        "Basel",
+        "Bern"
+      ],
+      "correct": 3,
+      "level": "HARD",
+      "image": "bilder/cap-flag-switzerland.jpg",
+      "revealImage": "bilder/cap-city-bern.jpg",
+      "revealCaption": "BERN",
+      "start": 52.186,
+      "countdownStart": 55.095,
+      "reveal": 58.095,
+      "end": 59.837
+    },
+    {
+      "q": "What's the capital of Nigeria?",
+      "answers": [
+        "Lagos",
+        "Abuja",
+        "Kano",
+        "Ibadan"
+      ],
+      "correct": 1,
+      "level": "HARD",
+      "image": "bilder/cap-flag-nigeria.jpg",
+      "revealImage": "bilder/cap-city-abuja.jpg",
+      "revealCaption": "ABUJA",
+      "start": 59.837,
+      "countdownStart": 61.631,
+      "reveal": 64.631,
+      "end": 66.446
+    },
+    {
+      "q": "What's the capital of Kazakhstan?",
+      "answers": [
+        "Almaty",
+        "Shymkent",
+        "Astana",
+        "Karaganda"
+      ],
+      "correct": 2,
+      "level": "HARD",
+      "image": "bilder/cap-flag-kazakhstan.jpg",
+      "revealImage": "bilder/cap-city-astana.jpg",
+      "revealCaption": "ASTANA",
+      "start": 66.446,
+      "countdownStart": 69.299,
+      "reveal": 72.299,
+      "end": 74.126
+    }
+  ],
+  "outroStart": 74.126,
+  "outroText": "How many did you get right?",
+  "outroSub": "Tell me in the comments 👇",
+  "outroImage": "bilder/cap-city-paris.jpg",
+  "durationInSeconds": 77.19
+}

@@ -1,0 +1,23 @@
+{
+  "name": "wildly-true-shorts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Remotion-Vorlage für WILDLY TRUE YouTube Shorts (9:16)",
+  "scripts": {
+    "studio": "remotion studio",
+    "beispiel": "remotion render WildlyTrue out/beispiel.mp4",
+    "render": "node scripts/render.mjs",
+    "story": "node scripts/note-to-story.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.300",
+    "@remotion/google-fonts": "^4.0.300",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "^4.0.300"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

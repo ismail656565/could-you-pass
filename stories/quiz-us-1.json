@@ -1,0 +1,98 @@
+{
+  "type": "quiz",
+  "title": "Could You Pass the US Citizenship Test?",
+  "header": "US CITIZENSHIP TEST",
+  "questionLabel": "QUESTION",
+  "stripe": [
+    "#B22234",
+    "#FFFFFF",
+    "#3C3B6E"
+  ],
+  "audio": "audio/quiz-us-1.mp3",
+  "music": "sfx/tension-loop.wav",
+  "musicVolume": 0.06,
+  "questions": [
+    {
+      "q": "What is the supreme law of the land?",
+      "answers": [
+        "The Constitution",
+        "The Declaration of Independence",
+        "The Bill of Rights",
+        "Federal law"
+      ],
+      "correct": 0,
+      "start": 0.0,
+      "countdownStart": 5.1,
+      "reveal": 8.1,
+      "end": 9.62,
+      "image": "bilder/quiz-q1-capitol.jpg"
+    },
+    {
+      "q": "Who was the first President of the United States?",
+      "answers": [
+        "Thomas Jefferson",
+        "John Adams",
+        "George Washington",
+        "Abraham Lincoln"
+      ],
+      "correct": 2,
+      "start": 9.62,
+      "countdownStart": 12.31,
+      "reveal": 15.31,
+      "end": 16.77,
+      "image": "bilder/quiz-q2-whitehouse.jpg"
+    },
+    {
+      "q": "How many U.S. senators are there?",
+      "answers": [
+        "50",
+        "100",
+        "435",
+        "535"
+      ],
+      "correct": 1,
+      "start": 16.77,
+      "countdownStart": 18.68,
+      "reveal": 21.68,
+      "end": 22.9,
+      "image": "bilder/quiz-q3-senate.jpg"
+    },
+    {
+      "q": "How many amendments does the Constitution have?",
+      "answers": [
+        "10",
+        "21",
+        "33",
+        "27"
+      ],
+      "correct": 3,
+      "start": 22.9,
+      "countdownStart": 25.48,
+      "reveal": 28.48,
+      "end": 29.75,
+      "image": "bilder/quiz-q4-constitution.jpg"
+    },
+    {
+      "q": "How many voting members are in the House of Representatives?",
+      "answers": [
+        "538",
+        "400",
+        "435",
+        "450"
+      ],
+      "correct": 2,
+      "start": 29.75,
+      "countdownStart": 33.84,
+      "reveal": 36.84,
+      "end": 38.86,
+      "image": "bilder/quiz-q5-house.jpg"
+    }
+  ],
+  "outroStart": 38.86,
+  "outroText": "How many did you get right?",
+  "outroSub": "Tell me in the comments 👇",
+  "durationInSeconds": 41.82,
+  "ofLabel": "OF",
+  "correctLabel": "CORRECT!",
+  "outroImage": "bilder/quiz-q1-capitol.jpg"
+}

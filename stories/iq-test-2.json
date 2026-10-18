@@ -1,0 +1,100 @@
+{
+ "type": "quiz",
+ "title": "Only Geniuses Get 5/5 – IQ Test",
+ "header": "🧠 IQ TEST",
+ "hook": "90% GET THIS WRONG 😏",
+ "correctLabel": "CORRECT!",
+ "cardColors": [
+  "#7C3AED",
+  "#4C1D95"
+ ],
+ "audio": "audio/iq-test-2.mp3",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "questions": [
+  {
+   "q": "What's the **angle** between the clock hands?",
+   "cardText": "🕒 3:15",
+   "answers": [
+    "0°",
+    "7.5°",
+    "15°",
+    "90°"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "start": 0.0,
+   "countdownStart": 5.718,
+   "reveal": 8.718,
+   "end": 12.521
+  },
+  {
+   "q": "What comes **next**?",
+   "cardText": "1 · 4 · 9 · 16 · 25 · ?",
+   "answers": [
+    "30",
+    "35",
+    "36",
+    "49"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "start": 12.521,
+   "countdownStart": 17.874,
+   "reveal": 20.874,
+   "end": 23.657
+  },
+  {
+   "q": "Which one is the **odd one out**?",
+   "cardText": "🦈  🐬  🐟  🐠",
+   "answers": [
+    "Dolphin",
+    "Shark",
+    "Fish",
+    "Clownfish"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "start": 23.657,
+   "countdownStart": 25.167,
+   "reveal": 28.167,
+   "end": 30.783
+  },
+  {
+   "q": "When Tom is **12**, how old is his sister?",
+   "cardText": "👦 4  ·  👧 12\n👦 12  ·  👧 ?",
+   "answers": [
+    "24",
+    "36",
+    "16",
+    "20"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "start": 30.783,
+   "countdownStart": 36.954,
+   "reveal": 39.954,
+   "end": 43.178
+  },
+  {
+   "q": "So what is **8 + 4**?",
+   "cardText": "2 + 3 = 10\n7 + 2 = 63\n6 + 5 = 66\n8 + 4 = ?",
+   "answers": [
+    "32",
+    "48",
+    "96",
+    "84"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "start": 43.178,
+   "countdownStart": 52.046,
+   "reveal": 55.046,
+   "end": 58.745
+  }
+ ],
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "outroStart": 58.745,
+ "durationInSeconds": 62.35
+}

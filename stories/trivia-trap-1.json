@@ -1,0 +1,124 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "6 Questions 90% Get Wrong 🤯",
+ "header": "TRIVIA",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "audio": "audio/trivia-trap-1.mp3",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "questions": [
+  {
+   "q": "Which planet is the **hottest**?",
+   "answers": [
+    "Mercury",
+    "Mars",
+    "Venus",
+    "Jupiter"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "image": "bilder/q2-sun.jpg",
+   "revealImage": "bilder/q2-venus.jpg",
+   "revealCaption": "VENUS",
+   "start": 0.0,
+   "countdownStart": 1.686,
+   "reveal": 4.186,
+   "end": 6.819
+  },
+  {
+   "q": "How many **hearts** does an octopus have?",
+   "answers": [
+    "1",
+    "2",
+    "3",
+    "8"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "image": "bilder/q2-octopus.jpg",
+   "start": 6.819,
+   "countdownStart": 8.949,
+   "reveal": 11.449,
+   "end": 12.929
+  },
+  {
+   "q": "What color is a polar bear's **skin**?",
+   "answers": [
+    "Black",
+    "White",
+    "Pink",
+    "Grey"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "image": "bilder/q2-bear.jpg",
+   "start": 12.929,
+   "countdownStart": 15.041,
+   "reveal": 17.541,
+   "end": 20.442
+  },
+  {
+   "q": "How many **bones** does a shark have?",
+   "answers": [
+    "About 200",
+    "About 100",
+    "Zero",
+    "About 50"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "image": "bilder/q2-shark.jpg",
+   "start": 20.442,
+   "countdownStart": 22.378,
+   "reveal": 24.878,
+   "end": 27.705
+  },
+  {
+   "q": "Which food **never** goes bad?",
+   "answers": [
+    "Rice",
+    "Salt crackers",
+    "Dark chocolate",
+    "Honey"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🍽️  ⏳  ♾️",
+   "revealImage": "bilder/q2-honey.jpg",
+   "revealCaption": "HONEY",
+   "start": 27.705,
+   "countdownStart": 29.593,
+   "reveal": 32.093,
+   "end": 35.461
+  },
+  {
+   "q": "What was still alive when the **pyramids** were built?",
+   "answers": [
+    "T-Rex",
+    "Woolly mammoths",
+    "Megalodon",
+    "Triceratops"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "image": "bilder/q2-pyramid.jpg",
+   "revealImage": "bilder/q2-mammoth.jpg",
+   "revealCaption": "WOOLLY MAMMOTHS",
+   "start": 35.461,
+   "countdownStart": 38.787,
+   "reveal": 41.287,
+   "end": 43.405
+  }
+ ],
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "outroStart": 43.405,
+ "durationInSeconds": 43.405
+}

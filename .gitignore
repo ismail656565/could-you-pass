@@ -1,0 +1,6 @@
+node_modules/
+out/
+autopilot/.env
+autopilot/client_secret.json
+autopilot/token.json
+autopilot/tmp/
