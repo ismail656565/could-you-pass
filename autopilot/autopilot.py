@@ -241,7 +241,11 @@ def build_audio(item, out_mp3):
         put(z(tail))
         q['end'] = round(t, 3)
     story['outroStart'] = round(t, 3)
-    story['durationInSeconds'] = round(t, 3)  # kein Abspann -> Video loopt
+    if item.get('outroLine'):  # Abspann mit Abo-Aufruf (lange Videos)
+        put(z(0.4))
+        put(decode(tts(key, vid, item['outroLine'], model), tmp))
+        put(z(item.get('outroHold', 4.0)))
+    story['durationInSeconds'] = round(t, 3)  # ohne outroLine kein Abspann -> Video loopt
     full = np.concatenate(out)
     full = full / (np.max(np.abs(full)) or 1) * 0.95
     subprocess.run([ffmpeg_bin(), '-v', 'error', '-y', '-f', 'f32le', '-ar', str(SR), '-ac', '1', '-i', '-', '-ar', '44100', '-b:a', '160k', str(out_mp3)],
@@ -290,25 +294,14 @@ def item_force(p):
         return False
 
 
-def produce():
-    QUEUE.mkdir(parents=True, exist_ok=True)
-    items = sorted(p for p in QUEUE.glob('*.json'))
-    if not items:
-        log('Warteschlange leer – heute kein Video.')
-        return
-    # höchstens 1 Video pro Tag
-    today = dt.date.today().isoformat()
-    for d in DONE.glob('*.json'):
-        try:
-            if not item_force(items[0]) and json.loads(d.read_text(encoding='utf-8')).get('uploaded', {}).get('at', '').startswith(today):
-                log('Heute wurde schon ein Video hochgeladen – nächstes morgen.')
-                return
-        except Exception:
-            pass
-    p = items[0]
+def fmt_of(item):
+    return 'long' if item.get('story', {}).get('format') == 'long' else 'short'
+
+
+def produce_one(p):
     item = json.loads(p.read_text(encoding='utf-8'))
     name = item['id']
-    log(f'Produziere {name}')
+    log(f'Produziere {name} ({fmt_of(item)})')
     try:
         story = item['story']
         story['audio'] = f'audio/{name}.mp3'
@@ -334,6 +327,33 @@ def produce():
         log('FEHLER:', traceback.format_exc())
         FAILED.mkdir(exist_ok=True)
         shutil.move(str(p), str(FAILED / p.name))
+
+
+def produce():
+    """pro Tag höchstens 1 Short und 1 langes Video (außer "force": true)"""
+    QUEUE.mkdir(parents=True, exist_ok=True)
+    items = sorted(p for p in QUEUE.glob('*.json'))
+    if not items:
+        log('Warteschlange leer – heute kein Video.')
+        return
+    today = dt.date.today().isoformat()
+    done_today = set()
+    for d in DONE.glob('*.json'):
+        try:
+            di = json.loads(d.read_text(encoding='utf-8'))
+            if di.get('uploaded', {}).get('at', '').startswith(today):
+                done_today.add(fmt_of(di))
+        except Exception:
+            pass
+    for f in ('short', 'long'):
+        cand = [p for p in items if fmt_of(json.loads(p.read_text(encoding='utf-8'))) == f]
+        if not cand:
+            log(f'Kein {f}-Video in der Warteschlange.')
+            continue
+        if f in done_today and not item_force(cand[0]):
+            log(f'Heute schon ein {f}-Video hochgeladen – nächstes morgen.')
+            continue
+        produce_one(cand[0])
 
 
 def main():

@@ -319,6 +319,68 @@ const Confetti: React.FC<{cx: number; cy: number; seed: string}> = ({cx, cy, see
   );
 };
 
+
+/** Abo-Knopf mit Klick-Animation + Glocke */
+const SubscribeButton: React.FC<{scale?: number; delay?: number}> = ({scale = 1, delay = 0}) => {
+  const frame = useCurrentFrame() - delay;
+  const {fps} = useVideoConfig();
+  if (frame < 0) return null;
+  const inA = spring({frame, fps, config: {damping: 12, stiffness: 200}});
+  const clickAt = fps * 1.0;
+  const clicked = frame >= clickAt;
+  const press = frame >= clickAt && frame < clickAt + 5 ? 0.92 : 1;
+  const bellAt = fps * 1.8;
+  const bellOn = frame >= bellAt;
+  const ring = bellOn ? Math.sin((frame - bellAt) * 0.9) * Math.max(0, 20 - (frame - bellAt) * 0.6) : 0;
+  const cursorX = interpolate(frame, [0, clickAt, bellAt - 4, bellAt], [260, 120, 120, 330], {extrapolateRight: 'clamp'});
+  const cursorY = interpolate(frame, [0, clickAt, bellAt - 4, bellAt], [120, 40, 40, 40], {extrapolateRight: 'clamp'});
+  return (
+    <div style={{position: 'relative', display: 'flex', alignItems: 'center', gap: 28, transform: `scale(${scale * inA})`}}>
+      <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 52, letterSpacing: 2, color: N.white, background: clicked ? '#3F3F46' : '#FF0033', padding: '18px 44px', borderRadius: 50, transform: `scale(${press})`, boxShadow: clicked ? 'none' : glow('#FF0033', 30)}}>
+        {clicked ? 'SUBSCRIBED ✓' : 'SUBSCRIBE'}
+      </div>
+      <div style={{fontSize: 84, transform: `rotate(${ring}deg)`, transformOrigin: '50% 10%', filter: bellOn ? 'drop-shadow(0 0 18px #FDE047)' : 'grayscale(1) opacity(0.6)'}}>🔔</div>
+      <div style={{position: 'absolute', left: cursorX, top: cursorY, fontSize: 64, opacity: frame < bellAt + fps ? 1 : 0}}>👆</div>
+    </div>
+  );
+};
+
+/** Einblendung in der Mitte des Videos */
+const MidSubscribe: React.FC<{text: string}> = ({text}) => {
+  const frame = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  const out = interpolate(frame, [fps * 4.2, fps * 4.7], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
+  if (out <= 0) return null;
+  return (
+    <div style={{position: 'absolute', left: 0, right: 0, bottom: 24, display: 'flex', justifyContent: 'center', opacity: out}}>
+      <div style={{display: 'flex', alignItems: 'center', gap: 40, background: 'rgba(7,0,15,0.92)', border: `4px solid ${N.pink}`, boxShadow: glow(N.pink, 30), borderRadius: 30, padding: '18px 40px'}}>
+        <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 40, color: N.white, maxWidth: 620, lineHeight: 1.1}}>{text}</div>
+        <SubscribeButton scale={0.85} />
+      </div>
+    </div>
+  );
+};
+
+/** Abspann: Ergebnis kommentieren + abonnieren + Glocke */
+const LongOutro: React.FC<{story: QuizStory}> = ({story}) => {
+  const frame = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  const a = spring({frame, fps, config: {damping: 12, stiffness: 180}});
+  const beat = 1 + 0.03 * Math.sin(frame / 4);
+  return (
+    <AbsoluteFill>
+      <Background />
+      <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', flexDirection: 'column', gap: 46, opacity: a}}>
+        <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 96, color: N.white, textShadow: glow(N.pink, 30), transform: `scale(${0.8 + 0.2 * a})`}}>{story.outroText ?? 'How many did you get?'}</div>
+        <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 150, color: N.bg, background: N.yellow, padding: '6px 60px', borderRadius: 36, transform: `rotate(-3deg) scale(${beat})`, boxShadow: glow(N.yellow, 40)}}>?/{story.questions.length}</div>
+        <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 56, color: N.white}}>{story.outroSub ?? 'Comment your score 👇'}</div>
+        <SubscribeButton scale={1.25} delay={Math.round(fps * 0.6)} />
+        <div style={{fontFamily: FONT, fontWeight: 800, fontSize: 40, color: N.cyan, textShadow: glow(N.cyan, 16)}}>{story.subscribeText ?? 'New quiz every day – turn on the bell 🔔'}</div>
+      </AbsoluteFill>
+    </AbsoluteFill>
+  );
+};
+
 const LongScene: React.FC<{q: QuizQuestion; index: number; story: QuizStory}> = ({q, index, story}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
@@ -354,6 +416,11 @@ const LongScene: React.FC<{q: QuizQuestion; index: number; story: QuizStory}> = 
           {story.ctaText}
         </div>
       ) : null}
+      {story.midCtaIndex === index && t >= q.reveal ? (
+        <Sequence from={revealFrame + Math.round(fps * 1.0)} layout="none">
+          <MidSubscribe text={story.midCtaText ?? 'Enjoying the quiz? Subscribe & hit the bell!'} />
+        </Sequence>
+      ) : null}
       {newLevel && index > 0 ? <LevelBanner level={q.level!} num={levels.indexOf(q.level!) + 1} /> : null}
       <AbsoluteFill style={{pointerEvents: 'none', boxShadow: `inset 0 0 200px rgba(239,68,68,${0.55 * lastSec})`}} />
       <AbsoluteFill style={{pointerEvents: 'none', background: 'white', opacity: flash}} />
@@ -374,6 +441,11 @@ export const QuizLong: React.FC<QuizStory> = (story) => {
           <LongScene q={q} index={i} story={story} />
         </Sequence>
       ))}
+      {(story.durationInSeconds ?? 0) - story.outroStart > 0.5 ? (
+        <Sequence from={f(story.outroStart)} name="Abspann">
+          <LongOutro story={story} />
+        </Sequence>
+      ) : null}
       {story.audio ? <Audio src={staticFile(story.audio)} /> : null}
       {story.music ? <Audio src={staticFile(story.music)} volume={story.musicVolume ?? 0.1} loop /> : null}
       {story.questions.map((q, i) => (

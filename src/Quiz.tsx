@@ -82,6 +82,10 @@ export type QuizStory = {
   /** Vorschaubild-Text für lange Videos */
   thumbText?: string;
   thumbEmoji?: string;
+  /** langes Video: bei welcher Frage (Index) die Abo-Einblendung kommt */
+  midCtaIndex?: number;
+  midCtaText?: string;
+  subscribeText?: string;
   /** (alt, ungenutzt) */
   stripe?: string[];
   questionLabel?: string;
