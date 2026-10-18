@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-18T17:27",
+ "fetched": "2026-10-18T17:31",
  "channel": "COULD YOU PASS?",
  "subscribers": "5",
  "videos": [
@@ -25,7 +25,7 @@
    "published": "2026-10-18T07:45:37Z",
    "retention": [],
    "durationSec": 44,
-   "publicViews": "1160"
+   "publicViews": "1169"
   },
   {
    "id": "AU5WA_fEFNc",
@@ -41,7 +41,7 @@
    "published": "2026-10-17T17:25:41Z",
    "retention": [],
    "durationSec": 61,
-   "publicViews": "1008"
+   "publicViews": "1009"
   },
   {
    "id": "463V8Id0PPA",
@@ -65,7 +65,7 @@
    "published": "2026-10-16T17:22:14Z",
    "retention": [],
    "durationSec": 63,
-   "publicViews": "233"
+   "publicViews": "235"
   },
   {
    "id": "n5QzX_x2744",
@@ -73,7 +73,7 @@
    "published": "2026-10-16T07:00:39Z",
    "retention": [],
    "durationSec": 78,
-   "publicViews": "1081"
+   "publicViews": "1082"
   },
   {
    "id": "bRb-fGyhJ48",
@@ -589,7 +589,7 @@
     ]
    ],
    "durationSec": 105,
-   "publicViews": "1260",
+   "publicViews": "1261",
    "engagedShare": 0.535
   },
   {
