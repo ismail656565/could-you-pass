@@ -1,0 +1,133 @@
+{
+ "id": "genius-6-1",
+ "lines": [
+  {
+   "q": "How many Earths could fit inside the Sun?",
+   "a": "About one point three million!"
+  },
+  {
+   "q": "Which of these is wider than Pluto?",
+   "a": "Australia! Pluto is tiny."
+  },
+  {
+   "q": "Which letter is in no US state name?",
+   "a": "Q! It's the only one."
+  },
+  {
+   "q": "On which planet is a day longer than a year?",
+   "a": "Venus!"
+  },
+  {
+   "q": "Who has more bones, a baby or an adult?",
+   "a": "A baby! Around three hundred."
+  },
+  {
+   "q": "Last one. When was Nintendo founded?",
+   "a": "Eighteen eighty-nine! It made playing cards."
+  }
+ ],
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Hard Trivia Quiz #shorts",
+  "description": "6 hard questions – only geniuses get all of them 🧠 Be honest – how many did you get?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trivia #quiz #hardquiz #facts #generalknowledge #shorts\n\nPhotos via Wikimedia Commons: Sun – NASA/SDO (public domain). Music: original.",
+  "tags": [
+   "quiz",
+   "trivia",
+   "hard quiz",
+   "general knowledge",
+   "facts",
+   "shorts"
+  ],
+  "comment": "The Nintendo one broke me 😅 what was your score?"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Only Geniuses Get 6/6",
+  "header": "GENIUS TEST",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "How many **Earths** fit inside the Sun?",
+    "answers": [
+     "1,000",
+     "100,000",
+     "1.3 million",
+     "1 billion"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "image": "bilder/q2-sun.jpg"
+   },
+   {
+    "q": "Which of these is **wider** than Pluto?",
+    "answers": [
+     "Australia",
+     "Texas",
+     "France",
+     "Germany"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🪐  🗺️"
+   },
+   {
+    "q": "Which letter is in **no** US state name?",
+    "answers": [
+     "J",
+     "Z",
+     "X",
+     "Q"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🗺️  🔤"
+   },
+   {
+    "q": "On which planet is a **day** longer than a year?",
+    "answers": [
+     "Venus",
+     "Earth",
+     "Mars",
+     "Neptune"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "☀️  🔄  🪐"
+   },
+   {
+    "q": "Who has more **bones**?",
+    "answers": [
+     "An adult",
+     "A baby",
+     "Same number",
+     "A teenager"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "👶  🦴  🧑"
+   },
+   {
+    "q": "When was **Nintendo** founded?",
+    "answers": [
+     "1983",
+     "1977",
+     "1949",
+     "1889"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🎮  🃏"
+   }
+  ]
+ }
+}
