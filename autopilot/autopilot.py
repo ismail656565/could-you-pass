@@ -217,6 +217,8 @@ def build_audio(item, out_mp3):
     qs = story['questions']
     lines = item['lines']
     assert len(lines) == len(qs), 'lines und questions passen nicht zusammen'
+    tm = item.get('timing', {})
+    count, tail = tm.get('count', COUNT), tm.get('tail', TAIL)
     out, t = [], 0.0
 
     def put(x):
@@ -232,11 +234,11 @@ def build_audio(item, out_mp3):
         put(qa)
         put(z(GAP_Q))
         q['countdownStart'] = round(t, 3)
-        put(z(COUNT))
+        put(z(count))
         q['reveal'] = round(t, 3)
         put(z(GAP_A))
         put(aa)
-        put(z(TAIL))
+        put(z(tail))
         q['end'] = round(t, 3)
     story['outroStart'] = round(t, 3)
     story['durationInSeconds'] = round(t, 3)  # kein Abspann -> Video loopt
@@ -254,7 +256,7 @@ def upload(item, mp4):
     meta = item['youtube']
     privacy = env().get('PRIVACY') or os.environ.get('PRIVACY', 'public')
     body = {
-        'snippet': {'title': meta['title'][:100], 'description': meta.get('description', ''), 'tags': meta.get('tags', []), 'categoryId': '24'},
+        'snippet': {'title': meta['title'][:100], 'description': meta.get('description', ''), 'tags': meta.get('tags', []), 'categoryId': meta.get('categoryId', '24')},
         'status': {'privacyStatus': privacy, 'selfDeclaredMadeForKids': False},
     }
     y = yt()
@@ -263,7 +265,14 @@ def upload(item, mp4):
     while resp is None:
         _, resp = req.next_chunk()
     vid = resp['id']
-    log(f'Hochgeladen: https://youtube.com/shorts/{vid} ({resp["status"].get("privacyStatus")})')
+    log(f'Hochgeladen: https://youtube.com/watch?v={vid} ({resp["status"].get("privacyStatus")})')
+    thumb = item.get('_thumb')
+    if thumb and Path(thumb).exists():
+        try:
+            y.thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumb)).execute()
+            log('Vorschaubild gesetzt')
+        except Exception as ex:
+            log('Vorschaubild nicht möglich (Kanal evtl. nicht per Telefon bestätigt):', str(ex)[:200])
     if meta.get('comment'):
         try:
             y.commentThreads().insert(part='snippet', body={'snippet': {'videoId': vid, 'topLevelComment': {'snippet': {'textOriginal': meta['comment']}}}}).execute()
@@ -274,6 +283,13 @@ def upload(item, mp4):
 
 
 # ---------------------------------------------------------------- Ablauf
+def item_force(p):
+    try:
+        return bool(json.loads(p.read_text(encoding='utf-8')).get('force'))
+    except Exception:
+        return False
+
+
 def produce():
     QUEUE.mkdir(parents=True, exist_ok=True)
     items = sorted(p for p in QUEUE.glob('*.json'))
@@ -284,7 +300,7 @@ def produce():
     today = dt.date.today().isoformat()
     for d in DONE.glob('*.json'):
         try:
-            if json.loads(d.read_text(encoding='utf-8')).get('uploaded', {}).get('at', '').startswith(today):
+            if not item_force(items[0]) and json.loads(d.read_text(encoding='utf-8')).get('uploaded', {}).get('at', '').startswith(today):
                 log('Heute wurde schon ein Video hochgeladen – nächstes morgen.')
                 return
         except Exception:
@@ -303,6 +319,12 @@ def produce():
         if r.returncode != 0 or not mp4.exists():
             raise RuntimeError('Rendern fehlgeschlagen')
         log('Gerendert')
+        if story.get('format') == 'long':
+            thumb = ROOT / 'out' / f'{name}-thumb.jpg'
+            props = ROOT / 'out' / f'.thumb-{name}.json'
+            props.write_text(json.dumps(story, ensure_ascii=False), encoding='utf-8')
+            subprocess.run(['npx', 'remotion', 'still', 'QuizThumb', str(thumb), f'--props={props}'], cwd=ROOT, shell=(os.name == 'nt'))
+            item['_thumb'] = str(thumb)
         vid = upload(item, mp4)
         item['uploaded'] = {'videoId': vid, 'at': dt.datetime.now().isoformat(timespec='minutes')}
         DONE.mkdir(exist_ok=True)

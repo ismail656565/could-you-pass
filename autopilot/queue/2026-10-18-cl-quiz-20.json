@@ -1,0 +1,368 @@
+{
+ "id": "cl-quiz-20",
+ "force": true,
+ "timing": {
+  "count": 3.5,
+  "tail": 1.1
+ },
+ "lines": [
+  {
+   "q": "Twenty Champions League questions. Only real fans get them all. Which club has won the most Champions League titles?",
+   "a": "Real Madrid! Fifteen titles."
+  },
+  {
+   "q": "Who is the all-time top scorer in the Champions League?",
+   "a": "Cristiano Ronaldo! A hundred and forty goals."
+  },
+  {
+   "q": "Who won the 2025 Champions League final?",
+   "a": "PSG! Five nil against Inter."
+  },
+  {
+   "q": "Who scored the famous bicycle kick in the 2018 final?",
+   "a": "Gareth Bale!"
+  },
+  {
+   "q": "Who won the 2012 final in Bayern's own stadium?",
+   "a": "Chelsea! On penalties."
+  },
+  {
+   "q": "In 2005, Liverpool came back from three nil down against…?",
+   "a": "AC Milan! The miracle of Istanbul."
+  },
+  {
+   "q": "Who won the very first European Cup in 1956?",
+   "a": "Real Madrid!"
+  },
+  {
+   "q": "Man United won the 1999 final with two late goals against…?",
+   "a": "Bayern Munich!"
+  },
+  {
+   "q": "Barcelona beat PSG six one in 2017. What was the first leg?",
+   "a": "Four nil to PSG!"
+  },
+  {
+   "q": "Who did Bayern beat in the all-German final in 2013?",
+   "a": "Borussia Dortmund!"
+  },
+  {
+   "q": "With which club did Mourinho win the 2004 Champions League?",
+   "a": "FC Porto!"
+  },
+  {
+   "q": "Who scored the fastest goal in a Champions League final?",
+   "a": "Paolo Maldini! After about fifty seconds."
+  },
+  {
+   "q": "What's the record for goals in one Champions League season?",
+   "a": "Seventeen! Cristiano Ronaldo."
+  },
+  {
+   "q": "Zidane's legendary 2002 final volley came against…?",
+   "a": "Bayer Leverkusen!"
+  },
+  {
+   "q": "Which club won three in a row from 1971 to 1973?",
+   "a": "Ajax!"
+  },
+  {
+   "q": "Clubs from which country have won the most titles?",
+   "a": "Spain!"
+  },
+  {
+   "q": "Who scored the winning penalty in the 2003 final?",
+   "a": "Andriy Shevchenko!"
+  },
+  {
+   "q": "Who is third on the all-time scoring list?",
+   "a": "Robert Lewandowski!"
+  },
+  {
+   "q": "Mourinho won the treble in 2010 with which club?",
+   "a": "Inter Milan!"
+  },
+  {
+   "q": "Last one. Who did PSG beat in the 2026 final?",
+   "a": "Arsenal! On penalties."
+  }
+ ],
+ "youtube": {
+  "title": "Champions League Quiz: Only REAL Fans Get 20/20 🏆⚽",
+  "description": "20 Champions League questions – from EASY to LEGEND level 🏆 Can you get all 20?\nComment your score 👇\n\nSubscribe for a new quiz every day! 🧠\n\n#ChampionsLeague #FootballQuiz #UCL #SoccerQuiz #Quiz\n\nMusic: original. Not affiliated with UEFA or any club.",
+  "tags": [
+   "champions league quiz",
+   "football quiz",
+   "soccer quiz",
+   "ucl quiz",
+   "quiz",
+   "real madrid",
+   "ronaldo"
+  ],
+  "categoryId": "17",
+  "comment": "Be honest… how many did you get? I failed the Maldini one 😅"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "neon",
+  "title": "Champions League Quiz",
+  "header": "CHAMPIONS LEAGUE",
+  "hook": "ONLY REAL FANS GET 20/20 😏",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇  Subscribe for more!",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "thumbText": "ONLY REAL FANS GET **20/20**",
+  "thumbEmoji": "🏆",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "Which club has won the most **Champions League** titles?",
+    "answers": [
+     "Real Madrid",
+     "AC Milan",
+     "Bayern Munich",
+     "Liverpool"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🏆  👑"
+   },
+   {
+    "q": "Who is the all-time **top scorer** in the Champions League?",
+    "answers": [
+     "Lionel Messi",
+     "Cristiano Ronaldo",
+     "Robert Lewandowski",
+     "Karim Benzema"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "⚽  🥅"
+   },
+   {
+    "q": "Who won the **2025** Champions League final?",
+    "answers": [
+     "Inter Milan",
+     "Arsenal",
+     "PSG",
+     "Barcelona"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🏆  2025"
+   },
+   {
+    "q": "Who scored the famous **bicycle kick** in the 2018 final?",
+    "answers": [
+     "Gareth Bale",
+     "Cristiano Ronaldo",
+     "Mohamed Salah",
+     "Karim Benzema"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🚲  ⚽"
+   },
+   {
+    "q": "Who won the 2012 final in **Bayern's own stadium**?",
+    "answers": [
+     "Bayern Munich",
+     "Chelsea",
+     "Real Madrid",
+     "Barcelona"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🏟️  🎯"
+   },
+   {
+    "q": "In 2005, Liverpool came back from **3-0 down** against…?",
+    "answers": [
+     "Juventus",
+     "Real Madrid",
+     "Inter Milan",
+     "AC Milan"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "3️⃣ - 0️⃣  😱"
+   },
+   {
+    "q": "Who won the very **first** European Cup in 1956?",
+    "answers": [
+     "Real Madrid",
+     "Benfica",
+     "AC Milan",
+     "Ajax"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🏆  1956"
+   },
+   {
+    "q": "Man United won the 1999 final with two **late goals** against…?",
+    "answers": [
+     "Juventus",
+     "Bayern Munich",
+     "Barcelona",
+     "Inter Milan"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "⏱️  90+"
+   },
+   {
+    "q": "Barcelona beat PSG 6-1 in 2017. What was the **first leg**?",
+    "answers": [
+     "2-0 PSG",
+     "3-0 PSG",
+     "4-0 PSG",
+     "5-1 PSG"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "6️⃣ - 1️⃣  🤯"
+   },
+   {
+    "q": "Who did Bayern beat in the **all-German** final in 2013?",
+    "answers": [
+     "Schalke",
+     "Leverkusen",
+     "Dortmund",
+     "Wolfsburg"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🔴  ⚔️  🟡"
+   },
+   {
+    "q": "With which club did **Mourinho** win the 2004 Champions League?",
+    "answers": [
+     "Chelsea",
+     "Porto",
+     "Inter Milan",
+     "Benfica"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🧠  2004"
+   },
+   {
+    "q": "Who scored the **fastest goal** in a Champions League final?",
+    "answers": [
+     "Paolo Maldini",
+     "Karim Benzema",
+     "Lionel Messi",
+     "Gareth Bale"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "⏱️  ⚡"
+   },
+   {
+    "q": "What's the record for goals in **one** Champions League season?",
+    "answers": [
+     "15",
+     "16",
+     "17",
+     "18"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "⚽  ✖️  ❓"
+   },
+   {
+    "q": "Zidane's legendary 2002 final **volley** came against…?",
+    "answers": [
+     "Bayer Leverkusen",
+     "Valencia",
+     "Juventus",
+     "Monaco"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🦶  🚀"
+   },
+   {
+    "q": "Which club won **three in a row** from 1971 to 1973?",
+    "answers": [
+     "Bayern Munich",
+     "Ajax",
+     "Liverpool",
+     "Real Madrid"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🏆  🏆  🏆"
+   },
+   {
+    "q": "Clubs from which **country** have won the most titles?",
+    "answers": [
+     "England",
+     "Italy",
+     "Spain",
+     "Germany"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🌍  🏆"
+   },
+   {
+    "q": "Who scored the winning penalty in the **2003** final?",
+    "answers": [
+     "Andrea Pirlo",
+     "Alessandro Del Piero",
+     "Andriy Shevchenko",
+     "Paolo Maldini"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🎯  2003"
+   },
+   {
+    "q": "Who is **third** on the all-time scoring list?",
+    "answers": [
+     "Robert Lewandowski",
+     "Karim Benzema",
+     "Raúl",
+     "Kylian Mbappé"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🥉  ⚽"
+   },
+   {
+    "q": "Mourinho won the **treble** in 2010 with which club?",
+    "answers": [
+     "Chelsea",
+     "Real Madrid",
+     "Porto",
+     "Inter Milan"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🏆  🏆  🏆"
+   },
+   {
+    "q": "Last one. Who did PSG beat in the **2026** final?",
+    "answers": [
+     "Arsenal",
+     "Bayern Munich",
+     "Real Madrid",
+     "Inter Milan"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🏆  2026"
+   }
+  ]
+ }
+}

@@ -4,6 +4,7 @@ import {WildlyTrue} from './WildlyTrue';
 import type {Story} from './types';
 import beispiel from '../stories/beispiel.json';
 import {Quiz, type QuizStory} from './Quiz';
+import {QuizLong, QuizThumb} from './QuizLong';
 import quizDemo from '../stories/quiz-demo.json';
 
 export const FPS = 30;
@@ -35,6 +36,19 @@ export const RemotionRoot: React.FC = () => {
         durationInFrames: Math.ceil(props.durationInSeconds * FPS),
       })}
     />
+    <Composition
+      id="QuizLong"
+      component={QuizLong}
+      width={1920}
+      height={1080}
+      fps={FPS}
+      durationInFrames={Math.ceil((quizDemo as QuizStory).durationInSeconds! * FPS)}
+      defaultProps={quizDemo as QuizStory}
+      calculateMetadata={({props}) => ({
+        durationInFrames: Math.ceil(props.durationInSeconds! * FPS),
+      })}
+    />
+    <Composition id="QuizThumb" component={QuizThumb} width={1280} height={720} fps={FPS} durationInFrames={1} defaultProps={quizDemo as QuizStory} />
     </>
   );
 };

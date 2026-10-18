@@ -77,6 +77,11 @@ export type QuizStory = {
   durationInSeconds?: number;
   /** Layout: "comic" (Standard, gelb) oder "neon" (dunkel, leuchtend) */
   layout?: 'comic' | 'neon';
+  /** "long" = normales Video im Querformat (Komposition QuizLong) */
+  format?: 'short' | 'long';
+  /** Vorschaubild-Text für lange Videos */
+  thumbText?: string;
+  thumbEmoji?: string;
   /** (alt, ungenutzt) */
   stripe?: string[];
   questionLabel?: string;
