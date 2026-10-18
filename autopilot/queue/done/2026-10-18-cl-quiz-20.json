@@ -133,7 +133,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🏆  👑"
+    "cardText": "🏆  👑",
+    "start": 0.0,
+    "countdownStart": 6.503,
+    "reveal": 10.003,
+    "end": 13.096
    },
    {
     "q": "Who is the all-time **top scorer** in the Champions League?",
@@ -145,7 +149,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "⚽  🥅"
+    "cardText": "⚽  🥅",
+    "start": 13.096,
+    "countdownStart": 15.908,
+    "reveal": 19.408,
+    "end": 23.251
    },
    {
     "q": "Who won the **2025** Champions League final?",
@@ -157,7 +165,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🏆  2025"
+    "cardText": "🏆  2025",
+    "start": 23.251,
+    "countdownStart": 25.678,
+    "reveal": 29.178,
+    "end": 31.938
    },
    {
     "q": "Who scored the famous **bicycle kick** in the 2018 final?",
@@ -169,7 +181,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🚲  ⚽"
+    "cardText": "🚲  ⚽",
+    "start": 31.938,
+    "countdownStart": 34.957,
+    "reveal": 38.457,
+    "end": 40.529
    },
    {
     "q": "Who won the 2012 final in **Bayern's own stadium**?",
@@ -181,7 +197,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🏟️  🎯"
+    "cardText": "🏟️  🎯",
+    "start": 40.529,
+    "countdownStart": 43.313,
+    "reveal": 46.813,
+    "end": 49.359
    },
    {
     "q": "In 2005, Liverpool came back from **3-0 down** against…?",
@@ -193,7 +213,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "3️⃣ - 0️⃣  😱"
+    "cardText": "3️⃣ - 0️⃣  😱",
+    "start": 49.359,
+    "countdownStart": 52.737,
+    "reveal": 56.237,
+    "end": 59.45
    },
    {
     "q": "Who won the very **first** European Cup in 1956?",
@@ -205,7 +229,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🏆  1956"
+    "cardText": "🏆  1956",
+    "start": 59.45,
+    "countdownStart": 62.436,
+    "reveal": 65.936,
+    "end": 67.792
    },
    {
     "q": "Man United won the 1999 final with two **late goals** against…?",
@@ -217,7 +245,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "⏱️  90+"
+    "cardText": "⏱️  90+",
+    "start": 67.792,
+    "countdownStart": 71.236,
+    "reveal": 74.736,
+    "end": 76.75
    },
    {
     "q": "Barcelona beat PSG 6-1 in 2017. What was the **first leg**?",
@@ -229,7 +261,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "6️⃣ - 1️⃣  🤯"
+    "cardText": "6️⃣ - 1️⃣  🤯",
+    "start": 76.75,
+    "countdownStart": 80.617,
+    "reveal": 84.117,
+    "end": 86.537
    },
    {
     "q": "Who did Bayern beat in the **all-German** final in 2013?",
@@ -241,7 +277,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🔴  ⚔️  🟡"
+    "cardText": "🔴  ⚔️  🟡",
+    "start": 86.537,
+    "countdownStart": 89.653,
+    "reveal": 93.153,
+    "end": 95.43
    },
    {
     "q": "With which club did **Mourinho** win the 2004 Champions League?",
@@ -253,7 +293,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🧠  2004"
+    "cardText": "🧠  2004",
+    "start": 95.43,
+    "countdownStart": 98.679,
+    "reveal": 102.179,
+    "end": 104.236
    },
    {
     "q": "Who scored the **fastest goal** in a Champions League final?",
@@ -265,7 +309,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "⏱️  ⚡"
+    "cardText": "⏱️  ⚡",
+    "start": 104.236,
+    "countdownStart": 107.045,
+    "reveal": 110.545,
+    "end": 114.303
    },
    {
     "q": "What's the record for goals in **one** Champions League season?",
@@ -277,7 +325,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "⚽  ✖️  ❓"
+    "cardText": "⚽  ✖️  ❓",
+    "start": 114.303,
+    "countdownStart": 117.175,
+    "reveal": 120.675,
+    "end": 123.566
    },
    {
     "q": "Zidane's legendary 2002 final **volley** came against…?",
@@ -289,7 +341,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🦶  🚀"
+    "cardText": "🦶  🚀",
+    "start": 123.566,
+    "countdownStart": 126.99,
+    "reveal": 130.49,
+    "end": 132.792
    },
    {
     "q": "Which club won **three in a row** from 1971 to 1973?",
@@ -301,7 +357,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🏆  🏆  🏆"
+    "cardText": "🏆  🏆  🏆",
+    "start": 132.792,
+    "countdownStart": 136.488,
+    "reveal": 139.988,
+    "end": 141.73
    },
    {
     "q": "Clubs from which **country** have won the most titles?",
@@ -313,7 +373,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🌍  🏆"
+    "cardText": "🌍  🏆",
+    "start": 141.73,
+    "countdownStart": 144.248,
+    "reveal": 147.748,
+    "end": 149.525
    },
    {
     "q": "Who scored the winning penalty in the **2003** final?",
@@ -325,7 +389,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🎯  2003"
+    "cardText": "🎯  2003",
+    "start": 149.525,
+    "countdownStart": 152.352,
+    "reveal": 155.852,
+    "end": 158.166
    },
    {
     "q": "Who is **third** on the all-time scoring list?",
@@ -337,7 +405,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🥉  ⚽"
+    "cardText": "🥉  ⚽",
+    "start": 158.166,
+    "countdownStart": 160.245,
+    "reveal": 163.745,
+    "end": 166.079
    },
    {
     "q": "Mourinho won the **treble** in 2010 with which club?",
@@ -349,7 +421,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🏆  🏆  🏆"
+    "cardText": "🏆  🏆  🏆",
+    "start": 166.079,
+    "countdownStart": 168.813,
+    "reveal": 172.313,
+    "end": 174.196
    },
    {
     "q": "Last one. Who did PSG beat in the **2026** final?",
@@ -361,8 +437,20 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🏆  2026"
+    "cardText": "🏆  2026",
+    "start": 174.196,
+    "countdownStart": 177.329,
+    "reveal": 180.829,
+    "end": 183.412
    }
-  ]
+  ],
+  "audio": "audio/cl-quiz-20.mp3",
+  "outroStart": 183.412,
+  "durationInSeconds": 183.412
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/out/cl-quiz-20-thumb.jpg",
+ "uploaded": {
+  "videoId": "kgWV2rM_BLc",
+  "at": "2026-10-18T15:56"
  }
 }
