@@ -10,7 +10,12 @@ on:
     - cron: '10 9 * * *'
     - cron: '10 12 * * *'
     - cron: '10 13 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'all | dryrun | comments'
+        required: false
+        default: 'all'
 
 permissions:
   contents: write
@@ -22,14 +27,14 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 180
     env:
-      MODE: ${{ (github.event.schedule == '15 7 * * *' || github.event.schedule == '0 11 * * *' || github.event_name != 'schedule') && 'all' || 'comments' }}
+      MODE: ${{ github.event.inputs.mode || ((github.event.schedule == '15 7 * * *' || github.event.schedule == '0 11 * * *') && 'all' || 'comments') }}
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
-        if: env.MODE == 'all'
+        if: env.MODE != 'comments'
         with:
           node-version: 20
           cache: npm
@@ -39,14 +44,14 @@ jobs:
           python-version: '3.12'
 
       - name: System-Pakete (ffmpeg, Emoji-Schrift)
-        if: env.MODE == 'all'
+        if: env.MODE != 'comments'
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji fonts-noto-core
           fc-cache -f
 
       - name: Abhängigkeiten
-        if: env.MODE == 'all'
+        if: env.MODE != 'comments'
         run: |
           npm ci
           npx remotion browser ensure
@@ -54,6 +59,22 @@ jobs:
       - name: Python-Pakete
         run: |
           pip install -q google-api-python-client google-auth-oauthlib requests numpy imageio-ffmpeg
+          if [ "$MODE" != "comments" ]; then pip install -q kokoro-onnx soundfile; fi
+
+      - name: Kokoro-Stimmenmodell (Cache)
+        if: env.MODE != 'comments'
+        uses: actions/cache@v4
+        with:
+          path: models
+          key: kokoro-v1.0
+
+      - name: Kokoro-Stimmenmodell laden
+        if: env.MODE != 'comments'
+        run: |
+          mkdir -p models
+          [ -f models/kokoro-v1.0.onnx ] || curl -sSL -o models/kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+          [ -f models/voices-v1.0.bin ] || curl -sSL -o models/voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+          ls -la models
 
       - name: Analytics + Video produzieren + hochladen
         env:
@@ -62,6 +83,7 @@ jobs:
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
           PRIVACY: ${{ vars.PRIVACY || 'public' }}
+          RENDER_CONCURRENCY: '4'
         run: python autopilot/autopilot.py $MODE
 
       - name: Fertiges Video zum Ansehen speichern

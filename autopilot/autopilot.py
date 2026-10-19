@@ -188,11 +188,11 @@ def tts(key, vid, text, model):
     r.raise_for_status()
 
 
-def decode(mp3_bytes, tmp):
+def decode(mp3_bytes, tmp, tempo=None):
     import numpy as np
-    p = tmp / 'x.mp3'
+    p = tmp / 'x.audio'
     p.write_bytes(mp3_bytes)
-    raw = subprocess.run([ffmpeg_bin(), '-v', 'error', '-i', str(p), '-af', f'atempo={TEMPO}', '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'],
+    raw = subprocess.run([ffmpeg_bin(), '-v', 'error', '-i', str(p), '-af', f'atempo={tempo or TEMPO}', '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'],
                          capture_output=True, check=True).stdout
     a = np.frombuffer(raw, dtype=np.float32).copy()
     # Stille am Anfang/Ende abschneiden
@@ -203,14 +203,44 @@ def decode(mp3_bytes, tmp):
     return a
 
 
-def build_audio(item, out_mp3):
-    import numpy as np
+_KOKORO = None
+
+
+def kokoro_wav(text, voice, speed=1.0):
+    """Kostenlose Stimme (Kokoro, Apache-2.0) – Modell liegt in models/ (vom Workflow geladen)"""
+    global _KOKORO
+    import io
+    import soundfile as sf
+    if _KOKORO is None:
+        from kokoro_onnx import Kokoro
+        m = ROOT / 'models'
+        _KOKORO = Kokoro(str(m / 'kokoro-v1.0.onnx'), str(m / 'voices-v1.0.bin'))
+    samples, sr = _KOKORO.create(text, voice=voice, speed=speed, lang='en-gb' if voice.startswith('b') else 'en-us')
+    buf = io.BytesIO()
+    sf.write(buf, samples, sr, format='WAV')
+    return buf.getvalue()
+
+
+def make_speaker(item):
+    """liefert speak(text) -> Audiodaten; Standard Kokoro (kostenlos), ElevenLabs nur wenn item/Umgebung "elevenlabs" sagt"""
     e = env()
+    engine = item.get('tts') or e.get('TTS') or os.environ.get('TTS') or 'kokoro'
+    if engine == 'kokoro':
+        voice = item.get('voice') or e.get('KOKORO_VOICE') or os.environ.get('KOKORO_VOICE') or 'af_heart'
+        log(f'Stimme: Kokoro {voice}')
+        return lambda text: kokoro_wav(text, voice)
     key = e.get('ELEVENLABS_API_KEY') or os.environ.get('ELEVENLABS_API_KEY')
     if not key:
-        raise RuntimeError('ELEVENLABS_API_KEY fehlt in autopilot/.env')
+        raise RuntimeError('ELEVENLABS_API_KEY fehlt')
     vid = e.get('ELEVEN_VOICE_ID') or voice_id(key, e.get('ELEVEN_VOICE', 'Roger'))
     model = e.get('ELEVEN_MODEL', 'eleven_multilingual_v2')
+    log('Stimme: ElevenLabs')
+    return lambda text: tts(key, vid, text, model)
+
+
+def build_audio(item, out_mp3):
+    import numpy as np
+    speak = make_speaker(item)
     tmp = AP / 'tmp'
     tmp.mkdir(exist_ok=True)
     story = item['story']
@@ -219,6 +249,7 @@ def build_audio(item, out_mp3):
     assert len(lines) == len(qs), 'lines und questions passen nicht zusammen'
     tm = item.get('timing', {})
     count, tail = tm.get('count', COUNT), tm.get('tail', TAIL)
+    tempo = tm.get('tempo', TEMPO)
     out, t = [], 0.0
 
     def put(x):
@@ -228,8 +259,8 @@ def build_audio(item, out_mp3):
 
     z = lambda s: np.zeros(int(round(s * SR)), np.float32)
     for q, ln in zip(qs, lines):
-        qa = decode(tts(key, vid, ln['q'], model), tmp)
-        aa = decode(tts(key, vid, ln['a'], model), tmp)
+        qa = decode(speak(ln['q']), tmp, tempo)
+        aa = decode(speak(ln['a']), tmp, tempo)
         q['start'] = round(t, 3)
         put(qa)
         put(z(GAP_Q))
@@ -243,7 +274,7 @@ def build_audio(item, out_mp3):
     story['outroStart'] = round(t, 3)
     if item.get('outroLine'):  # Abspann mit Abo-Aufruf (lange Videos)
         put(z(0.4))
-        put(decode(tts(key, vid, item['outroLine'], model), tmp))
+        put(decode(speak(item['outroLine']), tmp, tempo))
         put(z(item.get('outroHold', 4.0)))
     story['durationInSeconds'] = round(t, 3)  # ohne outroLine kein Abspann -> Video loopt
     full = np.concatenate(out)
@@ -537,6 +568,17 @@ def main():
         produce()
     elif cmd == 'comments':
         post_pending_comments()
+    elif cmd == 'dryrun':
+        # Test ohne Upload: Ton + Video für alle Dateien in autopilot/test/
+        for p in sorted((AP / 'test').glob('*.json')):
+            item = json.loads(p.read_text(encoding='utf-8'))
+            name = item['id']
+            story = item['story']
+            story['audio'] = f'audio/{name}.mp3'
+            build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
+            (ROOT / 'stories' / f'{name}.json').write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf-8')
+            r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=ROOT)
+            log(f'Testlauf {name}: Render-Code {r.returncode}, Dauer {story["durationInSeconds"]} s')
     elif cmd == 'thumbs':
         # nur Vorschaubilder rendern: python autopilot.py thumbs stories/<id>.json
         st = json.loads(Path(sys.argv[2]).read_text(encoding='utf-8'))

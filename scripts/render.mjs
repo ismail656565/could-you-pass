@@ -54,7 +54,7 @@ writeFileSync(propsFile, JSON.stringify(story));
 const result = spawnSync('npx', [
   'remotion', 'render', isQuiz ? (story.format === 'long' ? 'QuizLong' : 'Quiz') : 'WildlyTrue', out, `--props=${propsFile}`,
   // Speicher sparen: weniger parallele Frames und kleiner Video-Cache (sonst "memory allocation failed")
-  '--concurrency=2',
+  `--concurrency=${process.env.RENDER_CONCURRENCY || 2}`,
   '--offthreadvideo-cache-size-in-bytes=536870912',
   '--offthreadvideo-threads=2',
 ], {
