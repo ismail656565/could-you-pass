@@ -614,5 +614,6 @@
     "cardText": "🍀  🖋️"
    }
   ]
- }
+ },
+ "force": true
 }
