@@ -477,7 +477,7 @@ def produce():
         except Exception:
             pass
     for f in ('short', 'long'):
-        cand = [p for p in items if fmt_of(json.loads(p.read_text(encoding='utf-8'))) == f]
+        cand = [p for p in items if p.exists() and fmt_of(json.loads(p.read_text(encoding='utf-8'))) == f]
         if not cand:
             log(f'Kein {f}-Video in der Warteschlange.')
             continue
