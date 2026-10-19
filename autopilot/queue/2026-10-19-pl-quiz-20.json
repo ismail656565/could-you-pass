@@ -1,0 +1,377 @@
+{
+ "id": "pl-quiz-20",
+ "timing": {
+  "count": 3.5,
+  "tail": 1.1
+ },
+ "lines": [
+  {
+   "q": "Twenty Premier League questions. Only real fans get them all. Who is the Premier League's all-time top scorer?",
+   "a": "Alan Shearer! Two hundred and sixty goals."
+  },
+  {
+   "q": "Which club went a whole Premier League season unbeaten?",
+   "a": "Arsenal! The Invincibles of oh-three, oh-four."
+  },
+  {
+   "q": "Who won the title in twenty sixteen at five thousand to one odds?",
+   "a": "Leicester City! The greatest miracle ever."
+  },
+  {
+   "q": "Which club has won the most Premier League titles?",
+   "a": "Manchester United! Thirteen titles."
+  },
+  {
+   "q": "Who scored the famous title winner at ninety-three twenty in twenty twelve?",
+   "a": "Sergio Agüero! Agueroooo!"
+  },
+  {
+   "q": "What's the record for goals by one player in a single Premier League season?",
+   "a": "Thirty-six! Erling Haaland."
+  },
+  {
+   "q": "Which team set the record of one hundred points?",
+   "a": "Manchester City! Back in twenty eighteen."
+  },
+  {
+   "q": "Which manager won the most Premier League titles?",
+   "a": "Sir Alex Ferguson! Thirteen titles."
+  },
+  {
+   "q": "Who won the Premier League in nineteen ninety-five?",
+   "a": "Blackburn Rovers!"
+  },
+  {
+   "q": "Which goalkeeper has the most Premier League clean sheets?",
+   "a": "Petr Čech! Over two hundred. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Who has the most Premier League assists ever?",
+   "a": "Ryan Giggs! A hundred and sixty-two."
+  },
+  {
+   "q": "Which club got just eleven points in one season?",
+   "a": "Derby County! Back in two thousand eight."
+  },
+  {
+   "q": "Who scored the fastest goal in Premier League history?",
+   "a": "Shane Long! After just seven seconds."
+  },
+  {
+   "q": "How many Premier League titles in a row did Man City win?",
+   "a": "Four! From twenty twenty-one to twenty twenty-four."
+  },
+  {
+   "q": "Who has the most Premier League appearances?",
+   "a": "James Milner! He passed Gareth Barry in twenty twenty-six."
+  },
+  {
+   "q": "Who scored the first ever Premier League goal?",
+   "a": "Brian Deane! For Sheffield United."
+  },
+  {
+   "q": "Who scored the fastest Premier League hat-trick?",
+   "a": "Sadio Mané! In under three minutes."
+  },
+  {
+   "q": "What's the biggest winning margin in a Premier League game?",
+   "a": "Nine goals! Nine nil, the record scoreline."
+  },
+  {
+   "q": "Who finished second in the twenty twenty-five, twenty-six Golden Boot race?",
+   "a": "Igor Thiago! Behind Haaland."
+  },
+  {
+   "q": "Last one. Who won the twenty twenty-five, twenty-six Premier League?",
+   "a": "Arsenal! Their first title in twenty-two years."
+  }
+ ],
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Premier League Quiz: Only REAL Fans Get 20/20 ⚽🏆",
+  "description": "20 Premier League questions – from EASY to LEGEND level ⚽ Can you get all 20?\nComment your score 👇\n\nSubscribe for a new quiz every day! 🧠\n\n#PremierLeague #FootballQuiz #EPL #SoccerQuiz #Quiz #Football\n\nMusic: original. Not affiliated with the Premier League or any club.",
+  "tags": [
+   "premier league quiz",
+   "football quiz",
+   "soccer quiz",
+   "epl quiz",
+   "quiz",
+   "premier league",
+   "arsenal",
+   "haaland"
+  ],
+  "categoryId": "17",
+  "comment": "Be honest… how many did you get? The Igor Thiago one is brutal 😅"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "neon",
+  "title": "Premier League Quiz",
+  "header": "PREMIER LEAGUE QUIZ",
+  "hook": "ONLY REAL FANS GET 20/20 😏",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 9,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "PREMIER LEAGUE **QUIZ**",
+   "CAN YOU GET **20/20**?",
+   "ONLY **1 FAN** GETS #19"
+  ],
+  "thumbEmoji": "⚽",
+  "thumbBadge": "20 QUESTIONS ⚽ EASY → LEGEND",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "Who is the Premier League's all-time **top scorer**?",
+    "answers": [
+     "Wayne Rooney",
+     "Harry Kane",
+     "Alan Shearer",
+     "Thierry Henry"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "⚽  🥇"
+   },
+   {
+    "q": "Which club went a whole season **unbeaten**?",
+    "answers": [
+     "Arsenal",
+     "Chelsea",
+     "Man United",
+     "Liverpool"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🛡️  0️⃣"
+   },
+   {
+    "q": "Who won the title in 2016 at **5000-1** odds?",
+    "answers": [
+     "Tottenham",
+     "Leicester City",
+     "West Ham",
+     "Everton"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🎰  5000-1"
+   },
+   {
+    "q": "Which club has won the **most** Premier League titles?",
+    "answers": [
+     "Man City",
+     "Chelsea",
+     "Arsenal",
+     "Man United"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🏆  🔢"
+   },
+   {
+    "q": "Who scored the famous **93:20** title winner in 2012?",
+    "answers": [
+     "Sergio Agüero",
+     "Edin Džeko",
+     "Carlos Tevez",
+     "Mario Balotelli"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "⏱️  93:20"
+   },
+   {
+    "q": "What's the record for goals in **one** PL season?",
+    "answers": [
+     "32",
+     "34",
+     "38",
+     "36"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "⚽  📈"
+   },
+   {
+    "q": "Which team set the record of **100 points**?",
+    "answers": [
+     "Liverpool 2020",
+     "Man City 2018",
+     "Chelsea 2005",
+     "Arsenal 2004"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "💯"
+   },
+   {
+    "q": "Which manager won the **most** PL titles?",
+    "answers": [
+     "Pep Guardiola",
+     "Arsène Wenger",
+     "Alex Ferguson",
+     "José Mourinho"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "👔  🏆"
+   },
+   {
+    "q": "Who won the Premier League in **1995**?",
+    "answers": [
+     "Newcastle",
+     "Blackburn",
+     "Liverpool",
+     "Leeds"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏆  1995"
+   },
+   {
+    "q": "Which keeper has the most PL **clean sheets**?",
+    "answers": [
+     "David de Gea",
+     "Edwin van der Sar",
+     "Petr Čech",
+     "Alisson"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🧤  🚫⚽"
+   },
+   {
+    "q": "Who has the most PL **assists** ever?",
+    "answers": [
+     "Ryan Giggs",
+     "Kevin De Bruyne",
+     "Cesc Fàbregas",
+     "Frank Lampard"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🅰️  🎯"
+   },
+   {
+    "q": "Which club got just **11 points** in one season?",
+    "answers": [
+     "Sunderland",
+     "Sheffield United",
+     "Derby County",
+     "Huddersfield"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "📉  11"
+   },
+   {
+    "q": "Who scored the **fastest** goal in PL history?",
+    "answers": [
+     "Ledley King",
+     "Alan Shearer",
+     "Christian Eriksen",
+     "Shane Long"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "⏱️  7.69s"
+   },
+   {
+    "q": "How many titles **in a row** did Man City win?",
+    "answers": [
+     "Three",
+     "Four",
+     "Five",
+     "Two"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🔁  🏆"
+   },
+   {
+    "q": "Who has the most PL **appearances**?",
+    "answers": [
+     "Gareth Barry",
+     "Ryan Giggs",
+     "Frank Lampard",
+     "James Milner"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "👟  🔢"
+   },
+   {
+    "q": "Who scored the **first ever** Premier League goal?",
+    "answers": [
+     "Brian Deane",
+     "Alan Shearer",
+     "Eric Cantona",
+     "Ian Wright"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "⚽  1992"
+   },
+   {
+    "q": "Who scored the **fastest** PL hat-trick?",
+    "answers": [
+     "Robbie Fowler",
+     "Sadio Mané",
+     "Sergio Agüero",
+     "Jermain Defoe"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🎩  ⏱️"
+   },
+   {
+    "q": "What's the **biggest** winning margin in a PL game?",
+    "answers": [
+     "7 goals",
+     "8 goals",
+     "10 goals",
+     "9 goals"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🥅  😱"
+   },
+   {
+    "q": "Who was **second** in the 2025-26 Golden Boot race?",
+    "answers": [
+     "Mohamed Salah",
+     "Igor Thiago",
+     "Alexander Isak",
+     "Bukayo Saka"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "👟  🥈"
+   },
+   {
+    "q": "Who won the **2025-26** Premier League?",
+    "answers": [
+     "Man City",
+     "Liverpool",
+     "Arsenal",
+     "Chelsea"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🏆  2026"
+   }
+  ]
+ }
+}

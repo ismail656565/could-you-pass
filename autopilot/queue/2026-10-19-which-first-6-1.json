@@ -1,0 +1,133 @@
+{
+ "id": "which-first-6-1",
+ "lines": [
+  {
+   "q": "Which came first: trees, dinosaurs, sharks or flowers?",
+   "a": "Sharks! They're older than trees."
+  },
+  {
+   "q": "Which is the oldest?",
+   "a": "Oxford University! Older than the Aztecs."
+  },
+  {
+   "q": "Which planet is closest to Earth on average?",
+   "a": "Mercury! Not Venus."
+  },
+  {
+   "q": "Cleopatra lived closer in time to…?",
+   "a": "The Moon landing! Not the pyramids."
+  },
+  {
+   "q": "Which is hotter?",
+   "a": "Lightning! Five times hotter than the Sun's surface."
+  },
+  {
+   "q": "Last one. Which was invented first?",
+   "a": "The fax machine! Back in eighteen forty-three."
+  }
+ ],
+ "youtube": {
+  "title": "Which Came First? 6 Questions 90% Get Wrong 🤯 #shorts",
+  "description": "Which is older, hotter or closer? 6 questions that trick almost everyone 🤯\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #whichcamefirst #facts #generalknowledge #shorts\n\nPhotos via Wikimedia Commons: Great white shark – Olga Ernst (CC BY-SA 4.0); Venus – NASA/JPL-Caltech (public domain); Great Pyramid – kallerna (CC BY-SA 3.0). Music: original.",
+  "tags": [
+   "quiz",
+   "trivia",
+   "which came first",
+   "general knowledge",
+   "facts",
+   "shorts"
+  ],
+  "comment": "The Cleopatra one destroyed me 😅 how many did you get?"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Which Came First?",
+  "header": "WHICH CAME FIRST?",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which came **first**?",
+    "answers": [
+     "Trees",
+     "Dinosaurs",
+     "Sharks",
+     "Flowers"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "image": "bilder/q2-shark.jpg"
+   },
+   {
+    "q": "Which is the **oldest**?",
+    "answers": [
+     "Aztec Empire",
+     "Machu Picchu",
+     "Oxford University",
+     "Tower of Pisa"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🎓  🏛️  ⏳"
+   },
+   {
+    "q": "Which planet is **closest** to Earth on average?",
+    "answers": [
+     "Venus",
+     "Mercury",
+     "Mars",
+     "Jupiter"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "image": "bilder/q2-venus.jpg"
+   },
+   {
+    "q": "Cleopatra lived **closer** in time to…?",
+    "answers": [
+     "The Great Pyramid",
+     "Stonehenge",
+     "The first pharaoh",
+     "The Moon landing"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "image": "bilder/q2-pyramid.jpg"
+   },
+   {
+    "q": "Which is **hotter**?",
+    "answers": [
+     "Lightning",
+     "Sun's surface",
+     "Lava",
+     "A blowtorch"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🔥  ⚡  🌋"
+   },
+   {
+    "q": "Which was invented **first**?",
+    "answers": [
+     "Telephone",
+     "Radio",
+     "Fax machine",
+     "Light bulb"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "📞  📻  💡"
+   }
+  ]
+ }
+}
