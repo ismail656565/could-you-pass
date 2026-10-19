@@ -1,0 +1,86 @@
+{
+ "id": "halloween-trap-3-0",
+ "force": true,
+ "lines": [
+  {
+   "q": "Frankenstein is the name of the what?",
+   "a": "The scientist! The monster has no name."
+  },
+  {
+   "q": "A pumpkin is technically a what?",
+   "a": "A fruit! It grows from a flower and has seeds."
+  },
+  {
+   "q": "Last one. Are bats blind?",
+   "a": "No! Bats can see. Many see quite well."
+  }
+ ],
+ "youtube": {
+  "title": "3 Spooky Questions 90% Get Wrong 🎃 #shorts",
+  "description": "3 spooky trivia questions that trick almost everyone 🎃\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#halloween #halloweenquiz #quiz #trivia #spooky #shorts\n\nMusic: original.",
+  "tags": [
+   "halloween quiz",
+   "halloween trivia",
+   "quiz",
+   "trivia",
+   "spooky",
+   "shorts"
+  ],
+  "comment": "The Frankenstein one gets everyone 😅 Comment your score /3 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Halloween Trivia",
+  "header": "HALLOWEEN TRIVIA",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #3 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "**Frankenstein** is the name of the…?",
+    "answers": [
+     "Monster",
+     "Scientist",
+     "Castle",
+     "Village"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🧟  ⚡"
+   },
+   {
+    "q": "A **pumpkin** is technically a…?",
+    "answers": [
+     "Vegetable",
+     "Root",
+     "Fruit",
+     "Nut"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🎃  🔬"
+   },
+   {
+    "q": "Are **bats** blind?",
+    "answers": [
+     "Yes, totally",
+     "Only in daylight",
+     "Only baby bats",
+     "No, they can see"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🦇  👀"
+   }
+  ]
+ }
+}
