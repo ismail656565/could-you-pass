@@ -83,7 +83,7 @@ jobs:
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
           PRIVACY: ${{ vars.PRIVACY || 'public' }}
-          RENDER_CONCURRENCY: '4'
+          RENDER_CONCURRENCY: '100%'
         run: python autopilot/autopilot.py $MODE
 
       - name: Fertiges Video zum Ansehen speichern
