@@ -469,10 +469,10 @@ def produce_one(p):
         story['audio'] = f'audio/{name}.mp3'
         build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
         (ROOT / 'stories' / f'{name}.json').write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf-8')
-        r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=ROOT, shell=(os.name == 'nt'))
+        r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=ROOT, shell=(os.name == 'nt'), capture_output=True, text=True)
         mp4 = ROOT / 'out' / f'{name}.mp4'
         if r.returncode != 0 or not mp4.exists():
-            raise RuntimeError('Rendern fehlgeschlagen')
+            raise RuntimeError('Rendern fehlgeschlagen: ' + (r.stdout[-1500:] + r.stderr[-1500:]).replace('\n', ' | '))
         log('Gerendert')
         if story.get('format') == 'long':
             variants = render_thumbs(name, story)
@@ -577,7 +577,9 @@ def main():
             story['audio'] = f'audio/{name}.mp3'
             build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
             (ROOT / 'stories' / f'{name}.json').write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf-8')
-            r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=ROOT)
+            r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=ROOT, capture_output=True, text=True)
+            if r.returncode:
+                log('Render-Ausgabe:', (r.stdout[-1500:] + r.stderr[-1500:]).replace('\n', ' | '))
             log(f'Testlauf {name}: Render-Code {r.returncode}, Dauer {story["durationInSeconds"]} s')
     elif cmd == 'thumbs':
         # nur Vorschaubilder rendern: python autopilot.py thumbs stories/<id>.json
