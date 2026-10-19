@@ -27,9 +27,9 @@
    "level": "EASY",
    "image": "bilder/q2-venus.jpg",
    "start": 0.0,
-   "countdownStart": 4.77,
-   "reveal": 7.27,
-   "end": 10.58
+   "countdownStart": 4.769,
+   "reveal": 7.269,
+   "end": 10.588
   },
   {
    "q": "Which food **never** spoils?",
@@ -42,10 +42,10 @@
    "correct": 2,
    "level": "MEDIUM",
    "image": "bilder/q2-honey.jpg",
-   "start": 10.58,
-   "countdownStart": 12.738,
-   "reveal": 15.238,
-   "end": 18.401
+   "start": 10.588,
+   "countdownStart": 12.743,
+   "reveal": 15.243,
+   "end": 18.406
   },
   {
    "q": "How many **hearts** does an octopus have?",
@@ -58,13 +58,13 @@
    "correct": 3,
    "level": "HARD",
    "image": "bilder/q2-octopus.jpg",
-   "start": 18.401,
-   "countdownStart": 21.078,
-   "reveal": 23.578,
-   "end": 26.417
+   "start": 18.406,
+   "countdownStart": 21.084,
+   "reveal": 23.584,
+   "end": 26.424
   }
  ],
  "audio": "audio/kokoro-test.mp3",
- "outroStart": 26.417,
- "durationInSeconds": 26.417
+ "outroStart": 26.424,
+ "durationInSeconds": 26.424
 }

@@ -65,3 +65,6 @@
 [2026-10-19 15:58:12] Ton fertig: 26.4 s
 [2026-10-19 15:58:13] Render-Ausgabe:  | [31mError: concurrency is set higher than the amount of CPU cores available. Available CPU cores: 2, value set: 4[39m | [31m    at Object.validateConcurrency (/home/runner/work/could-you-pass/could-you-pass/node_modules/@remotion/renderer/dist/validate-concurrency.js:24:23)[39m | [31m    at renderVideoFlow (/home/runner/work/could-you-pass/could-you-pass/node_modules/@remotion/cli/dist/render-flows/render.js:66:32)[39m | [31m    at render (/home/runner/work/could-you-pass/could-you-pass/node_modules/@remotion/cli/dist/render.js:163:40)[39m | [31m    at cli (/home/runner/work/could-you-pass/could-you-pass/node_modules/@remotion/cli/dist/index.js:115:39)[39m | [31m    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)[39m | 
 [2026-10-19 15:58:13] Testlauf kokoro-test: Render-Code 1, Dauer 26.417 s
+[2026-10-19 16:02:18] Stimme: Kokoro af_heart
+[2026-10-19 16:02:35] Ton fertig: 26.4 s
+[2026-10-19 16:05:24] Testlauf kokoro-test: Render-Code 0, Dauer 26.424 s
