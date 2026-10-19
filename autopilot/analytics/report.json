@@ -1,23 +1,23 @@
 {
- "fetched": "2026-10-19T11:27",
+ "fetched": "2026-10-19T18:31",
  "channel": "COULD YOU PASS?",
- "subscribers": "6",
+ "subscribers": "7",
  "videos": [
+  {
+   "id": "CsJYvRLyZfQ",
+   "title": "Premier League Quiz: Only REAL Fans Get 20/20 ⚽🏆",
+   "published": "2026-10-19T12:00:05Z",
+   "retention": [],
+   "durationSec": 207,
+   "publicViews": "1"
+  },
   {
    "id": "v9hE4-ksUq0",
    "title": "Which Came First? 6 Questions 90% Get Wrong 🤯 #shorts",
    "published": "2026-10-19T08:00:38Z",
    "retention": [],
    "durationSec": 46,
-   "publicViews": "510"
-  },
-  {
-   "id": "CsJYvRLyZfQ",
-   "title": "Premier League Quiz: Only REAL Fans Get 20/20 ⚽🏆",
-   "published": "2026-10-19T07:05:43Z",
-   "retention": [],
-   "durationSec": 207,
-   "publicViews": "0"
+   "publicViews": "1151"
   },
   {
    "id": "kgWV2rM_BLc",
@@ -33,7 +33,7 @@
    "published": "2026-10-18T15:41:15Z",
    "retention": [],
    "durationSec": 43,
-   "publicViews": "1148"
+   "publicViews": "1155"
   },
   {
    "id": "gulbOkDMLgg",
@@ -41,7 +41,7 @@
    "published": "2026-10-18T07:45:37Z",
    "retention": [],
    "durationSec": 44,
-   "publicViews": "1209"
+   "publicViews": "1228"
   },
   {
    "id": "AU5WA_fEFNc",
@@ -49,7 +49,7 @@
    "published": "2026-10-17T19:54:28Z",
    "retention": [],
    "durationSec": 182,
-   "publicViews": "101"
+   "publicViews": "108"
   },
   {
    "id": "P9BSOeOxJJc",
@@ -57,7 +57,7 @@
    "published": "2026-10-17T17:25:41Z",
    "retention": [],
    "durationSec": 61,
-   "publicViews": "1292"
+   "publicViews": "1306"
   },
   {
    "id": "463V8Id0PPA",
@@ -72,7 +72,7 @@
    "subscribersGained": 1,
    "retention": [],
    "durationSec": 44,
-   "publicViews": "1207",
+   "publicViews": "1217",
    "engagedShare": 0.75
   },
   {
@@ -584,7 +584,7 @@
     ]
    ],
    "durationSec": 56,
-   "publicViews": "442",
+   "publicViews": "444",
    "engagedShare": 0.457
   },
   {
@@ -1101,7 +1101,7 @@
     ]
    ],
    "durationSec": 63,
-   "publicViews": "296",
+   "publicViews": "299",
    "engagedShare": 0.689
   },
   {
@@ -1116,7 +1116,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 78,
-   "publicViews": "1086",
+   "publicViews": "1097",
    "engagedShare": 0.464
   },
   {
@@ -1131,7 +1131,7 @@
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 105,
-   "publicViews": "1261",
+   "publicViews": "1270",
    "engagedShare": 0.53
   },
   {
@@ -1146,7 +1146,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 42,
-   "publicViews": "52",
+   "publicViews": "54",
    "engagedShare": 0.553
   }
  ]

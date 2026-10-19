@@ -1,0 +1,594 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "neon",
+ "title": "Halloween Quiz",
+ "header": "HALLOWEEN QUIZ",
+ "hook": "CAN YOU GET 30/35? 🎃",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 17,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "HALLOWEEN **QUIZ**",
+  "CAN YOU GET **30/35**?",
+  "ONLY 1 IN 10 GET **#35**"
+ ],
+ "thumbEmoji": "🎃",
+ "thumbBadge": "35 QUESTIONS 🎃 EASY → LEGEND",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "Halloween is on which date in **October**?",
+   "answers": [
+    "October 30",
+    "October 13",
+    "November 1",
+    "October 31"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "📅  🎃",
+   "start": 0.0,
+   "countdownStart": 7.836,
+   "reveal": 12.836,
+   "end": 17.308
+  },
+  {
+   "q": "What do most people **carve** at Halloween?",
+   "answers": [
+    "Pumpkins",
+    "Watermelons",
+    "Pineapples",
+    "Coconuts"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🔪  🕯️",
+   "start": 17.308,
+   "countdownStart": 19.356,
+   "reveal": 24.356,
+   "end": 27.786
+  },
+  {
+   "q": "Which colour **cat** is said to bring bad luck?",
+   "answers": [
+    "White",
+    "Ginger",
+    "Black",
+    "Grey"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🐈  🍀",
+   "start": 27.786,
+   "countdownStart": 30.082,
+   "reveal": 35.082,
+   "end": 38.614
+  },
+  {
+   "q": "Which monster drinks **blood**?",
+   "answers": [
+    "A zombie",
+    "A vampire",
+    "A mummy",
+    "A ghost"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🦇  🩸",
+   "start": 38.614,
+   "countdownStart": 40.215,
+   "reveal": 45.215,
+   "end": 47.398
+  },
+  {
+   "q": "Who wrote the novel **Frankenstein**?",
+   "answers": [
+    "Mary Shelley",
+    "Jane Austen",
+    "Edgar Allan Poe",
+    "Charles Dickens"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "📖  ⚡",
+   "start": 47.398,
+   "countdownStart": 49.256,
+   "reveal": 54.256,
+   "end": 58.611
+  },
+  {
+   "q": "Which creature appears at the **full moon**?",
+   "answers": [
+    "A mummy",
+    "A goblin",
+    "A werewolf",
+    "A witch"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🌕  🐺",
+   "start": 58.611,
+   "countdownStart": 60.897,
+   "reveal": 65.897,
+   "end": 68.014
+  },
+  {
+   "q": "What do children say at the **door**?",
+   "answers": [
+    "Happy Halloween",
+    "Boo to you",
+    "Trick or treat",
+    "Sweets please"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🚪  🍬",
+   "start": 68.014,
+   "countdownStart": 70.433,
+   "reveal": 75.433,
+   "end": 77.732
+  },
+  {
+   "q": "Which **mammal** can truly fly?",
+   "answers": [
+    "The flying squirrel",
+    "The bat",
+    "The sugar glider",
+    "The colugo"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🦇  🌙",
+   "start": 77.732,
+   "countdownStart": 79.458,
+   "reveal": 84.458,
+   "end": 87.545
+  },
+  {
+   "q": "Halloween grew out of which **Celtic** festival?",
+   "answers": [
+    "Beltane",
+    "Yule",
+    "Samhain",
+    "Imbolc"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🔥  🍂",
+   "start": 87.545,
+   "countdownStart": 90.44,
+   "reveal": 95.44,
+   "end": 98.358
+  },
+  {
+   "q": "Jack-o'-lanterns are named after which **legend**?",
+   "answers": [
+    "Jack Frost",
+    "Stingy Jack",
+    "Jack the Giant",
+    "Jumping Jack"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "👹  🏮",
+   "start": 98.358,
+   "countdownStart": 101.779,
+   "reveal": 106.779,
+   "end": 109.983
+  },
+  {
+   "q": "Count Dracula's castle is in which **region**?",
+   "answers": [
+    "Transylvania",
+    "Bavaria",
+    "Tuscany",
+    "Siberia"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🏰  🦇",
+   "start": 109.983,
+   "countdownStart": 113.327,
+   "reveal": 118.327,
+   "end": 122.124
+  },
+  {
+   "q": "Who wrote **Dracula** in 1897?",
+   "answers": [
+    "H. G. Wells",
+    "Bram Stoker",
+    "Oscar Wilde",
+    "Arthur Conan Doyle"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "📖  🧛",
+   "start": 122.124,
+   "countdownStart": 125.672,
+   "reveal": 130.672,
+   "end": 132.935
+  },
+  {
+   "q": "Who played Dracula in the **1931** film?",
+   "answers": [
+    "Boris Karloff",
+    "Lon Chaney",
+    "Bela Lugosi",
+    "Vincent Price"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🎬  🧛",
+   "start": 132.935,
+   "countdownStart": 136.473,
+   "reveal": 141.473,
+   "end": 143.86
+  },
+  {
+   "q": "A group of **crows** is called a…?",
+   "answers": [
+    "Murder",
+    "Coven",
+    "Shadow",
+    "Funeral"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🐦‍⬛  🐦‍⬛",
+   "start": 143.86,
+   "countdownStart": 145.81,
+   "reveal": 150.81,
+   "end": 153.582
+  },
+  {
+   "q": "Which 1960 Hitchcock film has a famous **shower** scene?",
+   "answers": [
+    "The Birds",
+    "Vertigo",
+    "Rear Window",
+    "Psycho"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🚿  🔪",
+   "start": 153.582,
+   "countdownStart": 157.057,
+   "reveal": 162.057,
+   "end": 164.081
+  },
+  {
+   "q": "Which ghost haunts **Sleepy Hollow**?",
+   "answers": [
+    "The Grey Lady",
+    "The Headless Horseman",
+    "Bloody Mary",
+    "The Phantom Rider"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🐎  🎃",
+   "start": 164.081,
+   "countdownStart": 165.85,
+   "reveal": 170.85,
+   "end": 173.314
+  },
+  {
+   "q": "Whose tomb was found in **1922**?",
+   "answers": [
+    "Ramesses",
+    "Cleopatra",
+    "Tutankhamun",
+    "Khufu"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "⚱️  🏺",
+   "start": 173.314,
+   "countdownStart": 176.374,
+   "reveal": 181.374,
+   "end": 184.251
+  },
+  {
+   "q": "Michael Jackson's **Thriller** album came out in…?",
+   "answers": [
+    "1979",
+    "1982",
+    "1985",
+    "1987"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🧟  🕺",
+   "start": 184.251,
+   "countdownStart": 187.256,
+   "reveal": 192.256,
+   "end": 197.786
+  },
+  {
+   "q": "Whose voice does the **spooky rap** in Thriller?",
+   "answers": [
+    "Christopher Lee",
+    "Boris Karloff",
+    "Vincent Price",
+    "Orson Welles"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🎙️  👻",
+   "start": 197.786,
+   "countdownStart": 200.068,
+   "reveal": 205.068,
+   "end": 208.332
+  },
+  {
+   "q": "What does the word **Halloween** come from?",
+   "answers": [
+    "Hollow Evening",
+    "Hallowed Moon",
+    "Hell's Evening",
+    "All Hallows' Eve"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "📜  ✨",
+   "start": 208.332,
+   "countdownStart": 210.22,
+   "reveal": 215.22,
+   "end": 219.488
+  },
+  {
+   "q": "Who played the **monster** in Frankenstein (1931)?",
+   "answers": [
+    "Boris Karloff",
+    "Bela Lugosi",
+    "Lon Chaney",
+    "Peter Cushing"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🧟  ⚡",
+   "start": 219.488,
+   "countdownStart": 222.921,
+   "reveal": 227.921,
+   "end": 230.3
+  },
+  {
+   "q": "Where were the famous 1692 **witch trials**?",
+   "answers": [
+    "Plymouth",
+    "Salem",
+    "Boston",
+    "Jamestown"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🧹  ⚖️",
+   "start": 230.3,
+   "countdownStart": 233.179,
+   "reveal": 238.179,
+   "end": 240.91
+  },
+  {
+   "q": "Who wrote the poem **The Raven**?",
+   "answers": [
+    "Edgar Allan Poe",
+    "Walt Whitman",
+    "Robert Frost",
+    "Mark Twain"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🐦‍⬛  🖋️",
+   "start": 240.91,
+   "countdownStart": 242.434,
+   "reveal": 247.434,
+   "end": 250.629
+  },
+  {
+   "q": "Which famous **escape artist** died on Halloween?",
+   "answers": [
+    "David Copperfield",
+    "Harry Blackstone",
+    "Harry Houdini",
+    "Howard Thurston"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "⛓️  🔐",
+   "start": 250.629,
+   "countdownStart": 254.715,
+   "reveal": 259.715,
+   "end": 261.967
+  },
+  {
+   "q": "Who is the masked killer in **Halloween** (1978)?",
+   "answers": [
+    "Jason Voorhees",
+    "Michael Myers",
+    "Freddy Krueger",
+    "Norman Bates"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🔪  🎭",
+   "start": 261.967,
+   "countdownStart": 265.906,
+   "reveal": 270.906,
+   "end": 274.293
+  },
+  {
+   "q": "**Vampire bats** live naturally in…?",
+   "answers": [
+    "Transylvania",
+    "Africa",
+    "The Americas",
+    "Australia"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🦇  🗺️",
+   "start": 274.293,
+   "countdownStart": 277.465,
+   "reveal": 282.465,
+   "end": 285.871
+  },
+  {
+   "q": "Frankenstein was conceived beside which **lake**?",
+   "answers": [
+    "Loch Ness",
+    "Lake Como",
+    "Lake Geneva",
+    "Lake Windermere"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🏞️  ⛈️",
+   "start": 285.871,
+   "countdownStart": 289.117,
+   "reveal": 294.117,
+   "end": 298.577
+  },
+  {
+   "q": "When was **Frankenstein** first published?",
+   "answers": [
+    "1789",
+    "1818",
+    "1847",
+    "1897"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "📖  📅",
+   "start": 298.577,
+   "countdownStart": 300.671,
+   "reveal": 305.671,
+   "end": 308.037
+  },
+  {
+   "q": "Vlad the Impaler ruled which **land**?",
+   "answers": [
+    "Wallachia",
+    "Transylvania",
+    "Hungary",
+    "Serbia"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "👑  🗡️",
+   "start": 308.037,
+   "countdownStart": 310.512,
+   "reveal": 315.512,
+   "end": 318.786
+  },
+  {
+   "q": "Which US state grows the most **pumpkins**?",
+   "answers": [
+    "California",
+    "Ohio",
+    "Texas",
+    "Illinois"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🎃  🚜",
+   "start": 318.786,
+   "countdownStart": 321.066,
+   "reveal": 326.066,
+   "end": 328.62
+  },
+  {
+   "q": "Who directed **Night of the Living Dead**?",
+   "answers": [
+    "John Carpenter",
+    "Wes Craven",
+    "George A. Romero",
+    "Tobe Hooper"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🧟  🎬",
+   "start": 328.62,
+   "countdownStart": 332.046,
+   "reveal": 337.046,
+   "end": 339.386
+  },
+  {
+   "q": "Who waits for the **Great Pumpkin**?",
+   "answers": [
+    "Linus",
+    "Charlie Brown",
+    "Snoopy",
+    "Lucy"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🎃  🌙",
+   "start": 339.386,
+   "countdownStart": 342.928,
+   "reveal": 347.928,
+   "end": 350.832
+  },
+  {
+   "q": "\"Trick or treat\" first appeared in **print** in…?",
+   "answers": [
+    "The 1890s",
+    "The 1920s",
+    "The 1940s",
+    "The 1950s"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "📰  🍬",
+   "start": 350.832,
+   "countdownStart": 354.374,
+   "reveal": 359.374,
+   "end": 363.582
+  },
+  {
+   "q": "War of the Worlds caused panic in which **year**?",
+   "answers": [
+    "1938",
+    "1929",
+    "1947",
+    "1953"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "📻  👽",
+   "start": 363.582,
+   "countdownStart": 368.743,
+   "reveal": 373.743,
+   "end": 376.347
+  },
+  {
+   "q": "Bram Stoker was born in which **country**?",
+   "answers": [
+    "England",
+    "Romania",
+    "Scotland",
+    "Ireland"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🍀  🖋️",
+   "start": 376.347,
+   "countdownStart": 381.199,
+   "reveal": 386.199,
+   "end": 388.962
+  }
+ ],
+ "audio": "audio/halloween-quiz-35.mp3",
+ "outroStart": 388.962,
+ "durationInSeconds": 399.064
+}

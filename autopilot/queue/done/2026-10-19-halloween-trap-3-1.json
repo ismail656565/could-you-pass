@@ -54,7 +54,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🏮  🔪"
+    "cardText": "🏮  🔪",
+    "start": 0.0,
+    "countdownStart": 3.414,
+    "reveal": 5.914,
+    "end": 9.178
    },
    {
     "q": "What is the fear of **Halloween** called?",
@@ -66,7 +70,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "😱  🎃"
+    "cardText": "😱  🎃",
+    "start": 9.178,
+    "countdownStart": 11.008,
+    "reveal": 13.508,
+    "end": 17.605
    },
    {
     "q": "**Candy corn** was first sold as…?",
@@ -78,9 +86,20 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🍬  🌽"
+    "cardText": "🍬  🌽",
+    "start": 17.605,
+    "countdownStart": 20.656,
+    "reveal": 23.156,
+    "end": 25.447
    }
-  ]
+  ],
+  "audio": "audio/halloween-trap-3-1.mp3",
+  "outroStart": 25.447,
+  "durationInSeconds": 25.447
  },
- "force": true
+ "force": true,
+ "uploaded": {
+  "videoId": "aBw0DS0IqYE",
+  "at": "2026-10-19T18:33"
+ }
 }

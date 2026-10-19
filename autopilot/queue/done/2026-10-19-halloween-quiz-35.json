@@ -203,7 +203,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "📅  🎃"
+    "cardText": "📅  🎃",
+    "start": 0.0,
+    "countdownStart": 7.836,
+    "reveal": 12.836,
+    "end": 17.308
    },
    {
     "q": "What do most people **carve** at Halloween?",
@@ -215,7 +219,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🔪  🕯️"
+    "cardText": "🔪  🕯️",
+    "start": 17.308,
+    "countdownStart": 19.356,
+    "reveal": 24.356,
+    "end": 27.786
    },
    {
     "q": "Which colour **cat** is said to bring bad luck?",
@@ -227,7 +235,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🐈  🍀"
+    "cardText": "🐈  🍀",
+    "start": 27.786,
+    "countdownStart": 30.082,
+    "reveal": 35.082,
+    "end": 38.614
    },
    {
     "q": "Which monster drinks **blood**?",
@@ -239,7 +251,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🦇  🩸"
+    "cardText": "🦇  🩸",
+    "start": 38.614,
+    "countdownStart": 40.215,
+    "reveal": 45.215,
+    "end": 47.398
    },
    {
     "q": "Who wrote the novel **Frankenstein**?",
@@ -251,7 +267,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "📖  ⚡"
+    "cardText": "📖  ⚡",
+    "start": 47.398,
+    "countdownStart": 49.256,
+    "reveal": 54.256,
+    "end": 58.611
    },
    {
     "q": "Which creature appears at the **full moon**?",
@@ -263,7 +283,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🌕  🐺"
+    "cardText": "🌕  🐺",
+    "start": 58.611,
+    "countdownStart": 60.897,
+    "reveal": 65.897,
+    "end": 68.014
    },
    {
     "q": "What do children say at the **door**?",
@@ -275,7 +299,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🚪  🍬"
+    "cardText": "🚪  🍬",
+    "start": 68.014,
+    "countdownStart": 70.433,
+    "reveal": 75.433,
+    "end": 77.732
    },
    {
     "q": "Which **mammal** can truly fly?",
@@ -287,7 +315,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🦇  🌙"
+    "cardText": "🦇  🌙",
+    "start": 77.732,
+    "countdownStart": 79.458,
+    "reveal": 84.458,
+    "end": 87.545
    },
    {
     "q": "Halloween grew out of which **Celtic** festival?",
@@ -299,7 +331,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🔥  🍂"
+    "cardText": "🔥  🍂",
+    "start": 87.545,
+    "countdownStart": 90.44,
+    "reveal": 95.44,
+    "end": 98.358
    },
    {
     "q": "Jack-o'-lanterns are named after which **legend**?",
@@ -311,7 +347,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "👹  🏮"
+    "cardText": "👹  🏮",
+    "start": 98.358,
+    "countdownStart": 101.779,
+    "reveal": 106.779,
+    "end": 109.983
    },
    {
     "q": "Count Dracula's castle is in which **region**?",
@@ -323,7 +363,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🏰  🦇"
+    "cardText": "🏰  🦇",
+    "start": 109.983,
+    "countdownStart": 113.327,
+    "reveal": 118.327,
+    "end": 122.124
    },
    {
     "q": "Who wrote **Dracula** in 1897?",
@@ -335,7 +379,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "📖  🧛"
+    "cardText": "📖  🧛",
+    "start": 122.124,
+    "countdownStart": 125.672,
+    "reveal": 130.672,
+    "end": 132.935
    },
    {
     "q": "Who played Dracula in the **1931** film?",
@@ -347,7 +395,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🎬  🧛"
+    "cardText": "🎬  🧛",
+    "start": 132.935,
+    "countdownStart": 136.473,
+    "reveal": 141.473,
+    "end": 143.86
    },
    {
     "q": "A group of **crows** is called a…?",
@@ -359,7 +411,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🐦‍⬛  🐦‍⬛"
+    "cardText": "🐦‍⬛  🐦‍⬛",
+    "start": 143.86,
+    "countdownStart": 145.81,
+    "reveal": 150.81,
+    "end": 153.582
    },
    {
     "q": "Which 1960 Hitchcock film has a famous **shower** scene?",
@@ -371,7 +427,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🚿  🔪"
+    "cardText": "🚿  🔪",
+    "start": 153.582,
+    "countdownStart": 157.057,
+    "reveal": 162.057,
+    "end": 164.081
    },
    {
     "q": "Which ghost haunts **Sleepy Hollow**?",
@@ -383,7 +443,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🐎  🎃"
+    "cardText": "🐎  🎃",
+    "start": 164.081,
+    "countdownStart": 165.85,
+    "reveal": 170.85,
+    "end": 173.314
    },
    {
     "q": "Whose tomb was found in **1922**?",
@@ -395,7 +459,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "⚱️  🏺"
+    "cardText": "⚱️  🏺",
+    "start": 173.314,
+    "countdownStart": 176.374,
+    "reveal": 181.374,
+    "end": 184.251
    },
    {
     "q": "Michael Jackson's **Thriller** album came out in…?",
@@ -407,7 +475,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🧟  🕺"
+    "cardText": "🧟  🕺",
+    "start": 184.251,
+    "countdownStart": 187.256,
+    "reveal": 192.256,
+    "end": 197.786
    },
    {
     "q": "Whose voice does the **spooky rap** in Thriller?",
@@ -419,7 +491,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🎙️  👻"
+    "cardText": "🎙️  👻",
+    "start": 197.786,
+    "countdownStart": 200.068,
+    "reveal": 205.068,
+    "end": 208.332
    },
    {
     "q": "What does the word **Halloween** come from?",
@@ -431,7 +507,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "📜  ✨"
+    "cardText": "📜  ✨",
+    "start": 208.332,
+    "countdownStart": 210.22,
+    "reveal": 215.22,
+    "end": 219.488
    },
    {
     "q": "Who played the **monster** in Frankenstein (1931)?",
@@ -443,7 +523,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🧟  ⚡"
+    "cardText": "🧟  ⚡",
+    "start": 219.488,
+    "countdownStart": 222.921,
+    "reveal": 227.921,
+    "end": 230.3
    },
    {
     "q": "Where were the famous 1692 **witch trials**?",
@@ -455,7 +539,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🧹  ⚖️"
+    "cardText": "🧹  ⚖️",
+    "start": 230.3,
+    "countdownStart": 233.179,
+    "reveal": 238.179,
+    "end": 240.91
    },
    {
     "q": "Who wrote the poem **The Raven**?",
@@ -467,7 +555,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🐦‍⬛  🖋️"
+    "cardText": "🐦‍⬛  🖋️",
+    "start": 240.91,
+    "countdownStart": 242.434,
+    "reveal": 247.434,
+    "end": 250.629
    },
    {
     "q": "Which famous **escape artist** died on Halloween?",
@@ -479,7 +571,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "⛓️  🔐"
+    "cardText": "⛓️  🔐",
+    "start": 250.629,
+    "countdownStart": 254.715,
+    "reveal": 259.715,
+    "end": 261.967
    },
    {
     "q": "Who is the masked killer in **Halloween** (1978)?",
@@ -491,7 +587,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🔪  🎭"
+    "cardText": "🔪  🎭",
+    "start": 261.967,
+    "countdownStart": 265.906,
+    "reveal": 270.906,
+    "end": 274.293
    },
    {
     "q": "**Vampire bats** live naturally in…?",
@@ -503,7 +603,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🦇  🗺️"
+    "cardText": "🦇  🗺️",
+    "start": 274.293,
+    "countdownStart": 277.465,
+    "reveal": 282.465,
+    "end": 285.871
    },
    {
     "q": "Frankenstein was conceived beside which **lake**?",
@@ -515,7 +619,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🏞️  ⛈️"
+    "cardText": "🏞️  ⛈️",
+    "start": 285.871,
+    "countdownStart": 289.117,
+    "reveal": 294.117,
+    "end": 298.577
    },
    {
     "q": "When was **Frankenstein** first published?",
@@ -527,7 +635,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "📖  📅"
+    "cardText": "📖  📅",
+    "start": 298.577,
+    "countdownStart": 300.671,
+    "reveal": 305.671,
+    "end": 308.037
    },
    {
     "q": "Vlad the Impaler ruled which **land**?",
@@ -539,7 +651,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "👑  🗡️"
+    "cardText": "👑  🗡️",
+    "start": 308.037,
+    "countdownStart": 310.512,
+    "reveal": 315.512,
+    "end": 318.786
    },
    {
     "q": "Which US state grows the most **pumpkins**?",
@@ -551,7 +667,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🎃  🚜"
+    "cardText": "🎃  🚜",
+    "start": 318.786,
+    "countdownStart": 321.066,
+    "reveal": 326.066,
+    "end": 328.62
    },
    {
     "q": "Who directed **Night of the Living Dead**?",
@@ -563,7 +683,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🧟  🎬"
+    "cardText": "🧟  🎬",
+    "start": 328.62,
+    "countdownStart": 332.046,
+    "reveal": 337.046,
+    "end": 339.386
    },
    {
     "q": "Who waits for the **Great Pumpkin**?",
@@ -575,7 +699,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🎃  🌙"
+    "cardText": "🎃  🌙",
+    "start": 339.386,
+    "countdownStart": 342.928,
+    "reveal": 347.928,
+    "end": 350.832
    },
    {
     "q": "\"Trick or treat\" first appeared in **print** in…?",
@@ -587,7 +715,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "📰  🍬"
+    "cardText": "📰  🍬",
+    "start": 350.832,
+    "countdownStart": 354.374,
+    "reveal": 359.374,
+    "end": 363.582
    },
    {
     "q": "War of the Worlds caused panic in which **year**?",
@@ -599,7 +731,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "📻  👽"
+    "cardText": "📻  👽",
+    "start": 363.582,
+    "countdownStart": 368.743,
+    "reveal": 373.743,
+    "end": 376.347
    },
    {
     "q": "Bram Stoker was born in which **country**?",
@@ -611,9 +747,32 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🍀  🖋️"
+    "cardText": "🍀  🖋️",
+    "start": 376.347,
+    "countdownStart": 381.199,
+    "reveal": 386.199,
+    "end": 388.962
    }
-  ]
+  ],
+  "audio": "audio/halloween-quiz-35.mp3",
+  "outroStart": 388.962,
+  "durationInSeconds": 399.064
  },
- "force": true
+ "force": true,
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/halloween-quiz-35-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-10-19",
+  "results": {},
+  "done": false
+ },
+ "uploaded": {
+  "videoId": "Feubf7dVX7Y",
+  "at": "2026-10-19T18:58"
+ }
 }

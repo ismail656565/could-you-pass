@@ -1,0 +1,70 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "Halloween Trivia",
+ "header": "HALLOWEEN TRIVIA",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #3 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Jack-o'-lanterns were first **carved** from…?",
+   "answers": [
+    "Apples",
+    "Turnips",
+    "Potatoes",
+    "Melons"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🏮  🔪",
+   "start": 0.0,
+   "countdownStart": 3.414,
+   "reveal": 5.914,
+   "end": 9.178
+  },
+  {
+   "q": "What is the fear of **Halloween** called?",
+   "answers": [
+    "Phasmophobia",
+    "Coulrophobia",
+    "Samhainophobia",
+    "Nyctophobia"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "😱  🎃",
+   "start": 9.178,
+   "countdownStart": 11.008,
+   "reveal": 13.508,
+   "end": 17.605
+  },
+  {
+   "q": "**Candy corn** was first sold as…?",
+   "answers": [
+    "Chicken Feed",
+    "Witch Teeth",
+    "Sweet Kernels",
+    "Corn Drops"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🍬  🌽",
+   "start": 17.605,
+   "countdownStart": 20.656,
+   "reveal": 23.156,
+   "end": 25.447
+  }
+ ],
+ "audio": "audio/halloween-trap-3-1.mp3",
+ "outroStart": 25.447,
+ "durationInSeconds": 25.447
+}
