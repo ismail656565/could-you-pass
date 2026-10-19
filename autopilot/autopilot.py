@@ -255,6 +255,44 @@ def build_audio(item, out_mp3):
 
 
 # ---------------------------------------------------------------- Upload
+PUBLISH_AT = {'short': '10:00', 'long': '14:00'}  # deutsche Uhrzeit
+
+
+def publish_time(item):
+    """Veröffentlichungszeit heute (Europe/Berlin) – None, wenn schon (fast) vorbei → sofort öffentlich"""
+    from zoneinfo import ZoneInfo
+    at = item.get('publishAt') or PUBLISH_AT.get(fmt_of(item))
+    if not at:
+        return None
+    tz = ZoneInfo('Europe/Berlin')
+    now = dt.datetime.now(tz)
+    h, m = map(int, at.split(':'))
+    when = now.replace(hour=h, minute=m, second=0, microsecond=0)
+    return when if when - now > dt.timedelta(minutes=10) else None
+
+
+def post_pending_comments():
+    """Erst-Kommentar posten, sobald ein geplantes Video öffentlich ist"""
+    y = None
+    for d in sorted(DONE.glob('*.json')):
+        item = json.loads(d.read_text(encoding='utf-8'))
+        vid = item.get('uploaded', {}).get('videoId')
+        if not item.get('pendingComment') or not vid:
+            continue
+        y = y or yt()
+        st = (y.videos().list(part='status', id=vid).execute().get('items') or [{}])[0].get('status', {})
+        if st.get('privacyStatus') != 'public':
+            log(f"{item['id']}: noch nicht öffentlich – Kommentar später")
+            continue
+        try:
+            y.commentThreads().insert(part='snippet', body={'snippet': {'videoId': vid, 'topLevelComment': {'snippet': {'textOriginal': item['youtube']['comment']}}}}).execute()
+            log(f"{item['id']}: Kommentar gepostet")
+            item.pop('pendingComment', None)
+            d.write_text(json.dumps(item, indent=1, ensure_ascii=False), encoding='utf-8')
+        except Exception as ex:
+            log('Kommentar nicht möglich:', str(ex)[:200])
+
+
 def upload(item, mp4):
     from googleapiclient.http import MediaFileUpload
     meta = item['youtube']
@@ -263,6 +301,10 @@ def upload(item, mp4):
         'snippet': {'title': meta['title'][:100], 'description': meta.get('description', ''), 'tags': meta.get('tags', []), 'categoryId': meta.get('categoryId', '24')},
         'status': {'privacyStatus': privacy, 'selfDeclaredMadeForKids': False},
     }
+    when = publish_time(item) if privacy == 'public' else None
+    if when:
+        body['status'].update({'privacyStatus': 'private', 'publishAt': when.astimezone(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')})
+        item['scheduledFor'] = when.isoformat(timespec='minutes')
     y = yt()
     req = y.videos().insert(part='snippet,status', body=body, media_body=MediaFileUpload(str(mp4), chunksize=-1, resumable=True))
     resp = None
@@ -277,7 +319,10 @@ def upload(item, mp4):
             log('Vorschaubild gesetzt')
         except Exception as ex:
             log('Vorschaubild nicht möglich (Kanal evtl. nicht per Telefon bestätigt):', str(ex)[:200])
-    if meta.get('comment'):
+    if meta.get('comment') and when:
+        item['pendingComment'] = True
+        log(f"Geplant für {when:%d.%m. %H:%M} Uhr (Berlin) – Kommentar folgt nach Veröffentlichung")
+    elif meta.get('comment'):
         try:
             y.commentThreads().insert(part='snippet', body={'snippet': {'videoId': vid, 'topLevelComment': {'snippet': {'textOriginal': meta['comment']}}}}).execute()
             log('Kommentar gepostet')
@@ -465,6 +510,8 @@ def main():
         analytics()
     elif cmd == 'produce':
         produce()
+    elif cmd == 'comments':
+        post_pending_comments()
     elif cmd == 'thumbs':
         # nur Vorschaubilder rendern: python autopilot.py thumbs stories/<id>.json
         st = json.loads(Path(sys.argv[2]).read_text(encoding='utf-8'))
@@ -474,6 +521,10 @@ def main():
             analytics()
         except Exception:
             log('Analytics-FEHLER:', traceback.format_exc())
+        try:
+            post_pending_comments()
+        except Exception:
+            log('Kommentar-FEHLER:', traceback.format_exc())
         try:
             thumb_rotate()
         except Exception:
