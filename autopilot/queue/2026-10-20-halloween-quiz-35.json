@@ -1,0 +1,618 @@
+{
+ "id": "halloween-quiz-35",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.3,
+  "tempo": 1.0
+ },
+ "lines": [
+  {
+   "q": "Thirty-five Halloween questions. If you get thirty right, you're a true Halloween expert. Halloween is on which date in October?",
+   "a": "October thirty-first! The night before All Saints' Day."
+  },
+  {
+   "q": "What do most people carve at Halloween?",
+   "a": "Pumpkins! Glowing jack-o'-lanterns."
+  },
+  {
+   "q": "Which colour cat is said to bring bad luck?",
+   "a": "Black! Though in Britain, they're often lucky."
+  },
+  {
+   "q": "Which monster drinks blood?",
+   "a": "A vampire!"
+  },
+  {
+   "q": "Who wrote the novel Frankenstein?",
+   "a": "Mary Shelley! She was only a teenager when she began it."
+  },
+  {
+   "q": "Which creature changes shape at the full moon?",
+   "a": "A werewolf!"
+  },
+  {
+   "q": "What do children say at the door on Halloween?",
+   "a": "Trick or treat!"
+  },
+  {
+   "q": "Which mammal can truly fly?",
+   "a": "The bat! The others only glide."
+  },
+  {
+   "q": "Halloween grew out of which ancient Celtic festival?",
+   "a": "Samhain! Pronounced sow-in."
+  },
+  {
+   "q": "The jack-o'-lantern is named after which Irish legend?",
+   "a": "Stingy Jack! He tricked the devil."
+  },
+  {
+   "q": "In the novel, Count Dracula's castle is in which region?",
+   "a": "Transylvania! In today's Romania."
+  },
+  {
+   "q": "Who wrote the novel Dracula, published in eighteen ninety-seven?",
+   "a": "Bram Stoker!"
+  },
+  {
+   "q": "Who played Dracula in the famous nineteen thirty-one film?",
+   "a": "Bela Lugosi!"
+  },
+  {
+   "q": "A group of crows is called a what?",
+   "a": "A murder! Spooky, right?"
+  },
+  {
+   "q": "Which nineteen sixty Hitchcock film has a famous shower scene?",
+   "a": "Psycho!"
+  },
+  {
+   "q": "Which ghost haunts Sleepy Hollow?",
+   "a": "The Headless Horseman!"
+  },
+  {
+   "q": "Which pharaoh's tomb was discovered in nineteen twenty-two?",
+   "a": "Tutankhamun! King Tut."
+  },
+  {
+   "q": "Michael Jackson's Thriller album came out in which year?",
+   "a": "Nineteen eighty-two! If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Whose voice does the spooky rap in Thriller?",
+   "a": "Vincent Price! The horror legend."
+  },
+  {
+   "q": "What does the word Halloween come from?",
+   "a": "All Hallows' Eve! The evening before All Saints' Day."
+  },
+  {
+   "q": "Who played the monster in Frankenstein, nineteen thirty-one?",
+   "a": "Boris Karloff!"
+  },
+  {
+   "q": "Where were the famous witch trials of sixteen ninety-two?",
+   "a": "Salem, Massachusetts!"
+  },
+  {
+   "q": "Who wrote the poem The Raven?",
+   "a": "Edgar Allan Poe! Nevermore."
+  },
+  {
+   "q": "Which famous escape artist died on Halloween, nineteen twenty-six?",
+   "a": "Harry Houdini!"
+  },
+  {
+   "q": "Who is the masked killer in the film Halloween from nineteen seventy-eight?",
+   "a": "Michael Myers! Not the comedian."
+  },
+  {
+   "q": "Vampire bats live naturally in which part of the world?",
+   "a": "The Americas! Not Transylvania."
+  },
+  {
+   "q": "Mary Shelley dreamed up Frankenstein beside which lake?",
+   "a": "Lake Geneva! In the stormy summer of eighteen sixteen."
+  },
+  {
+   "q": "When was Frankenstein first published?",
+   "a": "Eighteen eighteen!"
+  },
+  {
+   "q": "The real Vlad the Impaler ruled which land?",
+   "a": "Wallachia! Not Transylvania."
+  },
+  {
+   "q": "Which US state grows the most pumpkins?",
+   "a": "Illinois! By far."
+  },
+  {
+   "q": "Who directed Night of the Living Dead in nineteen sixty-eight?",
+   "a": "George Romero!"
+  },
+  {
+   "q": "In the Peanuts special, who waits all night for the Great Pumpkin?",
+   "a": "Linus! Every single year."
+  },
+  {
+   "q": "The phrase trick or treat first appeared in print in which decade?",
+   "a": "The nineteen twenties! In Canada, not the USA."
+  },
+  {
+   "q": "Orson Welles' War of the Worlds radio show caused panic around Halloween in which year?",
+   "a": "Nineteen thirty-eight!"
+  },
+  {
+   "q": "Final question. Dracula's author, Bram Stoker, was born in which country?",
+   "a": "Ireland! In Dublin."
+  }
+ ],
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend",
+  "description": "35 Halloween trivia questions – history, monsters, classic horror films and spooky facts, from EASY to LEGEND 🎃 Can you get 30 right?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#HalloweenQuiz #Halloween #Trivia #Quiz #GeneralKnowledge #SpookyQuiz\n\nMusic: original.",
+  "tags": [
+   "halloween quiz",
+   "halloween trivia",
+   "halloween",
+   "quiz",
+   "trivia",
+   "general knowledge quiz",
+   "spooky quiz",
+   "horror movie quiz"
+  ],
+  "categoryId": "24",
+  "comment": "Be honest… how many did you get out of 35? 🎃 The trick or treat one surprised me 😅"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "neon",
+  "title": "Halloween Quiz",
+  "header": "HALLOWEEN QUIZ",
+  "hook": "CAN YOU GET 30/35? 🎃",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 17,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "HALLOWEEN **QUIZ**",
+   "CAN YOU GET **30/35**?",
+   "ONLY 1 IN 10 GET **#35**"
+  ],
+  "thumbEmoji": "🎃",
+  "thumbBadge": "35 QUESTIONS 🎃 EASY → LEGEND",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "Halloween is on which date in **October**?",
+    "answers": [
+     "October 30",
+     "October 13",
+     "November 1",
+     "October 31"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "📅  🎃"
+   },
+   {
+    "q": "What do most people **carve** at Halloween?",
+    "answers": [
+     "Pumpkins",
+     "Watermelons",
+     "Pineapples",
+     "Coconuts"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🔪  🕯️"
+   },
+   {
+    "q": "Which colour **cat** is said to bring bad luck?",
+    "answers": [
+     "White",
+     "Ginger",
+     "Black",
+     "Grey"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🐈  🍀"
+   },
+   {
+    "q": "Which monster drinks **blood**?",
+    "answers": [
+     "A zombie",
+     "A vampire",
+     "A mummy",
+     "A ghost"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🦇  🩸"
+   },
+   {
+    "q": "Who wrote the novel **Frankenstein**?",
+    "answers": [
+     "Mary Shelley",
+     "Jane Austen",
+     "Edgar Allan Poe",
+     "Charles Dickens"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "📖  ⚡"
+   },
+   {
+    "q": "Which creature appears at the **full moon**?",
+    "answers": [
+     "A mummy",
+     "A goblin",
+     "A werewolf",
+     "A witch"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🌕  🐺"
+   },
+   {
+    "q": "What do children say at the **door**?",
+    "answers": [
+     "Happy Halloween",
+     "Boo to you",
+     "Trick or treat",
+     "Sweets please"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🚪  🍬"
+   },
+   {
+    "q": "Which **mammal** can truly fly?",
+    "answers": [
+     "The flying squirrel",
+     "The bat",
+     "The sugar glider",
+     "The colugo"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🦇  🌙"
+   },
+   {
+    "q": "Halloween grew out of which **Celtic** festival?",
+    "answers": [
+     "Beltane",
+     "Yule",
+     "Samhain",
+     "Imbolc"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🔥  🍂"
+   },
+   {
+    "q": "Jack-o'-lanterns are named after which **legend**?",
+    "answers": [
+     "Jack Frost",
+     "Stingy Jack",
+     "Jack the Giant",
+     "Jumping Jack"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "👹  🏮"
+   },
+   {
+    "q": "Count Dracula's castle is in which **region**?",
+    "answers": [
+     "Transylvania",
+     "Bavaria",
+     "Tuscany",
+     "Siberia"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🏰  🦇"
+   },
+   {
+    "q": "Who wrote **Dracula** in 1897?",
+    "answers": [
+     "H. G. Wells",
+     "Bram Stoker",
+     "Oscar Wilde",
+     "Arthur Conan Doyle"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "📖  🧛"
+   },
+   {
+    "q": "Who played Dracula in the **1931** film?",
+    "answers": [
+     "Boris Karloff",
+     "Lon Chaney",
+     "Bela Lugosi",
+     "Vincent Price"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🎬  🧛"
+   },
+   {
+    "q": "A group of **crows** is called a…?",
+    "answers": [
+     "Murder",
+     "Coven",
+     "Shadow",
+     "Funeral"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🐦‍⬛  🐦‍⬛"
+   },
+   {
+    "q": "Which 1960 Hitchcock film has a famous **shower** scene?",
+    "answers": [
+     "The Birds",
+     "Vertigo",
+     "Rear Window",
+     "Psycho"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🚿  🔪"
+   },
+   {
+    "q": "Which ghost haunts **Sleepy Hollow**?",
+    "answers": [
+     "The Grey Lady",
+     "The Headless Horseman",
+     "Bloody Mary",
+     "The Phantom Rider"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🐎  🎃"
+   },
+   {
+    "q": "Whose tomb was found in **1922**?",
+    "answers": [
+     "Ramesses",
+     "Cleopatra",
+     "Tutankhamun",
+     "Khufu"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "⚱️  🏺"
+   },
+   {
+    "q": "Michael Jackson's **Thriller** album came out in…?",
+    "answers": [
+     "1979",
+     "1982",
+     "1985",
+     "1987"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🧟  🕺"
+   },
+   {
+    "q": "Whose voice does the **spooky rap** in Thriller?",
+    "answers": [
+     "Christopher Lee",
+     "Boris Karloff",
+     "Vincent Price",
+     "Orson Welles"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🎙️  👻"
+   },
+   {
+    "q": "What does the word **Halloween** come from?",
+    "answers": [
+     "Hollow Evening",
+     "Hallowed Moon",
+     "Hell's Evening",
+     "All Hallows' Eve"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "📜  ✨"
+   },
+   {
+    "q": "Who played the **monster** in Frankenstein (1931)?",
+    "answers": [
+     "Boris Karloff",
+     "Bela Lugosi",
+     "Lon Chaney",
+     "Peter Cushing"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🧟  ⚡"
+   },
+   {
+    "q": "Where were the famous 1692 **witch trials**?",
+    "answers": [
+     "Plymouth",
+     "Salem",
+     "Boston",
+     "Jamestown"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🧹  ⚖️"
+   },
+   {
+    "q": "Who wrote the poem **The Raven**?",
+    "answers": [
+     "Edgar Allan Poe",
+     "Walt Whitman",
+     "Robert Frost",
+     "Mark Twain"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🐦‍⬛  🖋️"
+   },
+   {
+    "q": "Which famous **escape artist** died on Halloween?",
+    "answers": [
+     "David Copperfield",
+     "Harry Blackstone",
+     "Harry Houdini",
+     "Howard Thurston"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "⛓️  🔐"
+   },
+   {
+    "q": "Who is the masked killer in **Halloween** (1978)?",
+    "answers": [
+     "Jason Voorhees",
+     "Michael Myers",
+     "Freddy Krueger",
+     "Norman Bates"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🔪  🎭"
+   },
+   {
+    "q": "**Vampire bats** live naturally in…?",
+    "answers": [
+     "Transylvania",
+     "Africa",
+     "The Americas",
+     "Australia"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🦇  🗺️"
+   },
+   {
+    "q": "Frankenstein was conceived beside which **lake**?",
+    "answers": [
+     "Loch Ness",
+     "Lake Como",
+     "Lake Geneva",
+     "Lake Windermere"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🏞️  ⛈️"
+   },
+   {
+    "q": "When was **Frankenstein** first published?",
+    "answers": [
+     "1789",
+     "1818",
+     "1847",
+     "1897"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "📖  📅"
+   },
+   {
+    "q": "Vlad the Impaler ruled which **land**?",
+    "answers": [
+     "Wallachia",
+     "Transylvania",
+     "Hungary",
+     "Serbia"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "👑  🗡️"
+   },
+   {
+    "q": "Which US state grows the most **pumpkins**?",
+    "answers": [
+     "California",
+     "Ohio",
+     "Texas",
+     "Illinois"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🎃  🚜"
+   },
+   {
+    "q": "Who directed **Night of the Living Dead**?",
+    "answers": [
+     "John Carpenter",
+     "Wes Craven",
+     "George A. Romero",
+     "Tobe Hooper"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🧟  🎬"
+   },
+   {
+    "q": "Who waits for the **Great Pumpkin**?",
+    "answers": [
+     "Linus",
+     "Charlie Brown",
+     "Snoopy",
+     "Lucy"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🎃  🌙"
+   },
+   {
+    "q": "\"Trick or treat\" first appeared in **print** in…?",
+    "answers": [
+     "The 1890s",
+     "The 1920s",
+     "The 1940s",
+     "The 1950s"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "📰  🍬"
+   },
+   {
+    "q": "War of the Worlds caused panic in which **year**?",
+    "answers": [
+     "1938",
+     "1929",
+     "1947",
+     "1953"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "📻  👽"
+   },
+   {
+    "q": "Bram Stoker was born in which **country**?",
+    "answers": [
+     "England",
+     "Romania",
+     "Scotland",
+     "Ireland"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🍀  🖋️"
+   }
+  ]
+ }
+}

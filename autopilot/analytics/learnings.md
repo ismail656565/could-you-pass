@@ -35,3 +35,13 @@
 - Shorts-Ausreißer: sehr kurze Bild-Rätsel ("Which One Is Different 🤔" 17 s, 154k; "Find The Two Different Numbers" 13 s, 99k) und ~60-s-Quiz "Can you get 7/7?".
 - Suchtrends: "halloween quiz" +206 %, "football quiz" 275k/Monat (geringe Konkurrenz), "bible quiz" +130 %, "anime quiz" +28 %.
 - WÖCHENTLICH (montags) mit vidIQ neu prüfen und hier ergänzen.
+
+## 2026-10-20 (Tagesanalyse)
+### Shorts
+- Public Views Stand 19.10.: Geo-Trap 8 Fragen 1292, Trivia-Trap 6 Fragen 1209, Länder-Emoji 1207, Genius 6/6 1148 (holte am 2. Tag auf) → 1,1–1,3k-Decke erneut bestätigt, unabhängig vom Thema.
+- "Which Came First? 6 Questions" (c): 510 Views nach <1 Tag – Zwischenstand, Bewertung ab 22.10.
+- Engaged-Share der ausgewerteten Shorts 46–69 %, Ø angesehen 41–56 % → Längen-Test (3/4 Fragen) startet heute mit einem 3-Fragen-Halloween-Trap-Short (~22 s).
+### Lange Videos
+- CL-Quiz (20 Q) 3 Views, PL-Quiz noch ohne Daten → Fußball-Langvideos à 3 min verteilen sich nicht. Ab heute neues Format: 30–40 Fragen, seniorenfreundlich (timing count 5.0), Halloween-Thema wegen +206 % Suchtrend.
+### Thumbnails
+- Noch keine thumbTest-Ergebnisse (CL seit 18.10., PL seit 19.10. auf Variante A). Erste Auswertung ~22.–23.10.

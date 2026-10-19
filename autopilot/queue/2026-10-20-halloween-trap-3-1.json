@@ -1,0 +1,85 @@
+{
+ "id": "halloween-trap-3-1",
+ "lines": [
+  {
+   "q": "Before pumpkins, Irish jack-o'-lanterns were carved from what?",
+   "a": "Turnips! Pumpkins came later, in America."
+  },
+  {
+   "q": "What is the fear of Halloween called?",
+   "a": "Samhainophobia! Phasmophobia is the fear of ghosts."
+  },
+  {
+   "q": "Last one. Candy corn was first sold under what name?",
+   "a": "Chicken Feed! Really."
+  }
+ ],
+ "youtube": {
+  "title": "3 Halloween Questions 90% Get Wrong 🎃 #shorts",
+  "description": "3 spooky trivia questions that trick almost everyone 🎃\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#halloween #halloweenquiz #quiz #trivia #spooky #shorts\n\nMusic: original.",
+  "tags": [
+   "halloween quiz",
+   "halloween trivia",
+   "quiz",
+   "trivia",
+   "spooky",
+   "shorts"
+  ],
+  "comment": "Did you know the candy corn one? 😅 Comment your score /3 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Halloween Trivia",
+  "header": "HALLOWEEN TRIVIA",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #3 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Jack-o'-lanterns were first **carved** from…?",
+    "answers": [
+     "Apples",
+     "Turnips",
+     "Potatoes",
+     "Melons"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏮  🔪"
+   },
+   {
+    "q": "What is the fear of **Halloween** called?",
+    "answers": [
+     "Phasmophobia",
+     "Coulrophobia",
+     "Samhainophobia",
+     "Nyctophobia"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "😱  🎃"
+   },
+   {
+    "q": "**Candy corn** was first sold as…?",
+    "answers": [
+     "Chicken Feed",
+     "Witch Teeth",
+     "Sweet Kernels",
+     "Corn Drops"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🍬  🌽"
+   }
+  ]
+ }
+}

@@ -17,3 +17,5 @@ Formate: (a) Trap-Trivia, (b) Emoji, (c) Which is bigger/older, (d) IQ/Logik, (e
 | 2026-10-18 | kgWV2rM_BLc | long | (f) Sport | Champions League 20 Q | neon, 1 Thumb 🏆 | "Only REAL fans get 20/20" | – | – | – | – | Baseline long |
 | 2026-10-19 | which-first-6-1 | short | (c) Which first/older | 6 Q gemischt | neon + Foto Q1 (Hai) | "Which Came First? 6 Questions 90% Get Wrong" | | | | | geplant – testet Format (c) vs. Leader (a) |
 | 2026-10-19 | pl-quiz-20 | long | (f) Sport | Premier League 20 Q | neon, Thumb A/B/C ⚽ | "Only REAL fans get 20/20" | | | | | geplant – nur Thema geändert vs. CL; 1. Thumbnail-Test |
+| 2026-10-20 | halloween-trap-3-1 | short | (a) Trap | Halloween 3 Q (~22 s) | neon, cardText (kein passendes Foto) | "3 Halloween Questions 90% Get Wrong" | | | | | geplant – LÄNGEN-Test 1/4: 3 Fragen vs. 6-Fragen-Baseline |
+| 2026-10-20 | halloween-quiz-35 | long | Halloween Allgemeinwissen | 35 Q (~9–10 min), EASY→LEGEND | neon, Thumb A "HALLOWEEN QUIZ"/B "30/35"/C "#35" 🎃 | "Halloween Quiz 🎃 Can You Get 30 out of 35?" (Challenge-Titel) | | | | | geplant – 1. Video neues Langformat (30–40 Q, senior-friendly) |
