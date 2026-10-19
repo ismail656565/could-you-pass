@@ -1,6 +1,5 @@
 {
  "id": "memory-check-35-1",
- "force": true,
  "timing": {
   "count": 5.0,
   "tail": 1.3,
