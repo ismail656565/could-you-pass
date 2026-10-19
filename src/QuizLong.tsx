@@ -508,7 +508,7 @@ export const QuizThumb: React.FC<ThumbProps> = (story) => {
             <div style={{fontFamily: EMOJI_FONT, fontSize: 260, lineHeight: 1}}>{emoji}</div>
           )}
         </div>
-        <div style={{position: 'absolute', left: 0, right: 0, bottom: 0, height: 96, background: '#111', color: '#FFD400', fontFamily: FONT, fontWeight: 900, fontSize: 52, display: 'flex', alignItems: 'center', justifyContent: 'center', whiteSpace: 'nowrap'}}>{badge}</div>
+        <div style={{position: 'absolute', left: 0, right: 0, bottom: 0, height: 96, background: '#111', color: '#FFD400', fontFamily: FONT, fontWeight: 900, fontSize: 46, display: 'flex', alignItems: 'center', justifyContent: 'center', whiteSpace: 'nowrap', paddingRight: 230}}>{badge}</div>
       </AbsoluteFill>
     );
   }
@@ -524,7 +524,7 @@ export const QuizThumb: React.FC<ThumbProps> = (story) => {
           {puzzle ? (
             <PuzzleRow tiles={puzzle} size={170} op="#fff" tile={{background: '#1f1f1f', border: '5px solid #fff'}} q={{background: '#fff', color: '#0A0A0A'}} />
           ) : (
-            <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 60, color: N.white, background: N.red, padding: '10px 30px', borderRadius: 16, border: '5px solid #fff'}}>{badge}</div>
+            <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 46, color: N.white, background: N.red, padding: '10px 28px', borderRadius: 16, border: '5px solid #fff', whiteSpace: 'nowrap'}}>{badge}</div>
           )}
         </div>
       </AbsoluteFill>
@@ -542,7 +542,7 @@ export const QuizThumb: React.FC<ThumbProps> = (story) => {
           <PuzzleRow tiles={puzzle} size={200} op="#fff" tile={{background: 'rgba(255,255,255,0.08)', border: `6px solid ${N.cyan}`, boxShadow: glow(N.cyan, 30)}} q={{background: N.yellow, color: N.bg, boxShadow: glow(N.yellow, 30)}} />
         </div>
       )}
-      <div style={{position: 'absolute', right: 40, bottom: 36, fontFamily: FONT, fontWeight: 900, fontSize: 52, color: N.white, background: N.red, padding: '10px 30px', borderRadius: 18, transform: 'rotate(-4deg)', border: '5px solid #fff', boxShadow: '0 8px 0 #000'}}>
+      <div style={{position: 'absolute', left: 50, bottom: 40, fontFamily: FONT, fontWeight: 900, fontSize: 46, whiteSpace: 'nowrap', color: N.white, background: N.red, padding: '10px 30px', borderRadius: 18, transform: 'rotate(-4deg)', border: '5px solid #fff', boxShadow: '0 8px 0 #000'}}>
         {badge}
       </div>
     </AbsoluteFill>

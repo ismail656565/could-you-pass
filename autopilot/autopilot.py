@@ -485,6 +485,31 @@ def produce():
             log(f'Heute schon ein {f}-Video hochgeladen – nächstes morgen.')
             continue
         produce_one(cand[0])
+    try:
+        link_short_to_long(today)
+    except Exception as ex:
+        log('Verlinkung Short → langes Video fehlgeschlagen:', str(ex)[:200])
+
+
+def link_short_to_long(today):
+    """Beschreibung des heutigen Shorts um den Link zum heutigen langen Video ergänzen (Shorts-Zuschauer → lange Videos → Abos)"""
+    todays = {}
+    for d in DONE.glob('*.json'):
+        it = json.loads(d.read_text(encoding='utf-8'))
+        if it.get('uploaded', {}).get('at', '').startswith(today):
+            todays[fmt_of(it)] = (d, it)
+    if 'short' not in todays or 'long' not in todays or todays['short'][1].get('linkedLong'):
+        return
+    d, short = todays['short']
+    long_id = todays['long'][1]['uploaded']['videoId']
+    y = yt()
+    v = y.videos().list(part='snippet', id=short['uploaded']['videoId']).execute()['items'][0]
+    sn = v['snippet']
+    sn['description'] = f"▶ Full {len(todays['long'][1]['story']['questions'])}-question quiz: https://youtu.be/{long_id}\n\n" + sn.get('description', '')
+    y.videos().update(part='snippet', body={'id': v['id'], 'snippet': {k: sn[k] for k in ('title', 'description', 'tags', 'categoryId') if k in sn}}).execute()
+    short['linkedLong'] = long_id
+    d.write_text(json.dumps(short, indent=1, ensure_ascii=False), encoding='utf-8')
+    log(f'Short-Beschreibung verlinkt auf langes Video {long_id}')
 
 
 def main():
