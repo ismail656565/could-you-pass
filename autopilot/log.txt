@@ -35,3 +35,13 @@
 [2026-10-19 06:41:26] Gerendert
 [2026-10-19 06:41:29] Hochgeladen: https://youtube.com/watch?v=v9hE4-ksUq0 (private)
 [2026-10-19 06:41:29] Geplant für 19.10. 10:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-19 06:44:42] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-19 06:44:42] Analytics gespeichert (12 Videos)
+[2026-10-19 06:44:42] which-first-6-1: noch nicht öffentlich – Kommentar später
+[2026-10-19 06:44:42] Kein short-Video in der Warteschlange.
+[2026-10-19 06:44:42] Produziere pl-quiz-20 (long)
+[2026-10-19 06:45:31] Ton fertig: 206.2 s
+[2026-10-19 07:05:30] Gerendert
+[2026-10-19 07:05:47] Hochgeladen: https://youtube.com/watch?v=CsJYvRLyZfQ (private)
+[2026-10-19 07:05:49] Vorschaubild gesetzt
+[2026-10-19 07:05:49] Geplant für 19.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung

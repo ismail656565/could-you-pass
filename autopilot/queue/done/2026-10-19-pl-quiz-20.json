@@ -142,7 +142,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "⚽  🥇"
+    "cardText": "⚽  🥇",
+    "start": 0.0,
+    "countdownStart": 6.101,
+    "reveal": 9.601,
+    "end": 12.811
    },
    {
     "q": "Which club went a whole season **unbeaten**?",
@@ -154,7 +158,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🛡️  0️⃣"
+    "cardText": "🛡️  0️⃣",
+    "start": 12.811,
+    "countdownStart": 15.467,
+    "reveal": 18.967,
+    "end": 22.74
    },
    {
     "q": "Who won the title in 2016 at **5000-1** odds?",
@@ -166,7 +174,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🎰  5000-1"
+    "cardText": "🎰  5000-1",
+    "start": 22.74,
+    "countdownStart": 26.013,
+    "reveal": 29.513,
+    "end": 32.949
    },
    {
     "q": "Which club has won the **most** Premier League titles?",
@@ -178,7 +190,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🏆  🔢"
+    "cardText": "🏆  🔢",
+    "start": 32.949,
+    "countdownStart": 35.409,
+    "reveal": 38.909,
+    "end": 41.989
    },
    {
     "q": "Who scored the famous **93:20** title winner in 2012?",
@@ -190,7 +206,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "⏱️  93:20"
+    "cardText": "⏱️  93:20",
+    "start": 41.989,
+    "countdownStart": 45.686,
+    "reveal": 49.186,
+    "end": 52.02
    },
    {
     "q": "What's the record for goals in **one** PL season?",
@@ -202,7 +222,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "⚽  📈"
+    "cardText": "⚽  📈",
+    "start": 52.02,
+    "countdownStart": 55.906,
+    "reveal": 59.406,
+    "end": 62.123
    },
    {
     "q": "Which team set the record of **100 points**?",
@@ -214,7 +238,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "💯"
+    "cardText": "💯",
+    "start": 62.123,
+    "countdownStart": 64.721,
+    "reveal": 68.221,
+    "end": 71.651
    },
    {
     "q": "Which manager won the **most** PL titles?",
@@ -226,7 +254,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "👔  🏆"
+    "cardText": "👔  🏆",
+    "start": 71.651,
+    "countdownStart": 74.116,
+    "reveal": 77.616,
+    "end": 80.888
    },
    {
     "q": "Who won the Premier League in **1995**?",
@@ -238,7 +270,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🏆  1995"
+    "cardText": "🏆  1995",
+    "start": 80.888,
+    "countdownStart": 83.396,
+    "reveal": 86.896,
+    "end": 89.194
    },
    {
     "q": "Which keeper has the most PL **clean sheets**?",
@@ -250,7 +286,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🧤  🚫⚽"
+    "cardText": "🧤  🚫⚽",
+    "start": 89.194,
+    "countdownStart": 91.931,
+    "reveal": 95.431,
+    "end": 100.836
    },
    {
     "q": "Who has the most PL **assists** ever?",
@@ -262,7 +302,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🅰️  🎯"
+    "cardText": "🅰️  🎯",
+    "start": 100.836,
+    "countdownStart": 102.953,
+    "reveal": 106.453,
+    "end": 109.507
    },
    {
     "q": "Which club got just **11 points** in one season?",
@@ -274,7 +318,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "📉  11"
+    "cardText": "📉  11",
+    "start": 109.507,
+    "countdownStart": 112.021,
+    "reveal": 115.521,
+    "end": 118.69
    },
    {
     "q": "Who scored the **fastest** goal in PL history?",
@@ -286,7 +334,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "⏱️  7.69s"
+    "cardText": "⏱️  7.69s",
+    "start": 118.69,
+    "countdownStart": 121.389,
+    "reveal": 124.889,
+    "end": 128.112
    },
    {
     "q": "How many titles **in a row** did Man City win?",
@@ -298,7 +350,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🔁  🏆"
+    "cardText": "🔁  🏆",
+    "start": 128.112,
+    "countdownStart": 131.013,
+    "reveal": 134.513,
+    "end": 138.076
    },
    {
     "q": "Who has the most PL **appearances**?",
@@ -310,7 +366,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "👟  🔢"
+    "cardText": "👟  🔢",
+    "start": 138.076,
+    "countdownStart": 140.155,
+    "reveal": 143.655,
+    "end": 148.073
    },
    {
     "q": "Who scored the **first ever** Premier League goal?",
@@ -322,7 +382,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "⚽  1992"
+    "cardText": "⚽  1992",
+    "start": 148.073,
+    "countdownStart": 150.463,
+    "reveal": 153.963,
+    "end": 157.024
    },
    {
     "q": "Who scored the **fastest** PL hat-trick?",
@@ -334,7 +398,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🎩  ⏱️"
+    "cardText": "🎩  ⏱️",
+    "start": 157.024,
+    "countdownStart": 159.403,
+    "reveal": 162.903,
+    "end": 166.074
    },
    {
     "q": "What's the **biggest** winning margin in a PL game?",
@@ -346,7 +414,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🥅  😱"
+    "cardText": "🥅  😱",
+    "start": 166.074,
+    "countdownStart": 168.783,
+    "reveal": 172.283,
+    "end": 175.756
    },
    {
     "q": "Who was **second** in the 2025-26 Golden Boot race?",
@@ -358,7 +430,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "👟  🥈"
+    "cardText": "👟  🥈",
+    "start": 175.756,
+    "countdownStart": 179.51,
+    "reveal": 183.01,
+    "end": 185.815
    },
    {
     "q": "Who won the **2025-26** Premier League?",
@@ -370,8 +446,33 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🏆  2026"
+    "cardText": "🏆  2026",
+    "start": 185.815,
+    "countdownStart": 189.693,
+    "reveal": 193.193,
+    "end": 196.864
    }
-  ]
+  ],
+  "audio": "audio/pl-quiz-20.mp3",
+  "outroStart": 196.864,
+  "durationInSeconds": 206.245
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/pl-quiz-20-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-10-19",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-10-19T14:00+02:00",
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "CsJYvRLyZfQ",
+  "at": "2026-10-19T07:05"
  }
 }
