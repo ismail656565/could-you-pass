@@ -4,3 +4,4 @@ autopilot/.env
 autopilot/client_secret.json
 autopilot/token.json
 autopilot/tmp/
+__pycache__/
