@@ -66,7 +66,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "image": "bilder/q2-shark.jpg"
+    "image": "bilder/q2-shark.jpg",
+    "start": 0.0,
+    "countdownStart": 3.366,
+    "reveal": 5.866,
+    "end": 8.758
    },
    {
     "q": "Which is the **oldest**?",
@@ -78,7 +82,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🎓  🏛️  ⏳"
+    "cardText": "🎓  🏛️  ⏳",
+    "start": 8.758,
+    "countdownStart": 9.841,
+    "reveal": 12.341,
+    "end": 15.682
    },
    {
     "q": "Which planet is **closest** to Earth on average?",
@@ -90,7 +98,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "image": "bilder/q2-venus.jpg"
+    "image": "bilder/q2-venus.jpg",
+    "start": 15.682,
+    "countdownStart": 17.974,
+    "reveal": 20.474,
+    "end": 23.005
    },
    {
     "q": "Cleopatra lived **closer** in time to…?",
@@ -102,7 +114,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "image": "bilder/q2-pyramid.jpg"
+    "image": "bilder/q2-pyramid.jpg",
+    "start": 23.005,
+    "countdownStart": 25.129,
+    "reveal": 27.629,
+    "end": 30.516
    },
    {
     "q": "Which is **hotter**?",
@@ -114,7 +130,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🔥  ⚡  🌋"
+    "cardText": "🔥  ⚡  🌋",
+    "start": 30.516,
+    "countdownStart": 31.399,
+    "reveal": 33.899,
+    "end": 37.639
    },
    {
     "q": "Which was invented **first**?",
@@ -126,8 +146,21 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "📞  📻  💡"
+    "cardText": "📞  📻  💡",
+    "start": 37.639,
+    "countdownStart": 39.672,
+    "reveal": 42.172,
+    "end": 45.541
    }
-  ]
+  ],
+  "audio": "audio/which-first-6-1.mp3",
+  "outroStart": 45.541,
+  "durationInSeconds": 45.541
+ },
+ "scheduledFor": "2026-10-19T10:00+02:00",
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "v9hE4-ksUq0",
+  "at": "2026-10-19T06:41"
  }
 }

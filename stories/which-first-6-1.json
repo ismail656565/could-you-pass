@@ -1,0 +1,118 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "Which Came First?",
+ "header": "WHICH CAME FIRST?",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which came **first**?",
+   "answers": [
+    "Trees",
+    "Dinosaurs",
+    "Sharks",
+    "Flowers"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "image": "bilder/q2-shark.jpg",
+   "start": 0.0,
+   "countdownStart": 3.366,
+   "reveal": 5.866,
+   "end": 8.758
+  },
+  {
+   "q": "Which is the **oldest**?",
+   "answers": [
+    "Aztec Empire",
+    "Machu Picchu",
+    "Oxford University",
+    "Tower of Pisa"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🎓  🏛️  ⏳",
+   "start": 8.758,
+   "countdownStart": 9.841,
+   "reveal": 12.341,
+   "end": 15.682
+  },
+  {
+   "q": "Which planet is **closest** to Earth on average?",
+   "answers": [
+    "Venus",
+    "Mercury",
+    "Mars",
+    "Jupiter"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "image": "bilder/q2-venus.jpg",
+   "start": 15.682,
+   "countdownStart": 17.974,
+   "reveal": 20.474,
+   "end": 23.005
+  },
+  {
+   "q": "Cleopatra lived **closer** in time to…?",
+   "answers": [
+    "The Great Pyramid",
+    "Stonehenge",
+    "The first pharaoh",
+    "The Moon landing"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "image": "bilder/q2-pyramid.jpg",
+   "start": 23.005,
+   "countdownStart": 25.129,
+   "reveal": 27.629,
+   "end": 30.516
+  },
+  {
+   "q": "Which is **hotter**?",
+   "answers": [
+    "Lightning",
+    "Sun's surface",
+    "Lava",
+    "A blowtorch"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🔥  ⚡  🌋",
+   "start": 30.516,
+   "countdownStart": 31.399,
+   "reveal": 33.899,
+   "end": 37.639
+  },
+  {
+   "q": "Which was invented **first**?",
+   "answers": [
+    "Telephone",
+    "Radio",
+    "Fax machine",
+    "Light bulb"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "📞  📻  💡",
+   "start": 37.639,
+   "countdownStart": 39.672,
+   "reveal": 42.172,
+   "end": 45.541
+  }
+ ],
+ "audio": "audio/which-first-6-1.mp3",
+ "outroStart": 45.541,
+ "durationInSeconds": 45.541
+}
