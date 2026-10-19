@@ -29,3 +29,9 @@
 - Signale bisher: "stayed to watch" 46–55 % (virale Shorts: 70 %+), Ø angesehen 41–56 % (virale Quiz-Shorts: 90–120 % durch Loop). Die Länge ist der größte Hebel: bei 45 s sieht der Zuschauer im Schnitt nur die Hälfte.
 - **Neuer Test ab 2026-10-20 (eine Variable = Länge):** abwechselnd 3 Fragen (~22 s) und 4 Fragen (~29 s), sonst alles wie der Leader (Trap-Trivia, neon + echtes Foto, Q1 sofort gesprochen, Loop-Ende ohne Abspann). Nach 4 Shorts mit der 6-Fragen-Baseline vergleichen (stayed ~50 %, Ø ~54 %, ~1,2k Views) und den Gewinner behalten. Ziel: Ø angesehen > 90 %, stayed > 65 %, ein Short über 3k.
 - Kanal: 7 Abos nach ~10k Short-Views – Shorts bringen kaum Abos; Abos kommen über lange Videos (Abo-Aufruf + Glocke ist eingebaut).
+
+## 2026-10-19 – vidIQ-Nischenanalyse (Quelle für die Strategie)
+- Lange Videos: Allgemeinwissen-"Memory/IQ-Check" für 55+ (7–25 min, 25–80 Fragen) bringt kleinen Kanälen (1–16k Abos) 100k–1,1 Mio Views: "IF YOU GET 5 RIGHT, YOUR MEMORY IS FINE" 544k (1,5k Abos), "Are You Around 65 Years Old? Let's Check Your Memory!" 958k (4k Abos), "Your IQ Is Above Average If You Get 45+ Right – 80 Questions" 1,1 Mio, "99% OF PEOPLE AGED 60–95 FAIL THIS QUIZ" 281k.
+- Shorts-Ausreißer: sehr kurze Bild-Rätsel ("Which One Is Different 🤔" 17 s, 154k; "Find The Two Different Numbers" 13 s, 99k) und ~60-s-Quiz "Can you get 7/7?".
+- Suchtrends: "halloween quiz" +206 %, "football quiz" 275k/Monat (geringe Konkurrenz), "bible quiz" +130 %, "anime quiz" +28 %.
+- WÖCHENTLICH (montags) mit vidIQ neu prüfen und hier ergänzen.
