@@ -1,22 +1,22 @@
 {
- "fetched": "2026-10-19T07:57",
+ "fetched": "2026-10-19T11:27",
  "channel": "COULD YOU PASS?",
- "subscribers": "5",
+ "subscribers": "6",
  "videos": [
+  {
+   "id": "v9hE4-ksUq0",
+   "title": "Which Came First? 6 Questions 90% Get Wrong 🤯 #shorts",
+   "published": "2026-10-19T08:00:38Z",
+   "retention": [],
+   "durationSec": 46,
+   "publicViews": "510"
+  },
   {
    "id": "CsJYvRLyZfQ",
    "title": "Premier League Quiz: Only REAL Fans Get 20/20 ⚽🏆",
    "published": "2026-10-19T07:05:43Z",
    "retention": [],
    "durationSec": 207,
-   "publicViews": "0"
-  },
-  {
-   "id": "v9hE4-ksUq0",
-   "title": "Which Came First? 6 Questions 90% Get Wrong 🤯 #shorts",
-   "published": "2026-10-19T06:41:26Z",
-   "retention": [],
-   "durationSec": 46,
    "publicViews": "0"
   },
   {
@@ -33,7 +33,7 @@
    "published": "2026-10-18T15:41:15Z",
    "retention": [],
    "durationSec": 43,
-   "publicViews": "1146"
+   "publicViews": "1148"
   },
   {
    "id": "gulbOkDMLgg",
@@ -41,7 +41,7 @@
    "published": "2026-10-18T07:45:37Z",
    "retention": [],
    "durationSec": 44,
-   "publicViews": "1207"
+   "publicViews": "1209"
   },
   {
    "id": "AU5WA_fEFNc",
@@ -49,7 +49,7 @@
    "published": "2026-10-17T19:54:28Z",
    "retention": [],
    "durationSec": 182,
-   "publicViews": "89"
+   "publicViews": "101"
   },
   {
    "id": "P9BSOeOxJJc",
@@ -57,7 +57,7 @@
    "published": "2026-10-17T17:25:41Z",
    "retention": [],
    "durationSec": 61,
-   "publicViews": "1010"
+   "publicViews": "1292"
   },
   {
    "id": "463V8Id0PPA",
@@ -72,7 +72,7 @@
    "subscribersGained": 1,
    "retention": [],
    "durationSec": 44,
-   "publicViews": "1206",
+   "publicViews": "1207",
    "engagedShare": 0.75
   },
   {
@@ -1116,7 +1116,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 78,
-   "publicViews": "1085",
+   "publicViews": "1086",
    "engagedShare": 0.464
   },
   {
