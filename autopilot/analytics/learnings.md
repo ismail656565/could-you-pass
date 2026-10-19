@@ -23,3 +23,9 @@
 - Emoji-Wörter-Quiz (15 Fragen): 68 Views nach 2 Tagen – schwach. CL-Quiz (20 Fragen) erst 3 Views nach Stunden; Analytics frühestens 21.10.
 ### Thumbnails
 - Noch kein abgeschlossener A/B/C-Test (CL-Quiz hatte nur 1 Thumbnail-Text). Erster echter Test: Premier League Quiz (A Suchbegriff / B Challenge / C Extrem).
+
+## 2026-10-19 (Analyse mit Besitzer) – STRATEGIE-WECHSEL Shorts
+- **1k-Decke:** ALLE Shorts (6–10 Fragen, 42–105 s) bleiben bei 1,1–1,3k Views stehen – egal welches Thema. Das ist die Test-Gruppe, die YouTube jedem Short gibt; danach stoppt die Verteilung, weil die Signale nicht reichen.
+- Signale bisher: "stayed to watch" 46–55 % (virale Shorts: 70 %+), Ø angesehen 41–56 % (virale Quiz-Shorts: 90–120 % durch Loop). Die Länge ist der größte Hebel: bei 45 s sieht der Zuschauer im Schnitt nur die Hälfte.
+- **Neuer Test ab 2026-10-20 (eine Variable = Länge):** abwechselnd 3 Fragen (~22 s) und 4 Fragen (~29 s), sonst alles wie der Leader (Trap-Trivia, neon + echtes Foto, Q1 sofort gesprochen, Loop-Ende ohne Abspann). Nach 4 Shorts mit der 6-Fragen-Baseline vergleichen (stayed ~50 %, Ø ~54 %, ~1,2k Views) und den Gewinner behalten. Ziel: Ø angesehen > 90 %, stayed > 65 %, ein Short über 3k.
+- Kanal: 7 Abos nach ~10k Short-Views – Shorts bringen kaum Abos; Abos kommen über lange Videos (Abo-Aufruf + Glocke ist eingebaut).
