@@ -1,0 +1,26 @@
+{
+ "id": "emoji-word-15",
+ "note": "außerhalb des Systems erstellt; nur für den Thumbnail-Test eingetragen",
+ "youtube": {
+  "title": "Guess the Word by Emoji 🧠 Only a Genius Gets 15/15!"
+ },
+ "story": {
+  "format": "long"
+ },
+ "uploaded": {
+  "videoId": "AU5WA_fEFNc",
+  "at": "2026-10-17T21:54"
+ },
+ "thumbTest": {
+  "order": [
+   "O",
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "O",
+  "since": "2026-10-17",
+  "results": {},
+  "done": false
+ }
+}

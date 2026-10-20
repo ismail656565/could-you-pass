@@ -1,0 +1,18 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "title": "Guess the Word by Emoji",
+ "questions": [],
+ "thumbTexts": [
+  "GUESS THE **WORD**",
+  "CAN YOU **SOLVE** THIS?",
+  "ONLY GENIUS GETS **15/15**"
+ ],
+ "thumbEmoji": "🧠",
+ "thumbPuzzle": [
+  "🧈",
+  "🪰"
+ ],
+ "thumbBadge": "15 EMOJI PUZZLES 🧠",
+ "hook": "15 EMOJI PUZZLES"
+}

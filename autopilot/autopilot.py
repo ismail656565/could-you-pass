@@ -457,7 +457,7 @@ def thumb_rotate():
         if not t or t.get('done') or not vid:
             continue
         st_file = ROOT / 'stories' / f"{item['id']}.json"
-        if any(not (THUMBS / f"{item['id']}-{v}.jpg").exists() for v in t['order']) and st_file.exists():
+        if any(not (THUMBS / f"{item['id']}-{v}.jpg").exists() for v in t['order'] if v != 'O') and st_file.exists():
             render_thumbs(item['id'], json.loads(st_file.read_text(encoding='utf-8')))
         since = dt.date.fromisoformat(t['since'])
         age = (today - since).days
@@ -479,7 +479,8 @@ def thumb_rotate():
         if rest:
             nxt = rest[0]
         else:
-            nxt = max(t['results'], key=lambda v: t['results'][v]['ctr'])
+            have = [v for v in t['results'] if (THUMBS / f"{item['id']}-{v}.jpg").exists() or v == t['current']]
+            nxt = max(have, key=lambda v: t['results'][v]['ctr'])
             t['done'] = True
             t['winner'] = nxt
         f = THUMBS / f"{item['id']}-{nxt}.jpg"
