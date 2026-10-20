@@ -339,12 +339,33 @@ def post_pending_comments():
             log('Kommentar nicht möglich:', str(ex)[:200])
 
 
+def with_chapters(item, desc):
+    """Lange Videos: Kapitel (0:00 Easy, … Legend, Ergebnis) automatisch in die Beschreibung – hilft Suche & Zuschauern"""
+    story = item.get('story', {})
+    if story.get('format') != 'long' or '0:00' in desc:
+        return desc
+    fmt = lambda t: f"{int(t // 60)}:{int(t % 60):02d}"
+    ch, last = [], None
+    for i, q in enumerate(story.get('questions', [])):
+        lv = (q.get('level') or '').strip()
+        if lv and lv != last:
+            ch.append((0 if not ch else q.get('start', 0), f"{lv.title()} (Question {i + 1})"))
+            last = lv
+    if story.get('outroStart') and story.get('durationInSeconds', 0) - story['outroStart'] > 10:
+        ch.append((story['outroStart'], 'Your score'))
+    ch = [c for j, c in enumerate(ch) if j == 0 or c[0] - ch[j - 1][0] >= 10]
+    if len(ch) < 3:
+        return desc
+    return desc.rstrip() + '\n\nChapters:\n' + '\n'.join(f'{fmt(t)} {n}' for t, n in ch)
+
+
 def upload(item, mp4):
     from googleapiclient.http import MediaFileUpload
     meta = item['youtube']
     privacy = env().get('PRIVACY') or os.environ.get('PRIVACY', 'public')
     body = {
-        'snippet': {'title': meta['title'][:100], 'description': meta.get('description', ''), 'tags': meta.get('tags', []), 'categoryId': meta.get('categoryId', '24')},
+        'snippet': {'title': meta['title'][:100], 'description': with_chapters(item, meta.get('description', '')), 'tags': meta.get('tags', []),
+                    'categoryId': meta.get('categoryId', '24'), 'defaultLanguage': 'en', 'defaultAudioLanguage': 'en'},
         'status': {'privacyStatus': privacy, 'selfDeclaredMadeForKids': False},
     }
     when = publish_time(item) if privacy == 'public' else None
