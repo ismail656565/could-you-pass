@@ -145,6 +145,21 @@ def analytics():
             v['retention'] = [[round(r[0], 2), round(r[1], 3), round(r[2], 3)] for r in rep.get('rows', [])]
         except Exception as ex:
             v['retentionError'] = str(ex)[:200]
+    # Woher kommen die Aufrufe? (Traffic-Quellen, v. a. für lange Videos wichtig)
+    for v in vids[:15]:
+        try:
+            rep = a.reports().query(ids='channel==MINE', startDate='2020-01-01', endDate=today, metrics='views',
+                                    dimensions='insightTrafficSourceType', filters=f"video=={v['id']}", sort='-views').execute()
+            v['trafficSources'] = {r[0]: r[1] for r in rep.get('rows', [])}
+        except Exception as ex:
+            v['trafficError'] = str(ex)[:150]
+        try:
+            rep = a.reports().query(ids='channel==MINE', startDate='2020-01-01', endDate=today, filters=f"video=={v['id']}",
+                                    metrics='videoThumbnailImpressions,videoThumbnailImpressionsClickRate').execute()
+            row = (rep.get('rows') or [[None, None]])[0]
+            v['impressions'], v['ctr'] = row[0], row[1]
+        except Exception as ex:
+            v['ctrError'] = str(ex)[:150]
     # Länge der Videos
     for i in range(0, len(vids), 50):
         ids = ','.join(v['id'] for v in vids[i:i + 50])
