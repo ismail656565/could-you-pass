@@ -104,3 +104,5 @@
 [2026-10-20 08:22:37] Playlist nicht möglich: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 're
 [2026-10-20 08:22:37] Geplant für 20.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
 [2026-10-20 08:22:38] Short-Beschreibung verlinkt auf langes Video APKGqW8fBSI
+[2026-10-20 09:09:43] halloween-trap-3-0: Kommentar gepostet
+[2026-10-20 09:09:43] memory-check-35-1: noch nicht öffentlich – Kommentar später
