@@ -397,9 +397,16 @@ def add_to_playlist(y, vid, name):
             'status': {'privacyStatus': 'public'}}).execute()
         _PLAYLISTS[name] = p['id']
         log('Playlist angelegt:', name)
-    y.playlistItems().insert(part='snippet', body={'snippet': {'playlistId': _PLAYLISTS[name], 'resourceId': {'kind': 'youtube#video', 'videoId': vid},
-                                                                  'position': 0}}).execute()
-    log(f'In Playlist "{name}"')
+    for attempt in range(4):  # frisch angelegte Playlists liefern anfangs 409 "aborted"
+        try:
+            y.playlistItems().insert(part='snippet', body={'snippet': {'playlistId': _PLAYLISTS[name],
+                                                                      'resourceId': {'kind': 'youtube#video', 'videoId': vid}}}).execute()
+            log(f'In Playlist "{name}"')
+            return
+        except Exception:
+            if attempt == 3:
+                raise
+            time.sleep(5 * (attempt + 1))
 
 
 def upload(item, mp4):
