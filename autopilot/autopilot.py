@@ -359,6 +359,49 @@ def with_chapters(item, desc):
     return desc.rstrip() + '\n\nChapters:\n' + '\n'.join(f'{fmt(t)} {n}' for t, n in ch)
 
 
+def playlist_name(item):
+    if item.get('playlist'):
+        return item['playlist']
+    st = item.get('story', {})
+    text = (st.get('header', '') + ' ' + item.get('youtube', {}).get('title', '')).lower()
+    if st.get('format') != 'long':
+        return 'Quiz Shorts – New Quiz Every Day 🧠'
+    if 'halloween' in text:
+        return 'Halloween Quizzes 🎃'
+    if any(k in text for k in ('football', 'soccer', 'league', 'world cup', 'nba', 'sport')):
+        return 'Football & Sports Quizzes ⚽'
+    if 'emoji' in text:
+        return 'Emoji Quizzes 🤔'
+    return 'General Knowledge & Memory Quizzes 🧠'
+
+
+_PLAYLISTS = None
+
+
+def add_to_playlist(y, vid, name):
+    """Video in passende Playlist (wird bei Bedarf angelegt) – Playlists bringen 'Vorgeschlagen'-Aufrufe und längere Sitzungen"""
+    global _PLAYLISTS
+    if _PLAYLISTS is None:
+        _PLAYLISTS, tok = {}, None
+        while True:
+            r = y.playlists().list(part='snippet', mine=True, maxResults=50, pageToken=tok).execute()
+            for p in r.get('items', []):
+                _PLAYLISTS[p['snippet']['title']] = p['id']
+            tok = r.get('nextPageToken')
+            if not tok:
+                break
+    if name not in _PLAYLISTS:
+        p = y.playlists().insert(part='snippet,status', body={
+            'snippet': {'title': name, 'description': 'A new quiz every day from COULD YOU PASS? – how many can you get right? Subscribe & turn on the bell 🔔',
+                        'defaultLanguage': 'en'},
+            'status': {'privacyStatus': 'public'}}).execute()
+        _PLAYLISTS[name] = p['id']
+        log('Playlist angelegt:', name)
+    y.playlistItems().insert(part='snippet', body={'snippet': {'playlistId': _PLAYLISTS[name], 'resourceId': {'kind': 'youtube#video', 'videoId': vid},
+                                                                  'position': 0}}).execute()
+    log(f'In Playlist "{name}"')
+
+
 def upload(item, mp4):
     from googleapiclient.http import MediaFileUpload
     meta = item['youtube']
@@ -386,6 +429,11 @@ def upload(item, mp4):
             log('Vorschaubild gesetzt')
         except Exception as ex:
             log('Vorschaubild nicht möglich (Kanal evtl. nicht per Telefon bestätigt):', str(ex)[:200])
+    try:
+        add_to_playlist(y, vid, playlist_name(item))
+        item['playlistAdded'] = True
+    except Exception as ex:
+        log('Playlist nicht möglich:', str(ex)[:200])
     if meta.get('comment') and when:
         item['pendingComment'] = True
         log(f"Geplant für {when:%d.%m. %H:%M} Uhr (Berlin) – Kommentar folgt nach Veröffentlichung")
@@ -605,6 +653,19 @@ def main():
         produce()
     elif cmd == 'comments':
         post_pending_comments()
+    elif cmd == 'playlists':
+        # bisherige Videos nachträglich in Playlists einsortieren
+        y = yt()
+        for d in sorted(DONE.glob('*.json')):
+            it = json.loads(d.read_text(encoding='utf-8'))
+            vid = it.get('uploaded', {}).get('videoId')
+            if vid and not it.get('playlistAdded'):
+                try:
+                    add_to_playlist(y, vid, playlist_name(it))
+                    it['playlistAdded'] = True
+                    d.write_text(json.dumps(it, indent=1, ensure_ascii=False), encoding='utf-8')
+                except Exception as ex:
+                    log('Playlist-Fehler', vid, str(ex)[:200])
     elif cmd == 'dryrun':
         # Test ohne Upload: Ton + Video für alle Dateien in autopilot/test/
         for p in sorted((AP / 'test').glob('*.json')):
