@@ -1,0 +1,101 @@
+{
+ "id": "halloween-trap-4-0",
+ "lines": [
+  {
+   "q": "Salem witches in sixteen ninety-two were executed by what?",
+   "a": "Hanging! Not a single one was burned at the stake."
+  },
+  {
+   "q": "Vampire bats drink blood by doing what?",
+   "a": "Lapping it up! They lick it like a cat. No sucking."
+  },
+  {
+   "q": "Ground-up mummies were once sold in Europe as what?",
+   "a": "Medicine! People actually ate powdered mummy."
+  },
+  {
+   "q": "Last one. A group of owls is called a what?",
+   "a": "A parliament! A murder is crows."
+  }
+ ],
+ "youtube": {
+  "title": "4 Halloween Questions 90% Get Wrong 🎃 #shorts",
+  "description": "4 spooky trivia questions that trick almost everyone 🎃 Did you know #1?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#halloween #halloweenquiz #quiz #trivia #spooky #shorts\n\nMusic: original.",
+  "tags": [
+   "halloween quiz",
+   "halloween trivia",
+   "quiz",
+   "trivia",
+   "spooky",
+   "shorts"
+  ],
+  "comment": "Be honest – did the mummy one get you? 😅 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Halloween Trivia",
+  "header": "HALLOWEEN TRIVIA",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Salem **witches** in 1692 were executed by…?",
+    "answers": [
+     "Burning",
+     "Drowning",
+     "Hanging",
+     "Beheading"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🧹  🔥"
+   },
+   {
+    "q": "**Vampire bats** drink blood by…?",
+    "answers": [
+     "Sucking it",
+     "Lapping it up",
+     "Swallowing chunks",
+     "Through the nose"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🦇  🩸"
+   },
+   {
+    "q": "Ground-up **mummies** were once sold in Europe as…?",
+    "answers": [
+     "Medicine",
+     "Gunpowder",
+     "Perfume",
+     "Salt"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "⚱️  🏺"
+   },
+   {
+    "q": "A group of **owls** is called a…?",
+    "answers": [
+     "Murder",
+     "Coven",
+     "Flock",
+     "Parliament"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🦉  🌙"
+   }
+  ]
+ }
+}

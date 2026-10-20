@@ -1,0 +1,618 @@
+{
+ "id": "halloween-quiz-35-2",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.3,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Thirty-five spooky questions. If you get twenty-five right, you're a true Halloween expert. Which TV family has a butler named Lurch?",
+   "a": "The Addams Family! You rang?"
+  },
+  {
+   "q": "What does a witch traditionally ride?",
+   "a": "A broomstick!"
+  },
+  {
+   "q": "Which monster is wrapped in bandages?",
+   "a": "The mummy!"
+  },
+  {
+   "q": "How many legs does a spider have?",
+   "a": "Eight! Insects have six."
+  },
+  {
+   "q": "In The Wizard of Oz, which witch melts?",
+   "a": "The Wicked Witch of the West! I'm melting!"
+  },
+  {
+   "q": "Which nineteen eighty-four film asks: Who you gonna call?",
+   "a": "Ghostbusters!"
+  },
+  {
+   "q": "Which fruit do people bob for at Halloween?",
+   "a": "Apples!"
+  },
+  {
+   "q": "Which food is said to keep vampires away?",
+   "a": "Garlic!"
+  },
+  {
+   "q": "In which TV show are Herman and Lily married?",
+   "a": "The Munsters!"
+  },
+  {
+   "q": "Who wrote Doctor Jekyll and Mister Hyde?",
+   "a": "Robert Louis Stevenson!"
+  },
+  {
+   "q": "Who wrote both It and Carrie?",
+   "a": "Stephen King!"
+  },
+  {
+   "q": "Which nineteen seventy-three film features a possessed girl named Regan?",
+   "a": "The Exorcist!"
+  },
+  {
+   "q": "Which nineteen sixty-three Hitchcock film has attacking birds?",
+   "a": "The Birds!"
+  },
+  {
+   "q": "Which Shakespeare play opens with three witches?",
+   "a": "Macbeth! Double, double, toil and trouble."
+  },
+  {
+   "q": "Who painted The Scream?",
+   "a": "Edvard Munch! From Norway."
+  },
+  {
+   "q": "The Day of the Dead is most famous in which country?",
+   "a": "Mexico!"
+  },
+  {
+   "q": "Who wrote The Hound of the Baskervilles?",
+   "a": "Arthur Conan Doyle! A Sherlock Holmes story."
+  },
+  {
+   "q": "Who wrote The Invisible Man in eighteen ninety-seven?",
+   "a": "H. G. Wells! If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Monster Mash hit number one in which year?",
+   "a": "Nineteen sixty-two!"
+  },
+  {
+   "q": "The Shining is set in which hotel?",
+   "a": "The Overlook Hotel! Here's Johnny!"
+  },
+  {
+   "q": "What is the fear of spiders called?",
+   "a": "Arachnophobia!"
+  },
+  {
+   "q": "Which spider is named after the female sometimes eating the male?",
+   "a": "The black widow!"
+  },
+  {
+   "q": "What giant monster attacks New York in Ghostbusters?",
+   "a": "The Stay Puft Marshmallow Man!"
+  },
+  {
+   "q": "Which nineteen sixty-eight horror film stars Mia Farrow?",
+   "a": "Rosemary's Baby!"
+  },
+  {
+   "q": "Who played Dracula in the Hammer films from nineteen fifty-eight?",
+   "a": "Christopher Lee!"
+  },
+  {
+   "q": "Which flower decorates Day of the Dead altars?",
+   "a": "The marigold! Its orange guides the spirits."
+  },
+  {
+   "q": "What is the vampire called in Nosferatu, from nineteen twenty-two?",
+   "a": "Count Orlok!"
+  },
+  {
+   "q": "Who wrote the ghost story The Turn of the Screw?",
+   "a": "Henry James!"
+  },
+  {
+   "q": "The aye-aye is seen as a bad omen in which country?",
+   "a": "Madagascar! A lemur with a long, spooky finger."
+  },
+  {
+   "q": "Which silent film star was the Man of a Thousand Faces?",
+   "a": "Lon Chaney!"
+  },
+  {
+   "q": "Who played Van Helsing opposite Christopher Lee?",
+   "a": "Peter Cushing!"
+  },
+  {
+   "q": "Who wrote the novel The Phantom of the Opera?",
+   "a": "Gaston Leroux! In nineteen ten."
+  },
+  {
+   "q": "Which seventeen sixty-four book is called the first Gothic novel?",
+   "a": "The Castle of Otranto! By Horace Walpole."
+  },
+  {
+   "q": "What is a Day of the Dead sugar skull called?",
+   "a": "A calavera! It means skull."
+  },
+  {
+   "q": "Final question. Who directed The Nightmare Before Christmas?",
+   "a": "Henry Selick! Not Tim Burton. Burton produced it."
+  }
+ ],
+ "youtube": {
+  "title": "Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions",
+  "description": "35 spooky questions – classic horror films, monsters, ghost stories, witches and Day of the Dead, from EASY to LEGEND 🎃 If you get 25 right, you're a true Halloween expert!\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#HalloweenQuiz #Halloween #Quiz #Trivia #HorrorMovies #TriviaQuiz\n\nMusic: original.",
+  "tags": [
+   "halloween quiz",
+   "halloween trivia",
+   "horror movie quiz",
+   "quiz",
+   "trivia",
+   "trivia quiz",
+   "general knowledge quiz",
+   "quiz for seniors"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 35? 🎃 Be honest – did the last one fool you? 😅"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "neon",
+  "title": "Halloween Quiz",
+  "header": "HALLOWEEN QUIZ",
+  "hook": "CAN YOU GET 25/35? 🎃",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 17,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "HALLOWEEN **QUIZ**",
+   "CAN YOU GET **25/35**?",
+   "ONLY 1 IN 10 GET **#35**"
+  ],
+  "thumbEmoji": "👻",
+  "thumbBadge": "35 QUESTIONS 👻 EASY → LEGEND",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "Which TV family has a butler named **Lurch**?",
+    "answers": [
+     "The Munsters",
+     "The Addams Family",
+     "The Simpsons",
+     "The Flintstones"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🏚️  🕯️"
+   },
+   {
+    "q": "What does a witch traditionally **ride**?",
+    "answers": [
+     "A horse",
+     "A cloud",
+     "A carpet",
+     "A broomstick"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🧙‍♀️  🌕"
+   },
+   {
+    "q": "Which monster is wrapped in **bandages**?",
+    "answers": [
+     "A zombie",
+     "A ghost",
+     "A mummy",
+     "A werewolf"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🏺  🧻"
+   },
+   {
+    "q": "How many **legs** does a spider have?",
+    "answers": [
+     "Six",
+     "Eight",
+     "Ten",
+     "Twelve"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🕷️  🕸️"
+   },
+   {
+    "q": "In The Wizard of Oz, which witch **melts**?",
+    "answers": [
+     "Witch of the East",
+     "Witch of the North",
+     "Witch of the West",
+     "Witch of the South"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "💧  🧙‍♀️"
+   },
+   {
+    "q": "Which 1984 film asks: Who you gonna **call**?",
+    "answers": [
+     "Ghostbusters",
+     "Gremlins",
+     "Beetlejuice",
+     "Poltergeist"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "👻  📞"
+   },
+   {
+    "q": "Which fruit do people **bob** for at Halloween?",
+    "answers": [
+     "Pears",
+     "Oranges",
+     "Plums",
+     "Apples"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🪣  💦"
+   },
+   {
+    "q": "Which food is said to keep **vampires** away?",
+    "answers": [
+     "Onion",
+     "Ginger",
+     "Pepper",
+     "Garlic"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🧛  🚫"
+   },
+   {
+    "q": "In which TV show are **Herman and Lily** married?",
+    "answers": [
+     "The Munsters",
+     "The Addams Family",
+     "Bewitched",
+     "Dark Shadows"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "📺  🧟"
+   },
+   {
+    "q": "Who wrote **Dr Jekyll and Mr Hyde**?",
+    "answers": [
+     "Charles Dickens",
+     "Robert Louis Stevenson",
+     "Oscar Wilde",
+     "H. G. Wells"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🧪  📖"
+   },
+   {
+    "q": "Who wrote both **It** and **Carrie**?",
+    "answers": [
+     "Dean Koontz",
+     "Anne Rice",
+     "Stephen King",
+     "Clive Barker"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🎈  🤡"
+   },
+   {
+    "q": "Which 1973 film features a possessed girl named **Regan**?",
+    "answers": [
+     "The Omen",
+     "Carrie",
+     "Poltergeist",
+     "The Exorcist"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "1973"
+   },
+   {
+    "q": "Which 1963 Hitchcock film has attacking **birds**?",
+    "answers": [
+     "Vertigo",
+     "Rear Window",
+     "Rebecca",
+     "The Birds"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🐦  🎬"
+   },
+   {
+    "q": "Which Shakespeare play opens with **three witches**?",
+    "answers": [
+     "Hamlet",
+     "King Lear",
+     "Macbeth",
+     "Othello"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🧙‍♀️  🔮"
+   },
+   {
+    "q": "Who painted **The Scream**?",
+    "answers": [
+     "Edvard Munch",
+     "Salvador Dalí",
+     "Van Gogh",
+     "Francisco Goya"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "😱  🎨"
+   },
+   {
+    "q": "The **Day of the Dead** is most famous in which country?",
+    "answers": [
+     "Spain",
+     "Mexico",
+     "Brazil",
+     "Peru"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "💀  🌼"
+   },
+   {
+    "q": "Who wrote **The Hound of the Baskervilles**?",
+    "answers": [
+     "Agatha Christie",
+     "Edgar Allan Poe",
+     "Arthur Conan Doyle",
+     "Wilkie Collins"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🐕  🌫️"
+   },
+   {
+    "q": "Who wrote **The Invisible Man** in 1897?",
+    "answers": [
+     "Jules Verne",
+     "Mary Shelley",
+     "Bram Stoker",
+     "H. G. Wells"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "1897"
+   },
+   {
+    "q": "**Monster Mash** hit number one in which year?",
+    "answers": [
+     "1958",
+     "1962",
+     "1966",
+     "1970"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🎵  🧟"
+   },
+   {
+    "q": "The Shining is set in which **hotel**?",
+    "answers": [
+     "The Bates Motel",
+     "The Grand Budapest",
+     "The Stanley",
+     "The Overlook"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🏨  🪓"
+   },
+   {
+    "q": "What is the fear of **spiders** called?",
+    "answers": [
+     "Arachnophobia",
+     "Ophidiophobia",
+     "Acrophobia",
+     "Claustrophobia"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🕷️  😨"
+   },
+   {
+    "q": "Which spider is named after the female eating the **male**?",
+    "answers": [
+     "Tarantula",
+     "Wolf spider",
+     "Black widow",
+     "Huntsman"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🕷️  ⚫"
+   },
+   {
+    "q": "What giant monster attacks New York in **Ghostbusters**?",
+    "answers": [
+     "A giant ghost",
+     "A marshmallow man",
+     "A slime blob",
+     "A stone dog"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🍡  🗽"
+   },
+   {
+    "q": "Which 1968 film stars **Mia Farrow**?",
+    "answers": [
+     "Rosemary's Baby",
+     "The Omen",
+     "The Haunting",
+     "Carrie"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "1968"
+   },
+   {
+    "q": "Who played Dracula in the **Hammer** films from 1958?",
+    "answers": [
+     "Peter Cushing",
+     "Vincent Price",
+     "Christopher Lee",
+     "Lon Chaney"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🧛  🩸"
+   },
+   {
+    "q": "Which **flower** decorates Day of the Dead altars?",
+    "answers": [
+     "Rose",
+     "Lily",
+     "Tulip",
+     "Marigold"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🌼  🕯️"
+   },
+   {
+    "q": "What is the vampire called in **Nosferatu** (1922)?",
+    "answers": [
+     "Count Orlok",
+     "Count Dracula",
+     "Lord Ruthven",
+     "Count Yorga"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "1922"
+   },
+   {
+    "q": "Who wrote the ghost story **The Turn of the Screw**?",
+    "answers": [
+     "Henry James",
+     "Edgar Allan Poe",
+     "Charles Dickens",
+     "Nathaniel Hawthorne"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "👻  📖"
+   },
+   {
+    "q": "The **aye-aye** is a bad omen in which country?",
+    "answers": [
+     "India",
+     "Borneo",
+     "Peru",
+     "Madagascar"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🐒  👁️"
+   },
+   {
+    "q": "Who was the **Man of a Thousand Faces**?",
+    "answers": [
+     "Boris Karloff",
+     "Lon Chaney",
+     "Bela Lugosi",
+     "Vincent Price"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🎭  🎬"
+   },
+   {
+    "q": "Who played **Van Helsing** opposite Christopher Lee?",
+    "answers": [
+     "Peter Cushing",
+     "Vincent Price",
+     "Anthony Hopkins",
+     "Michael Gough"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "✝️  🧛"
+   },
+   {
+    "q": "Who wrote the novel **The Phantom of the Opera**?",
+    "answers": [
+     "Victor Hugo",
+     "Alexandre Dumas",
+     "Gaston Leroux",
+     "Jules Verne"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🎭  🎹"
+   },
+   {
+    "q": "Which 1764 book is called the first **Gothic** novel?",
+    "answers": [
+     "Vathek",
+     "The Monk",
+     "The Castle of Otranto",
+     "Wuthering Heights"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "1764"
+   },
+   {
+    "q": "What is a Day of the Dead **sugar skull** called?",
+    "answers": [
+     "Piñata",
+     "Ofrenda",
+     "Catrina",
+     "Calavera"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "💀  🍬"
+   },
+   {
+    "q": "Who **directed** The Nightmare Before Christmas?",
+    "answers": [
+     "Tim Burton",
+     "Henry Selick",
+     "Danny Elfman",
+     "Wes Anderson"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🎃  🎄"
+   }
+  ]
+ }
+}

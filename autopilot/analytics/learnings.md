@@ -45,3 +45,13 @@
 - CL-Quiz (20 Q) 3 Views, PL-Quiz noch ohne Daten → Fußball-Langvideos à 3 min verteilen sich nicht. Ab heute neues Format: 30–40 Fragen, seniorenfreundlich (timing count 5.0), Halloween-Thema wegen +206 % Suchtrend.
 ### Thumbnails
 - Noch keine thumbTest-Ergebnisse (CL seit 18.10., PL seit 19.10. auf Variante A). Erste Auswertung ~22.–23.10.
+
+## 2026-10-20 (Morgenlauf, Queue für 21.10.)
+### Shorts
+- "Which Came First? 6 Questions" (Format c) jetzt 1151 Views → landet wie alle 6-Fragen-Shorts in der 1,1–1,3k-Decke (Leader Geo-Trap 1306, Trivia-Trap 1228). Format allein bricht die Decke nicht → Längen-Test ist richtig.
+- Längen-Test: 19.10. 3 Fragen (Halloween), 20.10. 3 Fragen (Spooky), 21.10. 4 Fragen (Halloween) → danach 22.10. 3, 23.10. 4. Auswertung ab ~25.10., wenn alle 4 Test-Shorts ≥3 Tage Daten haben.
+### Lange Videos
+- Fußball-Langvideos tot: PL-Quiz 1 View, CL-Quiz 3 Views (Kanal mit 7 Abos, keine Suchreichweite für 3-min-Fußball). Neues Senioren-Format (Halloween-35 seit 19.10. abends) noch ohne Daten.
+- Titeltyp-Test: 19.10. Challenge ("Can You Get 30 out of 35?"), 20.10. Alter ("Are You Over 60?"), 21.10. "If You Get 25 Right…" → nach je ≥3 Tagen Views/CTR vergleichen.
+### Thumbnails
+- Noch keine thumbTest-Ergebnisse (CL A seit 18.10., PL A seit 19.10., Halloween-35 A seit 19.10.). Erste Umschaltung auf B ~22.10.
