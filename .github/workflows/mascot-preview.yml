@@ -1,0 +1,45 @@
+name: Maskottchen-Vorschau
+
+# Läuft nur auf dem Test-Branch "qbit-preview": rendert Standbilder + kurze Testvideos von Q-Bit
+# und legt sie im Ordner preview/ auf genau diesem Branch ab. Der Hauptbranch bleibt unberührt.
+on:
+  push:
+    branches: [qbit-preview]
+    paths-ignore: ['preview/**']
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: System-Pakete
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji fonts-noto-core
+      - name: Abhängigkeiten
+        run: |
+          npm ci
+          npx remotion browser ensure
+      - name: Typen prüfen
+        run: npx tsc --noEmit -p . 2>&1 | tee preview-tsc.txt || true
+      - name: Vorschau rendern
+        run: node scripts/mascot-preview.mjs 2>&1 | tail -n 200 | tee preview-log.txt
+      - name: Vorschau speichern
+        if: always()
+        run: |
+          mkdir -p preview
+          cp preview-tsc.txt preview-log.txt preview/ 2>/dev/null || true
+          git config user.name "quiz-autopilot"
+          git config user.email "autopilot@users.noreply.github.com"
+          git add preview
+          git commit -m "Maskottchen-Vorschau" || echo "nichts zu speichern"
+          git push || true

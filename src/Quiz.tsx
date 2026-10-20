@@ -2,6 +2,7 @@ import React from 'react';
 import {AbsoluteFill, Audio, Img, Sequence, interpolate, random, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 import {loadFont} from '@remotion/google-fonts/Montserrat';
 import {NeonScene} from './QuizNeon';
+import {QuizMascot, type MascotSetting} from './components/Mascot';
 
 // Quiz-Short, Layout B "Knallig & Comic":
 //   gelber Hintergrund mit Punktraster, dicke schwarze Ränder, harte Schatten
@@ -90,6 +91,8 @@ export type QuizStory = {
   midCtaIndex?: number;
   midCtaText?: string;
   subscribeText?: string;
+  /** Maskottchen Q-Bit: "auto" (Kostüm nach Thema, Standard), festes Kostüm oder "off" */
+  mascot?: MascotSetting;
   /** (alt, ungenutzt) */
   stripe?: string[];
   questionLabel?: string;
@@ -689,6 +692,7 @@ export const Quiz: React.FC<QuizStory> = (story) => {
           <Outro story={story} />
         </Sequence>
       ) : null}
+      {story.layout === 'neon' ? <QuizMascot story={story} x={58} y={812} width={165} look={1} /> : null}
       {story.audio ? <Audio src={staticFile(story.audio)} /> : null}
       {story.music ? <Audio src={staticFile(story.music)} volume={story.musicVolume ?? 0.1} loop /> : null}
       <Sfx questions={story.questions} outroStart={hasOutro ? story.outroStart : -1} />
