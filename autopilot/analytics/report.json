@@ -1,8 +1,48 @@
 {
- "fetched": "2026-10-20T07:38",
+ "fetched": "2026-10-20T11:27",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "videos": [
+  {
+   "id": "keIS27rjlOo",
+   "title": "Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz",
+   "published": "2026-10-20T09:09:03Z",
+   "retention": [],
+   "trafficSources": {},
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "durationSec": 367,
+   "publicViews": "0"
+  },
+  {
+   "id": "kjdarUQWYsY",
+   "title": "3 Spooky Questions 90% Get Wrong 🎃 #shorts",
+   "published": "2026-10-20T08:29:19Z",
+   "retention": [],
+   "trafficSources": {},
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "durationSec": 24,
+   "publicViews": "0"
+  },
+  {
+   "id": "APKGqW8fBSI",
+   "title": "Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz",
+   "published": "2026-10-20T08:22:30Z",
+   "retention": [],
+   "trafficSources": {},
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "durationSec": 367,
+   "publicViews": "0"
+  },
+  {
+   "id": "yOvhr5AtBmg",
+   "title": "3 Spooky Questions 90% Get Wrong 🎃 #shorts",
+   "published": "2026-10-20T08:00:15Z",
+   "retention": [],
+   "trafficSources": {},
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "durationSec": 24,
+   "publicViews": "122"
+  },
   {
    "id": "Feubf7dVX7Y",
    "title": "Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend",
@@ -11,7 +51,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 400,
-   "publicViews": "1"
+   "publicViews": "18"
   },
   {
    "id": "aBw0DS0IqYE",
@@ -21,7 +61,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 26,
-   "publicViews": "362"
+   "publicViews": "373"
   },
   {
    "id": "CsJYvRLyZfQ",
@@ -41,7 +81,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 46,
-   "publicViews": "1219"
+   "publicViews": "1220"
   },
   {
    "id": "kgWV2rM_BLc",
@@ -51,7 +91,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 184,
-   "publicViews": "3"
+   "publicViews": "4"
   },
   {
    "id": "FyEfeQscyqI",
@@ -61,27 +101,25 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 43,
-   "publicViews": "1163"
+   "publicViews": "1165"
   },
   {
    "id": "gulbOkDMLgg",
    "title": "6 Questions 90% Get Wrong 🤯 #shorts",
    "published": "2026-10-18T07:45:37Z",
-   "retention": [],
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 44,
-   "publicViews": "1238"
+   "publicViews": "1242"
   },
   {
    "id": "AU5WA_fEFNc",
    "title": "Guess the Word by Emoji 🧠 Only a Genius Gets 15/15!",
    "published": "2026-10-17T19:54:28Z",
-   "retention": [],
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 182,
-   "publicViews": "112"
+   "publicViews": "115"
   },
   {
    "id": "P9BSOeOxJJc",
@@ -94,508 +132,6 @@
    "likes": 6,
    "comments": 0,
    "subscribersGained": 1,
-   "retention": [
-    [
-     0.01,
-     1.196,
-     0.55
-    ],
-    [
-     0.02,
-     1.164,
-     0.495
-    ],
-    [
-     0.03,
-     1.129,
-     0.437
-    ],
-    [
-     0.04,
-     1.087,
-     0.387
-    ],
-    [
-     0.05,
-     1.069,
-     0.347
-    ],
-    [
-     0.06,
-     1.062,
-     0.313
-    ],
-    [
-     0.07,
-     1.053,
-     0.285
-    ],
-    [
-     0.08,
-     1.036,
-     0.264
-    ],
-    [
-     0.09,
-     1.002,
-     0.247
-    ],
-    [
-     0.1,
-     0.98,
-     0.234
-    ],
-    [
-     0.11,
-     0.949,
-     0.225
-    ],
-    [
-     0.12,
-     0.927,
-     0.217
-    ],
-    [
-     0.13,
-     0.92,
-     0.21
-    ],
-    [
-     0.14,
-     0.862,
-     0.205
-    ],
-    [
-     0.15,
-     0.8,
-     0.201
-    ],
-    [
-     0.16,
-     0.751,
-     0.198
-    ],
-    [
-     0.17,
-     0.709,
-     0.195
-    ],
-    [
-     0.18,
-     0.7,
-     0.192
-    ],
-    [
-     0.19,
-     0.684,
-     0.189
-    ],
-    [
-     0.2,
-     0.671,
-     0.186
-    ],
-    [
-     0.21,
-     0.656,
-     0.184
-    ],
-    [
-     0.22,
-     0.644,
-     0.182
-    ],
-    [
-     0.23,
-     0.64,
-     0.181
-    ],
-    [
-     0.24,
-     0.636,
-     0.18
-    ],
-    [
-     0.25,
-     0.636,
-     0.181
-    ],
-    [
-     0.26,
-     0.613,
-     0.181
-    ],
-    [
-     0.27,
-     0.589,
-     0.182
-    ],
-    [
-     0.28,
-     0.56,
-     0.183
-    ],
-    [
-     0.29,
-     0.553,
-     0.184
-    ],
-    [
-     0.3,
-     0.538,
-     0.185
-    ],
-    [
-     0.31,
-     0.536,
-     0.186
-    ],
-    [
-     0.32,
-     0.531,
-     0.187
-    ],
-    [
-     0.33,
-     0.518,
-     0.188
-    ],
-    [
-     0.34,
-     0.511,
-     0.19
-    ],
-    [
-     0.35,
-     0.509,
-     0.192
-    ],
-    [
-     0.36,
-     0.507,
-     0.194
-    ],
-    [
-     0.37,
-     0.5,
-     0.196
-    ],
-    [
-     0.38,
-     0.487,
-     0.198
-    ],
-    [
-     0.39,
-     0.471,
-     0.201
-    ],
-    [
-     0.4,
-     0.458,
-     0.203
-    ],
-    [
-     0.41,
-     0.451,
-     0.206
-    ],
-    [
-     0.42,
-     0.451,
-     0.209
-    ],
-    [
-     0.43,
-     0.447,
-     0.211
-    ],
-    [
-     0.44,
-     0.442,
-     0.213
-    ],
-    [
-     0.45,
-     0.438,
-     0.215
-    ],
-    [
-     0.46,
-     0.436,
-     0.218
-    ],
-    [
-     0.47,
-     0.431,
-     0.22
-    ],
-    [
-     0.48,
-     0.429,
-     0.223
-    ],
-    [
-     0.49,
-     0.422,
-     0.227
-    ],
-    [
-     0.5,
-     0.404,
-     0.231
-    ],
-    [
-     0.51,
-     0.393,
-     0.235
-    ],
-    [
-     0.52,
-     0.393,
-     0.241
-    ],
-    [
-     0.53,
-     0.389,
-     0.246
-    ],
-    [
-     0.54,
-     0.387,
-     0.253
-    ],
-    [
-     0.55,
-     0.387,
-     0.26
-    ],
-    [
-     0.56,
-     0.384,
-     0.268
-    ],
-    [
-     0.57,
-     0.384,
-     0.277
-    ],
-    [
-     0.58,
-     0.384,
-     0.287
-    ],
-    [
-     0.59,
-     0.378,
-     0.299
-    ],
-    [
-     0.6,
-     0.373,
-     0.311
-    ],
-    [
-     0.61,
-     0.358,
-     0.324
-    ],
-    [
-     0.62,
-     0.349,
-     0.338
-    ],
-    [
-     0.63,
-     0.34,
-     0.351
-    ],
-    [
-     0.64,
-     0.336,
-     0.365
-    ],
-    [
-     0.65,
-     0.333,
-     0.379
-    ],
-    [
-     0.66,
-     0.331,
-     0.392
-    ],
-    [
-     0.67,
-     0.331,
-     0.405
-    ],
-    [
-     0.68,
-     0.324,
-     0.418
-    ],
-    [
-     0.69,
-     0.322,
-     0.429
-    ],
-    [
-     0.7,
-     0.324,
-     0.44
-    ],
-    [
-     0.71,
-     0.324,
-     0.45
-    ],
-    [
-     0.72,
-     0.324,
-     0.459
-    ],
-    [
-     0.73,
-     0.316,
-     0.467
-    ],
-    [
-     0.74,
-     0.316,
-     0.475
-    ],
-    [
-     0.75,
-     0.311,
-     0.483
-    ],
-    [
-     0.76,
-     0.307,
-     0.491
-    ],
-    [
-     0.77,
-     0.307,
-     0.5
-    ],
-    [
-     0.78,
-     0.302,
-     0.508
-    ],
-    [
-     0.79,
-     0.298,
-     0.516
-    ],
-    [
-     0.8,
-     0.298,
-     0.523
-    ],
-    [
-     0.81,
-     0.298,
-     0.529
-    ],
-    [
-     0.82,
-     0.298,
-     0.534
-    ],
-    [
-     0.83,
-     0.298,
-     0.537
-    ],
-    [
-     0.84,
-     0.296,
-     0.539
-    ],
-    [
-     0.85,
-     0.289,
-     0.54
-    ],
-    [
-     0.86,
-     0.278,
-     0.541
-    ],
-    [
-     0.87,
-     0.276,
-     0.54
-    ],
-    [
-     0.88,
-     0.269,
-     0.54
-    ],
-    [
-     0.89,
-     0.269,
-     0.539
-    ],
-    [
-     0.9,
-     0.267,
-     0.538
-    ],
-    [
-     0.91,
-     0.267,
-     0.537
-    ],
-    [
-     0.92,
-     0.267,
-     0.535
-    ],
-    [
-     0.93,
-     0.267,
-     0.534
-    ],
-    [
-     0.94,
-     0.264,
-     0.533
-    ],
-    [
-     0.95,
-     0.267,
-     0.533
-    ],
-    [
-     0.96,
-     0.267,
-     0.534
-    ],
-    [
-     0.97,
-     0.262,
-     0.537
-    ],
-    [
-     0.98,
-     0.251,
-     0.542
-    ],
-    [
-     0.99,
-     0.231,
-     0.548
-    ],
-    [
-     1,
-     0.227,
-     0.554
-    ]
-   ],
    "trafficSources": {
     "SHORTS": 938,
     "YT_SEARCH": 32,
@@ -619,508 +155,6 @@
    "likes": 1,
    "comments": 0,
    "subscribersGained": 1,
-   "retention": [
-    [
-     0.01,
-     1.182,
-     0.584
-    ],
-    [
-     0.02,
-     1.273,
-     0.551
-    ],
-    [
-     0.03,
-     1.273,
-     0.519
-    ],
-    [
-     0.04,
-     1.273,
-     0.49
-    ],
-    [
-     0.05,
-     1.273,
-     0.465
-    ],
-    [
-     0.06,
-     1.182,
-     0.443
-    ],
-    [
-     0.07,
-     1.182,
-     0.423
-    ],
-    [
-     0.08,
-     1.091,
-     0.403
-    ],
-    [
-     0.09,
-     1.091,
-     0.384
-    ],
-    [
-     0.1,
-     1.091,
-     0.366
-    ],
-    [
-     0.11,
-     1.091,
-     0.35
-    ],
-    [
-     0.12,
-     1.091,
-     0.335
-    ],
-    [
-     0.13,
-     1.091,
-     0.322
-    ],
-    [
-     0.14,
-     1,
-     0.311
-    ],
-    [
-     0.15,
-     0.909,
-     0.3
-    ],
-    [
-     0.16,
-     0.909,
-     0.29
-    ],
-    [
-     0.17,
-     0.909,
-     0.278
-    ],
-    [
-     0.18,
-     0.909,
-     0.264
-    ],
-    [
-     0.19,
-     0.909,
-     0.248
-    ],
-    [
-     0.2,
-     0.909,
-     0.23
-    ],
-    [
-     0.21,
-     0.909,
-     0.211
-    ],
-    [
-     0.22,
-     0.818,
-     0.192
-    ],
-    [
-     0.23,
-     0.818,
-     0.174
-    ],
-    [
-     0.24,
-     0.818,
-     0.159
-    ],
-    [
-     0.25,
-     0.818,
-     0.146
-    ],
-    [
-     0.26,
-     0.727,
-     0.135
-    ],
-    [
-     0.27,
-     0.727,
-     0.127
-    ],
-    [
-     0.28,
-     0.636,
-     0.12
-    ],
-    [
-     0.29,
-     0.636,
-     0.114
-    ],
-    [
-     0.3,
-     0.636,
-     0.109
-    ],
-    [
-     0.31,
-     0.636,
-     0.106
-    ],
-    [
-     0.32,
-     0.636,
-     0.103
-    ],
-    [
-     0.33,
-     0.636,
-     0.102
-    ],
-    [
-     0.34,
-     0.636,
-     0.101
-    ],
-    [
-     0.35,
-     0.636,
-     0.1
-    ],
-    [
-     0.36,
-     0.636,
-     0.099
-    ],
-    [
-     0.37,
-     0.636,
-     0.099
-    ],
-    [
-     0.38,
-     0.636,
-     0.099
-    ],
-    [
-     0.39,
-     0.636,
-     0.099
-    ],
-    [
-     0.4,
-     0.636,
-     0.099
-    ],
-    [
-     0.41,
-     0.545,
-     0.098
-    ],
-    [
-     0.42,
-     0.455,
-     0.098
-    ],
-    [
-     0.43,
-     0.455,
-     0.096
-    ],
-    [
-     0.44,
-     0.455,
-     0.093
-    ],
-    [
-     0.45,
-     0.455,
-     0.089
-    ],
-    [
-     0.46,
-     0.364,
-     0.083
-    ],
-    [
-     0.47,
-     0.273,
-     0.076
-    ],
-    [
-     0.48,
-     0.273,
-     0.07
-    ],
-    [
-     0.49,
-     0.273,
-     0.065
-    ],
-    [
-     0.5,
-     0.273,
-     0.062
-    ],
-    [
-     0.51,
-     0.273,
-     0.061
-    ],
-    [
-     0.52,
-     0.273,
-     0.061
-    ],
-    [
-     0.53,
-     0.273,
-     0.061
-    ],
-    [
-     0.54,
-     0.273,
-     0.061
-    ],
-    [
-     0.55,
-     0.273,
-     0.061
-    ],
-    [
-     0.56,
-     0.273,
-     0.061
-    ],
-    [
-     0.57,
-     0.273,
-     0.061
-    ],
-    [
-     0.58,
-     0.273,
-     0.061
-    ],
-    [
-     0.59,
-     0.273,
-     0.062
-    ],
-    [
-     0.6,
-     0.273,
-     0.062
-    ],
-    [
-     0.61,
-     0.182,
-     0.062
-    ],
-    [
-     0.62,
-     0.182,
-     0.062
-    ],
-    [
-     0.63,
-     0.182,
-     0.063
-    ],
-    [
-     0.64,
-     0.182,
-     0.064
-    ],
-    [
-     0.65,
-     0.182,
-     0.066
-    ],
-    [
-     0.66,
-     0.182,
-     0.069
-    ],
-    [
-     0.67,
-     0.182,
-     0.075
-    ],
-    [
-     0.68,
-     0.182,
-     0.083
-    ],
-    [
-     0.69,
-     0.182,
-     0.094
-    ],
-    [
-     0.7,
-     0.182,
-     0.109
-    ],
-    [
-     0.71,
-     0.182,
-     0.129
-    ],
-    [
-     0.72,
-     0.182,
-     0.152
-    ],
-    [
-     0.73,
-     0.182,
-     0.18
-    ],
-    [
-     0.74,
-     0.182,
-     0.21
-    ],
-    [
-     0.75,
-     0.182,
-     0.242
-    ],
-    [
-     0.76,
-     0.182,
-     0.274
-    ],
-    [
-     0.77,
-     0.182,
-     0.305
-    ],
-    [
-     0.78,
-     0.182,
-     0.334
-    ],
-    [
-     0.79,
-     0.182,
-     0.361
-    ],
-    [
-     0.8,
-     0.182,
-     0.385
-    ],
-    [
-     0.81,
-     0.182,
-     0.407
-    ],
-    [
-     0.82,
-     0.182,
-     0.426
-    ],
-    [
-     0.83,
-     0.182,
-     0.443
-    ],
-    [
-     0.84,
-     0.182,
-     0.458
-    ],
-    [
-     0.85,
-     0.182,
-     0.47
-    ],
-    [
-     0.86,
-     0.182,
-     0.481
-    ],
-    [
-     0.87,
-     0.182,
-     0.49
-    ],
-    [
-     0.88,
-     0.182,
-     0.497
-    ],
-    [
-     0.89,
-     0.182,
-     0.502
-    ],
-    [
-     0.9,
-     0.182,
-     0.506
-    ],
-    [
-     0.91,
-     0.182,
-     0.509
-    ],
-    [
-     0.92,
-     0.182,
-     0.511
-    ],
-    [
-     0.93,
-     0.182,
-     0.512
-    ],
-    [
-     0.94,
-     0.182,
-     0.513
-    ],
-    [
-     0.95,
-     0.182,
-     0.513
-    ],
-    [
-     0.96,
-     0.182,
-     0.513
-    ],
-    [
-     0.97,
-     0.182,
-     0.513
-    ],
-    [
-     0.98,
-     0.182,
-     0.513
-    ],
-    [
-     0.99,
-     0.182,
-     0.513
-    ],
-    [
-     1,
-     0.182,
-     0.513
-    ]
-   ],
    "trafficSources": {
     "YT_SEARCH": 18,
     "SHORTS": 5,
@@ -1128,7 +162,7 @@
    },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 44,
-   "publicViews": "1266",
+   "publicViews": "1274",
    "engagedShare": 0.478
   },
   {
@@ -1165,14 +199,6 @@
    "likes": 3,
    "comments": 1,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 171,
-    "YT_SEARCH": 4,
-    "YT_CHANNEL": 1,
-    "YT_OTHER_PAGE": 1,
-    "NO_LINK_OTHER": 0
-   },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 63,
    "publicViews": "301",
    "engagedShare": 0.723
@@ -1188,15 +214,6 @@
    "likes": 6,
    "comments": 0,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 1035,
-    "YT_SEARCH": 41,
-    "YT_OTHER_PAGE": 6,
-    "YT_CHANNEL": 4,
-    "EXT_URL": 1,
-    "NO_LINK_OTHER": 0
-   },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 78,
    "publicViews": "1104",
    "engagedShare": 0.466
@@ -1212,15 +229,6 @@
    "likes": 14,
    "comments": 1,
    "subscribersGained": 1,
-   "trafficSources": {
-    "SHORTS": 1184,
-    "YT_SEARCH": 52,
-    "YT_OTHER_PAGE": 16,
-    "YT_CHANNEL": 5,
-    "EXT_URL": 1,
-    "NO_LINK_OTHER": 0
-   },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 105,
    "publicViews": "1276",
    "engagedShare": 0.54
@@ -1236,14 +244,6 @@
    "likes": 0,
    "comments": 0,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 38,
-    "YT_SEARCH": 6,
-    "YT_CHANNEL": 4,
-    "YT_OTHER_PAGE": 4,
-    "NO_LINK_OTHER": 0
-   },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
    "durationSec": 42,
    "publicViews": "54",
    "engagedShare": 0.558
