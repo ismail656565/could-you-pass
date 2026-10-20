@@ -409,9 +409,24 @@ def add_to_playlist(y, vid, name):
             time.sleep(5 * (attempt + 1))
 
 
+def already_uploaded(y, title):
+    """Schutz gegen Doppel-Uploads: gleicher Titel unter den letzten 15 Kanal-Uploads (inkl. geplante/private)?"""
+    ch = y.channels().list(part='contentDetails', mine=True).execute()['items'][0]
+    up = ch['contentDetails']['relatedPlaylists']['uploads']
+    r = y.playlistItems().list(part='snippet', playlistId=up, maxResults=15).execute()
+    for it in r.get('items', []):
+        if it['snippet']['title'].strip() == title.strip()[:100]:
+            return it['snippet']['resourceId']['videoId']
+    return None
+
+
 def upload(item, mp4):
     from googleapiclient.http import MediaFileUpload
     meta = item['youtube']
+    dup = already_uploaded(yt(), meta['title'])
+    if dup:
+        log(f'Schon hochgeladen ({dup}) – kein zweiter Upload')
+        return dup
     privacy = env().get('PRIVACY') or os.environ.get('PRIVACY', 'public')
     body = {
         'snippet': {'title': meta['title'][:100], 'description': with_chapters(item, meta.get('description', '')), 'tags': meta.get('tags', []),
@@ -660,6 +675,16 @@ def main():
         produce()
     elif cmd == 'comments':
         post_pending_comments()
+    elif cmd == 'private':
+        # Videos auf privat stellen (z. B. versehentliche Doppel-Uploads): python autopilot.py private ID1 ID2
+        y = yt()
+        for vid in sys.argv[2:]:
+            v = y.videos().list(part='status', id=vid).execute()['items'][0]
+            st = v['status']
+            st['privacyStatus'] = 'private'
+            st.pop('publishAt', None)
+            y.videos().update(part='status', body={'id': vid, 'status': st}).execute()
+            log(f'{vid} auf privat gestellt')
     elif cmd == 'playlists':
         # bisherige Videos nachträglich in Playlists einsortieren
         y = yt()

@@ -13,9 +13,13 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'all | dryrun | comments | playlists | analytics'
+        description: 'all | dryrun | comments | playlists | analytics | private'
         required: false
         default: 'all'
+      args:
+        description: 'zusätzliche Angaben, z. B. Video-IDs für mode=private'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -32,6 +36,11 @@ jobs:
       MODE: ${{ github.event.inputs.mode || ((github.event.schedule == '15 7 * * *' || github.event.schedule == '0 11 * * *') && 'all' || 'comments') }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Neuesten Stand holen (wichtig, wenn dieser Lauf gewartet hat)
+        run: git pull --ff-only origin main
 
       - uses: actions/setup-node@v4
         if: env.MODE != 'comments'
@@ -84,7 +93,7 @@ jobs:
           GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
           PRIVACY: ${{ vars.PRIVACY || 'public' }}
           RENDER_CONCURRENCY: '100%'
-        run: python autopilot/autopilot.py $MODE
+        run: python autopilot/autopilot.py $MODE ${{ github.event.inputs.args }}
 
       - name: Fertiges Video zum Ansehen speichern
         if: always()
