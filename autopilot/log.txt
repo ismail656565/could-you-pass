@@ -84,3 +84,23 @@
 [2026-10-19 18:58:09] Vorschaubild gesetzt
 [2026-10-19 18:58:09] Kommentar gepostet
 [2026-10-19 18:58:10] Short-Beschreibung verlinkt auf langes Video Feubf7dVX7Y
+[2026-10-20 07:38:51] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-20 07:38:51] Analytics gespeichert (15 Videos)
+[2026-10-20 07:39:14] Produziere halloween-trap-3-0 (short)
+[2026-10-20 07:39:14] Stimme: Kokoro af_heart
+[2026-10-20 07:39:28] Ton fertig: 22.9 s
+[2026-10-20 07:41:54] Gerendert
+[2026-10-20 07:41:57] Hochgeladen: https://youtube.com/watch?v=yOvhr5AtBmg (private)
+[2026-10-20 07:41:58] Playlist angelegt: Quiz Shorts – New Quiz Every Day 🧠
+[2026-10-20 07:41:58] Playlist nicht möglich: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 're
+[2026-10-20 07:41:58] Geplant für 20.10. 10:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-20 07:41:58] Produziere memory-check-35-1 (long)
+[2026-10-20 07:41:58] Stimme: Kokoro af_heart
+[2026-10-20 07:44:19] Ton fertig: 366.0 s
+[2026-10-20 08:22:16] Gerendert
+[2026-10-20 08:22:33] Hochgeladen: https://youtube.com/watch?v=APKGqW8fBSI (private)
+[2026-10-20 08:22:35] Vorschaubild gesetzt
+[2026-10-20 08:22:37] Playlist angelegt: General Knowledge & Memory Quizzes 🧠
+[2026-10-20 08:22:37] Playlist nicht möglich: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 're
+[2026-10-20 08:22:37] Geplant für 20.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-20 08:22:38] Short-Beschreibung verlinkt auf langes Video APKGqW8fBSI

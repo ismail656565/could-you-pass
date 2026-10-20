@@ -1,0 +1,594 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "neon",
+ "title": "Memory Test",
+ "header": "MEMORY TEST",
+ "hook": "CAN YOU GET 25/35? 🧠",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 17,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "MEMORY **TEST**",
+  "CAN YOU GET **25/35**?",
+  "ONLY 1 IN 10 GET **#35**"
+ ],
+ "thumbEmoji": "🧠",
+ "thumbBadge": "35 QUESTIONS 🧠 EASY → LEGEND",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "How many days are in a **leap year**?",
+   "answers": [
+    "364",
+    "365",
+    "366",
+    "367"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "📅  🗓️",
+   "start": 0.0,
+   "countdownStart": 6.488,
+   "reveal": 11.488,
+   "end": 14.46
+  },
+  {
+   "q": "What is the **largest** ocean on Earth?",
+   "answers": [
+    "Pacific",
+    "Atlantic",
+    "Indian",
+    "Arctic"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🌊  🌍",
+   "start": 14.46,
+   "countdownStart": 16.366,
+   "reveal": 21.366,
+   "end": 23.516
+  },
+  {
+   "q": "Who painted the **Mona Lisa**?",
+   "answers": [
+    "Michelangelo",
+    "Leonardo da Vinci",
+    "Raphael",
+    "Rembrandt"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🖼️  🎨",
+   "start": 23.516,
+   "countdownStart": 25.103,
+   "reveal": 30.103,
+   "end": 32.644
+  },
+  {
+   "q": "How many **continents** are there?",
+   "answers": [
+    "Five",
+    "Six",
+    "Eight",
+    "Seven"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🌍  🗺️",
+   "start": 32.644,
+   "countdownStart": 34.18,
+   "reveal": 39.18,
+   "end": 41.104
+  },
+  {
+   "q": "Water freezes at how many degrees **Fahrenheit**?",
+   "answers": [
+    "Zero",
+    "32",
+    "100",
+    "212"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🧊  🌡️",
+   "start": 41.104,
+   "countdownStart": 43.787,
+   "reveal": 48.787,
+   "end": 51.243
+  },
+  {
+   "q": "Which band sang **Hey Jude**?",
+   "answers": [
+    "The Rolling Stones",
+    "The Beach Boys",
+    "The Beatles",
+    "The Who"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🎸  🎶",
+   "start": 51.243,
+   "countdownStart": 52.826,
+   "reveal": 57.826,
+   "end": 61.096
+  },
+  {
+   "q": "Which planet is called the **Red Planet**?",
+   "answers": [
+    "Jupiter",
+    "Mars",
+    "Mercury",
+    "Saturn"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🔴  🪐",
+   "start": 61.096,
+   "countdownStart": 63.16,
+   "reveal": 68.16,
+   "end": 70.12
+  },
+  {
+   "q": "In which city is the **Statue of Liberty**?",
+   "answers": [
+    "New York",
+    "Washington",
+    "Boston",
+    "Chicago"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🗽  🌆",
+   "start": 70.12,
+   "countdownStart": 72.168,
+   "reveal": 77.168,
+   "end": 79.222
+  },
+  {
+   "q": "Who first walked on the **Moon**?",
+   "answers": [
+    "Buzz Aldrin",
+    "Yuri Gagarin",
+    "John Glenn",
+    "Neil Armstrong"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🌕  👨‍🚀",
+   "start": 79.222,
+   "countdownStart": 81.366,
+   "reveal": 86.366,
+   "end": 90.119
+  },
+  {
+   "q": "In which year did the **Titanic** sink?",
+   "answers": [
+    "1905",
+    "1912",
+    "1918",
+    "1921"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🚢  🧊",
+   "start": 90.119,
+   "countdownStart": 92.104,
+   "reveal": 97.104,
+   "end": 99.476
+  },
+  {
+   "q": "What is the **hardest** natural substance?",
+   "answers": [
+    "Gold",
+    "Iron",
+    "Granite",
+    "Diamond"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "💎  🔨",
+   "start": 99.476,
+   "countdownStart": 101.616,
+   "reveal": 106.616,
+   "end": 108.658
+  },
+  {
+   "q": "Who was the **King of Rock and Roll**?",
+   "answers": [
+    "Elvis Presley",
+    "Chuck Berry",
+    "Johnny Cash",
+    "Buddy Holly"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🎤  👑",
+   "start": 108.658,
+   "countdownStart": 111.014,
+   "reveal": 116.014,
+   "end": 118.275
+  },
+  {
+   "q": "What is the **longest** river in Africa?",
+   "answers": [
+    "Congo",
+    "Niger",
+    "Nile",
+    "Zambezi"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🏞️  🐊",
+   "start": 118.275,
+   "countdownStart": 120.294,
+   "reveal": 125.294,
+   "end": 127.251
+  },
+  {
+   "q": "Who wrote **Romeo and Juliet**?",
+   "answers": [
+    "Charles Dickens",
+    "William Shakespeare",
+    "Jane Austen",
+    "Geoffrey Chaucer"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🖋️  💕",
+   "start": 127.251,
+   "countdownStart": 128.948,
+   "reveal": 133.948,
+   "end": 136.375
+  },
+  {
+   "q": "Which 1939 film features **Dorothy** and Toto?",
+   "answers": [
+    "Gone with the Wind",
+    "Snow White",
+    "The Wizard of Oz",
+    "Peter Pan"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🌪️  🐕",
+   "start": 136.375,
+   "countdownStart": 140.464,
+   "reveal": 145.464,
+   "end": 147.903
+  },
+  {
+   "q": "How many players per team are on a **football** pitch?",
+   "answers": [
+    "Nine",
+    "Ten",
+    "Eleven",
+    "Twelve"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "⚽  👥",
+   "start": 147.903,
+   "countdownStart": 150.331,
+   "reveal": 155.331,
+   "end": 157.28
+  },
+  {
+   "q": "Which gas do plants **absorb** from the air?",
+   "answers": [
+    "Carbon dioxide",
+    "Oxygen",
+    "Nitrogen",
+    "Helium"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🌱  💨",
+   "start": 157.28,
+   "countdownStart": 159.534,
+   "reveal": 164.534,
+   "end": 167.081
+  },
+  {
+   "q": "Which instrument has **88 keys**?",
+   "answers": [
+    "Organ",
+    "Accordion",
+    "Harpsichord",
+    "Piano"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🎹  🎵",
+   "start": 167.081,
+   "countdownStart": 169.105,
+   "reveal": 174.105,
+   "end": 179.207
+  },
+  {
+   "q": "Who led Britain for most of **World War II**?",
+   "answers": [
+    "Neville Chamberlain",
+    "Winston Churchill",
+    "Clement Attlee",
+    "Anthony Eden"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🎩  🕊️",
+   "start": 179.207,
+   "countdownStart": 182.407,
+   "reveal": 187.407,
+   "end": 189.899
+  },
+  {
+   "q": "In which year did **World War I** begin?",
+   "answers": [
+    "1914",
+    "1912",
+    "1916",
+    "1918"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "⚔️  📜",
+   "start": 189.899,
+   "countdownStart": 192.159,
+   "reveal": 197.159,
+   "end": 199.653
+  },
+  {
+   "q": "What is the **smallest** country in the world?",
+   "answers": [
+    "Monaco",
+    "San Marino",
+    "Liechtenstein",
+    "Vatican City"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🏛️  🔍",
+   "start": 199.653,
+   "countdownStart": 201.717,
+   "reveal": 206.717,
+   "end": 209.047
+  },
+  {
+   "q": "Which metal gets its symbol from **ferrum**?",
+   "answers": [
+    "Copper",
+    "Iron",
+    "Lead",
+    "Silver"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "⚗️  🔩",
+   "start": 209.047,
+   "countdownStart": 212.648,
+   "reveal": 217.648,
+   "end": 219.592
+  },
+  {
+   "q": "Who sang **Respect** in 1967?",
+   "answers": [
+    "Diana Ross",
+    "Tina Turner",
+    "Aretha Franklin",
+    "Dusty Springfield"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🎙️  👑",
+   "start": 219.592,
+   "countdownStart": 222.538,
+   "reveal": 227.538,
+   "end": 230.903
+  },
+  {
+   "q": "Who was US president during the **Moon landing**?",
+   "answers": [
+    "John F. Kennedy",
+    "Lyndon Johnson",
+    "Richard Nixon",
+    "Gerald Ford"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🚀  🏛️",
+   "start": 230.903,
+   "countdownStart": 233.742,
+   "reveal": 238.742,
+   "end": 241.905
+  },
+  {
+   "q": "What is the largest **hot** desert?",
+   "answers": [
+    "Sahara",
+    "Gobi",
+    "Kalahari",
+    "Arabian"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🏜️  ☀️",
+   "start": 241.905,
+   "countdownStart": 244.134,
+   "reveal": 249.134,
+   "end": 251.213
+  },
+  {
+   "q": "Who discovered **penicillin** in 1928?",
+   "answers": [
+    "Louis Pasteur",
+    "Alexander Fleming",
+    "Marie Curie",
+    "Joseph Lister"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🧫  💊",
+   "start": 251.213,
+   "countdownStart": 253.823,
+   "reveal": 258.823,
+   "end": 261.311
+  },
+  {
+   "q": "Which painter cut off part of his **ear**?",
+   "answers": [
+    "Picasso",
+    "Monet",
+    "Dalí",
+    "Van Gogh"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "👂  🌻",
+   "start": 261.311,
+   "countdownStart": 263.508,
+   "reveal": 268.508,
+   "end": 270.984
+  },
+  {
+   "q": "In which year did **Elvis** die?",
+   "answers": [
+    "1977",
+    "1975",
+    "1980",
+    "1969"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🎸  🕯️",
+   "start": 270.984,
+   "countdownStart": 273.031,
+   "reveal": 278.031,
+   "end": 280.81
+  },
+  {
+   "q": "Who was the first woman to win a **Nobel Prize**?",
+   "answers": [
+    "Florence Nightingale",
+    "Marie Curie",
+    "Mother Teresa",
+    "Rosalind Franklin"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🏅  🔬",
+   "start": 280.81,
+   "countdownStart": 283.339,
+   "reveal": 288.339,
+   "end": 291.756
+  },
+  {
+   "q": "What is the **longest** bone in your body?",
+   "answers": [
+    "Spine",
+    "Tibia",
+    "Femur",
+    "Humerus"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🦴  📏",
+   "start": 291.756,
+   "countdownStart": 294.096,
+   "reveal": 299.096,
+   "end": 301.97
+  },
+  {
+   "q": "Which country has the **most people** today?",
+   "answers": [
+    "China",
+    "USA",
+    "Indonesia",
+    "India"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "👨‍👩‍👧  🌏",
+   "start": 301.97,
+   "countdownStart": 304.21,
+   "reveal": 309.21,
+   "end": 313.019
+  },
+  {
+   "q": "Who composed the **Moonlight Sonata**?",
+   "answers": [
+    "Mozart",
+    "Beethoven",
+    "Bach",
+    "Chopin"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🌙  🎹",
+   "start": 313.019,
+   "countdownStart": 314.826,
+   "reveal": 319.826,
+   "end": 321.963
+  },
+  {
+   "q": "Which film won the very first **Best Picture** Oscar?",
+   "answers": [
+    "Wings",
+    "Casablanca",
+    "Ben-Hur",
+    "Metropolis"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🏆  🎬",
+   "start": 321.963,
+   "countdownStart": 324.644,
+   "reveal": 329.644,
+   "end": 333.004
+  },
+  {
+   "q": "In which year was **John F. Kennedy** shot?",
+   "answers": [
+    "1961",
+    "1965",
+    "1963",
+    "1968"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "📰  🕰️",
+   "start": 333.004,
+   "countdownStart": 335.85,
+   "reveal": 340.85,
+   "end": 343.468
+  },
+  {
+   "q": "Which mountain is tallest from **base to peak**?",
+   "answers": [
+    "Mount Everest",
+    "K2",
+    "Kilimanjaro",
+    "Mauna Kea"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "⛰️  🌋",
+   "start": 343.468,
+   "countdownStart": 347.338,
+   "reveal": 352.338,
+   "end": 355.917
+  }
+ ],
+ "audio": "audio/memory-check-35-1.mp3",
+ "outroStart": 355.917,
+ "durationInSeconds": 366.018
+}
