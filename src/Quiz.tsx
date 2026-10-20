@@ -692,7 +692,7 @@ export const Quiz: React.FC<QuizStory> = (story) => {
           <Outro story={story} />
         </Sequence>
       ) : null}
-      {story.layout === 'neon' ? <QuizMascot story={story} x={58} y={812} width={165} look={1} /> : null}
+      {story.layout === 'neon' ? <QuizMascot story={story} x={44} y={748} width={228} look={1} /> : null}
       {story.audio ? <Audio src={staticFile(story.audio)} /> : null}
       {story.music ? <Audio src={staticFile(story.music)} volume={story.musicVolume ?? 0.1} loop /> : null}
       <Sfx questions={story.questions} outroStart={hasOutro ? story.outroStart : -1} />

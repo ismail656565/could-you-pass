@@ -447,7 +447,7 @@ export const QuizLong: React.FC<QuizStory> = (story) => {
           <LongOutro story={story} />
         </Sequence>
       ) : null}
-      <QuizMascot story={story} x={1640} y={128} width={190} look={-1} />
+      <QuizMascot story={story} x={1606} y={80} width={236} look={-1} />
       {story.audio ? <Audio src={staticFile(story.audio)} /> : null}
       {story.music ? <Audio src={staticFile(story.music)} volume={story.musicVolume ?? 0.1} loop /> : null}
       {story.questions.map((q, i) => (
