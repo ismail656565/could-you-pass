@@ -219,6 +219,19 @@ def decode(mp3_bytes, tmp, tempo=None):
 
 
 _KOKORO = None
+# Kanalstimme: Mischung zweier britischer Kokoro-Stimmen (klingt nicht wie die Standard-KI-Stimme af_heart)
+DEFAULT_VOICE = 'bf_emma:70+bf_isabella:30'
+
+
+def kokoro_voice(voice):
+    """'bf_emma' oder Mischung 'bf_emma:70+bf_isabella:30' (eigene Stimme, die es so nirgends gibt)"""
+    if '+' not in voice and ':' not in voice:
+        return voice
+    import numpy as np
+    vs = np.load(str(ROOT / 'models' / 'voices-v1.0.bin'))
+    parts = [(p.split(':')[0].strip(), float(p.split(':')[1]) if ':' in p else 1.0) for p in voice.split('+')]
+    tot = sum(w for _, w in parts)
+    return sum(vs[n].astype('float32') * (w / tot) for n, w in parts)
 
 
 def kokoro_wav(text, voice, speed=1.0):
@@ -230,7 +243,7 @@ def kokoro_wav(text, voice, speed=1.0):
         from kokoro_onnx import Kokoro
         m = ROOT / 'models'
         _KOKORO = Kokoro(str(m / 'kokoro-v1.0.onnx'), str(m / 'voices-v1.0.bin'))
-    samples, sr = _KOKORO.create(text, voice=voice, speed=speed, lang='en-gb' if voice.startswith('b') else 'en-us')
+    samples, sr = _KOKORO.create(text, voice=kokoro_voice(voice), speed=speed, lang='en-gb' if voice.startswith('b') else 'en-us')
     buf = io.BytesIO()
     sf.write(buf, samples, sr, format='WAV')
     return buf.getvalue()
@@ -241,9 +254,10 @@ def make_speaker(item):
     e = env()
     engine = item.get('tts') or e.get('TTS') or os.environ.get('TTS') or 'kokoro'
     if engine == 'kokoro':
-        voice = item.get('voice') or e.get('KOKORO_VOICE') or os.environ.get('KOKORO_VOICE') or 'af_heart'
+        voice = item.get('voice') or e.get('KOKORO_VOICE') or os.environ.get('KOKORO_VOICE') or DEFAULT_VOICE
         log(f'Stimme: Kokoro {voice}')
-        return lambda text: kokoro_wav(text, voice)
+        speed = float(item.get('voiceSpeed') or e.get('KOKORO_SPEED') or os.environ.get('KOKORO_SPEED') or 1.0)
+        return lambda text: kokoro_wav(text, voice, speed)
     key = e.get('ELEVENLABS_API_KEY') or os.environ.get('ELEVENLABS_API_KEY')
     if not key:
         raise RuntimeError('ELEVENLABS_API_KEY fehlt')
