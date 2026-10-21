@@ -1,0 +1,87 @@
+{
+ "id": "halloween-trap-3-2",
+ "lines": [
+  {
+   "q": "Egyptian embalmers pulled the brain out through the what?",
+   "a": "The nose! With a long hook. Yes, really."
+  },
+  {
+   "q": "The were in werewolf means what?",
+   "a": "Man! A werewolf is literally a man wolf."
+  },
+  {
+   "q": "Last one. A black cat crossing your path is lucky in which country?",
+   "a": "Britain! Not unlucky there at all."
+  }
+ ],
+ "youtube": {
+  "title": "3 Halloween Questions 90% Get Wrong 🎃 #shorts",
+  "description": "3 spooky trivia questions that fool almost everyone 🎃 Did you know #1?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#halloween #halloweenquiz #quiz #trivia #spooky #shorts\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nMusic: original.",
+  "tags": [
+   "halloween quiz",
+   "halloween trivia",
+   "spooky trivia",
+   "quiz",
+   "trivia",
+   "mummy facts",
+   "werewolf",
+   "shorts"
+  ],
+  "comment": "Did the mummy one get you? 😅 Comment your score /3 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Halloween Trivia",
+  "header": "HALLOWEEN TRIVIA",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #3 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Egyptian embalmers pulled the **brain** out through the…?",
+    "answers": [
+     "Ears",
+     "Nose",
+     "Mouth",
+     "Eyes"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "image": "bilder/q2-pyramid.jpg"
+   },
+   {
+    "q": "The \"were\" in **werewolf** means…?",
+    "answers": [
+     "Wild",
+     "War",
+     "Night",
+     "Man"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🐺  🌕"
+   },
+   {
+    "q": "A black cat crossing your path is **lucky** in…?",
+    "answers": [
+     "Britain",
+     "Italy",
+     "USA",
+     "Spain"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🐈‍⬛  🍀"
+   }
+  ]
+ }
+}

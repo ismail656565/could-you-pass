@@ -55,3 +55,15 @@
 - Titeltyp-Test: 19.10. Challenge ("Can You Get 30 out of 35?"), 20.10. Alter ("Are You Over 60?"), 21.10. "If You Get 25 Right…" → nach je ≥3 Tagen Views/CTR vergleichen.
 ### Thumbnails
 - Noch keine thumbTest-Ergebnisse (CL A seit 18.10., PL A seit 19.10., Halloween-35 A seit 19.10.). Erste Umschaltung auf B ~22.10.
+
+## 2026-10-21 (Morgenlauf, Queue für 22.10.)
+### Shorts
+- Report (Stand 20.10. 11:27) public Views: "3 Halloween Questions" (3 Q, 19.10. abends) 373 nach ~1,5 Tagen, "3 Spooky Questions" (20.10.) 122 nach ~1 h. 6-Fragen-Shorts liegen weiter bei 1,15–1,32k (Geo-Trap 1322, Trivia-Trap 1242, Which-First 1220, Genius 1165). Längen-Test noch nicht bewertbar (Analytics-Lag 2–3 Tage) → Verdict ~25.10.
+- Engaged-Share der 6–10-Fragen-Shorts weiter 45–54 % (Geo-Trap 45,2 %, Ø 48,9 %) – Ausnahme IQ #2 mit 72 % engaged, aber nur 301 Views → hoher engaged allein reicht nicht, Ø angesehen muss auch hoch sein.
+- 22.10.: 3-Fragen-Short wieder mit echtem Foto bei Q1 (Pyramide) – die zwei bisherigen 3-Fragen-Shorts hatten nur cardText.
+### Lange Videos
+- Neues Senioren-Format: Halloween-35 (19.10.) 18 public Views, Memory-Check-35 (20.10.) noch 0 zum Report-Zeitpunkt (erst 14:00 öffentlich). PL/CL-Fußball 4–5 Views → bestätigt Abkehr von 3-min-Fußball.
+- 35 Fragen ergaben nur ~6,6 min → ab 22.10. 40 Fragen. Titeltyp-Test komplett: Challenge (19.10.), Alter (20.10.), If-you-get-X (21.10.), IQ (22.10.) → ab ~25.10. Views/CTR/Impressions vergleichen.
+### Thumbnails
+- Noch keine thumbTest-Ergebnisse (alle Tests stehen auf Variante A; CL seit 18.10., erste Umschaltung ~22.10.). Emoji-Video hat altes Order-Schema ['O','A','B','C'].
+- Report hat 2 Duplikat-Einträge (Memory-Check, Spooky – Doppel-Uploads vom 20.10., auf privat gestellt) → bei Auswertung nur die öffentliche ID zählen.
