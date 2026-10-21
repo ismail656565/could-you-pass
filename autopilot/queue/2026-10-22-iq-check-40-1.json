@@ -8,7 +8,7 @@
  "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
  "lines": [
   {
-   "q": "Forty questions. If you get thirty right, your IQ is above average. How many sides does a hexagon have?",
+   "q": "Welcome back, quiz friends! Forty questions today. If you get thirty right, your IQ is above average. Let's go! How many sides does a hexagon have?",
    "a": "Six! Just like a honeycomb cell."
   },
   {
@@ -21,7 +21,7 @@
   },
   {
    "q": "What is the closest star to Earth?",
-   "a": "The Sun! It's a star too."
+   "a": "The Sun! It's a star too. Sneaky one, I know."
   },
   {
    "q": "Who wrote Oliver Twist?",
@@ -45,7 +45,7 @@
   },
   {
    "q": "How many strings does a violin have?",
-   "a": "Four!"
+   "a": "Four! Okay, warm-up done. Now it gets harder."
   },
   {
    "q": "Which actress starred in Breakfast at Tiffany's in nineteen sixty-one?",
@@ -61,7 +61,7 @@
   },
   {
    "q": "Which language has the most native speakers?",
-   "a": "Mandarin Chinese! English wins only with learners."
+   "a": "Mandarin Chinese! English only wins if you count learners. Did you get it?"
   },
   {
    "q": "What is the chemical symbol for gold?",
@@ -93,7 +93,7 @@
   },
   {
    "q": "What is the smallest planet in our solar system?",
-   "a": "Mercury! Pluto isn't a planet anymore."
+   "a": "Mercury! Pluto isn't a planet anymore. Sorry, Pluto."
   },
   {
    "q": "Who wrote Pride and Prejudice?",
@@ -105,7 +105,7 @@
   },
   {
    "q": "What is the capital of New Zealand?",
-   "a": "Wellington! Not Auckland."
+   "a": "Wellington! Not Auckland. That one catches so many people."
   },
   {
    "q": "Which element has the chemical symbol K?",
@@ -125,7 +125,7 @@
   },
   {
    "q": "Which river flows through Baghdad?",
-   "a": "The Tigris! Not the Euphrates."
+   "a": "The Tigris! Not the Euphrates. Now, welcome to the legend round. Good luck!"
   },
   {
    "q": "Which planet has the most known moons?",
@@ -133,7 +133,7 @@
   },
   {
    "q": "What is the national animal of Scotland?",
-   "a": "The unicorn! Yes, really."
+   "a": "The unicorn! Yes, really. I love that one."
   },
   {
    "q": "Who was the first to reach the South Pole, in nineteen eleven?",
@@ -153,7 +153,7 @@
   },
   {
    "q": "Which is the only American state with a one-syllable name?",
-   "a": "Maine!"
+   "a": "Maine! Just one syllable. Three left, stay with me!"
   },
   {
    "q": "What was Marilyn Monroe's birth name?",
@@ -209,8 +209,8 @@
   "thumbEmoji": "🧠",
   "thumbBadge": "40 QUESTIONS 🧠 EASY → LEGEND",
   "cardColors": [
-   "#1E3A8A",
-   "#0B0B2E"
+   "#0F766E",
+   "#042F2E"
   ],
   "questions": [
    {
