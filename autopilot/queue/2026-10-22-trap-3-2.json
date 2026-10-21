@@ -1,0 +1,86 @@
+{
+ "id": "trap-3-2",
+ "lines": [
+  {
+   "q": "The Great Pyramid was originally what colour?",
+   "a": "White! It was covered in polished white limestone."
+  },
+  {
+   "q": "Which planet has the shortest day?",
+   "a": "Jupiter! Under ten hours. Not Mercury."
+  },
+  {
+   "q": "Last one. Botanically, bananas are what?",
+   "a": "Berries! But strawberries are not."
+  }
+ ],
+ "youtube": {
+  "title": "3 Questions 90% Get Wrong 🤯 #shorts",
+  "description": "3 trivia questions that fool almost everyone 🤯 Did you know #1?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #triviaquiz #generalknowledge #funfacts #shorts\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nMusic: original.",
+  "tags": [
+   "trivia quiz",
+   "quiz",
+   "trivia",
+   "general knowledge quiz",
+   "fun facts",
+   "hard trivia",
+   "shorts"
+  ],
+  "comment": "Did the pyramid one get you? 😅 Comment your score /3 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Trivia",
+  "header": "TRIVIA",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #3 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "The Great **Pyramid** was originally what colour?",
+    "answers": [
+     "Gold",
+     "White",
+     "Red",
+     "Black"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "image": "bilder/q2-pyramid.jpg"
+   },
+   {
+    "q": "Which planet has the **shortest day**?",
+    "answers": [
+     "Mercury",
+     "Earth",
+     "Mars",
+     "Jupiter"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🪐  ⏱️"
+   },
+   {
+    "q": "Botanically, **bananas** are…?",
+    "answers": [
+     "Berries",
+     "Vegetables",
+     "Nuts",
+     "Herbs"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🍌  🔬"
+   }
+  ]
+ }
+}

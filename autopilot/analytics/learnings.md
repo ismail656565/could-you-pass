@@ -67,3 +67,8 @@
 ### Thumbnails
 - Noch keine thumbTest-Ergebnisse (alle Tests stehen auf Variante A; CL seit 18.10., erste Umschaltung ~22.10.). Emoji-Video hat altes Order-Schema ['O','A','B','C'].
 - Report hat 2 Duplikat-Einträge (Memory-Check, Spooky – Doppel-Uploads vom 20.10., auf privat gestellt) → bei Auswertung nur die öffentliche ID zählen.
+
+## 2026-10-21 – STRATEGIE (Entscheidung Besitzer): HALLOWEEN BEENDET
+- Besitzer: "Halloween reicht, das zündet nicht." → Ab sofort KEINE Halloween-/Spooky-Themen mehr, weder Shorts noch lange Videos (ersetzt die Regel "bis 31.10. Halloween"). Bereits hochgeladene Halloween-Videos bleiben online und werden normal ausgewertet.
+- Shorts: Längen-Test (3/4 Fragen) läuft weiter mit allgemeiner Trap-Trivia (Leader-Format "N Questions 90% Get Wrong", neon + echtes Foto bei Q1). Nach Verdict Format-Rotation wie geplant.
+- Lange Videos: nur noch Allgemeinwissen/Memory-/IQ-Check für 55+ (40 Fragen); ~1×/Woche ein Themen-Quiz (Fußball, Bibel, Jahrzehnte "Only Kids of the 70s Know These").
