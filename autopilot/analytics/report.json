@@ -1,8 +1,18 @@
 {
- "fetched": "2026-10-21T07:52",
+ "fetched": "2026-10-21T11:28",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "videos": [
+  {
+   "id": "fkrNaaz-gZE",
+   "title": "4 Halloween Questions 90% Get Wrong 🎃 #shorts",
+   "published": "2026-10-21T08:00:04Z",
+   "retention": [],
+   "trafficSources": {},
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
+   "durationSec": 35,
+   "publicViews": "113"
+  },
   {
    "id": "73pAHN8YcDs",
    "title": "Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions",
@@ -11,16 +21,6 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 384,
-   "publicViews": "0"
-  },
-  {
-   "id": "fkrNaaz-gZE",
-   "title": "4 Halloween Questions 90% Get Wrong 🎃 #shorts",
-   "published": "2026-10-21T05:19:58Z",
-   "retention": [],
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
-   "durationSec": 35,
    "publicViews": "0"
   },
   {
@@ -38,7 +38,7 @@
    "title": "Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz",
    "published": "2026-10-20T12:00:02Z",
    "retention": [],
-   "trafficError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&metric",
+   "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 367,
    "publicViews": "0"
@@ -61,7 +61,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 24,
-   "publicViews": "191"
+   "publicViews": "192"
   },
   {
    "id": "Feubf7dVX7Y",
@@ -71,7 +71,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 400,
-   "publicViews": "34"
+   "publicViews": "36"
   },
   {
    "id": "aBw0DS0IqYE",
@@ -81,7 +81,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 26,
-   "publicViews": "458"
+   "publicViews": "469"
   },
   {
    "id": "CsJYvRLyZfQ",
@@ -145,7 +145,7 @@
    },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 43,
-   "publicViews": "1383",
+   "publicViews": "1384",
    "engagedShare": 0.575
   },
   {
@@ -230,7 +230,7 @@
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 44,
-   "publicViews": "1302",
+   "publicViews": "1303",
    "engagedShare": 0.516
   },
   {
