@@ -80,3 +80,23 @@
 - **Sprechtexte wie ein menschlicher Moderator:** lange Videos starten mit "Welcome back, quiz friends!" + Hook; alle ~4–5 Antworten eine kurze Reaktion ("Sneaky one, I know.", "That one catches so many people.", "Sorry, Pluto."), Ansagen beim Levelwechsel ("Now it gets harder.", "Welcome to the legend round!"), kurz vor Schluss "Three left, stay with me!". Shorts: Q1 weiterhin sofort ohne Intro, aber 1–2 Antworten mit kleiner Reaktion ("Didn't see that coming, right?"). Keine Floskeln wiederholen – jeden Tag andere Reaktionen. Keine Lautwörter wie "Oof"/"Hmm" (Kokoro spricht sie schlecht).
 - **Optik variieren:** cardColors je langes Video wechseln (z. B. Blau #1E3A8A/#0B0B2E, Petrol #0F766E/#042F2E, Weinrot #7F1D1D/#2A0A0A, Violett #5B21B6/#1E0B3B), Musik rotieren (brain-pulse / world-trip / game-show); echte Fotos aus image-credits.json bevorzugen, wo sie die Antwort nicht verraten.
 - **Community:** Wenn echte Kommentare mit Punktzahlen vorliegen, im Intro des nächsten langen Videos einen Vornamen erwähnen ("Yesterday Mary got thirty-eight out of forty!") – nur echte, nie erfundene.
+
+## 2026-10-21 – STRATEGIE (Creator-Modus, Tiefenrecherche Web + vidIQ) – GILT AB 22.10.
+Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), Views-Zählung seit 31.03.2025, Inauthentic-Content-Policy 15.07.2025, vidIQ-Outlier 21.10.
+### Was virale Quiz-Shorts gerade machen (vidIQ, letzte 4 Wochen)
+- "Who Is This Actress In Photo #2?" (Hollywood Quiz, 4,3k Abos, Kanal erst 5 Wochen alt) **1,0 Mio Views, 225× Breakout, 16 s, EINE Frage**: Ego-Hook gesprochen ("Only true movie fans will get this right"), "Ready, go", 5-s-Countdown mit Ticken, "Double tap to lock your answer" (= Like), Reveal + Ding, "Follow if you got it" → schneidet hart zurück auf den Hook (Loop). Kanal postet ~2,4 Shorts/Tag.
+- Identitäts-Titel: "If you can name the chocolates you need a diet!" 589k (1:00), "You're addicted to your phone if you know these apps" 521k. GK-Quiz-Shorts ~1:05 (Monkey quize) 68–104k.
+- Unser 4-Fragen-Short (29 s) 206 % Ø angesehen nach 4 h → kurz + Loop wirkt. Aber: seit 03/2025 zählt jeder Loop als View → **engagedViews/"viewed vs swiped" ist die echte Messgröße**, nicht public Views.
+### Neue Regeln Shorts
+- **2 Shorts pro Tag** (Code: SHORT_SLOTS 16:00 + 21:00 Berlin = UK-/US-Nachmittag; Long bleibt 14:00). YouTube bewertet jedes Video einzeln, keine Belege für Kannibalisierung (Studio-Daten mit 3 Shorts/Tag am 16.10. waren Einzelfall). Immer **≥2 Shorts pending** halten; die zwei Shorts eines Tages MÜSSEN verschiedene Titel haben (Doppel-Upload-Schutz prüft Titel).
+- Slot 1 (älteste Datei des Tages) = **1-Frage-Ego-Hook** (~14 s): q-Zeile "Only one in ten adults get this right. <Frage>? Double tap to lock your answer!", timing {"count":5.0,"tail":0.4}, a-Zeile "<Antwort>! <1 Mini-Fakt>. Follow if you got it!", Sticker hook "ONLY 1 IN 10 GET THIS 🤯", teaser "DOUBLE TAP TO LOCK IN ❤️", ctaText "Follow if you got it ✅", Titel = die Frage selbst + Emoji (suchbar), echtes Foto aus image-credits.json wenn passend. Antwortoptionen mit Zahlen-Falle (8 seconds/minutes/hours/days).
+- Slot 2 = Leader-Format **4 Fragen (~29 s)** "4 Questions 90% Get Wrong" bzw. Varianten (3 Fragen läuft als Vergleich aus).
+- Verdict nach ≥3 Tagen pro Format: engagedShare (stayed) und Ø angesehen; Ziel stayed ≥65 %, ein Short >5k.
+- Später testen: Identitäts-Titel ("You're a true 80s kid if you know this"), "Born before 1970? Prove it."
+### Neue Regeln lange Videos
+- Bewährte Titel (vidIQ): "ARE YOU AROUND 65 YEARS OLD? LET'S CHECK YOUR MEMORY" 962k (25 min), "YOU HAVE THE RAREST BRAIN IF YOU GET JUST 2 RIGHT" 338k (7 min, 1,2k Abos), "1960s Trivia Quiz: How Much Do You Remember?" 325k (11:38, 50 Q in 5 Runden), "Your IQ Is Above Average If You Get 45+ Right – 80 Questions" 1,1 Mio (24 min).
+- **Ab 23.10.: 50 Fragen, Ziel 12–15 min**: timing {"count":6.0,"tail":1.5,"tempo":1.0}; 5 Runden à 10 (EASY → MEDIUM → HARD → EXPERT/LEGEND); jede Antwort mit 1 kurzem Fun-Fact (Mehrwert = Schutz gegen "inauthentic content"). Intro: "Welcome back, quiz friends! Grab a pen and keep score."
+- Themen-Rotation: 1) Allgemeinwissen Memory/IQ, 2) **Nostalgie-Jahrzehnte** ("1960s Trivia Quiz: How Much Do You Remember?", "Only Kids of the 70s Know These"), 3) Alters-Titel "Are You Over 65? Let's Check Your Memory". ~1×/Woche Themen-Quiz (Bibel, Fußball).
+- Thumbnails: groß, kontrastreich, auf TV lesbar (55+ schauen zu ~40 % am Fernseher – Ofcom/Nielsen).
+### Policy (Monetarisierung)
+- "Inauthentic content" (15.07.2025): keine gleichförmigen Template-Massenvideos. Gegenmittel: originale, geprüfte Fragen, Fun-Fact pro Antwort, Moderator-Persönlichkeit, Farb-/Musik-/Format-Rotation, nie löschen & neu hochladen.

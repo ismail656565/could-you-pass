@@ -315,7 +315,9 @@ def build_audio(item, out_mp3):
 
 
 # ---------------------------------------------------------------- Upload
-PUBLISH_AT = {'short': '10:00', 'long': '14:00'}  # deutsche Uhrzeit
+PUBLISH_AT = {'short': '16:00', 'long': '14:00'}  # deutsche Uhrzeit
+SHORT_SLOTS = ['16:00', '21:00']  # bis zu 2 Shorts pro Tag (UK-Nachmittag / US-Nachmittag)
+PER_DAY = {'short': len(SHORT_SLOTS), 'long': 1}
 
 
 def publish_time(item):
@@ -620,23 +622,33 @@ def produce():
         log('Warteschlange leer – heute kein Video.')
         return
     today = dt.date.today().isoformat()
-    done_today = set()
+    done_today = {}
     for d in DONE.glob('*.json'):
         try:
             di = json.loads(d.read_text(encoding='utf-8'))
             if di.get('uploaded', {}).get('at', '').startswith(today):
-                done_today.add(fmt_of(di))
+                done_today[fmt_of(di)] = done_today.get(fmt_of(di), 0) + 1
         except Exception:
             pass
     for f in ('short', 'long'):
-        cand = [p for p in items if p.exists() and fmt_of(json.loads(p.read_text(encoding='utf-8'))) == f]
-        if not cand:
-            log(f'Kein {f}-Video in der Warteschlange.')
-            continue
-        if f in done_today and not item_force(cand[0]):
-            log(f'Heute schon ein {f}-Video hochgeladen – nächstes morgen.')
-            continue
-        produce_one(cand[0])
+        while True:
+            cand = [p for p in sorted(QUEUE.glob('*.json')) if fmt_of(json.loads(p.read_text(encoding='utf-8'))) == f]
+            if not cand:
+                log(f'Kein {f}-Video in der Warteschlange.')
+                break
+            n = done_today.get(f, 0)
+            if n >= PER_DAY[f] and not item_force(cand[0]):
+                log(f'Heute schon {n} {f}-Video(s) hochgeladen – nächstes morgen.')
+                break
+            if f == 'short' and n < len(SHORT_SLOTS):
+                it = json.loads(cand[0].read_text(encoding='utf-8'))
+                if not it.get('publishAt'):
+                    it['publishAt'] = SHORT_SLOTS[n]
+                    cand[0].write_text(json.dumps(it, ensure_ascii=False, indent=1), encoding='utf-8')
+            produce_one(cand[0])
+            done_today[f] = n + 1
+            if cand[0].exists():  # nicht verschoben (Fehler) → nicht endlos wiederholen
+                break
     try:
         link_short_to_long(today)
     except Exception as ex:
@@ -644,24 +656,27 @@ def produce():
 
 
 def link_short_to_long(today):
-    """Beschreibung des heutigen Shorts um den Link zum heutigen langen Video ergänzen (Shorts-Zuschauer → lange Videos → Abos)"""
-    todays = {}
+    """Beschreibung der heutigen Shorts um den Link zum heutigen langen Video ergänzen (Shorts-Zuschauer → lange Videos → Abos)"""
+    shorts, long_item = [], None
     for d in DONE.glob('*.json'):
         it = json.loads(d.read_text(encoding='utf-8'))
         if it.get('uploaded', {}).get('at', '').startswith(today):
-            todays[fmt_of(it)] = (d, it)
-    if 'short' not in todays or 'long' not in todays or todays['short'][1].get('linkedLong'):
+            if fmt_of(it) == 'long':
+                long_item = it
+            elif not it.get('linkedLong'):
+                shorts.append((d, it))
+    if not long_item or not shorts:
         return
-    d, short = todays['short']
-    long_id = todays['long'][1]['uploaded']['videoId']
+    long_id = long_item['uploaded']['videoId']
     y = yt()
-    v = y.videos().list(part='snippet', id=short['uploaded']['videoId']).execute()['items'][0]
-    sn = v['snippet']
-    sn['description'] = f"▶ Full {len(todays['long'][1]['story']['questions'])}-question quiz: https://youtu.be/{long_id}\n\n" + sn.get('description', '')
-    y.videos().update(part='snippet', body={'id': v['id'], 'snippet': {k: sn[k] for k in ('title', 'description', 'tags', 'categoryId') if k in sn}}).execute()
-    short['linkedLong'] = long_id
-    d.write_text(json.dumps(short, indent=1, ensure_ascii=False), encoding='utf-8')
-    log(f'Short-Beschreibung verlinkt auf langes Video {long_id}')
+    for d, short in shorts:
+        v = y.videos().list(part='snippet', id=short['uploaded']['videoId']).execute()['items'][0]
+        sn = v['snippet']
+        sn['description'] = f"▶ Full {len(long_item['story']['questions'])}-question quiz: https://youtu.be/{long_id}\n\n" + sn.get('description', '')
+        y.videos().update(part='snippet', body={'id': v['id'], 'snippet': {k: sn[k] for k in ('title', 'description', 'tags', 'categoryId') if k in sn}}).execute()
+        short['linkedLong'] = long_id
+        d.write_text(json.dumps(short, indent=1, ensure_ascii=False), encoding='utf-8')
+        log(f'Short-Beschreibung ({short["id"]}) verlinkt auf langes Video {long_id}')
 
 
 def main():

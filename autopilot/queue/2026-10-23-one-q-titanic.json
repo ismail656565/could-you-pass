@@ -1,0 +1,57 @@
+{
+ "id": "one-q-titanic",
+ "timing": {
+  "count": 5.0,
+  "tail": 0.4
+ },
+ "lines": [
+  {
+   "q": "Only one in ten adults get this right. How long did the Titanic take to sink? Double tap to lock your answer!",
+   "a": "About two hours and forty minutes! From the iceberg to the end. Follow if you got it!"
+  }
+ ],
+ "youtube": {
+  "title": "How Long Did the Titanic Take to Sink? 🚢🤯 #shorts",
+  "description": "Only 1 in 10 adults get this right 🤯 Did you?\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #triviaquiz #generalknowledge #funfacts #shorts\n\nPhotos via Wikimedia Commons: RMS Titanic – F. G. O. Stuart (public domain)\nMusic: original.",
+  "tags": [
+   "titanic quiz",
+   "history quiz",
+   "trivia quiz",
+   "general knowledge quiz",
+   "quiz",
+   "titanic facts",
+   "shorts"
+  ],
+  "comment": "What did you guess? 20 minutes, 1 hour, 2h40 or 6 hours? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Trivia",
+  "header": "HISTORY QUIZ",
+  "hook": "ONLY 1 IN 10 GET THIS 🤯",
+  "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+  "finalLabel": "",
+  "ctaText": "Follow if you got it ✅",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you get it?",
+  "outroSub": "Comment 👇",
+  "questions": [
+   {
+    "q": "How long did the **Titanic** take to sink?",
+    "answers": [
+     "20 minutes",
+     "1 hour",
+     "2 hours 40 min",
+     "6 hours"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "image": "bilder/mv-titanic.jpg"
+   }
+  ]
+ }
+}
