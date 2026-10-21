@@ -100,3 +100,7 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Thumbnails: groß, kontrastreich, auf TV lesbar (55+ schauen zu ~40 % am Fernseher – Ofcom/Nielsen).
 ### Policy (Monetarisierung)
 - "Inauthentic content" (15.07.2025): keine gleichförmigen Template-Massenvideos. Gegenmittel: originale, geprüfte Fragen, Fun-Fact pro Antwort, Moderator-Persönlichkeit, Farb-/Musik-/Format-Rotation, nie löschen & neu hochladen.
+
+## 2026-10-21 – vidIQ-BUDGET (Besitzer)
+- Kein Credit-Kauf vorerst. Stand 24 Credits bis Reset 16.11. → bis dahin NUR die Montags-Analyse (Outliers long + short + Rising = 15 Credits) am 26.10.; KEINE optionalen vidIQ-Calls an anderen Tagen. Danach nach Reset wieder normal (150/Monat).
+- Kostenlose Daten stattdessen: report.json enthält jetzt "audience" (Länder, Geräte, Altersgruppen, 28 Tage) aus der eigenen YouTube-Analytics-API → Sendezeiten und Zielgruppe danach ausrichten.
