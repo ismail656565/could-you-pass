@@ -1,0 +1,86 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "Halloween Trivia",
+ "header": "HALLOWEEN TRIVIA",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Salem **witches** in 1692 were executed by…?",
+   "answers": [
+    "Burning",
+    "Drowning",
+    "Hanging",
+    "Beheading"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🧹  🔥",
+   "start": 0.0,
+   "countdownStart": 3.559,
+   "reveal": 6.059,
+   "end": 9.47
+  },
+  {
+   "q": "**Vampire bats** drink blood by…?",
+   "answers": [
+    "Sucking it",
+    "Lapping it up",
+    "Swallowing chunks",
+    "Through the nose"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🦇  🩸",
+   "start": 9.47,
+   "countdownStart": 11.749,
+   "reveal": 14.249,
+   "end": 17.821
+  },
+  {
+   "q": "Ground-up **mummies** were once sold in Europe as…?",
+   "answers": [
+    "Medicine",
+    "Gunpowder",
+    "Perfume",
+    "Salt"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "⚱️  🏺",
+   "start": 17.821,
+   "countdownStart": 20.449,
+   "reveal": 22.949,
+   "end": 26.446
+  },
+  {
+   "q": "A group of **owls** is called a…?",
+   "answers": [
+    "Murder",
+    "Coven",
+    "Flock",
+    "Parliament"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🦉  🌙",
+   "start": 26.446,
+   "countdownStart": 28.952,
+   "reveal": 31.452,
+   "end": 34.254
+  }
+ ],
+ "audio": "audio/halloween-trap-4-0.mp3",
+ "outroStart": 34.254,
+ "durationInSeconds": 34.254
+}

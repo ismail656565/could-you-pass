@@ -1,15 +1,25 @@
 {
- "fetched": "2026-10-20T11:27",
+ "fetched": "2026-10-21T05:15",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "videos": [
   {
-   "id": "keIS27rjlOo",
+   "id": "APKGqW8fBSI",
    "title": "Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz",
-   "published": "2026-10-20T09:09:03Z",
+   "published": "2026-10-20T12:00:21Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
+   "durationSec": 367,
+   "publicViews": "2"
+  },
+  {
+   "id": "keIS27rjlOo",
+   "title": "Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz",
+   "published": "2026-10-20T12:00:02Z",
+   "retention": [],
+   "trafficSources": {},
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 367,
    "publicViews": "0"
   },
@@ -19,18 +29,8 @@
    "published": "2026-10-20T08:29:19Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 24,
-   "publicViews": "0"
-  },
-  {
-   "id": "APKGqW8fBSI",
-   "title": "Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz",
-   "published": "2026-10-20T08:22:30Z",
-   "retention": [],
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
-   "durationSec": 367,
    "publicViews": "0"
   },
   {
@@ -39,9 +39,9 @@
    "published": "2026-10-20T08:00:15Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 24,
-   "publicViews": "122"
+   "publicViews": "191"
   },
   {
    "id": "Feubf7dVX7Y",
@@ -49,9 +49,9 @@
    "published": "2026-10-19T18:58:44Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 400,
-   "publicViews": "18"
+   "publicViews": "32"
   },
   {
    "id": "aBw0DS0IqYE",
@@ -59,9 +59,9 @@
    "published": "2026-10-19T18:33:42Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 26,
-   "publicViews": "373"
+   "publicViews": "458"
   },
   {
    "id": "CsJYvRLyZfQ",
@@ -69,7 +69,7 @@
    "published": "2026-10-19T12:00:05Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 207,
    "publicViews": "5"
   },
@@ -79,158 +79,717 @@
    "published": "2026-10-19T08:00:38Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 46,
-   "publicViews": "1220"
+   "publicViews": "1224"
   },
   {
    "id": "kgWV2rM_BLc",
    "title": "Champions League Quiz: Only REAL Fans Get 20/20 🏆⚽",
    "published": "2026-10-18T15:56:37Z",
+   "views": 3,
+   "engagedViews": 3,
+   "averageViewDuration": 86,
+   "averageViewPercentage": 47.01,
+   "likes": 0,
+   "comments": 0,
+   "subscribersGained": 0,
    "retention": [],
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "trafficSources": {
+    "NO_LINK_OTHER": 2,
+    "YT_CHANNEL": 1
+   },
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 184,
-   "publicViews": "4"
+   "publicViews": "5",
+   "engagedShare": 1.0
   },
   {
    "id": "FyEfeQscyqI",
    "title": "Only Geniuses Get 6/6 🧠 Hard Trivia Quiz #shorts",
    "published": "2026-10-18T15:41:15Z",
-   "retention": [],
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "views": 1147,
+   "engagedViews": 659,
+   "averageViewDuration": 27,
+   "averageViewPercentage": 63.17,
+   "likes": 10,
+   "comments": 2,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     1.246,
+     0.577
+    ],
+    [
+     0.02,
+     1.225,
+     0.542
+    ],
+    [
+     0.03,
+     1.197,
+     0.508
+    ],
+    [
+     0.04,
+     1.171,
+     0.476
+    ],
+    [
+     0.05,
+     1.15,
+     0.45
+    ],
+    [
+     0.06,
+     1.133,
+     0.43
+    ],
+    [
+     0.07,
+     1.126,
+     0.413
+    ],
+    [
+     0.08,
+     1.117,
+     0.399
+    ],
+    [
+     0.09,
+     1.114,
+     0.387
+    ],
+    [
+     0.1,
+     1.109,
+     0.377
+    ],
+    [
+     0.11,
+     1.096,
+     0.369
+    ],
+    [
+     0.12,
+     1.077,
+     0.363
+    ],
+    [
+     0.13,
+     1.058,
+     0.358
+    ],
+    [
+     0.14,
+     1.033,
+     0.354
+    ],
+    [
+     0.15,
+     0.961,
+     0.352
+    ],
+    [
+     0.16,
+     0.892,
+     0.351
+    ],
+    [
+     0.17,
+     0.859,
+     0.35
+    ],
+    [
+     0.18,
+     0.836,
+     0.351
+    ],
+    [
+     0.19,
+     0.813,
+     0.352
+    ],
+    [
+     0.2,
+     0.806,
+     0.353
+    ],
+    [
+     0.21,
+     0.801,
+     0.354
+    ],
+    [
+     0.22,
+     0.791,
+     0.356
+    ],
+    [
+     0.23,
+     0.786,
+     0.358
+    ],
+    [
+     0.24,
+     0.771,
+     0.36
+    ],
+    [
+     0.25,
+     0.757,
+     0.362
+    ],
+    [
+     0.26,
+     0.754,
+     0.364
+    ],
+    [
+     0.27,
+     0.744,
+     0.366
+    ],
+    [
+     0.28,
+     0.745,
+     0.368
+    ],
+    [
+     0.29,
+     0.742,
+     0.371
+    ],
+    [
+     0.3,
+     0.736,
+     0.373
+    ],
+    [
+     0.31,
+     0.716,
+     0.375
+    ],
+    [
+     0.32,
+     0.703,
+     0.377
+    ],
+    [
+     0.33,
+     0.697,
+     0.38
+    ],
+    [
+     0.34,
+     0.684,
+     0.382
+    ],
+    [
+     0.35,
+     0.672,
+     0.385
+    ],
+    [
+     0.36,
+     0.657,
+     0.387
+    ],
+    [
+     0.37,
+     0.654,
+     0.39
+    ],
+    [
+     0.38,
+     0.65,
+     0.393
+    ],
+    [
+     0.39,
+     0.648,
+     0.395
+    ],
+    [
+     0.4,
+     0.64,
+     0.398
+    ],
+    [
+     0.41,
+     0.637,
+     0.401
+    ],
+    [
+     0.42,
+     0.636,
+     0.404
+    ],
+    [
+     0.43,
+     0.628,
+     0.407
+    ],
+    [
+     0.44,
+     0.625,
+     0.41
+    ],
+    [
+     0.45,
+     0.622,
+     0.413
+    ],
+    [
+     0.46,
+     0.622,
+     0.416
+    ],
+    [
+     0.47,
+     0.616,
+     0.42
+    ],
+    [
+     0.48,
+     0.611,
+     0.424
+    ],
+    [
+     0.49,
+     0.599,
+     0.428
+    ],
+    [
+     0.5,
+     0.59,
+     0.432
+    ],
+    [
+     0.51,
+     0.574,
+     0.437
+    ],
+    [
+     0.52,
+     0.568,
+     0.441
+    ],
+    [
+     0.53,
+     0.566,
+     0.446
+    ],
+    [
+     0.54,
+     0.56,
+     0.451
+    ],
+    [
+     0.55,
+     0.561,
+     0.456
+    ],
+    [
+     0.56,
+     0.557,
+     0.462
+    ],
+    [
+     0.57,
+     0.554,
+     0.467
+    ],
+    [
+     0.58,
+     0.546,
+     0.473
+    ],
+    [
+     0.59,
+     0.54,
+     0.48
+    ],
+    [
+     0.6,
+     0.536,
+     0.486
+    ],
+    [
+     0.61,
+     0.534,
+     0.493
+    ],
+    [
+     0.62,
+     0.533,
+     0.5
+    ],
+    [
+     0.63,
+     0.531,
+     0.508
+    ],
+    [
+     0.64,
+     0.522,
+     0.516
+    ],
+    [
+     0.65,
+     0.508,
+     0.525
+    ],
+    [
+     0.66,
+     0.495,
+     0.534
+    ],
+    [
+     0.67,
+     0.475,
+     0.544
+    ],
+    [
+     0.68,
+     0.472,
+     0.555
+    ],
+    [
+     0.69,
+     0.469,
+     0.565
+    ],
+    [
+     0.7,
+     0.464,
+     0.577
+    ],
+    [
+     0.71,
+     0.463,
+     0.588
+    ],
+    [
+     0.72,
+     0.46,
+     0.599
+    ],
+    [
+     0.73,
+     0.46,
+     0.611
+    ],
+    [
+     0.74,
+     0.457,
+     0.622
+    ],
+    [
+     0.75,
+     0.455,
+     0.632
+    ],
+    [
+     0.76,
+     0.454,
+     0.641
+    ],
+    [
+     0.77,
+     0.454,
+     0.65
+    ],
+    [
+     0.78,
+     0.454,
+     0.657
+    ],
+    [
+     0.79,
+     0.452,
+     0.664
+    ],
+    [
+     0.8,
+     0.446,
+     0.669
+    ],
+    [
+     0.81,
+     0.439,
+     0.673
+    ],
+    [
+     0.82,
+     0.437,
+     0.677
+    ],
+    [
+     0.83,
+     0.429,
+     0.68
+    ],
+    [
+     0.84,
+     0.425,
+     0.683
+    ],
+    [
+     0.85,
+     0.42,
+     0.685
+    ],
+    [
+     0.86,
+     0.416,
+     0.687
+    ],
+    [
+     0.87,
+     0.414,
+     0.689
+    ],
+    [
+     0.88,
+     0.414,
+     0.69
+    ],
+    [
+     0.89,
+     0.405,
+     0.692
+    ],
+    [
+     0.9,
+     0.402,
+     0.694
+    ],
+    [
+     0.91,
+     0.399,
+     0.696
+    ],
+    [
+     0.92,
+     0.401,
+     0.698
+    ],
+    [
+     0.93,
+     0.401,
+     0.701
+    ],
+    [
+     0.94,
+     0.401,
+     0.704
+    ],
+    [
+     0.95,
+     0.393,
+     0.708
+    ],
+    [
+     0.96,
+     0.366,
+     0.712
+    ],
+    [
+     0.97,
+     0.34,
+     0.716
+    ],
+    [
+     0.98,
+     0.308,
+     0.72
+    ],
+    [
+     0.99,
+     0.278,
+     0.723
+    ],
+    [
+     1,
+     0.278,
+     0.726
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 1100,
+    "YT_SEARCH": 40,
+    "YT_OTHER_PAGE": 3,
+    "EXT_URL": 2,
+    "YT_CHANNEL": 1,
+    "SOUND_PAGE": 1,
+    "NO_LINK_OTHER": 0
+   },
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 43,
-   "publicViews": "1165"
+   "publicViews": "1382",
+   "engagedShare": 0.575
   },
   {
    "id": "gulbOkDMLgg",
    "title": "6 Questions 90% Get Wrong 🤯 #shorts",
    "published": "2026-10-18T07:45:37Z",
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "views": 1208,
+   "engagedViews": 538,
+   "averageViewDuration": 24,
+   "averageViewPercentage": 55.58,
+   "likes": 8,
+   "comments": 0,
+   "subscribersGained": 0,
+   "trafficSources": {
+    "SHORTS": 1175,
+    "YT_SEARCH": 21,
+    "YT_OTHER_PAGE": 8,
+    "YT_CHANNEL": 4,
+    "NO_LINK_OTHER": 0
+   },
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 44,
-   "publicViews": "1242"
+   "publicViews": "1250",
+   "engagedShare": 0.445
   },
   {
    "id": "AU5WA_fEFNc",
    "title": "Guess the Word by Emoji 🧠 Only a Genius Gets 15/15!",
    "published": "2026-10-17T19:54:28Z",
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "views": 98,
+   "engagedViews": 90,
+   "averageViewDuration": 96,
+   "averageViewPercentage": 52.89,
+   "likes": 1,
+   "comments": 0,
+   "subscribersGained": 0,
+   "trafficSources": {
+    "RELATED_VIDEO": 82,
+    "SUBSCRIBER": 10,
+    "NO_LINK_OTHER": 3,
+    "YT_CHANNEL": 1,
+    "YT_SEARCH": 1,
+    "YT_OTHER_PAGE": 1
+   },
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 182,
-   "publicViews": "115"
+   "publicViews": "119",
+   "engagedShare": 0.918
   },
   {
    "id": "P9BSOeOxJJc",
    "title": "8 Geography Questions 90% Get Wrong 🌍 #shorts",
    "published": "2026-10-17T17:25:41Z",
-   "views": 995,
-   "engagedViews": 450,
-   "averageViewDuration": 29,
-   "averageViewPercentage": 48.91,
-   "likes": 6,
+   "views": 1287,
+   "engagedViews": 583,
+   "averageViewDuration": 30,
+   "averageViewPercentage": 50.54,
+   "likes": 11,
    "comments": 0,
    "subscribersGained": 1,
    "trafficSources": {
-    "SHORTS": 938,
-    "YT_SEARCH": 32,
-    "YT_OTHER_PAGE": 23,
-    "YT_CHANNEL": 2,
+    "SHORTS": 1208,
+    "YT_SEARCH": 49,
+    "YT_OTHER_PAGE": 26,
+    "YT_CHANNEL": 4,
     "NO_LINK_OTHER": 0
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 61,
-   "publicViews": "1322",
-   "engagedShare": 0.452
+   "publicViews": "1326",
+   "engagedShare": 0.453
   },
   {
    "id": "463V8Id0PPA",
    "title": "Can You Guess These 8 Countries From Emojis? 🌍 #shorts",
    "published": "2026-10-16T17:54:36Z",
-   "views": 23,
-   "engagedViews": 11,
-   "averageViewDuration": 21,
-   "averageViewPercentage": 48.24,
-   "likes": 1,
+   "views": 1213,
+   "engagedViews": 626,
+   "averageViewDuration": 28,
+   "averageViewPercentage": 64.85,
+   "likes": 6,
    "comments": 0,
    "subscribersGained": 1,
    "trafficSources": {
-    "YT_SEARCH": 18,
-    "SHORTS": 5,
+    "SHORTS": 1144,
+    "YT_SEARCH": 62,
+    "YT_CHANNEL": 4,
+    "YT_OTHER_PAGE": 3,
     "NO_LINK_OTHER": 0
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 44,
-   "publicViews": "1274",
-   "engagedShare": 0.478
+   "publicViews": "1302",
+   "engagedShare": 0.516
   },
   {
    "id": "hZrSzrXj24I",
    "title": "Only 1% Can Guess All 8 Movies 🍿 #shorts",
    "published": "2026-10-16T17:32:30Z",
-   "views": 321,
-   "engagedViews": 163,
-   "averageViewDuration": 31,
-   "averageViewPercentage": 56.67,
-   "likes": 3,
+   "views": 445,
+   "engagedViews": 241,
+   "averageViewDuration": 32,
+   "averageViewPercentage": 58.82000000000001,
+   "likes": 5,
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 308,
+    "SHORTS": 424,
+    "YT_SEARCH": 7,
     "YT_OTHER_PAGE": 7,
-    "YT_SEARCH": 5,
-    "YT_CHANNEL": 1,
+    "YT_CHANNEL": 3,
     "NO_LINK_OTHER": 0
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-20&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-21&filter",
    "durationSec": 56,
-   "publicViews": "443",
-   "engagedShare": 0.508
+   "publicViews": "444",
+   "engagedShare": 0.542
   },
   {
    "id": "I37Yx8EIj5U",
    "title": "90% Get the First One Wrong 😏 IQ Test #shorts",
    "published": "2026-10-16T17:22:14Z",
-   "views": 177,
-   "engagedViews": 128,
+   "views": 298,
+   "engagedViews": 214,
    "averageViewDuration": 29,
-   "averageViewPercentage": 46.5,
-   "likes": 3,
+   "averageViewPercentage": 46.75,
+   "likes": 6,
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 63,
-   "publicViews": "301",
-   "engagedShare": 0.723
+   "publicViews": "303",
+   "engagedShare": 0.718
   },
   {
    "id": "n5QzX_x2744",
    "title": "Can You Name These Capitals? 🌍 Easy → Hard #shorts",
    "published": "2026-10-16T07:00:39Z",
-   "views": 1087,
-   "engagedViews": 506,
+   "views": 1095,
+   "engagedViews": 510,
    "averageViewDuration": 41,
-   "averageViewPercentage": 53.25,
-   "likes": 6,
+   "averageViewPercentage": 53.6,
+   "likes": 7,
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 78,
-   "publicViews": "1104",
+   "publicViews": "1105",
    "engagedShare": 0.466
   },
   {
    "id": "bRb-fGyhJ48",
    "title": "Could You Pass This IQ Test? 🧠 10 Questions #shorts",
    "published": "2026-10-15T21:06:32Z",
-   "views": 1258,
-   "engagedViews": 679,
+   "views": 1262,
+   "engagedViews": 681,
    "averageViewDuration": 42,
-   "averageViewPercentage": 40.4,
+   "averageViewPercentage": 40.36,
    "likes": 14,
    "comments": 1,
    "subscribersGained": 1,
    "durationSec": 105,
-   "publicViews": "1276",
+   "publicViews": "1279",
    "engagedShare": 0.54
   },
   {
@@ -245,7 +804,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 42,
-   "publicViews": "54",
+   "publicViews": "55",
    "engagedShare": 0.558
   }
  ]

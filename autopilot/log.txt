@@ -127,3 +127,23 @@
 [2026-10-20 12:08:13] kjdarUQWYsY auf privat gestellt
 [2026-10-20 12:08:13] keIS27rjlOo auf privat gestellt
 [2026-10-20 12:47:59] memory-check-35-1: Kommentar gepostet
+[2026-10-21 05:15:44] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-21 05:15:44] Analytics gespeichert (19 Videos)
+[2026-10-21 05:15:45] Thumbnail-Test emoji-word-15: Variante O → {'views': 98, 'ctr': 24.5, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-21 05:15:47] Thumbnail-Test emoji-word-15: jetzt Variante A
+[2026-10-21 05:15:47] Produziere halloween-trap-4-0 (short)
+[2026-10-21 05:15:47] Stimme: Kokoro af_heart
+[2026-10-21 05:16:08] Ton fertig: 34.3 s
+[2026-10-21 05:19:57] Gerendert
+[2026-10-21 05:19:59] Hochgeladen: https://youtube.com/watch?v=fkrNaaz-gZE (private)
+[2026-10-21 05:20:00] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-21 05:20:00] Geplant für 21.10. 10:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-21 05:20:00] Produziere halloween-quiz-35-2 (long)
+[2026-10-21 05:20:00] Stimme: Kokoro af_heart
+[2026-10-21 05:22:35] Ton fertig: 383.6 s
+[2026-10-21 06:03:16] Gerendert
+[2026-10-21 06:03:34] Hochgeladen: https://youtube.com/watch?v=73pAHN8YcDs (private)
+[2026-10-21 06:03:36] Vorschaubild gesetzt
+[2026-10-21 06:03:37] In Playlist "Halloween Quizzes 🎃"
+[2026-10-21 06:03:37] Geplant für 21.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-21 06:03:37] Short-Beschreibung verlinkt auf langes Video 73pAHN8YcDs

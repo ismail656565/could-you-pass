@@ -1,0 +1,594 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "neon",
+ "title": "Halloween Quiz",
+ "header": "HALLOWEEN QUIZ",
+ "hook": "CAN YOU GET 25/35? 🎃",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 17,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "HALLOWEEN **QUIZ**",
+  "CAN YOU GET **25/35**?",
+  "ONLY 1 IN 10 GET **#35**"
+ ],
+ "thumbEmoji": "👻",
+ "thumbBadge": "35 QUESTIONS 👻 EASY → LEGEND",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "Which TV family has a butler named **Lurch**?",
+   "answers": [
+    "The Munsters",
+    "The Addams Family",
+    "The Simpsons",
+    "The Flintstones"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🏚️  🕯️",
+   "start": 0.0,
+   "countdownStart": 8.456,
+   "reveal": 13.456,
+   "end": 16.537
+  },
+  {
+   "q": "What does a witch traditionally **ride**?",
+   "answers": [
+    "A horse",
+    "A cloud",
+    "A carpet",
+    "A broomstick"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🧙‍♀️  🌕",
+   "start": 16.537,
+   "countdownStart": 18.264,
+   "reveal": 23.264,
+   "end": 25.447
+  },
+  {
+   "q": "Which monster is wrapped in **bandages**?",
+   "answers": [
+    "A zombie",
+    "A ghost",
+    "A mummy",
+    "A werewolf"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🏺  🧻",
+   "start": 25.447,
+   "countdownStart": 27.591,
+   "reveal": 32.591,
+   "end": 34.552
+  },
+  {
+   "q": "How many **legs** does a spider have?",
+   "answers": [
+    "Six",
+    "Eight",
+    "Ten",
+    "Twelve"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🕷️  🕸️",
+   "start": 34.552,
+   "countdownStart": 36.395,
+   "reveal": 41.395,
+   "end": 44.26
+  },
+  {
+   "q": "In The Wizard of Oz, which witch **melts**?",
+   "answers": [
+    "Witch of the East",
+    "Witch of the North",
+    "Witch of the West",
+    "Witch of the South"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "💧  🧙‍♀️",
+   "start": 44.26,
+   "countdownStart": 46.442,
+   "reveal": 51.442,
+   "end": 55.063
+  },
+  {
+   "q": "Which 1984 film asks: Who you gonna **call**?",
+   "answers": [
+    "Ghostbusters",
+    "Gremlins",
+    "Beetlejuice",
+    "Poltergeist"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "👻  📞",
+   "start": 55.063,
+   "countdownStart": 58.249,
+   "reveal": 63.249,
+   "end": 65.532
+  },
+  {
+   "q": "Which fruit do people **bob** for at Halloween?",
+   "answers": [
+    "Pears",
+    "Oranges",
+    "Plums",
+    "Apples"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🪣  💦",
+   "start": 65.532,
+   "countdownStart": 67.887,
+   "reveal": 72.887,
+   "end": 74.914
+  },
+  {
+   "q": "Which food is said to keep **vampires** away?",
+   "answers": [
+    "Onion",
+    "Ginger",
+    "Pepper",
+    "Garlic"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🧛  🚫",
+   "start": 74.914,
+   "countdownStart": 77.151,
+   "reveal": 82.151,
+   "end": 84.136
+  },
+  {
+   "q": "In which TV show are **Herman and Lily** married?",
+   "answers": [
+    "The Munsters",
+    "The Addams Family",
+    "Bewitched",
+    "Dark Shadows"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "📺  🧟",
+   "start": 84.136,
+   "countdownStart": 86.763,
+   "reveal": 91.763,
+   "end": 93.956
+  },
+  {
+   "q": "Who wrote **Dr Jekyll and Mr Hyde**?",
+   "answers": [
+    "Charles Dickens",
+    "Robert Louis Stevenson",
+    "Oscar Wilde",
+    "H. G. Wells"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🧪  📖",
+   "start": 93.956,
+   "countdownStart": 96.19,
+   "reveal": 101.19,
+   "end": 103.895
+  },
+  {
+   "q": "Who wrote both **It** and **Carrie**?",
+   "answers": [
+    "Dean Koontz",
+    "Anne Rice",
+    "Stephen King",
+    "Clive Barker"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🎈  🤡",
+   "start": 103.895,
+   "countdownStart": 105.434,
+   "reveal": 110.434,
+   "end": 112.651
+  },
+  {
+   "q": "Which 1973 film features a possessed girl named **Regan**?",
+   "answers": [
+    "The Omen",
+    "Carrie",
+    "Poltergeist",
+    "The Exorcist"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "1973",
+   "start": 112.651,
+   "countdownStart": 116.815,
+   "reveal": 121.815,
+   "end": 124.09
+  },
+  {
+   "q": "Which 1963 Hitchcock film has attacking **birds**?",
+   "answers": [
+    "Vertigo",
+    "Rear Window",
+    "Rebecca",
+    "The Birds"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🐦  🎬",
+   "start": 124.09,
+   "countdownStart": 127.672,
+   "reveal": 132.672,
+   "end": 134.705
+  },
+  {
+   "q": "Which Shakespeare play opens with **three witches**?",
+   "answers": [
+    "Hamlet",
+    "King Lear",
+    "Macbeth",
+    "Othello"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🧙‍♀️  🔮",
+   "start": 134.705,
+   "countdownStart": 137.086,
+   "reveal": 142.086,
+   "end": 145.698
+  },
+  {
+   "q": "Who painted **The Scream**?",
+   "answers": [
+    "Edvard Munch",
+    "Salvador Dalí",
+    "Van Gogh",
+    "Francisco Goya"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "😱  🎨",
+   "start": 145.698,
+   "countdownStart": 146.978,
+   "reveal": 151.978,
+   "end": 154.859
+  },
+  {
+   "q": "The **Day of the Dead** is most famous in which country?",
+   "answers": [
+    "Spain",
+    "Mexico",
+    "Brazil",
+    "Peru"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "💀  🌼",
+   "start": 154.859,
+   "countdownStart": 157.782,
+   "reveal": 162.782,
+   "end": 164.932
+  },
+  {
+   "q": "Who wrote **The Hound of the Baskervilles**?",
+   "answers": [
+    "Agatha Christie",
+    "Edgar Allan Poe",
+    "Arthur Conan Doyle",
+    "Wilkie Collins"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🐕  🌫️",
+   "start": 164.932,
+   "countdownStart": 166.914,
+   "reveal": 171.914,
+   "end": 175.892
+  },
+  {
+   "q": "Who wrote **The Invisible Man** in 1897?",
+   "answers": [
+    "Jules Verne",
+    "Mary Shelley",
+    "Bram Stoker",
+    "H. G. Wells"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "1897",
+   "start": 175.892,
+   "countdownStart": 178.905,
+   "reveal": 183.905,
+   "end": 189.436
+  },
+  {
+   "q": "**Monster Mash** hit number one in which year?",
+   "answers": [
+    "1958",
+    "1962",
+    "1966",
+    "1970"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🎵  🧟",
+   "start": 189.436,
+   "countdownStart": 191.73,
+   "reveal": 196.73,
+   "end": 199.366
+  },
+  {
+   "q": "The Shining is set in which **hotel**?",
+   "answers": [
+    "The Bates Motel",
+    "The Grand Budapest",
+    "The Stanley",
+    "The Overlook"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🏨  🪓",
+   "start": 199.366,
+   "countdownStart": 201.192,
+   "reveal": 206.192,
+   "end": 209.511
+  },
+  {
+   "q": "What is the fear of **spiders** called?",
+   "answers": [
+    "Arachnophobia",
+    "Ophidiophobia",
+    "Acrophobia",
+    "Claustrophobia"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🕷️  😨",
+   "start": 209.511,
+   "countdownStart": 211.311,
+   "reveal": 216.311,
+   "end": 218.624
+  },
+  {
+   "q": "Which spider is named after the female eating the **male**?",
+   "answers": [
+    "Tarantula",
+    "Wolf spider",
+    "Black widow",
+    "Huntsman"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🕷️  ⚫",
+   "start": 218.624,
+   "countdownStart": 222.422,
+   "reveal": 227.422,
+   "end": 229.653
+  },
+  {
+   "q": "What giant monster attacks New York in **Ghostbusters**?",
+   "answers": [
+    "A giant ghost",
+    "A marshmallow man",
+    "A slime blob",
+    "A stone dog"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🍡  🗽",
+   "start": 229.653,
+   "countdownStart": 232.932,
+   "reveal": 237.932,
+   "end": 241.007
+  },
+  {
+   "q": "Which 1968 film stars **Mia Farrow**?",
+   "answers": [
+    "Rosemary's Baby",
+    "The Omen",
+    "The Haunting",
+    "Carrie"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "1968",
+   "start": 241.007,
+   "countdownStart": 244.045,
+   "reveal": 249.045,
+   "end": 251.506
+  },
+  {
+   "q": "Who played Dracula in the **Hammer** films from 1958?",
+   "answers": [
+    "Peter Cushing",
+    "Vincent Price",
+    "Christopher Lee",
+    "Lon Chaney"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🧛  🩸",
+   "start": 251.506,
+   "countdownStart": 254.977,
+   "reveal": 259.977,
+   "end": 262.212
+  },
+  {
+   "q": "Which **flower** decorates Day of the Dead altars?",
+   "answers": [
+    "Rose",
+    "Lily",
+    "Tulip",
+    "Marigold"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🌼  🕯️",
+   "start": 262.212,
+   "countdownStart": 264.666,
+   "reveal": 269.666,
+   "end": 273.733
+  },
+  {
+   "q": "What is the vampire called in **Nosferatu** (1922)?",
+   "answers": [
+    "Count Orlok",
+    "Count Dracula",
+    "Lord Ruthven",
+    "Count Yorga"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "1922",
+   "start": 273.733,
+   "countdownStart": 277.533,
+   "reveal": 282.533,
+   "end": 284.775
+  },
+  {
+   "q": "Who wrote the ghost story **The Turn of the Screw**?",
+   "answers": [
+    "Henry James",
+    "Edgar Allan Poe",
+    "Charles Dickens",
+    "Nathaniel Hawthorne"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "👻  📖",
+   "start": 284.775,
+   "countdownStart": 287.011,
+   "reveal": 292.011,
+   "end": 294.293
+  },
+  {
+   "q": "The **aye-aye** is a bad omen in which country?",
+   "answers": [
+    "India",
+    "Borneo",
+    "Peru",
+    "Madagascar"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🐒  👁️",
+   "start": 294.293,
+   "countdownStart": 297.228,
+   "reveal": 302.228,
+   "end": 306.467
+  },
+  {
+   "q": "Who was the **Man of a Thousand Faces**?",
+   "answers": [
+    "Boris Karloff",
+    "Lon Chaney",
+    "Bela Lugosi",
+    "Vincent Price"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🎭  🎬",
+   "start": 306.467,
+   "countdownStart": 309.981,
+   "reveal": 314.981,
+   "end": 317.165
+  },
+  {
+   "q": "Who played **Van Helsing** opposite Christopher Lee?",
+   "answers": [
+    "Peter Cushing",
+    "Vincent Price",
+    "Anthony Hopkins",
+    "Michael Gough"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "✝️  🧛",
+   "start": 317.165,
+   "countdownStart": 319.763,
+   "reveal": 324.763,
+   "end": 326.961
+  },
+  {
+   "q": "Who wrote the novel **The Phantom of the Opera**?",
+   "answers": [
+    "Victor Hugo",
+    "Alexandre Dumas",
+    "Gaston Leroux",
+    "Jules Verne"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🎭  🎹",
+   "start": 326.961,
+   "countdownStart": 329.317,
+   "reveal": 334.317,
+   "end": 337.652
+  },
+  {
+   "q": "Which 1764 book is called the first **Gothic** novel?",
+   "answers": [
+    "Vathek",
+    "The Monk",
+    "The Castle of Otranto",
+    "Wuthering Heights"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "1764",
+   "start": 337.652,
+   "countdownStart": 341.423,
+   "reveal": 346.423,
+   "end": 350.364
+  },
+  {
+   "q": "What is a Day of the Dead **sugar skull** called?",
+   "answers": [
+    "Piñata",
+    "Ofrenda",
+    "Catrina",
+    "Calavera"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "💀  🍬",
+   "start": 350.364,
+   "countdownStart": 352.584,
+   "reveal": 357.584,
+   "end": 360.493
+  },
+  {
+   "q": "Who **directed** The Nightmare Before Christmas?",
+   "answers": [
+    "Tim Burton",
+    "Henry Selick",
+    "Danny Elfman",
+    "Wes Anderson"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🎃  🎄",
+   "start": 360.493,
+   "countdownStart": 364.067,
+   "reveal": 369.067,
+   "end": 373.468
+  }
+ ],
+ "audio": "audio/halloween-quiz-35-2.mp3",
+ "outroStart": 373.468,
+ "durationInSeconds": 383.569
+}

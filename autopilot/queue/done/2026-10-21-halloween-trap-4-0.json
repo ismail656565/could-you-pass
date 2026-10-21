@@ -58,7 +58,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🧹  🔥"
+    "cardText": "🧹  🔥",
+    "start": 0.0,
+    "countdownStart": 3.559,
+    "reveal": 6.059,
+    "end": 9.47
    },
    {
     "q": "**Vampire bats** drink blood by…?",
@@ -70,7 +74,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🦇  🩸"
+    "cardText": "🦇  🩸",
+    "start": 9.47,
+    "countdownStart": 11.749,
+    "reveal": 14.249,
+    "end": 17.821
    },
    {
     "q": "Ground-up **mummies** were once sold in Europe as…?",
@@ -82,7 +90,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "⚱️  🏺"
+    "cardText": "⚱️  🏺",
+    "start": 17.821,
+    "countdownStart": 20.449,
+    "reveal": 22.949,
+    "end": 26.446
    },
    {
     "q": "A group of **owls** is called a…?",
@@ -94,8 +106,23 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🦉  🌙"
+    "cardText": "🦉  🌙",
+    "start": 26.446,
+    "countdownStart": 28.952,
+    "reveal": 31.452,
+    "end": 34.254
    }
-  ]
- }
+  ],
+  "audio": "audio/halloween-trap-4-0.mp3",
+  "outroStart": 34.254,
+  "durationInSeconds": 34.254
+ },
+ "scheduledFor": "2026-10-21T10:00+02:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "fkrNaaz-gZE",
+  "at": "2026-10-21T05:20"
+ },
+ "linkedLong": "73pAHN8YcDs"
 }
