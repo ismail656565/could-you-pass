@@ -170,10 +170,22 @@ def analytics():
     for v in vids:
         if v.get('views') and v.get('engagedViews') is not None:
             v['engagedShare'] = round(v['engagedViews'] / max(1, v['views']), 3)
+    # Kanal-Publikum (kostenlos über YouTube Analytics, letzte 28 Tage): Länder, Geräte, Alter
+    audience = {}
+    start28 = (dt.date.today() - dt.timedelta(days=28)).isoformat()
+    for key, kw in (('countries', dict(metrics='views,engagedViews', dimensions='country', sort='-views', maxResults=15)),
+                    ('devices', dict(metrics='views,engagedViews', dimensions='deviceType', sort='-views')),
+                    ('ageGroups', dict(metrics='viewerPercentage', dimensions='ageGroup'))):
+        try:
+            rep = a.reports().query(ids='channel==MINE', startDate=start28, endDate=today, **kw).execute()
+            cols = [h['name'] for h in rep['columnHeaders']]
+            audience[key] = [dict(zip(cols, r)) for r in rep.get('rows', [])]
+        except Exception as ex:
+            audience[key + 'Error'] = str(ex)[:150]
     ANALYTICS.mkdir(parents=True, exist_ok=True)
     log(f"Kanal: {ch['snippet']['title']} | Kontrollnummer: {os.environ.get('GOOGLE_REFRESH_TOKEN', '')[-4:]}")
     report = {'fetched': dt.datetime.now().isoformat(timespec='minutes'), 'channel': ch['snippet']['title'],
-              'subscribers': ch['statistics'].get('subscriberCount'), 'videos': vids}
+              'subscribers': ch['statistics'].get('subscriberCount'), 'audience': audience, 'videos': vids}
     (ANALYTICS / 'report.json').write_text(json.dumps(report, indent=1, ensure_ascii=False), encoding='utf-8')
     (ANALYTICS / f'report-{today}.json').write_text(json.dumps(report, ensure_ascii=False), encoding='utf-8')
     log(f'Analytics gespeichert ({len(vids)} Videos)')
