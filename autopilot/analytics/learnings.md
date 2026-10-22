@@ -104,3 +104,14 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 ## 2026-10-21 – vidIQ-BUDGET (Besitzer)
 - Kein Credit-Kauf vorerst. Stand 24 Credits bis Reset 16.11. → bis dahin NUR die Montags-Analyse (Outliers long + short + Rising = 15 Credits) am 26.10.; KEINE optionalen vidIQ-Calls an anderen Tagen. Danach nach Reset wieder normal (150/Monat).
 - Kostenlose Daten stattdessen: report.json enthält jetzt "audience" (Länder, Geräte, Altersgruppen, 28 Tage) aus der eigenen YouTube-Analytics-API → Sendezeiten und Zielgruppe danach ausrichten.
+
+## 2026-10-22 (Morgenlauf, Queue für 23.10.)
+### Shorts
+- Report (Stand 21.10. 11:28) public Views: "3 Halloween Questions" (3 Q) 469 nach ~2,5 T, "3 Spooky Questions" 192 nach ~1,5 T, "4 Halloween Questions" (4 Q, 206 % Ø angesehen laut Studio) 113 nach ~1,5 h. 6-Fragen-Shorts weiter in der 1,1–1,4k-Decke (Genius 1384, Geo-Trap 1326, Which-First 1224) → kurze Shorts haben bisher MEHR Retention, aber noch nicht mehr Reichweite. Verdict 3 vs. 4 vs. 6 Fragen am ~25.10. mit engagedShare.
+- Höchster engagedShare bisher bei 6+ Fragen: Genius 57,5 % (Ø 63 %) – Ziel ≥65 % stayed noch von keinem Short erreicht.
+- 23.10.: Slot 1 1-Frage-Ego-Hook (Titanic), Slot 2 4-Fragen-Trap mit echtem Foto bei Q1 (Oktopus, "blaues Blut").
+### Lange Videos
+- Senioren-Format bisher ohne Reichweite: Halloween-35 (19.10.) 36 public Views, Over-60-Memory-Check (20.10.) 2 Views, Halloween-35-2 (21.10.) 0 zum Report-Zeitpunkt. Analytics (Impressions/CTR) noch leer → Ursache (Impressions vs. CTR) erst ~24.10. bestimmbar.
+- 23.10.: erstes 50-Fragen-Video (Ziel 12–15 min, timing count 6.0) und erstes Nostalgie-Jahrzehnt-Thema "1960s Trivia Quiz" (vidIQ-Vorbild 325k Views) → testet Thema "Jahrzehnt" vs. Allgemeinwissen; Level 4 heißt "VERY HARD" (QuizLong färbt nur EASY/MEDIUM/HARD/LEGEND, "EXPERT" wäre grün).
+### Thumbnails
+- Noch keine thumbTest-Ergebnisse: alle 5 Tests stehen weiter auf Variante A (CL seit 18.10. = 4 Tage → erste Umschaltung auf B steht an). Emoji-Video O→A umgeschaltet; Analytics-CTR-Abfrage gab HttpError 400 → Fallback views/day.
