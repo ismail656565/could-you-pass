@@ -55,7 +55,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "image": "bilder/q2-pyramid.jpg"
+    "image": "bilder/q2-pyramid.jpg",
+    "start": 0.0,
+    "countdownStart": 2.34,
+    "reveal": 4.84,
+    "end": 9.447
    },
    {
     "q": "Which planet has the **shortest day**?",
@@ -67,7 +71,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🪐  ⏱️"
+    "cardText": "🪐  ⏱️",
+    "start": 9.447,
+    "countdownStart": 11.358,
+    "reveal": 13.858,
+    "end": 17.121
    },
    {
     "q": "Botanically, **bananas** are…?",
@@ -79,8 +87,24 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🍌  🔬"
+    "cardText": "🍌  🔬",
+    "start": 17.121,
+    "countdownStart": 19.437,
+    "reveal": 21.937,
+    "end": 25.506
    }
-  ]
- }
+  ],
+  "audio": "audio/trap-3-2.mp3",
+  "outroStart": 25.506,
+  "durationInSeconds": 25.506
+ },
+ "publishAt": "21:00",
+ "scheduledFor": "2026-10-22T21:00+02:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "183LWZG1vqw",
+  "at": "2026-10-22T05:20"
+ },
+ "linkedLong": "faqivgeR7fw"
 }

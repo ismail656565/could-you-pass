@@ -50,8 +50,24 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "image": "bilder/q2-sun.jpg"
+    "image": "bilder/q2-sun.jpg",
+    "start": 0.0,
+    "countdownStart": 6.244,
+    "reveal": 11.244,
+    "end": 15.967
    }
-  ]
- }
+  ],
+  "audio": "audio/one-q-sunlight.mp3",
+  "outroStart": 15.967,
+  "durationInSeconds": 15.967
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-10-22T16:00+02:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "MEIWnYy4YJk",
+  "at": "2026-10-22T05:18"
+ },
+ "linkedLong": "faqivgeR7fw"
 }

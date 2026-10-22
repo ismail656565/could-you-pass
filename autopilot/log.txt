@@ -162,3 +162,33 @@
 [2026-10-21 11:28:42] Heute schon ein short-Video hochgeladen – nächstes morgen.
 [2026-10-21 11:28:42] Heute schon ein long-Video hochgeladen – nächstes morgen.
 [2026-10-21 12:47:24] halloween-quiz-35-2: Kommentar gepostet
+[2026-10-22 05:16:09] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-22 05:16:09] Analytics gespeichert (21 Videos)
+[2026-10-22 05:16:10] Thumbnail-Test cl-quiz-20: Variante A → {'views': 3, 'ctr': 0.75, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-22 05:16:14] Thumbnail-Test cl-quiz-20: jetzt Variante B
+[2026-10-22 05:16:14] Produziere one-q-sunlight (short)
+[2026-10-22 05:16:14] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-22 05:16:22] Ton fertig: 16.0 s
+[2026-10-22 05:18:01] Gerendert
+[2026-10-22 05:18:05] Hochgeladen: https://youtube.com/watch?v=MEIWnYy4YJk (private)
+[2026-10-22 05:18:06] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-22 05:18:06] Geplant für 22.10. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-22 05:18:06] Produziere trap-3-2 (short)
+[2026-10-22 05:18:06] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-22 05:18:16] Ton fertig: 25.5 s
+[2026-10-22 05:20:34] Gerendert
+[2026-10-22 05:20:37] Hochgeladen: https://youtube.com/watch?v=183LWZG1vqw (private)
+[2026-10-22 05:20:37] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-22 05:20:37] Geplant für 22.10. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-22 05:20:37] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-10-22 05:20:37] Produziere iq-check-40-1 (long)
+[2026-10-22 05:20:37] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-22 05:22:47] Ton fertig: 454.0 s
+[2026-10-22 06:00:05] Gerendert
+[2026-10-22 06:00:22] Hochgeladen: https://youtube.com/watch?v=faqivgeR7fw (private)
+[2026-10-22 06:00:24] Vorschaubild gesetzt
+[2026-10-22 06:00:25] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-10-22 06:00:25] Geplant für 22.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-22 06:00:25] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-10-22 06:00:26] Short-Beschreibung (one-q-sunlight) verlinkt auf langes Video faqivgeR7fw
+[2026-10-22 06:00:27] Short-Beschreibung (trap-3-2) verlinkt auf langes Video faqivgeR7fw

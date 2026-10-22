@@ -223,7 +223,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "⬡  ✏️"
+    "cardText": "⬡  ✏️",
+    "start": 0.0,
+    "countdownStart": 10.223,
+    "reveal": 15.223,
+    "end": 18.514
    },
    {
     "q": "Which animal is the **King of the Jungle**?",
@@ -235,7 +239,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "👑  🌴"
+    "cardText": "👑  🌴",
+    "start": 18.514,
+    "countdownStart": 20.897,
+    "reveal": 25.897,
+    "end": 30.002
    },
    {
     "q": "What is the capital of **Spain**?",
@@ -247,7 +255,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🏛️  ☀️"
+    "cardText": "🏛️  ☀️",
+    "start": 30.002,
+    "countdownStart": 31.854,
+    "reveal": 36.854,
+    "end": 39.011
    },
    {
     "q": "What is the **closest star** to Earth?",
@@ -259,7 +271,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "⭐  🔭"
+    "cardText": "⭐  🔭",
+    "start": 39.011,
+    "countdownStart": 41.069,
+    "reveal": 46.069,
+    "end": 50.098
    },
    {
     "q": "Who wrote **Oliver Twist**?",
@@ -271,7 +287,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "📖  🎩"
+    "cardText": "📖  🎩",
+    "start": 50.098,
+    "countdownStart": 51.675,
+    "reveal": 56.675,
+    "end": 60.339
    },
    {
     "q": "Which bird is a symbol of **peace**?",
@@ -283,7 +303,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🕊️  ☮️"
+    "cardText": "🕊️  ☮️",
+    "start": 60.339,
+    "countdownStart": 62.337,
+    "reveal": 67.337,
+    "end": 69.686
    },
    {
     "q": "Which country gave the US the **Statue of Liberty**?",
@@ -295,7 +319,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🗽  🎁"
+    "cardText": "🗽  🎁",
+    "start": 69.686,
+    "countdownStart": 72.889,
+    "reveal": 77.889,
+    "end": 81.457
    },
    {
     "q": "Which sea creature has **eight arms**?",
@@ -307,7 +335,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🌊  🐚"
+    "cardText": "🌊  🐚",
+    "start": 81.457,
+    "countdownStart": 83.61,
+    "reveal": 88.61,
+    "end": 90.981
    },
    {
     "q": "In which country are the **pyramids of Giza**?",
@@ -319,7 +351,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🏜️  🐪"
+    "cardText": "🏜️  🐪",
+    "start": 90.981,
+    "countdownStart": 93.385,
+    "reveal": 98.385,
+    "end": 101.478
    },
    {
     "q": "How many strings does a **violin** have?",
@@ -331,7 +367,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🎻  🎼"
+    "cardText": "🎻  🎼",
+    "start": 101.478,
+    "countdownStart": 103.652,
+    "reveal": 108.652,
+    "end": 112.638
    },
    {
     "q": "Who starred in **Breakfast at Tiffany's** (1961)?",
@@ -343,7 +383,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "💎  🥐"
+    "cardText": "💎  🥐",
+    "start": 112.638,
+    "countdownStart": 116.107,
+    "reveal": 121.107,
+    "end": 124.558
    },
    {
     "q": "Which singer was called **Ol' Blue Eyes**?",
@@ -355,7 +399,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🎤  👀"
+    "cardText": "🎤  👀",
+    "start": 124.558,
+    "countdownStart": 126.918,
+    "reveal": 131.918,
+    "end": 134.478
    },
    {
     "q": "What is the **largest planet** in our solar system?",
@@ -367,7 +415,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🪐  🔭"
+    "cardText": "🪐  🔭",
+    "start": 134.478,
+    "countdownStart": 137.164,
+    "reveal": 142.164,
+    "end": 146.343
    },
    {
     "q": "Which language has the most **native speakers**?",
@@ -379,7 +431,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🗣️  🌍"
+    "cardText": "🗣️  🌍",
+    "start": 146.343,
+    "countdownStart": 148.867,
+    "reveal": 153.867,
+    "end": 159.368
    },
    {
     "q": "What is the chemical symbol for **gold**?",
@@ -391,7 +447,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🥇  🧪"
+    "cardText": "🥇  🧪",
+    "start": 159.368,
+    "countdownStart": 161.626,
+    "reveal": 166.626,
+    "end": 169.603
    },
    {
     "q": "In which city is the **Colosseum**?",
@@ -403,7 +463,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🏟️  🦁"
+    "cardText": "🏟️  🦁",
+    "start": 169.603,
+    "countdownStart": 171.58,
+    "reveal": 176.58,
+    "end": 178.578
    },
    {
     "q": "Who patented the **telephone** in 1876?",
@@ -415,7 +479,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "☎️  1876"
+    "cardText": "☎️  1876",
+    "start": 178.578,
+    "countdownStart": 181.602,
+    "reveal": 186.602,
+    "end": 189.477
    },
    {
     "q": "Which 1965 film features the **von Trapp** family?",
@@ -427,7 +495,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🎶  🏔️"
+    "cardText": "🎶  🏔️",
+    "start": 189.477,
+    "countdownStart": 192.935,
+    "reveal": 197.935,
+    "end": 200.543
    },
    {
     "q": "Which ocean lies between **Africa and Australia**?",
@@ -439,7 +511,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🌊  🧭"
+    "cardText": "🌊  🧭",
+    "start": 200.543,
+    "countdownStart": 203.369,
+    "reveal": 208.369,
+    "end": 210.992
    },
    {
     "q": "Which ship took the **Pilgrims** to America in 1620?",
@@ -451,7 +527,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "⛵  1620"
+    "cardText": "⛵  1620",
+    "start": 210.992,
+    "countdownStart": 214.242,
+    "reveal": 219.242,
+    "end": 224.043
    },
    {
     "q": "Which president is on the US **five-dollar** bill?",
@@ -463,7 +543,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "💵  🏛️"
+    "cardText": "💵  🏛️",
+    "start": 224.043,
+    "countdownStart": 226.945,
+    "reveal": 231.945,
+    "end": 234.558
    },
    {
     "q": "What is the **smallest planet** in our solar system?",
@@ -475,7 +559,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🪐  🔍"
+    "cardText": "🪐  🔍",
+    "start": 234.558,
+    "countdownStart": 237.175,
+    "reveal": 242.175,
+    "end": 246.798
    },
    {
     "q": "Who wrote **Pride and Prejudice**?",
@@ -487,7 +575,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "📚  💍"
+    "cardText": "📚  💍",
+    "start": 246.798,
+    "countdownStart": 248.791,
+    "reveal": 253.791,
+    "end": 257.228
    },
    {
     "q": "In which year did **World War II** end?",
@@ -499,7 +591,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🕊️  📜"
+    "cardText": "🕊️  📜",
+    "start": 257.228,
+    "countdownStart": 259.459,
+    "reveal": 264.459,
+    "end": 267.355
    },
    {
     "q": "What is the capital of **New Zealand**?",
@@ -511,7 +607,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🥝  🏙️"
+    "cardText": "🥝  🏙️",
+    "start": 267.355,
+    "countdownStart": 269.552,
+    "reveal": 274.552,
+    "end": 279.162
    },
    {
     "q": "Which element has the symbol **K**?",
@@ -523,7 +623,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🧪  🍌"
+    "cardText": "🧪  🍌",
+    "start": 279.162,
+    "countdownStart": 281.564,
+    "reveal": 286.564,
+    "end": 289.753
    },
    {
     "q": "Who painted the **Sistine Chapel** ceiling?",
@@ -535,7 +639,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🎨  ⛪"
+    "cardText": "🎨  ⛪",
+    "start": 289.753,
+    "countdownStart": 292.332,
+    "reveal": 297.332,
+    "end": 299.831
    },
    {
     "q": "Which band released **Bohemian Rhapsody** in 1975?",
@@ -547,7 +655,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🎸  👑"
+    "cardText": "🎸  👑",
+    "start": 299.831,
+    "countdownStart": 303.482,
+    "reveal": 308.482,
+    "end": 311.653
    },
    {
     "q": "How many **bones** are in the adult human body?",
@@ -559,7 +671,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🦴  🩻"
+    "cardText": "🦴  🩻",
+    "start": 311.653,
+    "countdownStart": 314.158,
+    "reveal": 319.158,
+    "end": 321.967
    },
    {
     "q": "Which river flows through **Baghdad**?",
@@ -571,7 +687,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🏞️  🕌"
+    "cardText": "🏞️  🕌",
+    "start": 321.967,
+    "countdownStart": 324.011,
+    "reveal": 329.011,
+    "end": 334.774
    },
    {
     "q": "Which planet has the most known **moons**?",
@@ -583,7 +703,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🌙  🔭"
+    "cardText": "🌙  🔭",
+    "start": 334.774,
+    "countdownStart": 336.993,
+    "reveal": 341.993,
+    "end": 345.552
    },
    {
     "q": "What is the national animal of **Scotland**?",
@@ -595,7 +719,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🏰  ✨"
+    "cardText": "🏰  ✨",
+    "start": 345.552,
+    "countdownStart": 347.912,
+    "reveal": 352.912,
+    "end": 356.586
    },
    {
     "q": "Who first reached the **South Pole** in 1911?",
@@ -607,7 +735,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🧊  🐧"
+    "cardText": "🧊  🐧",
+    "start": 356.586,
+    "countdownStart": 359.859,
+    "reveal": 364.859,
+    "end": 369.263
    },
    {
     "q": "In which year did the **Hindenburg** disaster happen?",
@@ -619,7 +751,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🎈  🔥"
+    "cardText": "🎈  🔥",
+    "start": 369.263,
+    "countdownStart": 372.332,
+    "reveal": 377.332,
+    "end": 380.251
    },
    {
     "q": "What is the longest river in **Asia**?",
@@ -631,7 +767,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🏞️  🐉"
+    "cardText": "🏞️  🐉",
+    "start": 380.251,
+    "countdownStart": 382.414,
+    "reveal": 387.414,
+    "end": 389.643
    },
    {
     "q": "Who composed **The Four Seasons**?",
@@ -643,7 +783,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🎻  🍂"
+    "cardText": "🎻  🍂",
+    "start": 389.643,
+    "countdownStart": 391.575,
+    "reveal": 396.575,
+    "end": 399.306
    },
    {
     "q": "Which is the only US state with a **one-syllable** name?",
@@ -655,7 +799,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🗺️  1️⃣"
+    "cardText": "🗺️  1️⃣",
+    "start": 399.306,
+    "countdownStart": 402.615,
+    "reveal": 407.615,
+    "end": 411.661
    },
    {
     "q": "What was **Marilyn Monroe**'s birth name?",
@@ -667,7 +815,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🎬  💋"
+    "cardText": "🎬  💋",
+    "start": 411.661,
+    "countdownStart": 413.816,
+    "reveal": 418.816,
+    "end": 421.752
    },
    {
     "q": "Which blood type is the **universal donor**?",
@@ -679,7 +831,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🩸  💉"
+    "cardText": "🩸  💉",
+    "start": 421.752,
+    "countdownStart": 424.205,
+    "reveal": 429.205,
+    "end": 431.65
    },
    {
     "q": "Which gas makes up most of the **air** we breathe?",
@@ -691,8 +847,34 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "💨  🌍"
+    "cardText": "💨  🌍",
+    "start": 431.65,
+    "countdownStart": 434.721,
+    "reveal": 439.721,
+    "end": 444.222
    }
-  ]
+  ],
+  "audio": "audio/iq-check-40-1.mp3",
+  "outroStart": 444.222,
+  "durationInSeconds": 454.01
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/iq-check-40-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-10-22",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-10-22T14:00+02:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "faqivgeR7fw",
+  "at": "2026-10-22T06:00"
  }
 }

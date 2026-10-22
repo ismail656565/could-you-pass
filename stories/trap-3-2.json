@@ -1,0 +1,70 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "Trivia",
+ "header": "TRIVIA",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #3 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "The Great **Pyramid** was originally what colour?",
+   "answers": [
+    "Gold",
+    "White",
+    "Red",
+    "Black"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "image": "bilder/q2-pyramid.jpg",
+   "start": 0.0,
+   "countdownStart": 2.34,
+   "reveal": 4.84,
+   "end": 9.447
+  },
+  {
+   "q": "Which planet has the **shortest day**?",
+   "answers": [
+    "Mercury",
+    "Earth",
+    "Mars",
+    "Jupiter"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🪐  ⏱️",
+   "start": 9.447,
+   "countdownStart": 11.358,
+   "reveal": 13.858,
+   "end": 17.121
+  },
+  {
+   "q": "Botanically, **bananas** are…?",
+   "answers": [
+    "Berries",
+    "Vegetables",
+    "Nuts",
+    "Herbs"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🍌  🔬",
+   "start": 17.121,
+   "countdownStart": 19.437,
+   "reveal": 21.937,
+   "end": 25.506
+  }
+ ],
+ "audio": "audio/trap-3-2.mp3",
+ "outroStart": 25.506,
+ "durationInSeconds": 25.506
+}

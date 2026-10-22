@@ -1,0 +1,37 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "Trivia",
+ "header": "SCIENCE QUIZ",
+ "hook": "ONLY 1 IN 10 GET THIS 🤯",
+ "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+ "finalLabel": "",
+ "ctaText": "Follow if you got it ✅",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get it?",
+ "outroSub": "Comment 👇",
+ "questions": [
+  {
+   "q": "How long does **sunlight** take to reach Earth?",
+   "answers": [
+    "8 seconds",
+    "8 hours",
+    "8 minutes",
+    "8 days"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "image": "bilder/q2-sun.jpg",
+   "start": 0.0,
+   "countdownStart": 6.244,
+   "reveal": 11.244,
+   "end": 15.967
+  }
+ ],
+ "audio": "audio/one-q-sunlight.mp3",
+ "outroStart": 15.967,
+ "durationInSeconds": 15.967
+}
