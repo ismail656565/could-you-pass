@@ -116,3 +116,15 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 ### Thumbnails
 - Noch keine thumbTest-Ergebnisse: alle 5 Tests stehen weiter auf Variante A (CL seit 18.10. = 4 Tage → erste Umschaltung auf B steht an). Emoji-Video O→A umgeschaltet; Analytics-CTR-Abfrage gab HttpError 400 → Fallback views/day.
 - 2026-10-23 00:31 (Screenshot Besitzer, Studio nach 8 h 32 min): 1-Frage-Ego-Hook "How Long Does Sunlight Take to Reach Earth?" (17 s) → 19 Views, 9 engaged, **69,2 % stayed** (erstmals über Ziel 65 %; 6-Fragen-Baseline ~45–57 %), **Ø angesehen 825,6 %** (viele Loops), 1 Like, Rang 9/10 nach Views. Retention top, aber Ausspielung noch winzig (Stichprobe ~13 Zuschauer) → nicht überbewerten; Verdict nach 3 Tagen + 2. Datenpunkt Titanic (23.10.).
+
+## 2026-10-23 (Morgenlauf, Queue: 23.10. war schon voll → nur langes Video für 24.10.)
+### Shorts
+- Erstmals Analytics für einen 3-Fragen-Short: "3 Halloween Questions" (19.10.) 363 Views, **stayed nur 34,7 %**, Ø angesehen 61 % → schlechter als die 6-Fragen-Baseline (stayed 45–57 %). 3 Fragen allein bringt also KEINEN besseren Swipe-Wert; der Hook (Q1) entscheidet. 4-Fragen-Halloween 304 public Views nach ~1,5 T.
+- 6-Fragen-Shorts weiter Decke 1,2–1,4k ("Only Geniuses Get 6/6" jetzt 1417 = bester Short, stayed 57,4 %, Ø 63 %).
+- 1-Frage-Ego-Hook (Sonnenlicht) 69 % stayed laut Studio = bisher einziger Short über Ziel 65 % → Titanic (23.10.) ist der Bestätigungstest. Verdict Länge 3/4/1 vs. 6 am 25./26.10.
+### Lange Videos
+- Report (22.10. 11:29): Halloween-35 (19.10.) 63 public Views (Analytics: 2 Views, Ø 70 % angesehen), Over-60-Memory (20.10.) 24, Halloween-If-you-get-25 (21.10.) 25, IQ-40 (22.10.) noch 0. impressions/ctr bleiben leer → Ursache weiter unklar; Retention der wenigen Zuschauer gut (70 %).
+- 24.10.: 50-Fragen-Allgemeinwissen "General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent" (Titeltyp If-you-get-X erstmals bei GK, nicht Halloween) – Vergleich mit 1960s-50 (23.10., Jahrzehnt-Thema).
+### Thumbnails
+- CL-Test: A (neon) 3 Views in 4 Tagen (0,75/Tag) → seit 22.10. Variante B. Emoji-Video: Original O 24,5 Views/Tag (Startschub), jetzt A. Thumbnail-CTR über die Analytics-API liefert weiter HttpError 400 → nur views/day-Fallback; bei so wenig Views noch kein Stil-Sieger ableitbar.
+- Kanal: 6 Abonnenten gesamt (je 1 Abo durch Emoji-Long, Geo-Trap, Emoji-Länder, IQ-Test).

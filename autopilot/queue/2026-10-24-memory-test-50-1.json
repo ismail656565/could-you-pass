@@ -1,0 +1,859 @@
+{
+ "id": "memory-test-50-1",
+ "timing": {
+  "count": 6.0,
+  "tail": 1.5,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Welcome back, quiz friends! Grab a pen and keep score. Fifty questions, from easy to legend. If you get forty right, your memory is excellent. Let's go! Which animal is the tallest in the world?",
+   "a": "The giraffe! Its neck alone is about two metres long."
+  },
+  {
+   "q": "Which is the largest mammal on Earth?",
+   "a": "The blue whale! Bigger than any dinosaur we know of."
+  },
+  {
+   "q": "What is the capital of Egypt?",
+   "a": "Cairo! It sits right on the river Nile."
+  },
+  {
+   "q": "Which ocean lies between Europe and America?",
+   "a": "The Atlantic! The second largest ocean on Earth."
+  },
+  {
+   "q": "Who wrote the play Hamlet?",
+   "a": "William Shakespeare! To be, or not to be."
+  },
+  {
+   "q": "How many colours are in a rainbow?",
+   "a": "Seven! Red, orange, yellow, green, blue, indigo and violet."
+  },
+  {
+   "q": "In which country is the Taj Mahal?",
+   "a": "India! An emperor built it in memory of his wife."
+  },
+  {
+   "q": "Who was known as the Iron Lady?",
+   "a": "Margaret Thatcher! A Soviet newspaper gave her that nickname."
+  },
+  {
+   "q": "Which singer recorded the song Jolene?",
+   "a": "Dolly Parton! She wrote it herself, too."
+  },
+  {
+   "q": "How many legs does an insect have?",
+   "a": "Six! Spiders have eight, so they're not insects at all."
+  },
+  {
+   "q": "Now it gets a little harder. What is the capital of Portugal?",
+   "a": "Lisbon! One of the oldest cities in Western Europe."
+  },
+  {
+   "q": "Who painted the famous Water Lilies?",
+   "a": "Claude Monet! He painted the pond in his own garden at Giverny."
+  },
+  {
+   "q": "What is the largest organ of the human body?",
+   "a": "Your skin! The liver is the largest one inside you. Sneaky one, I know."
+  },
+  {
+   "q": "Which metal is liquid at room temperature?",
+   "a": "Mercury! It was once in nearly every thermometer."
+  },
+  {
+   "q": "Who first climbed Mount Everest, together with Tenzing Norgay?",
+   "a": "Edmund Hillary! In May nineteen fifty-three."
+  },
+  {
+   "q": "Which nineteen thirty-nine film features Rhett Butler?",
+   "a": "Gone with the Wind! Clark Gable played him."
+  },
+  {
+   "q": "How many strings does a standard guitar have?",
+   "a": "Six! A bass guitar usually has just four."
+  },
+  {
+   "q": "In which country was paper invented?",
+   "a": "China! Around two thousand years ago."
+  },
+  {
+   "q": "Who wrote the novel nineteen eighty-four?",
+   "a": "George Orwell! It gave us the phrase Big Brother."
+  },
+  {
+   "q": "Sunlight helps your body make which vitamin?",
+   "a": "Vitamin D! Great for strong bones."
+  },
+  {
+   "q": "Welcome to the hard round. Which is the smallest ocean in the world?",
+   "a": "The Arctic Ocean! Much of it is covered in ice."
+  },
+  {
+   "q": "What is the capital of Morocco?",
+   "a": "Rabat! Not Casablanca, which is the biggest city. That one catches so many people."
+  },
+  {
+   "q": "Who made the first successful polio vaccine?",
+   "a": "Jonas Salk! It was declared safe in nineteen fifty-five."
+  },
+  {
+   "q": "In which year did Elizabeth the Second become queen?",
+   "a": "Nineteen fifty-two! Her coronation came a year later."
+  },
+  {
+   "q": "Which planet has the Great Red Spot?",
+   "a": "Jupiter! It's a giant storm, wider than Earth. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Who composed the opera The Magic Flute?",
+   "a": "Mozart! He wrote it in the last year of his life."
+  },
+  {
+   "q": "Who played Rick in the film Casablanca?",
+   "a": "Humphrey Bogart! Here's looking at you, kid."
+  },
+  {
+   "q": "What is the chemical symbol for silver?",
+   "a": "A G! From the Latin word argentum. Gold is A U."
+  },
+  {
+   "q": "Which is the longest river in Europe?",
+   "a": "The Volga! The Danube is only second."
+  },
+  {
+   "q": "Which country did the band ABBA come from?",
+   "a": "Sweden! They won Eurovision in nineteen seventy-four with Waterloo."
+  },
+  {
+   "q": "Now it gets very hard. What is the capital of Pakistan?",
+   "a": "Islamabad! Karachi is much bigger, but it isn't the capital."
+  },
+  {
+   "q": "How many teeth does an adult usually have?",
+   "a": "Thirty-two! That includes the four wisdom teeth."
+  },
+  {
+   "q": "Who was the first to reach India by sea from Europe, in fourteen ninety-eight?",
+   "a": "Vasco da Gama! He sailed around the southern tip of Africa."
+  },
+  {
+   "q": "In which year did the Wright brothers make their first flight?",
+   "a": "Nineteen oh three! The first flight lasted just twelve seconds."
+  },
+  {
+   "q": "Which is the largest island in the world?",
+   "a": "Greenland! Australia counts as a continent, sorry Australia."
+  },
+  {
+   "q": "Who wrote the novel War and Peace?",
+   "a": "Leo Tolstoy! More than half a million words long."
+  },
+  {
+   "q": "Which instrument did Louis Armstrong play?",
+   "a": "The trumpet! His nickname was Satchmo."
+  },
+  {
+   "q": "What is the most common element in the universe?",
+   "a": "Hydrogen! Stars are mostly made of it."
+  },
+  {
+   "q": "Who played Cleopatra in the nineteen sixty-three film?",
+   "a": "Elizabeth Taylor! One of the most expensive films ever made."
+  },
+  {
+   "q": "In which year was Magna Carta sealed?",
+   "a": "Twelve fifteen! King John sealed it at Runnymede."
+  },
+  {
+   "q": "Welcome to the legend round! Which country has three capital cities?",
+   "a": "South Africa! Pretoria, Cape Town and Bloemfontein."
+  },
+  {
+   "q": "Who was the first Roman emperor?",
+   "a": "Augustus! Julius Caesar was never emperor."
+  },
+  {
+   "q": "What is the smallest bone in the human body?",
+   "a": "The stapes, deep in your ear! Only about three millimetres long."
+  },
+  {
+   "q": "Who discovered the planet Uranus?",
+   "a": "William Herschel! In seventeen eighty-one, from his garden in Bath."
+  },
+  {
+   "q": "In which year did the Suez Canal open?",
+   "a": "Eighteen sixty-nine! The Panama Canal followed in nineteen fourteen."
+  },
+  {
+   "q": "Who composed Bolero?",
+   "a": "Maurice Ravel! Torvill and Dean skated to it in nineteen eighty-four."
+  },
+  {
+   "q": "Which mammal has the longest pregnancy?",
+   "a": "The African elephant! Almost two years."
+  },
+  {
+   "q": "Three left, stay with me! Who was the first woman to fly solo across the Atlantic?",
+   "a": "Amelia Earhart! In nineteen thirty-two."
+  },
+  {
+   "q": "How many time zones does Russia have?",
+   "a": "Eleven! From the Baltic Sea to the Pacific."
+  },
+  {
+   "q": "Last one. Which country was the first to let women vote in national elections?",
+   "a": "New Zealand! In eighteen ninety-three. Finland was first in Europe."
+  }
+ ],
+ "youtube": {
+  "title": "General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent 🧠 | 50 Questions",
+  "description": "50 general knowledge questions – history, geography, science, nature, music, classic films and famous people – from EASY to LEGEND 🧠 Get 40 or more right and your memory is excellent!\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeneralKnowledgeQuiz #MemoryTest #TriviaQuiz #Quiz #BrainTest #QuizForSeniors\n\nMusic: original.",
+  "tags": [
+   "general knowledge quiz",
+   "memory test",
+   "trivia quiz",
+   "50 question quiz",
+   "quiz for seniors",
+   "general knowledge test",
+   "brain test",
+   "pub quiz",
+   "trivia questions and answers"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 50? 🧠 Which question surprised you most? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "neon",
+  "title": "General Knowledge Quiz",
+  "header": "MEMORY TEST",
+  "hook": "CAN YOU GET 40/50? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "MEMORY **TEST**",
+   "CAN YOU GET **40/50**?",
+   "ONLY 1 IN 10 GET **#50**"
+  ],
+  "thumbEmoji": "🧠",
+  "thumbBadge": "50 QUESTIONS 🧠 EASY → LEGEND",
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "questions": [
+   {
+    "q": "Which animal is the **tallest** in the world?",
+    "answers": [
+     "Elephant",
+     "Giraffe",
+     "Camel",
+     "Ostrich"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌍  📏"
+   },
+   {
+    "q": "Which is the **largest** mammal on Earth?",
+    "answers": [
+     "African elephant",
+     "Sperm whale",
+     "Blue whale",
+     "Hippo"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🌍  🐾"
+   },
+   {
+    "q": "What is the capital of **Egypt**?",
+    "answers": [
+     "Alexandria",
+     "Cairo",
+     "Luxor",
+     "Giza"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🏜️  🐪"
+   },
+   {
+    "q": "Which **ocean** lies between Europe and America?",
+    "answers": [
+     "Pacific",
+     "Indian",
+     "Arctic",
+     "Atlantic"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🌊  🚢"
+   },
+   {
+    "q": "Who wrote **Hamlet**?",
+    "answers": [
+     "Charles Dickens",
+     "William Shakespeare",
+     "John Milton",
+     "Geoffrey Chaucer"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🎭  💀"
+   },
+   {
+    "q": "How many **colours** are in a rainbow?",
+    "answers": [
+     "Five",
+     "Six",
+     "Seven",
+     "Eight"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🌈  🎨"
+   },
+   {
+    "q": "In which country is the **Taj Mahal**?",
+    "answers": [
+     "India",
+     "Pakistan",
+     "Iran",
+     "Nepal"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🕌  ✨"
+   },
+   {
+    "q": "Who was known as the **Iron Lady**?",
+    "answers": [
+     "Golda Meir",
+     "Indira Gandhi",
+     "Queen Elizabeth",
+     "Margaret Thatcher"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "👩  🏛️"
+   },
+   {
+    "q": "Which singer recorded **Jolene**?",
+    "answers": [
+     "Dolly Parton",
+     "Patsy Cline",
+     "Tammy Wynette",
+     "Loretta Lynn"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🎤  🤠"
+   },
+   {
+    "q": "How many **legs** does an insect have?",
+    "answers": [
+     "Four",
+     "Six",
+     "Eight",
+     "Ten"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🐞  🦗"
+   },
+   {
+    "q": "What is the capital of **Portugal**?",
+    "answers": [
+     "Porto",
+     "Madrid",
+     "Lisbon",
+     "Seville"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🏰  🌊"
+   },
+   {
+    "q": "Who painted the **Water Lilies**?",
+    "answers": [
+     "Renoir",
+     "Claude Monet",
+     "Cézanne",
+     "Degas"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎨  🪷"
+   },
+   {
+    "q": "What is the **largest** organ of the human body?",
+    "answers": [
+     "Liver",
+     "Brain",
+     "Lungs",
+     "Skin"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🧍  🔍"
+   },
+   {
+    "q": "Which metal is **liquid** at room temperature?",
+    "answers": [
+     "Mercury",
+     "Lead",
+     "Tin",
+     "Zinc"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🌡️  💧"
+   },
+   {
+    "q": "Who first climbed **Everest** with Tenzing Norgay?",
+    "answers": [
+     "George Mallory",
+     "Edmund Hillary",
+     "Reinhold Messner",
+     "Chris Bonington"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏔️  🧗"
+   },
+   {
+    "q": "Which 1939 film features **Rhett Butler**?",
+    "answers": [
+     "Casablanca",
+     "Ben-Hur",
+     "Gone with the Wind",
+     "Rebecca"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🎬  1939"
+   },
+   {
+    "q": "How many **strings** does a standard guitar have?",
+    "answers": [
+     "Four",
+     "Five",
+     "Six",
+     "Seven"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🎸  🎶"
+   },
+   {
+    "q": "In which country was **paper** invented?",
+    "answers": [
+     "Egypt",
+     "Greece",
+     "India",
+     "China"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "📜  ✍️"
+   },
+   {
+    "q": "Who wrote the novel **1984**?",
+    "answers": [
+     "Aldous Huxley",
+     "George Orwell",
+     "H. G. Wells",
+     "Ray Bradbury"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "📖  👁️"
+   },
+   {
+    "q": "Sunlight helps your body make which **vitamin**?",
+    "answers": [
+     "Vitamin D",
+     "Vitamin C",
+     "Vitamin A",
+     "Vitamin B12"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "☀️  💊"
+   },
+   {
+    "q": "Which is the **smallest** ocean?",
+    "answers": [
+     "Indian",
+     "Southern",
+     "Atlantic",
+     "Arctic"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🌊  📏"
+   },
+   {
+    "q": "What is the capital of **Morocco**?",
+    "answers": [
+     "Casablanca",
+     "Rabat",
+     "Marrakesh",
+     "Fez"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🕌  🐪"
+   },
+   {
+    "q": "Who made the first successful **polio vaccine**?",
+    "answers": [
+     "Louis Pasteur",
+     "Edward Jenner",
+     "Jonas Salk",
+     "Alexander Fleming"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "💉  🧪"
+   },
+   {
+    "q": "In which year did **Elizabeth II** become queen?",
+    "answers": [
+     "1947",
+     "1952",
+     "1953",
+     "1956"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "👑  📅"
+   },
+   {
+    "q": "Which planet has the **Great Red Spot**?",
+    "answers": [
+     "Mars",
+     "Saturn",
+     "Jupiter",
+     "Neptune"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🪐  🔴"
+   },
+   {
+    "q": "Who composed **The Magic Flute**?",
+    "answers": [
+     "Mozart",
+     "Haydn",
+     "Wagner",
+     "Verdi"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🎼  🪈"
+   },
+   {
+    "q": "Who played Rick in **Casablanca**?",
+    "answers": [
+     "Clark Gable",
+     "Cary Grant",
+     "James Stewart",
+     "Humphrey Bogart"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🎬  🎹"
+   },
+   {
+    "q": "What is the chemical symbol for **silver**?",
+    "answers": [
+     "Si",
+     "Ag",
+     "Sv",
+     "Au"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🥈  🧪"
+   },
+   {
+    "q": "Which is the **longest** river in Europe?",
+    "answers": [
+     "Danube",
+     "Rhine",
+     "Volga",
+     "Dnieper"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🏞️  🚣"
+   },
+   {
+    "q": "Which country did **ABBA** come from?",
+    "answers": [
+     "Norway",
+     "Sweden",
+     "Denmark",
+     "Finland"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🎤  🪩"
+   },
+   {
+    "q": "What is the capital of **Pakistan**?",
+    "answers": [
+     "Islamabad",
+     "Karachi",
+     "Lahore",
+     "Peshawar"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🏙️  🗺️"
+   },
+   {
+    "q": "How many **teeth** does an adult usually have?",
+    "answers": [
+     "28",
+     "30",
+     "32",
+     "36"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🦷  😁"
+   },
+   {
+    "q": "Who first reached **India** by sea from Europe?",
+    "answers": [
+     "Columbus",
+     "Magellan",
+     "John Cabot",
+     "Vasco da Gama"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "⛵  1498"
+   },
+   {
+    "q": "When did the **Wright brothers** first fly?",
+    "answers": [
+     "1899",
+     "1903",
+     "1908",
+     "1911"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "✈️  🛩️"
+   },
+   {
+    "q": "Which is the **largest island** in the world?",
+    "answers": [
+     "Borneo",
+     "New Guinea",
+     "Greenland",
+     "Madagascar"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🏝️  🗺️"
+   },
+   {
+    "q": "Who wrote **War and Peace**?",
+    "answers": [
+     "Leo Tolstoy",
+     "Dostoevsky",
+     "Chekhov",
+     "Pushkin"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "📚  ⚔️"
+   },
+   {
+    "q": "Which instrument did **Louis Armstrong** play?",
+    "answers": [
+     "Saxophone",
+     "Clarinet",
+     "Trombone",
+     "Trumpet"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🎶  🎙️"
+   },
+   {
+    "q": "What is the most common **element** in the universe?",
+    "answers": [
+     "Oxygen",
+     "Hydrogen",
+     "Helium",
+     "Carbon"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "✨  ⚛️"
+   },
+   {
+    "q": "Who played **Cleopatra** in the 1963 film?",
+    "answers": [
+     "Sophia Loren",
+     "Vivien Leigh",
+     "Elizabeth Taylor",
+     "Ava Gardner"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🎬  👑"
+   },
+   {
+    "q": "In which year was **Magna Carta** sealed?",
+    "answers": [
+     "1066",
+     "1215",
+     "1314",
+     "1415"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "📜  👑"
+   },
+   {
+    "q": "Which country has **three** capital cities?",
+    "answers": [
+     "Switzerland",
+     "Bolivia",
+     "South Africa",
+     "Netherlands"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🏛️  3"
+   },
+   {
+    "q": "Who was the **first** Roman emperor?",
+    "answers": [
+     "Augustus",
+     "Julius Caesar",
+     "Nero",
+     "Caligula"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🏛️  ⚔️"
+   },
+   {
+    "q": "What is the **smallest** bone in the body?",
+    "answers": [
+     "Hyoid",
+     "Coccyx",
+     "Incus",
+     "Stapes"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🦴  👂"
+   },
+   {
+    "q": "Who discovered the planet **Uranus**?",
+    "answers": [
+     "Galileo",
+     "William Herschel",
+     "Copernicus",
+     "Johannes Kepler"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🔭  🪐"
+   },
+   {
+    "q": "In which year did the **Suez Canal** open?",
+    "answers": [
+     "1869",
+     "1889",
+     "1904",
+     "1914"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🚢  🏜️"
+   },
+   {
+    "q": "Who composed **Boléro**?",
+    "answers": [
+     "Debussy",
+     "Bizet",
+     "Maurice Ravel",
+     "Erik Satie"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🎼  ⛸️"
+   },
+   {
+    "q": "Which mammal has the **longest** pregnancy?",
+    "answers": [
+     "Blue whale",
+     "Giraffe",
+     "Rhino",
+     "African elephant"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🤰  ⏳"
+   },
+   {
+    "q": "First woman to fly **solo** across the Atlantic?",
+    "answers": [
+     "Amelia Earhart",
+     "Amy Johnson",
+     "Bessie Coleman",
+     "Jean Batten"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "✈️  🌊"
+   },
+   {
+    "q": "How many **time zones** does Russia have?",
+    "answers": [
+     "Seven",
+     "Nine",
+     "Eleven",
+     "Thirteen"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🕰️  🌍"
+   },
+   {
+    "q": "Which country first let women **vote** nationally?",
+    "answers": [
+     "United Kingdom",
+     "New Zealand",
+     "United States",
+     "Finland"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🗳️  👩"
+   }
+  ]
+ }
+}
