@@ -1,0 +1,37 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "Trivia",
+ "header": "HISTORY QUIZ",
+ "hook": "ONLY 1 IN 10 GET THIS 🤯",
+ "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+ "finalLabel": "",
+ "ctaText": "Follow if you got it ✅",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get it?",
+ "outroSub": "Comment 👇",
+ "questions": [
+  {
+   "q": "How long did the **Titanic** take to sink?",
+   "answers": [
+    "20 minutes",
+    "1 hour",
+    "2 hours 40 min",
+    "6 hours"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "image": "bilder/mv-titanic.jpg",
+   "start": 0.0,
+   "countdownStart": 6.255,
+   "reveal": 11.255,
+   "end": 16.059
+  }
+ ],
+ "audio": "audio/one-q-titanic.mp3",
+ "outroStart": 16.059,
+ "durationInSeconds": 16.059
+}

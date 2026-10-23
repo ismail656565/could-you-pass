@@ -50,8 +50,24 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "image": "bilder/mv-titanic.jpg"
+    "image": "bilder/mv-titanic.jpg",
+    "start": 0.0,
+    "countdownStart": 6.255,
+    "reveal": 11.255,
+    "end": 16.059
    }
-  ]
- }
+  ],
+  "audio": "audio/one-q-titanic.mp3",
+  "outroStart": 16.059,
+  "durationInSeconds": 16.059
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-10-23T16:00+02:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "fRbyHYIaBU8",
+  "at": "2026-10-23T05:18"
+ },
+ "linkedLong": "aGlyDlB6tGY"
 }

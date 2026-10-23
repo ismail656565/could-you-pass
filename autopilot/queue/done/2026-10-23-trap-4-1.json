@@ -60,7 +60,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "image": "bilder/q2-octopus.jpg"
+    "image": "bilder/q2-octopus.jpg",
+    "start": 0.0,
+    "countdownStart": 1.761,
+    "reveal": 4.261,
+    "end": 7.196
    },
    {
     "q": "Which country has the **longest coastline**?",
@@ -72,7 +76,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🌊  🗺️"
+    "cardText": "🌊  🗺️",
+    "start": 7.196,
+    "countdownStart": 9.894,
+    "reveal": 12.394,
+    "end": 17.394
    },
    {
     "q": "What is the **largest desert** on Earth?",
@@ -84,7 +92,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🏜️  ❄️"
+    "cardText": "🏜️  ❄️",
+    "start": 17.394,
+    "countdownStart": 19.476,
+    "reveal": 21.976,
+    "end": 25.656
    },
    {
     "q": "Which animal has **fingerprints** like ours?",
@@ -96,8 +108,24 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🖐️  🔍"
+    "cardText": "🖐️  🔍",
+    "start": 25.656,
+    "countdownStart": 29.266,
+    "reveal": 31.766,
+    "end": 35.166
    }
-  ]
- }
+  ],
+  "audio": "audio/trap-4-1.mp3",
+  "outroStart": 35.166,
+  "durationInSeconds": 35.166
+ },
+ "publishAt": "21:00",
+ "scheduledFor": "2026-10-23T21:00+02:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "-F_-f23RfHM",
+  "at": "2026-10-23T05:22"
+ },
+ "linkedLong": "aGlyDlB6tGY"
 }

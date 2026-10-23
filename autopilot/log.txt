@@ -217,3 +217,37 @@
 [2026-10-22 12:47:40] trap-3-2: noch nicht öffentlich – Kommentar später
 [2026-10-22 13:50:36] one-q-sunlight: noch nicht öffentlich – Kommentar später
 [2026-10-22 13:50:36] trap-3-2: noch nicht öffentlich – Kommentar später
+[2026-10-23 05:16:47] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-23 05:16:47] Analytics gespeichert (24 Videos)
+[2026-10-23 05:16:48] one-q-sunlight: Kommentar gepostet
+[2026-10-23 05:16:48] trap-3-2: Kommentar gepostet
+[2026-10-23 05:16:49] Thumbnail-Test halloween-quiz-35: Variante A → {'views': 36, 'ctr': 9.0, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-23 05:16:51] Thumbnail-Test halloween-quiz-35: jetzt Variante B
+[2026-10-23 05:16:51] Thumbnail-Test pl-quiz-20: Variante A → {'views': 5, 'ctr': 1.25, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-23 05:16:53] Thumbnail-Test pl-quiz-20: jetzt Variante B
+[2026-10-23 05:16:53] Produziere one-q-titanic (short)
+[2026-10-23 05:16:53] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-23 05:17:04] Ton fertig: 16.1 s
+[2026-10-23 05:18:56] Gerendert
+[2026-10-23 05:18:59] Hochgeladen: https://youtube.com/watch?v=fRbyHYIaBU8 (private)
+[2026-10-23 05:18:59] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-23 05:18:59] Geplant für 23.10. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-23 05:18:59] Produziere trap-4-1 (short)
+[2026-10-23 05:18:59] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-23 05:19:21] Ton fertig: 35.2 s
+[2026-10-23 05:22:47] Gerendert
+[2026-10-23 05:22:50] Hochgeladen: https://youtube.com/watch?v=-F_-f23RfHM (private)
+[2026-10-23 05:22:51] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-23 05:22:51] Geplant für 23.10. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-23 05:22:51] Kein short-Video in der Warteschlange.
+[2026-10-23 05:22:51] Produziere sixties-quiz-50-1 (long)
+[2026-10-23 05:22:51] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-23 05:28:16] Ton fertig: 732.7 s
+[2026-10-23 06:38:53] Gerendert
+[2026-10-23 06:39:11] Hochgeladen: https://youtube.com/watch?v=aGlyDlB6tGY (private)
+[2026-10-23 06:39:14] Vorschaubild gesetzt
+[2026-10-23 06:39:14] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-10-23 06:39:14] Geplant für 23.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-23 06:39:14] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-10-23 06:39:15] Short-Beschreibung (trap-4-1) verlinkt auf langes Video aGlyDlB6tGY
+[2026-10-23 06:39:16] Short-Beschreibung (one-q-titanic) verlinkt auf langes Video aGlyDlB6tGY

@@ -1,0 +1,834 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "neon",
+ "title": "1960s Trivia Quiz",
+ "header": "1960s QUIZ",
+ "hook": "CAN YOU GET 40/50? 🎸",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 19,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "1960s TRIVIA **QUIZ**",
+  "CAN YOU GET **40/50**?",
+  "DO YOU **REMEMBER** THE 60s?"
+ ],
+ "thumbEmoji": "🎸",
+ "thumbBadge": "50 QUESTIONS 🎸 EASY → LEGEND",
+ "cardColors": [
+  "#7F1D1D",
+  "#2A0A0A"
+ ],
+ "questions": [
+  {
+   "q": "Which band was called the **Fab Four**?",
+   "answers": [
+    "The Rolling Stones",
+    "The Beatles",
+    "The Beach Boys",
+    "The Who"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🎸  🎤",
+   "start": 0.0,
+   "countdownStart": 12.394,
+   "reveal": 18.394,
+   "end": 22.345
+  },
+  {
+   "q": "Which **city** did the Beatles come from?",
+   "answers": [
+    "Manchester",
+    "London",
+    "Liverpool",
+    "Birmingham"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🎸  🏙️",
+   "start": 22.345,
+   "countdownStart": 24.389,
+   "reveal": 30.389,
+   "end": 34.885
+  },
+  {
+   "q": "In 1961, which city was split by a **wall**?",
+   "answers": [
+    "Berlin",
+    "Vienna",
+    "Prague",
+    "Warsaw"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🧱  1961",
+   "start": 34.885,
+   "countdownStart": 38.49,
+   "reveal": 44.49,
+   "end": 48.459
+  },
+  {
+   "q": "Which country sent the **first man** into space?",
+   "answers": [
+    "USA",
+    "United Kingdom",
+    "France",
+    "Soviet Union"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🚀  1961",
+   "start": 48.459,
+   "countdownStart": 52.077,
+   "reveal": 58.077,
+   "end": 63.071
+  },
+  {
+   "q": "Which doll got a boyfriend named **Ken** in 1961?",
+   "answers": [
+    "Sindy",
+    "Raggedy Ann",
+    "Barbie",
+    "Chatty Cathy"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🎀  💑",
+   "start": 63.071,
+   "countdownStart": 66.718,
+   "reveal": 72.718,
+   "end": 76.837
+  },
+  {
+   "q": "Who gave the **I Have a Dream** speech?",
+   "answers": [
+    "Malcolm X",
+    "Martin Luther King Jr.",
+    "Jesse Jackson",
+    "John F. Kennedy"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🎙️  1963",
+   "start": 76.837,
+   "countdownStart": 80.319,
+   "reveal": 86.319,
+   "end": 91.377
+  },
+  {
+   "q": "Which 1969 festival was held on a **dairy farm**?",
+   "answers": [
+    "Monterey Pop",
+    "Isle of Wight",
+    "Altamont",
+    "Woodstock"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🎶  🐄",
+   "start": 91.377,
+   "countdownStart": 96.139,
+   "reveal": 102.139,
+   "end": 106.394
+  },
+  {
+   "q": "Which spy first hit cinemas in **Dr. No** (1962)?",
+   "answers": [
+    "James Bond",
+    "Harry Palmer",
+    "Napoleon Solo",
+    "Jason Bourne"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🕶️  🍸",
+   "start": 106.394,
+   "countdownStart": 110.602,
+   "reveal": 116.602,
+   "end": 120.406
+  },
+  {
+   "q": "Which country won the **1966** World Cup?",
+   "answers": [
+    "Brazil",
+    "England",
+    "West Germany",
+    "Italy"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "⚽  🏆",
+   "start": 120.406,
+   "countdownStart": 123.745,
+   "reveal": 129.745,
+   "end": 133.711
+  },
+  {
+   "q": "Who said **float like a butterfly**, sting like a bee?",
+   "answers": [
+    "Joe Frazier",
+    "Sonny Liston",
+    "Muhammad Ali",
+    "George Foreman"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🦋  🐝",
+   "start": 133.711,
+   "countdownStart": 136.544,
+   "reveal": 142.544,
+   "end": 147.139
+  },
+  {
+   "q": "Which mission first landed men on the **Moon**?",
+   "answers": [
+    "Apollo 13",
+    "Gemini 4",
+    "Vostok 1",
+    "Apollo 11"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🌕  1969",
+   "start": 147.139,
+   "countdownStart": 151.088,
+   "reveal": 157.088,
+   "end": 161.463
+  },
+  {
+   "q": "Which 1966 TV show launched the **Enterprise**?",
+   "answers": [
+    "Star Trek",
+    "Lost in Space",
+    "Doctor Who",
+    "Thunderbirds"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🖖  📺",
+   "start": 161.463,
+   "countdownStart": 165.271,
+   "reveal": 171.271,
+   "end": 175.91
+  },
+  {
+   "q": "Who was the **first woman** in space?",
+   "answers": [
+    "Sally Ride",
+    "Svetlana Savitskaya",
+    "Valentina Tereshkova",
+    "Mae Jemison"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "👩‍🚀  1963",
+   "start": 175.91,
+   "countdownStart": 177.915,
+   "reveal": 183.915,
+   "end": 190.607
+  },
+  {
+   "q": "Which model was named **The Face of '66**?",
+   "answers": [
+    "Jean Shrimpton",
+    "Twiggy",
+    "Pattie Boyd",
+    "Penelope Tree"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "📸  1966",
+   "start": 190.607,
+   "countdownStart": 193.577,
+   "reveal": 199.577,
+   "end": 203.23
+  },
+  {
+   "q": "Designer **Mary Quant** made which item famous?",
+   "answers": [
+    "The miniskirt",
+    "Bell-bottoms",
+    "The bikini",
+    "Platform shoes"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "👗  ✂️",
+   "start": 203.23,
+   "countdownStart": 206.302,
+   "reveal": 212.302,
+   "end": 216.198
+  },
+  {
+   "q": "Who became US President after **JFK** was killed?",
+   "answers": [
+    "Richard Nixon",
+    "Dwight Eisenhower",
+    "Gerald Ford",
+    "Lyndon B. Johnson"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🏛️  1963",
+   "start": 216.198,
+   "countdownStart": 220.034,
+   "reveal": 226.034,
+   "end": 230.731
+  },
+  {
+   "q": "Which 1962 crisis nearly started a **nuclear war**?",
+   "answers": [
+    "Suez Crisis",
+    "Cuban Missile Crisis",
+    "Bay of Pigs",
+    "Berlin Airlift"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "☢️  1962",
+   "start": 230.731,
+   "countdownStart": 234.291,
+   "reveal": 240.291,
+   "end": 245.091
+  },
+  {
+   "q": "Which band sang **My Generation** in 1965?",
+   "answers": [
+    "The Kinks",
+    "Small Faces",
+    "The Who",
+    "The Animals"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🎸  1965",
+   "start": 245.091,
+   "countdownStart": 248.26,
+   "reveal": 254.26,
+   "end": 257.529
+  },
+  {
+   "q": "Who played **Mary Poppins** in 1964?",
+   "answers": [
+    "Julie Andrews",
+    "Audrey Hepburn",
+    "Petula Clark",
+    "Hayley Mills"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "☂️  🎬",
+   "start": 257.529,
+   "countdownStart": 260.614,
+   "reveal": 266.614,
+   "end": 270.446
+  },
+  {
+   "q": "Who painted **Campbell's Soup Cans** in 1962?",
+   "answers": [
+    "Roy Lichtenstein",
+    "Jackson Pollock",
+    "David Hockney",
+    "Andy Warhol"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🎨  🥫",
+   "start": 270.446,
+   "countdownStart": 274.504,
+   "reveal": 280.504,
+   "end": 287.891
+  },
+  {
+   "q": "Which 1960 novel did **Harper Lee** write?",
+   "answers": [
+    "Catch-22",
+    "In Cold Blood",
+    "To Kill a Mockingbird",
+    "The Bell Jar"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "📖  1960",
+   "start": 287.891,
+   "countdownStart": 292.208,
+   "reveal": 298.208,
+   "end": 302.646
+  },
+  {
+   "q": "When did the Beatles first play **Ed Sullivan**?",
+   "answers": [
+    "1964",
+    "1962",
+    "1963",
+    "1965"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "📺  🎸",
+   "start": 302.646,
+   "countdownStart": 305.848,
+   "reveal": 311.848,
+   "end": 317.347
+  },
+  {
+   "q": "Who made the first ever **spacewalk**?",
+   "answers": [
+    "Yuri Gagarin",
+    "Ed White",
+    "John Glenn",
+    "Alexei Leonov"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🧑‍🚀  1965",
+   "start": 317.347,
+   "countdownStart": 320.58,
+   "reveal": 326.58,
+   "end": 332.144
+  },
+  {
+   "q": "In which year did **Brasília** become Brazil's capital?",
+   "answers": [
+    "1950",
+    "1960",
+    "1970",
+    "1975"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🏙️  🌎",
+   "start": 332.144,
+   "countdownStart": 335.293,
+   "reveal": 341.293,
+   "end": 346.079
+  },
+  {
+   "q": "Which Motown group was led by **Diana Ross**?",
+   "answers": [
+    "The Ronettes",
+    "The Shirelles",
+    "The Supremes",
+    "The Vandellas"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🎤  ✨",
+   "start": 346.079,
+   "countdownStart": 348.777,
+   "reveal": 354.777,
+   "end": 359.076
+  },
+  {
+   "q": "In which year did **Concorde** first fly?",
+   "answers": [
+    "1969",
+    "1965",
+    "1972",
+    "1976"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "✈️  ☁️",
+   "start": 359.076,
+   "countdownStart": 361.373,
+   "reveal": 367.373,
+   "end": 373.278
+  },
+  {
+   "q": "Which 1960s TV show starred a **talking horse**?",
+   "answers": [
+    "My Friend Flicka",
+    "Mister Ed",
+    "Fury",
+    "Champion"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🐴  💬",
+   "start": 373.278,
+   "countdownStart": 376.568,
+   "reveal": 382.568,
+   "end": 385.922
+  },
+  {
+   "q": "Who was UK Prime Minister in the **late 1960s**?",
+   "answers": [
+    "Edward Heath",
+    "Harold Macmillan",
+    "Alec Douglas-Home",
+    "Harold Wilson"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🏛️",
+   "start": 385.922,
+   "countdownStart": 389.109,
+   "reveal": 395.109,
+   "end": 400.013
+  },
+  {
+   "q": "Which 1967 film features **Mrs. Robinson**?",
+   "answers": [
+    "Bonnie and Clyde",
+    "Midnight Cowboy",
+    "The Graduate",
+    "Easy Rider"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🎬  1967",
+   "start": 400.013,
+   "countdownStart": 403.81,
+   "reveal": 409.81,
+   "end": 413.478
+  },
+  {
+   "q": "Which ballet star **defected** to the West in 1961?",
+   "answers": [
+    "Rudolf Nureyev",
+    "Mikhail Baryshnikov",
+    "Alexander Godunov",
+    "George Balanchine"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🩰  1961",
+   "start": 413.478,
+   "countdownStart": 416.747,
+   "reveal": 422.747,
+   "end": 428.916
+  },
+  {
+   "q": "Who sang **A Whiter Shade of Pale**?",
+   "answers": [
+    "The Moody Blues",
+    "Procol Harum",
+    "The Zombies",
+    "The Hollies"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "🎹  1967",
+   "start": 428.916,
+   "countdownStart": 433.69,
+   "reveal": 439.69,
+   "end": 444.113
+  },
+  {
+   "q": "Which 1962 satellite first beamed **live TV** across the Atlantic?",
+   "answers": [
+    "Sputnik",
+    "Echo",
+    "Explorer",
+    "Telstar"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "📡  📺",
+   "start": 444.113,
+   "countdownStart": 448.533,
+   "reveal": 454.533,
+   "end": 458.341
+  },
+  {
+   "q": "In which city was **Martin Luther King** killed?",
+   "answers": [
+    "Memphis",
+    "Atlanta",
+    "Birmingham",
+    "Dallas"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🕊️  1968",
+   "start": 458.341,
+   "countdownStart": 462.242,
+   "reveal": 468.242,
+   "end": 472.548
+  },
+  {
+   "q": "Who scored a **hat-trick** in the 1966 World Cup final?",
+   "answers": [
+    "Bobby Charlton",
+    "Martin Peters",
+    "Geoff Hurst",
+    "Roger Hunt"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "⚽  ⚽  ⚽",
+   "start": 472.548,
+   "countdownStart": 476.04,
+   "reveal": 482.04,
+   "end": 487.023
+  },
+  {
+   "q": "Which US state was hit by the huge **1964 earthquake**?",
+   "answers": [
+    "California",
+    "Alaska",
+    "Hawaii",
+    "Washington"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "🌋  1964",
+   "start": 487.023,
+   "countdownStart": 491.488,
+   "reveal": 497.488,
+   "end": 503.838
+  },
+  {
+   "q": "Which country had the world's first **female PM**?",
+   "answers": [
+    "India",
+    "Israel",
+    "United Kingdom",
+    "Ceylon (Sri Lanka)"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "👩‍💼  1960",
+   "start": 503.838,
+   "countdownStart": 507.985,
+   "reveal": 513.985,
+   "end": 520.395
+  },
+  {
+   "q": "Who led the **Soviet Union** in the Cuban Missile Crisis?",
+   "answers": [
+    "Nikita Khrushchev",
+    "Leonid Brezhnev",
+    "Joseph Stalin",
+    "Yuri Andropov"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🚢  1962",
+   "start": 520.395,
+   "countdownStart": 523.671,
+   "reveal": 529.671,
+   "end": 534.868
+  },
+  {
+   "q": "Which 1964 musical has **If I Were a Rich Man**?",
+   "answers": [
+    "Hello, Dolly!",
+    "Cabaret",
+    "Fiddler on the Roof",
+    "Oliver!"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🎻  🏠",
+   "start": 534.868,
+   "countdownStart": 539.247,
+   "reveal": 545.247,
+   "end": 550.127
+  },
+  {
+   "q": "Which puppet show featured **International Rescue**?",
+   "answers": [
+    "Stingray",
+    "Captain Scarlet",
+    "Joe 90",
+    "Thunderbirds"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "🚀  🧵",
+   "start": 550.127,
+   "countdownStart": 553.666,
+   "reveal": 559.666,
+   "end": 563.163
+  },
+  {
+   "q": "Who wrote the 1962 novel **A Clockwork Orange**?",
+   "answers": [
+    "Kingsley Amis",
+    "Anthony Burgess",
+    "Aldous Huxley",
+    "Alan Sillitoe"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "📖  🍊",
+   "start": 563.163,
+   "countdownStart": 566.337,
+   "reveal": 572.337,
+   "end": 577.123
+  },
+  {
+   "q": "Who **managed** the Beatles until 1967?",
+   "answers": [
+    "Brian Epstein",
+    "George Martin",
+    "Allen Klein",
+    "Andrew Oldham"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🎸  💼",
+   "start": 577.123,
+   "countdownStart": 581.728,
+   "reveal": 587.728,
+   "end": 593.076
+  },
+  {
+   "q": "Which mission first **orbited the Moon**?",
+   "answers": [
+    "Apollo 7",
+    "Apollo 10",
+    "Apollo 8",
+    "Apollo 1"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🌕  🎄",
+   "start": 593.076,
+   "countdownStart": 597.091,
+   "reveal": 603.091,
+   "end": 607.46
+  },
+  {
+   "q": "Who did the first human **heart transplant**?",
+   "answers": [
+    "Michael DeBakey",
+    "Denton Cooley",
+    "Norman Shumway",
+    "Christiaan Barnard"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "❤️  1967",
+   "start": 607.46,
+   "countdownStart": 611.473,
+   "reveal": 617.473,
+   "end": 622.129
+  },
+  {
+   "q": "Where did Cassius Clay win **Olympic gold**?",
+   "answers": [
+    "Tokyo 1964",
+    "Rome 1960",
+    "Melbourne 1956",
+    "Mexico City 1968"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🥊  🥇",
+   "start": 622.129,
+   "countdownStart": 624.551,
+   "reveal": 630.551,
+   "end": 634.7
+  },
+  {
+   "q": "How much was taken in the **Great Train Robbery**?",
+   "answers": [
+    "About £260,000",
+    "About £26 million",
+    "About £600,000",
+    "About £2.6 million"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🚂  💰",
+   "start": 634.7,
+   "countdownStart": 639.17,
+   "reveal": 645.17,
+   "end": 650.872
+  },
+  {
+   "q": "Mariner 4 sent the first close-ups of which **planet**?",
+   "answers": [
+    "Mars",
+    "Venus",
+    "Mercury",
+    "Jupiter"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🛰️  1965",
+   "start": 650.872,
+   "countdownStart": 655.803,
+   "reveal": 661.803,
+   "end": 666.376
+  },
+  {
+   "q": "Which city hosted the **1968** Olympics?",
+   "answers": [
+    "Tokyo",
+    "Munich",
+    "Mexico City",
+    "Rome"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🏅  1968",
+   "start": 666.376,
+   "countdownStart": 669.552,
+   "reveal": 675.552,
+   "end": 680.268
+  },
+  {
+   "q": "Which band took its name from a **Muddy Waters** song?",
+   "answers": [
+    "The Animals",
+    "The Rolling Stones",
+    "The Yardbirds",
+    "The Kinks"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🎸  🌊",
+   "start": 680.268,
+   "countdownStart": 682.967,
+   "reveal": 688.967,
+   "end": 694.009
+  },
+  {
+   "q": "Who invented the **computer mouse**, shown in 1968?",
+   "answers": [
+    "Douglas Engelbart",
+    "Steve Jobs",
+    "Bill Gates",
+    "Alan Turing"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🖱️  1968",
+   "start": 694.009,
+   "countdownStart": 698.552,
+   "reveal": 704.552,
+   "end": 708.362
+  },
+  {
+   "q": "Who **stayed in orbit** while Apollo 11 landed?",
+   "answers": [
+    "Buzz Aldrin",
+    "Jim Lovell",
+    "Pete Conrad",
+    "Michael Collins"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🌕  🛰️",
+   "start": 708.362,
+   "countdownStart": 712.312,
+   "reveal": 718.312,
+   "end": 722.91
+  }
+ ],
+ "audio": "audio/sixties-quiz-50-1.mp3",
+ "outroStart": 722.91,
+ "durationInSeconds": 732.698
+}
