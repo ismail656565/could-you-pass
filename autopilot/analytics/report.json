@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-23T07:53",
+ "fetched": "2026-10-23T11:29",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
@@ -172,7 +172,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-23&filter",
    "durationSec": 26,
-   "publicViews": "129"
+   "publicViews": "134"
   },
   {
    "id": "MEIWnYy4YJk",
@@ -182,7 +182,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-23&filter",
    "durationSec": 17,
-   "publicViews": "26"
+   "publicViews": "33"
   },
   {
    "id": "faqivgeR7fw",
@@ -192,7 +192,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-23&filter",
    "durationSec": 455,
-   "publicViews": "5"
+   "publicViews": "6"
   },
   {
    "id": "73pAHN8YcDs",
@@ -208,11 +208,11 @@
    "id": "fkrNaaz-gZE",
    "title": "4 Halloween Questions 90% Get Wrong 🎃 #shorts",
    "published": "2026-10-21T08:00:04Z",
-   "retentionError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-23&metrics=audienceWatchRatio%2CrelativeRetentionPerformanc",
+   "retention": [],
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-23&filter",
    "durationSec": 35,
-   "publicViews": "329"
+   "publicViews": "331"
   },
   {
    "id": "APKGqW8fBSI",
@@ -416,7 +416,7 @@
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 182,
-   "publicViews": "131",
+   "publicViews": "132",
    "engagedShare": 0.773
   },
   {
