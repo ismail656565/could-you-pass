@@ -128,3 +128,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 ### Thumbnails
 - CL-Test: A (neon) 3 Views in 4 Tagen (0,75/Tag) → seit 22.10. Variante B. Emoji-Video: Original O 24,5 Views/Tag (Startschub), jetzt A. Thumbnail-CTR über die Analytics-API liefert weiter HttpError 400 → nur views/day-Fallback; bei so wenig Views noch kein Stil-Sieger ableitbar.
 - Kanal: 6 Abonnenten gesamt (je 1 Abo durch Emoji-Long, Geo-Trap, Emoji-Länder, IQ-Test).
+
+## 2026-10-23 – Studio-Screenshots Besitzer (Zielgruppe, 28 Tage)
+- Monatliches Publikum 4,7k, +7 Abos; **99,1 % neue Zuschauer**, 0,9 % gelegentliche, <0,1 % regelmäßige → noch keine Stammzuschauer, Reichweite kommt fast nur über den Shorts-Feed für Fremde.
+- Alter (Views): 13–17 14,2 %, 18–24 6,7 %, 25–34 20,9 %, **35–44 28,7 %**, 45–54 12,9 %, 55–64 2,6 %, **65+ 14,0 %**. Geschlecht 63,9 % männlich. → Kern der Shorts-Zuschauer ist 25–44 (≈50 %), aber 65+ ist schon jetzt die drittgrößte Gruppe → Senioren-Langformat bleibt richtig, Shorts NICHT auf Senioren verengen (Themen für 25–44: Sport, Geo, IQ/Logik, Popkultur 80er–2000er).
+- Geräte (Wiedergabezeit): Mobil 52,6 %, **TV 23,8 %**, Tablet 14,5 %, Computer 8,4 % → fast 40 % große Bildschirme (TV+Tablet) → Thumbnails/Texte im Langformat groß und kontrastreich halten.
+- Länder (Views): USA 25,8 %, Deutschland 21,6 %, Philippinen 8,4 % → Englisch bleibt richtig; Fragen international verständlich halten (keine reinen UK-Insider). Untertitel: 93 % ohne, 4,1 % Englisch.
+- "Beliebt bei neuen Zuschauern": Only Geniuses 6/6 (1,4k), 8 Geography (1,3k), 8 Countries Emoji (1,3k), 6 Questions 90% (1,2k), IQ Test (1,2k) → Formate Trap/Genius, Geografie, Emoji-Länder, IQ sind die Treiber.
