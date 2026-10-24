@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-24T11:23",
+ "fetched": "2026-10-24T15:29",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
@@ -135,9 +135,19 @@
  },
  "videos": [
   {
+   "id": "QWSNFfisve4",
+   "title": "How Many Islands Does Japan Have? 🏝️🤯 #shorts",
+   "published": "2026-10-24T14:00:15Z",
+   "retention": [],
+   "trafficSources": {},
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "durationSec": 19,
+   "publicViews": "66"
+  },
+  {
    "id": "ECEdEibYQPY",
    "title": "General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent 🧠 | 50 Questions",
-   "published": "2026-10-24T06:20:28Z",
+   "published": "2026-10-24T12:00:33Z",
    "retention": [],
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
@@ -152,16 +162,6 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 38,
-   "publicViews": "0"
-  },
-  {
-   "id": "QWSNFfisve4",
-   "title": "How Many Islands Does Japan Have? 🏝️🤯 #shorts",
-   "published": "2026-10-24T05:18:37Z",
-   "retention": [],
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
-   "durationSec": 19,
    "publicViews": "0"
   },
   {
@@ -182,7 +182,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 17,
-   "publicViews": "182"
+   "publicViews": "189"
   },
   {
    "id": "aGlyDlB6tGY",
@@ -202,7 +202,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 26,
-   "publicViews": "273"
+   "publicViews": "296"
   },
   {
    "id": "MEIWnYy4YJk",
@@ -212,7 +212,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 17,
-   "publicViews": "134"
+   "publicViews": "147"
   },
   {
    "id": "faqivgeR7fw",
@@ -742,9 +742,9 @@
     "SUBSCRIBER": 3,
     "YT_SEARCH": 1
    },
-   "ctrError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 384,
-   "publicViews": "38",
+   "publicViews": "39",
    "engagedShare": 0.96
   },
   {
@@ -832,7 +832,7 @@
    },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 24,
-   "publicViews": "195",
+   "publicViews": "194",
    "engagedShare": 0.301
   },
   {
@@ -847,7 +847,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 400,
-   "publicViews": "147",
+   "publicViews": "150",
    "engagedShare": 0.54
   },
   {
@@ -952,7 +952,7 @@
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 182,
-   "publicViews": "136",
+   "publicViews": "138",
    "engagedShare": 0.734
   },
   {

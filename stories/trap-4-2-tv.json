@@ -1,0 +1,86 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "TRIVIA",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which animal **kills** the most people?",
+   "answers": [
+    "Shark",
+    "Snake",
+    "Mosquito",
+    "Hippo"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "image": "bilder/q2-shark.jpg",
+   "start": 0.0,
+   "countdownStart": 2.506,
+   "reveal": 5.006,
+   "end": 9.711
+  },
+  {
+   "q": "Which animal has the **biggest eyes**?",
+   "answers": [
+    "Colossal squid",
+    "Blue whale",
+    "Ostrich",
+    "Giant owl"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "👁️  🌊",
+   "start": 9.711,
+   "countdownStart": 11.994,
+   "reveal": 14.494,
+   "end": 20.254
+  },
+  {
+   "q": "What is the **dot** on a lowercase i called?",
+   "answers": [
+    "A tilde",
+    "A tittle",
+    "A jot",
+    "An umlaut"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "✏️  🔤",
+   "start": 20.254,
+   "countdownStart": 22.56,
+   "reveal": 25.06,
+   "end": 28.111
+  },
+  {
+   "q": "What colour is a plane's **black box**?",
+   "answers": [
+    "Black",
+    "Red",
+    "Yellow",
+    "Orange"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "✈️  📦",
+   "start": 28.111,
+   "countdownStart": 30.576,
+   "reveal": 33.076,
+   "end": 37.463
+  }
+ ],
+ "audio": "audio/trap-4-2-tv.mp3",
+ "outroStart": 37.463,
+ "durationInSeconds": 37.463
+}

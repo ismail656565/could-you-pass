@@ -59,7 +59,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "image": "bilder/q2-shark.jpg"
+    "image": "bilder/q2-shark.jpg",
+    "start": 0.0,
+    "countdownStart": 2.506,
+    "reveal": 5.006,
+    "end": 9.711
    },
    {
     "q": "Which animal has the **biggest eyes**?",
@@ -71,7 +75,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "👁️  🌊"
+    "cardText": "👁️  🌊",
+    "start": 9.711,
+    "countdownStart": 11.994,
+    "reveal": 14.494,
+    "end": 20.254
    },
    {
     "q": "What is the **dot** on a lowercase i called?",
@@ -83,7 +91,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "✏️  🔤"
+    "cardText": "✏️  🔤",
+    "start": 20.254,
+    "countdownStart": 22.56,
+    "reveal": 25.06,
+    "end": 28.111
    },
    {
     "q": "What colour is a plane's **black box**?",
@@ -95,11 +107,26 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "✈️  📦"
+    "cardText": "✈️  📦",
+    "start": 28.111,
+    "countdownStart": 30.576,
+    "reveal": 33.076,
+    "end": 37.463
    }
-  ]
+  ],
+  "audio": "audio/trap-4-2-tv.mp3",
+  "outroStart": 37.463,
+  "durationInSeconds": 37.463
  },
  "id": "trap-4-2-tv",
  "force": true,
- "publishAt": "21:00"
+ "publishAt": "21:00",
+ "scheduledFor": "2026-10-24T21:00+02:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "PUmp7zv9y4o",
+  "at": "2026-10-24T15:32"
+ },
+ "linkedLong": "ECEdEibYQPY"
 }
