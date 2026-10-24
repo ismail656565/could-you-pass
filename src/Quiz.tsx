@@ -2,6 +2,7 @@ import React from 'react';
 import {AbsoluteFill, Audio, Img, Sequence, interpolate, random, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 import {loadFont} from '@remotion/google-fonts/Montserrat';
 import {NeonScene} from './QuizNeon';
+import {TvScene} from './QuizTV';
 import {QuizMascot, type MascotSetting} from './components/Mascot';
 
 // Quiz-Short, Layout B "Knallig & Comic":
@@ -76,8 +77,10 @@ export type QuizStory = {
   ctaText?: string;
   /** Gesamtlänge; ist sie gleich outroStart, gibt es keinen Abspann (Video loopt direkt) */
   durationInSeconds?: number;
-  /** Layout: "comic" (Standard, gelb) oder "neon" (dunkel, leuchtend) */
-  layout?: 'comic' | 'neon';
+  /** Layout: "comic" (Standard, gelb), "neon" (dunkel, leuchtend) oder "tvshow" (klassische TV-Quizshow) */
+  layout?: 'comic' | 'neon' | 'tvshow';
+  /** Foto (public/) für Vorschaubild A im tvshow-Look */
+  thumbImage?: string;
   /** "long" = normales Video im Querformat (Komposition QuizLong) */
   format?: 'short' | 'long';
   /** Vorschaubild-Text für lange Videos */
@@ -681,10 +684,10 @@ export const Quiz: React.FC<QuizStory> = (story) => {
   const total = story.questions.length;
   const hasOutro = (story.durationInSeconds ?? Infinity) - story.outroStart > 0.3;
   return (
-    <AbsoluteFill style={{backgroundColor: story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
+    <AbsoluteFill style={{backgroundColor: story.layout === 'tvshow' ? '#030616' : story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
       {story.questions.map((q, i) => (
         <Sequence key={i} from={f(q.start)} durationInFrames={Math.max(1, f(q.end) - f(q.start))} name={`Frage ${i + 1}`}>
-          {story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
+          {story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
         </Sequence>
       ))}
       {hasOutro ? (

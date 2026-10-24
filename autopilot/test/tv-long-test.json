@@ -1,0 +1,155 @@
+{
+ "id": "tv-long-test",
+ "timing": {
+  "count": 6.0,
+  "tail": 1.5,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Welcome back, quiz friends! Grab a pen and keep score. Fifty questions, from easy to legend. If you get forty right, your memory is excellent. Let's go! Which animal is the tallest in the world?",
+   "a": "The giraffe! Its neck alone is about two metres long."
+  },
+  {
+   "q": "Which is the largest mammal on Earth?",
+   "a": "The blue whale! Bigger than any dinosaur we know of."
+  },
+  {
+   "q": "Now it gets a little harder. What is the capital of Portugal?",
+   "a": "Lisbon! One of the oldest cities in Western Europe."
+  },
+  {
+   "q": "Who painted the famous Water Lilies?",
+   "a": "Claude Monet! He painted the pond in his own garden at Giverny. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Welcome to the hard round. Which is the smallest ocean in the world?",
+   "a": "The Arctic Ocean! Much of it is covered in ice."
+  },
+  {
+   "q": "What is the capital of Morocco?",
+   "a": "Rabat! Not Casablanca, which is the biggest city. That one catches so many people."
+  }
+ ],
+ "youtube": {
+  "title": "General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent 🧠 | 50 Questions",
+  "description": "50 general knowledge questions – history, geography, science, nature, music, classic films and famous people – from EASY to LEGEND 🧠 Get 40 or more right and your memory is excellent!\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeneralKnowledgeQuiz #MemoryTest #TriviaQuiz #Quiz #BrainTest #QuizForSeniors\n\nMusic: original.",
+  "tags": [
+   "general knowledge quiz",
+   "memory test",
+   "trivia quiz",
+   "50 question quiz",
+   "quiz for seniors",
+   "general knowledge test",
+   "brain test",
+   "pub quiz",
+   "trivia questions and answers"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 50? 🧠 Which question surprised you most? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "General Knowledge Quiz",
+  "header": "MEMORY TEST",
+  "hook": "CAN YOU GET 40/50? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 3,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "MEMORY **TEST**",
+   "CAN YOU GET **40/50**?",
+   "ONLY 1 IN 10 GET **#50**"
+  ],
+  "thumbEmoji": "🧠",
+  "thumbBadge": "50 QUESTIONS 🧠 EASY → LEGEND",
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "questions": [
+   {
+    "q": "Which animal is the **tallest** in the world?",
+    "answers": [
+     "Elephant",
+     "Giraffe",
+     "Camel",
+     "Ostrich"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌍  📏"
+   },
+   {
+    "q": "Which is the **largest** mammal on Earth?",
+    "answers": [
+     "African elephant",
+     "Sperm whale",
+     "Blue whale",
+     "Hippo"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🌍  🐾"
+   },
+   {
+    "q": "What is the capital of **Portugal**?",
+    "answers": [
+     "Porto",
+     "Madrid",
+     "Lisbon",
+     "Seville"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🏰  🌊"
+   },
+   {
+    "q": "Who painted the **Water Lilies**?",
+    "answers": [
+     "Renoir",
+     "Claude Monet",
+     "Cézanne",
+     "Degas"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎨  🪷"
+   },
+   {
+    "q": "Which is the **smallest** ocean?",
+    "answers": [
+     "Indian",
+     "Southern",
+     "Atlantic",
+     "Arctic"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🌊  📏"
+   },
+   {
+    "q": "What is the capital of **Morocco**?",
+    "answers": [
+     "Casablanca",
+     "Rabat",
+     "Marrakesh",
+     "Fez"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "image": "bilder/q2-sun.jpg"
+   }
+  ]
+ }
+}

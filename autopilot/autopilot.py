@@ -752,6 +752,36 @@ def main():
             if r.returncode:
                 log('Render-Ausgabe:', (r.stdout[-1500:] + r.stderr[-1500:]).replace('\n', ' | '))
             log(f'Testlauf {name}: Render-Code {r.returncode}, Dauer {story["durationInSeconds"]} s')
+            # Standbilder zum Begutachten (werden mit autopilot/ zurück ins Repo committet)
+            mp4 = ROOT / 'out' / f'{name}.mp4'
+            if mp4.exists():
+                fr = AP / 'test' / 'frames'
+                fr.mkdir(parents=True, exist_ok=True)
+                qs = story.get('questions', [])
+                times = []
+                if qs:
+                    times += [qs[0]['start'] + 1.0, qs[0]['reveal'] + 0.1, qs[0]['reveal'] + 0.8]
+                    for i in range(1, len(qs)):
+                        if qs[i].get('level') != qs[i - 1].get('level'):
+                            times.append(qs[i]['start'] + 0.5)
+                            break
+                    mi = story.get('midCtaIndex')
+                    if isinstance(mi, int) and mi < len(qs):
+                        times.append(qs[mi]['reveal'] + 2.5)
+                    times.append(qs[-1]['reveal'] + 0.8)
+                    if story.get('durationInSeconds', 0) - story.get('outroStart', 0) > 1:
+                        times.append(story['outroStart'] + 2.5)
+                ff = 'ffmpeg'
+                try:
+                    import imageio_ffmpeg
+                    ff = imageio_ffmpeg.get_ffmpeg_exe()
+                except Exception:
+                    pass
+                for k, tt in enumerate(times):
+                    subprocess.run([ff, '-y', '-loglevel', 'error', '-ss', f'{tt:.2f}', '-i', str(mp4), '-frames:v', '1', '-vf', 'scale=iw/2:-1', '-q:v', '4', str(fr / f'{name}-{k}.jpg')])
+                if story.get('format') == 'long':
+                    render_thumbs(f'test-{name}', story)
+                log(f'Testlauf {name}: {len(times)} Standbilder in autopilot/test/frames')
     elif cmd == 'thumbs':
         # nur Vorschaubilder rendern: python autopilot.py thumbs stories/<id>.json
         st = json.loads(Path(sys.argv[2]).read_text(encoding='utf-8'))
