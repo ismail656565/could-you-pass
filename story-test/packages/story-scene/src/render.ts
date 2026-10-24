@@ -120,7 +120,7 @@ export function renderStory(timeline: Timeline, within: SpatialFrame, window: Te
       .cap{position:absolute;left:0;right:0;top:0;text-align:center;display:none;-webkit-text-stroke:3px #000;paint-order:stroke fill;filter:drop-shadow(0 6px 0 #000)}
       .bar{position:absolute;left:0;right:0;bottom:0;height:10px;background:#ffffff14}.fill{height:100%;width:0;background:#f5c542}`,
     data: { starts, total, entrance: options.entranceFrames, caps, earned: earned.map(d => d.start),
-      kinds: lines.map(l => l.visual.split("|")[0]) },
+      kinds: lines.map(l => l.visual.split("|")[0] ?? "text") },
     setup: `const E=data.entrance, starts=data.starts, total=data.total;
       const ease=t=>{t=Math.max(0,Math.min(1,t));return 1-Math.pow(1-t,3)};
       const back=t=>{t=Math.max(0,Math.min(1,t));const c=1.70158;return 1+(c+1)*Math.pow(t-1,3)+c*Math.pow(t-1,2)};
