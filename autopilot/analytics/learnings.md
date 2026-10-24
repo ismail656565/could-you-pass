@@ -154,3 +154,4 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **Regel: alle neuen Items (Shorts + lange) mit "layout":"tvshow"** (neon nicht mehr verwenden). Queue-Items ab 25.10. bereits umgestellt. Echte Fotos bevorzugen, cardText-Emojis sparsam (max. 2, oder kurze Zahl/Jahr).
 - Bewertung: tvshow-Shorts vs. Neon-Shorts (stayed 45–57 %, Ø 54–63 %, ~1,2–1,4k Views) und tvshow-Long vs. Neon-Long (Views/Tag, CTR) nach je ≥3 Videos mit ≥3 Tagen Daten.
 - Test-Standbilder: autopilot/test/frames/ (Dryrun 24.10. erfolgreich, Render ok).
+- 2026-10-24 (Besitzer): Short "trap-4-2" (21:00) war noch im Neon-Look gerendert (Upload vor Einführung von tvshow) → auf Wunsch Besitzer als tvshow neu (trap-4-2-tv, force, 21:00, Titel leicht geändert wegen Doppel-Upload-Schutz), Original BTEGptf0s6o auf privat gestellt. Der 16:00-Short (Japan) ist bereits öffentlich im Neon-Look und bleibt so.

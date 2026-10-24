@@ -122,10 +122,11 @@
  "publishAt": "21:00",
  "scheduledFor": "2026-10-24T21:00+02:00",
  "playlistAdded": true,
- "pendingComment": true,
+ "pendingComment": false,
  "uploaded": {
   "videoId": "BTEGptf0s6o",
   "at": "2026-10-24T05:22"
  },
- "linkedLong": "ECEdEibYQPY"
+ "linkedLong": "ECEdEibYQPY",
+ "replacedBy": "trap-4-2-tv (tvshow-Look, Wunsch Besitzer 24.10.) – Original auf privat gestellt"
 }
