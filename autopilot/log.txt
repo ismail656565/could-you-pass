@@ -315,3 +315,6 @@
 [2026-10-24 07:44:45] trap-4-2: noch nicht öffentlich – Kommentar später
 [2026-10-24 07:44:45] Kein short-Video in der Warteschlange.
 [2026-10-24 07:44:45] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-10-24 08:35:27] memory-test-50-1: noch nicht öffentlich – Kommentar später
+[2026-10-24 08:35:27] one-q-japan-islands: noch nicht öffentlich – Kommentar später
+[2026-10-24 08:35:27] trap-4-2: noch nicht öffentlich – Kommentar später
