@@ -1,0 +1,58 @@
+{
+ "id": "one-q-japan-islands",
+ "timing": {
+  "count": 5.0,
+  "tail": 0.4
+ },
+ "lines": [
+  {
+   "q": "Only one in ten adults get this right. How many islands does Japan have? Double tap to lock your answer!",
+   "a": "Over fourteen thousand! A recount in twenty twenty-three found fourteen thousand one hundred and twenty-five. Follow if you got it!"
+  }
+ ],
+ "youtube": {
+  "title": "How Many Islands Does Japan Have? 🏝️🤯 #shorts",
+  "description": "Only 1 in 10 adults get this right 🤯 Did you?\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #triviaquiz #generalknowledge #funfacts #shorts\n\nPhotos via Wikimedia Commons: Flag of Japan (public domain)\nMusic: original.",
+  "tags": [
+   "japan quiz",
+   "geography quiz",
+   "trivia quiz",
+   "general knowledge quiz",
+   "quiz",
+   "japan facts",
+   "fun facts",
+   "shorts"
+  ],
+  "comment": "What did you guess? 400, 1,400, 6,800 or 14,000+? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Trivia",
+  "header": "GEOGRAPHY QUIZ",
+  "hook": "ONLY 1 IN 10 GET THIS 🤯",
+  "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+  "finalLabel": "",
+  "ctaText": "Follow if you got it ✅",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you get it?",
+  "outroSub": "Comment 👇",
+  "questions": [
+   {
+    "q": "How many **islands** does Japan have?",
+    "answers": [
+     "About 400",
+     "About 1,400",
+     "About 6,800",
+     "Over 14,000"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "image": "bilder/cap-flag-japan.jpg"
+   }
+  ]
+ }
+}

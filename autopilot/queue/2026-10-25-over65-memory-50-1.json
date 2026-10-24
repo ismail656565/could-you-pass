@@ -1,0 +1,859 @@
+{
+ "id": "over65-memory-50-1",
+ "timing": {
+  "count": 6.0,
+  "tail": 1.5,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Welcome back, quiz friends! Grab a pen and keep score. Are you over sixty-five? Then let's check your memory. Fifty questions, from easy to legend. First one: which bird is famous for copying human speech?",
+   "a": "The parrot! Some African greys learn hundreds of words."
+  },
+  {
+   "q": "What is the capital of Greece?",
+   "a": "Athens! Named after the goddess Athena."
+  },
+  {
+   "q": "Who wrote The Adventures of Tom Sawyer?",
+   "a": "Mark Twain! His real name was Samuel Clemens."
+  },
+  {
+   "q": "Which is the largest continent?",
+   "a": "Asia! It holds more than half of all the people on Earth."
+  },
+  {
+   "q": "Raisins are dried what?",
+   "a": "Grapes! Dried plums are prunes. Easy start, right?"
+  },
+  {
+   "q": "Which city is home to Big Ben?",
+   "a": "London! Big Ben is actually the name of the great bell, not the tower."
+  },
+  {
+   "q": "A shuttlecock is used in which sport?",
+   "a": "Badminton! Real shuttlecocks are made with goose feathers."
+  },
+  {
+   "q": "Which animal is called the ship of the desert?",
+   "a": "The camel! It can drink over one hundred litres of water in one go."
+  },
+  {
+   "q": "Which country is famous for tulips and windmills?",
+   "a": "The Netherlands! Funny thing: tulips first came there from Turkey."
+  },
+  {
+   "q": "Mixing blue and yellow paint makes which colour?",
+   "a": "Green! Ten easy ones done. How many did you get?"
+  },
+  {
+   "q": "Now it gets a little harder. What is the longest river in South America?",
+   "a": "The Amazon! It carries more water than any other river on Earth."
+  },
+  {
+   "q": "Who wrote A Christmas Carol?",
+   "a": "Charles Dickens! He wrote it in just six weeks."
+  },
+  {
+   "q": "At sea level, water boils at how many degrees Celsius?",
+   "a": "One hundred! Two hundred and twelve is the Fahrenheit number."
+  },
+  {
+   "q": "Who was the first man to run a mile in under four minutes?",
+   "a": "Roger Bannister! In nineteen fifty-four, while training to be a doctor."
+  },
+  {
+   "q": "In which country is Mount Kilimanjaro?",
+   "a": "Tanzania! Many people say Kenya, but it's just over the border."
+  },
+  {
+   "q": "Who played the lead in the nineteen sixty-two film Lawrence of Arabia?",
+   "a": "Peter O'Toole! It made him a star overnight."
+  },
+  {
+   "q": "What is the currency of Japan?",
+   "a": "The yen! The won is Korea, the yuan is China."
+  },
+  {
+   "q": "Which scientist gave us the theory of relativity?",
+   "a": "Albert Einstein! He later turned down the offer to be president of Israel."
+  },
+  {
+   "q": "How many players does a basketball team have on the court?",
+   "a": "Five! Netball has seven, so that one trips people up."
+  },
+  {
+   "q": "Who sang Rocket Man in nineteen seventy-two?",
+   "a": "Elton John! Lyrics by his long-time partner Bernie Taupin."
+  },
+  {
+   "q": "Welcome to the hard round! What is the capital of Vietnam?",
+   "a": "Hanoi! Ho Chi Minh City is bigger, but Hanoi is the capital."
+  },
+  {
+   "q": "Which planet spins tipped over on its side?",
+   "a": "Uranus! It's tilted almost ninety degrees."
+  },
+  {
+   "q": "Who wrote The Old Man and the Sea?",
+   "a": "Ernest Hemingway! It helped him win the Nobel Prize."
+  },
+  {
+   "q": "In which year was the Falklands War?",
+   "a": "Nineteen eighty-two! It lasted about ten weeks."
+  },
+  {
+   "q": "Which country has the most people in Africa?",
+   "a": "Nigeria! Over two hundred million people. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Who directed Jaws in nineteen seventy-five?",
+   "a": "Steven Spielberg! He was only twenty-eight."
+  },
+  {
+   "q": "What is the chemical symbol for sodium?",
+   "a": "N A! From the Latin word natrium. Sneaky one, I know."
+  },
+  {
+   "q": "Which planet is named after the Roman god of the sea?",
+   "a": "Neptune! Fitting, because it's a deep blue."
+  },
+  {
+   "q": "The Bermuda Triangle is in which ocean?",
+   "a": "The Atlantic! Between Florida, Bermuda and Puerto Rico."
+  },
+  {
+   "q": "Which British monarch reigned just before Elizabeth the Second?",
+   "a": "George the Sixth, her father! Edward the Eighth was before him."
+  },
+  {
+   "q": "Now the very hard round. Who painted Girl with a Pearl Earring?",
+   "a": "Johannes Vermeer! Painted around sixteen sixty-five in Delft."
+  },
+  {
+   "q": "How many symphonies did Beethoven complete?",
+   "a": "Nine! He was almost completely deaf when he wrote the ninth."
+  },
+  {
+   "q": "What is the smallest state in the United States?",
+   "a": "Rhode Island! And it's not even an island."
+  },
+  {
+   "q": "Roughly how fast does light travel?",
+   "a": "About three hundred thousand kilometres per second! Seven times around the Earth in one second."
+  },
+  {
+   "q": "Who was the first US president to resign?",
+   "a": "Richard Nixon! In nineteen seventy-four, after Watergate."
+  },
+  {
+   "q": "What is the deepest ocean trench on Earth?",
+   "a": "The Mariana Trench! Mount Everest would fit inside with room to spare."
+  },
+  {
+   "q": "Who wrote Don Quixote?",
+   "a": "Miguel de Cervantes! Often called the first modern novel."
+  },
+  {
+   "q": "In which year did the Chernobyl disaster happen?",
+   "a": "Nineteen eighty-six! In Ukraine, then part of the Soviet Union."
+  },
+  {
+   "q": "Which scientist wrote the three laws of motion?",
+   "a": "Isaac Newton! Published in sixteen eighty-seven."
+  },
+  {
+   "q": "What is the largest lake in Africa?",
+   "a": "Lake Victoria! The Nile flows out of it."
+  },
+  {
+   "q": "Welcome to the legend round! Who composed the waltz The Blue Danube?",
+   "a": "Johann Strauss the Second! The waltz king of Vienna."
+  },
+  {
+   "q": "What is the capital of Mongolia?",
+   "a": "Ulaanbaatar! One of the coldest capital cities in the world."
+  },
+  {
+   "q": "Who discovered the electron in eighteen ninety-seven?",
+   "a": "J J Thomson! He won the Nobel Prize for it."
+  },
+  {
+   "q": "What was the first artificial satellite in space?",
+   "a": "Sputnik One! Launched by the Soviet Union in nineteen fifty-seven."
+  },
+  {
+   "q": "Which metal has the highest melting point?",
+   "a": "Tungsten! Over three thousand four hundred degrees Celsius."
+  },
+  {
+   "q": "Who painted the famous melting clocks in The Persistence of Memory?",
+   "a": "Salvador Dalí! Perfect for a memory quiz, right?"
+  },
+  {
+   "q": "In which year was the Battle of Hastings?",
+   "a": "Ten sixty-six! William the Conqueror won the crown of England."
+  },
+  {
+   "q": "What is the largest moon in our solar system?",
+   "a": "Ganymede, a moon of Jupiter! It's even bigger than the planet Mercury. Three left, stay with me!"
+  },
+  {
+   "q": "Who wrote One Hundred Years of Solitude?",
+   "a": "Gabriel García Márquez! He won the Nobel Prize in nineteen eighty-two."
+  },
+  {
+   "q": "Last one. On which ship did Charles Darwin sail around the world?",
+   "a": "H M S Beagle! The voyage that led to his theory of evolution."
+  }
+ ],
+ "youtube": {
+  "title": "Are You Over 65? Let's Check Your Memory 🧠 | 50 Question General Knowledge Quiz",
+  "description": "50 general knowledge questions – history, geography, science, music, classic films and famous books – from EASY to LEGEND 🧠 How many can you remember?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#MemoryTest #GeneralKnowledgeQuiz #QuizForSeniors #TriviaQuiz #BrainTest #Quiz\n\nMusic: original.",
+  "tags": [
+   "memory test",
+   "general knowledge quiz",
+   "quiz for seniors",
+   "are you over 65",
+   "memory quiz",
+   "trivia quiz",
+   "50 question quiz",
+   "brain test",
+   "trivia questions and answers"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 50? 🧠 Tell us your score – and your age group if you like! 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "neon",
+  "title": "Memory Test",
+  "header": "MEMORY TEST",
+  "hook": "CAN YOU GET 40/50? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "OVER 65? **MEMORY** TEST",
+   "CAN YOU GET **40/50**?",
+   "ONLY 1 IN 10 GET **#50**"
+  ],
+  "thumbEmoji": "🧠",
+  "thumbBadge": "50 QUESTIONS 🧠 EASY → LEGEND",
+  "cardColors": [
+   "#5B21B6",
+   "#1E0B3B"
+  ],
+  "questions": [
+   {
+    "q": "Which bird is famous for **copying** speech?",
+    "answers": [
+     "Parrot",
+     "Owl",
+     "Pigeon",
+     "Swan"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🗣️  🪶"
+   },
+   {
+    "q": "What is the capital of **Greece**?",
+    "answers": [
+     "Sparta",
+     "Athens",
+     "Thessaloniki",
+     "Corinth"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🏛️  ☀️"
+   },
+   {
+    "q": "Who wrote **Tom Sawyer**?",
+    "answers": [
+     "Charles Dickens",
+     "Jack London",
+     "Mark Twain",
+     "Herman Melville"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "📖  🛶"
+   },
+   {
+    "q": "Which is the **largest** continent?",
+    "answers": [
+     "Africa",
+     "Europe",
+     "North America",
+     "Asia"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🌏  📏"
+   },
+   {
+    "q": "**Raisins** are dried what?",
+    "answers": [
+     "Grapes",
+     "Plums",
+     "Figs",
+     "Dates"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🍇  ☀️"
+   },
+   {
+    "q": "Which city is home to **Big Ben**?",
+    "answers": [
+     "Paris",
+     "London",
+     "Dublin",
+     "Edinburgh"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🕰️  🔔"
+   },
+   {
+    "q": "A **shuttlecock** is used in which sport?",
+    "answers": [
+     "Tennis",
+     "Squash",
+     "Badminton",
+     "Cricket"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🏸  🪶"
+   },
+   {
+    "q": "Which animal is the **ship of the desert**?",
+    "answers": [
+     "Horse",
+     "Donkey",
+     "Elephant",
+     "Camel"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🏜️  🚢"
+   },
+   {
+    "q": "Which country is famous for **tulips** and windmills?",
+    "answers": [
+     "Netherlands",
+     "Belgium",
+     "Denmark",
+     "Austria"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🌷  🌬️"
+   },
+   {
+    "q": "Blue and yellow make which **colour**?",
+    "answers": [
+     "Purple",
+     "Green",
+     "Orange",
+     "Brown"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🎨  🖌️"
+   },
+   {
+    "q": "Longest river in **South America**?",
+    "answers": [
+     "Orinoco",
+     "Paraná",
+     "Amazon",
+     "Magdalena"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🌎  🌊"
+   },
+   {
+    "q": "Who wrote **A Christmas Carol**?",
+    "answers": [
+     "Thomas Hardy",
+     "Jane Austen",
+     "Lewis Carroll",
+     "Charles Dickens"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🎄  👻"
+   },
+   {
+    "q": "Water **boils** at how many degrees Celsius?",
+    "answers": [
+     "100",
+     "90",
+     "120",
+     "212"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "💧  🔥"
+   },
+   {
+    "q": "Who ran the first **four-minute mile**?",
+    "answers": [
+     "John Landy",
+     "Roger Bannister",
+     "Chris Chataway",
+     "Sebastian Coe"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏃  ⏱️"
+   },
+   {
+    "q": "In which country is **Kilimanjaro**?",
+    "answers": [
+     "Kenya",
+     "Uganda",
+     "Tanzania",
+     "Ethiopia"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🏔️  🦒"
+   },
+   {
+    "q": "Who played **Lawrence of Arabia**?",
+    "answers": [
+     "Omar Sharif",
+     "Richard Burton",
+     "Alec Guinness",
+     "Peter O'Toole"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🎬  🐫"
+   },
+   {
+    "q": "What is the currency of **Japan**?",
+    "answers": [
+     "Yen",
+     "Won",
+     "Yuan",
+     "Ringgit"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "💴  🏯"
+   },
+   {
+    "q": "Who gave us the theory of **relativity**?",
+    "answers": [
+     "Isaac Newton",
+     "Albert Einstein",
+     "Niels Bohr",
+     "Max Planck"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🧠  ⚛️"
+   },
+   {
+    "q": "How many **basketball** players per team on court?",
+    "answers": [
+     "Six",
+     "Seven",
+     "Five",
+     "Four"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🏀  👟"
+   },
+   {
+    "q": "Who sang **Rocket Man** in 1972?",
+    "answers": [
+     "David Bowie",
+     "Rod Stewart",
+     "Billy Joel",
+     "Elton John"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🚀  🎹"
+   },
+   {
+    "q": "What is the capital of **Vietnam**?",
+    "answers": [
+     "Hanoi",
+     "Ho Chi Minh City",
+     "Hue",
+     "Da Nang"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🏙️  🍜"
+   },
+   {
+    "q": "Which planet spins **on its side**?",
+    "answers": [
+     "Neptune",
+     "Uranus",
+     "Saturn",
+     "Mars"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🪐  🔄"
+   },
+   {
+    "q": "Who wrote **The Old Man and the Sea**?",
+    "answers": [
+     "John Steinbeck",
+     "F. Scott Fitzgerald",
+     "Ernest Hemingway",
+     "William Faulkner"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🎣  🌊"
+   },
+   {
+    "q": "When was the **Falklands War**?",
+    "answers": [
+     "1979",
+     "1985",
+     "1980",
+     "1982"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "⚓  🏝️"
+   },
+   {
+    "q": "Most populous country in **Africa**?",
+    "answers": [
+     "Nigeria",
+     "Ethiopia",
+     "Egypt",
+     "South Africa"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌍  👥"
+   },
+   {
+    "q": "Who directed **Jaws** (1975)?",
+    "answers": [
+     "George Lucas",
+     "Steven Spielberg",
+     "Francis Ford Coppola",
+     "Martin Scorsese"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🦈  🎬"
+   },
+   {
+    "q": "What is the symbol for **sodium**?",
+    "answers": [
+     "So",
+     "Sd",
+     "Na",
+     "Sn"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🧂  ⚗️"
+   },
+   {
+    "q": "Which planet is named after the god of the **sea**?",
+    "answers": [
+     "Saturn",
+     "Mercury",
+     "Pluto",
+     "Neptune"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🔱  🪐"
+   },
+   {
+    "q": "The **Bermuda Triangle** is in which ocean?",
+    "answers": [
+     "Atlantic",
+     "Pacific",
+     "Indian",
+     "Arctic"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🔺  🌊"
+   },
+   {
+    "q": "Who reigned just before **Elizabeth II**?",
+    "answers": [
+     "Edward VIII",
+     "George VI",
+     "George V",
+     "Victoria"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "👑  🏰"
+   },
+   {
+    "q": "Who painted **Girl with a Pearl Earring**?",
+    "answers": [
+     "Rembrandt",
+     "Van Gogh",
+     "Johannes Vermeer",
+     "Frans Hals"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🖼️  💎"
+   },
+   {
+    "q": "How many **symphonies** did Beethoven finish?",
+    "answers": [
+     "Five",
+     "Seven",
+     "Twelve",
+     "Nine"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🎼  🎻"
+   },
+   {
+    "q": "What is the **smallest** US state?",
+    "answers": [
+     "Rhode Island",
+     "Delaware",
+     "Connecticut",
+     "Vermont"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🗺️  🔍"
+   },
+   {
+    "q": "Roughly how fast is **light**?",
+    "answers": [
+     "30,000 km/s",
+     "300,000 km/s",
+     "3,000 km/s",
+     "3 million km/s"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "💡  ⚡"
+   },
+   {
+    "q": "First US president to **resign**?",
+    "answers": [
+     "Gerald Ford",
+     "Lyndon Johnson",
+     "Richard Nixon",
+     "Jimmy Carter"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🏛️  📜"
+   },
+   {
+    "q": "What is the **deepest** ocean trench?",
+    "answers": [
+     "Puerto Rico Trench",
+     "Java Trench",
+     "Tonga Trench",
+     "Mariana Trench"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🌊  ⬇️"
+   },
+   {
+    "q": "Who wrote **Don Quixote**?",
+    "answers": [
+     "Miguel de Cervantes",
+     "Lope de Vega",
+     "Dante Alighieri",
+     "Federico García Lorca"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🐴  🌬️"
+   },
+   {
+    "q": "When was the **Chernobyl** disaster?",
+    "answers": [
+     "1979",
+     "1986",
+     "1984",
+     "1991"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "☢️  ⚠️"
+   },
+   {
+    "q": "Who wrote the three laws of **motion**?",
+    "answers": [
+     "Galileo Galilei",
+     "Johannes Kepler",
+     "Isaac Newton",
+     "Albert Einstein"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🍎  ⚖️"
+   },
+   {
+    "q": "What is the largest **lake** in Africa?",
+    "answers": [
+     "Lake Tanganyika",
+     "Lake Malawi",
+     "Lake Chad",
+     "Lake Victoria"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🏞️  🌍"
+   },
+   {
+    "q": "Who composed **The Blue Danube**?",
+    "answers": [
+     "Johann Strauss II",
+     "Franz Schubert",
+     "Joseph Haydn",
+     "Franz Liszt"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🎻  💃"
+   },
+   {
+    "q": "What is the capital of **Mongolia**?",
+    "answers": [
+     "Astana",
+     "Ulaanbaatar",
+     "Bishkek",
+     "Tashkent"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🐎  ⛺"
+   },
+   {
+    "q": "Who discovered the **electron** in 1897?",
+    "answers": [
+     "Ernest Rutherford",
+     "Niels Bohr",
+     "J. J. Thomson",
+     "Marie Curie"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "⚛️  🔬"
+   },
+   {
+    "q": "What was the first **satellite** in space?",
+    "answers": [
+     "Explorer 1",
+     "Vostok 1",
+     "Telstar",
+     "Sputnik 1"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🛰️  🚀"
+   },
+   {
+    "q": "Which metal has the highest **melting point**?",
+    "answers": [
+     "Tungsten",
+     "Iron",
+     "Titanium",
+     "Platinum"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🔥  ⚙️"
+   },
+   {
+    "q": "Who painted the **melting clocks**?",
+    "answers": [
+     "René Magritte",
+     "Salvador Dalí",
+     "Pablo Picasso",
+     "Joan Miró"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🕰️  🎨"
+   },
+   {
+    "q": "When was the Battle of **Hastings**?",
+    "answers": [
+     "1215",
+     "1415",
+     "1066",
+     "1314"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "⚔️  🏰"
+   },
+   {
+    "q": "What is the largest **moon** in our solar system?",
+    "answers": [
+     "Titan",
+     "Callisto",
+     "Io",
+     "Ganymede"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🌙  🪐"
+   },
+   {
+    "q": "Who wrote **One Hundred Years of Solitude**?",
+    "answers": [
+     "Gabriel García Márquez",
+     "Pablo Neruda",
+     "Isabel Allende",
+     "Jorge Luis Borges"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "📚  🦋"
+   },
+   {
+    "q": "On which ship did **Darwin** sail?",
+    "answers": [
+     "HMS Victory",
+     "HMS Beagle",
+     "HMS Bounty",
+     "HMS Endeavour"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🚢  🐢"
+   }
+  ]
+ }
+}

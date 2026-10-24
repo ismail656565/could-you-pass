@@ -135,3 +135,14 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Geräte (Wiedergabezeit): Mobil 52,6 %, **TV 23,8 %**, Tablet 14,5 %, Computer 8,4 % → fast 40 % große Bildschirme (TV+Tablet) → Thumbnails/Texte im Langformat groß und kontrastreich halten.
 - Länder (Views): USA 25,8 %, Deutschland 21,6 %, Philippinen 8,4 % → Englisch bleibt richtig; Fragen international verständlich halten (keine reinen UK-Insider). Untertitel: 93 % ohne, 4,1 % Englisch.
 - "Beliebt bei neuen Zuschauern": Only Geniuses 6/6 (1,4k), 8 Geography (1,3k), 8 Countries Emoji (1,3k), 6 Questions 90% (1,2k), IQ Test (1,2k) → Formate Trap/Genius, Geografie, Emoji-Länder, IQ sind die Treiber.
+
+## 2026-10-24 (Morgenlauf, Queue: 2 Shorts für 24.10. + langes Video für 25.10.)
+### Shorts
+- Report (Stand 23.10. morgens, public Views): "3 Questions 90% Get Wrong" (22.10., mit Pyramiden-Foto) 134 nach ~1,5 T; 1-Frage-Sonnenlicht 33 nach ~1,5 T (Studio: 69 % stayed). "3 Halloween" jetzt 492 Views, stayed 36,8 %, Ø 73 %; "3 Spooky" 194, stayed 30,2 %. → 3-Fragen-Shorts: Ø angesehen gut, aber stayed klar UNTER der 6-Fragen-Baseline (45–57 %). Reichweite aller kurzen Shorts bisher < 500.
+- Queue 23.10. war ohne Short (Log 23.10. 07:53 "Kein short-Video in der Warteschlange") → Lücke vermeiden: immer 2 Shorts pending halten.
+- 24.10.: Slot 1 1-Frage-Ego-Hook #3 (Japan-Inseln, Zahlen-Falle, Flaggenfoto), Slot 2 4-Fragen-Trap mit Hai-Foto als Köder bei Q1 ("Mosquito"), Titelvariante "Almost Everyone Gets Wrong" statt "90%".
+### Lange Videos
+- Halloween-35 (19.10.) 101 public Views = bestes Senioren-Video; Over-60-Memory 48, Halloween-If-25 30, IQ-40 6 (1,5 T). Analytics: Over-60 Ø 50 %, Halloween-35 nur 23 % Ø angesehen (lange Videos verlieren früh Zuschauer). impressions/ctr weiter leer.
+- 25.10.: Alters-Titel 2. Versuch, diesmal mit 50 Fragen + exaktem vidIQ-Erfolgsmuster "Are You Over 65? Let's Check Your Memory" (962k-Vorbild), Thumbnail A erstmals mit Alters-Text "OVER 65? MEMORY TEST".
+### Thumbnails
+- Views/day-Fallback (CTR-API weiter HttpError 400): Halloween-35 A 9,0/Tag → jetzt B; PL A 1,25/Tag → B; CL A 0,75/Tag → B (seit 22.10.). Noch kein Ergebnis für B/C → noch kein Stil-Sieger.
