@@ -880,6 +880,15 @@ def main():
         except Exception:
             log('Thumbnail-Test-FEHLER:', traceback.format_exc())
         produce()
+        # wöchentlicher Ausreißer-Scan (nach den Uploads, damit die Quota zuerst für Uploads reicht)
+        if cmd == 'all':
+            try:
+                f = AP / 'analytics' / 'outliers.json'
+                last = json.loads(f.read_text(encoding='utf-8')).get('fetched', '') if f.exists() else ''
+                if not last or (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(last)).days >= 6:
+                    outliers()
+            except Exception:
+                log('Ausreißer-Scan-FEHLER:', traceback.format_exc())
 
 
 if __name__ == '__main__':
