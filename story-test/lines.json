@@ -1,0 +1,71 @@
+{
+ "title": "True Story",
+ "voice": "bm_george:60+bm_lewis:40",
+ "speed": 1.0,
+ "lines": [
+  {
+   "text": "At twenty, he walked away from college for a forty million dollar contract.",
+   "visual": "money|40000000|ROOKIE CONTRACT · AGE 20",
+   "caption": "At 20, he walked away from college for a $40 million contract."
+  },
+  {
+   "text": "Four years later, the Lakers paid him one hundred and twenty million more.",
+   "visual": "money|120000000|LAKERS · 1996",
+   "caption": "Four years later, the Lakers paid him $120 million more."
+  },
+  {
+   "text": "But his mother had one request.",
+   "visual": "text|MOM HAD|ONE REQUEST|heart"
+  },
+  {
+   "text": "You promised me you would finish school.",
+   "visual": "quote|You promised me you'd finish school.|MOM",
+   "caption": "\"You promised me you'd finish school.\""
+  },
+  {
+   "text": "So in the middle of his NBA career, Shaquille O'Neal went back to college.",
+   "visual": "text|BACK TO|SCHOOL|cap"
+  },
+  {
+   "text": "In two thousand, he earned his bachelor's degree from LSU.",
+   "visual": "degree|B.A.|2000|LSU",
+   "caption": "In 2000, he earned his bachelor's degree from LSU."
+  },
+  {
+   "text": "Then he noticed something in business meetings.",
+   "visual": "text|BUSINESS|MEETINGS|case"
+  },
+  {
+   "text": "People shook his hand, and then talked to his agent.",
+   "visual": "stamp|IGNORED|IN HIS OWN DEALS"
+  },
+  {
+   "text": "So he earned an M B A. Now they had to talk to him.",
+   "visual": "degree|MBA|2005|UNIVERSITY OF PHOENIX",
+   "caption": "So he earned an MBA. Now they had to talk to him."
+  },
+  {
+   "text": "Then his mom pointed out there were no doctors in the family.",
+   "visual": "text|NO DOCTORS|IN THE FAMILY"
+  },
+  {
+   "text": "In twenty twelve, he earned a doctorate in education.",
+   "visual": "degree|Ed.D.|2012|BARRY UNIVERSITY",
+   "caption": "In 2012, he earned a doctorate in education."
+  },
+  {
+   "text": "One of the most famous athletes on earth became Doctor O'Neal.",
+   "visual": "name|DR. O'NEAL|DOCTOR OF EDUCATION",
+   "caption": "One of the most famous athletes on earth became Dr. O'Neal."
+  },
+  {
+   "text": "The money made him rich. The promise made him proud.",
+   "visual": "text|RICH → PROUD"
+  },
+  {
+   "text": "Follow for more true stories.",
+   "visual": "end|FOLLOW|FOR MORE TRUE STORIES",
+   "kind": "end"
+  }
+ ]
+}
