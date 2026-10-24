@@ -355,3 +355,4 @@
 [2026-10-24 15:32:52] Kein short-Video in der Warteschlange.
 [2026-10-24 15:32:52] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
 [2026-10-24 15:32:53] Short-Beschreibung (trap-4-2-tv) verlinkt auf langes Video ECEdEibYQPY
+[2026-10-24 22:05:26] Ausreißer-Scan: 823 Videos geprüft, 25 lange + 25 Shorts gespeichert
