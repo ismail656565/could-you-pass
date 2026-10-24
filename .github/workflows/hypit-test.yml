@@ -1,0 +1,66 @@
+name: Hypit Test (Quiz-Short)
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [hypit-test]
+    paths: ['hypit-test/**', '.github/workflows/hypit-test.yml']
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      HYPIT_SHA: e26d9142fd8a6f78bf4f3cdb800d6205f4ecca16
+      P: examples/cyp-quiz
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.33.0
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Hypit holen
+        run: |
+          git clone https://github.com/hypit-ai/hypit.git hypit
+          git -C hypit checkout -q "$HYPIT_SHA"
+          mkdir -p "hypit/$P"
+          cp -r hypit-test/packages hypit-test/quiz.svml hypit-test/quiz.svs hypit-test/quiz.svrun hypit-test/hypit.runtime.json "hypit/$P/"
+      - name: Installieren und bauen
+        working-directory: hypit
+        run: |
+          pnpm install --no-frozen-lockfile
+          pnpm build:public-types
+          pnpm --filter @cyp/quiz-scene build
+      - name: Quelle prüfen
+        working-directory: hypit
+        run: node bin/hypit.mjs check "$P/quiz.svml" --project "$P"
+      - name: Browser vorbereiten
+        working-directory: hypit
+        run: node bin/hypit.mjs programs up --project "$P" --runtime "$P/hypit.runtime.json" --endpoint html.local
+      - name: Rendern
+        working-directory: hypit
+        run: |
+          node bin/hypit.mjs build "$P/quiz.svrun" --project "$P" --runtime "$P/hypit.runtime.json" --follow 2>&1 | tee build.log
+          id=$(grep -oE '\bb[a-z]*[_-][A-Za-z0-9_-]{6,}|build[_-][A-Za-z0-9_-]+' build.log | head -1 || true)
+          echo "build id: $id"
+          mkdir -p ../out
+          if [ -n "$id" ] && node bin/hypit.mjs get "$id" --output final.video --to ../out/silent.mp4 --project "$P" --runtime "$P/hypit.runtime.json"; then
+            echo ok
+          else
+            node bin/hypit.mjs builds --project "$P" --runtime "$P/hypit.runtime.json" | tee builds.txt || true
+            f=$(find "$P/.hypit" -name '*.mp4' -size +100k -printf '%T@ %p\n' 2>/dev/null | sort -n | tail -1 | cut -d' ' -f2-)
+            [ -n "$f" ] && cp "$f" ../out/silent.mp4
+          fi
+          ls -la ../out
+      - name: Sound drunter legen
+        run: bash hypit-test/mix-audio.sh out/silent.mp4 out/hypit-quiz-test.mp4 public/sfx
+      - uses: actions/upload-artifact@v4
+        with:
+          name: hypit-quiz-test
+          path: out/
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: logs
+          path: hypit/build.log

@@ -1,0 +1,49 @@
+<?svml using="@hypit/markup@1"?>
+<svml>
+  <import as="time" from="@hypit/timeline-author@1"/>
+  <import as="spatial" from="@hypit/spatial@1"/>
+  <import as="media" from="@hypit/media@1"/>
+  <import as="fonts" from="@hypit/fontsource@1"/>
+  <import as="quiz" from="@cyp/quiz-scene@1"/>
+  <import as="film" from="@hypit/film@1"/>
+  <import as="html" from="@hypit/html-video@1"/>
+  <import as="style" source="./quiz.svs"/>
+
+  <time:Clock id="clock" frame-rate="30"/>
+  <time:Timeline id="show" clock={clock} end="23s">
+    <time:Instant id="hook" at="0.1s"/>
+    <time:Instant id="q1" at="1.8s"/><time:Instant id="q1a" at="2.4s"/><time:Instant id="q1b" at="2.6s"/><time:Instant id="q1c" at="2.8s"/><time:Instant id="q1d" at="3s"/><time:Instant id="r1" at="6.6s"/>
+    <time:Instant id="q2" at="8s"/><time:Instant id="q2a" at="8.6s"/><time:Instant id="q2b" at="8.8s"/><time:Instant id="q2c" at="9s"/><time:Instant id="q2d" at="9.2s"/><time:Instant id="r2" at="12.8s"/>
+    <time:Instant id="q3" at="14.2s"/><time:Instant id="q3a" at="14.8s"/><time:Instant id="q3b" at="15s"/><time:Instant id="q3c" at="15.2s"/><time:Instant id="q3d" at="15.4s"/><time:Instant id="r3" at="19s"/>
+    <time:Instant id="end" at="20.4s"/>
+  </time:Timeline>
+  <spatial:Canvas id="canvas" width="1080" height="1920"/>
+  <fonts:Face id="font-face" package="@fontsource/archivo-black" weight="400" style="normal"/>
+  <media:FontStack id="font" primary={font-face}/>
+  <quiz:Scene id="game" timeline={show.timeline} within={canvas.bounds} font={font} during={show.window} title="Football">
+    <quiz:Item id="hook" kind="hook" text="3 QUESTIONS.|NO MISTAKES." at={show.hook}/>
+    <quiz:Item id="q1" kind="question" text="Which country has won the most World Cups?" at={show.q1}/>
+    <quiz:Item id="q1a" kind="option" text="Germany" at={show.q1a}/>
+    <quiz:Item id="q1b" kind="option" text="Brazil" at={show.q1b}/>
+    <quiz:Item id="q1c" kind="option" text="Italy" at={show.q1c}/>
+    <quiz:Item id="q1d" kind="option" text="Argentina" at={show.q1d}/>
+    <quiz:Item id="r1" kind="answer" text="B" at={show.r1}/>
+    <quiz:Item id="q2" kind="question" text="How long is a regular football match?" at={show.q2}/>
+    <quiz:Item id="q2a" kind="option" text="80 minutes" at={show.q2a}/>
+    <quiz:Item id="q2b" kind="option" text="100 minutes" at={show.q2b}/>
+    <quiz:Item id="q2c" kind="option" text="90 minutes" at={show.q2c}/>
+    <quiz:Item id="q2d" kind="option" text="120 minutes" at={show.q2d}/>
+    <quiz:Item id="r2" kind="answer" text="C" at={show.r2}/>
+    <quiz:Item id="q3" kind="question" text="Which club has won the most Champions League titles?" at={show.q3}/>
+    <quiz:Item id="q3a" kind="option" text="Barcelona" at={show.q3a}/>
+    <quiz:Item id="q3b" kind="option" text="Bayern Munich" at={show.q3b}/>
+    <quiz:Item id="q3c" kind="option" text="AC Milan" at={show.q3c}/>
+    <quiz:Item id="q3d" kind="option" text="Real Madrid" at={show.q3d}/>
+    <quiz:Item id="r3" kind="answer" text="D" at={show.r3}/>
+    <quiz:Item id="end" kind="end" text="HOW MANY DID YOU GET?|COMMENT YOUR SCORE" at={show.end}/>
+  </quiz:Scene>
+  <film:Film id="main" canvas={canvas.canvas} timeline={show.timeline} appearance={style.film.main}>
+    <film:Track source={game.visual}/>
+  </film:Film>
+  <html:Video id="final" composition={main.composition} timeline={show.timeline}/>
+</svml>
