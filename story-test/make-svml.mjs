@@ -2,8 +2,9 @@
 import { readFileSync, writeFileSync } from "node:fs";
 const [cfgPath, timPath, outPath] = process.argv.slice(2);
 const cfg = JSON.parse(readFileSync(cfgPath, "utf8")), tim = JSON.parse(readFileSync(timPath, "utf8"));
+const fx = t => (Math.round(t * 10) / 10).toFixed(1); // 0,1 s = genau 3 Frames
 const a = s => s.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
-const inst = cfg.lines.map((_, i) => `    <time:Instant id="l${i}" at="${tim.starts[i].toFixed(3)}s"/>`).join("\n");
+const inst = cfg.lines.map((_, i) => `    <time:Instant id="l${i}" at="${fx(tim.starts[i])}s"/>`).join("\n");
 const items = cfg.lines.map((l, i) => `    <story:Item id="i${i}" kind="${l.kind ?? "line"}" text="${a(l.caption ?? l.text)}" visual="${a(l.visual)}" at={show.l${i}}/>`).join("\n");
 writeFileSync(outPath, `<?svml using="@hypit/markup@1"?>
 <svml>
@@ -16,7 +17,7 @@ writeFileSync(outPath, `<?svml using="@hypit/markup@1"?>
   <import as="html" from="@hypit/html-video@1"/>
   <import as="style" source="./story.svs"/>
   <time:Clock id="clock" frame-rate="30"/>
-  <time:Timeline id="show" clock={clock} end="${tim.end.toFixed(3)}s">
+  <time:Timeline id="show" clock={clock} end="${(Math.ceil(tim.end * 10) / 10).toFixed(1)}s">
 ${inst}
   </time:Timeline>
   <spatial:Canvas id="canvas" width="1080" height="1920"/>
