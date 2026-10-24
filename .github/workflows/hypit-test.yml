@@ -1,6 +1,8 @@
 name: Hypit Test (Quiz-Short)
 on:
   workflow_dispatch: {}
+permissions:
+  contents: write
   push:
     branches: [hypit-test]
     paths: ['hypit-test/**', '.github/workflows/hypit-test.yml']
@@ -34,33 +36,36 @@ jobs:
           pnpm --filter @cyp/quiz-scene build
       - name: Quelle prüfen
         working-directory: hypit
-        run: node bin/hypit.mjs check "$P/quiz.svml" --project "$P"
+        run: |
+          mkdir -p ../out
+          node bin/hypit.mjs check examples/semantic-composition/chat.svml --project examples/semantic-composition > ../out/check-chat.log 2>&1 || echo "chat check failed" >> ../out/check-chat.log
+          node bin/hypit.mjs check "$P/quiz.svml" --project "$P" 2>&1 | tee ../out/check.log; exit ${PIPESTATUS[0]}
       - name: Browser vorbereiten
         working-directory: hypit
-        run: node bin/hypit.mjs programs up --project "$P" --runtime "$P/hypit.runtime.json" --endpoint html.local
+        run: |
+          node bin/hypit.mjs programs up --project "$P" --runtime "$P/hypit.runtime.json" --endpoint html.local 2>&1 | tee ../out/programs.log; exit ${PIPESTATUS[0]}
       - name: Rendern
         working-directory: hypit
         run: |
-          node bin/hypit.mjs build "$P/quiz.svrun" --project "$P" --runtime "$P/hypit.runtime.json" --follow 2>&1 | tee build.log
-          id=$(grep -oE '\bb[a-z]*[_-][A-Za-z0-9_-]{6,}|build[_-][A-Za-z0-9_-]+' build.log | head -1 || true)
+          node bin/hypit.mjs build "$P/quiz.svrun" --project "$P" --runtime "$P/hypit.runtime.json" --follow 2>&1 | tee ../out/build.log
+          id=$(grep -oE '\bb[a-z]*[_-][A-Za-z0-9_-]{6,}|build[_-][A-Za-z0-9_-]+' ../out/build.log | head -1 || true)
           echo "build id: $id"
           mkdir -p ../out
           if [ -n "$id" ] && node bin/hypit.mjs get "$id" --output final.video --to ../out/silent.mp4 --project "$P" --runtime "$P/hypit.runtime.json"; then
             echo ok
           else
-            node bin/hypit.mjs builds --project "$P" --runtime "$P/hypit.runtime.json" | tee builds.txt || true
+            node bin/hypit.mjs builds --project "$P" --runtime "$P/hypit.runtime.json" | tee ../out/builds.txt || true
             f=$(find "$P/.hypit" -name '*.mp4' -size +100k -printf '%T@ %p\n' 2>/dev/null | sort -n | tail -1 | cut -d' ' -f2-)
             [ -n "$f" ] && cp "$f" ../out/silent.mp4
           fi
           ls -la ../out
       - name: Sound drunter legen
         run: bash hypit-test/mix-audio.sh out/silent.mp4 out/hypit-quiz-test.mp4 public/sfx
-      - uses: actions/upload-artifact@v4
-        with:
-          name: hypit-quiz-test
-          path: out/
-      - uses: actions/upload-artifact@v4
+      - name: Ergebnis in Branch hypit-out legen
         if: always()
-        with:
-          name: logs
-          path: hypit/build.log
+        run: |
+          rm -f out/silent.mp4
+          cd out && git init -q && git checkout -q -b hypit-out
+          git config user.name "hypit-test" && git config user.email "autopilot@users.noreply.github.com"
+          git add -A && git commit -qm "Hypit-Test Ergebnis ${GITHUB_RUN_ID}"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" hypit-out
