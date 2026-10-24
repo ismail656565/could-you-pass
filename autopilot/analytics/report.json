@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-24T07:44",
+ "fetched": "2026-10-24T11:23",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
@@ -83,7 +83,7 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 7460,
+    "views": 7459,
     "engagedViews": 3376
    },
    {
@@ -93,7 +93,7 @@
    },
    {
     "deviceType": "TV",
-    "views": 1132,
+    "views": 1130,
     "engagedViews": 942
    },
    {
@@ -172,7 +172,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 36,
-   "publicViews": "991"
+   "publicViews": "995"
   },
   {
    "id": "fRbyHYIaBU8",
@@ -182,7 +182,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 17,
-   "publicViews": "131"
+   "publicViews": "182"
   },
   {
    "id": "aGlyDlB6tGY",
@@ -202,7 +202,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 26,
-   "publicViews": "230"
+   "publicViews": "273"
   },
   {
    "id": "MEIWnYy4YJk",
@@ -212,7 +212,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 17,
-   "publicViews": "130"
+   "publicViews": "134"
   },
   {
    "id": "faqivgeR7fw",
@@ -742,7 +742,7 @@
     "SUBSCRIBER": 3,
     "YT_SEARCH": 1
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 384,
    "publicViews": "38",
    "engagedShare": 0.96
@@ -767,7 +767,7 @@
    },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 35,
-   "publicViews": "335",
+   "publicViews": "336",
    "engagedShare": 0.377
   },
   {
@@ -794,7 +794,9 @@
    "id": "keIS27rjlOo",
    "title": "Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz",
    "published": "2026-10-20T12:00:02Z",
-   "trafficSources": {},
+   "trafficSources": {
+    "NO_LINK_OTHER": 0
+   },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 367,
    "publicViews": "0"
@@ -803,7 +805,9 @@
    "id": "kjdarUQWYsY",
    "title": "3 Spooky Questions 90% Get Wrong 🎃 #shorts",
    "published": "2026-10-20T08:29:19Z",
-   "trafficSources": {},
+   "trafficSources": {
+    "NO_LINK_OTHER": 0
+   },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 24,
    "publicViews": "0"
@@ -820,7 +824,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 184,
+    "SHORTS": 183,
     "YT_SEARCH": 4,
     "YT_OTHER_PAGE": 3,
     "YT_CHANNEL": 2,
@@ -843,7 +847,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 400,
-   "publicViews": "146",
+   "publicViews": "147",
    "engagedShare": 0.54
   },
   {
@@ -918,7 +922,7 @@
    "comments": 2,
    "subscribersGained": 0,
    "durationSec": 43,
-   "publicViews": "1430",
+   "publicViews": "1431",
    "engagedShare": 0.57
   },
   {
@@ -948,7 +952,7 @@
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 182,
-   "publicViews": "135",
+   "publicViews": "136",
    "engagedShare": 0.734
   },
   {
