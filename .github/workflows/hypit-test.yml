@@ -1,11 +1,11 @@
 name: Hypit Test (Quiz-Short)
 on:
   workflow_dispatch: {}
-permissions:
-  contents: write
   push:
     branches: [hypit-test]
     paths: ['hypit-test/**', '.github/workflows/hypit-test.yml']
+permissions:
+  contents: write
 jobs:
   render:
     runs-on: ubuntu-latest
