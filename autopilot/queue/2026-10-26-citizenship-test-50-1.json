@@ -1,0 +1,859 @@
+{
+ "id": "citizenship-test-50-1",
+ "timing": {
+  "count": 6.0,
+  "tail": 1.5,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Thirty or more and you'd pass! Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Welcome back, quiz friends! Today: real questions from the U.S. citizenship test. To pass, you need about sixty percent. So, can you get thirty out of fifty? Grab a pen. First one: what is the capital of the United States?",
+   "a": "Washington, D C! New York was the first capital, under Washington himself."
+  },
+  {
+   "q": "How many stars are on the U.S. flag?",
+   "a": "Fifty! One for every state. The last two were added in nineteen sixty."
+  },
+  {
+   "q": "And how many stripes are on the flag?",
+   "a": "Thirteen! For the thirteen original colonies."
+  },
+  {
+   "q": "What do Americans celebrate on the Fourth of July?",
+   "a": "Independence Day! The Declaration was adopted on July fourth, seventeen seventy-six."
+  },
+  {
+   "q": "Which ocean is on the West Coast of the United States?",
+   "a": "The Pacific! The Atlantic is on the East Coast."
+  },
+  {
+   "q": "What is the name of the national anthem?",
+   "a": "The Star-Spangled Banner! It only became official in nineteen thirty-one."
+  },
+  {
+   "q": "Who lived in America before the Europeans arrived?",
+   "a": "American Indians, or Native Americans! For thousands of years."
+  },
+  {
+   "q": "Which of these is a U.S. territory, not a state?",
+   "a": "Puerto Rico! Hawaii and Alaska are states, and Bermuda is British."
+  },
+  {
+   "q": "The United States declared independence from which country?",
+   "a": "Great Britain! In seventeen seventy-six."
+  },
+  {
+   "q": "Which of these rights is in the First Amendment?",
+   "a": "Freedom of speech! Ten easy ones done. How many so far?"
+  },
+  {
+   "q": "Round two, a bit harder. Who was President during the Civil War?",
+   "a": "Abraham Lincoln! Grant became President later, in eighteen sixty-nine."
+  },
+  {
+   "q": "Who wrote the Declaration of Independence?",
+   "a": "Thomas Jefferson! He was only thirty-three."
+  },
+  {
+   "q": "What are the first ten amendments to the Constitution called?",
+   "a": "The Bill of Rights! Ratified in seventeen ninety-one."
+  },
+  {
+   "q": "How many years is one term for a U.S. senator?",
+   "a": "Six years! The longest term in Congress."
+  },
+  {
+   "q": "How many years is one presidential term?",
+   "a": "Four years! And a President can be elected only twice."
+  },
+  {
+   "q": "Who is the Commander in Chief of the military?",
+   "a": "The President! A civilian always leads the military."
+  },
+  {
+   "q": "Who makes federal laws?",
+   "a": "Congress! The Senate and the House together."
+  },
+  {
+   "q": "How many justices sit on the Supreme Court?",
+   "a": "Nine! It's been nine since eighteen sixty-nine."
+  },
+  {
+   "q": "In which year was the Constitution written?",
+   "a": "Seventeen eighty-seven! Seventeen seventy-six was the Declaration. Sneaky one."
+  },
+  {
+   "q": "Who did the United States fight in World War Two?",
+   "a": "Japan, Germany and Italy! Twenty done. You're halfway through the easy part."
+  },
+  {
+   "q": "Welcome to the hard round! Who was the first Postmaster General of the United States?",
+   "a": "Benjamin Franklin! He also ran a newspaper and invented bifocals."
+  },
+  {
+   "q": "What territory did the United States buy from France in eighteen-oh-three?",
+   "a": "The Louisiana Territory! It doubled the size of the country."
+  },
+  {
+   "q": "Who was President during World War One?",
+   "a": "Woodrow Wilson! He later won the Nobel Peace Prize."
+  },
+  {
+   "q": "Who was President during the Great Depression and World War Two?",
+   "a": "Franklin Roosevelt! The only President elected four times."
+  },
+  {
+   "q": "What is the minimum age to vote in federal elections?",
+   "a": "Eighteen! If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "How old must a President be, at least?",
+   "a": "Thirty-five! The youngest ever was Teddy Roosevelt, at forty-two."
+  },
+  {
+   "q": "How many years is one term in the House of Representatives?",
+   "a": "Two years! So they're always campaigning."
+  },
+  {
+   "q": "Susan B. Anthony is famous for fighting for what?",
+   "a": "Women's rights! She was even arrested for voting in eighteen seventy-two."
+  },
+  {
+   "q": "What did the Emancipation Proclamation do?",
+   "a": "It freed the slaves in the Confederate states! Signed by Lincoln in eighteen sixty-three."
+  },
+  {
+   "q": "The Federalist Papers argued in favour of what?",
+   "a": "Passing the U.S. Constitution! Eighty-five essays in New York newspapers."
+  },
+  {
+   "q": "Now the very hard round. Which of these men co-wrote the Federalist Papers?",
+   "a": "James Madison! With Alexander Hamilton and John Jay. Jefferson was in France."
+  },
+  {
+   "q": "Which of these is not a branch of the U.S. government?",
+   "a": "The military! The three branches are legislative, executive and judicial."
+  },
+  {
+   "q": "Men must register for Selective Service between which ages?",
+   "a": "Between eighteen and twenty-six! Most people get this one wrong."
+  },
+  {
+   "q": "What is usually the last day to send in federal income tax forms?",
+   "a": "April fifteenth! Tax day."
+  },
+  {
+   "q": "If both the President and the Vice President can no longer serve, who becomes President?",
+   "a": "The Speaker of the House! Then the President pro tempore of the Senate."
+  },
+  {
+   "q": "Under the Constitution, which of these powers belongs to the states?",
+   "a": "Providing schooling and education! Printing money and declaring war are federal."
+  },
+  {
+   "q": "What was the main concern of the United States during the Cold War?",
+   "a": "Communism! It lasted from the late nineteen forties to nineteen ninety-one."
+  },
+  {
+   "q": "Life, liberty and the pursuit of what?",
+   "a": "Happiness! The philosopher John Locke had written property. Jefferson changed it."
+  },
+  {
+   "q": "Which of these was one of the original thirteen states?",
+   "a": "Georgia! Vermont joined in seventeen ninety-one and Maine in eighteen twenty."
+  },
+  {
+   "q": "The Constitution begins with which three words?",
+   "a": "We the People! Four score and seven years ago is Lincoln's Gettysburg Address."
+  },
+  {
+   "q": "Welcome to the legend round! In which month do Americans vote for President?",
+   "a": "November! On the Tuesday after the first Monday."
+  },
+  {
+   "q": "Who wrote the words of The Star-Spangled Banner?",
+   "a": "Francis Scott Key! He watched a battle at Fort McHenry in eighteen fourteen."
+  },
+  {
+   "q": "Which document did the Constitution replace?",
+   "a": "The Articles of Confederation! The first plan for the government was too weak."
+  },
+  {
+   "q": "Which amendment gave women the right to vote?",
+   "a": "The nineteenth! In nineteen twenty."
+  },
+  {
+   "q": "Which amendment lowered the voting age to eighteen?",
+   "a": "The twenty-sixth! In nineteen seventy-one, during the Vietnam War."
+  },
+  {
+   "q": "Which amendment ended slavery?",
+   "a": "The thirteenth! In eighteen sixty-five."
+  },
+  {
+   "q": "Who was President during the Louisiana Purchase?",
+   "a": "Thomas Jefferson! He paid about three cents an acre."
+  },
+  {
+   "q": "Who was the first Secretary of the Treasury?",
+   "a": "Alexander Hamilton! Yes, the one from the musical. Two left, stay with me!"
+  },
+  {
+   "q": "From which country did the United States buy Alaska?",
+   "a": "Russia! In eighteen sixty-seven, for about two cents an acre."
+  },
+  {
+   "q": "Last one. Which state was the first to approve the Constitution?",
+   "a": "Delaware! That's why it's called the First State."
+  }
+ ],
+ "youtube": {
+  "title": "Can You Pass the U.S. Citizenship Test? 🗽 50 Real Civics Questions | Easy to Legend",
+  "description": "50 questions based on the official U.S. citizenship (naturalization) civics test – government, history, the Constitution and famous Americans 🗽 You need about 60% to pass. Can you get 30/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#CitizenshipTest #CivicsTest #USHistory #TriviaQuiz #Quiz #AmericanHistory\n\nMusic: original.\nNot affiliated with USCIS or the U.S. government.",
+  "tags": [
+   "us citizenship test",
+   "can you pass the us citizenship test",
+   "civics test",
+   "citizenship test questions",
+   "american history quiz",
+   "naturalization test",
+   "us government quiz",
+   "trivia quiz",
+   "50 question quiz"
+  ],
+  "categoryId": "27",
+  "comment": "How many did you get out of 50? 🗽 Would you pass? (30+ = pass) 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Citizenship Test",
+  "header": "CITIZENSHIP TEST",
+  "hook": "CAN YOU GET 30/50? 🗽",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "30+ = you pass! Comment 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "CITIZENSHIP **TEST**",
+   "COULD YOU **PASS**?",
+   "MOST AMERICANS **FAIL**"
+  ],
+  "thumbEmoji": "🗽",
+  "thumbBadge": "50 REAL CIVICS QUESTIONS",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "What is the **capital** of the United States?",
+    "answers": [
+     "New York",
+     "Philadelphia",
+     "Washington, D.C.",
+     "Boston"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🏛️  🦅"
+   },
+   {
+    "q": "How many **stars** are on the U.S. flag?",
+    "answers": [
+     "50",
+     "48",
+     "52",
+     "13"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "⭐  🎌"
+   },
+   {
+    "q": "How many **stripes** are on the flag?",
+    "answers": [
+     "50",
+     "12",
+     "10",
+     "13"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🟥  ⬜"
+   },
+   {
+    "q": "What do Americans celebrate on **July 4**?",
+    "answers": [
+     "Labor Day",
+     "Independence Day",
+     "Memorial Day",
+     "Thanksgiving"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🎆  🎉"
+   },
+   {
+    "q": "Which ocean is on the **West Coast**?",
+    "answers": [
+     "Atlantic",
+     "Pacific",
+     "Indian",
+     "Arctic"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌊  🌅"
+   },
+   {
+    "q": "What is the **national anthem**?",
+    "answers": [
+     "America the Beautiful",
+     "God Bless America",
+     "My Country, 'Tis of Thee",
+     "The Star-Spangled Banner"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🎵  🎺"
+   },
+   {
+    "q": "Who lived in America **before** Europeans?",
+    "answers": [
+     "Native Americans",
+     "Vikings",
+     "Spaniards",
+     "Pilgrims"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🏕️  🌾"
+   },
+   {
+    "q": "Which is a U.S. **territory**, not a state?",
+    "answers": [
+     "Hawaii",
+     "Alaska",
+     "Puerto Rico",
+     "Bermuda"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🏝️  🗺️"
+   },
+   {
+    "q": "The U.S. declared independence from **whom**?",
+    "answers": [
+     "Spain",
+     "France",
+     "The Netherlands",
+     "Great Britain"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "📜  ✒️"
+   },
+   {
+    "q": "Which right is in the **First Amendment**?",
+    "answers": [
+     "Right to vote at 16",
+     "Freedom of speech",
+     "Free healthcare",
+     "Right to drive"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🗣️  📰"
+   },
+   {
+    "q": "Who was President during the **Civil War**?",
+    "answers": [
+     "Abraham Lincoln",
+     "Andrew Jackson",
+     "Ulysses S. Grant",
+     "Thomas Jefferson"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "⚔️  🎩"
+   },
+   {
+    "q": "Who wrote the **Declaration of Independence**?",
+    "answers": [
+     "Benjamin Franklin",
+     "John Adams",
+     "Thomas Jefferson",
+     "George Washington"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "📜  🪶"
+   },
+   {
+    "q": "What are the **first ten amendments** called?",
+    "answers": [
+     "The Articles of Confederation",
+     "The Federalist Papers",
+     "The Bill of Rights",
+     "The Magna Carta"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "📜  🔟"
+   },
+   {
+    "q": "How long is a U.S. **senator's** term?",
+    "answers": [
+     "6 years",
+     "2 years",
+     "4 years",
+     "8 years"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🏛️  ⏳"
+   },
+   {
+    "q": "How long is one **presidential** term?",
+    "answers": [
+     "2 years",
+     "6 years",
+     "8 years",
+     "4 years"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🗳️  ⏳"
+   },
+   {
+    "q": "Who is **Commander in Chief** of the military?",
+    "answers": [
+     "The Secretary of Defense",
+     "The President",
+     "The Vice President",
+     "The top general"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎖️  ⭐"
+   },
+   {
+    "q": "Who **makes** federal laws?",
+    "answers": [
+     "The President",
+     "Congress",
+     "The Supreme Court",
+     "The governors"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "⚖️  📜"
+   },
+   {
+    "q": "How many **justices** sit on the Supreme Court?",
+    "answers": [
+     "7",
+     "11",
+     "12",
+     "9"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "⚖️  👨‍⚖️"
+   },
+   {
+    "q": "When was the **Constitution** written?",
+    "answers": [
+     "1787",
+     "1776",
+     "1791",
+     "1812"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "📜  🖋️"
+   },
+   {
+    "q": "Who did the U.S. fight in **World War II**?",
+    "answers": [
+     "Russia and China",
+     "Spain and France",
+     "Japan, Germany, Italy",
+     "Britain and Japan"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "✈️  ⚓"
+   },
+   {
+    "q": "Who was the first **Postmaster General**?",
+    "answers": [
+     "Alexander Hamilton",
+     "John Adams",
+     "James Madison",
+     "Benjamin Franklin"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "✉️  📮"
+   },
+   {
+    "q": "What did the U.S. buy from **France** in 1803?",
+    "answers": [
+     "Alaska",
+     "Louisiana",
+     "Florida",
+     "Texas"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🗺️  💰"
+   },
+   {
+    "q": "Who was President during **World War I**?",
+    "answers": [
+     "Woodrow Wilson",
+     "Theodore Roosevelt",
+     "Herbert Hoover",
+     "William Taft"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🪖  🕊️"
+   },
+   {
+    "q": "President during the **Great Depression** and WWII?",
+    "answers": [
+     "Herbert Hoover",
+     "Harry Truman",
+     "Franklin Roosevelt",
+     "Dwight Eisenhower"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "📉  🎙️"
+   },
+   {
+    "q": "What is the minimum **voting age**?",
+    "answers": [
+     "16",
+     "21",
+     "18",
+     "25"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🗳️  🎂"
+   },
+   {
+    "q": "How old must the **President** be?",
+    "answers": [
+     "At least 35",
+     "At least 30",
+     "At least 40",
+     "At least 45"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🎂  🏛️"
+   },
+   {
+    "q": "How long is a **House** member's term?",
+    "answers": [
+     "1 year",
+     "4 years",
+     "6 years",
+     "2 years"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🏛️  📅"
+   },
+   {
+    "q": "**Susan B. Anthony** fought for what?",
+    "answers": [
+     "Independence",
+     "Women's rights",
+     "Workers' pay",
+     "Free schools"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "✊  🗳️"
+   },
+   {
+    "q": "What did the **Emancipation Proclamation** do?",
+    "answers": [
+     "Ended World War I",
+     "Freed the slaves",
+     "Gave women the vote",
+     "Bought Alaska"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "📜  ⛓️"
+   },
+   {
+    "q": "The **Federalist Papers** supported what?",
+    "answers": [
+     "Independence from Britain",
+     "Ending slavery",
+     "Women's right to vote",
+     "The U.S. Constitution"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "📰  ✍️"
+   },
+   {
+    "q": "Who **co-wrote** the Federalist Papers?",
+    "answers": [
+     "James Madison",
+     "Thomas Jefferson",
+     "Benjamin Franklin",
+     "George Washington"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "✍️  📚"
+   },
+   {
+    "q": "Which is **not** a branch of government?",
+    "answers": [
+     "Legislative",
+     "Executive",
+     "Military",
+     "Judicial"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🏛️  🔱"
+   },
+   {
+    "q": "Men register for **Selective Service** at which ages?",
+    "answers": [
+     "16 to 21",
+     "21 to 30",
+     "18 to 35",
+     "18 to 26"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🎖️  📝"
+   },
+   {
+    "q": "Last day to send federal **tax forms**?",
+    "answers": [
+     "January 1",
+     "April 15",
+     "March 31",
+     "December 31"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🧾  💵"
+   },
+   {
+    "q": "If President and VP can't serve, who **takes over**?",
+    "answers": [
+     "Speaker of the House",
+     "Secretary of State",
+     "Senate Majority Leader",
+     "Chief Justice"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🏛️  🔄"
+   },
+   {
+    "q": "Which power belongs to the **states**?",
+    "answers": [
+     "Printing money",
+     "Declaring war",
+     "Providing schooling",
+     "Making treaties"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🏫  📚"
+   },
+   {
+    "q": "Main U.S. concern in the **Cold War**?",
+    "answers": [
+     "Fascism",
+     "Slavery",
+     "Communism",
+     "Taxes"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "❄️  🚀"
+   },
+   {
+    "q": "Life, liberty and the pursuit of **what**?",
+    "answers": [
+     "Happiness",
+     "Property",
+     "Justice",
+     "Freedom"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "📜  😊"
+   },
+   {
+    "q": "Which was one of the **original 13** states?",
+    "answers": [
+     "Vermont",
+     "Maine",
+     "Florida",
+     "Georgia"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🗺️  1️⃣3️⃣"
+   },
+   {
+    "q": "The Constitution begins with which **three words**?",
+    "answers": [
+     "In God We Trust",
+     "We the People",
+     "Four score and",
+     "Life, liberty and"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "📜  ✒️"
+   },
+   {
+    "q": "In which month do we vote for **President**?",
+    "answers": [
+     "October",
+     "November",
+     "December",
+     "January"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🗳️  📅"
+   },
+   {
+    "q": "Who wrote **The Star-Spangled Banner**?",
+    "answers": [
+     "Paul Revere",
+     "John Hancock",
+     "Samuel Adams",
+     "Francis Scott Key"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🎵  ⚓"
+   },
+   {
+    "q": "The Constitution **replaced** which document?",
+    "answers": [
+     "Articles of Confederation",
+     "The Magna Carta",
+     "The Mayflower Compact",
+     "The Declaration of Independence"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "📜  🔄"
+   },
+   {
+    "q": "Which amendment gave women the **vote**?",
+    "answers": [
+     "15th",
+     "21st",
+     "19th",
+     "26th"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "👩  🗳️"
+   },
+   {
+    "q": "Which amendment lowered the voting age to **18**?",
+    "answers": [
+     "19th",
+     "24th",
+     "27th",
+     "26th"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🗳️  🎓"
+   },
+   {
+    "q": "Which amendment **ended slavery**?",
+    "answers": [
+     "10th",
+     "13th",
+     "14th",
+     "15th"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "⛓️  🕊️"
+   },
+   {
+    "q": "Who was President during the **Louisiana Purchase**?",
+    "answers": [
+     "Thomas Jefferson",
+     "John Adams",
+     "James Madison",
+     "James Monroe"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🗺️  🎩"
+   },
+   {
+    "q": "Who was the first **Secretary of the Treasury**?",
+    "answers": [
+     "Thomas Jefferson",
+     "Benjamin Franklin",
+     "Alexander Hamilton",
+     "John Jay"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "💵  🏦"
+   },
+   {
+    "q": "The U.S. bought **Alaska** from which country?",
+    "answers": [
+     "Britain",
+     "Canada",
+     "Russia",
+     "Spain"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🐻‍❄️  ❄️"
+   },
+   {
+    "q": "Which state approved the Constitution **first**?",
+    "answers": [
+     "Delaware",
+     "Pennsylvania",
+     "Virginia",
+     "Massachusetts"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🥇  📜"
+   }
+  ]
+ }
+}
