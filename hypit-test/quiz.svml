@@ -15,7 +15,7 @@
     <time:Instant id="q1" at="1.8s"/><time:Instant id="q1a" at="2.4s"/><time:Instant id="q1b" at="2.6s"/><time:Instant id="q1c" at="2.8s"/><time:Instant id="q1d" at="3s"/><time:Instant id="r1" at="6.6s"/>
     <time:Instant id="q2" at="8s"/><time:Instant id="q2a" at="8.6s"/><time:Instant id="q2b" at="8.8s"/><time:Instant id="q2c" at="9s"/><time:Instant id="q2d" at="9.2s"/><time:Instant id="r2" at="12.8s"/>
     <time:Instant id="q3" at="14.2s"/><time:Instant id="q3a" at="14.8s"/><time:Instant id="q3b" at="15s"/><time:Instant id="q3c" at="15.2s"/><time:Instant id="q3d" at="15.4s"/><time:Instant id="r3" at="19s"/>
-    <time:Instant id="end" at="20.4s"/>
+    <time:Instant id="outro" at="20.4s"/>
   </time:Timeline>
   <spatial:Canvas id="canvas" width="1080" height="1920"/>
   <fonts:Face id="font-face" package="@fontsource/archivo-black" weight="400" style="normal"/>
@@ -40,7 +40,7 @@
     <quiz:Item id="q3c" kind="option" text="AC Milan" at={show.q3c}/>
     <quiz:Item id="q3d" kind="option" text="Real Madrid" at={show.q3d}/>
     <quiz:Item id="r3" kind="answer" text="D" at={show.r3}/>
-    <quiz:Item id="end" kind="end" text="HOW MANY DID YOU GET?|COMMENT YOUR SCORE" at={show.end}/>
+    <quiz:Item id="end" kind="end" text="HOW MANY DID YOU GET?|COMMENT YOUR SCORE" at={show.outro}/>
   </quiz:Scene>
   <film:Film id="main" canvas={canvas.canvas} timeline={show.timeline} appearance={style.film.main}>
     <film:Track source={game.visual}/>
