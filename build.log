@@ -1,0 +1,41 @@
+✓ Build submitted
+
+  Build   bld_20261024T224250942Z_52AF511DFE
+  Target  final.video
+  Work    3 requests
+
+Following accepted work. Ctrl-C stops watching; the Build continues.
+  · Working · 0/3 steps complete · 1s
+  · Working · 1/3 steps complete · 1 starting browsers · 6s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 26/690 frames · 12s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 50/690 frames · 17s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 87/690 frames · 22s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 119/690 frames · 27s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 141/690 frames · 33s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 165/690 frames · 38s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 202/690 frames · 43s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 225/690 frames · 49s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 255/690 frames · 54s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 287/690 frames · 59s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 307/690 frames · 1m 04s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 347/690 frames · 1m 10s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 374/690 frames · 1m 15s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 405/690 frames · 1m 20s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 423/690 frames · 1m 25s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 458/690 frames · 1m 30s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 478/690 frames · 1m 36s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 508/690 frames · 1m 41s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 537/690 frames · 1m 46s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 574/690 frames · 1m 51s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 597/690 frames · 1m 57s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 625/690 frames · 2m 02s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 652/690 frames · 2m 08s
+  · Working · 1/3 steps complete · 1 rasterizing frames · 676/690 frames · 2m 13s
+  · Working · 1/3 steps complete · 1 encoding video · 2m 19s
+  · Working · 2/3 steps complete · 2m 24s
+✓ Build complete
+
+  Build  bld_20261024T224250942Z_52AF511DFE
+
+Inspect  hypit inspect bld_20261024T224250942Z_52AF511DFE --project /home/runner/work/could-you-pass/could-you-pass/hypit/examples/cyp-quiz
+Export   hypit get bld_20261024T224250942Z_52AF511DFE --output final.video --project /home/runner/work/could-you-pass/could-you-pass/hypit/examples/cyp-quiz --to <path>

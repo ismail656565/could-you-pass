@@ -1,0 +1,7 @@
+× Command failed
+
+  ENOENT
+  ENOENT: no such file or directory, stat '/home/runner/work/could-you-pass/could-you-pass/hypit/examples/semantic-composition/packages/chat-scene/dist/activation.js'
+
+Run with --debug to include the internal stack trace.
+chat check failed
