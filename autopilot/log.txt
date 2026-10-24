@@ -276,3 +276,35 @@
 [2026-10-23 12:45:54] trap-4-1: noch nicht öffentlich – Kommentar später
 [2026-10-23 13:47:53] one-q-titanic: noch nicht öffentlich – Kommentar später
 [2026-10-23 13:47:53] trap-4-1: noch nicht öffentlich – Kommentar später
+[2026-10-24 05:16:38] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-24 05:16:38] Analytics gespeichert (27 Videos)
+[2026-10-24 05:16:38] one-q-titanic: Kommentar gepostet
+[2026-10-24 05:16:39] trap-4-1: Kommentar gepostet
+[2026-10-24 05:16:40] Thumbnail-Test memory-check-35-1: Variante A → {'views': 24, 'ctr': 6.0, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-24 05:16:42] Thumbnail-Test memory-check-35-1: jetzt Variante B
+[2026-10-24 05:16:42] Produziere one-q-japan-islands (short)
+[2026-10-24 05:16:42] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-24 05:16:53] Ton fertig: 18.2 s
+[2026-10-24 05:18:36] Gerendert
+[2026-10-24 05:18:39] Hochgeladen: https://youtube.com/watch?v=QWSNFfisve4 (private)
+[2026-10-24 05:18:40] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-24 05:18:40] Geplant für 24.10. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-24 05:18:40] Produziere trap-4-2 (short)
+[2026-10-24 05:18:40] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-24 05:19:00] Ton fertig: 37.4 s
+[2026-10-24 05:22:01] Gerendert
+[2026-10-24 05:22:04] Hochgeladen: https://youtube.com/watch?v=BTEGptf0s6o (private)
+[2026-10-24 05:22:05] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-24 05:22:05] Geplant für 24.10. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-24 05:22:05] Kein short-Video in der Warteschlange.
+[2026-10-24 05:22:05] Produziere memory-test-50-1 (long)
+[2026-10-24 05:22:05] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-24 05:26:04] Ton fertig: 674.8 s
+[2026-10-24 06:20:16] Gerendert
+[2026-10-24 06:20:34] Hochgeladen: https://youtube.com/watch?v=ECEdEibYQPY (private)
+[2026-10-24 06:20:36] Vorschaubild gesetzt
+[2026-10-24 06:20:37] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-10-24 06:20:37] Geplant für 24.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-24 06:20:37] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-10-24 06:20:38] Short-Beschreibung (trap-4-2) verlinkt auf langes Video ECEdEibYQPY
+[2026-10-24 06:20:38] Short-Beschreibung (one-q-japan-islands) verlinkt auf langes Video ECEdEibYQPY

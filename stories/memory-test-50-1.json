@@ -1,0 +1,834 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "neon",
+ "title": "General Knowledge Quiz",
+ "header": "MEMORY TEST",
+ "hook": "CAN YOU GET 40/50? 🧠",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 24,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "MEMORY **TEST**",
+  "CAN YOU GET **40/50**?",
+  "ONLY 1 IN 10 GET **#50**"
+ ],
+ "thumbEmoji": "🧠",
+ "thumbBadge": "50 QUESTIONS 🧠 EASY → LEGEND",
+ "cardColors": [
+  "#0F766E",
+  "#042F2E"
+ ],
+ "questions": [
+  {
+   "q": "Which animal is the **tallest** in the world?",
+   "answers": [
+    "Elephant",
+    "Giraffe",
+    "Camel",
+    "Ostrich"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🌍  📏",
+   "start": 0.0,
+   "countdownStart": 11.157,
+   "reveal": 17.157,
+   "end": 21.63
+  },
+  {
+   "q": "Which is the **largest** mammal on Earth?",
+   "answers": [
+    "African elephant",
+    "Sperm whale",
+    "Blue whale",
+    "Hippo"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🌍  🐾",
+   "start": 21.63,
+   "countdownStart": 23.855,
+   "reveal": 29.855,
+   "end": 34.067
+  },
+  {
+   "q": "What is the capital of **Egypt**?",
+   "answers": [
+    "Alexandria",
+    "Cairo",
+    "Luxor",
+    "Giza"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🏜️  🐪",
+   "start": 34.067,
+   "countdownStart": 36.161,
+   "reveal": 42.161,
+   "end": 45.846
+  },
+  {
+   "q": "Which **ocean** lies between Europe and America?",
+   "answers": [
+    "Pacific",
+    "Indian",
+    "Arctic",
+    "Atlantic"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🌊  🚢",
+   "start": 45.846,
+   "countdownStart": 48.423,
+   "reveal": 54.423,
+   "end": 58.85
+  },
+  {
+   "q": "Who wrote **Hamlet**?",
+   "answers": [
+    "Charles Dickens",
+    "William Shakespeare",
+    "John Milton",
+    "Geoffrey Chaucer"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🎭  💀",
+   "start": 58.85,
+   "countdownStart": 60.446,
+   "reveal": 66.446,
+   "end": 70.298
+  },
+  {
+   "q": "How many **colours** are in a rainbow?",
+   "answers": [
+    "Five",
+    "Six",
+    "Seven",
+    "Eight"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🌈  🎨",
+   "start": 70.298,
+   "countdownStart": 72.161,
+   "reveal": 78.161,
+   "end": 83.145
+  },
+  {
+   "q": "In which country is the **Taj Mahal**?",
+   "answers": [
+    "India",
+    "Pakistan",
+    "Iran",
+    "Nepal"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🕌  ✨",
+   "start": 83.145,
+   "countdownStart": 85.356,
+   "reveal": 91.356,
+   "end": 95.729
+  },
+  {
+   "q": "Who was known as the **Iron Lady**?",
+   "answers": [
+    "Golda Meir",
+    "Indira Gandhi",
+    "Queen Elizabeth",
+    "Margaret Thatcher"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "👩  🏛️",
+   "start": 95.729,
+   "countdownStart": 97.68,
+   "reveal": 103.68,
+   "end": 108.708
+  },
+  {
+   "q": "Which singer recorded **Jolene**?",
+   "answers": [
+    "Dolly Parton",
+    "Patsy Cline",
+    "Tammy Wynette",
+    "Loretta Lynn"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🎤  🤠",
+   "start": 108.708,
+   "countdownStart": 110.961,
+   "reveal": 116.961,
+   "end": 120.687
+  },
+  {
+   "q": "How many **legs** does an insect have?",
+   "answers": [
+    "Four",
+    "Six",
+    "Eight",
+    "Ten"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🐞  🦗",
+   "start": 120.687,
+   "countdownStart": 122.804,
+   "reveal": 128.804,
+   "end": 133.162
+  },
+  {
+   "q": "What is the capital of **Portugal**?",
+   "answers": [
+    "Porto",
+    "Madrid",
+    "Lisbon",
+    "Seville"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🏰  🌊",
+   "start": 133.162,
+   "countdownStart": 136.608,
+   "reveal": 142.608,
+   "end": 146.919
+  },
+  {
+   "q": "Who painted the **Water Lilies**?",
+   "answers": [
+    "Renoir",
+    "Claude Monet",
+    "Cézanne",
+    "Degas"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🎨  🪷",
+   "start": 146.919,
+   "countdownStart": 149.127,
+   "reveal": 155.127,
+   "end": 160.097
+  },
+  {
+   "q": "What is the **largest** organ of the human body?",
+   "answers": [
+    "Liver",
+    "Brain",
+    "Lungs",
+    "Skin"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🧍  🔍",
+   "start": 160.097,
+   "countdownStart": 162.643,
+   "reveal": 168.643,
+   "end": 174.282
+  },
+  {
+   "q": "Which metal is **liquid** at room temperature?",
+   "answers": [
+    "Mercury",
+    "Lead",
+    "Tin",
+    "Zinc"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🌡️  💧",
+   "start": 174.282,
+   "countdownStart": 176.742,
+   "reveal": 182.742,
+   "end": 187.14
+  },
+  {
+   "q": "Who first climbed **Everest** with Tenzing Norgay?",
+   "answers": [
+    "George Mallory",
+    "Edmund Hillary",
+    "Reinhold Messner",
+    "Chris Bonington"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🏔️  🧗",
+   "start": 187.14,
+   "countdownStart": 190.536,
+   "reveal": 196.536,
+   "end": 200.581
+  },
+  {
+   "q": "Which 1939 film features **Rhett Butler**?",
+   "answers": [
+    "Casablanca",
+    "Ben-Hur",
+    "Gone with the Wind",
+    "Rebecca"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🎬  1939",
+   "start": 200.581,
+   "countdownStart": 203.53,
+   "reveal": 209.53,
+   "end": 213.209
+  },
+  {
+   "q": "How many **strings** does a standard guitar have?",
+   "answers": [
+    "Four",
+    "Five",
+    "Six",
+    "Seven"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🎸  🎶",
+   "start": 213.209,
+   "countdownStart": 215.784,
+   "reveal": 221.784,
+   "end": 225.857
+  },
+  {
+   "q": "In which country was **paper** invented?",
+   "answers": [
+    "Egypt",
+    "Greece",
+    "India",
+    "China"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "📜  ✍️",
+   "start": 225.857,
+   "countdownStart": 228.223,
+   "reveal": 234.223,
+   "end": 237.927
+  },
+  {
+   "q": "Who wrote the novel **1984**?",
+   "answers": [
+    "Aldous Huxley",
+    "George Orwell",
+    "H. G. Wells",
+    "Ray Bradbury"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "📖  👁️",
+   "start": 237.927,
+   "countdownStart": 240.161,
+   "reveal": 246.161,
+   "end": 250.373
+  },
+  {
+   "q": "Sunlight helps your body make which **vitamin**?",
+   "answers": [
+    "Vitamin D",
+    "Vitamin C",
+    "Vitamin A",
+    "Vitamin B12"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "☀️  💊",
+   "start": 250.373,
+   "countdownStart": 252.811,
+   "reveal": 258.811,
+   "end": 262.575
+  },
+  {
+   "q": "Which is the **smallest** ocean?",
+   "answers": [
+    "Indian",
+    "Southern",
+    "Atlantic",
+    "Arctic"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🌊  📏",
+   "start": 262.575,
+   "countdownStart": 266.477,
+   "reveal": 272.477,
+   "end": 276.708
+  },
+  {
+   "q": "What is the capital of **Morocco**?",
+   "answers": [
+    "Casablanca",
+    "Rabat",
+    "Marrakesh",
+    "Fez"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🕌  🐪",
+   "start": 276.708,
+   "countdownStart": 278.765,
+   "reveal": 284.765,
+   "end": 290.996
+  },
+  {
+   "q": "Who made the first successful **polio vaccine**?",
+   "answers": [
+    "Louis Pasteur",
+    "Edward Jenner",
+    "Jonas Salk",
+    "Alexander Fleming"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "💉  🧪",
+   "start": 290.996,
+   "countdownStart": 293.676,
+   "reveal": 299.676,
+   "end": 304.526
+  },
+  {
+   "q": "In which year did **Elizabeth II** become queen?",
+   "answers": [
+    "1947",
+    "1952",
+    "1953",
+    "1956"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "👑  📅",
+   "start": 304.526,
+   "countdownStart": 307.332,
+   "reveal": 313.332,
+   "end": 318.323
+  },
+  {
+   "q": "Which planet has the **Great Red Spot**?",
+   "answers": [
+    "Mars",
+    "Saturn",
+    "Jupiter",
+    "Neptune"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🪐  🔴",
+   "start": 318.323,
+   "countdownStart": 320.555,
+   "reveal": 326.555,
+   "end": 333.595
+  },
+  {
+   "q": "Who composed **The Magic Flute**?",
+   "answers": [
+    "Mozart",
+    "Haydn",
+    "Wagner",
+    "Verdi"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🎼  🪈",
+   "start": 333.595,
+   "countdownStart": 335.899,
+   "reveal": 341.899,
+   "end": 346.303
+  },
+  {
+   "q": "Who played Rick in **Casablanca**?",
+   "answers": [
+    "Clark Gable",
+    "Cary Grant",
+    "James Stewart",
+    "Humphrey Bogart"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🎬  🎹",
+   "start": 346.303,
+   "countdownStart": 348.628,
+   "reveal": 354.628,
+   "end": 358.484
+  },
+  {
+   "q": "What is the chemical symbol for **silver**?",
+   "answers": [
+    "Si",
+    "Ag",
+    "Sv",
+    "Au"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🥈  🧪",
+   "start": 358.484,
+   "countdownStart": 360.753,
+   "reveal": 366.753,
+   "end": 371.561
+  },
+  {
+   "q": "Which is the **longest** river in Europe?",
+   "answers": [
+    "Danube",
+    "Rhine",
+    "Volga",
+    "Dnieper"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🏞️  🚣",
+   "start": 371.561,
+   "countdownStart": 373.736,
+   "reveal": 379.736,
+   "end": 383.507
+  },
+  {
+   "q": "Which country did **ABBA** come from?",
+   "answers": [
+    "Norway",
+    "Sweden",
+    "Denmark",
+    "Finland"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🎤  🪩",
+   "start": 383.507,
+   "countdownStart": 385.756,
+   "reveal": 391.756,
+   "end": 396.906
+  },
+  {
+   "q": "What is the capital of **Pakistan**?",
+   "answers": [
+    "Islamabad",
+    "Karachi",
+    "Lahore",
+    "Peshawar"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🏙️  🗺️",
+   "start": 396.906,
+   "countdownStart": 400.423,
+   "reveal": 406.423,
+   "end": 411.433
+  },
+  {
+   "q": "How many **teeth** does an adult usually have?",
+   "answers": [
+    "28",
+    "30",
+    "32",
+    "36"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🦷  😁",
+   "start": 411.433,
+   "countdownStart": 413.915,
+   "reveal": 419.915,
+   "end": 424.137
+  },
+  {
+   "q": "Who first reached **India** by sea from Europe?",
+   "answers": [
+    "Columbus",
+    "Magellan",
+    "John Cabot",
+    "Vasco da Gama"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "⛵  1498",
+   "start": 424.137,
+   "countdownStart": 428.289,
+   "reveal": 434.289,
+   "end": 439.389
+  },
+  {
+   "q": "When did the **Wright brothers** first fly?",
+   "answers": [
+    "1899",
+    "1903",
+    "1908",
+    "1911"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "✈️  🛩️",
+   "start": 439.389,
+   "countdownStart": 442.43,
+   "reveal": 448.43,
+   "end": 453.451
+  },
+  {
+   "q": "Which is the **largest island** in the world?",
+   "answers": [
+    "Borneo",
+    "New Guinea",
+    "Greenland",
+    "Madagascar"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🏝️  🗺️",
+   "start": 453.451,
+   "countdownStart": 455.827,
+   "reveal": 461.827,
+   "end": 466.936
+  },
+  {
+   "q": "Who wrote **War and Peace**?",
+   "answers": [
+    "Leo Tolstoy",
+    "Dostoevsky",
+    "Chekhov",
+    "Pushkin"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "📚  ⚔️",
+   "start": 466.936,
+   "countdownStart": 468.83,
+   "reveal": 474.83,
+   "end": 479.168
+  },
+  {
+   "q": "Which instrument did **Louis Armstrong** play?",
+   "answers": [
+    "Saxophone",
+    "Clarinet",
+    "Trombone",
+    "Trumpet"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "🎶  🎙️",
+   "start": 479.168,
+   "countdownStart": 481.497,
+   "reveal": 487.497,
+   "end": 491.076
+  },
+  {
+   "q": "What is the most common **element** in the universe?",
+   "answers": [
+    "Oxygen",
+    "Hydrogen",
+    "Helium",
+    "Carbon"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "✨  ⚛️",
+   "start": 491.076,
+   "countdownStart": 493.639,
+   "reveal": 499.639,
+   "end": 503.536
+  },
+  {
+   "q": "Who played **Cleopatra** in the 1963 film?",
+   "answers": [
+    "Sophia Loren",
+    "Vivien Leigh",
+    "Elizabeth Taylor",
+    "Ava Gardner"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🎬  👑",
+   "start": 503.536,
+   "countdownStart": 506.574,
+   "reveal": 512.574,
+   "end": 517.543
+  },
+  {
+   "q": "In which year was **Magna Carta** sealed?",
+   "answers": [
+    "1066",
+    "1215",
+    "1314",
+    "1415"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "📜  👑",
+   "start": 517.543,
+   "countdownStart": 519.928,
+   "reveal": 525.928,
+   "end": 530.022
+  },
+  {
+   "q": "Which country has **three** capital cities?",
+   "answers": [
+    "Switzerland",
+    "Bolivia",
+    "South Africa",
+    "Netherlands"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🏛️  3",
+   "start": 530.022,
+   "countdownStart": 533.995,
+   "reveal": 539.995,
+   "end": 544.628
+  },
+  {
+   "q": "Who was the **first** Roman emperor?",
+   "answers": [
+    "Augustus",
+    "Julius Caesar",
+    "Nero",
+    "Caligula"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🏛️  ⚔️",
+   "start": 544.628,
+   "countdownStart": 546.691,
+   "reveal": 552.691,
+   "end": 556.8
+  },
+  {
+   "q": "What is the **smallest** bone in the body?",
+   "answers": [
+    "Hyoid",
+    "Coccyx",
+    "Incus",
+    "Stapes"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🦴  👂",
+   "start": 556.8,
+   "countdownStart": 559.204,
+   "reveal": 565.204,
+   "end": 570.287
+  },
+  {
+   "q": "Who discovered the planet **Uranus**?",
+   "answers": [
+    "Galileo",
+    "William Herschel",
+    "Copernicus",
+    "Johannes Kepler"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🔭  🪐",
+   "start": 570.287,
+   "countdownStart": 572.271,
+   "reveal": 578.271,
+   "end": 583.493
+  },
+  {
+   "q": "In which year did the **Suez Canal** open?",
+   "answers": [
+    "1869",
+    "1889",
+    "1904",
+    "1914"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🚢  🏜️",
+   "start": 583.493,
+   "countdownStart": 585.863,
+   "reveal": 591.863,
+   "end": 597.289
+  },
+  {
+   "q": "Who composed **Boléro**?",
+   "answers": [
+    "Debussy",
+    "Bizet",
+    "Maurice Ravel",
+    "Erik Satie"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🎼  ⛸️",
+   "start": 597.289,
+   "countdownStart": 598.921,
+   "reveal": 604.921,
+   "end": 610.22
+  },
+  {
+   "q": "Which mammal has the **longest** pregnancy?",
+   "answers": [
+    "Blue whale",
+    "Giraffe",
+    "Rhino",
+    "African elephant"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🤰  ⏳",
+   "start": 610.22,
+   "countdownStart": 612.531,
+   "reveal": 618.531,
+   "end": 622.385
+  },
+  {
+   "q": "First woman to fly **solo** across the Atlantic?",
+   "answers": [
+    "Amelia Earhart",
+    "Amy Johnson",
+    "Bessie Coleman",
+    "Jean Batten"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "✈️  🌊",
+   "start": 622.385,
+   "countdownStart": 627.218,
+   "reveal": 633.218,
+   "end": 637.167
+  },
+  {
+   "q": "How many **time zones** does Russia have?",
+   "answers": [
+    "Seven",
+    "Nine",
+    "Eleven",
+    "Thirteen"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🕰️  🌍",
+   "start": 637.167,
+   "countdownStart": 639.521,
+   "reveal": 645.521,
+   "end": 649.488
+  },
+  {
+   "q": "Which country first let women **vote** nationally?",
+   "answers": [
+    "United Kingdom",
+    "New Zealand",
+    "United States",
+    "Finland"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🗳️  👩",
+   "start": 649.488,
+   "countdownStart": 653.769,
+   "reveal": 659.769,
+   "end": 664.999
+  }
+ ],
+ "audio": "audio/memory-test-50-1.mp3",
+ "outroStart": 664.999,
+ "durationInSeconds": 674.787
+}

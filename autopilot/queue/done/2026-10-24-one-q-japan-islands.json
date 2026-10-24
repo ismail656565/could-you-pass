@@ -51,8 +51,24 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "image": "bilder/cap-flag-japan.jpg"
+    "image": "bilder/cap-flag-japan.jpg",
+    "start": 0.0,
+    "countdownStart": 5.83,
+    "reveal": 10.83,
+    "end": 18.173
    }
-  ]
- }
+  ],
+  "audio": "audio/one-q-japan-islands.mp3",
+  "outroStart": 18.173,
+  "durationInSeconds": 18.173
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-10-24T16:00+02:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "QWSNFfisve4",
+  "at": "2026-10-24T05:18"
+ },
+ "linkedLong": "ECEdEibYQPY"
 }
