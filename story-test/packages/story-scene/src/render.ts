@@ -27,7 +27,8 @@ export function renderStory(timeline: Timeline, within: SpatialFrame, window: Te
   const els: VisualElement[] = [];
   const text = (id: string, value: string, size: number, color: string, extra: { name: string; value: string | number }[] = []) => {
     els.push({ id, kind: "text", parent: "story", order: ++order, text: value, fonts: font.faces,
-      style: [{ name: "font-size", value: `${size}px` }, { name: "line-height", value: 1.08 }, { name: "color", value: color }, ...extra] });
+      style: [...[{ name: "font-size", value: `${size}px` }, { name: "line-height", value: 1.08 }, { name: "color", value: color }]
+        .filter(base => !extra.some(e => e.name === base.name)), ...extra] });
     return `{{${id}}}`;
   };
   text("brand", options.title.toUpperCase(), 30, "#f5c542", [{ name: "letter-spacing", value: "8px" }]);
