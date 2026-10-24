@@ -228,7 +228,7 @@
  "story": {
   "type": "quiz",
   "format": "long",
-  "layout": "neon",
+  "layout": "tvshow",
   "title": "Memory Test",
   "header": "MEMORY TEST",
   "hook": "CAN YOU GET 40/50? 🧠",

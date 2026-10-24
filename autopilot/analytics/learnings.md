@@ -146,3 +146,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - 25.10.: Alters-Titel 2. Versuch, diesmal mit 50 Fragen + exaktem vidIQ-Erfolgsmuster "Are You Over 65? Let's Check Your Memory" (962k-Vorbild), Thumbnail A erstmals mit Alters-Text "OVER 65? MEMORY TEST".
 ### Thumbnails
 - Views/day-Fallback (CTR-API weiter HttpError 400): Halloween-35 A 9,0/Tag → jetzt B; PL A 1,25/Tag → B; CL A 0,75/Tag → B (seit 22.10.). Noch kein Ergebnis für B/C → noch kein Stil-Sieger.
+
+## 2026-10-24 – STRATEGIE (Besitzer): NEUES LAYOUT "tvshow" GEGEN "KI-LOOK" – GILT AB SOFORT
+- Besitzer vermutet, dass das Neon-Layout (Glow, Gitterboden, Konfetti, Wackel-Sticker, Maskottchen, Emoji-Thumbnails) nach "AI slop" aussieht → gewählt: **klassische TV-Quizshow**.
+- Neu: `story.layout = "tvshow"` (src/QuizTV.tsx) für Shorts (Quiz) UND lange Videos (QuizLong): dunkelblaues Studio mit Scheinwerfern, Frage + Antworten in sechseckigen Gold/Silber-Balken ("A: …"), richtige Antwort kurz orange (eingeloggt) → grün, falsche blass; keine Glows, kein Konfetti, kein Wackeln, kein Maskottchen. Lange Videos: Runden-Leiter rechts (EASY…LEGEND mit Fortschritt), "ROUND 2 · MEDIUM"-Banner, ruhiger Abo-Hinweis, Abspann im gleichen Look.
+- Thumbnail-Variante A ist bei tvshow jetzt ein TV-Studio-Bild (großer Text + 4 Antwortbalken A–D "???", C orange; oder mit `story.thumbImage` ein echtes Foto aus image-credits.json im Goldrahmen). B (gelb-comic) und C (rot-challenge) bleiben für den A/B-Test.
+- **Regel: alle neuen Items (Shorts + lange) mit "layout":"tvshow"** (neon nicht mehr verwenden). Queue-Items ab 25.10. bereits umgestellt. Echte Fotos bevorzugen, cardText-Emojis sparsam (max. 2, oder kurze Zahl/Jahr).
+- Bewertung: tvshow-Shorts vs. Neon-Shorts (stayed 45–57 %, Ø 54–63 %, ~1,2–1,4k Views) und tvshow-Long vs. Neon-Long (Views/Tag, CTR) nach je ≥3 Videos mit ≥3 Tagen Daten.
+- Test-Standbilder: autopilot/test/frames/ (Dryrun 24.10. erfolgreich, Render ok).
