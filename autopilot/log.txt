@@ -321,3 +321,11 @@
 [2026-10-24 09:34:18] memory-test-50-1: noch nicht öffentlich – Kommentar später
 [2026-10-24 09:34:19] one-q-japan-islands: noch nicht öffentlich – Kommentar später
 [2026-10-24 09:34:19] trap-4-2: noch nicht öffentlich – Kommentar später
+[2026-10-24 09:39:46] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-24 09:40:36] Ton fertig: 102.3 s
+[2026-10-24 09:48:27] Testlauf tv-long-test: Render-Code 0, Dauer 102.324 s
+[2026-10-24 09:48:42] Testlauf tv-long-test: 7 Standbilder in autopilot/test/frames
+[2026-10-24 09:48:42] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-24 09:49:04] Ton fertig: 35.2 s
+[2026-10-24 09:51:52] Testlauf tv-short-test: Render-Code 0, Dauer 35.166 s
+[2026-10-24 09:51:54] Testlauf tv-short-test: 5 Standbilder in autopilot/test/frames

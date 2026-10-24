@@ -1,0 +1,86 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "TRIVIA",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Octopus blood is what **colour**?",
+   "answers": [
+    "Red",
+    "Green",
+    "Blue",
+    "Clear"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "image": "bilder/q2-octopus.jpg",
+   "start": 0.0,
+   "countdownStart": 1.761,
+   "reveal": 4.261,
+   "end": 7.196
+  },
+  {
+   "q": "Which country has the **longest coastline**?",
+   "answers": [
+    "Canada",
+    "Australia",
+    "Russia",
+    "Indonesia"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🌊  🗺️",
+   "start": 7.196,
+   "countdownStart": 9.894,
+   "reveal": 12.394,
+   "end": 17.394
+  },
+  {
+   "q": "What is the **largest desert** on Earth?",
+   "answers": [
+    "Sahara",
+    "Gobi",
+    "Arabian",
+    "Antarctica"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🏜️  ❄️",
+   "start": 17.394,
+   "countdownStart": 19.476,
+   "reveal": 21.976,
+   "end": 25.656
+  },
+  {
+   "q": "Which animal has **fingerprints** like ours?",
+   "answers": [
+    "Gorilla",
+    "Koala",
+    "Chimpanzee",
+    "Orangutan"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🖐️  🔍",
+   "start": 25.656,
+   "countdownStart": 29.266,
+   "reveal": 31.766,
+   "end": 35.166
+  }
+ ],
+ "audio": "audio/tv-short-test.mp3",
+ "outroStart": 35.166,
+ "durationInSeconds": 35.166
+}

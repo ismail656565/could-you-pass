@@ -1,0 +1,130 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "tvshow",
+ "title": "General Knowledge Quiz",
+ "header": "MEMORY TEST",
+ "hook": "CAN YOU GET 40/50? 🧠",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 3,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "MEMORY **TEST**",
+  "CAN YOU GET **40/50**?",
+  "ONLY 1 IN 10 GET **#50**"
+ ],
+ "thumbEmoji": "🧠",
+ "thumbBadge": "50 QUESTIONS 🧠 EASY → LEGEND",
+ "cardColors": [
+  "#0F766E",
+  "#042F2E"
+ ],
+ "questions": [
+  {
+   "q": "Which animal is the **tallest** in the world?",
+   "answers": [
+    "Elephant",
+    "Giraffe",
+    "Camel",
+    "Ostrich"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🌍  📏",
+   "start": 0.0,
+   "countdownStart": 11.156,
+   "reveal": 17.156,
+   "end": 21.631
+  },
+  {
+   "q": "Which is the **largest** mammal on Earth?",
+   "answers": [
+    "African elephant",
+    "Sperm whale",
+    "Blue whale",
+    "Hippo"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🌍  🐾",
+   "start": 21.631,
+   "countdownStart": 23.856,
+   "reveal": 29.856,
+   "end": 34.067
+  },
+  {
+   "q": "What is the capital of **Portugal**?",
+   "answers": [
+    "Porto",
+    "Madrid",
+    "Lisbon",
+    "Seville"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🏰  🌊",
+   "start": 34.067,
+   "countdownStart": 37.513,
+   "reveal": 43.513,
+   "end": 47.825
+  },
+  {
+   "q": "Who painted the **Water Lilies**?",
+   "answers": [
+    "Renoir",
+    "Claude Monet",
+    "Cézanne",
+    "Degas"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🎨  🪷",
+   "start": 47.825,
+   "countdownStart": 50.033,
+   "reveal": 56.033,
+   "end": 64.116
+  },
+  {
+   "q": "Which is the **smallest** ocean?",
+   "answers": [
+    "Indian",
+    "Southern",
+    "Atlantic",
+    "Arctic"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🌊  📏",
+   "start": 64.116,
+   "countdownStart": 68.018,
+   "reveal": 74.018,
+   "end": 78.25
+  },
+  {
+   "q": "What is the capital of **Morocco**?",
+   "answers": [
+    "Casablanca",
+    "Rabat",
+    "Marrakesh",
+    "Fez"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "image": "bilder/q2-sun.jpg",
+   "start": 78.25,
+   "countdownStart": 80.306,
+   "reveal": 86.306,
+   "end": 92.537
+  }
+ ],
+ "audio": "audio/tv-long-test.mp3",
+ "outroStart": 92.537,
+ "durationInSeconds": 102.324
+}
