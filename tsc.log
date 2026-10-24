@@ -1,0 +1,4 @@
+
+> @cyp/story-scene@0.0.0-dev build /home/runner/work/could-you-pass/could-you-pass/hypit/examples/cyp-story/packages/story-scene
+> tsc -p tsconfig.json
+

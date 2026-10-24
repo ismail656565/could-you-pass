@@ -1,0 +1,51 @@
+<?svml using="@hypit/markup@1"?>
+<svml>
+  <import as="time" from="@hypit/timeline-author@1"/>
+  <import as="spatial" from="@hypit/spatial@1"/>
+  <import as="media" from="@hypit/media@1"/>
+  <import as="fonts" from="@hypit/fontsource@1"/>
+  <import as="story" from="@cyp/story-scene@1"/>
+  <import as="film" from="@hypit/film@1"/>
+  <import as="html" from="@hypit/html-video@1"/>
+  <import as="style" source="./story.svs"/>
+  <time:Clock id="clock" frame-rate="30"/>
+  <time:Timeline id="show" clock={clock} end="54.7s">
+    <time:Instant id="l0" at="0.4s"/>
+    <time:Instant id="l1" at="5.4s"/>
+    <time:Instant id="l2" at="10.5s"/>
+    <time:Instant id="l3" at="13.1s"/>
+    <time:Instant id="l4" at="15.8s"/>
+    <time:Instant id="l5" at="20.6s"/>
+    <time:Instant id="l6" at="24.9s"/>
+    <time:Instant id="l7" at="28.1s"/>
+    <time:Instant id="l8" at="31.6s"/>
+    <time:Instant id="l9" at="35.6s"/>
+    <time:Instant id="l10" at="39.6s"/>
+    <time:Instant id="l11" at="43.5s"/>
+    <time:Instant id="l12" at="47.7s"/>
+    <time:Instant id="l13" at="51.3s"/>
+  </time:Timeline>
+  <spatial:Canvas id="canvas" width="1080" height="1920"/>
+  <fonts:Face id="font-face" package="@fontsource-variable/montserrat" weight="800" style="normal"/>
+  <media:FontStack id="font" primary={font-face}/>
+  <story:Scene id="tale" timeline={show.timeline} within={canvas.bounds} font={font} during={show.window} title="True Story" entrance-frames="10">
+    <story:Item id="i0" kind="line" text="At 20, he walked away from college for a $40 million contract." visual="money|40000000|ROOKIE CONTRACT · AGE 20" at={show.l0}/>
+    <story:Item id="i1" kind="line" text="Four years later, the Lakers paid him $120 million more." visual="money|120000000|LAKERS · 1996" at={show.l1}/>
+    <story:Item id="i2" kind="line" text="But his mother had one request." visual="text|MOM HAD|ONE REQUEST|heart" at={show.l2}/>
+    <story:Item id="i3" kind="line" text="&quot;You promised me you'd finish school.&quot;" visual="quote|You promised me you'd finish school.|MOM" at={show.l3}/>
+    <story:Item id="i4" kind="line" text="So in the middle of his NBA career, Shaquille O'Neal went back to college." visual="text|BACK TO|SCHOOL|cap" at={show.l4}/>
+    <story:Item id="i5" kind="line" text="In 2000, he earned his bachelor's degree from LSU." visual="degree|B.A.|2000|LSU" at={show.l5}/>
+    <story:Item id="i6" kind="line" text="Then he noticed something in business meetings." visual="text|BUSINESS|MEETINGS|case" at={show.l6}/>
+    <story:Item id="i7" kind="line" text="People shook his hand, and then talked to his agent." visual="stamp|IGNORED|IN HIS OWN DEALS" at={show.l7}/>
+    <story:Item id="i8" kind="line" text="So he earned an MBA. Now they had to talk to him." visual="degree|MBA|2005|UNIVERSITY OF PHOENIX" at={show.l8}/>
+    <story:Item id="i9" kind="line" text="Then his mom pointed out there were no doctors in the family." visual="text|NO DOCTORS|IN THE FAMILY" at={show.l9}/>
+    <story:Item id="i10" kind="line" text="In 2012, he earned a doctorate in education." visual="degree|Ed.D.|2012|BARRY UNIVERSITY" at={show.l10}/>
+    <story:Item id="i11" kind="line" text="One of the most famous athletes on earth became Dr. O'Neal." visual="name|DR. O'NEAL|DOCTOR OF EDUCATION" at={show.l11}/>
+    <story:Item id="i12" kind="line" text="The money made him rich. The promise made him proud." visual="text|RICH → PROUD" at={show.l12}/>
+    <story:Item id="i13" kind="end" text="Follow for more true stories." visual="end|FOLLOW|FOR MORE TRUE STORIES" at={show.l13}/>
+  </story:Scene>
+  <film:Film id="main" canvas={canvas.canvas} timeline={show.timeline} appearance={style.film.main}>
+    <film:Track source={tale.visual}/>
+  </film:Film>
+  <html:Video id="final" composition={main.composition} timeline={show.timeline}/>
+</svml>
