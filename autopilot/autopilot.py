@@ -691,6 +691,79 @@ def link_short_to_long(today):
         log(f'Short-Beschreibung ({short["id"]}) verlinkt auf langes Video {long_id}')
 
 
+# ---------------------------------------------------------------- Ausreißer-Scan (eigener vidIQ-Ersatz)
+OUTLIER_KEYWORDS = ['general knowledge quiz', 'trivia quiz', 'memory test quiz', 'quiz for seniors', 'iq test quiz', 'guess the quiz']
+
+
+def parse_dur(iso):
+    m = re.match(r'P(?:(\d+)D)?T?(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', iso or '')
+    if not m:
+        return 0
+    d, h, mi, se = (int(x or 0) for x in m.groups())
+    return d * 86400 + h * 3600 + mi * 60 + se
+
+
+def outliers(days=30, max_subs=100000):
+    """Sucht Quiz-Videos der letzten N Tage über die offizielle YouTube-API (~2.000 Quota-Einheiten)
+    und schreibt die Ausreißer (Views im Verhältnis zu Abos, Views/Tag) nach analytics/outliers.json + .md"""
+    y = yt()
+    now = dt.datetime.now(dt.timezone.utc)
+    after = (now - dt.timedelta(days=days)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    ids, hits = [], {}
+    for kw in OUTLIER_KEYWORDS:
+        for dur in ('short', 'medium', 'long'):
+            try:
+                r = y.search().list(part='id', q=kw, type='video', order='viewCount', publishedAfter=after,
+                                    videoDuration=dur, relevanceLanguage='en', maxResults=50).execute()
+            except Exception as e:
+                log(f'Ausreißer-Suche "{kw}"/{dur} fehlgeschlagen: {e}')
+                continue
+            for it in r.get('items', []):
+                vid = it['id'].get('videoId')
+                if vid and vid not in hits:
+                    hits[vid] = kw
+                    ids.append(vid)
+    vids = []
+    for i in range(0, len(ids), 50):
+        r = y.videos().list(part='snippet,statistics,contentDetails', id=','.join(ids[i:i + 50])).execute()
+        vids += r.get('items', [])
+    chans = {}
+    cids = sorted({v['snippet']['channelId'] for v in vids})
+    for i in range(0, len(cids), 50):
+        r = y.channels().list(part='statistics', id=','.join(cids[i:i + 50])).execute()
+        for c in r.get('items', []):
+            chans[c['id']] = int(c['statistics'].get('subscriberCount') or 0)
+    rows = []
+    for v in vids:
+        sn, stt = v['snippet'], v.get('statistics', {})
+        views = int(stt.get('viewCount') or 0)
+        subs = chans.get(sn['channelId'], 0)
+        pub = dt.datetime.fromisoformat(sn['publishedAt'].replace('Z', '+00:00'))
+        age = max((now - pub).total_seconds() / 86400, 0.5)
+        sec = parse_dur(v['contentDetails'].get('duration'))
+        rows.append({'id': v['id'], 'title': sn['title'], 'channel': sn['channelTitle'], 'subs': subs, 'views': views,
+                     'viewsPerDay': round(views / age), 'ratio': round(views / max(subs, 500), 1),
+                     'likes': int(stt.get('likeCount') or 0), 'comments': int(stt.get('commentCount') or 0),
+                     'seconds': sec, 'format': 'short' if sec <= 180 else 'long', 'published': sn['publishedAt'][:10],
+                     'keyword': hits.get(v['id']), 'url': f"https://youtube.com/watch?v={v['id']}"})
+    small = [r for r in rows if r['subs'] <= max_subs and r['views'] >= 5000]
+    out = {'fetched': now.isoformat(timespec='minutes'), 'days': days, 'maxSubs': max_subs, 'keywords': OUTLIER_KEYWORDS,
+           'scanned': len(rows)}
+    md = [f"# Ausreißer-Scan {now:%Y-%m-%d} (letzte {days} Tage, Kanäle ≤ {max_subs:,} Abos, ≥ 5.000 Views)", '']
+    for f in ('long', 'short'):
+        top = sorted([r for r in small if r['format'] == f], key=lambda r: -r['ratio'])[:25]
+        out[f] = top
+        md += [f"## {'Lange Videos' if f == 'long' else 'Shorts'} – Top {len(top)} nach Views/Abos", '',
+               '| Views | Views/Tag | Abos | × | Länge | Titel | Kanal |', '|---|---|---|---|---|---|---|']
+        for r in top:
+            md.append(f"| {r['views']:,} | {r['viewsPerDay']:,} | {r['subs']:,} | {r['ratio']} | {r['seconds'] // 60}:{r['seconds'] % 60:02d} "
+                      f"| [{r['title'].replace('|', '/')}]({r['url']}) | {r['channel'].replace('|', '/')} |")
+        md.append('')
+    (AP / 'analytics' / 'outliers.json').write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding='utf-8')
+    (AP / 'analytics' / 'outliers.md').write_text('\n'.join(md), encoding='utf-8')
+    log(f"Ausreißer-Scan: {len(rows)} Videos geprüft, {len(out['long'])} lange + {len(out['short'])} Shorts gespeichert")
+
+
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else 'all'
     AP.mkdir(exist_ok=True)
@@ -782,6 +855,8 @@ def main():
                 if story.get('format') == 'long':
                     render_thumbs(f'test-{name}', story)
                 log(f'Testlauf {name}: {len(times)} Standbilder in autopilot/test/frames')
+    elif cmd == 'outliers':
+        outliers(int(sys.argv[2]) if len(sys.argv) > 2 else 30)
     elif cmd == 'thumbs':
         # nur Vorschaubilder rendern: python autopilot.py thumbs stories/<id>.json
         st = json.loads(Path(sys.argv[2]).read_text(encoding='utf-8'))
