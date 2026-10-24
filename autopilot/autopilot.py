@@ -725,7 +725,7 @@ def outliers(days=30, max_subs=100000):
                     ids.append(vid)
     vids = []
     for i in range(0, len(ids), 50):
-        r = y.videos().list(part='snippet,statistics,contentDetails', id=','.join(ids[i:i + 50])).execute()
+        r = y.videos().list(part='snippet,statistics,contentDetails,liveStreamingDetails', id=','.join(ids[i:i + 50])).execute()
         vids += r.get('items', [])
     chans = {}
     cids = sorted({v['snippet']['channelId'] for v in vids})
@@ -734,8 +734,13 @@ def outliers(days=30, max_subs=100000):
         for c in r.get('items', []):
             chans[c['id']] = int(c['statistics'].get('subscriberCount') or 0)
     rows = []
+    foreign = re.compile('[\u0400-\u04FF\u0590-\u06FF\u0900-\u0DFF\u0E00-\u0FFF\u1100-\u11FF\u3040-\u30FF\u3400-\u9FFF\uAC00-\uD7AF]')
+    skipped = 0
     for v in vids:
         sn, stt = v['snippet'], v.get('statistics', {})
+        if 'liveStreamingDetails' in v or foreign.search(sn['title']) or (sn.get('defaultAudioLanguage') or 'en')[:2] not in ('en', 'zx'):
+            skipped += 1  # Livestreams und nicht-englische Videos auslassen
+            continue
         views = int(stt.get('viewCount') or 0)
         subs = chans.get(sn['channelId'], 0)
         pub = dt.datetime.fromisoformat(sn['publishedAt'].replace('Z', '+00:00'))
@@ -748,7 +753,7 @@ def outliers(days=30, max_subs=100000):
                      'keyword': hits.get(v['id']), 'url': f"https://youtube.com/watch?v={v['id']}"})
     small = [r for r in rows if r['subs'] <= max_subs and r['views'] >= 5000]
     out = {'fetched': now.isoformat(timespec='minutes'), 'days': days, 'maxSubs': max_subs, 'keywords': OUTLIER_KEYWORDS,
-           'scanned': len(rows)}
+           'scanned': len(rows), 'skippedLiveOrForeign': skipped}
     md = [f"# Ausreißer-Scan {now:%Y-%m-%d} (letzte {days} Tage, Kanäle ≤ {max_subs:,} Abos, ≥ 5.000 Views)", '']
     for f in ('long', 'short'):
         top = sorted([r for r in small if r['format'] == f], key=lambda r: -r['ratio'])[:25]
