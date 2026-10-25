@@ -167,3 +167,13 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 
 ## 2026-10-24 – STRATEGIE (Besitzer): VOLLE ENTSCHEIDUNGSFREIHEIT
 - Besitzer: "In Zukunft entscheide selber alles." → Claude ist Kanal-Manager: Formate, Themen, Serien, Längen, Layouts, Titel, Thumbnails und Code-Verbesserungen selbst entscheiden und umsetzen, ohne Rückfrage. Dem Besitzer nur noch berichten (was entschieden wurde + warum, mit Zahlen) und bei Fehlern/Blockern melden, die nur er lösen kann (z. B. Zugänge, YouTube-Studio-Aktionen).
+
+## 2026-10-25 (Morgenlauf, Queue: 2 Shorts für 25.10.; Long 25./26. schon belegt)
+### Shorts
+- Report (24.10. 15:29, public Views): 4-Fragen-Neon "4 Questions 90% Get Wrong" (23.10.) 995 nach ~1,5 T = bester kurzer Short bisher (nähert sich der 6-Fragen-Decke 1,2–1,4k); 3-Fragen-Pyramide (22.10.) 296; 1-Frage Titanic 189, Sonnenlicht 147, Japan 66 (Studio 24.10. abends: 588). → 4 Fragen ist die beste Kurzlänge; 1-Frage-Hooks haben top Retention, aber bisher weniger Reichweite.
+- 3-Fragen-Verdict: stayed 30–37 % (Halloween/Spooky) < 6-Fragen-Baseline 45–57 % → 3 Fragen wird NICHT weiter produziert. Weiter: Slot 16:00 = 1-Frage-Ego-Hook, Slot 21:00 = 4 Fragen, beide tvshow.
+- Queue war leer für Shorts (beide Slots 25.10.) → ab sofort jeden Morgen 2 Shorts für den Tag anlegen, wenn < 2 pending.
+### Lange Videos
+- Senioren-Longs weiter schwach: Halloween-30/35 150 public, Over-60 53, Halloween-If-25 39, IQ-40 13, 1960s-50 und GK-50 noch 0 im Report (zu frisch). impressions/ctr weiter leer (API) → Ursache nicht trennbar. Citizenship-Test (26.10.) ist der wichtigste Test der Woche.
+### Thumbnails
+- Noch keine thumbTest-Gewinner (B/C laufen erst seit 22.–24.10.). Kanal: 7 Abos.
