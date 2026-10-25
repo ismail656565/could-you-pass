@@ -166,6 +166,7 @@ export const Scene: React.FC = () => {
     const m = heroRef.current;
     if (!m) return;
     let n = 0;
+    if (t >= SHOTS.E) { m.count = 0; return; }
     for (let k = 0; k < 100; k++) {
       const land = k === 0 ? -1 : bundleLand(k);
       if (t < land - BUNDLE_FALL) continue;
@@ -198,6 +199,7 @@ export const Scene: React.FC = () => {
     const m = colRef.current;
     if (!m) return;
     let n = 0;
+    if (t >= SHOTS.E) { m.count = 0; return; }
     for (let k = 0; k < CELLS.length; k++) {
       const land = colLand(k);
       if (t < land - COL_FALL) continue;
@@ -310,6 +312,10 @@ export const Scene: React.FC = () => {
         <instancedMesh ref={heroRef} args={[G.box, M.bundle, 100]} castShadow receiveShadow frustumCulled={false} />
       ) : null}
       {t >= DROP - 0.5 ? <instancedMesh ref={colRef} args={[G.box, M.column, CELLS.length]} castShadow receiveShadow frustumCulled={false} /> : null}
+      {t >= SHOTS.E ? (
+        <mesh geometry={G.box} material={M.block} castShadow receiveShadow
+          position={[BLOCK_W / 2 - 0.002, 0, BLOCK_D / 2 - 0.002]} scale={[BLOCK_W, COL_H, BLOCK_D]} />
+      ) : null}
       {t >= SHOTS.G ? <instancedMesh ref={blockRef} args={[G.box, M.block, BLOCKS_X * BLOCKS_Z]} castShadow receiveShadow frustumCulled={false} /> : null}
       {person}
     </>

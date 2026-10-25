@@ -17,7 +17,11 @@ concurrency:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 150
+    timeout-minutes: 120
+    strategy:
+      fail-fast: true
+      matrix:
+        part: [0, 1, 2, 3]
     defaults:
       run:
         working-directory: money
@@ -50,36 +54,56 @@ jobs:
       - name: Bundle
         run: npx remotion bundle src/index.ts --out-dir build 2>&1 | tail -5
 
-      - name: Render
+      - name: Render part ${{ matrix.part }}
         run: |
           mkdir -p out
-          MODE=$(jq -r .mode render.json)
+          TOTAL=$(node -e "console.log(34*30)")
+          PARTS=4
+          P=${{ matrix.part }}
+          A=$(( TOTAL * P / PARTS ))
+          B=$(( TOTAL * (P + 1) / PARTS - 1 ))
           START=$(date +%s)
-          if [ "$MODE" = "stills" ] || [ "$MODE" = "both" ]; then
-            for F in $(jq -r '.frames[]' render.json); do
-              npx remotion still build MoneyShort out/f$(printf %04d $F).png --frame=$F --gl=swangle --timeout=180000 --log=error >> out/stills.log 2>&1 || echo "still $F failed" >> out/stills.log
-            done
-            ls out
-          fi
-          if [ "$MODE" = "full" ] || [ "$MODE" = "both" ]; then
-            npx remotion render build MoneyShort out/money.mp4 --gl=swangle --concurrency=2 --timeout=180000 > out/render.log 2>&1 || echo "RENDER FAILED" >> out/render.log
-            tail -5 out/render.log
-            if [ -f out/money.mp4 ]; then
-              ffmpeg -hide_banner -loglevel error -y -i out/money.mp4 -c:v libx264 -preset slow -crf 21 -pix_fmt yuv420p \
-                -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k -movflags +faststart out/money_final.mp4
-              rm out/money.mp4
-              ffmpeg -hide_banner -loglevel error -y -i out/money_final.mp4 -vf "fps=1/2.5,scale=270:480,tile=7x2" -frames:v 1 out/sheet.jpg
-              ls -la out
-            fi
-          fi
-          echo "render seconds: $(( $(date +%s) - START ))" | tee out/timing.txt
+          npx remotion render build MoneyShort out/part$P.mp4 --gl=swangle --concurrency=2 --timeout=180000 \
+            --frames=$A-$B --muted --crf=16 > out/render$P.log 2>&1 || { echo "RENDER FAILED"; tail -30 out/render$P.log; exit 1; }
+          echo "part $P frames $A-$B seconds $(( $(date +%s) - START ))" | tee out/timing$P.txt
 
-      - name: Publish results to branch money-out
-        if: always()
-        working-directory: .
+      - uses: actions/upload-artifact@v4
+        with:
+          name: part${{ matrix.part }}
+          path: |
+            money/out/part${{ matrix.part }}.mp4
+            money/out/timing${{ matrix.part }}.txt
+            money/out/render${{ matrix.part }}.log
+          retention-days: 3
+
+  assemble:
+    needs: render
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - uses: actions/download-artifact@v4
+        with:
+          path: parts
+          merge-multiple: true
+      - name: Join parts, add music, loudness-normalise
         run: |
-          mkdir -p /tmp/pub && cp -r money/out/. /tmp/pub/ 2>/dev/null || true
-          cd /tmp/pub
+          mkdir -p out
+          ls -la parts
+          if ls parts/part*.mp4 >/dev/null 2>&1 && [ $(ls parts/part*.mp4 | wc -l) -eq 4 ]; then
+            for i in 0 1 2 3; do echo "file '$PWD/parts/part$i.mp4'" ; done > list.txt
+            ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i list.txt -c copy video.mp4
+            ffmpeg -hide_banner -loglevel error -y -i video.mp4 -i money/public/music/cutscene-crush.mp3 \
+              -filter_complex "[1:a]atrim=0:34,afade=t=in:d=0.2,afade=t=out:st=32.6:d=1.4,loudnorm=I=-14:TP=-1.5:LRA=11[a]" \
+              -map 0:v -map "[a]" -c:v libx264 -preset slow -crf 21 -pix_fmt yuv420p -c:a aac -b:a 192k -movflags +faststart -shortest out/money_final.mp4
+            ffmpeg -hide_banner -loglevel error -y -i out/money_final.mp4 -vf "fps=1/2.5,scale=270:480,tile=7x2" -frames:v 1 out/sheet.jpg
+          fi
+          cp parts/*.txt parts/*.log out/ 2>/dev/null || true
+          ls -la out
+      - name: Publish results to branch money-out
+        run: |
+          cd out
           git init -q -b money-out
           git config user.name "money-render"
           git config user.email "money-render@users.noreply.github.com"
