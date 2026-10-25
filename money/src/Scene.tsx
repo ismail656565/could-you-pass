@@ -21,10 +21,9 @@ const tmpS = new THREE.Vector3();
 function texClone(t: THREE.Texture, rx: number, ry: number, turn = false) {
   const c = t.clone();
   c.wrapS = c.wrapT = THREE.RepeatWrapping;
-  c.repeat.set(rx, turn ? -ry : ry);
-  // box top faces map the image mirrored + turned; flip v and turn 180° so the bills read upright
+  c.repeat.set(rx, ry);
+  // box top faces show the image turned 180° from the camera's side; turn it back so the bills read upright
   if (turn) {
-    c.offset.y = 1;
     c.center.set(0.5, 0.5);
     c.rotation = Math.PI;
   }
