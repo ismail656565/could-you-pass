@@ -85,13 +85,14 @@ export const Scene: React.FC = () => {
     const strap = new THREE.MeshStandardMaterial({color: '#c9a24e', roughness: 0.6});
     const skin = new THREE.MeshStandardMaterial({color: '#ece8e2', roughness: 0.55});
     const ground = new THREE.MeshStandardMaterial({
-      color: '#d9d6d0',
+      color: '#e6e2db',
       roughness: 1,
-      map: T.concrete_diff ? texClone(T.concrete_diff, 1500, 1500) : null,
-      normalMap: T.concrete_nor ? texClone(T.concrete_nor, 1500, 1500) : null,
-      roughnessMap: T.concrete_rough ? texClone(T.concrete_rough, 1500, 1500) : null,
+      map: T.concrete_diff ? texClone(T.concrete_diff, 4300, 4300) : null,
+      normalMap: T.concrete_nor ? texClone(T.concrete_nor, 4300, 4300) : null,
+      roughnessMap: T.concrete_rough ? texClone(T.concrete_rough, 4300, 4300) : null,
     });
     if (ground.map) ground.map.colorSpace = THREE.SRGBColorSpace;
+    ground.normalScale.set(0.45, 0.45);
     return {bill, stack, bundle, column, block, strap, skin, ground};
   }, [assets]);
 
@@ -117,7 +118,7 @@ export const Scene: React.FC = () => {
     if (assets.hdr) {
       scene.background = assets.hdr;
       scene.environment = assets.hdr;
-      (scene as any).environmentIntensity = 0.85;
+      (scene as any).environmentIntensity = 0.7;
       (scene as any).backgroundIntensity = 1.0;
     } else {
       scene.background = new THREE.Color('#cfd9e3');
@@ -205,7 +206,7 @@ export const Scene: React.FC = () => {
       if (t < land) {
         const fall = land - t;
         y = 0.5 * COL_G * fall * fall;
-        tilt = (rand(k, 5) - 0.5) * 0.5 * fall;
+        tilt = (rand(k, 5) - 0.5) * 0.12 * fall;
       }
       const yaw = (rand(k, 6) - 0.5) * 0.02;
       const sq = squash(t - land);
@@ -260,7 +261,7 @@ export const Scene: React.FC = () => {
     if (n <= 1) {
       // the first bill flutters down
       const u = clamp(t / BILL1_LAND);
-      const y = BT + 0.13 * Math.pow(1 - u, 1.6);
+      const y = BT + 0.06 * Math.pow(1 - u, 1.6);
       const wob = (1 - easeOut(u, 2));
       billEls.push(
         <mesh key="b1" geometry={G.bill} material={M.bill} castShadow receiveShadow
@@ -276,7 +277,7 @@ export const Scene: React.FC = () => {
       const land = billLand(k);
       if (t < land - BILL_FALL || t >= land) continue;
       const p = (land - t) / BILL_FALL; // 1 -> 0
-      const y = k * BT + 0.17 * Math.pow(p, 1.3);
+      const y = k * BT + 0.11 * Math.pow(p, 1.3);
       const sx = (rand(k, 12) - 0.5) * 0.05 * p, sz = (rand(k, 13) - 0.5) * 0.03 * p;
       billEls.push(
         <mesh key={'f' + k} geometry={G.bill} material={M.bill} castShadow
@@ -300,7 +301,7 @@ export const Scene: React.FC = () => {
 
   return (
     <>
-      <directionalLight ref={sun} intensity={2.6} color="#fff4e6" castShadow
+      <directionalLight ref={sun} intensity={3.3} color="#fff2e0" castShadow
         shadow-mapSize-width={4096} shadow-mapSize-height={4096} />
       <hemisphereLight args={['#dfe9f5', '#b9b2a6', 0.25]} />
       <mesh geometry={G.box} material={M.ground} receiveShadow position={[0, -0.02, 0]} scale={[3000, 0.02, 3000]} />
@@ -348,18 +349,18 @@ const Person: React.FC<{t: number; mat: THREE.Material}> = ({t, mat}) => {
   return (
     <group position={pos} rotation={[0, yaw, 0]}>
       {/* legs */}
-      <Limb a={[-0.085, hipY, 0]} len={0.88} r={0.062} rot={[swing, 0, 0.02]} mat={mat} />
-      <Limb a={[0.085, hipY, 0]} len={0.88} r={0.062} rot={[-swing, 0, -0.02]} mat={mat} />
+      <Limb a={[-0.09, hipY, 0]} len={0.88} r={0.058} rot={[swing, 0, 0.02]} mat={mat} />
+      <Limb a={[0.09, hipY, 0]} len={0.88} r={0.058} rot={[-swing, 0, -0.02]} mat={mat} />
       {/* pelvis + torso */}
       <mesh material={mat} castShadow position={[0, hipY + 0.05, 0]} scale={[1, 0.6, 0.75]}>
         <sphereGeometry args={[0.15, 20, 14]} />
       </mesh>
-      <mesh material={mat} castShadow position={[0, hipY + 0.32 + breathe, 0]} scale={[1, 1, 0.62]}>
+      <mesh material={mat} castShadow position={[0, hipY + 0.32 + breathe, 0]} scale={[1.18, 1, 0.6]}>
         <capsuleGeometry args={[0.165, 0.3, 6, 18]} />
       </mesh>
       {/* arms */}
-      <Limb a={[-0.21, hipY + 0.52, 0]} len={0.62} r={0.045} rot={[-swing * 0.8, 0, 0.09]} mat={mat} />
-      <Limb a={[0.21, hipY + 0.52, 0]} len={0.62} r={0.045} rot={[swing * 0.8, 0, -0.09]} mat={mat} />
+      <Limb a={[-0.255, hipY + 0.53, 0]} len={0.62} r={0.045} rot={[-swing * 0.8, 0, 0.09]} mat={mat} />
+      <Limb a={[0.255, hipY + 0.53, 0]} len={0.62} r={0.045} rot={[swing * 0.8, 0, -0.09]} mat={mat} />
       {/* neck + head */}
       <mesh material={mat} castShadow position={[0, hipY + 0.62, 0]}>
         <cylinderGeometry args={[0.045, 0.05, 0.08, 12]} />

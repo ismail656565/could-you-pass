@@ -53,8 +53,8 @@ export function cameraAt(t: number): CamPose {
     // B: low side angle, bills settle into a stack
     const u = smooth((t - SHOTS.B) / (SHOTS.C - SHOTS.B));
     [eye, target] = lerpPose(
-      [C0.clone().add(V(0.09, 0.05, -0.27)), C0.clone().add(V(0, 0.006, 0))],
-      [C0.clone().add(V(-0.07, 0.065, -0.26)), C0.clone().add(V(0, 0.008, 0))],
+      [C0.clone().add(V(0.14, 0.13, -0.4)), C0.clone().add(V(0, 0.012, 0))],
+      [C0.clone().add(V(-0.08, 0.15, -0.4)), C0.clone().add(V(0, 0.012, 0))],
       u,
     );
     fov = 30;
@@ -67,7 +67,7 @@ export function cameraAt(t: number): CamPose {
       const u = easeInOut((t - SHOTS.C) / (reveal - SHOTS.C));
       // log-distance interpolation keeps the move feeling even as scale explodes
       const a = [C0.clone().add(V(-0.22, 0.11, -0.4)), C0.clone().add(V(0, 0.03, 0))] as const;
-      const b = [V(-1.55, 1.5, -2.85), V(0.32, 0.78, -0.1)] as const;
+      const b = [V(-2.78, 2.23, -4.63), V(0.3, 1.05, -0.1)] as const;
       target = a[1].clone().lerp(b[1], u);
       const oa = a[0].clone().sub(a[1]), ob = b[0].clone().sub(b[1]);
       const la = oa.length(), lb = ob.length();
@@ -75,7 +75,7 @@ export function cameraAt(t: number): CamPose {
       eye = target.clone().add(dir.multiplyScalar(Math.exp(Math.log(la) * (1 - u) + Math.log(lb) * u)));
     } else {
       const u = (t - reveal) / (DROP - reveal);
-      [eye, target] = lerpPose([V(-1.55, 1.5, -2.85), V(0.32, 0.78, -0.1)], [V(-1.2, 1.3, -2.2), V(0.3, 0.8, -0.05)], u * u);
+      [eye, target] = lerpPose([V(-2.78, 2.23, -4.63), V(0.3, 1.05, -0.1)], [V(-2.45, 2.08, -4.15), V(0.3, 1.02, -0.08)], u * u);
     }
     fov = 36;
     shadowSize = 3.5;
@@ -96,8 +96,8 @@ export function cameraAt(t: number): CamPose {
   } else if (t < SHOTS.F) {
     // E: low tracking shot along the wall of money, person in the foreground
     const u = easeInOut((t - SHOTS.E) / (SHOTS.F - SHOTS.E));
-    [eye, target] = lerpPose([V(-0.9, 0.42, -1.55), V(1.2, 0.55, 0.9)], [V(2.1, 0.5, -1.75), V(2.6, 0.5, 1.2)], u);
-    fov = 40;
+    [eye, target] = lerpPose([V(-2.1, 0.95, -2.7), V(1.3, 0.6, 0.9)], [V(-1.0, 0.85, -2.95), V(1.5, 0.55, 1.0)], u);
+    fov = 46;
     shadowSize = 6;
     eye.add(handheld(t, 0.01));
   } else if (t < SHOTS.G) {
