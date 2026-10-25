@@ -22,8 +22,12 @@ function texClone(t: THREE.Texture, rx: number, ry: number, turn = false) {
   const c = t.clone();
   c.wrapS = c.wrapT = THREE.RepeatWrapping;
   c.repeat.set(rx, turn ? -ry : ry);
-  // box top faces map the image mirrored vertically; flip v so the bills read correctly
-  if (turn) c.offset.y = 1;
+  // box top faces map the image mirrored + turned; flip v and turn 180° so the bills read upright
+  if (turn) {
+    c.offset.y = 1;
+    c.center.set(0.5, 0.5);
+    c.rotation = Math.PI;
+  }
   c.needsUpdate = true;
   return c;
 }

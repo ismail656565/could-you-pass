@@ -63,6 +63,16 @@ jobs:
           A=$(( TOTAL * P / PARTS ))
           B=$(( TOTAL * (P + 1) / PARTS - 1 ))
           START=$(date +%s)
+          MODE=$(jq -r .mode render.json)
+          if [ "$MODE" = "stills" ]; then
+            if [ "$P" = "0" ]; then
+              for F in $(jq -r '.frames[]' render.json); do
+                npx remotion still build MoneyShort out/f$(printf %04d $F).png --frame=$F --gl=swangle --timeout=180000 --log=error || true
+              done
+            fi
+            touch out/part$P.mp4 out/timing$P.txt out/render$P.log
+            exit 0
+          fi
           npx remotion render build MoneyShort out/part$P.mp4 --gl=swangle --concurrency=2 --timeout=180000 \
             --frames=$A-$B --muted --crf=16 > out/render$P.log 2>&1 || { echo "RENDER FAILED"; tail -30 out/render$P.log; exit 1; }
           echo "part $P frames $A-$B seconds $(( $(date +%s) - START ))" | tee out/timing$P.txt
@@ -71,6 +81,7 @@ jobs:
         with:
           name: part${{ matrix.part }}
           path: |
+            money/out/*.png
             money/out/part${{ matrix.part }}.mp4
             money/out/timing${{ matrix.part }}.txt
             money/out/render${{ matrix.part }}.log
@@ -91,7 +102,8 @@ jobs:
         run: |
           mkdir -p out
           ls -la parts
-          if ls parts/part*.mp4 >/dev/null 2>&1 && [ $(ls parts/part*.mp4 | wc -l) -eq 4 ]; then
+          cp parts/*.png out/ 2>/dev/null || true
+          if [ $(find parts -name 'part*.mp4' -size +1k | wc -l) -eq 4 ]; then
             for i in 0 1 2 3; do echo "file '$PWD/parts/part$i.mp4'" ; done > list.txt
             ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i list.txt -c copy video.mp4
             ffmpeg -hide_banner -loglevel error -y -i video.mp4 -i money/public/music/cutscene-crush.mp3 \
