@@ -18,11 +18,12 @@ const tmpE = new THREE.Euler();
 const tmpP = new THREE.Vector3();
 const tmpS = new THREE.Vector3();
 
-function texClone(t: THREE.Texture, rx: number, ry: number, flipU = false) {
+function texClone(t: THREE.Texture, rx: number, ry: number, turn = false) {
   const c = t.clone();
   c.wrapS = c.wrapT = THREE.RepeatWrapping;
-  c.repeat.set(flipU ? -rx : rx, ry);
-  if (flipU) c.offset.x = 1;
+  c.repeat.set(rx, turn ? -ry : ry);
+  // box top faces map the image mirrored vertically; flip v so the bills read correctly
+  if (turn) c.offset.y = 1;
   c.needsUpdate = true;
   return c;
 }
@@ -68,7 +69,7 @@ export const Scene: React.FC = () => {
   const M = useMemo(() => {
     if (!assets) return null;
     const T = assets.tex;
-    const topFlip = (n: string, rx = 1, ry = 1) => texClone(T[n], rx, ry, false);
+    const topFlip = (n: string, rx = 1, ry = 1) => texClone(T[n], rx, ry, true);
     const bill = new THREE.MeshStandardMaterial({map: T.bill_top, roughness: 0.82, side: THREE.DoubleSide});
     const stack = [std(T.stack_short), std(T.stack_short), std(topFlip('bill_top')), std(T.bill_top), std(T.stack_long), std(T.stack_long)];
     const bundle = [std(T.bundle_short), std(T.bundle_short), std(topFlip('bundle_top')), std(T.bundle_top), std(T.bundle_long), std(T.bundle_long)];

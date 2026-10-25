@@ -48,7 +48,6 @@ export function cameraAt(t: number): CamPose {
     );
     fov = 32;
     shadowSize = 0.6;
-    eye.add(handheld(t, 0.002));
   } else if (t < SHOTS.C) {
     // B: low side angle, bills settle into a stack
     const u = smooth((t - SHOTS.B) / (SHOTS.C - SHOTS.B));
@@ -59,7 +58,6 @@ export function cameraAt(t: number): CamPose {
     );
     fov = 34;
     shadowSize = 0.6;
-    eye.add(handheld(t, 0.0015));
   } else if (t < DROP) {
     // C: crane up with the growing stack, the person walks in, then a slow tense push
     const reveal = DROP - 1.9;
@@ -79,7 +77,6 @@ export function cameraAt(t: number): CamPose {
     }
     fov = 36;
     shadowSize = 3.5;
-    eye.add(handheld(t, 0.006));
   } else if (t < SHOTS.E) {
     // D: the drop — high wide shot, slow orbit while 999 stacks rain down
     const u = smooth((t - DROP) / (SHOTS.E - DROP));
@@ -90,9 +87,6 @@ export function cameraAt(t: number): CamPose {
     eye = target.clone().add(base);
     fov = 38;
     shadowSize = 7;
-    eye.add(handheld(t, 0.015));
-    eye.y += shake(t) * 6 * Math.sin(t * 61);
-    eye.x += shake(t) * 4 * Math.sin(t * 47 + 1);
   } else if (t < SHOTS.F) {
     // E: low tracking shot along the wall of money, person in the foreground
     const u = easeInOut((t - SHOTS.E) / (SHOTS.F - SHOTS.E));
@@ -100,7 +94,6 @@ export function cameraAt(t: number): CamPose {
     [eye, target] = lerpPose([V(0.25, 1.32, 0.15), V(1.6, 0.95, 1.9)], [V(2.2, 1.27, 2.35), V(3.6, 0.9, 4.4)], u);
     fov = 44;
     shadowSize = 6;
-    eye.add(handheld(t, 0.01));
   } else if (t < SHOTS.G) {
     // F: top-down drone, slow rotation
     const u = (t - SHOTS.F) / (SHOTS.G - SHOTS.F);
@@ -110,7 +103,6 @@ export function cameraAt(t: number): CamPose {
     eye = target.clone().add(V(Math.sin(ang) * 1.2, h, -Math.cos(ang) * 1.2));
     fov = 40;
     shadowSize = 6;
-    eye.add(handheld(t, 0.01));
   } else {
     // G: rise into the sky as 935 more blocks appear
     const u = easeInOut((t - SHOTS.G) / (SHOTS.END - SHOTS.G - 0.3));
@@ -119,7 +111,6 @@ export function cameraAt(t: number): CamPose {
     eye = target.clone().add(V(-0.55, 0.78, -0.62).normalize().multiplyScalar(d));
     fov = 40;
     shadowSize = 12 + 200 * u;
-    eye.add(handheld(t, 0.02));
   }
   return {eye, target, fov, shadowSize};
 }
