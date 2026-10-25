@@ -307,10 +307,10 @@ export const Scene: React.FC = () => {
       <mesh geometry={G.box} material={M.ground} receiveShadow position={[0, -0.02, 0]} scale={[3000, 0.02, 3000]} />
       {billEls}
       {t >= SHOTS.C ? (
-        <instancedMesh ref={heroRef} args={[G.box, M.bundle, 100]} castShadow receiveShadow />
+        <instancedMesh ref={heroRef} args={[G.box, M.bundle, 100]} castShadow receiveShadow frustumCulled={false} />
       ) : null}
-      {t >= DROP - 0.5 ? <instancedMesh ref={colRef} args={[G.box, M.column, CELLS.length]} castShadow receiveShadow /> : null}
-      {t >= SHOTS.G ? <instancedMesh ref={blockRef} args={[G.box, M.block, BLOCKS_X * BLOCKS_Z]} castShadow receiveShadow /> : null}
+      {t >= DROP - 0.5 ? <instancedMesh ref={colRef} args={[G.box, M.column, CELLS.length]} castShadow receiveShadow frustumCulled={false} /> : null}
+      {t >= SHOTS.G ? <instancedMesh ref={blockRef} args={[G.box, M.block, BLOCKS_X * BLOCKS_Z]} castShadow receiveShadow frustumCulled={false} /> : null}
       {person}
     </>
   );

@@ -99,7 +99,7 @@ export const Overlay: React.FC = () => {
   return (
     <AbsoluteFill style={{pointerEvents: 'none'}}>
       {/* soft light wash behind the text so it reads on any background */}
-      <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(246,247,248,0.86) 0%, rgba(246,247,248,0.62) 24%, rgba(246,247,248,0) 40%)'}} />
+      <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(246,247,248,0.72) 0%, rgba(246,247,248,0.45) 22%, rgba(246,247,248,0) 36%)'}} />
       <div style={{position: 'absolute', left: 76, top: 205, right: 60}}>
         <div style={{display: 'flex', alignItems: 'center', gap: 14, marginBottom: 22}}>
           <div style={{width: 14, height: 14, background: ACC}} />
