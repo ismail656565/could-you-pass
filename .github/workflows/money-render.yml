@@ -1,0 +1,81 @@
+name: Money Render
+
+on:
+  push:
+    branches: [money-scale]
+    paths:
+      - 'money/**'
+      - '.github/workflows/money-render.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: money-render
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    defaults:
+      run:
+        working-directory: money
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: System packages
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg jq
+
+      - name: Install
+        run: |
+          npm install --no-audit --no-fund
+          npx remotion browser ensure
+
+      - name: CC0 assets (Poly Haven)
+        uses: actions/cache@v4
+        with:
+          path: money/public/env
+          key: polyhaven-env-v1
+
+      - name: Fetch assets
+        run: bash scripts/fetch-assets.sh
+
+      - name: Bundle
+        run: npx remotion bundle src/index.ts --out-dir build 2>&1 | tail -5
+
+      - name: Render
+        run: |
+          mkdir -p out
+          MODE=$(jq -r .mode render.json)
+          START=$(date +%s)
+          if [ "$MODE" = "stills" ] || [ "$MODE" = "both" ]; then
+            for F in $(jq -r '.frames[]' render.json); do
+              npx remotion still build MoneyShort out/f$(printf %04d $F).png --frame=$F --gl=swangle --log=error || echo "still $F failed"
+            done
+            ls out
+          fi
+          if [ "$MODE" = "full" ] || [ "$MODE" = "both" ]; then
+            npx remotion render build MoneyShort out/money.mp4 --gl=swangle --concurrency=4 --log=info 2>&1 | grep -vE "^\s*$" | tail -40
+          fi
+          echo "render seconds: $(( $(date +%s) - START ))" | tee out/timing.txt
+
+      - name: Publish results to branch money-out
+        if: always()
+        working-directory: .
+        run: |
+          mkdir -p /tmp/pub && cp -r money/out/. /tmp/pub/ 2>/dev/null || true
+          cd /tmp/pub
+          git init -q -b money-out
+          git config user.name "money-render"
+          git config user.email "money-render@users.noreply.github.com"
+          echo "${GITHUB_SHA}" > source-sha.txt
+          git add -A
+          git commit -qm "render ${GITHUB_SHA}"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" money-out
