@@ -123,7 +123,7 @@ export const Scene: React.FC = () => {
     } else {
       scene.background = new THREE.Color('#cfd9e3');
     }
-    scene.fog = new THREE.Fog('#d7dee5', 140, 700);
+    scene.fog = new THREE.Fog('#dde3e9', 300, 2500);
     gl.toneMapping = THREE.ACESFilmicToneMapping;
     gl.toneMappingExposure = 1.0;
     gl.shadowMap.enabled = true;

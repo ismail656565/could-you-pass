@@ -53,8 +53,8 @@ export function cameraAt(t: number): CamPose {
     // B: low side angle, bills settle into a stack
     const u = smooth((t - SHOTS.B) / (SHOTS.C - SHOTS.B));
     [eye, target] = lerpPose(
-      [C0.clone().add(V(0.14, 0.13, -0.4)), C0.clone().add(V(0, 0.012, 0))],
-      [C0.clone().add(V(-0.08, 0.15, -0.4)), C0.clone().add(V(0, 0.012, 0))],
+      [C0.clone().add(V(0.15, 0.24, -0.38)), C0.clone().add(V(0, 0.012, 0))],
+      [C0.clone().add(V(-0.09, 0.26, -0.38)), C0.clone().add(V(0, 0.012, 0))],
       u,
     );
     fov = 30;
@@ -96,8 +96,9 @@ export function cameraAt(t: number): CamPose {
   } else if (t < SHOTS.F) {
     // E: low tracking shot along the wall of money, person in the foreground
     const u = easeInOut((t - SHOTS.E) / (SHOTS.F - SHOTS.E));
-    [eye, target] = lerpPose([V(-2.1, 0.95, -2.7), V(1.3, 0.6, 0.9)], [V(-1.0, 0.85, -2.95), V(1.5, 0.55, 1.0)], u);
-    fov = 46;
+    // low fly-over just above the surface of the money, toward the far corner
+    [eye, target] = lerpPose([V(0.25, 1.32, 0.15), V(1.6, 0.95, 1.9)], [V(2.2, 1.27, 2.35), V(3.6, 0.9, 4.4)], u);
+    fov = 44;
     shadowSize = 6;
     eye.add(handheld(t, 0.01));
   } else if (t < SHOTS.G) {

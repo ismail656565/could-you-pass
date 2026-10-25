@@ -42,7 +42,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: money/public/env
-          key: polyhaven-env-v1
+          key: polyhaven-env-v2
 
       - name: Fetch assets
         run: bash scripts/fetch-assets.sh
@@ -57,12 +57,13 @@ jobs:
           START=$(date +%s)
           if [ "$MODE" = "stills" ] || [ "$MODE" = "both" ]; then
             for F in $(jq -r '.frames[]' render.json); do
-              npx remotion still build MoneyShort out/f$(printf %04d $F).png --frame=$F --gl=swangle --log=error || echo "still $F failed"
+              npx remotion still build MoneyShort out/f$(printf %04d $F).png --frame=$F --gl=swangle --timeout=180000 --log=error >> out/stills.log 2>&1 || echo "still $F failed" >> out/stills.log
             done
             ls out
           fi
           if [ "$MODE" = "full" ] || [ "$MODE" = "both" ]; then
-            npx remotion render build MoneyShort out/money.mp4 --gl=swangle --concurrency=4 --log=info 2>&1 | grep -vE "^\s*$" | tail -40
+            npx remotion render build MoneyShort out/money.mp4 --gl=swangle --concurrency=3 --timeout=180000 > out/render.log 2>&1 || echo "RENDER FAILED" >> out/render.log
+            tail -5 out/render.log
           fi
           echo "render seconds: $(( $(date +%s) - START ))" | tee out/timing.txt
 
