@@ -1,13 +1,13 @@
 {
- "fetched": "2026-10-25T07:47",
+ "fetched": "2026-10-25T11:22",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 3074,
-    "engagedViews": 1554
+    "views": 3066,
+    "engagedViews": 1551
    },
    {
     "country": "DE",
@@ -36,8 +36,8 @@
    },
    {
     "country": "MY",
-    "views": 222,
-    "engagedViews": 118
+    "views": 221,
+    "engagedViews": 119
    },
    {
     "country": "CA",
@@ -182,7 +182,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 19,
-   "publicViews": "648"
+   "publicViews": "655"
   },
   {
    "id": "ECEdEibYQPY",
@@ -212,7 +212,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 36,
-   "publicViews": "996"
+   "publicViews": "1002"
   },
   {
    "id": "fRbyHYIaBU8",
@@ -222,7 +222,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 17,
-   "publicViews": "306"
+   "publicViews": "316"
   },
   {
    "id": "aGlyDlB6tGY",
@@ -294,7 +294,7 @@
    },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 455,
-   "publicViews": "16",
+   "publicViews": "17",
    "engagedShare": 0.833
   },
   {
@@ -397,7 +397,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 400,
-   "publicViews": "155",
+   "publicViews": "158",
    "engagedShare": 0.376
   },
   {
