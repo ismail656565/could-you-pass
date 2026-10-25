@@ -264,7 +264,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🗣️  🪶"
+    "cardText": "🗣️  🪶",
+    "start": 0.0,
+    "countdownStart": 11.517,
+    "reveal": 17.517,
+    "end": 22.07
    },
    {
     "q": "What is the capital of **Greece**?",
@@ -276,7 +280,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🏛️  ☀️"
+    "cardText": "🏛️  ☀️",
+    "start": 22.07,
+    "countdownStart": 24.044,
+    "reveal": 30.044,
+    "end": 33.798
    },
    {
     "q": "Who wrote **Tom Sawyer**?",
@@ -288,7 +296,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "📖  🛶"
+    "cardText": "📖  🛶",
+    "start": 33.798,
+    "countdownStart": 36.001,
+    "reveal": 42.001,
+    "end": 46.208
    },
    {
     "q": "Which is the **largest** continent?",
@@ -300,7 +312,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🌏  📏"
+    "cardText": "🌏  📏",
+    "start": 46.208,
+    "countdownStart": 48.196,
+    "reveal": 54.196,
+    "end": 58.624
    },
    {
     "q": "**Raisins** are dried what?",
@@ -312,7 +328,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🍇  ☀️"
+    "cardText": "🍇  ☀️",
+    "start": 58.624,
+    "countdownStart": 60.346,
+    "reveal": 66.346,
+    "end": 70.753
    },
    {
     "q": "Which city is home to **Big Ben**?",
@@ -324,7 +344,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🕰️  🔔"
+    "cardText": "🕰️  🔔",
+    "start": 70.753,
+    "countdownStart": 72.619,
+    "reveal": 78.619,
+    "end": 83.839
    },
    {
     "q": "A **shuttlecock** is used in which sport?",
@@ -336,7 +360,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🏸  🪶"
+    "cardText": "🏸  🪶",
+    "start": 83.839,
+    "countdownStart": 86.127,
+    "reveal": 92.127,
+    "end": 96.679
    },
    {
     "q": "Which animal is the **ship of the desert**?",
@@ -348,7 +376,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🏜️  🚢"
+    "cardText": "🏜️  🚢",
+    "start": 96.679,
+    "countdownStart": 99.079,
+    "reveal": 105.079,
+    "end": 110.225
    },
    {
     "q": "Which country is famous for **tulips** and windmills?",
@@ -360,7 +392,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🌷  🌬️"
+    "cardText": "🌷  🌬️",
+    "start": 110.225,
+    "countdownStart": 112.823,
+    "reveal": 118.823,
+    "end": 123.91
    },
    {
     "q": "Blue and yellow make which **colour**?",
@@ -372,7 +408,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🎨  🖌️"
+    "cardText": "🎨  🖌️",
+    "start": 123.91,
+    "countdownStart": 126.388,
+    "reveal": 132.388,
+    "end": 136.818
    },
    {
     "q": "Longest river in **South America**?",
@@ -384,7 +424,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🌎  🌊"
+    "cardText": "🌎  🌊",
+    "start": 136.818,
+    "countdownStart": 141.056,
+    "reveal": 147.056,
+    "end": 151.81
    },
    {
     "q": "Who wrote **A Christmas Carol**?",
@@ -396,7 +440,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🎄  👻"
+    "cardText": "🎄  👻",
+    "start": 151.81,
+    "countdownStart": 153.502,
+    "reveal": 159.502,
+    "end": 163.552
    },
    {
     "q": "Water **boils** at how many degrees Celsius?",
@@ -408,7 +456,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "💧  🔥"
+    "cardText": "💧  🔥",
+    "start": 163.552,
+    "countdownStart": 166.736,
+    "reveal": 172.736,
+    "end": 177.593
    },
    {
     "q": "Who ran the first **four-minute mile**?",
@@ -420,7 +472,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🏃  ⏱️"
+    "cardText": "🏃  ⏱️",
+    "start": 177.593,
+    "countdownStart": 180.544,
+    "reveal": 186.544,
+    "end": 191.959
    },
    {
     "q": "In which country is **Kilimanjaro**?",
@@ -432,7 +488,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🏔️  🦒"
+    "cardText": "🏔️  🦒",
+    "start": 191.959,
+    "countdownStart": 194.384,
+    "reveal": 200.384,
+    "end": 205.452
    },
    {
     "q": "Who played **Lawrence of Arabia**?",
@@ -444,7 +504,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🎬  🐫"
+    "cardText": "🎬  🐫",
+    "start": 205.452,
+    "countdownStart": 208.993,
+    "reveal": 214.993,
+    "end": 219.156
    },
    {
     "q": "What is the currency of **Japan**?",
@@ -456,7 +520,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "💴  🏯"
+    "cardText": "💴  🏯",
+    "start": 219.156,
+    "countdownStart": 221.155,
+    "reveal": 227.155,
+    "end": 231.225
    },
    {
     "q": "Who gave us the theory of **relativity**?",
@@ -468,7 +536,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🧠  ⚛️"
+    "cardText": "🧠  ⚛️",
+    "start": 231.225,
+    "countdownStart": 234.083,
+    "reveal": 240.083,
+    "end": 245.655
    },
    {
     "q": "How many **basketball** players per team on court?",
@@ -480,7 +552,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🏀  👟"
+    "cardText": "🏀  👟",
+    "start": 245.655,
+    "countdownStart": 248.644,
+    "reveal": 254.644,
+    "end": 259.175
    },
    {
     "q": "Who sang **Rocket Man** in 1972?",
@@ -492,7 +568,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🚀  🎹"
+    "cardText": "🚀  🎹",
+    "start": 259.175,
+    "countdownStart": 261.897,
+    "reveal": 267.897,
+    "end": 273.078
    },
    {
     "q": "What is the capital of **Vietnam**?",
@@ -504,7 +584,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🏙️  🍜"
+    "cardText": "🏙️  🍜",
+    "start": 273.078,
+    "countdownStart": 276.649,
+    "reveal": 282.649,
+    "end": 287.633
    },
    {
     "q": "Which planet spins **on its side**?",
@@ -516,7 +600,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🪐  🔄"
+    "cardText": "🪐  🔄",
+    "start": 287.633,
+    "countdownStart": 290.1,
+    "reveal": 296.1,
+    "end": 300.285
    },
    {
     "q": "Who wrote **The Old Man and the Sea**?",
@@ -528,7 +616,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🎣  🌊"
+    "cardText": "🎣  🌊",
+    "start": 300.285,
+    "countdownStart": 302.273,
+    "reveal": 308.273,
+    "end": 313.035
    },
    {
     "q": "When was the **Falklands War**?",
@@ -540,7 +632,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "⚓  🏝️"
+    "cardText": "⚓  🏝️",
+    "start": 313.035,
+    "countdownStart": 315.264,
+    "reveal": 321.264,
+    "end": 325.774
    },
    {
     "q": "Most populous country in **Africa**?",
@@ -552,7 +648,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🌍  👥"
+    "cardText": "🌍  👥",
+    "start": 325.774,
+    "countdownStart": 328.284,
+    "reveal": 334.284,
+    "end": 341.151
    },
    {
     "q": "Who directed **Jaws** (1975)?",
@@ -564,7 +664,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🦈  🎬"
+    "cardText": "🦈  🎬",
+    "start": 341.151,
+    "countdownStart": 343.965,
+    "reveal": 349.965,
+    "end": 353.893
    },
    {
     "q": "What is the symbol for **sodium**?",
@@ -576,7 +680,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🧂  ⚗️"
+    "cardText": "🧂  ⚗️",
+    "start": 353.893,
+    "countdownStart": 356.219,
+    "reveal": 362.219,
+    "end": 367.067
    },
    {
     "q": "Which planet is named after the god of the **sea**?",
@@ -588,7 +696,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🔱  🪐"
+    "cardText": "🔱  🪐",
+    "start": 367.067,
+    "countdownStart": 370.06,
+    "reveal": 376.06,
+    "end": 379.936
    },
    {
     "q": "The **Bermuda Triangle** is in which ocean?",
@@ -600,7 +712,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🔺  🌊"
+    "cardText": "🔺  🌊",
+    "start": 379.936,
+    "countdownStart": 382.385,
+    "reveal": 388.385,
+    "end": 393.174
    },
    {
     "q": "Who reigned just before **Elizabeth II**?",
@@ -612,7 +728,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "👑  🏰"
+    "cardText": "👑  🏰",
+    "start": 393.174,
+    "countdownStart": 396.511,
+    "reveal": 402.511,
+    "end": 407.45
    },
    {
     "q": "Who painted **Girl with a Pearl Earring**?",
@@ -624,7 +744,11 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🖼️  💎"
+    "cardText": "🖼️  💎",
+    "start": 407.45,
+    "countdownStart": 411.192,
+    "reveal": 417.192,
+    "end": 422.323
    },
    {
     "q": "How many **symphonies** did Beethoven finish?",
@@ -636,7 +760,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🎼  🎻"
+    "cardText": "🎼  🎻",
+    "start": 422.323,
+    "countdownStart": 424.885,
+    "reveal": 430.885,
+    "end": 435.374
    },
    {
     "q": "What is the **smallest** US state?",
@@ -648,7 +776,11 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🗺️  🔍"
+    "cardText": "🗺️  🔍",
+    "start": 435.374,
+    "countdownStart": 438.063,
+    "reveal": 444.063,
+    "end": 447.88
    },
    {
     "q": "Roughly how fast is **light**?",
@@ -660,7 +792,11 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "💡  ⚡"
+    "cardText": "💡  ⚡",
+    "start": 447.88,
+    "countdownStart": 450.032,
+    "reveal": 456.032,
+    "end": 463.0
    },
    {
     "q": "First US president to **resign**?",
@@ -672,7 +808,11 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🏛️  📜"
+    "cardText": "🏛️  📜",
+    "start": 463.0,
+    "countdownStart": 465.461,
+    "reveal": 471.461,
+    "end": 476.411
    },
    {
     "q": "What is the **deepest** ocean trench?",
@@ -684,7 +824,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🌊  ⬇️"
+    "cardText": "🌊  ⬇️",
+    "start": 476.411,
+    "countdownStart": 478.91,
+    "reveal": 484.91,
+    "end": 490.325
    },
    {
     "q": "Who wrote **Don Quixote**?",
@@ -696,7 +840,11 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🐴  🌬️"
+    "cardText": "🐴  🌬️",
+    "start": 490.325,
+    "countdownStart": 492.037,
+    "reveal": 498.037,
+    "end": 503.081
    },
    {
     "q": "When was the **Chernobyl** disaster?",
@@ -708,7 +856,11 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "☢️  ⚠️"
+    "cardText": "☢️  ⚠️",
+    "start": 503.081,
+    "countdownStart": 505.697,
+    "reveal": 511.697,
+    "end": 517.215
    },
    {
     "q": "Who wrote the three laws of **motion**?",
@@ -720,7 +872,11 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🍎  ⚖️"
+    "cardText": "🍎  ⚖️",
+    "start": 517.215,
+    "countdownStart": 519.756,
+    "reveal": 525.756,
+    "end": 530.182
    },
    {
     "q": "What is the largest **lake** in Africa?",
@@ -732,7 +888,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🏞️  🌍"
+    "cardText": "🏞️  🌍",
+    "start": 530.182,
+    "countdownStart": 532.416,
+    "reveal": 538.416,
+    "end": 542.491
    },
    {
     "q": "Who composed **The Blue Danube**?",
@@ -744,7 +904,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🎻  💃"
+    "cardText": "🎻  💃",
+    "start": 542.491,
+    "countdownStart": 546.447,
+    "reveal": 552.447,
+    "end": 556.949
    },
    {
     "q": "What is the capital of **Mongolia**?",
@@ -756,7 +920,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🐎  ⛺"
+    "cardText": "🐎  ⛺",
+    "start": 556.949,
+    "countdownStart": 559.158,
+    "reveal": 565.158,
+    "end": 570.063
    },
    {
     "q": "Who discovered the **electron** in 1897?",
@@ -768,7 +936,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "⚛️  🔬"
+    "cardText": "⚛️  🔬",
+    "start": 570.063,
+    "countdownStart": 572.888,
+    "reveal": 578.888,
+    "end": 583.487
    },
    {
     "q": "What was the first **satellite** in space?",
@@ -780,7 +952,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🛰️  🚀"
+    "cardText": "🛰️  🚀",
+    "start": 583.487,
+    "countdownStart": 586.29,
+    "reveal": 592.29,
+    "end": 597.653
    },
    {
     "q": "Which metal has the highest **melting point**?",
@@ -792,7 +968,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🔥  ⚙️"
+    "cardText": "🔥  ⚙️",
+    "start": 597.653,
+    "countdownStart": 600.144,
+    "reveal": 606.144,
+    "end": 610.765
    },
    {
     "q": "Who painted the **melting clocks**?",
@@ -804,7 +984,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🕰️  🎨"
+    "cardText": "🕰️  🎨",
+    "start": 610.765,
+    "countdownStart": 614.321,
+    "reveal": 620.321,
+    "end": 624.756
    },
    {
     "q": "When was the Battle of **Hastings**?",
@@ -816,7 +1000,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "⚔️  🏰"
+    "cardText": "⚔️  🏰",
+    "start": 624.756,
+    "countdownStart": 627.092,
+    "reveal": 633.092,
+    "end": 638.199
    },
    {
     "q": "What is the largest **moon** in our solar system?",
@@ -828,7 +1016,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🌙  🪐"
+    "cardText": "🌙  🪐",
+    "start": 638.199,
+    "countdownStart": 640.752,
+    "reveal": 646.752,
+    "end": 653.477
    },
    {
     "q": "Who wrote **One Hundred Years of Solitude**?",
@@ -840,7 +1032,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "📚  🦋"
+    "cardText": "📚  🦋",
+    "start": 653.477,
+    "countdownStart": 655.829,
+    "reveal": 661.829,
+    "end": 667.533
    },
    {
     "q": "On which ship did **Darwin** sail?",
@@ -852,8 +1048,34 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🚢  🐢"
+    "cardText": "🚢  🐢",
+    "start": 667.533,
+    "countdownStart": 670.94,
+    "reveal": 676.94,
+    "end": 682.21
    }
-  ]
+  ],
+  "audio": "audio/over65-memory-50-1.mp3",
+  "outroStart": 682.21,
+  "durationInSeconds": 691.998
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/over65-memory-50-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-10-25",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-10-25T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "5J-WUlJ3R9E",
+  "at": "2026-10-25T07:05"
  }
 }

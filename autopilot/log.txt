@@ -357,3 +357,21 @@
 [2026-10-24 15:32:53] Short-Beschreibung (trap-4-2-tv) verlinkt auf langes Video ECEdEibYQPY
 [2026-10-24 22:05:26] Ausreißer-Scan: 823 Videos geprüft, 25 lange + 25 Shorts gespeichert
 [2026-10-24 22:06:30] Ausreißer-Scan: 510 Videos geprüft, 25 lange + 25 Shorts gespeichert
+[2026-10-25 06:14:11] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-25 06:14:11] Analytics gespeichert (31 Videos)
+[2026-10-25 06:14:11] one-q-japan-islands: Kommentar gepostet
+[2026-10-25 06:14:12] trap-4-2-tv: Kommentar gepostet
+[2026-10-25 06:14:13] Thumbnail-Test emoji-word-15: Variante A → {'views': 13, 'ctr': 3.25, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-25 06:14:16] Thumbnail-Test emoji-word-15: jetzt Variante B
+[2026-10-25 06:14:16] Thumbnail-Test halloween-quiz-35-2: Variante A → {'views': 30, 'ctr': 7.5, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-25 06:14:18] Thumbnail-Test halloween-quiz-35-2: jetzt Variante B
+[2026-10-25 06:14:18] Kein short-Video in der Warteschlange.
+[2026-10-25 06:14:18] Produziere over65-memory-50-1 (long)
+[2026-10-25 06:14:18] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-25 06:18:36] Ton fertig: 692.0 s
+[2026-10-25 07:05:11] Gerendert
+[2026-10-25 07:05:29] Hochgeladen: https://youtube.com/watch?v=5J-WUlJ3R9E (private)
+[2026-10-25 07:05:35] Vorschaubild gesetzt
+[2026-10-25 07:05:35] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-10-25 07:05:35] Geplant für 25.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-25 07:05:35] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.

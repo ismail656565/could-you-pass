@@ -1,13 +1,13 @@
 {
- "fetched": "2026-10-24T15:29",
+ "fetched": "2026-10-25T06:14",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 2921,
-    "engagedViews": 1491
+    "views": 3074,
+    "engagedViews": 1554
    },
    {
     "country": "DE",
@@ -83,45 +83,45 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 7459,
-    "engagedViews": 3376
+    "views": 7652,
+    "engagedViews": 3442
    },
    {
     "deviceType": "TABLET",
-    "views": 1754,
-    "engagedViews": 891
+    "views": 1782,
+    "engagedViews": 903
    },
    {
     "deviceType": "TV",
-    "views": 1130,
-    "engagedViews": 942
+    "views": 1141,
+    "engagedViews": 953
    },
    {
     "deviceType": "DESKTOP",
-    "views": 580,
-    "engagedViews": 316
+    "views": 634,
+    "engagedViews": 326
    }
   ],
   "ageGroups": [
    {
     "ageGroup": "age13-17",
-    "viewerPercentage": 14.2
+    "viewerPercentage": 14
    },
    {
     "ageGroup": "age18-24",
-    "viewerPercentage": 6.5
+    "viewerPercentage": 6.4
    },
    {
     "ageGroup": "age25-34",
-    "viewerPercentage": 20.8
+    "viewerPercentage": 20.4
    },
    {
     "ageGroup": "age35-44",
-    "viewerPercentage": 29.2
+    "viewerPercentage": 28.7
    },
    {
     "ageGroup": "age45-54",
-    "viewerPercentage": 13
+    "viewerPercentage": 12.8
    },
    {
     "ageGroup": "age55-64",
@@ -129,20 +129,30 @@
    },
    {
     "ageGroup": "age65-",
-    "viewerPercentage": 13.5
+    "viewerPercentage": 14.9
    }
   ]
  },
  "videos": [
+  {
+   "id": "PUmp7zv9y4o",
+   "title": "4 Trivia Questions Almost Everyone Gets Wrong 🤯 #shorts",
+   "published": "2026-10-24T19:00:28Z",
+   "retention": [],
+   "trafficSources": {},
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
+   "durationSec": 38,
+   "publicViews": "247"
+  },
   {
    "id": "QWSNFfisve4",
    "title": "How Many Islands Does Japan Have? 🏝️🤯 #shorts",
    "published": "2026-10-24T14:00:15Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 19,
-   "publicViews": "66"
+   "publicViews": "647"
   },
   {
    "id": "ECEdEibYQPY",
@@ -150,9 +160,9 @@
    "published": "2026-10-24T12:00:33Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 675,
-   "publicViews": "0"
+   "publicViews": "1"
   },
   {
    "id": "BTEGptf0s6o",
@@ -160,7 +170,7 @@
    "published": "2026-10-24T05:22:02Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 38,
    "publicViews": "0"
   },
@@ -170,9 +180,9 @@
    "published": "2026-10-23T19:00:39Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 36,
-   "publicViews": "995"
+   "publicViews": "996"
   },
   {
    "id": "fRbyHYIaBU8",
@@ -180,9 +190,9 @@
    "published": "2026-10-23T14:00:04Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 17,
-   "publicViews": "189"
+   "publicViews": "304"
   },
   {
    "id": "aGlyDlB6tGY",
@@ -190,605 +200,1142 @@
    "published": "2026-10-23T12:00:33Z",
    "retention": [],
    "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 733,
-   "publicViews": "0"
+   "publicViews": "1"
   },
   {
    "id": "183LWZG1vqw",
    "title": "3 Questions 90% Get Wrong 🤯 #shorts",
    "published": "2026-10-22T19:00:20Z",
-   "retention": [],
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "views": 131,
+   "engagedViews": 52,
+   "averageViewDuration": 13,
+   "averageViewPercentage": 51.77,
+   "likes": 4,
+   "comments": 0,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     1.231,
+     0.533
+    ],
+    [
+     0.02,
+     1.231,
+     0.513
+    ],
+    [
+     0.03,
+     1.212,
+     0.492
+    ],
+    [
+     0.04,
+     1.212,
+     0.472
+    ],
+    [
+     0.05,
+     1.192,
+     0.453
+    ],
+    [
+     0.06,
+     1.192,
+     0.435
+    ],
+    [
+     0.07,
+     1.192,
+     0.419
+    ],
+    [
+     0.08,
+     1.192,
+     0.405
+    ],
+    [
+     0.09,
+     1.173,
+     0.392
+    ],
+    [
+     0.1,
+     1.154,
+     0.381
+    ],
+    [
+     0.11,
+     1.154,
+     0.37
+    ],
+    [
+     0.12,
+     1.135,
+     0.361
+    ],
+    [
+     0.13,
+     1.135,
+     0.352
+    ],
+    [
+     0.14,
+     1.115,
+     0.344
+    ],
+    [
+     0.15,
+     1.115,
+     0.336
+    ],
+    [
+     0.16,
+     1.115,
+     0.329
+    ],
+    [
+     0.17,
+     1.077,
+     0.321
+    ],
+    [
+     0.18,
+     1.038,
+     0.314
+    ],
+    [
+     0.19,
+     0.981,
+     0.307
+    ],
+    [
+     0.2,
+     0.981,
+     0.301
+    ],
+    [
+     0.21,
+     0.962,
+     0.295
+    ],
+    [
+     0.22,
+     0.904,
+     0.289
+    ],
+    [
+     0.23,
+     0.904,
+     0.284
+    ],
+    [
+     0.24,
+     0.885,
+     0.279
+    ],
+    [
+     0.25,
+     0.827,
+     0.275
+    ],
+    [
+     0.26,
+     0.788,
+     0.272
+    ],
+    [
+     0.27,
+     0.75,
+     0.269
+    ],
+    [
+     0.28,
+     0.654,
+     0.266
+    ],
+    [
+     0.29,
+     0.596,
+     0.265
+    ],
+    [
+     0.3,
+     0.538,
+     0.263
+    ],
+    [
+     0.31,
+     0.538,
+     0.263
+    ],
+    [
+     0.32,
+     0.519,
+     0.263
+    ],
+    [
+     0.33,
+     0.519,
+     0.264
+    ],
+    [
+     0.34,
+     0.519,
+     0.265
+    ],
+    [
+     0.35,
+     0.481,
+     0.266
+    ],
+    [
+     0.36,
+     0.481,
+     0.269
+    ],
+    [
+     0.37,
+     0.442,
+     0.271
+    ],
+    [
+     0.38,
+     0.385,
+     0.274
+    ],
+    [
+     0.39,
+     0.404,
+     0.277
+    ],
+    [
+     0.4,
+     0.385,
+     0.28
+    ],
+    [
+     0.41,
+     0.365,
+     0.284
+    ],
+    [
+     0.42,
+     0.365,
+     0.288
+    ],
+    [
+     0.43,
+     0.365,
+     0.292
+    ],
+    [
+     0.44,
+     0.365,
+     0.296
+    ],
+    [
+     0.45,
+     0.365,
+     0.301
+    ],
+    [
+     0.46,
+     0.365,
+     0.305
+    ],
+    [
+     0.47,
+     0.365,
+     0.309
+    ],
+    [
+     0.48,
+     0.327,
+     0.314
+    ],
+    [
+     0.49,
+     0.327,
+     0.318
+    ],
+    [
+     0.5,
+     0.327,
+     0.323
+    ],
+    [
+     0.51,
+     0.327,
+     0.327
+    ],
+    [
+     0.52,
+     0.327,
+     0.332
+    ],
+    [
+     0.53,
+     0.327,
+     0.337
+    ],
+    [
+     0.54,
+     0.327,
+     0.342
+    ],
+    [
+     0.55,
+     0.269,
+     0.347
+    ],
+    [
+     0.56,
+     0.269,
+     0.352
+    ],
+    [
+     0.57,
+     0.269,
+     0.358
+    ],
+    [
+     0.58,
+     0.289,
+     0.364
+    ],
+    [
+     0.59,
+     0.289,
+     0.371
+    ],
+    [
+     0.6,
+     0.289,
+     0.378
+    ],
+    [
+     0.61,
+     0.289,
+     0.386
+    ],
+    [
+     0.62,
+     0.289,
+     0.394
+    ],
+    [
+     0.63,
+     0.289,
+     0.403
+    ],
+    [
+     0.64,
+     0.289,
+     0.413
+    ],
+    [
+     0.65,
+     0.289,
+     0.424
+    ],
+    [
+     0.66,
+     0.289,
+     0.436
+    ],
+    [
+     0.67,
+     0.289,
+     0.448
+    ],
+    [
+     0.68,
+     0.289,
+     0.461
+    ],
+    [
+     0.69,
+     0.289,
+     0.474
+    ],
+    [
+     0.7,
+     0.289,
+     0.488
+    ],
+    [
+     0.71,
+     0.289,
+     0.502
+    ],
+    [
+     0.72,
+     0.289,
+     0.515
+    ],
+    [
+     0.73,
+     0.289,
+     0.529
+    ],
+    [
+     0.74,
+     0.289,
+     0.543
+    ],
+    [
+     0.75,
+     0.289,
+     0.556
+    ],
+    [
+     0.76,
+     0.289,
+     0.569
+    ],
+    [
+     0.77,
+     0.289,
+     0.581
+    ],
+    [
+     0.78,
+     0.289,
+     0.593
+    ],
+    [
+     0.79,
+     0.289,
+     0.605
+    ],
+    [
+     0.8,
+     0.289,
+     0.616
+    ],
+    [
+     0.81,
+     0.289,
+     0.627
+    ],
+    [
+     0.82,
+     0.289,
+     0.638
+    ],
+    [
+     0.83,
+     0.289,
+     0.648
+    ],
+    [
+     0.84,
+     0.289,
+     0.659
+    ],
+    [
+     0.85,
+     0.289,
+     0.669
+    ],
+    [
+     0.86,
+     0.269,
+     0.679
+    ],
+    [
+     0.87,
+     0.269,
+     0.689
+    ],
+    [
+     0.88,
+     0.269,
+     0.699
+    ],
+    [
+     0.89,
+     0.269,
+     0.708
+    ],
+    [
+     0.9,
+     0.269,
+     0.718
+    ],
+    [
+     0.91,
+     0.269,
+     0.727
+    ],
+    [
+     0.92,
+     0.269,
+     0.736
+    ],
+    [
+     0.93,
+     0.231,
+     0.744
+    ],
+    [
+     0.94,
+     0.231,
+     0.752
+    ],
+    [
+     0.95,
+     0.231,
+     0.76
+    ],
+    [
+     0.96,
+     0.231,
+     0.767
+    ],
+    [
+     0.97,
+     0.231,
+     0.773
+    ],
+    [
+     0.98,
+     0.231,
+     0.779
+    ],
+    [
+     0.99,
+     0.231,
+     0.784
+    ],
+    [
+     1,
+     0.231,
+     0.788
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 130,
+    "YT_SEARCH": 1,
+    "NO_LINK_OTHER": 0
+   },
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 26,
-   "publicViews": "296"
+   "publicViews": "327",
+   "engagedShare": 0.397
   },
   {
    "id": "MEIWnYy4YJk",
    "title": "How Long Does Sunlight Take to Reach Earth? ☀️🤯 #shorts",
    "published": "2026-10-22T14:00:23Z",
-   "retention": [],
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "views": 32,
+   "engagedViews": 15,
+   "averageViewDuration": 90,
+   "averageViewPercentage": 529.79,
+   "likes": 1,
+   "comments": 0,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     6.4,
+     0.786
+    ],
+    [
+     0.02,
+     6.333,
+     0.792
+    ],
+    [
+     0.03,
+     6.267,
+     0.797
+    ],
+    [
+     0.04,
+     6.2,
+     0.802
+    ],
+    [
+     0.05,
+     6.133,
+     0.807
+    ],
+    [
+     0.06,
+     6.133,
+     0.811
+    ],
+    [
+     0.07,
+     6.133,
+     0.816
+    ],
+    [
+     0.08,
+     6.067,
+     0.82
+    ],
+    [
+     0.09,
+     6.067,
+     0.824
+    ],
+    [
+     0.1,
+     6.067,
+     0.828
+    ],
+    [
+     0.11,
+     6.067,
+     0.831
+    ],
+    [
+     0.12,
+     6,
+     0.835
+    ],
+    [
+     0.13,
+     6,
+     0.838
+    ],
+    [
+     0.14,
+     6,
+     0.84
+    ],
+    [
+     0.15,
+     6,
+     0.843
+    ],
+    [
+     0.16,
+     6,
+     0.845
+    ],
+    [
+     0.17,
+     6,
+     0.846
+    ],
+    [
+     0.18,
+     5.933,
+     0.848
+    ],
+    [
+     0.19,
+     5.933,
+     0.849
+    ],
+    [
+     0.2,
+     5.933,
+     0.851
+    ],
+    [
+     0.21,
+     5.933,
+     0.852
+    ],
+    [
+     0.22,
+     5.933,
+     0.852
+    ],
+    [
+     0.23,
+     5.933,
+     0.853
+    ],
+    [
+     0.24,
+     5.933,
+     0.854
+    ],
+    [
+     0.25,
+     5.933,
+     0.855
+    ],
+    [
+     0.26,
+     5.867,
+     0.855
+    ],
+    [
+     0.27,
+     5.8,
+     0.856
+    ],
+    [
+     0.28,
+     5.8,
+     0.856
+    ],
+    [
+     0.29,
+     5.8,
+     0.856
+    ],
+    [
+     0.3,
+     5.8,
+     0.857
+    ],
+    [
+     0.31,
+     5.8,
+     0.857
+    ],
+    [
+     0.32,
+     5.8,
+     0.858
+    ],
+    [
+     0.33,
+     5.8,
+     0.858
+    ],
+    [
+     0.34,
+     5.8,
+     0.858
+    ],
+    [
+     0.35,
+     5.8,
+     0.859
+    ],
+    [
+     0.36,
+     5.8,
+     0.859
+    ],
+    [
+     0.37,
+     5.733,
+     0.859
+    ],
+    [
+     0.38,
+     5.733,
+     0.86
+    ],
+    [
+     0.39,
+     5.667,
+     0.86
+    ],
+    [
+     0.4,
+     5.667,
+     0.861
+    ],
+    [
+     0.41,
+     5.667,
+     0.861
+    ],
+    [
+     0.42,
+     5.667,
+     0.861
+    ],
+    [
+     0.43,
+     5.6,
+     0.862
+    ],
+    [
+     0.44,
+     5.6,
+     0.862
+    ],
+    [
+     0.45,
+     5.533,
+     0.863
+    ],
+    [
+     0.46,
+     5.533,
+     0.863
+    ],
+    [
+     0.47,
+     5.533,
+     0.863
+    ],
+    [
+     0.48,
+     5.533,
+     0.864
+    ],
+    [
+     0.49,
+     5.533,
+     0.864
+    ],
+    [
+     0.5,
+     5.533,
+     0.865
+    ],
+    [
+     0.51,
+     5.467,
+     0.865
+    ],
+    [
+     0.52,
+     5.533,
+     0.866
+    ],
+    [
+     0.53,
+     5.533,
+     0.866
+    ],
+    [
+     0.54,
+     5.467,
+     0.867
+    ],
+    [
+     0.55,
+     5.467,
+     0.867
+    ],
+    [
+     0.56,
+     5.467,
+     0.868
+    ],
+    [
+     0.57,
+     5.4,
+     0.868
+    ],
+    [
+     0.58,
+     5.4,
+     0.869
+    ],
+    [
+     0.59,
+     5.4,
+     0.869
+    ],
+    [
+     0.6,
+     5.4,
+     0.87
+    ],
+    [
+     0.61,
+     5.4,
+     0.87
+    ],
+    [
+     0.62,
+     5.4,
+     0.871
+    ],
+    [
+     0.63,
+     5.4,
+     0.871
+    ],
+    [
+     0.64,
+     5.4,
+     0.872
+    ],
+    [
+     0.65,
+     5.4,
+     0.873
+    ],
+    [
+     0.66,
+     5.4,
+     0.873
+    ],
+    [
+     0.67,
+     5.4,
+     0.874
+    ],
+    [
+     0.68,
+     5.4,
+     0.874
+    ],
+    [
+     0.69,
+     5.4,
+     0.875
+    ],
+    [
+     0.7,
+     5.4,
+     0.875
+    ],
+    [
+     0.71,
+     5.4,
+     0.876
+    ],
+    [
+     0.72,
+     5.333,
+     0.876
+    ],
+    [
+     0.73,
+     5.333,
+     0.877
+    ],
+    [
+     0.74,
+     5.333,
+     0.877
+    ],
+    [
+     0.75,
+     5.333,
+     0.877
+    ],
+    [
+     0.76,
+     5.333,
+     0.878
+    ],
+    [
+     0.77,
+     5.333,
+     0.878
+    ],
+    [
+     0.78,
+     5.333,
+     0.879
+    ],
+    [
+     0.79,
+     5.333,
+     0.879
+    ],
+    [
+     0.8,
+     5.333,
+     0.88
+    ],
+    [
+     0.81,
+     5.333,
+     0.88
+    ],
+    [
+     0.82,
+     5.333,
+     0.881
+    ],
+    [
+     0.83,
+     5.333,
+     0.881
+    ],
+    [
+     0.84,
+     5.333,
+     0.882
+    ],
+    [
+     0.85,
+     5.333,
+     0.882
+    ],
+    [
+     0.86,
+     5.333,
+     0.882
+    ],
+    [
+     0.87,
+     5.333,
+     0.883
+    ],
+    [
+     0.88,
+     5.333,
+     0.883
+    ],
+    [
+     0.89,
+     5.333,
+     0.884
+    ],
+    [
+     0.9,
+     5.333,
+     0.884
+    ],
+    [
+     0.91,
+     5.333,
+     0.884
+    ],
+    [
+     0.92,
+     5.333,
+     0.885
+    ],
+    [
+     0.93,
+     5.333,
+     0.885
+    ],
+    [
+     0.94,
+     5.333,
+     0.885
+    ],
+    [
+     0.95,
+     5.333,
+     0.886
+    ],
+    [
+     0.96,
+     5.333,
+     0.886
+    ],
+    [
+     0.97,
+     5.333,
+     0.886
+    ],
+    [
+     0.98,
+     5.333,
+     0.887
+    ],
+    [
+     0.99,
+     5.333,
+     0.887
+    ],
+    [
+     1,
+     5.333,
+     0.887
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 27,
+    "YT_SEARCH": 5,
+    "NO_LINK_OTHER": 0
+   },
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 17,
-   "publicViews": "147"
+   "publicViews": "154",
+   "engagedShare": 0.469
   },
   {
    "id": "faqivgeR7fw",
    "title": "General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions",
    "published": "2026-10-22T12:00:29Z",
+   "views": 6,
+   "engagedViews": 5,
+   "averageViewDuration": 226,
+   "averageViewPercentage": 49.68,
+   "likes": 0,
+   "comments": 0,
+   "subscribersGained": 1,
    "retention": [],
-   "trafficSources": {},
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "trafficSources": {
+    "RELATED_VIDEO": 5,
+    "SUBSCRIBER": 1,
+    "NO_LINK_OTHER": 0
+   },
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 455,
-   "publicViews": "13"
+   "publicViews": "16",
+   "engagedShare": 0.833
   },
   {
    "id": "73pAHN8YcDs",
    "title": "Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions",
    "published": "2026-10-21T12:00:17Z",
-   "views": 25,
+   "views": 30,
    "engagedViews": 24,
    "averageViewDuration": 91,
    "averageViewPercentage": 23.72,
    "likes": 0,
    "comments": 0,
    "subscribersGained": 0,
-   "retention": [
-    [
-     0.01,
-     1,
-     0.353
-    ],
-    [
-     0.02,
-     0.708,
-     0.314
-    ],
-    [
-     0.03,
-     0.667,
-     0.298
-    ],
-    [
-     0.04,
-     0.708,
-     0.303
-    ],
-    [
-     0.05,
-     0.667,
-     0.3
-    ],
-    [
-     0.06,
-     0.542,
-     0.282
-    ],
-    [
-     0.07,
-     0.458,
-     0.255
-    ],
-    [
-     0.08,
-     0.458,
-     0.234
-    ],
-    [
-     0.09,
-     0.458,
-     0.222
-    ],
-    [
-     0.1,
-     0.458,
-     0.216
-    ],
-    [
-     0.11,
-     0.417,
-     0.211
-    ],
-    [
-     0.12,
-     0.417,
-     0.21
-    ],
-    [
-     0.13,
-     0.417,
-     0.214
-    ],
-    [
-     0.14,
-     0.417,
-     0.22
-    ],
-    [
-     0.15,
-     0.375,
-     0.225
-    ],
-    [
-     0.16,
-     0.375,
-     0.229
-    ],
-    [
-     0.17,
-     0.375,
-     0.225
-    ],
-    [
-     0.18,
-     0.375,
-     0.216
-    ],
-    [
-     0.19,
-     0.375,
-     0.207
-    ],
-    [
-     0.2,
-     0.333,
-     0.206
-    ],
-    [
-     0.21,
-     0.333,
-     0.208
-    ],
-    [
-     0.22,
-     0.333,
-     0.208
-    ],
-    [
-     0.23,
-     0.333,
-     0.203
-    ],
-    [
-     0.24,
-     0.333,
-     0.197
-    ],
-    [
-     0.25,
-     0.333,
-     0.19
-    ],
-    [
-     0.26,
-     0.292,
-     0.183
-    ],
-    [
-     0.27,
-     0.292,
-     0.174
-    ],
-    [
-     0.28,
-     0.292,
-     0.166
-    ],
-    [
-     0.29,
-     0.292,
-     0.158
-    ],
-    [
-     0.3,
-     0.292,
-     0.15
-    ],
-    [
-     0.31,
-     0.292,
-     0.144
-    ],
-    [
-     0.32,
-     0.25,
-     0.138
-    ],
-    [
-     0.33,
-     0.25,
-     0.133
-    ],
-    [
-     0.34,
-     0.25,
-     0.128
-    ],
-    [
-     0.35,
-     0.25,
-     0.125
-    ],
-    [
-     0.36,
-     0.25,
-     0.123
-    ],
-    [
-     0.37,
-     0.25,
-     0.121
-    ],
-    [
-     0.38,
-     0.208,
-     0.12
-    ],
-    [
-     0.39,
-     0.208,
-     0.12
-    ],
-    [
-     0.4,
-     0.208,
-     0.12
-    ],
-    [
-     0.41,
-     0.208,
-     0.121
-    ],
-    [
-     0.42,
-     0.208,
-     0.121
-    ],
-    [
-     0.43,
-     0.208,
-     0.122
-    ],
-    [
-     0.44,
-     0.208,
-     0.123
-    ],
-    [
-     0.45,
-     0.208,
-     0.125
-    ],
-    [
-     0.46,
-     0.208,
-     0.128
-    ],
-    [
-     0.47,
-     0.208,
-     0.131
-    ],
-    [
-     0.48,
-     0.208,
-     0.136
-    ],
-    [
-     0.49,
-     0.167,
-     0.141
-    ],
-    [
-     0.5,
-     0.167,
-     0.149
-    ],
-    [
-     0.51,
-     0.167,
-     0.159
-    ],
-    [
-     0.52,
-     0.167,
-     0.17
-    ],
-    [
-     0.53,
-     0.167,
-     0.183
-    ],
-    [
-     0.54,
-     0.167,
-     0.197
-    ],
-    [
-     0.55,
-     0.167,
-     0.211
-    ],
-    [
-     0.56,
-     0.167,
-     0.224
-    ],
-    [
-     0.57,
-     0.167,
-     0.234
-    ],
-    [
-     0.58,
-     0.167,
-     0.24
-    ],
-    [
-     0.59,
-     0.167,
-     0.241
-    ],
-    [
-     0.6,
-     0.167,
-     0.237
-    ],
-    [
-     0.61,
-     0.167,
-     0.227
-    ],
-    [
-     0.62,
-     0.167,
-     0.213
-    ],
-    [
-     0.63,
-     0.167,
-     0.196
-    ],
-    [
-     0.64,
-     0.167,
-     0.177
-    ],
-    [
-     0.65,
-     0.167,
-     0.16
-    ],
-    [
-     0.66,
-     0.167,
-     0.144
-    ],
-    [
-     0.67,
-     0.167,
-     0.132
-    ],
-    [
-     0.68,
-     0.167,
-     0.126
-    ],
-    [
-     0.69,
-     0.167,
-     0.125
-    ],
-    [
-     0.7,
-     0.125,
-     0.126
-    ],
-    [
-     0.71,
-     0.125,
-     0.127
-    ],
-    [
-     0.72,
-     0.125,
-     0.131
-    ],
-    [
-     0.73,
-     0.125,
-     0.139
-    ],
-    [
-     0.74,
-     0.125,
-     0.152
-    ],
-    [
-     0.75,
-     0.125,
-     0.171
-    ],
-    [
-     0.76,
-     0.125,
-     0.195
-    ],
-    [
-     0.77,
-     0.125,
-     0.226
-    ],
-    [
-     0.78,
-     0.125,
-     0.262
-    ],
-    [
-     0.79,
-     0.125,
-     0.301
-    ],
-    [
-     0.8,
-     0.125,
-     0.342
-    ],
-    [
-     0.81,
-     0.125,
-     0.38
-    ],
-    [
-     0.82,
-     0.125,
-     0.412
-    ],
-    [
-     0.83,
-     0.125,
-     0.438
-    ],
-    [
-     0.84,
-     0.125,
-     0.458
-    ],
-    [
-     0.85,
-     0.125,
-     0.472
-    ],
-    [
-     0.86,
-     0.125,
-     0.483
-    ],
-    [
-     0.87,
-     0.125,
-     0.49
-    ],
-    [
-     0.88,
-     0.125,
-     0.495
-    ],
-    [
-     0.89,
-     0.125,
-     0.498
-    ],
-    [
-     0.9,
-     0.125,
-     0.5
-    ],
-    [
-     0.91,
-     0.125,
-     0.501
-    ],
-    [
-     0.92,
-     0.125,
-     0.502
-    ],
-    [
-     0.93,
-     0.125,
-     0.503
-    ],
-    [
-     0.94,
-     0.125,
-     0.503
-    ],
-    [
-     0.95,
-     0.125,
-     0.502
-    ],
-    [
-     0.96,
-     0.125,
-     0.501
-    ],
-    [
-     0.97,
-     0.125,
-     0.499
-    ],
-    [
-     0.98,
-     0.125,
-     0.498
-    ],
-    [
-     0.99,
-     0.125,
-     0.497
-    ],
-    [
-     1,
-     0.125,
-     0.496
-    ]
-   ],
    "trafficSources": {
     "RELATED_VIDEO": 21,
-    "SUBSCRIBER": 3,
+    "SUBSCRIBER": 8,
     "YT_SEARCH": 1
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 384,
-   "publicViews": "39",
-   "engagedShare": 0.96
+   "publicViews": "41",
+   "engagedShare": 0.8
   },
   {
    "id": "fkrNaaz-gZE",
    "title": "4 Halloween Questions 90% Get Wrong 🎃 #shorts",
    "published": "2026-10-21T08:00:04Z",
-   "views": 302,
-   "engagedViews": 114,
-   "averageViewDuration": 80,
-   "averageViewPercentage": 231,
+   "views": 331,
+   "engagedViews": 125,
+   "averageViewDuration": 75,
+   "averageViewPercentage": 215.74,
    "likes": 5,
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 281,
-    "YT_SEARCH": 18,
+    "SHORTS": 302,
+    "YT_SEARCH": 26,
     "YT_CHANNEL": 2,
     "YT_OTHER_PAGE": 1,
     "NO_LINK_OTHER": 0
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 35,
-   "publicViews": "336",
-   "engagedShare": 0.377
+   "publicViews": "338",
+   "engagedShare": 0.378
   },
   {
    "id": "APKGqW8fBSI",
    "title": "Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz",
    "published": "2026-10-20T12:00:21Z",
-   "views": 24,
-   "engagedViews": 11,
-   "averageViewDuration": 119,
-   "averageViewPercentage": 32.49,
+   "views": 48,
+   "engagedViews": 13,
+   "averageViewDuration": 130,
+   "averageViewPercentage": 35.46,
    "likes": 0,
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SUBSCRIBER": 21,
-    "RELATED_VIDEO": 3
+    "SUBSCRIBER": 44,
+    "RELATED_VIDEO": 3,
+    "YT_SEARCH": 1
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 367,
-   "publicViews": "53",
-   "engagedShare": 0.458
+   "publicViews": "55",
+   "engagedShare": 0.271
   },
   {
    "id": "keIS27rjlOo",
@@ -797,7 +1344,7 @@
    "trafficSources": {
     "NO_LINK_OTHER": 0
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 367,
    "publicViews": "0"
   },
@@ -808,7 +1355,7 @@
    "trafficSources": {
     "NO_LINK_OTHER": 0
    },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
+   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-25&filter",
    "durationSec": 24,
    "publicViews": "0"
   },
@@ -817,44 +1364,36 @@
    "title": "3 Spooky Questions 90% Get Wrong 🎃 #shorts",
    "published": "2026-10-20T08:00:15Z",
    "views": 193,
-   "engagedViews": 58,
+   "engagedViews": 59,
    "averageViewDuration": 13,
-   "averageViewPercentage": 56.779999999999994,
+   "averageViewPercentage": 56.15,
    "likes": 9,
    "comments": 0,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 183,
-    "YT_SEARCH": 4,
-    "YT_OTHER_PAGE": 3,
-    "YT_CHANNEL": 2,
-    "NO_LINK_OTHER": 0
-   },
-   "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-24&filter",
    "durationSec": 24,
    "publicViews": "194",
-   "engagedShare": 0.301
+   "engagedShare": 0.306
   },
   {
    "id": "Feubf7dVX7Y",
    "title": "Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend",
    "published": "2026-10-19T18:58:44Z",
-   "views": 63,
-   "engagedViews": 34,
+   "views": 101,
+   "engagedViews": 38,
    "averageViewDuration": 109,
-   "averageViewPercentage": 27.48,
+   "averageViewPercentage": 27.449999999999996,
    "likes": 1,
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 400,
-   "publicViews": "150",
-   "engagedShare": 0.54
+   "publicViews": "154",
+   "engagedShare": 0.376
   },
   {
    "id": "aBw0DS0IqYE",
    "title": "3 Halloween Questions 90% Get Wrong 🎃 #shorts",
    "published": "2026-10-19T18:33:42Z",
-   "views": 493,
+   "views": 492,
    "engagedViews": 181,
    "averageViewDuration": 19,
    "averageViewPercentage": 74.31,
@@ -863,7 +1402,7 @@
    "subscribersGained": 0,
    "durationSec": 26,
    "publicViews": "495",
-   "engagedShare": 0.367
+   "engagedShare": 0.368
   },
   {
    "id": "CsJYvRLyZfQ",
@@ -877,22 +1416,22 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 207,
-   "publicViews": "5",
+   "publicViews": "6",
    "engagedShare": 0.8
   },
   {
    "id": "v9hE4-ksUq0",
    "title": "Which Came First? 6 Questions 90% Get Wrong 🤯 #shorts",
    "published": "2026-10-19T08:00:38Z",
-   "views": 1235,
-   "engagedViews": 681,
+   "views": 1231,
+   "engagedViews": 678,
    "averageViewDuration": 21,
-   "averageViewPercentage": 46.49,
+   "averageViewPercentage": 46.19,
    "likes": 8,
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 46,
-   "publicViews": "1233",
+   "publicViews": "1234",
    "engagedShare": 0.551
   },
   {
@@ -914,10 +1453,10 @@
    "id": "FyEfeQscyqI",
    "title": "Only Geniuses Get 6/6 🧠 Hard Trivia Quiz #shorts",
    "published": "2026-10-18T15:41:15Z",
-   "views": 1417,
-   "engagedViews": 807,
+   "views": 1427,
+   "engagedViews": 814,
    "averageViewDuration": 26,
-   "averageViewPercentage": 61.199999999999996,
+   "averageViewPercentage": 61.15999999999999,
    "likes": 12,
    "comments": 2,
    "subscribersGained": 0,
@@ -929,7 +1468,7 @@
    "id": "gulbOkDMLgg",
    "title": "6 Questions 90% Get Wrong 🤯 #shorts",
    "published": "2026-10-18T07:45:37Z",
-   "views": 1282,
+   "views": 1283,
    "engagedViews": 579,
    "averageViewDuration": 24,
    "averageViewPercentage": 55.44,
@@ -938,31 +1477,31 @@
    "subscribersGained": 0,
    "durationSec": 44,
    "publicViews": "1283",
-   "engagedShare": 0.452
+   "engagedShare": 0.451
   },
   {
    "id": "AU5WA_fEFNc",
    "title": "Guess the Word by Emoji 🧠 Only a Genius Gets 15/15!",
    "published": "2026-10-17T19:54:28Z",
-   "views": 128,
-   "engagedViews": 94,
-   "averageViewDuration": 95,
-   "averageViewPercentage": 52.35999999999999,
+   "views": 132,
+   "engagedViews": 95,
+   "averageViewDuration": 94,
+   "averageViewPercentage": 51.97999999999999,
    "likes": 1,
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 182,
    "publicViews": "138",
-   "engagedShare": 0.734
+   "engagedShare": 0.72
   },
   {
    "id": "P9BSOeOxJJc",
    "title": "8 Geography Questions 90% Get Wrong 🌍 #shorts",
    "published": "2026-10-17T17:25:41Z",
-   "views": 1327,
-   "engagedViews": 600,
+   "views": 1325,
+   "engagedViews": 599,
    "averageViewDuration": 36,
-   "averageViewPercentage": 60.46,
+   "averageViewPercentage": 60.45,
    "likes": 11,
    "comments": 0,
    "subscribersGained": 1,
@@ -1057,7 +1596,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 42,
-   "publicViews": "55",
+   "publicViews": "57",
    "engagedShare": 0.545
   }
  ]
