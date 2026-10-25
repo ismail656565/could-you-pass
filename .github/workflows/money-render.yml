@@ -17,7 +17,7 @@ concurrency:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 150
     defaults:
       run:
         working-directory: money
@@ -62,7 +62,7 @@ jobs:
             ls out
           fi
           if [ "$MODE" = "full" ] || [ "$MODE" = "both" ]; then
-            npx remotion render build MoneyShort out/money.mp4 --gl=swangle --concurrency=3 --timeout=180000 > out/render.log 2>&1 || echo "RENDER FAILED" >> out/render.log
+            npx remotion render build MoneyShort out/money.mp4 --gl=swangle --concurrency=2 --timeout=180000 > out/render.log 2>&1 || echo "RENDER FAILED" >> out/render.log
             tail -5 out/render.log
           fi
           echo "render seconds: $(( $(date +%s) - START ))" | tee out/timing.txt

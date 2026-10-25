@@ -68,7 +68,7 @@ export const Scene: React.FC = () => {
   const M = useMemo(() => {
     if (!assets) return null;
     const T = assets.tex;
-    const topFlip = (n: string, rx = 1, ry = 1) => texClone(T[n], rx, ry, true);
+    const topFlip = (n: string, rx = 1, ry = 1) => texClone(T[n], rx, ry, false);
     const bill = new THREE.MeshStandardMaterial({map: T.bill_top, roughness: 0.82, side: THREE.DoubleSide});
     const stack = [std(T.stack_short), std(T.stack_short), std(topFlip('bill_top')), std(T.bill_top), std(T.stack_long), std(T.stack_long)];
     const bundle = [std(T.bundle_short), std(T.bundle_short), std(topFlip('bundle_top')), std(T.bundle_top), std(T.bundle_long), std(T.bundle_long)];
@@ -125,7 +125,7 @@ export const Scene: React.FC = () => {
     }
     scene.fog = new THREE.Fog('#dde3e9', 300, 2500);
     gl.toneMapping = THREE.ACESFilmicToneMapping;
-    gl.toneMappingExposure = 1.0;
+    gl.toneMappingExposure = 0.92;
     gl.shadowMap.enabled = true;
     gl.shadowMap.type = THREE.PCFSoftShadowMap;
   }, [assets, scene, gl]);

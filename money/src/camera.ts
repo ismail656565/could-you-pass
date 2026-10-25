@@ -53,11 +53,11 @@ export function cameraAt(t: number): CamPose {
     // B: low side angle, bills settle into a stack
     const u = smooth((t - SHOTS.B) / (SHOTS.C - SHOTS.B));
     [eye, target] = lerpPose(
-      [C0.clone().add(V(0.15, 0.24, -0.38)), C0.clone().add(V(0, 0.012, 0))],
-      [C0.clone().add(V(-0.09, 0.26, -0.38)), C0.clone().add(V(0, 0.012, 0))],
+      [C0.clone().add(V(0.2, 0.36, -0.6)), C0.clone().add(V(0, 0.03, 0))],
+      [C0.clone().add(V(-0.14, 0.38, -0.58)), C0.clone().add(V(0, 0.03, 0))],
       u,
     );
-    fov = 30;
+    fov = 34;
     shadowSize = 0.6;
     eye.add(handheld(t, 0.0015));
   } else if (t < DROP) {
