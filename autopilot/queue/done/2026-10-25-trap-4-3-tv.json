@@ -1,0 +1,131 @@
+{
+ "id": "trap-4-3-tv",
+ "lines": [
+  {
+   "q": "How long did the Hundred Years' War last?",
+   "a": "One hundred and sixteen years! From thirteen thirty-seven to fourteen fifty-three."
+  },
+  {
+   "q": "What is a group of flamingos called?",
+   "a": "A flamboyance! Perfect name, right?"
+  },
+  {
+   "q": "What colour is a giraffe's tongue?",
+   "a": "Dark purple, almost black! Scientists think it helps against sunburn."
+  },
+  {
+   "q": "Last one. How long did the shortest war in history last?",
+   "a": "About thirty-eight minutes! Britain against Zanzibar, in eighteen ninety-six. Didn't see that coming, right?"
+  }
+ ],
+ "youtube": {
+  "title": "4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts",
+  "description": "4 trivia questions that fool almost everyone 🤯 Did #1 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #triviaquiz #generalknowledge #historyquiz #shorts\n\nMusic: original.",
+  "tags": [
+   "trivia quiz",
+   "quiz",
+   "trivia",
+   "general knowledge quiz",
+   "history quiz",
+   "animal facts",
+   "hard trivia",
+   "shorts"
+  ],
+  "comment": "Did the Hundred Years' War get you? ⚔️ Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "TRIVIA",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "How long did the **Hundred Years' War** last?",
+    "answers": [
+     "100 years",
+     "99 years",
+     "116 years",
+     "84 years"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "⚔️  🏰",
+    "start": 0.0,
+    "countdownStart": 2.259,
+    "reveal": 4.759,
+    "end": 9.973
+   },
+   {
+    "q": "A group of **flamingos** is called a…?",
+    "answers": [
+     "Flamboyance",
+     "Parliament",
+     "Pride",
+     "Murder"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🦩  🦩",
+    "start": 9.973,
+    "countdownStart": 11.946,
+    "reveal": 14.446,
+    "end": 17.395
+   },
+   {
+    "q": "What colour is a giraffe's **tongue**?",
+    "answers": [
+     "Pink",
+     "Red",
+     "Grey",
+     "Dark purple"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "👅  🌿",
+    "start": 17.395,
+    "countdownStart": 19.203,
+    "reveal": 21.703,
+    "end": 26.506
+   },
+   {
+    "q": "How long was the **shortest war** ever?",
+    "answers": [
+     "6 days",
+     "38 minutes",
+     "3 weeks",
+     "11 hours"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "⏱️",
+    "start": 26.506,
+    "countdownStart": 29.477,
+    "reveal": 31.977,
+    "end": 38.538
+   }
+  ],
+  "audio": "audio/trap-4-3-tv.mp3",
+  "outroStart": 38.538,
+  "durationInSeconds": 38.538
+ },
+ "publishAt": "21:00",
+ "scheduledFor": "2026-10-25T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "vmeXaMubrhw",
+  "at": "2026-10-25T07:12"
+ },
+ "linkedLong": "5J-WUlJ3R9E"
+}

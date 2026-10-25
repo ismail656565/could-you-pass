@@ -1,0 +1,37 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "SPACE QUIZ",
+ "hook": "ONLY 1 IN 10 GET THIS 🤯",
+ "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+ "finalLabel": "",
+ "ctaText": "Follow if you got it ✅",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get it?",
+ "outroSub": "Comment 👇",
+ "questions": [
+  {
+   "q": "How long does **Venus** take to spin once?",
+   "answers": [
+    "24 hours",
+    "10 days",
+    "58 days",
+    "243 days"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "image": "bilder/q2-venus.jpg",
+   "start": 0.0,
+   "countdownStart": 6.523,
+   "reveal": 11.523,
+   "end": 16.764
+  }
+ ],
+ "audio": "audio/one-q-venus-spin.mp3",
+ "outroStart": 16.764,
+ "durationInSeconds": 16.764
+}

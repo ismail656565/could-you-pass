@@ -375,3 +375,24 @@
 [2026-10-25 07:05:35] In Playlist "General Knowledge & Memory Quizzes 🧠"
 [2026-10-25 07:05:35] Geplant für 25.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
 [2026-10-25 07:05:35] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-10-25 07:08:55] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-25 07:08:55] Analytics gespeichert (32 Videos)
+[2026-10-25 07:08:56] over65-memory-50-1: noch nicht öffentlich – Kommentar später
+[2026-10-25 07:08:56] Produziere one-q-venus-spin (short)
+[2026-10-25 07:08:56] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-25 07:09:01] Ton fertig: 16.8 s
+[2026-10-25 07:10:07] Gerendert
+[2026-10-25 07:10:09] Hochgeladen: https://youtube.com/watch?v=_x27k1ra9KQ (private)
+[2026-10-25 07:10:10] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-25 07:10:10] Geplant für 25.10. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-25 07:10:10] Produziere trap-4-3-tv (short)
+[2026-10-25 07:10:10] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-25 07:10:20] Ton fertig: 38.5 s
+[2026-10-25 07:12:13] Gerendert
+[2026-10-25 07:12:16] Hochgeladen: https://youtube.com/watch?v=vmeXaMubrhw (private)
+[2026-10-25 07:12:16] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-25 07:12:16] Geplant für 25.10. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-25 07:12:16] Kein short-Video in der Warteschlange.
+[2026-10-25 07:12:16] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-10-25 07:12:17] Short-Beschreibung (trap-4-3-tv) verlinkt auf langes Video 5J-WUlJ3R9E
+[2026-10-25 07:12:18] Short-Beschreibung (one-q-venus-spin) verlinkt auf langes Video 5J-WUlJ3R9E

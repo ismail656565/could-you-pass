@@ -1,0 +1,74 @@
+{
+ "id": "one-q-venus-spin",
+ "timing": {
+  "count": 5.0,
+  "tail": 0.4
+ },
+ "lines": [
+  {
+   "q": "Only one in ten adults get this right. How long does Venus take to spin around once? Double tap to lock your answer!",
+   "a": "Two hundred and forty-three Earth days! That's longer than its whole year. Follow if you got it!"
+  }
+ ],
+ "youtube": {
+  "title": "How Long Does Venus Take to Spin Once? 🪐🤯 #shorts",
+  "description": "Only 1 in 10 adults get this right 🤯 Did you?\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #spacequiz #generalknowledge #funfacts #shorts\n\nPhotos via Wikimedia Commons: Venus – NASA/JPL-Caltech (public domain)\nMusic: original.",
+  "tags": [
+   "space quiz",
+   "planet quiz",
+   "venus facts",
+   "trivia quiz",
+   "general knowledge quiz",
+   "quiz",
+   "fun facts",
+   "shorts"
+  ],
+  "comment": "What did you guess? 24 hours, 10 days, 58 days or 243 days? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "SPACE QUIZ",
+  "hook": "ONLY 1 IN 10 GET THIS 🤯",
+  "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+  "finalLabel": "",
+  "ctaText": "Follow if you got it ✅",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you get it?",
+  "outroSub": "Comment 👇",
+  "questions": [
+   {
+    "q": "How long does **Venus** take to spin once?",
+    "answers": [
+     "24 hours",
+     "10 days",
+     "58 days",
+     "243 days"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "image": "bilder/q2-venus.jpg",
+    "start": 0.0,
+    "countdownStart": 6.523,
+    "reveal": 11.523,
+    "end": 16.764
+   }
+  ],
+  "audio": "audio/one-q-venus-spin.mp3",
+  "outroStart": 16.764,
+  "durationInSeconds": 16.764
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-10-25T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "_x27k1ra9KQ",
+  "at": "2026-10-25T07:10"
+ },
+ "linkedLong": "5J-WUlJ3R9E"
+}
