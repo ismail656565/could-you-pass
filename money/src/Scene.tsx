@@ -302,7 +302,7 @@ export const Scene: React.FC = () => {
   return (
     <>
       <directionalLight ref={sun} intensity={3.3} color="#fff2e0" castShadow
-        shadow-mapSize-width={4096} shadow-mapSize-height={4096} />
+        shadow-mapSize-width={2048} shadow-mapSize-height={2048} />
       <hemisphereLight args={['#dfe9f5', '#b9b2a6', 0.25]} />
       <mesh geometry={G.box} material={M.ground} receiveShadow position={[0, -0.02, 0]} scale={[3000, 0.02, 3000]} />
       {billEls}

@@ -64,6 +64,13 @@ jobs:
           if [ "$MODE" = "full" ] || [ "$MODE" = "both" ]; then
             npx remotion render build MoneyShort out/money.mp4 --gl=swangle --concurrency=2 --timeout=180000 > out/render.log 2>&1 || echo "RENDER FAILED" >> out/render.log
             tail -5 out/render.log
+            if [ -f out/money.mp4 ]; then
+              ffmpeg -hide_banner -loglevel error -y -i out/money.mp4 -c:v libx264 -preset slow -crf 21 -pix_fmt yuv420p \
+                -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k -movflags +faststart out/money_final.mp4
+              rm out/money.mp4
+              ffmpeg -hide_banner -loglevel error -y -i out/money_final.mp4 -vf "fps=1/2.5,scale=270:480,tile=7x2" -frames:v 1 out/sheet.jpg
+              ls -la out
+            fi
           fi
           echo "render seconds: $(( $(date +%s) - START ))" | tee out/timing.txt
 
