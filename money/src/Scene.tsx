@@ -1,7 +1,7 @@
 import React, {useEffect, useLayoutEffect, useMemo, useRef, useState} from 'react';
 import * as THREE from 'three';
 import {useThree} from '@react-three/fiber';
-import {useCurrentFrame} from 'remotion';
+import {useCurrentFrame, delayRender, continueRender} from 'remotion';
 import {loadAssets, Assets} from './assets';
 import {cameraAt} from './camera';
 import {
@@ -39,9 +39,22 @@ function squash(dt: number) {
 
 function useAssets() {
   const [a, setA] = useState<Assets | null>(null);
+  const [handle] = useState(() => delayRender('scene assets'));
+  const advance = useThree((s) => s.advance);
   useEffect(() => {
     loadAssets().then(setA);
   }, []);
+  useEffect(() => {
+    if (!a) return;
+    // the canvas only redraws on frame changes, so draw once now that everything exists
+    requestAnimationFrame(() => {
+      advance(performance.now());
+      requestAnimationFrame(() => {
+        advance(performance.now());
+        continueRender(handle);
+      });
+    });
+  }, [a]);
   return a;
 }
 

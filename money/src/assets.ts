@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 import {RGBELoader} from 'three/examples/jsm/loaders/RGBELoader.js';
-import {continueRender, delayRender, staticFile} from 'remotion';
+import {staticFile} from 'remotion';
 
 export type Assets = {
   tex: Record<string, THREE.Texture>;
@@ -29,7 +29,6 @@ function loadTex(url: string, srgb: boolean): Promise<THREE.Texture | null> {
 
 export function loadAssets(): Promise<Assets> {
   if (cache) return cache;
-  const handle = delayRender('loading textures + sky');
   cache = (async () => {
     const tex: Record<string, THREE.Texture> = {};
     await Promise.all(
@@ -54,7 +53,6 @@ export function loadAssets(): Promise<Assets> {
     } catch (e) {
       hdr = null;
     }
-    continueRender(handle);
     return {tex, hdr};
   })();
   return cache;

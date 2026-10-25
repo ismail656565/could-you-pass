@@ -45,13 +45,13 @@ const Main: React.FC<{text: string; t: number; seg: Seg}> = ({text, t, seg}) => 
   const inU = seg.s === 0 ? 1 : easeOut((t - seg.s) / 0.32, 4);
   const outU = seg.e < DURATION ? clamp((t - (seg.e - 0.16)) / 0.16) : 0;
   const punch = seg.milestone !== undefined ? Math.exp(-Math.max(0, t - seg.milestone) * 7) * (t >= seg.milestone ? 1 : 0) : 0;
-  const scale = 1 + 0.07 * punch;
+  const scale = 1 + 0.05 * punch;
   const chars = text.split('');
   return (
     <div style={{overflow: 'hidden', paddingBottom: 6}}>
       <div
         style={{
-          fontFamily: 'InterDisplay', fontWeight: 900, fontSize: 128, lineHeight: 1.0, letterSpacing: -3,
+          fontFamily: 'InterDisplay', fontWeight: 900, fontSize: 116, lineHeight: 1.0, letterSpacing: -3,
           color: INK, whiteSpace: 'nowrap',
           transform: `translateY(${(1 - inU) * 110 - outU * 110}%) scale(${scale})`,
           transformOrigin: 'left center',
