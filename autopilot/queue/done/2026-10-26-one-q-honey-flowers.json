@@ -51,8 +51,24 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "image": "bilder/q2-honey.jpg"
+    "image": "bilder/q2-honey.jpg",
+    "start": 0.0,
+    "countdownStart": 7.046,
+    "reveal": 12.046,
+    "end": 18.496
    }
-  ]
- }
+  ],
+  "audio": "audio/one-q-honey-flowers.mp3",
+  "outroStart": 18.496,
+  "durationInSeconds": 18.496
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-10-26T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "G1Xd6-ft9Pw",
+  "at": "2026-10-26T06:20"
+ },
+ "linkedLong": "IzMmn9i4iWM"
 }

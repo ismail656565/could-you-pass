@@ -422,3 +422,37 @@
 [2026-10-25 13:38:11] one-q-venus-spin: noch nicht öffentlich – Kommentar später
 [2026-10-25 13:38:11] over65-memory-50-1: Kommentar gepostet
 [2026-10-25 13:38:11] trap-4-3-tv: noch nicht öffentlich – Kommentar später
+[2026-10-26 06:18:45] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-26 06:18:45] Analytics gespeichert (34 Videos)
+[2026-10-26 06:18:46] one-q-venus-spin: Kommentar gepostet
+[2026-10-26 06:18:47] trap-4-3-tv: Kommentar gepostet
+[2026-10-26 06:18:47] Thumbnail-Test cl-quiz-20: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-26 06:18:50] Thumbnail-Test cl-quiz-20: jetzt Variante C
+[2026-10-26 06:18:50] Thumbnail-Test iq-check-40-1: Variante A → {'views': 13, 'ctr': 3.25, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-26 06:18:52] Thumbnail-Test iq-check-40-1: jetzt Variante B
+[2026-10-26 06:18:52] Produziere one-q-honey-flowers (short)
+[2026-10-26 06:18:52] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-26 06:19:02] Ton fertig: 18.5 s
+[2026-10-26 06:20:35] Gerendert
+[2026-10-26 06:20:37] Hochgeladen: https://youtube.com/watch?v=G1Xd6-ft9Pw (private)
+[2026-10-26 06:20:38] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-26 06:20:38] Geplant für 26.10. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-26 06:20:38] Produziere trap-4-4-tv (short)
+[2026-10-26 06:20:38] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-26 06:20:59] Ton fertig: 42.0 s
+[2026-10-26 06:23:54] Gerendert
+[2026-10-26 06:23:57] Hochgeladen: https://youtube.com/watch?v=JzX5tY6R9Dw (private)
+[2026-10-26 06:23:57] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-26 06:23:57] Geplant für 26.10. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-26 06:23:57] Kein short-Video in der Warteschlange.
+[2026-10-26 06:23:57] Produziere citizenship-test-50-1 (long)
+[2026-10-26 06:23:57] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-26 06:28:03] Ton fertig: 723.5 s
+[2026-10-26 07:16:23] Gerendert
+[2026-10-26 07:16:40] Hochgeladen: https://youtube.com/watch?v=IzMmn9i4iWM (private)
+[2026-10-26 07:16:43] Vorschaubild gesetzt
+[2026-10-26 07:16:43] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-10-26 07:16:43] Geplant für 26.10. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-26 07:16:43] Kein long-Video in der Warteschlange.
+[2026-10-26 07:16:44] Short-Beschreibung (trap-4-4-tv) verlinkt auf langes Video IzMmn9i4iWM
+[2026-10-26 07:16:45] Short-Beschreibung (one-q-honey-flowers) verlinkt auf langes Video IzMmn9i4iWM

@@ -459,8 +459,8 @@
    "B",
    "C"
   ],
-  "current": "B",
-  "since": "2026-10-22",
+  "current": "C",
+  "since": "2026-10-26",
   "results": {
    "A": {
     "views": 3,
@@ -469,6 +469,14 @@
     "note": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1",
     "from": "2026-10-18",
     "to": "2026-10-22"
+   },
+   "B": {
+    "views": 0,
+    "ctr": 0.0,
+    "metric": "views/day",
+    "note": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1",
+    "from": "2026-10-22",
+    "to": "2026-10-26"
    }
   },
   "done": false

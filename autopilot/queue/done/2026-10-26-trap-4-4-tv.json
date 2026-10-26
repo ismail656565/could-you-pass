@@ -60,7 +60,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "image": "bilder/mv-jp.jpg"
+    "image": "bilder/mv-jp.jpg",
+    "start": 0.0,
+    "countdownStart": 2.699,
+    "reveal": 5.199,
+    "end": 10.621
    },
    {
     "q": "When was the **fax machine** first patented?",
@@ -72,7 +76,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "📠"
+    "cardText": "📠",
+    "start": 10.621,
+    "countdownStart": 13.012,
+    "reveal": 15.512,
+    "end": 20.022
    },
    {
     "q": "First toy ever **advertised on TV**?",
@@ -84,7 +92,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "📺  🧸"
+    "cardText": "📺  🧸",
+    "start": 20.022,
+    "countdownStart": 22.749,
+    "reveal": 25.249,
+    "end": 30.971
    },
    {
     "q": "How long was the **Eiffel Tower** meant to stand?",
@@ -96,8 +108,24 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🗼"
+    "cardText": "🗼",
+    "start": 30.971,
+    "countdownStart": 33.874,
+    "reveal": 36.374,
+    "end": 41.977
    }
-  ]
- }
+  ],
+  "audio": "audio/trap-4-4-tv.mp3",
+  "outroStart": 41.977,
+  "durationInSeconds": 41.977
+ },
+ "publishAt": "21:00",
+ "scheduledFor": "2026-10-26T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "JzX5tY6R9Dw",
+  "at": "2026-10-26T06:23"
+ },
+ "linkedLong": "IzMmn9i4iWM"
 }

@@ -1,0 +1,37 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "NATURE QUIZ",
+ "hook": "ONLY 1 IN 10 GET THIS 🤯",
+ "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+ "finalLabel": "",
+ "ctaText": "Follow if you got it ✅",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get it?",
+ "outroSub": "Comment 👇",
+ "questions": [
+  {
+   "q": "Bees visit how many **flowers** for 1 lb of honey?",
+   "answers": [
+    "2,000",
+    "50,000",
+    "2 million",
+    "500 million"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "image": "bilder/q2-honey.jpg",
+   "start": 0.0,
+   "countdownStart": 7.046,
+   "reveal": 12.046,
+   "end": 18.496
+  }
+ ],
+ "audio": "audio/one-q-honey-flowers.mp3",
+ "outroStart": 18.496,
+ "durationInSeconds": 18.496
+}

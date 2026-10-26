@@ -1,0 +1,834 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "tvshow",
+ "title": "Citizenship Test",
+ "header": "CITIZENSHIP TEST",
+ "hook": "CAN YOU GET 30/50? 🗽",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "30+ = you pass! Comment 👇",
+ "midCtaIndex": 24,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "CITIZENSHIP **TEST**",
+  "COULD YOU **PASS**?",
+  "MOST AMERICANS **FAIL**"
+ ],
+ "thumbEmoji": "🗽",
+ "thumbBadge": "50 REAL CIVICS QUESTIONS",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "What is the **capital** of the United States?",
+   "answers": [
+    "New York",
+    "Philadelphia",
+    "Washington, D.C.",
+    "Boston"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🏛️  🦅",
+   "start": 0.0,
+   "countdownStart": 12.682,
+   "reveal": 18.682,
+   "end": 24.715
+  },
+  {
+   "q": "How many **stars** are on the U.S. flag?",
+   "answers": [
+    "50",
+    "48",
+    "52",
+    "13"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "⭐  🎌",
+   "start": 24.715,
+   "countdownStart": 27.255,
+   "reveal": 33.255,
+   "end": 38.798
+  },
+  {
+   "q": "How many **stripes** are on the flag?",
+   "answers": [
+    "50",
+    "12",
+    "10",
+    "13"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🟥  ⬜",
+   "start": 38.798,
+   "countdownStart": 40.844,
+   "reveal": 46.844,
+   "end": 50.887
+  },
+  {
+   "q": "What do Americans celebrate on **July 4**?",
+   "answers": [
+    "Labor Day",
+    "Independence Day",
+    "Memorial Day",
+    "Thanksgiving"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🎆  🎉",
+   "start": 50.887,
+   "countdownStart": 53.787,
+   "reveal": 59.787,
+   "end": 66.691
+  },
+  {
+   "q": "Which ocean is on the **West Coast**?",
+   "answers": [
+    "Atlantic",
+    "Pacific",
+    "Indian",
+    "Arctic"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🌊  🌅",
+   "start": 66.691,
+   "countdownStart": 69.665,
+   "reveal": 75.665,
+   "end": 79.908
+  },
+  {
+   "q": "What is the **national anthem**?",
+   "answers": [
+    "America the Beautiful",
+    "God Bless America",
+    "My Country, 'Tis of Thee",
+    "The Star-Spangled Banner"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🎵  🎺",
+   "start": 79.908,
+   "countdownStart": 82.204,
+   "reveal": 88.204,
+   "end": 93.894
+  },
+  {
+   "q": "Who lived in America **before** Europeans?",
+   "answers": [
+    "Native Americans",
+    "Vikings",
+    "Spaniards",
+    "Pilgrims"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🏕️  🌾",
+   "start": 93.894,
+   "countdownStart": 96.74,
+   "reveal": 102.74,
+   "end": 108.214
+  },
+  {
+   "q": "Which is a U.S. **territory**, not a state?",
+   "answers": [
+    "Hawaii",
+    "Alaska",
+    "Puerto Rico",
+    "Bermuda"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🏝️  🗺️",
+   "start": 108.214,
+   "countdownStart": 111.341,
+   "reveal": 117.341,
+   "end": 122.926
+  },
+  {
+   "q": "The U.S. declared independence from **whom**?",
+   "answers": [
+    "Spain",
+    "France",
+    "The Netherlands",
+    "Great Britain"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "📜  ✒️",
+   "start": 122.926,
+   "countdownStart": 126.144,
+   "reveal": 132.144,
+   "end": 136.168
+  },
+  {
+   "q": "Which right is in the **First Amendment**?",
+   "answers": [
+    "Right to vote at 16",
+    "Freedom of speech",
+    "Free healthcare",
+    "Right to drive"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🗣️  📰",
+   "start": 136.168,
+   "countdownStart": 138.61,
+   "reveal": 144.61,
+   "end": 149.407
+  },
+  {
+   "q": "Who was President during the **Civil War**?",
+   "answers": [
+    "Abraham Lincoln",
+    "Andrew Jackson",
+    "Ulysses S. Grant",
+    "Thomas Jefferson"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "⚔️  🎩",
+   "start": 149.407,
+   "countdownStart": 152.946,
+   "reveal": 158.946,
+   "end": 164.897
+  },
+  {
+   "q": "Who wrote the **Declaration of Independence**?",
+   "answers": [
+    "Benjamin Franklin",
+    "John Adams",
+    "Thomas Jefferson",
+    "George Washington"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "📜  🪶",
+   "start": 164.897,
+   "countdownStart": 167.319,
+   "reveal": 173.319,
+   "end": 177.274
+  },
+  {
+   "q": "What are the **first ten amendments** called?",
+   "answers": [
+    "The Articles of Confederation",
+    "The Federalist Papers",
+    "The Bill of Rights",
+    "The Magna Carta"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "📜  🔟",
+   "start": 177.274,
+   "countdownStart": 180.363,
+   "reveal": 186.363,
+   "end": 190.857
+  },
+  {
+   "q": "How long is a U.S. **senator's** term?",
+   "answers": [
+    "6 years",
+    "2 years",
+    "4 years",
+    "8 years"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🏛️  ⏳",
+   "start": 190.857,
+   "countdownStart": 193.947,
+   "reveal": 199.947,
+   "end": 203.75
+  },
+  {
+   "q": "How long is one **presidential** term?",
+   "answers": [
+    "2 years",
+    "6 years",
+    "8 years",
+    "4 years"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🗳️  ⏳",
+   "start": 203.75,
+   "countdownStart": 206.248,
+   "reveal": 212.248,
+   "end": 216.779
+  },
+  {
+   "q": "Who is **Commander in Chief** of the military?",
+   "answers": [
+    "The Secretary of Defense",
+    "The President",
+    "The Vice President",
+    "The top general"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🎖️  ⭐",
+   "start": 216.779,
+   "countdownStart": 219.33,
+   "reveal": 225.33,
+   "end": 229.692
+  },
+  {
+   "q": "Who **makes** federal laws?",
+   "answers": [
+    "The President",
+    "Congress",
+    "The Supreme Court",
+    "The governors"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "⚖️  📜",
+   "start": 229.692,
+   "countdownStart": 231.336,
+   "reveal": 237.336,
+   "end": 241.021
+  },
+  {
+   "q": "How many **justices** sit on the Supreme Court?",
+   "answers": [
+    "7",
+    "11",
+    "12",
+    "9"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "⚖️  👨‍⚖️",
+   "start": 241.021,
+   "countdownStart": 243.569,
+   "reveal": 249.569,
+   "end": 253.669
+  },
+  {
+   "q": "When was the **Constitution** written?",
+   "answers": [
+    "1787",
+    "1776",
+    "1791",
+    "1812"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "📜  🖋️",
+   "start": 253.669,
+   "countdownStart": 256.166,
+   "reveal": 262.166,
+   "end": 268.815
+  },
+  {
+   "q": "Who did the U.S. fight in **World War II**?",
+   "answers": [
+    "Russia and China",
+    "Spain and France",
+    "Japan, Germany, Italy",
+    "Britain and Japan"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "✈️  ⚓",
+   "start": 268.815,
+   "countdownStart": 271.683,
+   "reveal": 277.683,
+   "end": 283.534
+  },
+  {
+   "q": "Who was the first **Postmaster General**?",
+   "answers": [
+    "Alexander Hamilton",
+    "John Adams",
+    "James Madison",
+    "Benjamin Franklin"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "✉️  📮",
+   "start": 283.534,
+   "countdownStart": 288.549,
+   "reveal": 294.549,
+   "end": 300.408
+  },
+  {
+   "q": "What did the U.S. buy from **France** in 1803?",
+   "answers": [
+    "Alaska",
+    "Louisiana",
+    "Florida",
+    "Texas"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🗺️  💰",
+   "start": 300.408,
+   "countdownStart": 304.386,
+   "reveal": 310.386,
+   "end": 315.377
+  },
+  {
+   "q": "Who was President during **World War I**?",
+   "answers": [
+    "Woodrow Wilson",
+    "Theodore Roosevelt",
+    "Herbert Hoover",
+    "William Taft"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🪖  🕊️",
+   "start": 315.377,
+   "countdownStart": 317.587,
+   "reveal": 323.587,
+   "end": 328.173
+  },
+  {
+   "q": "President during the **Great Depression** and WWII?",
+   "answers": [
+    "Herbert Hoover",
+    "Harry Truman",
+    "Franklin Roosevelt",
+    "Dwight Eisenhower"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "📉  🎙️",
+   "start": 328.173,
+   "countdownStart": 331.305,
+   "reveal": 337.305,
+   "end": 342.522
+  },
+  {
+   "q": "What is the minimum **voting age**?",
+   "answers": [
+    "16",
+    "21",
+    "18",
+    "25"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🗳️  🎂",
+   "start": 342.522,
+   "countdownStart": 345.504,
+   "reveal": 351.504,
+   "end": 356.27
+  },
+  {
+   "q": "How old must the **President** be?",
+   "answers": [
+    "At least 35",
+    "At least 30",
+    "At least 40",
+    "At least 45"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🎂  🏛️",
+   "start": 356.27,
+   "countdownStart": 358.655,
+   "reveal": 364.655,
+   "end": 369.674
+  },
+  {
+   "q": "How long is a **House** member's term?",
+   "answers": [
+    "1 year",
+    "4 years",
+    "6 years",
+    "2 years"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🏛️  📅",
+   "start": 369.674,
+   "countdownStart": 372.938,
+   "reveal": 378.938,
+   "end": 382.576
+  },
+  {
+   "q": "**Susan B. Anthony** fought for what?",
+   "answers": [
+    "Independence",
+    "Women's rights",
+    "Workers' pay",
+    "Free schools"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "✊  🗳️",
+   "start": 382.576,
+   "countdownStart": 385.684,
+   "reveal": 391.684,
+   "end": 397.028
+  },
+  {
+   "q": "What did the **Emancipation Proclamation** do?",
+   "answers": [
+    "Ended World War I",
+    "Freed the slaves",
+    "Gave women the vote",
+    "Bought Alaska"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "📜  ⛓️",
+   "start": 397.028,
+   "countdownStart": 399.59,
+   "reveal": 405.59,
+   "end": 411.857
+  },
+  {
+   "q": "The **Federalist Papers** supported what?",
+   "answers": [
+    "Independence from Britain",
+    "Ending slavery",
+    "Women's right to vote",
+    "The U.S. Constitution"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "📰  ✍️",
+   "start": 411.857,
+   "countdownStart": 414.827,
+   "reveal": 420.827,
+   "end": 426.965
+  },
+  {
+   "q": "Who **co-wrote** the Federalist Papers?",
+   "answers": [
+    "James Madison",
+    "Thomas Jefferson",
+    "Benjamin Franklin",
+    "George Washington"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "✍️  📚",
+   "start": 426.965,
+   "countdownStart": 431.439,
+   "reveal": 437.439,
+   "end": 443.599
+  },
+  {
+   "q": "Which is **not** a branch of government?",
+   "answers": [
+    "Legislative",
+    "Executive",
+    "Military",
+    "Judicial"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🏛️  🔱",
+   "start": 443.599,
+   "countdownStart": 446.522,
+   "reveal": 452.522,
+   "end": 458.074
+  },
+  {
+   "q": "Men register for **Selective Service** at which ages?",
+   "answers": [
+    "16 to 21",
+    "21 to 30",
+    "18 to 35",
+    "18 to 26"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "🎖️  📝",
+   "start": 458.074,
+   "countdownStart": 461.482,
+   "reveal": 467.482,
+   "end": 472.614
+  },
+  {
+   "q": "Last day to send federal **tax forms**?",
+   "answers": [
+    "January 1",
+    "April 15",
+    "March 31",
+    "December 31"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "🧾  💵",
+   "start": 472.614,
+   "countdownStart": 476.365,
+   "reveal": 482.365,
+   "end": 485.615
+  },
+  {
+   "q": "If President and VP can't serve, who **takes over**?",
+   "answers": [
+    "Speaker of the House",
+    "Secretary of State",
+    "Senate Majority Leader",
+    "Chief Justice"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🏛️  🔄",
+   "start": 485.615,
+   "countdownStart": 490.473,
+   "reveal": 496.473,
+   "end": 501.861
+  },
+  {
+   "q": "Which power belongs to the **states**?",
+   "answers": [
+    "Printing money",
+    "Declaring war",
+    "Providing schooling",
+    "Making treaties"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🏫  📚",
+   "start": 501.861,
+   "countdownStart": 505.631,
+   "reveal": 511.631,
+   "end": 517.613
+  },
+  {
+   "q": "Main U.S. concern in the **Cold War**?",
+   "answers": [
+    "Fascism",
+    "Slavery",
+    "Communism",
+    "Taxes"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "❄️  🚀",
+   "start": 517.613,
+   "countdownStart": 521.125,
+   "reveal": 527.125,
+   "end": 532.711
+  },
+  {
+   "q": "Life, liberty and the pursuit of **what**?",
+   "answers": [
+    "Happiness",
+    "Property",
+    "Justice",
+    "Freedom"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "📜  😊",
+   "start": 532.711,
+   "countdownStart": 534.962,
+   "reveal": 540.962,
+   "end": 546.867
+  },
+  {
+   "q": "Which was one of the **original 13** states?",
+   "answers": [
+    "Vermont",
+    "Maine",
+    "Florida",
+    "Georgia"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "🗺️  1️⃣3️⃣",
+   "start": 546.867,
+   "countdownStart": 549.871,
+   "reveal": 555.871,
+   "end": 561.781
+  },
+  {
+   "q": "The Constitution begins with which **three words**?",
+   "answers": [
+    "In God We Trust",
+    "We the People",
+    "Four score and",
+    "Life, liberty and"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "📜  ✒️",
+   "start": 561.781,
+   "countdownStart": 564.451,
+   "reveal": 570.451,
+   "end": 576.117
+  },
+  {
+   "q": "In which month do we vote for **President**?",
+   "answers": [
+    "October",
+    "November",
+    "December",
+    "January"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🗳️  📅",
+   "start": 576.117,
+   "countdownStart": 580.491,
+   "reveal": 586.491,
+   "end": 590.664
+  },
+  {
+   "q": "Who wrote **The Star-Spangled Banner**?",
+   "answers": [
+    "Paul Revere",
+    "John Hancock",
+    "Samuel Adams",
+    "Francis Scott Key"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🎵  ⚓",
+   "start": 590.664,
+   "countdownStart": 593.169,
+   "reveal": 599.169,
+   "end": 605.075
+  },
+  {
+   "q": "The Constitution **replaced** which document?",
+   "answers": [
+    "Articles of Confederation",
+    "The Magna Carta",
+    "The Mayflower Compact",
+    "The Declaration of Independence"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "📜  🔄",
+   "start": 605.075,
+   "countdownStart": 607.636,
+   "reveal": 613.636,
+   "end": 619.53
+  },
+  {
+   "q": "Which amendment gave women the **vote**?",
+   "answers": [
+    "15th",
+    "21st",
+    "19th",
+    "26th"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "👩  🗳️",
+   "start": 619.53,
+   "countdownStart": 622.068,
+   "reveal": 628.068,
+   "end": 631.611
+  },
+  {
+   "q": "Which amendment lowered the voting age to **18**?",
+   "answers": [
+    "19th",
+    "24th",
+    "27th",
+    "26th"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🗳️  🎓",
+   "start": 631.611,
+   "countdownStart": 634.382,
+   "reveal": 640.382,
+   "end": 645.673
+  },
+  {
+   "q": "Which amendment **ended slavery**?",
+   "answers": [
+    "10th",
+    "13th",
+    "14th",
+    "15th"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "⛓️  🕊️",
+   "start": 645.673,
+   "countdownStart": 647.667,
+   "reveal": 653.667,
+   "end": 657.469
+  },
+  {
+   "q": "Who was President during the **Louisiana Purchase**?",
+   "answers": [
+    "Thomas Jefferson",
+    "John Adams",
+    "James Madison",
+    "James Monroe"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🗺️  🎩",
+   "start": 657.469,
+   "countdownStart": 660.08,
+   "reveal": 666.08,
+   "end": 670.728
+  },
+  {
+   "q": "Who was the first **Secretary of the Treasury**?",
+   "answers": [
+    "Thomas Jefferson",
+    "Benjamin Franklin",
+    "Alexander Hamilton",
+    "John Jay"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "💵  🏦",
+   "start": 670.728,
+   "countdownStart": 673.104,
+   "reveal": 679.104,
+   "end": 684.759
+  },
+  {
+   "q": "The U.S. bought **Alaska** from which country?",
+   "answers": [
+    "Britain",
+    "Canada",
+    "Russia",
+    "Spain"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🐻‍❄️  ❄️",
+   "start": 684.759,
+   "countdownStart": 687.876,
+   "reveal": 693.876,
+   "end": 698.869
+  },
+  {
+   "q": "Which state approved the Constitution **first**?",
+   "answers": [
+    "Delaware",
+    "Pennsylvania",
+    "Virginia",
+    "Massachusetts"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🥇  📜",
+   "start": 698.869,
+   "countdownStart": 702.271,
+   "reveal": 708.271,
+   "end": 712.087
+  }
+ ],
+ "audio": "audio/citizenship-test-50-1.mp3",
+ "outroStart": 712.087,
+ "durationInSeconds": 723.547
+}

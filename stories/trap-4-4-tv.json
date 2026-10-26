@@ -1,0 +1,86 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "TRIVIA",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "**T. rex** lived closer in time to…?",
+   "answers": [
+    "Stegosaurus",
+    "Diplodocus",
+    "Humans",
+    "Brachiosaurus"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "image": "bilder/mv-jp.jpg",
+   "start": 0.0,
+   "countdownStart": 2.699,
+   "reveal": 5.199,
+   "end": 10.621
+  },
+  {
+   "q": "When was the **fax machine** first patented?",
+   "answers": [
+    "1843",
+    "1925",
+    "1964",
+    "1981"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "📠",
+   "start": 10.621,
+   "countdownStart": 13.012,
+   "reveal": 15.512,
+   "end": 20.022
+  },
+  {
+   "q": "First toy ever **advertised on TV**?",
+   "answers": [
+    "Barbie",
+    "Mr. Potato Head",
+    "Slinky",
+    "Yo-yo"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "📺  🧸",
+   "start": 20.022,
+   "countdownStart": 22.749,
+   "reveal": 25.249,
+   "end": 30.971
+  },
+  {
+   "q": "How long was the **Eiffel Tower** meant to stand?",
+   "answers": [
+    "Forever",
+    "6 months",
+    "50 years",
+    "20 years"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🗼",
+   "start": 30.971,
+   "countdownStart": 33.874,
+   "reveal": 36.374,
+   "end": 41.977
+  }
+ ],
+ "audio": "audio/trap-4-4-tv.mp3",
+ "outroStart": 41.977,
+ "durationInSeconds": 41.977
+}
