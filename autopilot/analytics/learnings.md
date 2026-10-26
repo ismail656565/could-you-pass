@@ -177,3 +177,15 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Senioren-Longs weiter schwach: Halloween-30/35 150 public, Over-60 53, Halloween-If-25 39, IQ-40 13, 1960s-50 und GK-50 noch 0 im Report (zu frisch). impressions/ctr weiter leer (API) → Ursache nicht trennbar. Citizenship-Test (26.10.) ist der wichtigste Test der Woche.
 ### Thumbnails
 - Noch keine thumbTest-Gewinner (B/C laufen erst seit 22.–24.10.). Kanal: 7 Abos.
+
+## 2026-10-26 (Morgenlauf, Queue: 2 Shorts für 26.10.; Long 26.10. = Citizenship schon belegt)
+### vidIQ
+- Montags-Analyse NICHT möglich: vidIQ meldet "Not enough credits" (alle 3 Calls abgelehnt, nichts abgebucht) – Rest-Credits reichen nicht für 5er-Calls. Bis Reset 16.11. nur eigener Ausreißer-Scan (outliers.md vom 24.10., nächster automatischer Scan ~30.10.).
+### Shorts
+- Report (25.10. 11:22, public Views): "4 Questions 90% Get Wrong" (Neon, 23.10.) 1002 = bester Kurz-Short; 1-Frage Japan 655, Titanic 316, Sonnenlicht 154 (Analytics: stayed 46,9 %, Ø 530 % durch Loops); erster tvshow-Short "4 Trivia Questions…" 247 nach ~0,5 T (Studio: 62,9 % stayed). → 4 Fragen erreicht nach ~2 T fast die 6-Fragen-Decke (1,1–1,4k) bei viel kürzerer Länge; 1-Frage-Hooks: Reichweite 150–650.
+- Bestes stayed bisher: "90% Get the First One Wrong IQ Test" 71 % (303 Views) und Emoji-Wort-Long 72 % → hohe stayed-Werte allein bringen noch keinen zweiten Schub; Views-Decke liegt bei ~1,4k für alle Formate.
+- 26.10.: Slot 16:00 1-Frage #5 (Honig: 2 Mio. Blüten pro Pfund, Foto Honig, Zahlen-Falle), Slot 21:00 4-Fragen-tvshow #3 als reines Geschichts-Thema mit T.-rex-Foto bei Q1 (Titel "4 History Questions…").
+### Lange Videos
+- 1960s-50 (23.10.) und GK-If-you-get-40 (24.10.) je nur 1 public View nach 2–3 Tagen; Over-60-Memory 55, Halloween-35 158. Senioren-GK-Format bekommt kaum Ausspielung (impressions/ctr in report.json weiter leer, CTR-API HttpError 400) → heute Citizenship-Test (Ausreißer-Format, Suchbegriff mit Volumen) als Gegenprobe; wenn auch < 20 Views nach 3 Tagen, Langformat auf Suchthemen ("Can You Pass the ___ Test?", Guess-the-___) umstellen statt Alters-Titel.
+### Thumbnails
+- 6 Tests laufen, alle per views/day (CTR-API 400): A-Werte Halloween-35 9,0/Tag, Memory-35 6,0, Halloween-If-25 7,5, PL 1,25, CL 0,75 – jetzt alle auf B. Noch kein B/C-Ergebnis → kein Stil-Sieger. Kanal: 7 Abos.

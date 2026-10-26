@@ -1,0 +1,103 @@
+{
+ "id": "trap-4-4-tv",
+ "lines": [
+  {
+   "q": "T rex lived closer in time to which of these?",
+   "a": "Us humans! Stegosaurus was gone about eighty million years before T rex showed up."
+  },
+  {
+   "q": "When was the fax machine first patented?",
+   "a": "Eighteen forty-three! That's before the telephone even existed."
+  },
+  {
+   "q": "What was the first toy ever advertised on TV?",
+   "a": "Mister Potato Head, in nineteen fifty-two! The first kits didn't even come with a potato."
+  },
+  {
+   "q": "Last one. How long was the Eiffel Tower meant to stand?",
+   "a": "Just twenty years! Radio saved it from being torn down. Paris almost lost it!"
+  }
+ ],
+ "youtube": {
+  "title": "4 History Questions Almost Everyone Gets Wrong 🦖 #shorts",
+  "description": "4 history questions that fool almost everyone 🤯 Did #1 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #historyquiz #triviaquiz #generalknowledge #shorts\n\nPhotos via Wikimedia Commons: T. rex skeleton – USDA (public domain)\nMusic: original.",
+  "tags": [
+   "history quiz",
+   "trivia quiz",
+   "quiz",
+   "trivia",
+   "general knowledge quiz",
+   "hard trivia",
+   "dinosaur facts",
+   "shorts"
+  ],
+  "comment": "Did the T. rex one get you? 🦖 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "TRIVIA",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "**T. rex** lived closer in time to…?",
+    "answers": [
+     "Stegosaurus",
+     "Diplodocus",
+     "Humans",
+     "Brachiosaurus"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "image": "bilder/mv-jp.jpg"
+   },
+   {
+    "q": "When was the **fax machine** first patented?",
+    "answers": [
+     "1843",
+     "1925",
+     "1964",
+     "1981"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "📠"
+   },
+   {
+    "q": "First toy ever **advertised on TV**?",
+    "answers": [
+     "Barbie",
+     "Mr. Potato Head",
+     "Slinky",
+     "Yo-yo"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "📺  🧸"
+   },
+   {
+    "q": "How long was the **Eiffel Tower** meant to stand?",
+    "answers": [
+     "Forever",
+     "6 months",
+     "50 years",
+     "20 years"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🗼"
+   }
+  ]
+ }
+}
