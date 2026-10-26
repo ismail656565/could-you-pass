@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-26T08:00",
+ "fetched": "2026-10-26T11:36",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
@@ -158,7 +158,7 @@
    "id": "G1Xd6-ft9Pw",
    "title": "How Many Flowers Make One Pound of Honey? 🍯🤯 #shorts",
    "published": "2026-10-26T06:20:36Z",
-   "retention": [],
+   "retentionError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-26&metrics=audienceWatchRatio%2CrelativeRetentionPerformanc",
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-26&filter",
    "durationSec": 19,
@@ -172,7 +172,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-26&filter",
    "durationSec": 39,
-   "publicViews": "46"
+   "publicViews": "50"
   },
   {
    "id": "_x27k1ra9KQ",
@@ -182,7 +182,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-26&filter",
    "durationSec": 17,
-   "publicViews": "80"
+   "publicViews": "88"
   },
   {
    "id": "5J-WUlJ3R9E",
@@ -192,7 +192,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-26&filter",
    "durationSec": 693,
-   "publicViews": "1"
+   "publicViews": "2"
   },
   {
    "id": "PUmp7zv9y4o",
@@ -212,7 +212,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-26&filter",
    "durationSec": 19,
-   "publicViews": "700"
+   "publicViews": "704"
   },
   {
    "id": "ECEdEibYQPY",
@@ -254,7 +254,7 @@
    },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-26&filter",
    "durationSec": 36,
-   "publicViews": "1013",
+   "publicViews": "1014",
    "engagedShare": 0.545
   },
   {
@@ -432,7 +432,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 400,
-   "publicViews": "168",
+   "publicViews": "170",
    "engagedShare": 0.333
   },
   {
