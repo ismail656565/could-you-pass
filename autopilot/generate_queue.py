@@ -1,7 +1,7 @@
 """Fill an empty production queue with a fresh, curated quiz Short.
 
 No paid AI API is required. Questions are curated locally; used questions are
-held back for 30 days. If the bank is exhausted, fail loudly rather than
+held back for 14 days. If the bank is exhausted, fail loudly rather than
 silently reporting a successful run with no video.
 """
 import datetime as dt
@@ -69,7 +69,7 @@ def read_json(path):
 
 def recently_used_questions(today):
     used = set()
-    cutoff = today - dt.timedelta(days=30)
+    cutoff = today - dt.timedelta(days=14)
     for path in DONE.glob("*.json"):
         item = read_json(path)
         uploaded = item.get("uploaded", {}).get("at", "")
