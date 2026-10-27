@@ -129,7 +129,16 @@ def ensure_queue():
         )
         return
     pool = []
+    recycled_pool = []
     templates = {"short": [], "long": []}
+    used_today = set()
+    for path in DONE.glob("*.json"):
+        item = read_json(path)
+        if item.get("uploaded", {}).get("at", "").startswith(today.isoformat()):
+            for question in item.get("story", {}).get("questions", []):
+                key = re.sub(r"[^a-z0-9]+", " ", str(question.get("q", "")).lower()).strip()
+                if key:
+                    used_today.add(key)
 
     def norm(question):
         return re.sub(r"[^a-z0-9]+", " ", str(question or "").lower()).strip()
@@ -148,7 +157,7 @@ def ensure_queue():
                 templates[fmt].append(item)
             for q, line in zip(questions, lines):
                 key = norm(q.get("q"))
-                if not key or key in used:
+                if not key or key in used_today:
                     continue
                 if not isinstance(q.get("answers"), list) or len(q["answers"]) < 2:
                     continue
@@ -157,14 +166,15 @@ def ensure_queue():
                     continue
                 if not line.get("q") or not line.get("a"):
                     continue
-                pool.append({"question": copy.deepcopy(q), "line": copy.deepcopy(line), "key": key})
+                row = {"question": copy.deepcopy(q), "line": copy.deepcopy(line), "key": key}
+                (recycled_pool if key in used else pool).append(row)
 
     # Add the built-in fact bank as a free backup source.
     for question, answers, correct, explanation, emoji, category in BANK:
         key = norm(question)
-        if key in used:
+        if key in used_today:
             continue
-        pool.append({
+        row = {
             "question": {
                 "q": question, "answers": list(answers), "correct": correct,
                 "level": "MEDIUM", "cardText": emoji,
@@ -175,13 +185,18 @@ def ensure_queue():
                 "a": f"{answers[correct]}! {explanation}"
             },
             "key": key
-        })
+        }
+        (recycled_pool if key in used else pool).append(row)
 
     # Deduplicate old files that may contain the same question more than once.
     deduped = {}
     for row in pool:
         deduped.setdefault(row["key"], row)
     pool = list(deduped.values())
+    recycled = {}
+    for row in recycled_pool:
+        if row["key"] not in deduped:
+            recycled.setdefault(row["key"], row)
 
     if not templates["short"]:
         raise RuntimeError("No compatible 5-question Short template found in autopilot/queue/done or autopilot/test.")
@@ -190,9 +205,14 @@ def ensure_queue():
 
     needed = missing["short"] * 1 + missing["long"] * 50
     if len(pool) < needed:
+        # Free mode has no generative API. If the unused bank is too small,
+        # recycle older questions from the existing channel archive, but never
+        # duplicate a question already uploaded today or within today's batch.
+        pool.extend(list(recycled.values()))
+    if len(pool) < needed:
         raise RuntimeError(
-            f"Not enough unused questions for today's remaining target: "
-            f"{len(pool)} available, {needed} required. Add verified questions; refusing repeats."
+            f"Not enough distinct questions even after archive fallback: "
+            f"{len(pool)} available, {needed} required. Add more curated questions."
         )
 
     random.Random(today.toordinal() + done_today["short"] * 11 + done_today["long"] * 31).shuffle(pool)
