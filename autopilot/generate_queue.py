@@ -110,7 +110,7 @@ def ensure_queue():
             "a": f"{correct_answer}! {explanation} Follow for another quick quiz."
         }],
         "youtube": {
-            "title": f"Can You Answer: {question[:55]}? 🤯 #shorts",
+            "title": f"Can You Answer: {question.rstrip('? ')}? 🤯 #shorts",
             "description": f"One quick question. Did you know the answer?\nComment your guess below.\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #generalknowledge #funfacts #shorts",
             "tags": ["quiz", "trivia", "general knowledge quiz", category.lower() + " quiz", "fun facts", "shorts"],
             "comment": f"Did you get it right? The answer was {correct_answer}. 👇"
