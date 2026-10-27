@@ -144,7 +144,7 @@ def ensure_queue():
         questions = story.get("questions", [])
         lines = item.get("lines", [])
         if questions and len(questions) == len(lines):
-            if len(questions) >= (20 if fmt == "long" else 5):
+            if len(questions) >= (20 if fmt == "long" else 1):
                 templates[fmt].append(item)
             for q, line in zip(questions, lines):
                 key = norm(q.get("q"))
@@ -188,7 +188,7 @@ def ensure_queue():
     if not templates["long"]:
         raise RuntimeError("No compatible 20-question long-video template found in autopilot/queue/done or autopilot/test.")
 
-    needed = missing["short"] * 5 + missing["long"] * 20
+    needed = missing["short"] * 1 + missing["long"] * 50
     if len(pool) < needed:
         raise RuntimeError(
             f"Not enough unused questions for today's remaining target: "
@@ -201,10 +201,10 @@ def ensure_queue():
     for offset in range(missing["short"]):
         slot = done_today["short"] + len(queued["short"]) + offset
         suffix = f"short-{slot + 1}"
-        specs.append((suffix, "short", pool[cursor:cursor + 5], ("16:00", "21:00")[min(slot, 1)]))
-        cursor += 5
+        specs.append((suffix, "short", pool[cursor:cursor + 1], ("16:00", "21:00")[min(slot, 1)]))
+        cursor += 1
     if missing["long"]:
-        specs.append(("long", "long", pool[cursor:cursor + 20], "14:00"))
+        specs.append(("long", "long", pool[cursor:cursor + 50], "14:00"))
 
     for suffix, fmt, rows, publish_at in specs:
         template = random.Random(today.toordinal() + len(suffix)).choice(templates[fmt])
@@ -217,9 +217,20 @@ def ensure_queue():
         item["id"] = item_id
         item["tts"] = "kokoro"  # force the free local voice; never inherit a paid TTS setting from a template
         item["lines"] = [copy.deepcopy(row["line"]) for row in rows]
-        item["story"]["questions"] = [copy.deepcopy(row["question"]) for row in rows]
+        # Preserve timing/layout from the matching template; only replace quiz content.
+        skeleton = item["story"]["questions"]
+        if len(skeleton) < len(rows):
+            raise RuntimeError(f"Template {fmt} has only {len(skeleton)} timed questions, need {len(rows)}.")
+        new_questions = []
+        for index, row in enumerate(rows):
+            question = copy.deepcopy(skeleton[index])
+            for field in ("q", "answers", "correct", "level", "cardText"):
+                if field in row["question"]:
+                    question[field] = copy.deepcopy(row["question"][field])
+            new_questions.append(question)
+        item["story"]["questions"] = new_questions
         item["story"]["format"] = fmt
-        item["story"]["title"] = "20 Question General Knowledge Quiz" if fmt == "long" else "Quick General Knowledge Quiz"
+        item["story"]["title"] = "50 Question General Knowledge Quiz" if fmt == "long" else "Quick General Knowledge Quiz"
         item["story"]["header"] = "GENERAL KNOWLEDGE"
         item["story"]["hook"] = "CAN YOU GET THEM ALL RIGHT?"
         item["story"]["teaser"] = "LOCK IN YOUR ANSWERS"
@@ -232,7 +243,7 @@ def ensure_queue():
             "description": (
                 "Take the 20-question general knowledge challenge. Comment your score and subscribe for more quizzes."
                 if fmt == "long" else
-                "Five quick questions. Comment your score below and follow for more quizzes."
+                "One quick question. Comment your answer below and follow for more quizzes."
             ) + "\n\n#quiz #trivia #generalknowledge #quizchallenge",
             "tags": ["quiz", "trivia", "general knowledge", "quiz challenge", "brain test"] + (["shorts"] if fmt == "short" else []),
             "comment": "What score did you get? Comment below!"
@@ -247,7 +258,7 @@ def ensure_queue():
         target.write_text(json.dumps(item, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"Created {fmt} queue item: {target.name} ({len(rows)} questions)", flush=True)
 
-    print("Queue prepared: 2 Shorts + 1 long video. No paid AI/API used.", flush=True)
+    print("Queue prepared for remaining daily target. Shorts use one-question templates; long video uses the 50-question template. No paid AI/API used.", flush=True)
 
 if __name__ == "__main__":
     try:
