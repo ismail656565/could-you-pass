@@ -84,58 +84,138 @@ def recently_used_questions(today):
     return used
 
 def ensure_queue():
+    """Build two Shorts and one long quiz from the repository's existing, curated question archive.
+
+    No paid AI/API is used. Recent questions (14 days) are excluded; if the archive
+    does not contain enough unused questions or compatible templates, fail loudly.
+    """
+    import copy
+    import random
+
     QUEUE.mkdir(parents=True, exist_ok=True)
     DONE.mkdir(parents=True, exist_ok=True)
     if any(QUEUE.glob("*.json")):
-        print("Queue already contains work; no fallback quiz needed.", flush=True)
+        print("Queue already contains work; leaving it untouched.", flush=True)
         return
+
     today = dt.date.today()
     used = recently_used_questions(today)
-    available = [row for row in BANK if re.sub(r"[^a-z0-9]+", " ", row[0].lower()).strip() not in used]
-    if not available:
-        raise RuntimeError("Quiz question bank exhausted: no unused question in the last 30 days. Add new verified questions; refusing to upload a repeat.")
-    # Rotate deterministically by date, but skip recently-used questions.
-    index = (today.toordinal() * 7) % len(available)
-    question, answers, correct, explanation, emoji, category = available[index]
-    slug = re.sub(r"[^a-z0-9]+", "-", question.lower()).strip("-")[:42]
-    item_id = f"auto-{today.isoformat()}-{slug}"
-    while (QUEUE / f"{item_id}.json").exists() or (DONE / f"{item_id}.json").exists():
-        item_id += "-next"
-    correct_answer = answers[correct]
-    item = {
-        "id": item_id,
-        "timing": {"count": 3.0, "tail": 0.5, "tempo": 1.0},
-        "lines": [{
-            "q": f"Quick quiz! {question} Think fast, and lock in your answer.",
-            "a": f"{correct_answer}! {explanation} Follow for another quick quiz."
-        }],
-        "youtube": {
-            "title": f"Can You Answer: {question.rstrip('? ')}? 🤯 #shorts",
-            "description": f"One quick question. Did you know the answer?\nComment your guess below.\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #generalknowledge #funfacts #shorts",
-            "tags": ["quiz", "trivia", "general knowledge quiz", category.lower() + " quiz", "fun facts", "shorts"],
-            "comment": f"Did you get it right? The answer was {correct_answer}. 👇"
-        },
-        "story": {
-            "type": "quiz", "format": "short", "layout": "tvshow",
-            "title": "Quick Quiz", "header": f"{category} QUIZ",
-            "hook": "CAN YOU GET THIS RIGHT? 🤯",
-            "teaser": "LOCK IN YOUR ANSWER 👇",
-            "finalLabel": "", "ctaText": "Follow for another quiz ✅",
-            "correctLabel": "CORRECT!", "revealIcon": emoji,
-            "music": "sfx/game-show.wav", "musicVolume": 0.1,
-            "outroText": "Did you get it?", "outroSub": "Comment below 👇",
-            "questions": [{
-                "q": question, "answers": answers, "correct": correct,
+    pool = []
+    templates = {"short": [], "long": []}
+
+    def norm(question):
+        return re.sub(r"[^a-z0-9]+", " ", str(question or "").lower()).strip()
+
+    # Use the channel's own previously rendered quiz files as templates and as
+    # a source of vetted questions/answer scripts.
+    source_files = list(DONE.glob("*.json")) + list((AP / "test").glob("*.json"))
+    for path in source_files:
+        item = read_json(path)
+        story = item.get("story", {})
+        fmt = "long" if story.get("format") == "long" else "short"
+        questions = story.get("questions", [])
+        lines = item.get("lines", [])
+        if questions and len(questions) == len(lines):
+            if len(questions) >= (20 if fmt == "long" else 5):
+                templates[fmt].append(item)
+            for q, line in zip(questions, lines):
+                key = norm(q.get("q"))
+                if not key or key in used:
+                    continue
+                if not isinstance(q.get("answers"), list) or len(q["answers"]) < 2:
+                    continue
+                correct = q.get("correct")
+                if not isinstance(correct, int) or not 0 <= correct < len(q["answers"]):
+                    continue
+                if not line.get("q") or not line.get("a"):
+                    continue
+                pool.append({"question": copy.deepcopy(q), "line": copy.deepcopy(line), "key": key})
+
+    # Add the built-in fact bank as a free backup source.
+    for question, answers, correct, explanation, emoji, category in BANK:
+        key = norm(question)
+        if key in used:
+            continue
+        pool.append({
+            "question": {
+                "q": question, "answers": list(answers), "correct": correct,
                 "level": "MEDIUM", "cardText": emoji,
                 "start": 0.0, "countdownStart": 0.0, "reveal": 0.0, "end": 0.0
-            }]
-        },
-        "generatedBy": "curated-fallback",
-        "generatedAt": dt.datetime.now().isoformat(timespec="minutes")
-    }
-    target = QUEUE / f"{item_id}.json"
-    target.write_text(json.dumps(item, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Created fallback quiz: {target.name}", flush=True)
+            },
+            "line": {
+                "q": f"Quick quiz! {question} Think fast, and lock in your answer.",
+                "a": f"{answers[correct]}! {explanation}"
+            },
+            "key": key
+        })
+
+    # Deduplicate old files that may contain the same question more than once.
+    deduped = {}
+    for row in pool:
+        deduped.setdefault(row["key"], row)
+    pool = list(deduped.values())
+
+    if not templates["short"]:
+        raise RuntimeError("No compatible 5-question Short template found in autopilot/queue/done or autopilot/test.")
+    if not templates["long"]:
+        raise RuntimeError("No compatible 20-question long-video template found in autopilot/queue/done or autopilot/test.")
+
+    needed = 5 + 5 + 20
+    if len(pool) < needed:
+        raise RuntimeError(
+            f"Not enough unused questions for today's 2 Shorts + 1 long video: "
+            f"{len(pool)} available, {needed} required. Add verified questions; refusing repeats."
+        )
+
+    random.Random(today.toordinal()).shuffle(pool)
+    chosen = pool[:needed]
+    specs = [
+        ("short-1", "short", chosen[0:5], "16:00"),
+        ("short-2", "short", chosen[5:10], "21:00"),
+        ("long", "long", chosen[10:30], "14:00"),
+    ]
+
+    for suffix, fmt, rows, publish_at in specs:
+        template = random.Random(today.toordinal() + len(suffix)).choice(templates[fmt])
+        item = copy.deepcopy(template)
+        item_id = f"auto-{today.isoformat()}-{suffix}"
+        # Avoid overwriting a prior item if a workflow is re-run on the same day.
+        while (QUEUE / f"{item_id}.json").exists() or (DONE / f"{item_id}.json").exists():
+            item_id += "-next"
+
+        item["id"] = item_id
+        item["lines"] = [copy.deepcopy(row["line"]) for row in rows]
+        item["story"]["questions"] = [copy.deepcopy(row["question"]) for row in rows]
+        item["story"]["format"] = fmt
+        item["story"]["title"] = "20 Question General Knowledge Quiz" if fmt == "long" else "Quick General Knowledge Quiz"
+        item["story"]["header"] = "GENERAL KNOWLEDGE"
+        item["story"]["hook"] = "CAN YOU GET THEM ALL RIGHT?"
+        item["story"]["teaser"] = "LOCK IN YOUR ANSWERS"
+        item["youtube"] = {
+            "title": (
+                "20 Questions to Test Your General Knowledge 🧠 | Quiz Challenge"
+                if fmt == "long" else
+                f"Can You Get All 5 Right? 🤯 General Knowledge Quiz #{1 if suffix == 'short-1' else 2} #shorts"
+            ),
+            "description": (
+                "Take the 20-question general knowledge challenge. Comment your score and subscribe for more quizzes."
+                if fmt == "long" else
+                "Five quick questions. Comment your score below and follow for more quizzes."
+            ) + "\n\n#quiz #trivia #generalknowledge #quizchallenge",
+            "tags": ["quiz", "trivia", "general knowledge", "quiz challenge", "brain test"] + (["shorts"] if fmt == "short" else []),
+            "comment": "What score did you get? Comment below!"
+        }
+        item["publishAt"] = publish_at
+        item["generatedBy"] = "free-archive-generator"
+        item["generatedAt"] = dt.datetime.now().isoformat(timespec="minutes")
+        for key in ("uploaded", "playlistAdded", "linkedLong", "thumbTest", "_thumb"):
+            item.pop(key, None)
+
+        target = QUEUE / f"{item_id}.json"
+        target.write_text(json.dumps(item, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"Created {fmt} queue item: {target.name} ({len(rows)} questions)", flush=True)
+
+    print("Queue prepared: 2 Shorts + 1 long video. No paid AI/API used.", flush=True)
 
 if __name__ == "__main__":
     try:
