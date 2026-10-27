@@ -630,8 +630,8 @@ def produce():
     if not items:
         message = (
             'FATAL: Warteschlange leer – es wurde kein Video erzeugt. '
-            'Der Workflow hat derzeit keinen eingebauten Schritt, der neue Quiz-JSON-Dateien '
-            'generiert. Inhalte müssen vor produce() in autopilot/queue/ liegen.'
+            'Der automatische Queue-Fallback hat keine Quiz-Datei bereitgestellt. '
+            'Prüfe den vorherigen Generierungsschritt und autopilot/queue/.'
         )
         log(message)
         raise RuntimeError(message)
