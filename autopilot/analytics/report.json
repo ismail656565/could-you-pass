@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-27T07:55",
+ "fetched": "2026-10-27T11:32",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
@@ -83,13 +83,13 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 9417,
-    "engagedViews": 4235
+    "views": 9414,
+    "engagedViews": 4232
    },
    {
     "deviceType": "TABLET",
-    "views": 2342,
-    "engagedViews": 1209
+    "views": 2340,
+    "engagedViews": 1207
    },
    {
     "deviceType": "TV",
@@ -142,7 +142,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-27&filter",
    "durationSec": 43,
-   "publicViews": "985"
+   "publicViews": "988"
   },
   {
    "id": "G1Xd6-ft9Pw",
@@ -152,7 +152,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-27&filter",
    "durationSec": 19,
-   "publicViews": "104"
+   "publicViews": "170"
   },
   {
    "id": "IzMmn9i4iWM",
@@ -162,7 +162,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-27&filter",
    "durationSec": 724,
-   "publicViews": "2"
+   "publicViews": "3"
   },
   {
    "id": "vmeXaMubrhw",
@@ -172,7 +172,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-27&filter",
    "durationSec": 39,
-   "publicViews": "101"
+   "publicViews": "112"
   },
   {
    "id": "_x27k1ra9KQ",
@@ -182,7 +182,7 @@
    "trafficSources": {},
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-27&filter",
    "durationSec": 17,
-   "publicViews": "175"
+   "publicViews": "183"
   },
   {
    "id": "5J-WUlJ3R9E",
@@ -1286,8 +1286,9 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 987,
-    "YT_SEARCH": 10,
+    "SHORTS": 979,
+    "YT_SEARCH": 11,
+    "YT_CHANNEL": 3,
     "YT_OTHER_PAGE": 2,
     "SOUND_PAGE": 2,
     "EXT_URL": 1,
@@ -1310,9 +1311,9 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 299,
+    "SHORTS": 300,
     "YT_SEARCH": 7,
-    "YT_OTHER_PAGE": 5,
+    "YT_OTHER_PAGE": 4,
     "NO_LINK_OTHER": 0
    },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-27&filter",
@@ -1351,8 +1352,9 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 322,
-    "YT_SEARCH": 6,
+    "SHORTS": 321,
+    "YT_SEARCH": 5,
+    "YT_CHANNEL": 1,
     "NO_LINK_OTHER": 0
    },
    "ctrError": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-10-27&filter",
@@ -1514,7 +1516,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 207,
-   "publicViews": "6",
+   "publicViews": "7",
    "engagedShare": 0.833
   },
   {
