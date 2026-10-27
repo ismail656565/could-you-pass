@@ -70,6 +70,10 @@ jobs:
           pip install -q google-api-python-client google-auth-oauthlib requests numpy imageio-ffmpeg
           if [ "$MODE" != "comments" ] && [ "$MODE" != "outliers" ]; then pip install -q kokoro-onnx soundfile; fi
 
+      - name: Warteschlange automatisch auffüllen
+        if: env.MODE == 'all'
+        run: python autopilot/generate_queue.py
+
       - name: Kokoro-Stimmenmodell (Cache)
         if: env.MODE != 'comments' && env.MODE != 'outliers'
         uses: actions/cache@v4
