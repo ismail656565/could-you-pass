@@ -110,7 +110,7 @@ def ensure_queue():
             "a": f"{correct_answer}! {explanation} Follow for another quick quiz."
         }],
         "youtube": {
-            "title": f"Can You Get This {category.title()} Question Right? 🤯 #shorts",
+            "title": f"Can You Answer: {question[:55]}? 🤯 #shorts",
             "description": f"One quick question. Did you know the answer?\nComment your guess below.\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #generalknowledge #funfacts #shorts",
             "tags": ["quiz", "trivia", "general knowledge quiz", category.lower() + " quiz", "fun facts", "shorts"],
             "comment": f"Did you get it right? The answer was {correct_answer}. 👇"
@@ -130,7 +130,6 @@ def ensure_queue():
                 "start": 0.0, "countdownStart": 0.0, "reveal": 0.0, "end": 0.0
             }]
         },
-        "publishAt": "16:00",
         "generatedBy": "curated-fallback",
         "generatedAt": dt.datetime.now().isoformat(timespec="minutes")
     }
