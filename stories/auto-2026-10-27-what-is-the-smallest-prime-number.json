@@ -1,0 +1,38 @@
+{
+ "type": "quiz",
+ "format": "short",
+ "layout": "tvshow",
+ "title": "Quick Quiz",
+ "header": "BRAIN QUIZ",
+ "hook": "CAN YOU GET THIS RIGHT? 🤯",
+ "teaser": "LOCK IN YOUR ANSWER 👇",
+ "finalLabel": "",
+ "ctaText": "Follow for another quiz ✅",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "🔢",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get it?",
+ "outroSub": "Comment below 👇",
+ "questions": [
+  {
+   "q": "What is the smallest prime number?",
+   "answers": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🔢",
+   "start": 0.0,
+   "countdownStart": 4.367,
+   "reveal": 7.367,
+   "end": 12.139
+  }
+ ],
+ "audio": "audio/auto-2026-10-27-what-is-the-smallest-prime-number.mp3",
+ "outroStart": 12.139,
+ "durationInSeconds": 12.139
+}
