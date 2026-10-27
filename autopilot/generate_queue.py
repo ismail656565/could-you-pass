@@ -215,6 +215,7 @@ def ensure_queue():
             item_id += "-next"
 
         item["id"] = item_id
+        item["tts"] = "kokoro"  # force the free local voice; never inherit a paid TTS setting from a template
         item["lines"] = [copy.deepcopy(row["line"]) for row in rows]
         item["story"]["questions"] = [copy.deepcopy(row["question"]) for row in rows]
         item["story"]["format"] = fmt
