@@ -627,15 +627,29 @@ def produce():
     """pro Tag höchstens 1 Short und 1 langes Video (außer "force": true)"""
     QUEUE.mkdir(parents=True, exist_ok=True)
     items = sorted(p for p in QUEUE.glob('*.json'))
+    today = dt.date.today().isoformat()
     if not items:
+        # A scheduled backup run can happen after the main run already met
+        # the daily target. Treat that as success, not as a broken workflow.
+        done_counts = {'short': 0, 'long': 0}
+        for d in DONE.glob('*.json'):
+            try:
+                di = json.loads(d.read_text(encoding='utf-8'))
+                if di.get('uploaded', {}).get('at', '').startswith(today):
+                    kind = fmt_of(di)
+                    done_counts[kind] = done_counts.get(kind, 0) + 1
+            except Exception:
+                pass
+        if done_counts.get('short', 0) >= PER_DAY['short'] and done_counts.get('long', 0) >= PER_DAY['long']:
+            log(f"Daily target already completed (Shorts={done_counts['short']}, long={done_counts['long']}); nothing left to produce.")
+            return
         message = (
-            'FATAL: Warteschlange leer – es wurde kein Video erzeugt. '
-            'Der automatische Queue-Fallback hat keine Quiz-Datei bereitgestellt. '
+            'FATAL: Warteschlange leer, obwohl das Tagesziel nicht erreicht ist. '
+            'Der automatische Queue-Generator hat keine Quiz-Datei bereitgestellt. '
             'Prüfe den vorherigen Generierungsschritt und autopilot/queue/.'
         )
         log(message)
         raise RuntimeError(message)
-    today = dt.date.today().isoformat()
     done_today = {}
     for d in DONE.glob('*.json'):
         try:
