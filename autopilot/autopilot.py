@@ -153,13 +153,8 @@ def analytics():
             v['trafficSources'] = {r[0]: r[1] for r in rep.get('rows', [])}
         except Exception as ex:
             v['trafficError'] = str(ex)[:150]
-        try:
-            rep = a.reports().query(ids='channel==MINE', startDate='2020-01-01', endDate=today, filters=f"video=={v['id']}",
-                                    metrics='videoThumbnailImpressions,videoThumbnailImpressionsClickRate').execute()
-            row = (rep.get('rows') or [[None, None]])[0]
-            v['impressions'], v['ctr'] = row[0], row[1]
-        except Exception as ex:
-            v['ctrError'] = str(ex)[:150]
+        # Thumbnail-Impressions/CTR sind über die hier verwendete Analytics-Abfrage nicht zuverlässig verfügbar.
+        # thumb_score() versucht CTR separat und fällt bei API-Fehlern auf Views/Tag zurück.
     # Länge der Videos
     for i in range(0, len(vids), 50):
         ids = ','.join(v['id'] for v in vids[i:i + 50])
@@ -621,9 +616,11 @@ def produce_one(p):
         (DONE / p.name).write_text(json.dumps(item, indent=1, ensure_ascii=False), encoding='utf-8')
         p.unlink()
     except Exception:
-        log('FEHLER:', traceback.format_exc())
+        error = traceback.format_exc()
+        log('FEHLER:', error)
         FAILED.mkdir(exist_ok=True)
         shutil.move(str(p), str(FAILED / p.name))
+        raise RuntimeError(f'Produktion fehlgeschlagen für {name}; Datei liegt in {FAILED / p.name}')
 
 
 def produce():
@@ -631,8 +628,13 @@ def produce():
     QUEUE.mkdir(parents=True, exist_ok=True)
     items = sorted(p for p in QUEUE.glob('*.json'))
     if not items:
-        log('Warteschlange leer – heute kein Video.')
-        return
+        message = (
+            'FATAL: Warteschlange leer – es wurde kein Video erzeugt. '
+            'Der Workflow hat derzeit keinen eingebauten Schritt, der neue Quiz-JSON-Dateien '
+            'generiert. Inhalte müssen vor produce() in autopilot/queue/ liegen.'
+        )
+        log(message)
+        raise RuntimeError(message)
     today = dt.date.today().isoformat()
     done_today = {}
     for d in DONE.glob('*.json'):
