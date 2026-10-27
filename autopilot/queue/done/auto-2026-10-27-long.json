@@ -1,0 +1,1080 @@
+{
+ "id": "auto-2026-10-27-long",
+ "timing": {
+  "count": 6.0,
+  "tail": 1.5,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Thirty or more and you'd pass! Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Which of these is wider than Pluto?",
+   "a": "Australia! Pluto is tiny."
+  },
+  {
+   "q": "Who wrote Romeo and Juliet?",
+   "a": "William Shakespeare!"
+  },
+  {
+   "q": "Who painted the famous Water Lilies?",
+   "a": "Claude Monet! He painted the pond in his own garden at Giverny."
+  },
+  {
+   "q": "In which year did Concorde first fly?",
+   "a": "Nineteen sixty-nine! Passenger flights only began in seventy-six."
+  },
+  {
+   "q": "Which instrument has eighty-eight keys?",
+   "a": "The piano! If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Last one. When was Nintendo founded?",
+   "a": "Eighteen eighty-nine! It made playing cards."
+  },
+  {
+   "q": "Welcome back, quiz friends! Grab a pen and keep score. Fifty questions from the nineteen sixties, from easy to legend. If you get forty right, your memory is excellent. Let's go! Which band was nicknamed the Fab Four?",
+   "a": "The Beatles! John, Paul, George and Ringo."
+  },
+  {
+   "q": "Which planet has the shortest day?",
+   "a": "Jupiter! Under ten hours. Not Mercury."
+  },
+  {
+   "q": "Which nineteen sixty-six TV show launched the starship Enterprise?",
+   "a": "Star Trek! To boldly go where no man has gone before."
+  },
+  {
+   "q": "Which is the largest continent?",
+   "a": "Asia! It holds more than half of all the people on Earth."
+  },
+  {
+   "q": "Which president is on the American five-dollar bill?",
+   "a": "Abraham Lincoln!"
+  },
+  {
+   "q": "Who was the first to reach the South Pole, in nineteen eleven?",
+   "a": "Roald Amundsen! Beating Scott by about five weeks."
+  },
+  {
+   "q": "Which city hosted the nineteen sixty-eight Summer Olympics?",
+   "a": "Mexico City! The first Games in Latin America."
+  },
+  {
+   "q": "Last one. What colour is a plane's black box?",
+   "a": "Orange! Bright orange, so searchers can find it after a crash."
+  },
+  {
+   "q": "Who wrote the novel Frankenstein?",
+   "a": "Mary Shelley! She was only a teenager when she began it."
+  },
+  {
+   "q": "Who wrote both It and Carrie?",
+   "a": "Stephen King!"
+  },
+  {
+   "q": "Which sea creature has eight arms?",
+   "a": "The octopus!"
+  },
+  {
+   "q": "In which year did Elizabeth the Second become queen?",
+   "a": "Nineteen fifty-two! Her coronation came a year later."
+  },
+  {
+   "q": "What are the first ten amendments to the Constitution called?",
+   "a": "The Bill of Rights! Ratified in seventeen ninety-one."
+  },
+  {
+   "q": "Quick quiz! What is the square root of 144? Think fast, and lock in your answer.",
+   "a": "12! Twelve! Twelve times twelve equals 144."
+  },
+  {
+   "q": "Who is the Commander in Chief of the military?",
+   "a": "The President! A civilian always leads the military."
+  },
+  {
+   "q": "Which city did the Beatles come from?",
+   "a": "Liverpool! The famous Cavern Club was their home stage."
+  },
+  {
+   "q": "In which year was the Constitution written?",
+   "a": "Seventeen eighty-seven! Seventeen seventy-six was the Declaration. Sneaky one."
+  },
+  {
+   "q": "Last one. A group of owls is called a what?",
+   "a": "A parliament! A murder is crows."
+  },
+  {
+   "q": "Which instrument did Louis Armstrong play?",
+   "a": "The trumpet! His nickname was Satchmo."
+  },
+  {
+   "q": "Which is the largest island in the world?",
+   "a": "Greenland! Australia counts as a continent, sorry Australia."
+  },
+  {
+   "q": "Which of these was one of the original thirteen states?",
+   "a": "Georgia! Vermont joined in seventeen ninety-one and Maine in eighteen twenty."
+  },
+  {
+   "q": "Who finished second in the twenty twenty-five, twenty-six Golden Boot race?",
+   "a": "Igor Thiago! Behind Haaland."
+  },
+  {
+   "q": "In which year did the Wright brothers make their first flight?",
+   "a": "Nineteen oh three! The first flight lasted just twelve seconds."
+  },
+  {
+   "q": "Who wrote Pride and Prejudice?",
+   "a": "Jane Austen! In eighteen thirteen."
+  },
+  {
+   "q": "When was Frankenstein first published?",
+   "a": "Eighteen eighteen!"
+  },
+  {
+   "q": "Which metal gets its chemical symbol from the Latin word ferrum?",
+   "a": "Iron!"
+  },
+  {
+   "q": "What do Americans celebrate on the Fourth of July?",
+   "a": "Independence Day! The Declaration was adopted on July fourth, seventeen seventy-six."
+  },
+  {
+   "q": "A group of crows is called a what?",
+   "a": "A murder! Spooky, right?"
+  },
+  {
+   "q": "Now the very hard round. Which of these men co-wrote the Federalist Papers?",
+   "a": "James Madison! With Alexander Hamilton and John Jay. Jefferson was in France."
+  },
+  {
+   "q": "What is the deepest ocean trench on Earth?",
+   "a": "The Mariana Trench! Mount Everest would fit inside with room to spare."
+  },
+  {
+   "q": "Which food is said to keep vampires away?",
+   "a": "Garlic!"
+  },
+  {
+   "q": "What is the fear of spiders called?",
+   "a": "Arachnophobia!"
+  },
+  {
+   "q": "Who played Van Helsing opposite Christopher Lee?",
+   "a": "Peter Cushing!"
+  },
+  {
+   "q": "Who was known as the Iron Lady?",
+   "a": "Margaret Thatcher! A Soviet newspaper gave her that nickname."
+  },
+  {
+   "q": "Quick quiz! What do bees collect from flowers to make honey? Think fast, and lock in your answer.",
+   "a": "Nectar! Nectar! Bees process nectar into honey; pollen is mainly a protein source."
+  },
+  {
+   "q": "Quick quiz! Which bird is famous for being able to fly backwards? Think fast, and lock in your answer.",
+   "a": "Hummingbird! The hummingbird! It can hover and fly backwards."
+  },
+  {
+   "q": "What's the biggest winning margin in a Premier League game?",
+   "a": "Nine goals! Nine nil, the record scoreline."
+  },
+  {
+   "q": "In which year was Magna Carta sealed?",
+   "a": "Twelve fifteen! King John sealed it at Runnymede."
+  },
+  {
+   "q": "In which country was paper invented?",
+   "a": "China! Around two thousand years ago."
+  },
+  {
+   "q": "Which actress starred in Breakfast at Tiffany's in nineteen sixty-one?",
+   "a": "Audrey Hepburn! As Holly Golightly."
+  },
+  {
+   "q": "What is the closest star to Earth?",
+   "a": "The Sun! It's a star too. Sneaky one, I know."
+  },
+  {
+   "q": "Who was the first man to run a mile in under four minutes?",
+   "a": "Roger Bannister! In nineteen fifty-four, while training to be a doctor."
+  },
+  {
+   "q": "Who was the first man to walk on the Moon?",
+   "a": "Neil Armstrong! In nineteen sixty-nine."
+  },
+  {
+   "q": "Who played Mary Poppins in the nineteen sixty-four film?",
+   "a": "Julie Andrews! She won the Oscar for it."
+  }
+ ],
+ "youtube": {
+  "title": "50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge",
+  "description": "Take the 50-question general knowledge challenge. Comment your score and subscribe for more quizzes.\n\n#quiz #trivia #generalknowledge #quizchallenge",
+  "tags": [
+   "quiz",
+   "trivia",
+   "general knowledge",
+   "quiz challenge",
+   "brain test"
+  ],
+  "comment": "What score did you get? Comment below!"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "50 Question General Knowledge Quiz",
+  "header": "GENERAL KNOWLEDGE",
+  "hook": "CAN YOU GET THEM ALL RIGHT?",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "30+ = you pass! Comment 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "CITIZENSHIP **TEST**",
+   "COULD YOU **PASS**?",
+   "MOST AMERICANS **FAIL**"
+  ],
+  "thumbEmoji": "🗽",
+  "thumbBadge": "50 REAL CIVICS QUESTIONS",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "Which of these is **wider** than Pluto?",
+    "answers": [
+     "Australia",
+     "Texas",
+     "France",
+     "Germany"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🪐  🗺️",
+    "start": 0.0,
+    "countdownStart": 2.083,
+    "reveal": 8.083,
+    "end": 11.4
+   },
+   {
+    "q": "Who wrote **Romeo and Juliet**?",
+    "answers": [
+     "Charles Dickens",
+     "William Shakespeare",
+     "Jane Austen",
+     "Geoffrey Chaucer"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🖋️  💕",
+    "start": 11.4,
+    "countdownStart": 13.36,
+    "reveal": 19.36,
+    "end": 22.207
+   },
+   {
+    "q": "Who painted the **Water Lilies**?",
+    "answers": [
+     "Renoir",
+     "Claude Monet",
+     "Cézanne",
+     "Degas"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎨  🪷",
+    "start": 22.207,
+    "countdownStart": 24.415,
+    "reveal": 30.415,
+    "end": 35.379
+   },
+   {
+    "q": "In which year did **Concorde** first fly?",
+    "answers": [
+     "1969",
+     "1965",
+     "1972",
+     "1976"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "✈️  ☁️",
+    "start": 35.379,
+    "countdownStart": 37.676,
+    "reveal": 43.676,
+    "end": 49.581
+   },
+   {
+    "q": "Which instrument has **88 keys**?",
+    "answers": [
+     "Organ",
+     "Accordion",
+     "Harpsichord",
+     "Piano"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🎹  🎵",
+    "start": 49.581,
+    "countdownStart": 51.883,
+    "reveal": 57.883,
+    "end": 62.813
+   },
+   {
+    "q": "When was **Nintendo** founded?",
+    "answers": [
+     "1983",
+     "1977",
+     "1949",
+     "1889"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🎮  🃏",
+    "start": 62.813,
+    "countdownStart": 65.083,
+    "reveal": 71.083,
+    "end": 75.118
+   },
+   {
+    "q": "Which band was called the **Fab Four**?",
+    "answers": [
+     "The Rolling Stones",
+     "The Beatles",
+     "The Beach Boys",
+     "The Who"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🎸  🎤",
+    "start": 75.118,
+    "countdownStart": 87.512,
+    "reveal": 93.512,
+    "end": 97.464
+   },
+   {
+    "q": "Which planet has the **shortest day**?",
+    "answers": [
+     "Mercury",
+     "Earth",
+     "Mars",
+     "Jupiter"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🪐  ⏱️",
+    "start": 97.464,
+    "countdownStart": 99.484,
+    "reveal": 105.484,
+    "end": 109.388
+   },
+   {
+    "q": "Which 1966 TV show launched the **Enterprise**?",
+    "answers": [
+     "Star Trek",
+     "Lost in Space",
+     "Doctor Who",
+     "Thunderbirds"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🖖  📺",
+    "start": 109.388,
+    "countdownStart": 113.196,
+    "reveal": 119.196,
+    "end": 123.835
+   },
+   {
+    "q": "Which is the **largest** continent?",
+    "answers": [
+     "Africa",
+     "Europe",
+     "North America",
+     "Asia"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🌏  📏",
+    "start": 123.835,
+    "countdownStart": 125.823,
+    "reveal": 131.823,
+    "end": 136.25
+   },
+   {
+    "q": "Which president is on the US **five-dollar** bill?",
+    "answers": [
+     "Washington",
+     "Jefferson",
+     "Lincoln",
+     "Hamilton"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "💵  🏛️",
+    "start": 136.25,
+    "countdownStart": 139.152,
+    "reveal": 145.152,
+    "end": 147.965
+   },
+   {
+    "q": "Who first reached the **South Pole** in 1911?",
+    "answers": [
+     "Roald Amundsen",
+     "Robert Scott",
+     "Ernest Shackleton",
+     "Edmund Hillary"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🧊  🐧",
+    "start": 147.965,
+    "countdownStart": 151.238,
+    "reveal": 157.238,
+    "end": 161.842
+   },
+   {
+    "q": "Which city hosted the **1968** Olympics?",
+    "answers": [
+     "Tokyo",
+     "Munich",
+     "Mexico City",
+     "Rome"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🏅  1968",
+    "start": 161.842,
+    "countdownStart": 165.018,
+    "reveal": 171.018,
+    "end": 175.734
+   },
+   {
+    "q": "What colour is a plane's **black box**?",
+    "answers": [
+     "Black",
+     "Red",
+     "Yellow",
+     "Orange"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "✈️  📦",
+    "start": 175.734,
+    "countdownStart": 178.328,
+    "reveal": 184.328,
+    "end": 189.435
+   },
+   {
+    "q": "Who wrote the novel **Frankenstein**?",
+    "answers": [
+     "Mary Shelley",
+     "Jane Austen",
+     "Edgar Allan Poe",
+     "Charles Dickens"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "📖  ⚡",
+    "start": 189.435,
+    "countdownStart": 191.48,
+    "reveal": 197.48,
+    "end": 202.061
+   },
+   {
+    "q": "Who wrote both **It** and **Carrie**?",
+    "answers": [
+     "Dean Koontz",
+     "Anne Rice",
+     "Stephen King",
+     "Clive Barker"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🎈  🤡",
+    "start": 202.061,
+    "countdownStart": 203.867,
+    "reveal": 209.867,
+    "end": 212.505
+   },
+   {
+    "q": "Which sea creature has **eight arms**?",
+    "answers": [
+     "Squid",
+     "Starfish",
+     "Crab",
+     "Octopus"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🌊  🐚",
+    "start": 212.505,
+    "countdownStart": 214.659,
+    "reveal": 220.659,
+    "end": 223.229
+   },
+   {
+    "q": "In which year did **Elizabeth II** become queen?",
+    "answers": [
+     "1947",
+     "1952",
+     "1953",
+     "1956"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "👑  📅",
+    "start": 223.229,
+    "countdownStart": 226.035,
+    "reveal": 232.035,
+    "end": 237.026
+   },
+   {
+    "q": "What are the **first ten amendments** called?",
+    "answers": [
+     "The Articles of Confederation",
+     "The Federalist Papers",
+     "The Bill of Rights",
+     "The Magna Carta"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "📜  🔟",
+    "start": 237.026,
+    "countdownStart": 240.116,
+    "reveal": 246.116,
+    "end": 250.61
+   },
+   {
+    "q": "What is the square root of 144?",
+    "answers": [
+     "10",
+     "11",
+     "12",
+     "14"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "➗",
+    "start": 250.61,
+    "countdownStart": 255.875,
+    "reveal": 261.875,
+    "end": 267.264
+   },
+   {
+    "q": "Who is **Commander in Chief** of the military?",
+    "answers": [
+     "The Secretary of Defense",
+     "The President",
+     "The Vice President",
+     "The top general"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎖️  ⭐",
+    "start": 267.264,
+    "countdownStart": 269.815,
+    "reveal": 275.815,
+    "end": 280.177
+   },
+   {
+    "q": "Which **city** did the Beatles come from?",
+    "answers": [
+     "Manchester",
+     "London",
+     "Liverpool",
+     "Birmingham"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🎸  🏙️",
+    "start": 280.177,
+    "countdownStart": 282.221,
+    "reveal": 288.221,
+    "end": 292.717
+   },
+   {
+    "q": "When was the **Constitution** written?",
+    "answers": [
+     "1787",
+     "1776",
+     "1791",
+     "1812"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "📜  🖋️",
+    "start": 292.717,
+    "countdownStart": 295.215,
+    "reveal": 301.215,
+    "end": 307.863
+   },
+   {
+    "q": "A group of **owls** is called a…?",
+    "answers": [
+     "Murder",
+     "Coven",
+     "Flock",
+     "Parliament"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🦉  🌙",
+    "start": 307.863,
+    "countdownStart": 310.303,
+    "reveal": 316.303,
+    "end": 319.851
+   },
+   {
+    "q": "Which instrument did **Louis Armstrong** play?",
+    "answers": [
+     "Saxophone",
+     "Clarinet",
+     "Trombone",
+     "Trumpet"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🎶  🎙️",
+    "start": 319.851,
+    "countdownStart": 322.18,
+    "reveal": 328.18,
+    "end": 331.76
+   },
+   {
+    "q": "Which is the **largest island** in the world?",
+    "answers": [
+     "Borneo",
+     "New Guinea",
+     "Greenland",
+     "Madagascar"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🏝️  🗺️",
+    "start": 331.76,
+    "countdownStart": 334.137,
+    "reveal": 340.137,
+    "end": 345.245
+   },
+   {
+    "q": "Which was one of the **original 13** states?",
+    "answers": [
+     "Vermont",
+     "Maine",
+     "Florida",
+     "Georgia"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🗺️  1️⃣3️⃣",
+    "start": 345.245,
+    "countdownStart": 348.246,
+    "reveal": 354.246,
+    "end": 360.158
+   },
+   {
+    "q": "Who was **second** in the 2025-26 Golden Boot race?",
+    "answers": [
+     "Mohamed Salah",
+     "Igor Thiago",
+     "Alexander Isak",
+     "Bukayo Saka"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "👟  🥈",
+    "start": 360.158,
+    "countdownStart": 364.314,
+    "reveal": 370.314,
+    "end": 373.882
+   },
+   {
+    "q": "When did the **Wright brothers** first fly?",
+    "answers": [
+     "1899",
+     "1903",
+     "1908",
+     "1911"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "✈️  🛩️",
+    "start": 373.882,
+    "countdownStart": 376.922,
+    "reveal": 382.922,
+    "end": 387.943
+   },
+   {
+    "q": "Who wrote **Pride and Prejudice**?",
+    "answers": [
+     "Charlotte Brontë",
+     "Emily Brontë",
+     "Jane Austen",
+     "George Eliot"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "📚  💍",
+    "start": 387.943,
+    "countdownStart": 389.935,
+    "reveal": 395.935,
+    "end": 399.574
+   },
+   {
+    "q": "When was **Frankenstein** first published?",
+    "answers": [
+     "1789",
+     "1818",
+     "1847",
+     "1897"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "📖  📅",
+    "start": 399.574,
+    "countdownStart": 401.88,
+    "reveal": 407.88,
+    "end": 410.719
+   },
+   {
+    "q": "Which metal gets its symbol from **ferrum**?",
+    "answers": [
+     "Copper",
+     "Iron",
+     "Lead",
+     "Silver"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "⚗️  🔩",
+    "start": 410.719,
+    "countdownStart": 414.123,
+    "reveal": 420.123,
+    "end": 422.407
+   },
+   {
+    "q": "What do Americans celebrate on **July 4**?",
+    "answers": [
+     "Labor Day",
+     "Independence Day",
+     "Memorial Day",
+     "Thanksgiving"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🎆  🎉",
+    "start": 422.407,
+    "countdownStart": 425.306,
+    "reveal": 431.306,
+    "end": 438.21
+   },
+   {
+    "q": "A group of **crows** is called a…?",
+    "answers": [
+     "Murder",
+     "Coven",
+     "Shadow",
+     "Funeral"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🐦‍⬛  🐦‍⬛",
+    "start": 438.21,
+    "countdownStart": 440.297,
+    "reveal": 446.297,
+    "end": 449.367
+   },
+   {
+    "q": "Who **co-wrote** the Federalist Papers?",
+    "answers": [
+     "James Madison",
+     "Thomas Jefferson",
+     "Benjamin Franklin",
+     "George Washington"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "✍️  📚",
+    "start": 449.367,
+    "countdownStart": 453.842,
+    "reveal": 459.842,
+    "end": 466.002
+   },
+   {
+    "q": "What is the **deepest** ocean trench?",
+    "answers": [
+     "Puerto Rico Trench",
+     "Java Trench",
+     "Tonga Trench",
+     "Mariana Trench"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🌊  ⬇️",
+    "start": 466.002,
+    "countdownStart": 468.501,
+    "reveal": 474.501,
+    "end": 479.918
+   },
+   {
+    "q": "Which food is said to keep **vampires** away?",
+    "answers": [
+     "Onion",
+     "Ginger",
+     "Pepper",
+     "Garlic"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🧛  🚫",
+    "start": 479.918,
+    "countdownStart": 482.367,
+    "reveal": 488.367,
+    "end": 490.58
+   },
+   {
+    "q": "What is the fear of **spiders** called?",
+    "answers": [
+     "Arachnophobia",
+     "Ophidiophobia",
+     "Acrophobia",
+     "Claustrophobia"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🕷️  😨",
+    "start": 490.58,
+    "countdownStart": 492.638,
+    "reveal": 498.638,
+    "end": 501.339
+   },
+   {
+    "q": "Who played **Van Helsing** opposite Christopher Lee?",
+    "answers": [
+     "Peter Cushing",
+     "Vincent Price",
+     "Anthony Hopkins",
+     "Michael Gough"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "✝️  🧛",
+    "start": 501.339,
+    "countdownStart": 504.01,
+    "reveal": 510.01,
+    "end": 512.604
+   },
+   {
+    "q": "Who was known as the **Iron Lady**?",
+    "answers": [
+     "Golda Meir",
+     "Indira Gandhi",
+     "Queen Elizabeth",
+     "Margaret Thatcher"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "👩  🏛️",
+    "start": 512.604,
+    "countdownStart": 514.555,
+    "reveal": 520.555,
+    "end": 525.583
+   },
+   {
+    "q": "What do bees collect from flowers to make honey?",
+    "answers": [
+     "Pollen only",
+     "Nectar",
+     "Sap",
+     "Dew"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🐝",
+    "start": 525.583,
+    "countdownStart": 530.646,
+    "reveal": 536.646,
+    "end": 543.131
+   },
+   {
+    "q": "Which bird is famous for being able to fly backwards?",
+    "answers": [
+     "Eagle",
+     "Hummingbird",
+     "Penguin",
+     "Ostrich"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🐦",
+    "start": 543.131,
+    "countdownStart": 548.564,
+    "reveal": 554.564,
+    "end": 559.464
+   },
+   {
+    "q": "What's the **biggest** winning margin in a PL game?",
+    "answers": [
+     "7 goals",
+     "8 goals",
+     "10 goals",
+     "9 goals"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🥅  😱",
+    "start": 559.464,
+    "countdownStart": 562.358,
+    "reveal": 568.358,
+    "end": 572.305
+   },
+   {
+    "q": "In which year was **Magna Carta** sealed?",
+    "answers": [
+     "1066",
+     "1215",
+     "1314",
+     "1415"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "📜  👑",
+    "start": 572.305,
+    "countdownStart": 574.691,
+    "reveal": 580.691,
+    "end": 584.785
+   },
+   {
+    "q": "In which country was **paper** invented?",
+    "answers": [
+     "Egypt",
+     "Greece",
+     "India",
+     "China"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "📜  ✍️",
+    "start": 584.785,
+    "countdownStart": 587.151,
+    "reveal": 593.151,
+    "end": 596.856
+   },
+   {
+    "q": "Who starred in **Breakfast at Tiffany's** (1961)?",
+    "answers": [
+     "Grace Kelly",
+     "Marilyn Monroe",
+     "Audrey Hepburn",
+     "Doris Day"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "💎  🥐",
+    "start": 596.856,
+    "countdownStart": 600.325,
+    "reveal": 606.325,
+    "end": 609.978
+   },
+   {
+    "q": "What is the **closest star** to Earth?",
+    "answers": [
+     "Sirius",
+     "The North Star",
+     "Alpha Centauri",
+     "The Sun"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "⭐  🔭",
+    "start": 609.978,
+    "countdownStart": 612.037,
+    "reveal": 618.037,
+    "end": 622.266
+   },
+   {
+    "q": "Who ran the first **four-minute mile**?",
+    "answers": [
+     "John Landy",
+     "Roger Bannister",
+     "Chris Chataway",
+     "Sebastian Coe"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏃  ⏱️",
+    "start": 622.266,
+    "countdownStart": 625.217,
+    "reveal": 631.217,
+    "end": 636.632
+   },
+   {
+    "q": "Who first walked on the **Moon**?",
+    "answers": [
+     "Buzz Aldrin",
+     "Yuri Gagarin",
+     "John Glenn",
+     "Neil Armstrong"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🌕  👨‍🚀",
+    "start": 636.632,
+    "countdownStart": 638.858,
+    "reveal": 644.858,
+    "end": 648.706
+   },
+   {
+    "q": "Who played **Mary Poppins** in 1964?",
+    "answers": [
+     "Julie Andrews",
+     "Audrey Hepburn",
+     "Petula Clark",
+     "Hayley Mills"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "☂️  🎬",
+    "start": 648.706,
+    "countdownStart": 651.791,
+    "reveal": 657.791,
+    "end": 661.623
+   }
+  ],
+  "audio": "audio/auto-2026-10-27-long.mp3",
+  "outroStart": 661.623,
+  "durationInSeconds": 673.083,
+  "teaser": "LOCK IN YOUR ANSWERS"
+ },
+ "scheduledFor": "2026-10-26T14:00+01:00",
+ "tts": "kokoro",
+ "publishAt": "14:00",
+ "generatedBy": "free-archive-generator",
+ "generatedAt": "2026-10-27T20:39",
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/auto-2026-10-27-long-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-10-27",
+  "results": {},
+  "done": false
+ },
+ "playlistAdded": true,
+ "uploaded": {
+  "videoId": "zZDclzxCTSg",
+  "at": "2026-10-27T21:39"
+ }
+}

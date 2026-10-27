@@ -1,0 +1,40 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Quick General Knowledge Quiz",
+ "header": "GENERAL KNOWLEDGE",
+ "hook": "CAN YOU GET THEM ALL RIGHT?",
+ "teaser": "LOCK IN YOUR ANSWERS",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "What is the **largest desert** on Earth?",
+   "answers": [
+    "Sahara",
+    "Gobi",
+    "Arabian",
+    "Antarctica"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "image": "bilder/mv-jp.jpg",
+   "start": 0.0,
+   "countdownStart": 2.082,
+   "reveal": 4.582,
+   "end": 8.262,
+   "cardText": "🏜️  ❄️"
+  }
+ ],
+ "audio": "audio/auto-2026-10-27-short-2.mp3",
+ "outroStart": 8.262,
+ "durationInSeconds": 8.262,
+ "format": "short"
+}

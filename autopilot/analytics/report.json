@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-27T20:20",
+ "fetched": "2026-10-27T20:41",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
@@ -135,6 +135,15 @@
  },
  "videos": [
   {
+   "id": "9XXjtsGD6GA",
+   "title": "Can You Answer: What is the smallest prime number? 🤯 #shorts",
+   "published": "2026-10-27T20:22:25Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 13,
+   "publicViews": "64"
+  },
+  {
    "id": "JzX5tY6R9Dw",
    "title": "4 History Questions Almost Everyone Gets Wrong 🦖 #shorts",
    "published": "2026-10-26T20:00:35Z",
@@ -150,7 +159,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 19,
-   "publicViews": "362"
+   "publicViews": "462"
   },
   {
    "id": "IzMmn9i4iWM",
@@ -2297,7 +2306,6 @@
    "id": "BTEGptf0s6o",
    "title": "4 Questions Almost Everyone Gets Wrong 🤯 #shorts",
    "published": "2026-10-24T05:22:02Z",
-   "retention": [],
    "trafficSources": {},
    "durationSec": 38,
    "publicViews": "0"
@@ -2398,13 +2406,6 @@
    "likes": 6,
    "comments": 0,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 144,
-    "YT_SEARCH": 7,
-    "YT_CHANNEL": 2,
-    "YT_OTHER_PAGE": 1,
-    "NO_LINK_OTHER": 0
-   },
    "durationSec": 17,
    "publicViews": "154",
    "engagedShare": 0.506

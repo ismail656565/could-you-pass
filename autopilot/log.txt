@@ -503,3 +503,24 @@
 [2026-10-27 20:22:03] Kommentar gepostet
 [2026-10-27 20:22:03] Kein short-Video in der Warteschlange.
 [2026-10-27 20:22:03] Kein long-Video in der Warteschlange.
+[2026-10-27 20:41:39] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-27 20:41:39] Analytics gespeichert (38 Videos)
+[2026-10-27 20:41:39] Produziere auto-2026-10-27-short-2 (short)
+[2026-10-27 20:41:39] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-27 20:41:45] Ton fertig: 8.3 s
+[2026-10-27 20:42:48] Gerendert
+[2026-10-27 20:42:50] Hochgeladen: https://youtube.com/watch?v=RN2bewj8MMg (public)
+[2026-10-27 20:42:51] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-27 20:42:51] Kommentar gepostet
+[2026-10-27 20:42:51] Kein short-Video in der Warteschlange.
+[2026-10-27 20:42:51] Produziere auto-2026-10-27-long (long)
+[2026-10-27 20:42:51] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-27 20:47:32] Ton fertig: 673.1 s
+[2026-10-27 21:39:22] Gerendert
+[2026-10-27 21:39:39] Hochgeladen: https://youtube.com/watch?v=zZDclzxCTSg (public)
+[2026-10-27 21:39:44] Vorschaubild gesetzt
+[2026-10-27 21:39:45] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-10-27 21:39:45] Kommentar gepostet
+[2026-10-27 21:39:45] Kein long-Video in der Warteschlange.
+[2026-10-27 21:39:46] Short-Beschreibung (auto-2026-10-27-what-is-the-smallest-prime-number) verlinkt auf langes Video zZDclzxCTSg
+[2026-10-27 21:39:47] Short-Beschreibung (auto-2026-10-27-short-2) verlinkt auf langes Video zZDclzxCTSg
