@@ -94,12 +94,40 @@ def ensure_queue():
 
     QUEUE.mkdir(parents=True, exist_ok=True)
     DONE.mkdir(parents=True, exist_ok=True)
-    if any(QUEUE.glob("*.json")):
-        print("Queue already contains work; leaving it untouched.", flush=True)
-        return
 
     today = dt.date.today()
     used = recently_used_questions(today)
+
+    def fmt(item):
+        return "long" if item.get("story", {}).get("format") == "long" else "short"
+
+    done_today = {"short": 0, "long": 0}
+    for path in DONE.glob("*.json"):
+        item = read_json(path)
+        if item.get("uploaded", {}).get("at", "").startswith(today.isoformat()):
+            done_today[fmt(item)] += 1
+
+    queued = {"short": [], "long": []}
+    for path in sorted(QUEUE.glob("*.json")):
+        item = read_json(path)
+        kind = fmt(item)
+        queued[kind].append(path)
+        for question in item.get("story", {}).get("questions", []):
+            key = re.sub(r"[^a-z0-9]+", " ", str(question.get("q", "")).lower()).strip()
+            if key:
+                used.add(key)
+
+    missing = {
+        "short": max(0, 2 - done_today["short"] - len(queued["short"])),
+        "long": max(0, 1 - done_today["long"] - len(queued["long"])),
+    }
+    if not any(missing.values()):
+        print(
+            f"Daily target already covered: uploaded today Shorts={done_today['short']}, "
+            f"long={done_today['long']}; queued Shorts={len(queued['short'])}, long={len(queued['long'])}.",
+            flush=True,
+        )
+        return
     pool = []
     templates = {"short": [], "long": []}
 
@@ -160,20 +188,23 @@ def ensure_queue():
     if not templates["long"]:
         raise RuntimeError("No compatible 20-question long-video template found in autopilot/queue/done or autopilot/test.")
 
-    needed = 5 + 5 + 20
+    needed = missing["short"] * 5 + missing["long"] * 20
     if len(pool) < needed:
         raise RuntimeError(
-            f"Not enough unused questions for today's 2 Shorts + 1 long video: "
+            f"Not enough unused questions for today's remaining target: "
             f"{len(pool)} available, {needed} required. Add verified questions; refusing repeats."
         )
 
-    random.Random(today.toordinal()).shuffle(pool)
-    chosen = pool[:needed]
-    specs = [
-        ("short-1", "short", chosen[0:5], "16:00"),
-        ("short-2", "short", chosen[5:10], "21:00"),
-        ("long", "long", chosen[10:30], "14:00"),
-    ]
+    random.Random(today.toordinal() + done_today["short"] * 11 + done_today["long"] * 31).shuffle(pool)
+    cursor = 0
+    specs = []
+    for offset in range(missing["short"]):
+        slot = done_today["short"] + len(queued["short"]) + offset
+        suffix = f"short-{slot + 1}"
+        specs.append((suffix, "short", pool[cursor:cursor + 5], ("16:00", "21:00")[min(slot, 1)]))
+        cursor += 5
+    if missing["long"]:
+        specs.append(("long", "long", pool[cursor:cursor + 20], "14:00"))
 
     for suffix, fmt, rows, publish_at in specs:
         template = random.Random(today.toordinal() + len(suffix)).choice(templates[fmt])
