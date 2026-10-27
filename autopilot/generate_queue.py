@@ -199,7 +199,7 @@ def ensure_queue():
             recycled.setdefault(row["key"], row)
 
     if not templates["short"]:
-        raise RuntimeError("No compatible 5-question Short template found in autopilot/queue/done or autopilot/test.")
+        raise RuntimeError("No compatible one-question Short template found in autopilot/queue/done or autopilot/test.")
     if not templates["long"]:
         raise RuntimeError("No compatible 20-question long-video template found in autopilot/queue/done or autopilot/test.")
 
@@ -256,12 +256,12 @@ def ensure_queue():
         item["story"]["teaser"] = "LOCK IN YOUR ANSWERS"
         item["youtube"] = {
             "title": (
-                "20 Questions to Test Your General Knowledge 🧠 | Quiz Challenge"
+                "50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge"
                 if fmt == "long" else
-                f"Can You Get All 5 Right? 🤯 General Knowledge Quiz #{1 if suffix == 'short-1' else 2} #shorts"
+                f"Can You Answer This Quiz Question? 🤯 #{1 if suffix == 'short-1' else 2} #shorts"
             ),
             "description": (
-                "Take the 20-question general knowledge challenge. Comment your score and subscribe for more quizzes."
+                "Take the 50-question general knowledge challenge. Comment your score and subscribe for more quizzes."
                 if fmt == "long" else
                 "One quick question. Comment your answer below and follow for more quizzes."
             ) + "\n\n#quiz #trivia #generalknowledge #quizchallenge",
