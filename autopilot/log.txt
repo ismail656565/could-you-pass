@@ -479,3 +479,13 @@
 [2026-10-26 14:50:21] trap-4-4-tv: noch nicht öffentlich – Kommentar später
 [2026-10-26 15:11:49] one-q-honey-flowers: Kommentar gepostet
 [2026-10-26 15:11:49] trap-4-4-tv: noch nicht öffentlich – Kommentar später
+[2026-10-27 07:55:32] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-27 07:55:32] Analytics gespeichert (37 Videos)
+[2026-10-27 07:55:33] trap-4-4-tv: Kommentar gepostet
+[2026-10-27 07:55:34] Thumbnail-Test halloween-quiz-35: Variante B → {'views': 57, 'ctr': 14.25, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-27 07:55:36] Thumbnail-Test halloween-quiz-35: jetzt Variante C
+[2026-10-27 07:55:36] Thumbnail-Test pl-quiz-20: Variante B → {'views': 1, 'ctr': 0.25, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-27 07:55:38] Thumbnail-Test pl-quiz-20: jetzt Variante C
+[2026-10-27 07:55:39] Thumbnail-Test sixties-quiz-50-1: Variante A → {'views': 1, 'ctr': 0.25, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-27 07:55:41] Thumbnail-Test sixties-quiz-50-1: jetzt Variante B
+[2026-10-27 07:55:41] Warteschlange leer – heute kein Video.
