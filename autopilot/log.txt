@@ -551,3 +551,4 @@
 [2026-10-28 09:10:10] Kein long-Video in der Warteschlange.
 [2026-10-28 09:10:11] Short-Beschreibung (auto-2026-10-28-short-2) verlinkt auf langes Video zZDclzxCTSg
 [2026-10-28 09:10:12] Short-Beschreibung (auto-2026-10-28-short-1) verlinkt auf langes Video zZDclzxCTSg
+[2026-10-28 09:11:05] auto-2026-10-28-short-1: noch nicht öffentlich – Kommentar später
