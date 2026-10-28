@@ -1,0 +1,40 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Quick General Knowledge Quiz",
+ "header": "GENERAL KNOWLEDGE",
+ "hook": "CAN YOU GET THEM ALL RIGHT?",
+ "teaser": "LOCK IN YOUR ANSWERS",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Who wrote **A Christmas Carol**?",
+   "answers": [
+    "Thomas Hardy",
+    "Jane Austen",
+    "Lewis Carroll",
+    "Charles Dickens"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "image": "bilder/q2-octopus.jpg",
+   "cardText": "🎄  👻",
+   "start": 0.0,
+   "countdownStart": 1.604,
+   "reveal": 4.104,
+   "end": 7.518
+  }
+ ],
+ "format": "short",
+ "audio": "audio/auto-2026-10-28-short-1.mp3",
+ "outroStart": 7.518,
+ "durationInSeconds": 7.518
+}

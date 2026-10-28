@@ -524,3 +524,30 @@
 [2026-10-27 21:39:45] Kein long-Video in der Warteschlange.
 [2026-10-27 21:39:46] Short-Beschreibung (auto-2026-10-27-what-is-the-smallest-prime-number) verlinkt auf langes Video zZDclzxCTSg
 [2026-10-27 21:39:47] Short-Beschreibung (auto-2026-10-27-short-2) verlinkt auf langes Video zZDclzxCTSg
+[2026-10-28 08:08:30] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-28 08:08:30] Analytics gespeichert (40 Videos)
+[2026-10-28 08:08:31] Thumbnail-Test memory-check-35-1: Variante B → {'views': 2, 'ctr': 0.5, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-28 08:08:36] Thumbnail-Test memory-check-35-1: jetzt Variante C
+[2026-10-28 08:08:36] Thumbnail-Test memory-test-50-1: Variante A → {'views': 1, 'ctr': 0.25, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-28 08:08:42] Thumbnail-Test memory-test-50-1: jetzt Variante B
+[2026-10-28 08:08:42] Produziere auto-2026-10-28-short-1 (short)
+[2026-10-28 08:08:42] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-28 08:08:47] Ton fertig: 7.5 s
+[2026-10-28 08:09:44] Gerendert
+[2026-10-28 08:09:47] Hochgeladen: https://youtube.com/watch?v=ncpoW2HLpI0 (private)
+[2026-10-28 08:09:48] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-28 08:09:48] Geplant für 28.10. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-28 08:09:48] Produziere auto-2026-10-28-short-2 (short)
+[2026-10-28 08:09:48] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-28 08:09:55] Ton fertig: 10.3 s
+[2026-10-28 08:10:52] Gerendert
+[2026-10-28 08:10:53] Schon hochgeladen (RN2bewj8MMg) – kein zweiter Upload
+[2026-10-28 08:10:53] Kein short-Video in der Warteschlange.
+[2026-10-28 08:10:53] Produziere auto-2026-10-28-long (long)
+[2026-10-28 08:10:53] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-28 08:15:47] Ton fertig: 692.4 s
+[2026-10-28 09:09:55] Gerendert
+[2026-10-28 09:10:10] Schon hochgeladen (zZDclzxCTSg) – kein zweiter Upload
+[2026-10-28 09:10:10] Kein long-Video in der Warteschlange.
+[2026-10-28 09:10:11] Short-Beschreibung (auto-2026-10-28-short-2) verlinkt auf langes Video zZDclzxCTSg
+[2026-10-28 09:10:12] Short-Beschreibung (auto-2026-10-28-short-1) verlinkt auf langes Video zZDclzxCTSg

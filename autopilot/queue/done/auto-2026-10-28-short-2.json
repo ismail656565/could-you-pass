@@ -1,0 +1,71 @@
+{
+ "id": "auto-2026-10-28-short-2",
+ "lines": [
+  {
+   "q": "Which of these is a U.S. territory, not a state?",
+   "a": "Puerto Rico! Hawaii and Alaska are states, and Bermuda is British."
+  }
+ ],
+ "youtube": {
+  "title": "Can You Answer This Quiz Question? 🤯 #2 #shorts",
+  "description": "One quick question. Comment your answer below and follow for more quizzes.\n\n#quiz #trivia #generalknowledge #quizchallenge",
+  "tags": [
+   "quiz",
+   "trivia",
+   "general knowledge",
+   "quiz challenge",
+   "brain test",
+   "shorts"
+  ],
+  "comment": "What score did you get? Comment below!"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Quick General Knowledge Quiz",
+  "header": "GENERAL KNOWLEDGE",
+  "hook": "CAN YOU GET THEM ALL RIGHT?",
+  "teaser": "LOCK IN YOUR ANSWERS",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which is a U.S. **territory**, not a state?",
+    "answers": [
+     "Hawaii",
+     "Alaska",
+     "Puerto Rico",
+     "Bermuda"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "image": "bilder/q2-octopus.jpg",
+    "cardText": "🏝️  🗺️",
+    "start": 0.0,
+    "countdownStart": 2.943,
+    "reveal": 5.443,
+    "end": 10.271
+   }
+  ],
+  "format": "short",
+  "audio": "audio/auto-2026-10-28-short-2.mp3",
+  "outroStart": 10.271,
+  "durationInSeconds": 10.271
+ },
+ "publishAt": "21:00",
+ "tts": "kokoro",
+ "generatedBy": "free-archive-generator",
+ "generatedAt": "2026-10-28T08:06",
+ "uploaded": {
+  "videoId": "RN2bewj8MMg",
+  "at": "2026-10-28T08:10"
+ },
+ "linkedLong": "zZDclzxCTSg"
+}

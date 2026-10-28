@@ -1,0 +1,835 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "tvshow",
+ "title": "50 Question General Knowledge Quiz",
+ "header": "GENERAL KNOWLEDGE",
+ "hook": "CAN YOU GET THEM ALL RIGHT?",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "30+ = you pass! Comment 👇",
+ "midCtaIndex": 24,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "CITIZENSHIP **TEST**",
+  "COULD YOU **PASS**?",
+  "MOST AMERICANS **FAIL**"
+ ],
+ "thumbEmoji": "🗽",
+ "thumbBadge": "50 REAL CIVICS QUESTIONS",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "Barcelona beat PSG 6-1 in 2017. What was the **first leg**?",
+   "answers": [
+    "2-0 PSG",
+    "3-0 PSG",
+    "4-0 PSG",
+    "5-1 PSG"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "6️⃣ - 1️⃣  🤯",
+   "start": 0.0,
+   "countdownStart": 5.545,
+   "reveal": 11.545,
+   "end": 14.701
+  },
+  {
+   "q": "How long did the **Titanic** take to sink?",
+   "answers": [
+    "20 minutes",
+    "1 hour",
+    "2 hours 40 min",
+    "6 hours"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🖋️  💕",
+   "start": 14.701,
+   "countdownStart": 21.356,
+   "reveal": 27.356,
+   "end": 33.557
+  },
+  {
+   "q": "What is the **largest** ocean on Earth?",
+   "answers": [
+    "Pacific",
+    "Atlantic",
+    "Indian",
+    "Arctic"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🌊  🌍",
+   "start": 33.557,
+   "countdownStart": 35.748,
+   "reveal": 41.748,
+   "end": 44.318
+  },
+  {
+   "q": "Which instrument measures air pressure?",
+   "answers": [
+    "Thermometer",
+    "Barometer",
+    "Anemometer",
+    "Hygrometer"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🌦️",
+   "start": 44.318,
+   "countdownStart": 48.84,
+   "reveal": 54.84,
+   "end": 61.077
+  },
+  {
+   "q": "Who made the first successful **polio vaccine**?",
+   "answers": [
+    "Louis Pasteur",
+    "Edward Jenner",
+    "Jonas Salk",
+    "Alexander Fleming"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "💉  🧪",
+   "start": 61.077,
+   "countdownStart": 63.757,
+   "reveal": 69.757,
+   "end": 74.607
+  },
+  {
+   "q": "What does a witch traditionally **ride**?",
+   "answers": [
+    "A horse",
+    "A cloud",
+    "A carpet",
+    "A broomstick"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🧙‍♀️  🌕",
+   "start": 74.607,
+   "countdownStart": 76.58,
+   "reveal": 82.58,
+   "end": 85.159
+  },
+  {
+   "q": "Which 1984 film asks: Who you gonna **call**?",
+   "answers": [
+    "Ghostbusters",
+    "Gremlins",
+    "Beetlejuice",
+    "Poltergeist"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "👻  📞",
+   "start": 85.159,
+   "countdownStart": 88.423,
+   "reveal": 94.423,
+   "end": 97.148
+  },
+  {
+   "q": "What is the largest hot desert in the world?",
+   "answers": [
+    "Gobi",
+    "Sahara",
+    "Arabian",
+    "Kalahari"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🏜️",
+   "start": 97.148,
+   "countdownStart": 102.105,
+   "reveal": 108.105,
+   "end": 115.315
+  },
+  {
+   "q": "Which blood type is the **universal donor**?",
+   "answers": [
+    "AB positive",
+    "A negative",
+    "B positive",
+    "O negative"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🩸  💉",
+   "start": 115.315,
+   "countdownStart": 117.768,
+   "reveal": 123.768,
+   "end": 126.413
+  },
+  {
+   "q": "In which year did **Elvis** die?",
+   "answers": [
+    "1977",
+    "1975",
+    "1980",
+    "1969"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🎸  🕯️",
+   "start": 126.413,
+   "countdownStart": 128.618,
+   "reveal": 134.618,
+   "end": 137.768
+  },
+  {
+   "q": "What is the **capital** of the United States?",
+   "answers": [
+    "New York",
+    "Philadelphia",
+    "Washington, D.C.",
+    "Boston"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🏛️  🦅",
+   "start": 137.768,
+   "countdownStart": 150.447,
+   "reveal": 156.447,
+   "end": 162.48
+  },
+  {
+   "q": "Who reigned just before **Elizabeth II**?",
+   "answers": [
+    "Edward VIII",
+    "George VI",
+    "George V",
+    "Victoria"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "👑  🏰",
+   "start": 162.48,
+   "countdownStart": 165.815,
+   "reveal": 171.815,
+   "end": 176.754
+  },
+  {
+   "q": "The U.S. bought **Alaska** from which country?",
+   "answers": [
+    "Britain",
+    "Canada",
+    "Russia",
+    "Spain"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🐻‍❄️  ❄️",
+   "start": 176.754,
+   "countdownStart": 179.87,
+   "reveal": 185.87,
+   "end": 190.862
+  },
+  {
+   "q": "In which year did **World War I** begin?",
+   "answers": [
+    "1914",
+    "1912",
+    "1916",
+    "1918"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "⚔️  📜",
+   "start": 190.862,
+   "countdownStart": 193.196,
+   "reveal": 199.196,
+   "end": 202.076
+  },
+  {
+   "q": "Who was the **first woman** in space?",
+   "answers": [
+    "Sally Ride",
+    "Svetlana Savitskaya",
+    "Valentina Tereshkova",
+    "Mae Jemison"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "👩‍🚀  1963",
+   "start": 202.076,
+   "countdownStart": 204.081,
+   "reveal": 210.081,
+   "end": 216.773
+  },
+  {
+   "q": "When was the **Chernobyl** disaster?",
+   "answers": [
+    "1979",
+    "1986",
+    "1984",
+    "1991"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "☢️  ⚠️",
+   "start": 216.773,
+   "countdownStart": 219.39,
+   "reveal": 225.39,
+   "end": 230.907
+  },
+  {
+   "q": "In which year did the **Hindenburg** disaster happen?",
+   "answers": [
+    "1929",
+    "1933",
+    "1941",
+    "1937"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🎈  🔥",
+   "start": 230.907,
+   "countdownStart": 233.977,
+   "reveal": 239.977,
+   "end": 243.092
+  },
+  {
+   "q": "Which ballet star **defected** to the West in 1961?",
+   "answers": [
+    "Rudolf Nureyev",
+    "Mikhail Baryshnikov",
+    "Alexander Godunov",
+    "George Balanchine"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🩰  1961",
+   "start": 243.092,
+   "countdownStart": 246.361,
+   "reveal": 252.361,
+   "end": 258.529
+  },
+  {
+   "q": "Which 1969 festival was held on a **dairy farm**?",
+   "answers": [
+    "Monterey Pop",
+    "Isle of Wight",
+    "Altamont",
+    "Woodstock"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🎶  🐄",
+   "start": 258.529,
+   "countdownStart": 263.291,
+   "reveal": 269.291,
+   "end": 273.546
+  },
+  {
+   "q": "Which **flower** decorates Day of the Dead altars?",
+   "answers": [
+    "Rose",
+    "Lily",
+    "Tulip",
+    "Marigold"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🌼  🕯️",
+   "start": 273.546,
+   "countdownStart": 276.097,
+   "reveal": 282.097,
+   "end": 286.183
+  },
+  {
+   "q": "Which vitamin can the body produce after sunlight exposure?",
+   "answers": [
+    "Vitamin A",
+    "Vitamin B12",
+    "Vitamin C",
+    "Vitamin D"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🌞",
+   "start": 286.183,
+   "countdownStart": 292.119,
+   "reveal": 298.119,
+   "end": 303.928
+  },
+  {
+   "q": "How long does **sunlight** take to reach Earth?",
+   "answers": [
+    "8 seconds",
+    "8 hours",
+    "8 minutes",
+    "8 days"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🎸  🏙️",
+   "start": 303.928,
+   "countdownStart": 310.6,
+   "reveal": 316.6,
+   "end": 322.711
+  },
+  {
+   "q": "Which animal **kills** the most people?",
+   "answers": [
+    "Shark",
+    "Snake",
+    "Mosquito",
+    "Hippo"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "📜  🖋️",
+   "start": 322.711,
+   "countdownStart": 325.359,
+   "reveal": 331.359,
+   "end": 336.801
+  },
+  {
+   "q": "Who composed **The Magic Flute**?",
+   "answers": [
+    "Mozart",
+    "Haydn",
+    "Wagner",
+    "Verdi"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🎼  🪈",
+   "start": 336.801,
+   "countdownStart": 339.105,
+   "reveal": 345.105,
+   "end": 349.51
+  },
+  {
+   "q": "What is the smallest prime number?",
+   "answers": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🔢",
+   "start": 349.51,
+   "countdownStart": 353.877,
+   "reveal": 359.877,
+   "end": 365.649
+  },
+  {
+   "q": "How many players per team are on a **football** pitch?",
+   "answers": [
+    "Nine",
+    "Ten",
+    "Eleven",
+    "Twelve"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "⚽  👥",
+   "start": 365.649,
+   "countdownStart": 368.313,
+   "reveal": 374.313,
+   "end": 377.025
+  },
+  {
+   "q": "Who was the **King of Rock and Roll**?",
+   "answers": [
+    "Elvis Presley",
+    "Chuck Berry",
+    "Johnny Cash",
+    "Buddy Holly"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🎤  👑",
+   "start": 377.025,
+   "countdownStart": 379.377,
+   "reveal": 385.377,
+   "end": 388.077
+  },
+  {
+   "q": "Which band sang **Hey Jude**?",
+   "answers": [
+    "The Rolling Stones",
+    "The Beach Boys",
+    "The Beatles",
+    "The Who"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🎸  🎶",
+   "start": 388.077,
+   "countdownStart": 389.945,
+   "reveal": 395.945,
+   "end": 399.447
+  },
+  {
+   "q": "Who wrote **Romeo and Juliet**?",
+   "answers": [
+    "Charles Dickens",
+    "William Shakespeare",
+    "Jane Austen",
+    "Geoffrey Chaucer"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🖋️  💕",
+   "start": 399.447,
+   "countdownStart": 401.406,
+   "reveal": 407.406,
+   "end": 410.254
+  },
+  {
+   "q": "Which blood cells help fight infection?",
+   "answers": [
+    "Red blood cells",
+    "White blood cells",
+    "Platelets",
+    "Plasma cells only"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🩸",
+   "start": 410.254,
+   "countdownStart": 415.097,
+   "reveal": 421.097,
+   "end": 427.718
+  },
+  {
+   "q": "How many **Earths** fit inside the Sun?",
+   "answers": [
+    "1,000",
+    "100,000",
+    "1.3 million",
+    "1 billion"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "📖  📅",
+   "start": 427.718,
+   "countdownStart": 430.043,
+   "reveal": 436.043,
+   "end": 439.336
+  },
+  {
+   "q": "Which letter is in **no** US state name?",
+   "answers": [
+    "J",
+    "Z",
+    "X",
+    "Q"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🗺️  🔤",
+   "start": 439.336,
+   "countdownStart": 441.676,
+   "reveal": 447.676,
+   "end": 450.74
+  },
+  {
+   "q": "Which city is home to **Big Ben**?",
+   "answers": [
+    "Paris",
+    "London",
+    "Dublin",
+    "Edinburgh"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🕰️  🔔",
+   "start": 450.74,
+   "countdownStart": 452.606,
+   "reveal": 458.606,
+   "end": 463.826
+  },
+  {
+   "q": "A **pumpkin** is technically a…?",
+   "answers": [
+    "Vegetable",
+    "Root",
+    "Fruit",
+    "Nut"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🎃  🔬",
+   "start": 463.826,
+   "countdownStart": 465.898,
+   "reveal": 471.898,
+   "end": 475.934
+  },
+  {
+   "q": "Who wrote the novel **Frankenstein**?",
+   "answers": [
+    "Mary Shelley",
+    "Jane Austen",
+    "Edgar Allan Poe",
+    "Charles Dickens"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "📖  ⚡",
+   "start": 475.934,
+   "countdownStart": 477.979,
+   "reveal": 483.979,
+   "end": 488.56
+  },
+  {
+   "q": "Who led Britain for most of **World War II**?",
+   "answers": [
+    "Neville Chamberlain",
+    "Winston Churchill",
+    "Clement Attlee",
+    "Anthony Eden"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🎩  🕊️",
+   "start": 488.56,
+   "countdownStart": 491.569,
+   "reveal": 497.569,
+   "end": 500.416
+  },
+  {
+   "q": "Which city hosted the **1968** Olympics?",
+   "answers": [
+    "Tokyo",
+    "Munich",
+    "Mexico City",
+    "Rome"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🏅  1968",
+   "start": 500.416,
+   "countdownStart": 503.592,
+   "reveal": 509.592,
+   "end": 514.307
+  },
+  {
+   "q": "When was the Battle of **Hastings**?",
+   "answers": [
+    "1215",
+    "1415",
+    "1066",
+    "1314"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "⚔️  🏰",
+   "start": 514.307,
+   "countdownStart": 516.643,
+   "reveal": 522.643,
+   "end": 527.75
+  },
+  {
+   "q": "How many strings does a **violin** have?",
+   "answers": [
+    "Three",
+    "Four",
+    "Five",
+    "Six"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🎻  🎼",
+   "start": 527.75,
+   "countdownStart": 529.924,
+   "reveal": 535.924,
+   "end": 540.114
+  },
+  {
+   "q": "Which amendment **ended slavery**?",
+   "answers": [
+    "10th",
+    "13th",
+    "14th",
+    "15th"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "⛓️  🕊️",
+   "start": 540.114,
+   "countdownStart": 542.108,
+   "reveal": 548.108,
+   "end": 551.91
+  },
+  {
+   "q": "First woman to fly **solo** across the Atlantic?",
+   "answers": [
+    "Amelia Earhart",
+    "Amy Johnson",
+    "Bessie Coleman",
+    "Jean Batten"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "✈️  🌊",
+   "start": 551.91,
+   "countdownStart": 556.743,
+   "reveal": 562.743,
+   "end": 566.693
+  },
+  {
+   "q": "Who sang **A Whiter Shade of Pale**?",
+   "answers": [
+    "The Moody Blues",
+    "Procol Harum",
+    "The Zombies",
+    "The Hollies"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "🎹  1967",
+   "start": 566.693,
+   "countdownStart": 571.467,
+   "reveal": 577.467,
+   "end": 581.89
+  },
+  {
+   "q": "Which planet has the most known **moons**?",
+   "answers": [
+    "Jupiter",
+    "Saturn",
+    "Uranus",
+    "Neptune"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🌙  🔭",
+   "start": 581.89,
+   "countdownStart": 584.109,
+   "reveal": 590.109,
+   "end": 593.868
+  },
+  {
+   "q": "Which US state grows the most **pumpkins**?",
+   "answers": [
+    "California",
+    "Ohio",
+    "Texas",
+    "Illinois"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🎃  🚜",
+   "start": 593.868,
+   "countdownStart": 596.395,
+   "reveal": 602.395,
+   "end": 605.22
+  },
+  {
+   "q": "Which country has the **most people** today?",
+   "answers": [
+    "China",
+    "USA",
+    "Indonesia",
+    "India"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "👨‍👩‍👧  🌏",
+   "start": 605.22,
+   "countdownStart": 607.573,
+   "reveal": 613.573,
+   "end": 617.632
+  },
+  {
+   "q": "A group of **crows** is called a…?",
+   "answers": [
+    "Murder",
+    "Coven",
+    "Shadow",
+    "Funeral"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🐦‍⬛  🐦‍⬛",
+   "start": 617.632,
+   "countdownStart": 619.718,
+   "reveal": 625.718,
+   "end": 628.789
+  },
+  {
+   "q": "Who painted the **Mona Lisa**?",
+   "answers": [
+    "Michelangelo",
+    "Leonardo da Vinci",
+    "Raphael",
+    "Rembrandt"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🖼️  🎨",
+   "start": 628.789,
+   "countdownStart": 630.719,
+   "reveal": 636.719,
+   "end": 639.639
+  },
+  {
+   "q": "Who scored the **first ever** Premier League goal?",
+   "answers": [
+    "Brian Deane",
+    "Alan Shearer",
+    "Eric Cantona",
+    "Ian Wright"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "⚽  1992",
+   "start": 639.639,
+   "countdownStart": 642.108,
+   "reveal": 648.108,
+   "end": 651.77
+  },
+  {
+   "q": "How many **stars** are on the U.S. flag?",
+   "answers": [
+    "50",
+    "48",
+    "52",
+    "13"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "⭐  🎌",
+   "start": 651.77,
+   "countdownStart": 654.31,
+   "reveal": 660.31,
+   "end": 665.853
+  },
+  {
+   "q": "The **Federalist Papers** supported what?",
+   "answers": [
+    "Independence from Britain",
+    "Ending slavery",
+    "Women's right to vote",
+    "The U.S. Constitution"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "📰  ✍️",
+   "start": 665.853,
+   "countdownStart": 668.823,
+   "reveal": 674.823,
+   "end": 680.962
+  }
+ ],
+ "audio": "audio/auto-2026-10-28-long.mp3",
+ "outroStart": 680.962,
+ "durationInSeconds": 692.421,
+ "teaser": "LOCK IN YOUR ANSWERS"
+}
