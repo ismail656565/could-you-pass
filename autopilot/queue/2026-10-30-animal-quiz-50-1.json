@@ -1,0 +1,859 @@
+{
+ "id": "animal-quiz-50-1",
+ "timing": {
+  "count": 6.0,
+  "tail": 1.5,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Welcome back, quiz friends! Fifty animal questions today, grab a pen and keep score. First one: what is the fastest land animal?",
+   "a": "The cheetah! It can sprint at around a hundred kilometres an hour."
+  },
+  {
+   "q": "What is a baby kangaroo called?",
+   "a": "A joey! It's about the size of a jellybean when it's born."
+  },
+  {
+   "q": "What is the largest bird alive today?",
+   "a": "The ostrich! It can't fly, but it can outrun most horses."
+  },
+  {
+   "q": "What do giant pandas mostly eat?",
+   "a": "Bamboo! Up to twelve hours a day of chewing."
+  },
+  {
+   "q": "What do we call a male chicken?",
+   "a": "A rooster! A drake is a male duck, and a gander a male goose. Easy start, right?"
+  },
+  {
+   "q": "Which big cat has a mane?",
+   "a": "The lion! Only the males, though."
+  },
+  {
+   "q": "What does a caterpillar turn into?",
+   "a": "A butterfly, or a moth! It all happens inside a chrysalis or cocoon."
+  },
+  {
+   "q": "Which animal is famous for building dams?",
+   "a": "The beaver! Its front teeth never stop growing."
+  },
+  {
+   "q": "Where do polar bears live in the wild?",
+   "a": "The Arctic! Penguins live down south, so they never meet in the wild."
+  },
+  {
+   "q": "How many legs does a crab have, if you count the claws?",
+   "a": "Ten! Crabs belong to a group called decapods, which means ten feet. Ten easy ones done. How many so far?"
+  },
+  {
+   "q": "Round two, a bit harder. What is a group of lions called?",
+   "a": "A pride! Most of the hunting is done by the lionesses."
+  },
+  {
+   "q": "Which animal can sleep up to twenty hours a day?",
+   "a": "The koala! Eucalyptus leaves give it very little energy."
+  },
+  {
+   "q": "How many humps does a dromedary camel have?",
+   "a": "Just one! The Bactrian camel is the one with two."
+  },
+  {
+   "q": "What is the largest shark in the world?",
+   "a": "The whale shark! And it eats mostly tiny plankton."
+  },
+  {
+   "q": "What is a female deer called?",
+   "a": "A doe! A mare is a female horse, and a ewe a female sheep. Did you get that one?"
+  },
+  {
+   "q": "What colour is a zebra's skin, under the stripes?",
+   "a": "Black! The stripes are in the fur, not the skin."
+  },
+  {
+   "q": "How many teeth does an adult dog have?",
+   "a": "Forty-two! That's ten more than an adult human."
+  },
+  {
+   "q": "Which animal is our closest living relative?",
+   "a": "The chimpanzee, together with the bonobo! We share most of our DNA."
+  },
+  {
+   "q": "What is a baby swan called?",
+   "a": "A cygnet! A gosling is a baby goose."
+  },
+  {
+   "q": "Which continent has no native snakes at all?",
+   "a": "Antarctica! Australia, on the other hand, has plenty. Twenty done!"
+  },
+  {
+   "q": "Now it gets harder. Which animal has the strongest bite ever measured?",
+   "a": "The saltwater crocodile! Its bite is stronger than a lion's many times over."
+  },
+  {
+   "q": "How many stomach chambers does a cow have?",
+   "a": "Four! Food goes through some of them more than once."
+  },
+  {
+   "q": "Which bird has the widest wingspan?",
+   "a": "The wandering albatross! Over three metres from tip to tip."
+  },
+  {
+   "q": "What is the fastest bird when it dives?",
+   "a": "The peregrine falcon! Over three hundred kilometres an hour. Fastest animal on the planet."
+  },
+  {
+   "q": "How many eyes does a honey bee have?",
+   "a": "Five! Two big ones, and three tiny ones on top of its head. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Which animal has the densest fur of any animal?",
+   "a": "The sea otter! Up to a million hairs on one square inch."
+  },
+  {
+   "q": "What do camels store in their humps?",
+   "a": "Fat, not water! The fat gives them energy when food is scarce."
+  },
+  {
+   "q": "Which of these animals is a marsupial?",
+   "a": "The wombat! Its pouch even opens backwards, so no dirt gets in."
+  },
+  {
+   "q": "Which mammal can live the longest?",
+   "a": "The bowhead whale! Some have lived for more than two hundred years."
+  },
+  {
+   "q": "Which animal has the largest brain on Earth?",
+   "a": "The sperm whale! About four times heavier than a human brain. Thirty down, twenty to go!"
+  },
+  {
+   "q": "Welcome to the very hard round. Which animal has the highest blood pressure?",
+   "a": "The giraffe! It needs it to pump blood all the way up that neck."
+  },
+  {
+   "q": "What is a baby echidna called?",
+   "a": "A puggle! Best baby name in the animal kingdom."
+  },
+  {
+   "q": "Which is the only mammal covered in scales?",
+   "a": "The pangolin! It rolls into a ball when it's scared."
+  },
+  {
+   "q": "Which animal can sleep with half of its brain awake?",
+   "a": "The dolphin! One half rests while the other keeps watch."
+  },
+  {
+   "q": "What is the largest living lizard?",
+   "a": "The Komodo dragon! It can grow to around three metres."
+  },
+  {
+   "q": "Which penguin lives near the equator?",
+   "a": "The Galápagos penguin! Not every penguin needs ice. That one surprises a lot of people."
+  },
+  {
+   "q": "What is the largest rodent in the world?",
+   "a": "The capybara! It can weigh as much as an adult human."
+  },
+  {
+   "q": "What is a female fox called?",
+   "a": "A vixen! A male fox is called a dog, or a tod."
+  },
+  {
+   "q": "How many chambers does a crocodile's heart have?",
+   "a": "Four, just like ours! Most other reptiles have three."
+  },
+  {
+   "q": "How many arms do most starfish have?",
+   "a": "Five! And they can grow a lost arm back. Forty done, now the legend round!"
+  },
+  {
+   "q": "Welcome to the legend round! Which sea creature can turn itself back into a baby?",
+   "a": "The immortal jellyfish! When it's hurt or old, it can restart its own life cycle."
+  },
+  {
+   "q": "Which animal's blue blood is used to test medicines for safety?",
+   "a": "The horseshoe crab! Its blood reacts to harmful bacteria."
+  },
+  {
+   "q": "What is the smallest bird in the world?",
+   "a": "The bee hummingbird! It weighs less than a coin."
+  },
+  {
+   "q": "Which animal has the longest migration on Earth?",
+   "a": "The Arctic tern! From the Arctic to the Antarctic, and back, every year."
+  },
+  {
+   "q": "Which animal with a backbone lives the longest?",
+   "a": "The Greenland shark! Scientists think some are around four hundred years old."
+  },
+  {
+   "q": "What is a group of ferrets called?",
+   "a": "A business! Yes, really."
+  },
+  {
+   "q": "Which animal makes cube-shaped poop?",
+   "a": "The wombat again! The cubes don't roll away, so they work as markers."
+  },
+  {
+   "q": "What colour is a chow chow's tongue?",
+   "a": "Blue-black! A chow chow puppy is born with a pink one. Three left, stay with me!"
+  },
+  {
+   "q": "How many bones are in a giraffe's neck?",
+   "a": "Seven! The same number as in yours. Each one is just much longer."
+  },
+  {
+   "q": "Last one. Which tiny animal survived being exposed to outer space?",
+   "a": "The tardigrade, or water bear! In two thousand seven, some survived open space on a satellite."
+  }
+ ],
+ "youtube": {
+  "title": "Animal Quiz: 50 Questions From Easy to Legend 🐾 | How Many Can You Get?",
+  "description": "50 animal trivia questions, from easy to legend 🐾 Babies, speed records, strange skills and the toughest animal facts. Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#AnimalQuiz #AnimalTrivia #TriviaQuiz #Quiz #GeneralKnowledge #AnimalFacts\n\nMusic: original.",
+  "tags": [
+   "animal quiz",
+   "animal trivia",
+   "animal quiz questions and answers",
+   "animal facts",
+   "trivia quiz",
+   "50 question quiz",
+   "general knowledge quiz",
+   "nature quiz",
+   "quiz for adults"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 50? 🐾 Which one surprised you most? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Animal Quiz",
+  "header": "ANIMAL QUIZ",
+  "hook": "CAN YOU GET 40/50? 🐾",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "ANIMAL **QUIZ**",
+   "CAN YOU GET **40/50**?",
+   "ONLY EXPERTS GET **#50**"
+  ],
+  "thumbEmoji": "🐾",
+  "thumbBadge": "50 QUESTIONS · EASY → LEGEND",
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "questions": [
+   {
+    "q": "What is the **fastest** land animal?",
+    "answers": [
+     "Lion",
+     "Greyhound",
+     "Horse",
+     "Cheetah"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🐾  💨"
+   },
+   {
+    "q": "A baby **kangaroo** is called a…?",
+    "answers": [
+     "Cub",
+     "Kit",
+     "Joey",
+     "Pup"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🍼"
+   },
+   {
+    "q": "What is the **largest** bird alive today?",
+    "answers": [
+     "Emu",
+     "Albatross",
+     "Ostrich",
+     "Condor"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🪶  🥚"
+   },
+   {
+    "q": "What do giant **pandas** mostly eat?",
+    "answers": [
+     "Bamboo",
+     "Eucalyptus",
+     "Fish",
+     "Berries"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🍃"
+   },
+   {
+    "q": "A **male chicken** is called a…?",
+    "answers": [
+     "Hen",
+     "Rooster",
+     "Drake",
+     "Gander"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🐣"
+   },
+   {
+    "q": "Which big cat has a **mane**?",
+    "answers": [
+     "Tiger",
+     "Leopard",
+     "Lion",
+     "Jaguar"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "👑"
+   },
+   {
+    "q": "A **caterpillar** turns into a…?",
+    "answers": [
+     "Beetle",
+     "Bee",
+     "Dragonfly",
+     "Butterfly"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🐛"
+   },
+   {
+    "q": "Which animal is famous for building **dams**?",
+    "answers": [
+     "Otter",
+     "Beaver",
+     "Badger",
+     "Muskrat"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🪵  💧"
+   },
+   {
+    "q": "Where do **polar bears** live in the wild?",
+    "answers": [
+     "Antarctica",
+     "The Arctic",
+     "The Alps",
+     "Patagonia"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🧊  ❄️"
+   },
+   {
+    "q": "A crab has how many **legs**, claws included?",
+    "answers": [
+     "Six",
+     "Eight",
+     "Twelve",
+     "Ten"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🦀"
+   },
+   {
+    "q": "A group of **lions** is called a…?",
+    "answers": [
+     "Pack",
+     "Herd",
+     "Pride",
+     "Troop"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🦁  🦁"
+   },
+   {
+    "q": "Which animal sleeps up to **20 hours** a day?",
+    "answers": [
+     "Sloth",
+     "Koala",
+     "Cat",
+     "Panda"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "😴"
+   },
+   {
+    "q": "How many **humps** does a dromedary camel have?",
+    "answers": [
+     "One",
+     "Two",
+     "Three",
+     "None"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🏜️"
+   },
+   {
+    "q": "What is the **largest** shark in the world?",
+    "answers": [
+     "Great white",
+     "Whale shark",
+     "Hammerhead",
+     "Tiger shark"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🌊"
+   },
+   {
+    "q": "A **female deer** is called a…?",
+    "answers": [
+     "Doe",
+     "Mare",
+     "Ewe",
+     "Sow"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🦌"
+   },
+   {
+    "q": "What colour is a **zebra's** skin?",
+    "answers": [
+     "White",
+     "Pink",
+     "Grey",
+     "Black"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🦓"
+   },
+   {
+    "q": "An adult **dog** has how many teeth?",
+    "answers": [
+     "28",
+     "32",
+     "42",
+     "50"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🐕"
+   },
+   {
+    "q": "Our **closest** living animal relative?",
+    "answers": [
+     "Gorilla",
+     "Chimpanzee",
+     "Orangutan",
+     "Baboon"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🧬"
+   },
+   {
+    "q": "A baby **swan** is called a…?",
+    "answers": [
+     "Cygnet",
+     "Gosling",
+     "Duckling",
+     "Eaglet"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🪶"
+   },
+   {
+    "q": "Which continent has **no** native snakes?",
+    "answers": [
+     "Australia",
+     "Europe",
+     "Antarctica",
+     "South America"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🐍"
+   },
+   {
+    "q": "Which animal has the strongest **bite**?",
+    "answers": [
+     "Great white shark",
+     "Hippo",
+     "Saltwater crocodile",
+     "Lion"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🦷"
+   },
+   {
+    "q": "How many stomach **chambers** does a cow have?",
+    "answers": [
+     "Four",
+     "One",
+     "Two",
+     "Six"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🐄"
+   },
+   {
+    "q": "Which bird has the widest **wingspan**?",
+    "answers": [
+     "Andean condor",
+     "Wandering albatross",
+     "Bald eagle",
+     "Pelican"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🪽"
+   },
+   {
+    "q": "What is the **fastest** bird in a dive?",
+    "answers": [
+     "Golden eagle",
+     "Swift",
+     "Ostrich",
+     "Peregrine falcon"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "💨"
+   },
+   {
+    "q": "How many **eyes** does a honey bee have?",
+    "answers": [
+     "Two",
+     "Four",
+     "Eight",
+     "Five"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🐝"
+   },
+   {
+    "q": "Which animal has the **densest** fur?",
+    "answers": [
+     "Polar bear",
+     "Sea otter",
+     "Arctic fox",
+     "Musk ox"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🌊  ❄️"
+   },
+   {
+    "q": "What do camels store in their **humps**?",
+    "answers": [
+     "Water",
+     "Fat",
+     "Milk",
+     "Air"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🐪"
+   },
+   {
+    "q": "Which of these is a **marsupial**?",
+    "answers": [
+     "Wombat",
+     "Raccoon",
+     "Lemur",
+     "Armadillo"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "👶  👜"
+   },
+   {
+    "q": "Which mammal lives the **longest**?",
+    "answers": [
+     "Elephant",
+     "Bowhead whale",
+     "Blue whale",
+     "Chimpanzee"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "⏳"
+   },
+   {
+    "q": "Which animal has the **largest** brain?",
+    "answers": [
+     "Blue whale",
+     "Elephant",
+     "Sperm whale",
+     "Orca"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🧠"
+   },
+   {
+    "q": "Which animal has the highest **blood pressure**?",
+    "answers": [
+     "Elephant",
+     "Horse",
+     "Blue whale",
+     "Giraffe"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "❤️"
+   },
+   {
+    "q": "A baby **echidna** is called a…?",
+    "answers": [
+     "Puggle",
+     "Joey",
+     "Kit",
+     "Calf"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🦔"
+   },
+   {
+    "q": "The only **mammal** covered in scales?",
+    "answers": [
+     "Hedgehog",
+     "Pangolin",
+     "Porcupine",
+     "Aardvark"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🛡️"
+   },
+   {
+    "q": "Which animal sleeps with **half its brain**?",
+    "answers": [
+     "Cat",
+     "Horse",
+     "Giraffe",
+     "Dolphin"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "💤"
+   },
+   {
+    "q": "What is the **largest** living lizard?",
+    "answers": [
+     "Green iguana",
+     "Komodo dragon",
+     "Gila monster",
+     "Frilled lizard"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🦎"
+   },
+   {
+    "q": "Which penguin lives near the **equator**?",
+    "answers": [
+     "Emperor",
+     "Galápagos",
+     "King",
+     "Adélie"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🐧  ☀️"
+   },
+   {
+    "q": "What is the **largest** rodent in the world?",
+    "answers": [
+     "Beaver",
+     "Porcupine",
+     "Nutria",
+     "Capybara"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🐹"
+   },
+   {
+    "q": "A **female fox** is called a…?",
+    "answers": [
+     "Doe",
+     "Jenny",
+     "Vixen",
+     "Sow"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🦊"
+   },
+   {
+    "q": "How many chambers in a **crocodile's** heart?",
+    "answers": [
+     "Four",
+     "Two",
+     "Three",
+     "Five"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🐊"
+   },
+   {
+    "q": "Most **starfish** have how many arms?",
+    "answers": [
+     "Four",
+     "Six",
+     "Eight",
+     "Five"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🌊"
+   },
+   {
+    "q": "Which creature can turn back into a **baby**?",
+    "answers": [
+     "Box jellyfish",
+     "Moon jellyfish",
+     "Immortal jellyfish",
+     "Man o' war"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "♾️"
+   },
+   {
+    "q": "Whose blue **blood** is used to test medicine?",
+    "answers": [
+     "Lobster",
+     "Horseshoe crab",
+     "Squid",
+     "Jellyfish"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "💉"
+   },
+   {
+    "q": "What is the **smallest** bird in the world?",
+    "answers": [
+     "Bee hummingbird",
+     "Goldcrest",
+     "Wren",
+     "Sunbird"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🔍"
+   },
+   {
+    "q": "Which animal has the longest **migration**?",
+    "answers": [
+     "Humpback whale",
+     "Monarch butterfly",
+     "Grey whale",
+     "Arctic tern"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🗺️"
+   },
+   {
+    "q": "The **longest-living** animal with a backbone?",
+    "answers": [
+     "Galápagos tortoise",
+     "Bowhead whale",
+     "Greenland shark",
+     "Koi carp"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🦈"
+   },
+   {
+    "q": "A group of **ferrets** is called a…?",
+    "answers": [
+     "Gang",
+     "Mob",
+     "Band",
+     "Business"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🐾"
+   },
+   {
+    "q": "Which animal makes **cube-shaped** poop?",
+    "answers": [
+     "Rabbit",
+     "Wombat",
+     "Koala",
+     "Kangaroo"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🎲"
+   },
+   {
+    "q": "What colour is a **chow chow's** tongue?",
+    "answers": [
+     "Pink",
+     "Red",
+     "Yellow",
+     "Blue-black"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "👅"
+   },
+   {
+    "q": "How many bones are in a **giraffe's** neck?",
+    "answers": [
+     "Seven",
+     "Twelve",
+     "Twenty",
+     "Thirty"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🦴"
+   },
+   {
+    "q": "Which animal has **survived** outer space?",
+    "answers": [
+     "Cockroach",
+     "Scorpion",
+     "Tardigrade",
+     "Ant"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🚀"
+   }
+  ]
+ }
+}

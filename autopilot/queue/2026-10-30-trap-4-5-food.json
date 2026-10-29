@@ -1,0 +1,103 @@
+{
+ "id": "trap-4-5-food",
+ "lines": [
+  {
+   "q": "Peanuts are not really nuts. So what are they?",
+   "a": "Legumes! They're related to peas and beans, and grow underground."
+  },
+  {
+   "q": "Where did potatoes originally come from?",
+   "a": "Peru, in the Andes! Not Ireland. They only reached Europe in the fifteen hundreds."
+  },
+  {
+   "q": "How long does it take to grow one pineapple?",
+   "a": "About two years! One plant usually gives just one fruit at a time. Bet you didn't expect that."
+  },
+  {
+   "q": "Last one. Which spice is the most expensive in the world?",
+   "a": "Saffron! Each flower gives only three tiny threads, picked by hand."
+  }
+ ],
+ "youtube": {
+  "title": "4 Food Questions Almost Everyone Gets Wrong 🍍 #shorts",
+  "description": "4 food trivia questions that fool almost everyone 🤯 Did #1 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #foodquiz #foodfacts #generalknowledge #shorts\n\nMusic: original.",
+  "tags": [
+   "food quiz",
+   "food trivia",
+   "food facts",
+   "trivia quiz",
+   "quiz",
+   "general knowledge quiz",
+   "hard trivia",
+   "shorts"
+  ],
+  "comment": "Did the peanut one get you? 🥜 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "FOOD QUIZ",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "**Peanuts** are not nuts. They are…?",
+    "answers": [
+     "Seeds",
+     "Legumes",
+     "Grains",
+     "Berries"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🥜"
+   },
+   {
+    "q": "Where did **potatoes** originally come from?",
+    "answers": [
+     "Ireland",
+     "Germany",
+     "Russia",
+     "Peru"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🥔  🌍"
+   },
+   {
+    "q": "How long does one **pineapple** take to grow?",
+    "answers": [
+     "3 months",
+     "6 months",
+     "About 2 years",
+     "5 years"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🌱  ⏳"
+   },
+   {
+    "q": "The world's most **expensive** spice?",
+    "answers": [
+     "Saffron",
+     "Vanilla",
+     "Cardamom",
+     "Cinnamon"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌶️  💰"
+   }
+  ]
+ }
+}

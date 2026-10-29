@@ -189,3 +189,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - 1960s-50 (23.10.) und GK-If-you-get-40 (24.10.) je nur 1 public View nach 2–3 Tagen; Over-60-Memory 55, Halloween-35 158. Senioren-GK-Format bekommt kaum Ausspielung (impressions/ctr in report.json weiter leer, CTR-API HttpError 400) → heute Citizenship-Test (Ausreißer-Format, Suchbegriff mit Volumen) als Gegenprobe; wenn auch < 20 Views nach 3 Tagen, Langformat auf Suchthemen ("Can You Pass the ___ Test?", Guess-the-___) umstellen statt Alters-Titel.
 ### Thumbnails
 - 6 Tests laufen, alle per views/day (CTR-API 400): A-Werte Halloween-35 9,0/Tag, Memory-35 6,0, Halloween-If-25 7,5, PL 1,25, CL 0,75 – jetzt alle auf B. Noch kein B/C-Ergebnis → kein Stil-Sieger. Kanal: 7 Abos.
+
+## 2026-10-29 – STÖRUNG BEHOBEN (Besitzer: "es kommen nicht mehr regelmäßig Videos")
+- Ursachen: (1) geplante Claude-Aufgabe hat am 27.–29.10. nicht ausgelöst → nur noch Ersatz-Generator generate_queue.py; (2) generate_queue.py brach am 29.10. ab und stoppte damit den ganzen Lauf (kein Upload bis zum manuellen Lauf 19 Uhr); (3) Ersatz-Generator gab täglich identische Titel → Doppel-Upload-Schutz übersprang das lange Video am 28.10.; (4) Vorlagen-Reste (Citizenship-Thumbnail/Outro, Venus-Frage erneut).
+- Fix: generate_queue continue-on-error, eindeutige Titel, Vorlagen-Bilder/Texte entfernt, keine Frage doppelt am Tag, Long nach Level sortiert, tvshow. Geplante Aufgabe mit neuem Prompt (2 Shorts + 1 Long täglich, tvshow, 50 Q, kein vidIQ bis 16.11.) neu gespeichert.
+- Langvideos Stand 29.10.: Citizenship 10 public Views (Ø 99 % der wenigen Zuschauer), Over-65 4, GK-If-40 1, 1960s 2 → Senioren-GK-Titel ohne Reichweite; nächster Test: Suchthema "Animal Quiz" (30.10.).
