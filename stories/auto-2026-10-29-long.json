@@ -1,0 +1,835 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "tvshow",
+ "title": "50 Question General Knowledge Quiz",
+ "header": "GENERAL KNOWLEDGE",
+ "hook": "CAN YOU GET THEM ALL RIGHT?",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "30+ = you pass! Comment 👇",
+ "midCtaIndex": 24,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "CITIZENSHIP **TEST**",
+  "COULD YOU **PASS**?",
+  "MOST AMERICANS **FAIL**"
+ ],
+ "thumbEmoji": "🗽",
+ "thumbBadge": "50 REAL CIVICS QUESTIONS",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "What is the longest river in **Asia**?",
+   "answers": [
+    "Ganges",
+    "Mekong",
+    "Yangtze",
+    "Yellow River"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🏞️  🐉",
+   "start": 0.0,
+   "countdownStart": 2.163,
+   "reveal": 8.163,
+   "end": 10.591
+  },
+  {
+   "q": "How long does **Venus** take to spin once?",
+   "answers": [
+    "24 hours",
+    "10 days",
+    "58 days",
+    "243 days"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🖋️  💕",
+   "start": 10.591,
+   "countdownStart": 17.546,
+   "reveal": 23.546,
+   "end": 30.216
+  },
+  {
+   "q": "Life, liberty and the pursuit of **what**?",
+   "answers": [
+    "Happiness",
+    "Property",
+    "Justice",
+    "Freedom"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "📜  😊",
+   "start": 30.216,
+   "countdownStart": 32.468,
+   "reveal": 38.468,
+   "end": 44.372
+  },
+  {
+   "q": "What is the capital of Canada?",
+   "answers": [
+    "Toronto",
+    "Vancouver",
+    "Ottawa",
+    "Montreal"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🇨🇦",
+   "start": 44.372,
+   "countdownStart": 48.631,
+   "reveal": 54.631,
+   "end": 60.719
+  },
+  {
+   "q": "Who was US president during the **Moon landing**?",
+   "answers": [
+    "John F. Kennedy",
+    "Lyndon Johnson",
+    "Richard Nixon",
+    "Gerald Ford"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🚀  🏛️",
+   "start": 60.719,
+   "countdownStart": 63.483,
+   "reveal": 69.483,
+   "end": 72.868
+  },
+  {
+   "q": "What is the chemical symbol for **gold**?",
+   "answers": [
+    "Go",
+    "Gd",
+    "Au",
+    "Ag"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🥇  🧪",
+   "start": 72.868,
+   "countdownStart": 75.122,
+   "reveal": 81.122,
+   "end": 84.3
+  },
+  {
+   "q": "Who was the first woman to win a **Nobel Prize**?",
+   "answers": [
+    "Florence Nightingale",
+    "Marie Curie",
+    "Mother Teresa",
+    "Rosalind Franklin"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🏅  🔬",
+   "start": 84.3,
+   "countdownStart": 86.937,
+   "reveal": 92.937,
+   "end": 96.512
+  },
+  {
+   "q": "Who discovered the planet **Uranus**?",
+   "answers": [
+    "Galileo",
+    "William Herschel",
+    "Copernicus",
+    "Johannes Kepler"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🔭  🪐",
+   "start": 96.512,
+   "countdownStart": 98.496,
+   "reveal": 104.496,
+   "end": 109.718
+  },
+  {
+   "q": "What colour is a giraffe's **tongue**?",
+   "answers": [
+    "Pink",
+    "Red",
+    "Grey",
+    "Dark purple"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "👅  🌿",
+   "start": 109.718,
+   "countdownStart": 111.634,
+   "reveal": 117.634,
+   "end": 123.194
+  },
+  {
+   "q": "Which country did **ABBA** come from?",
+   "answers": [
+    "Norway",
+    "Sweden",
+    "Denmark",
+    "Finland"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🎤  🪩",
+   "start": 123.194,
+   "countdownStart": 125.443,
+   "reveal": 131.443,
+   "end": 136.594
+  },
+  {
+   "q": "Who sang **Respect** in 1967?",
+   "answers": [
+    "Diana Ross",
+    "Tina Turner",
+    "Aretha Franklin",
+    "Dusty Springfield"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🎙️  👑",
+   "start": 136.594,
+   "countdownStart": 139.397,
+   "reveal": 145.397,
+   "end": 149.0
+  },
+  {
+   "q": "Who wrote **War and Peace**?",
+   "answers": [
+    "Leo Tolstoy",
+    "Dostoevsky",
+    "Chekhov",
+    "Pushkin"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "📚  ⚔️",
+   "start": 149.0,
+   "countdownStart": 150.894,
+   "reveal": 156.894,
+   "end": 161.233
+  },
+  {
+   "q": "Which ghost haunts **Sleepy Hollow**?",
+   "answers": [
+    "The Grey Lady",
+    "The Headless Horseman",
+    "Bloody Mary",
+    "The Phantom Rider"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🐎  🎃",
+   "start": 161.233,
+   "countdownStart": 163.111,
+   "reveal": 169.111,
+   "end": 171.926
+  },
+  {
+   "q": "Who has the most PL **assists** ever?",
+   "answers": [
+    "Ryan Giggs",
+    "Kevin De Bruyne",
+    "Cesc Fàbregas",
+    "Frank Lampard"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🅰️  🎯",
+   "start": 171.926,
+   "countdownStart": 174.238,
+   "reveal": 180.238,
+   "end": 183.943
+  },
+  {
+   "q": "Which mountain is tallest from **base to peak**?",
+   "answers": [
+    "Mount Everest",
+    "K2",
+    "Kilimanjaro",
+    "Mauna Kea"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "⛰️  🌋",
+   "start": 183.943,
+   "countdownStart": 187.801,
+   "reveal": 193.801,
+   "end": 197.446
+  },
+  {
+   "q": "Who wrote **The Hound of the Baskervilles**?",
+   "answers": [
+    "Agatha Christie",
+    "Edgar Allan Poe",
+    "Arthur Conan Doyle",
+    "Wilkie Collins"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🐕  🌫️",
+   "start": 197.446,
+   "countdownStart": 199.628,
+   "reveal": 205.628,
+   "end": 209.658
+  },
+  {
+   "q": "Which band sang **My Generation** in 1965?",
+   "answers": [
+    "The Kinks",
+    "Small Faces",
+    "The Who",
+    "The Animals"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🎸  1965",
+   "start": 209.658,
+   "countdownStart": 212.827,
+   "reveal": 218.827,
+   "end": 222.096
+  },
+  {
+   "q": "Which film won the very first **Best Picture** Oscar?",
+   "answers": [
+    "Wings",
+    "Casablanca",
+    "Ben-Hur",
+    "Metropolis"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🏆  🎬",
+   "start": 222.096,
+   "countdownStart": 224.814,
+   "reveal": 230.814,
+   "end": 234.423
+  },
+  {
+   "q": "Who was the first **Postmaster General**?",
+   "answers": [
+    "Alexander Hamilton",
+    "John Adams",
+    "James Madison",
+    "Benjamin Franklin"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "✉️  📮",
+   "start": 234.423,
+   "countdownStart": 239.438,
+   "reveal": 245.438,
+   "end": 251.298
+  },
+  {
+   "q": "How many **Earths** fit inside the Sun?",
+   "answers": [
+    "1,000",
+    "100,000",
+    "1.3 million",
+    "1 billion"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "➗",
+   "start": 251.298,
+   "countdownStart": 253.623,
+   "reveal": 259.623,
+   "end": 262.916
+  },
+  {
+   "q": "In which country was **paper** invented?",
+   "answers": [
+    "Egypt",
+    "Greece",
+    "India",
+    "China"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "📜  ✍️",
+   "start": 262.916,
+   "countdownStart": 265.281,
+   "reveal": 271.281,
+   "end": 274.987
+  },
+  {
+   "q": "First US president to **resign**?",
+   "answers": [
+    "Gerald Ford",
+    "Lyndon Johnson",
+    "Richard Nixon",
+    "Jimmy Carter"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🏛️  📜",
+   "start": 274.987,
+   "countdownStart": 277.448,
+   "reveal": 283.448,
+   "end": 288.398
+  },
+  {
+   "q": "Who scored the winning penalty in the **2003** final?",
+   "answers": [
+    "Andrea Pirlo",
+    "Alessandro Del Piero",
+    "Andriy Shevchenko",
+    "Paolo Maldini"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🎯  2003",
+   "start": 288.398,
+   "countdownStart": 291.863,
+   "reveal": 297.863,
+   "end": 300.802
+  },
+  {
+   "q": "Which is the only US state with a **one-syllable** name?",
+   "answers": [
+    "Utah",
+    "Ohio",
+    "Maine",
+    "Iowa"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🗺️  1️⃣",
+   "start": 300.802,
+   "countdownStart": 304.113,
+   "reveal": 310.113,
+   "end": 314.36
+  },
+  {
+   "q": "Halloween grew out of which **Celtic** festival?",
+   "answers": [
+    "Beltane",
+    "Yule",
+    "Samhain",
+    "Imbolc"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🔥  🍂",
+   "start": 314.36,
+   "countdownStart": 317.347,
+   "reveal": 323.347,
+   "end": 326.584
+  },
+  {
+   "q": "What is the **dot** on a lowercase i called?",
+   "answers": [
+    "A tilde",
+    "A tittle",
+    "A jot",
+    "An umlaut"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "✏️  🔤",
+   "start": 326.584,
+   "countdownStart": 329.019,
+   "reveal": 335.019,
+   "end": 338.692
+  },
+  {
+   "q": "Which mammal lays eggs?",
+   "answers": [
+    "Koala",
+    "Platypus",
+    "Dolphin",
+    "Bat"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🥚",
+   "start": 338.692,
+   "countdownStart": 342.687,
+   "reveal": 348.687,
+   "end": 354.318
+  },
+  {
+   "q": "Which is the **largest island** in the world?",
+   "answers": [
+    "Borneo",
+    "New Guinea",
+    "Greenland",
+    "Madagascar"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🏝️  🗺️",
+   "start": 354.318,
+   "countdownStart": 356.696,
+   "reveal": 362.696,
+   "end": 367.804
+  },
+  {
+   "q": "A **shuttlecock** is used in which sport?",
+   "answers": [
+    "Tennis",
+    "Squash",
+    "Badminton",
+    "Cricket"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🏸  🪶",
+   "start": 367.804,
+   "countdownStart": 370.092,
+   "reveal": 376.092,
+   "end": 380.643
+  },
+  {
+   "q": "Who played **Mary Poppins** in 1964?",
+   "answers": [
+    "Julie Andrews",
+    "Audrey Hepburn",
+    "Petula Clark",
+    "Hayley Mills"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "☂️  🎬",
+   "start": 380.643,
+   "countdownStart": 383.729,
+   "reveal": 389.729,
+   "end": 393.561
+  },
+  {
+   "q": "Octopus blood is what **colour**?",
+   "answers": [
+    "Red",
+    "Green",
+    "Blue",
+    "Clear"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "📖  📅",
+   "start": 393.561,
+   "countdownStart": 395.416,
+   "reveal": 401.416,
+   "end": 404.972
+  },
+  {
+   "q": "Who did the U.S. fight in **World War II**?",
+   "answers": [
+    "Russia and China",
+    "Spain and France",
+    "Japan, Germany, Italy",
+    "Britain and Japan"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "✈️  ⚓",
+   "start": 404.972,
+   "countdownStart": 407.841,
+   "reveal": 413.841,
+   "end": 419.691
+  },
+  {
+   "q": "The Great **Pyramid** was originally what colour?",
+   "answers": [
+    "Gold",
+    "White",
+    "Red",
+    "Black"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🎆  🎉",
+   "start": 419.691,
+   "countdownStart": 422.171,
+   "reveal": 428.171,
+   "end": 433.518
+  },
+  {
+   "q": "Which blood type is the **universal donor**?",
+   "answers": [
+    "AB positive",
+    "A negative",
+    "B positive",
+    "O negative"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🩸  💉",
+   "start": 433.518,
+   "countdownStart": 435.971,
+   "reveal": 441.971,
+   "end": 444.616
+  },
+  {
+   "q": "Which gas makes up most of the **air** we breathe?",
+   "answers": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon dioxide",
+    "Argon"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "💨  🌍",
+   "start": 444.616,
+   "countdownStart": 447.687,
+   "reveal": 453.687,
+   "end": 458.388
+  },
+  {
+   "q": "Who scored the **first ever** Premier League goal?",
+   "answers": [
+    "Brian Deane",
+    "Alan Shearer",
+    "Eric Cantona",
+    "Ian Wright"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "⚽  1992",
+   "start": 458.388,
+   "countdownStart": 460.856,
+   "reveal": 466.856,
+   "end": 470.519
+  },
+  {
+   "q": "When was the Battle of **Hastings**?",
+   "answers": [
+    "1215",
+    "1415",
+    "1066",
+    "1314"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "⚔️  🏰",
+   "start": 470.519,
+   "countdownStart": 472.855,
+   "reveal": 478.855,
+   "end": 483.962
+  },
+  {
+   "q": "Who painted **The Scream**?",
+   "answers": [
+    "Edvard Munch",
+    "Salvador Dalí",
+    "Van Gogh",
+    "Francisco Goya"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "😱  🎨",
+   "start": 483.962,
+   "countdownStart": 485.511,
+   "reveal": 491.511,
+   "end": 494.702
+  },
+  {
+   "q": "Which 1962 satellite first beamed **live TV** across the Atlantic?",
+   "answers": [
+    "Sputnik",
+    "Echo",
+    "Explorer",
+    "Telstar"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "📡  📺",
+   "start": 494.702,
+   "countdownStart": 499.122,
+   "reveal": 505.122,
+   "end": 508.931
+  },
+  {
+   "q": "Which creature appears at the **full moon**?",
+   "answers": [
+    "A mummy",
+    "A goblin",
+    "A werewolf",
+    "A witch"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🌕  🐺",
+   "start": 508.931,
+   "countdownStart": 511.48,
+   "reveal": 517.48,
+   "end": 519.967
+  },
+  {
+   "q": "Which instrument has **88 keys**?",
+   "answers": [
+    "Organ",
+    "Accordion",
+    "Harpsichord",
+    "Piano"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🎹  🎵",
+   "start": 519.967,
+   "countdownStart": 522.269,
+   "reveal": 528.269,
+   "end": 533.199
+  },
+  {
+   "q": "Which 1965 film features the **von Trapp** family?",
+   "answers": [
+    "The Sound of Music",
+    "Mary Poppins",
+    "My Fair Lady",
+    "Oliver!"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🎶  🏔️",
+   "start": 533.199,
+   "countdownStart": 536.656,
+   "reveal": 542.656,
+   "end": 545.465
+  },
+  {
+   "q": "Who played the **monster** in Frankenstein (1931)?",
+   "answers": [
+    "Boris Karloff",
+    "Bela Lugosi",
+    "Lon Chaney",
+    "Peter Cushing"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🧟  ⚡",
+   "start": 545.465,
+   "countdownStart": 548.751,
+   "reveal": 554.751,
+   "end": 557.438
+  },
+  {
+   "q": "Who won the Premier League in **1995**?",
+   "answers": [
+    "Newcastle",
+    "Blackburn",
+    "Liverpool",
+    "Leeds"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🏆  1995",
+   "start": 557.438,
+   "countdownStart": 559.94,
+   "reveal": 565.94,
+   "end": 568.757
+  },
+  {
+   "q": "Which president is on the US **five-dollar** bill?",
+   "answers": [
+    "Washington",
+    "Jefferson",
+    "Lincoln",
+    "Hamilton"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "💵  🏛️",
+   "start": 568.757,
+   "countdownStart": 571.658,
+   "reveal": 577.658,
+   "end": 580.472
+  },
+  {
+   "q": "In which year was **Magna Carta** sealed?",
+   "answers": [
+    "1066",
+    "1215",
+    "1314",
+    "1415"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "📜  👑",
+   "start": 580.472,
+   "countdownStart": 582.858,
+   "reveal": 588.858,
+   "end": 592.952
+  },
+  {
+   "q": "In which year did **Elvis** die?",
+   "answers": [
+    "1977",
+    "1975",
+    "1980",
+    "1969"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🎸  🕯️",
+   "start": 592.952,
+   "countdownStart": 595.157,
+   "reveal": 601.157,
+   "end": 604.307
+  },
+  {
+   "q": "Blue and yellow make which **colour**?",
+   "answers": [
+    "Purple",
+    "Green",
+    "Orange",
+    "Brown"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🎨  🖌️",
+   "start": 604.307,
+   "countdownStart": 606.785,
+   "reveal": 612.785,
+   "end": 617.215
+  },
+  {
+   "q": "What is the fear of **spiders** called?",
+   "answers": [
+    "Arachnophobia",
+    "Ophidiophobia",
+    "Acrophobia",
+    "Claustrophobia"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🕷️  😨",
+   "start": 617.215,
+   "countdownStart": 619.273,
+   "reveal": 625.273,
+   "end": 627.974
+  },
+  {
+   "q": "Which is **hotter**?",
+   "answers": [
+    "Lightning",
+    "Sun's surface",
+    "Lava",
+    "A blowtorch"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🔥  ⚡  🌋",
+   "start": 627.974,
+   "countdownStart": 629.234,
+   "reveal": 635.234,
+   "end": 639.48
+  }
+ ],
+ "audio": "audio/auto-2026-10-29-long.mp3",
+ "outroStart": 639.48,
+ "durationInSeconds": 650.94,
+ "teaser": "LOCK IN YOUR ANSWERS"
+}

@@ -1066,9 +1066,18 @@
    "B",
    "C"
   ],
-  "current": "A",
-  "since": "2026-10-25",
-  "results": {},
+  "current": "B",
+  "since": "2026-10-29",
+  "results": {
+   "A": {
+    "views": 4,
+    "ctr": 1.0,
+    "metric": "views/day",
+    "note": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1",
+    "from": "2026-10-25",
+    "to": "2026-10-29"
+   }
+  },
   "done": false
  },
  "scheduledFor": "2026-10-25T14:00+01:00",

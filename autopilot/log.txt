@@ -563,3 +563,37 @@
 [2026-10-28 21:23:14] Analytics gespeichert (41 Videos)
 [2026-10-28 21:23:15] auto-2026-10-28-short-1: Kommentar gepostet
 [2026-10-28 21:23:15] Daily target already completed (Shorts=2, long=1); nothing left to produce.
+[2026-10-29 18:02:41] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-10-29 18:02:41] Analytics gespeichert (41 Videos)
+[2026-10-29 18:02:41] Thumbnail-Test emoji-word-15: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-29 18:02:43] Thumbnail-Test emoji-word-15: jetzt Variante C
+[2026-10-29 18:02:43] Thumbnail-Test halloween-quiz-35-2: Variante B → {'views': 2, 'ctr': 0.5, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-29 18:02:45] Thumbnail-Test halloween-quiz-35-2: jetzt Variante C
+[2026-10-29 18:02:45] Thumbnail-Test over65-memory-50-1: Variante A → {'views': 4, 'ctr': 1.0, 'metric': 'views/day', 'note': '<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1'}
+[2026-10-29 18:02:47] Thumbnail-Test over65-memory-50-1: jetzt Variante B
+[2026-10-29 18:02:47] Produziere auto-2026-10-29-short-1 (short)
+[2026-10-29 18:02:47] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-29 18:02:52] Ton fertig: 6.4 s
+[2026-10-29 18:03:54] Gerendert
+[2026-10-29 18:03:56] Hochgeladen: https://youtube.com/watch?v=bG67Q6LHIiw (public)
+[2026-10-29 18:03:57] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-29 18:03:57] Kommentar gepostet
+[2026-10-29 18:03:57] Produziere auto-2026-10-29-short-2 (short)
+[2026-10-29 18:03:57] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-29 18:04:08] Ton fertig: 14.9 s
+[2026-10-29 18:05:45] Gerendert
+[2026-10-29 18:05:50] Hochgeladen: https://youtube.com/watch?v=CyvjgIYgGs4 (private)
+[2026-10-29 18:05:51] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-10-29 18:05:51] Geplant für 29.10. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-10-29 18:05:51] Kein short-Video in der Warteschlange.
+[2026-10-29 18:05:51] Produziere auto-2026-10-29-long (long)
+[2026-10-29 18:05:51] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-29 18:10:21] Ton fertig: 650.9 s
+[2026-10-29 19:04:13] Gerendert
+[2026-10-29 19:04:31] Hochgeladen: https://youtube.com/watch?v=U8i53jbut9U (public)
+[2026-10-29 19:04:33] Vorschaubild gesetzt
+[2026-10-29 19:04:33] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-10-29 19:04:33] Kommentar gepostet
+[2026-10-29 19:04:33] Kein long-Video in der Warteschlange.
+[2026-10-29 19:04:34] Short-Beschreibung (auto-2026-10-29-short-1) verlinkt auf langes Video U8i53jbut9U
+[2026-10-29 19:04:34] Short-Beschreibung (auto-2026-10-29-short-2) verlinkt auf langes Video U8i53jbut9U

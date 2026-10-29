@@ -1,13 +1,13 @@
 {
- "id": "auto-2026-10-29-short-2",
+ "id": "auto-2026-10-29-short-1",
  "lines": [
   {
-   "q": "Only one in ten adults get this right. How long does Venus take to spin around once? Double tap to lock your answer!",
-   "a": "Two hundred and forty-three Earth days! That's longer than its whole year. Follow if you got it!"
+   "q": "What is the longest river in Asia?",
+   "a": "The Yangtze!"
   }
  ],
  "youtube": {
-  "title": "Can You Answer This Quiz Question? 🤯 #2 #shorts",
+  "title": "Can You Answer This Quiz Question? 🤯 #1 #shorts",
   "description": "One quick question. Comment your answer below and follow for more quizzes.\n\n#quiz #trivia #generalknowledge #quizchallenge",
   "tags": [
    "quiz",
@@ -37,30 +37,36 @@
   "outroSub": "Comment your score 👇",
   "questions": [
    {
-    "q": "How long does **Venus** take to spin once?",
+    "q": "What is the longest river in **Asia**?",
     "answers": [
-     "24 hours",
-     "10 days",
-     "58 days",
-     "243 days"
+     "Ganges",
+     "Mekong",
+     "Yangtze",
+     "Yellow River"
     ],
-    "correct": 3,
-    "level": "HARD",
-    "cardText": "🧟  ⚡",
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🏞️  🐉",
     "start": 0.0,
-    "countdownStart": 2.088,
-    "reveal": 4.588,
-    "end": 7.881
+    "countdownStart": 2.048,
+    "reveal": 4.548,
+    "end": 6.434
    }
   ],
-  "audio": "audio/halloween-trap-3-0.mp3",
-  "outroStart": 22.942,
-  "durationInSeconds": 22.942,
+  "audio": "audio/auto-2026-10-29-short-1.mp3",
+  "outroStart": 6.434,
+  "durationInSeconds": 6.434,
   "format": "short"
  },
  "scheduledFor": "2026-10-20T10:00+02:00",
  "tts": "kokoro",
- "publishAt": "21:00",
+ "publishAt": "16:00",
  "generatedBy": "free-archive-generator",
- "generatedAt": "2026-10-29T08:10"
+ "generatedAt": "2026-10-29T08:10",
+ "playlistAdded": true,
+ "uploaded": {
+  "videoId": "bG67Q6LHIiw",
+  "at": "2026-10-29T18:03"
+ },
+ "linkedLong": "U8i53jbut9U"
 }

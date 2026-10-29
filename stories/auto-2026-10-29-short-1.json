@@ -1,0 +1,39 @@
+{
+ "type": "quiz",
+ "layout": "neon",
+ "title": "Quick General Knowledge Quiz",
+ "header": "GENERAL KNOWLEDGE",
+ "hook": "CAN YOU GET THEM ALL RIGHT?",
+ "teaser": "LOCK IN YOUR ANSWERS",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "What is the longest river in **Asia**?",
+   "answers": [
+    "Ganges",
+    "Mekong",
+    "Yangtze",
+    "Yellow River"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🏞️  🐉",
+   "start": 0.0,
+   "countdownStart": 2.048,
+   "reveal": 4.548,
+   "end": 6.434
+  }
+ ],
+ "audio": "audio/auto-2026-10-29-short-1.mp3",
+ "outroStart": 6.434,
+ "durationInSeconds": 6.434,
+ "format": "short"
+}

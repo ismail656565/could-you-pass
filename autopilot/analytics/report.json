@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-28T21:23",
+ "fetched": "2026-10-29T18:02",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
@@ -83,7 +83,7 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 10443,
+    "views": 10441,
     "engagedViews": 4672
    },
    {
@@ -141,7 +141,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 8,
-   "publicViews": "270"
+   "publicViews": "337"
   },
   {
    "id": "zZDclzxCTSg",
@@ -150,7 +150,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 674,
-   "publicViews": "3"
+   "publicViews": "6"
   },
   {
    "id": "RN2bewj8MMg",
@@ -159,7 +159,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 9,
-   "publicViews": "1076"
+   "publicViews": "1112"
   },
   {
    "id": "9XXjtsGD6GA",
@@ -168,7 +168,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 13,
-   "publicViews": "1114"
+   "publicViews": "1153"
   },
   {
    "id": "JzX5tY6R9Dw",
@@ -692,7 +692,7 @@
     "EXT_URL": 0
    },
    "durationSec": 43,
-   "publicViews": "1045",
+   "publicViews": "1057",
    "engagedShare": 0.492
   },
   {
@@ -1215,7 +1215,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 19,
-   "publicViews": "859",
+   "publicViews": "858",
    "engagedShare": 0.368
   },
   {
@@ -1752,12 +1752,12 @@
     ]
    ],
    "trafficSources": {
-    "SHORTS": 105,
+    "SHORTS": 103,
     "YT_SEARCH": 5,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 39,
-   "publicViews": "142",
+   "publicViews": "140",
    "engagedShare": 0.509
   },
   {
@@ -2309,7 +2309,7 @@
    "id": "PUmp7zv9y4o",
    "title": "4 Trivia Questions Almost Everyone Gets Wrong 🤯 #shorts",
    "published": "2026-10-24T19:00:28Z",
-   "views": 252,
+   "views": 251,
    "engagedViews": 141,
    "averageViewDuration": 31,
    "averageViewPercentage": 83.22,
@@ -2325,16 +2325,16 @@
    },
    "durationSec": 38,
    "publicViews": "251",
-   "engagedShare": 0.56
+   "engagedShare": 0.562
   },
   {
    "id": "QWSNFfisve4",
    "title": "How Many Islands Does Japan Have? 🏝️🤯 #shorts",
    "published": "2026-10-24T14:00:15Z",
-   "views": 710,
-   "engagedViews": 264,
+   "views": 708,
+   "engagedViews": 265,
    "averageViewDuration": 21,
-   "averageViewPercentage": 115.06,
+   "averageViewPercentage": 114.74,
    "likes": 14,
    "comments": 0,
    "subscribersGained": 0,
@@ -2347,7 +2347,7 @@
    },
    "durationSec": 19,
    "publicViews": "714",
-   "engagedShare": 0.372
+   "engagedShare": 0.374
   },
   {
    "id": "ECEdEibYQPY",
@@ -2486,7 +2486,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 384,
-   "publicViews": "43",
+   "publicViews": "45",
    "engagedShare": 0.674
   },
   {
@@ -2560,7 +2560,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 400,
-   "publicViews": "178",
+   "publicViews": "180",
    "engagedShare": 0.37
   },
   {
@@ -2590,7 +2590,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 207,
-   "publicViews": "7",
+   "publicViews": "8",
    "engagedShare": 0.833
   },
   {
