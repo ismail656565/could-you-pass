@@ -109,6 +109,11 @@ jobs:
           RENDER_CONCURRENCY: '100%'
         run: python autopilot/autopilot.py $MODE ${{ github.event.inputs.args }}
 
+      - name: Scoreboard für den Research-Agenten
+        if: env.MODE == 'all' || env.MODE == 'analytics' || env.MODE == 'comments'
+        continue-on-error: true
+        run: python autopilot/research.py
+
       - name: Tagesziel prüfen (2 Shorts + 1 Long)
         if: env.MODE == 'all'
         run: |
