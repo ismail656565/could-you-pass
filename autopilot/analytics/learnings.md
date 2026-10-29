@@ -200,3 +200,13 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Traffic: 95,1 % Shorts-Feed, 3,4 % Suche → Reichweite hängt fast nur am Feed-Hook der ersten Sekunde.
 - Tageskurve: Spitzen ~19.10. (~4k/Tag) und ~27.10. (~3k/Tag), dazwischen Einbruch auf <500/Tag (22.–25.10.). Top-Shorts weiter die alten 6-/8-Fragen-Shorts (Genius 6/6 1.432, 8 Geography 1.325).
 - Folgerung: Shorts bringen Views, aber kaum Abos (+3 aus 18k) → Abos müssen über lange Videos/Serien kommen; bei Shorts weiter auf Swipe-Rate optimieren (Q1 + echtes Foto in Sekunde 1, Zahlen-Falle, Thema im Titel). 6-/8-Fragen-Format (Geo/Genius) als dritte Variante wieder testen, da es die meisten Gesamtviews hat.
+
+## 2026-10-29 – STRATEGIE (Studio-Screenshot Besitzer, lange Videos 01.–28.10.) – GILT AB 30.10.
+- Lange Videos gesamt: 469 Aufrufe, **6.493 Thumbnail-Impressionen, Klickrate 2,9 %**, Ø Wiedergabedauer 1:50. Kurve: Spitze ~18.10. (~110/Tag, Emoji-Video), 21.–23.10. ~80/Tag, seit 25.10. nur ~10–20/Tag.
+- Zuschauer nach 0:30 noch dabei: Emoji-Long 72 %, Halloween-35 53 %.
+- **Diagnose: YouTube zeigt die Videos (6,5k Impressionen), aber zu wenige klicken (2,9 % < 3–4 %).** Engpass = Thumbnail + Titel, nicht das Thema allein. Danach Ø 1:50 → der Einstieg verliert viele Zuschauer.
+- Regeln ab 30.10.:
+  1. Thumbnail A immer mit echtem Foto (`story.thumbImage` aus image-credits.json, Foto verrät keine Antwort) + max. 2–3 riesige Wörter; B/C weiter als Test.
+  2. Titel kurz, Suchbegriff vorne, max. ~60 Zeichen sichtbar ("Animal Quiz: 50 Questions …"); keine Alters-Titel mehr (1–4 Views).
+  3. Einstieg max. 1 Satz vor Frage 1 (lange Intros wie bei Citizenship kosten die ersten 30 s).
+  4. Format mit der besten Bindung (Emoji-Long 72 % nach 0:30, 52,9 % Ø angesehen) wieder testen: "Guess the ___ by Emoji" als langes Video ~1×/Woche.

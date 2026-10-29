@@ -210,7 +210,7 @@
  ],
  "youtube": {
   "title": "Animal Quiz: 50 Questions From Easy to Legend 🐾 | How Many Can You Get?",
-  "description": "50 animal trivia questions, from easy to legend 🐾 Babies, speed records, strange skills and the toughest animal facts. Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#AnimalQuiz #AnimalTrivia #TriviaQuiz #Quiz #GeneralKnowledge #AnimalFacts\n\nMusic: original.",
+  "description": "50 animal trivia questions, from easy to legend 🐾 Babies, speed records, strange skills and the toughest animal facts. Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#AnimalQuiz #AnimalTrivia #TriviaQuiz #Quiz #GeneralKnowledge #AnimalFacts\n\nPhotos via Wikimedia Commons: Polar bear – Arturo de Frias Marques (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "animal quiz",
    "animal trivia",
@@ -854,6 +854,7 @@
     "level": "LEGEND",
     "cardText": "🚀"
    }
-  ]
+  ],
+  "thumbImage": "bilder/q2-bear.jpg"
  }
 }
