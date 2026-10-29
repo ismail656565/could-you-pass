@@ -433,13 +433,21 @@ def add_to_playlist(y, vid, name):
 
 
 def already_uploaded(y, title):
-    """Schutz gegen Doppel-Uploads: gleicher Titel unter den letzten 15 Kanal-Uploads (inkl. geplante/private)?"""
+    """Nur gleiche Titel von heute blockieren; alte Tagesvideos dürfen den neuen Upload nicht verhindern."""
+    from zoneinfo import ZoneInfo
+    today = dt.datetime.now(ZoneInfo('Europe/Berlin')).date().isoformat()
     ch = y.channels().list(part='contentDetails', mine=True).execute()['items'][0]
     up = ch['contentDetails']['relatedPlaylists']['uploads']
-    r = y.playlistItems().list(part='snippet', playlistId=up, maxResults=15).execute()
+    r = y.playlistItems().list(part='snippet', playlistId=up, maxResults=50).execute()
     for it in r.get('items', []):
-        if it['snippet']['title'].strip() == title.strip()[:100]:
-            return it['snippet']['resourceId']['videoId']
+        snippet = it.get('snippet', {})
+        if snippet.get('title', '').strip() != title.strip()[:100]:
+            continue
+        # YouTube's publishedAt is the best available timestamp for an upload,
+        # including scheduled/private videos. Do not mistake yesterday's title for today's upload.
+        published = snippet.get('publishedAt', '')
+        if published[:10] == today:
+            return it.get('snippet', {}).get('resourceId', {}).get('videoId')
     return None
 
 
@@ -448,8 +456,10 @@ def upload(item, mp4):
     meta = item['youtube']
     dup = already_uploaded(yt(), meta['title'])
     if dup:
-        log(f'Schon hochgeladen ({dup}) – kein zweiter Upload')
-        return dup
+        raise RuntimeError(
+            f'Doppelter Titel bereits heute hochgeladen ({dup}); '
+            'dieser Queue-Eintrag wird nicht fälschlich als neuer Upload markiert.'
+        )
     privacy = env().get('PRIVACY') or os.environ.get('PRIVACY', 'public')
     body = {
         'snippet': {'title': meta['title'][:100], 'description': with_chapters(item, meta.get('description', '')), 'tags': meta.get('tags', []),
