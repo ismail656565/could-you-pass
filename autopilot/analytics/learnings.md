@@ -194,3 +194,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Ursachen: (1) geplante Claude-Aufgabe hat am 27.–29.10. nicht ausgelöst → nur noch Ersatz-Generator generate_queue.py; (2) generate_queue.py brach am 29.10. ab und stoppte damit den ganzen Lauf (kein Upload bis zum manuellen Lauf 19 Uhr); (3) Ersatz-Generator gab täglich identische Titel → Doppel-Upload-Schutz übersprang das lange Video am 28.10.; (4) Vorlagen-Reste (Citizenship-Thumbnail/Outro, Venus-Frage erneut).
 - Fix: generate_queue continue-on-error, eindeutige Titel, Vorlagen-Bilder/Texte entfernt, keine Frage doppelt am Tag, Long nach Level sortiert, tvshow. Geplante Aufgabe mit neuem Prompt (2 Shorts + 1 Long täglich, tvshow, 50 Q, kein vidIQ bis 16.11.) neu gespeichert.
 - Langvideos Stand 29.10.: Citizenship 10 public Views (Ø 99 % der wenigen Zuschauer), Over-65 4, GK-If-40 1, 1960s 2 → Senioren-GK-Titel ohne Reichweite; nächster Test: Suchthema "Animal Quiz" (30.10.).
+
+## 2026-10-29 – Studio-Screenshot Besitzer (Shorts, 01.–28.10.)
+- Shorts gesamt: 18.432 Aufrufe, 8.839 engaged (48 %), 267 Likes, nur +3 Abos. Angesehen vs. weggewischt: 46,3 % / 53,7 % (Ziel ≥65 %).
+- Traffic: 95,1 % Shorts-Feed, 3,4 % Suche → Reichweite hängt fast nur am Feed-Hook der ersten Sekunde.
+- Tageskurve: Spitzen ~19.10. (~4k/Tag) und ~27.10. (~3k/Tag), dazwischen Einbruch auf <500/Tag (22.–25.10.). Top-Shorts weiter die alten 6-/8-Fragen-Shorts (Genius 6/6 1.432, 8 Geography 1.325).
+- Folgerung: Shorts bringen Views, aber kaum Abos (+3 aus 18k) → Abos müssen über lange Videos/Serien kommen; bei Shorts weiter auf Swipe-Rate optimieren (Q1 + echtes Foto in Sekunde 1, Zahlen-Falle, Thema im Titel). 6-/8-Fragen-Format (Geo/Genius) als dritte Variante wieder testen, da es die meisten Gesamtviews hat.
