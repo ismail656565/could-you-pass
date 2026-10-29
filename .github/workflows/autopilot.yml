@@ -72,6 +72,8 @@ jobs:
 
       - name: Warteschlange automatisch auffüllen
         if: env.MODE == 'all'
+        # Ein Fehler beim Auffüllen darf den Upload bereits vorhandener Queue-Einträge nie blockieren.
+        continue-on-error: true
         run: python autopilot/generate_queue.py
 
       - name: Kokoro-Stimmenmodell (Cache)
@@ -127,7 +129,7 @@ jobs:
         with:
           name: videos
           path: out/*.mp4
-          if-no-files-found: error
+          if-no-files-found: warn
           retention-days: 14
 
       - name: Ergebnisse zurück ins Repository

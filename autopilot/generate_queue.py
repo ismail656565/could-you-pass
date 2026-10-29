@@ -61,6 +61,31 @@ BANK = [
     ("Which force keeps planets in orbit around the Sun?", ["Magnetism", "Friction", "Gravity", "Electricity"], 2, "Gravity! It keeps planets bound to the Sun while they move through space.", "🌌", "SPACE"),
 ]
 
+LONG_TITLES = [
+    "If You Get 40 Right, Your Memory Is Excellent 🧠",
+    "Are You Over 60? Let's Check Your Memory 🧠",
+    "Your IQ Is Above Average If You Get 35+ Right 🧠",
+    "How Sharp Is Your Brain? 50 Questions From Easy to Legend",
+    "Only 1 in 10 Can Get 45/50 🧠",
+]
+
+
+def strip_intro(text):
+    """Remove intros/hooks copied from older items so a line starts with the question."""
+    text = str(text or "")
+    for prefix in ("Welcome back, quiz friends!", "Grab a pen and keep score.", "Quick quiz!",
+                   "Only one in ten adults get this right."):
+        text = text.replace(prefix, "")
+    text = text.replace("Double tap to lock your answer!", "").replace("Think fast, and lock in your answer.", "")
+    text = re.sub(r"^\s*(Fifty|Forty|Thirty-five|Forty-five) questions[^.?!]*[.?!]", "", text.strip())
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def fmt_of_path(path):
+    item = read_json(path)
+    return "long" if item.get("story", {}).get("format") == "long" else "short"
+
+
 def read_json(path):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -108,6 +133,7 @@ def ensure_queue():
             done_today[fmt(item)] += 1
 
     queued = {"short": [], "long": []}
+    queued_keys = set()
     for path in sorted(QUEUE.glob("*.json")):
         item = read_json(path)
         kind = fmt(item)
@@ -116,6 +142,7 @@ def ensure_queue():
             key = re.sub(r"[^a-z0-9]+", " ", str(question.get("q", "")).lower()).strip()
             if key:
                 used.add(key)
+                queued_keys.add(key)
 
     missing = {
         "short": max(0, 2 - done_today["short"] - len(queued["short"])),
@@ -131,7 +158,7 @@ def ensure_queue():
     pool = []
     recycled_pool = []
     templates = {"short": [], "long": []}
-    used_today = set()
+    used_today = set(queued_keys)
     for path in DONE.glob("*.json"):
         item = read_json(path)
         if item.get("uploaded", {}).get("at", "").startswith(today.isoformat()):
@@ -224,7 +251,10 @@ def ensure_queue():
         specs.append((suffix, "short", pool[cursor:cursor + 1], ("16:00", "21:00")[min(slot, 1)]))
         cursor += 1
     if missing["long"]:
-        specs.append(("long", "long", pool[cursor:cursor + 50], "14:00"))
+        rank = {"EASY": 0, "MEDIUM": 1, "HARD": 2, "VERY HARD": 3, "EXPERT": 3, "LEGEND": 4}
+        long_rows = sorted(pool[cursor:cursor + 50],
+                           key=lambda r: rank.get(str(r["question"].get("level", "MEDIUM")).upper(), 1))
+        specs.append(("long", "long", long_rows, "14:00"))
 
     for suffix, fmt, rows, publish_at in specs:
         template = random.Random(today.toordinal() + len(suffix)).choice(templates[fmt])
@@ -244,29 +274,62 @@ def ensure_queue():
         new_questions = []
         for index, row in enumerate(rows):
             question = copy.deepcopy(skeleton[index])
-            for field in ("q", "answers", "correct", "level", "cardText"):
+            # Template visuals belong to the template's question (e.g. a Venus photo) – drop them.
+            for field in ("image", "revealImage", "revealCaption", "cardText"):
+                question.pop(field, None)
+            for field in ("q", "answers", "correct", "level", "cardText", "image", "revealImage", "revealCaption"):
                 if field in row["question"]:
                     question[field] = copy.deepcopy(row["question"][field])
+            if not question.get("image") and not question.get("cardText"):
+                question["cardText"] = "❓"
             new_questions.append(question)
         item["story"]["questions"] = new_questions
         item["story"]["format"] = fmt
-        item["story"]["title"] = "50 Question General Knowledge Quiz" if fmt == "long" else "Quick General Knowledge Quiz"
-        item["story"]["header"] = "GENERAL KNOWLEDGE"
-        item["story"]["hook"] = "CAN YOU GET THEM ALL RIGHT?"
-        item["story"]["teaser"] = "LOCK IN YOUR ANSWERS"
+        n_auto = sum(1 for p in DONE.glob("auto-*.json") if fmt_of_path(p) == fmt) + 1
+        story = item["story"]
+        story["layout"] = "tvshow"
+        for key in ("thumbImage", "thumbPuzzle"):
+            story.pop(key, None)
+        first_q = str(rows[0]["question"].get("q", "")).replace("**", "").strip()
+        if fmt == "long":
+            pattern = LONG_TITLES[n_auto % len(LONG_TITLES)]
+            title = f"{pattern} | General Knowledge Quiz #{n_auto}"
+            story.update({
+                "title": "50 Question General Knowledge Quiz", "header": "GENERAL KNOWLEDGE",
+                "hook": "CAN YOU GET 40/50? 🧠", "finalLabel": "FINAL QUESTION 🔥",
+                "thumbTexts": ["GENERAL **KNOWLEDGE**", "CAN YOU GET **40/50**?", "TEST YOUR **MEMORY**"],
+                "thumbEmoji": "🧠", "thumbBadge": "50 QUESTIONS · EASY → LEGEND",
+            })
+            item["outroLine"] = ("How many did you get? Comment your score below, "
+                                 "and subscribe with the bell on for a new quiz every day!")
+            item["lines"][0]["q"] = ("Welcome back, quiz friends! Fifty questions, grab a pen and keep score. "
+                                     + strip_intro(item["lines"][0]["q"]))
+            mid = min(int(story.get("midCtaIndex") or 24), len(item["lines"]) - 2)
+            story["midCtaIndex"] = mid
+            item["lines"][mid]["a"] = (item["lines"][mid]["a"].rstrip()
+                                       + " If you're enjoying this, subscribe and turn on the bell!")
+            description = ("50 general knowledge questions, from easy to legend. How many can you get right? 🧠\n"
+                           "Comment your score 👇\n\nSubscribe for a new quiz every day! 🔔")
+        else:
+            title = f"{first_q[:80]} 🤯 #shorts"
+            story.update({
+                "title": "Trivia", "header": "TRIVIA", "hook": "CAN YOU GET THIS? 🤔",
+                "teaser": "DOUBLE TAP TO LOCK IN ❤️", "finalLabel": "", "ctaText": "Follow if you got it ✅",
+                "outroText": "Did you get it?", "outroSub": "Comment 👇",
+            })
+            line = item["lines"][0]
+            line["q"] = strip_intro(line["q"])
+            description = ("Quick quiz question 🤯 Did you get it?\nComment your answer 👇\n\n"
+                           "Follow for a new quiz every day! 🧠")
         item["youtube"] = {
-            "title": (
-                "50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge"
-                if fmt == "long" else
-                f"Can You Answer This Quiz Question? 🤯 #{1 if suffix == 'short-1' else 2} #shorts"
-            ),
-            "description": (
-                "Take the 50-question general knowledge challenge. Comment your score and subscribe for more quizzes."
-                if fmt == "long" else
-                "One quick question. Comment your answer below and follow for more quizzes."
-            ) + "\n\n#quiz #trivia #generalknowledge #quizchallenge",
-            "tags": ["quiz", "trivia", "general knowledge", "quiz challenge", "brain test"] + (["shorts"] if fmt == "short" else []),
-            "comment": "What score did you get? Comment below!"
+            "title": title[:100],
+            "description": description + "\n\n#quiz #trivia #generalknowledge #quizchallenge"
+                           + (" #shorts" if fmt == "short" else "") + "\n\nMusic: original.",
+            "tags": ["quiz", "trivia", "general knowledge quiz", "quiz challenge", "brain test", "trivia questions"]
+                    + (["shorts"] if fmt == "short" else ["memory test", "50 question quiz"]),
+            "comment": "What score did you get? Comment below! 👇" if fmt == "long"
+                       else "What did you answer? Comment below! 👇",
+            "categoryId": "24",
         }
         item["publishAt"] = publish_at
         item["generatedBy"] = "free-archive-generator"
