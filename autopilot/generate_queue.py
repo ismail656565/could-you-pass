@@ -153,7 +153,7 @@ def ensure_queue():
         questions = story.get("questions", [])
         lines = item.get("lines", [])
         if questions and len(questions) == len(lines):
-            if len(questions) >= (20 if fmt == "long" else 1):
+            if len(questions) >= (50 if fmt == "long" else 1):
                 templates[fmt].append(item)
             for q, line in zip(questions, lines):
                 key = norm(q.get("q"))
@@ -201,7 +201,7 @@ def ensure_queue():
     if not templates["short"]:
         raise RuntimeError("No compatible one-question Short template found in autopilot/queue/done or autopilot/test.")
     if not templates["long"]:
-        raise RuntimeError("No compatible 20-question long-video template found in autopilot/queue/done or autopilot/test.")
+        raise RuntimeError("No compatible 50-question long-video template found in autopilot/queue/done or autopilot/test.")
 
     needed = missing["short"] * 1 + missing["long"] * 50
     if len(pool) < needed:
