@@ -1,0 +1,66 @@
+{
+ "id": "auto-2026-10-29-short-1",
+ "lines": [
+  {
+   "q": "What is the longest river in Asia?",
+   "a": "The Yangtze!"
+  }
+ ],
+ "youtube": {
+  "title": "Can You Answer This Quiz Question? 🤯 #1 #shorts",
+  "description": "One quick question. Comment your answer below and follow for more quizzes.\n\n#quiz #trivia #generalknowledge #quizchallenge",
+  "tags": [
+   "quiz",
+   "trivia",
+   "general knowledge",
+   "quiz challenge",
+   "brain test",
+   "shorts"
+  ],
+  "comment": "What score did you get? Comment below!"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "neon",
+  "title": "Quick General Knowledge Quiz",
+  "header": "GENERAL KNOWLEDGE",
+  "hook": "CAN YOU GET THEM ALL RIGHT?",
+  "teaser": "LOCK IN YOUR ANSWERS",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "What is the longest river in **Asia**?",
+    "answers": [
+     "Ganges",
+     "Mekong",
+     "Yangtze",
+     "Yellow River"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🏞️  🐉",
+    "start": 0.0,
+    "countdownStart": 2.088,
+    "reveal": 4.588,
+    "end": 7.881
+   }
+  ],
+  "audio": "audio/halloween-trap-3-0.mp3",
+  "outroStart": 22.942,
+  "durationInSeconds": 22.942,
+  "format": "short"
+ },
+ "scheduledFor": "2026-10-20T10:00+02:00",
+ "tts": "kokoro",
+ "publishAt": "16:00",
+ "generatedBy": "free-archive-generator",
+ "generatedAt": "2026-10-29T08:10"
+}
