@@ -13,7 +13,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'all | dryrun | comments | playlists | analytics | private | outliers | keywords'
+        description: 'all | dryrun | comments | playlists | analytics | private | outliers | keywords | competitors'
         required: false
         default: 'all'
       args:
@@ -44,7 +44,7 @@ jobs:
         run: git pull --ff-only origin main
 
       - uses: actions/setup-node@v4
-        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords'
+        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords' && env.MODE != 'competitors'
         with:
           node-version: 20
           cache: npm
@@ -54,14 +54,14 @@ jobs:
           python-version: '3.12'
 
       - name: System-Pakete (ffmpeg, Emoji-Schrift)
-        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords'
+        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords' && env.MODE != 'competitors'
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji fonts-noto-core
           fc-cache -f
 
       - name: Abhängigkeiten
-        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords'
+        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords' && env.MODE != 'competitors'
         run: |
           npm ci
           npx remotion browser ensure
@@ -69,7 +69,7 @@ jobs:
       - name: Python-Pakete
         run: |
           pip install -q google-api-python-client google-auth-oauthlib requests numpy imageio-ffmpeg
-          if [ "$MODE" != "comments" ] && [ "$MODE" != "outliers" ] && [ "$MODE" != "keywords" ]; then pip install -q kokoro-onnx soundfile; fi
+          if [ "$MODE" != "comments" ] && [ "$MODE" != "outliers" ] && [ "$MODE" != "keywords" ] && [ "$MODE" != "competitors" ]; then pip install -q kokoro-onnx soundfile; fi
 
       - name: Keyword-Recherche (kostenloser vidIQ-Ersatz, montags + mode=keywords)
         if: env.MODE == 'keywords' || env.MODE == 'all'
@@ -84,14 +84,14 @@ jobs:
         run: python autopilot/generate_queue.py
 
       - name: Kokoro-Stimmenmodell (Cache)
-        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords'
+        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords' && env.MODE != 'competitors'
         uses: actions/cache@v4
         with:
           path: models
           key: kokoro-v1.0
 
       - name: Kokoro-Stimmenmodell laden
-        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords'
+        if: env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords' && env.MODE != 'competitors'
         run: |
           mkdir -p models
           [ -f models/kokoro-v1.0.onnx ] || curl -sSL -o models/kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
@@ -137,7 +137,7 @@ jobs:
           PY
 
       - name: Fertiges Video zum Ansehen speichern
-        if: always() && env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords'
+        if: always() && env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords' && env.MODE != 'competitors'
         uses: actions/upload-artifact@v4
         with:
           name: videos

@@ -11,6 +11,7 @@ Benötigt (setup.bat installiert alles):
 """
 import datetime as dt
 import json
+import statistics
 import os
 import re
 import shutil
@@ -795,6 +796,92 @@ def outliers(days=30, max_subs=100000):
     log(f"Ausreißer-Scan: {len(rows)} Videos geprüft, {len(out['long'])} lange + {len(out['short'])} Shorts gespeichert")
 
 
+def competitors(max_channels=25, days=60):
+    """Konkurrenz-Beobachtung: verfolgt kleine/mittlere Quiz-Kanäle (aus dem Ausreißer-Scan + Liste
+    analytics/competitors.json) und findet deren GEWINNER-Videos (Views im Verhältnis zum eigenen
+    Kanal-Median). Ergebnis: analytics/competitors.md/.json. ~3 Quota-Einheiten pro Kanal."""
+    y = yt()
+    now = dt.datetime.now(dt.timezone.utc)
+    cfile = AP / 'analytics' / 'competitors.json'
+    conf = json.loads(cfile.read_text(encoding='utf-8')) if cfile.exists() else {}
+    tracked = {c['id']: c for c in conf.get('channels', [])}
+    # neue Kandidaten aus dem Ausreißer-Scan (Video-IDs -> Kanal-IDs)
+    of = AP / 'analytics' / 'outliers.json'
+    if of.exists():
+        o = json.loads(of.read_text(encoding='utf-8'))
+        cand = sorted(o.get('long', []) + o.get('short', []), key=lambda r: -r.get('ratio', 0))[:40]
+        ids = [r['id'] for r in cand]
+        for i in range(0, len(ids), 50):
+            for it in y.videos().list(part='snippet', id=','.join(ids[i:i + 50])).execute().get('items', []):
+                cid = it['snippet']['channelId']
+                if cid not in tracked and len(tracked) < max_channels:
+                    tracked[cid] = {'id': cid, 'name': it['snippet']['channelTitle'], 'source': 'outlier-scan',
+                                    'added': now.date().isoformat()}
+    if not tracked:
+        log('Konkurrenz: keine Kanäle bekannt (erst Ausreißer-Scan laufen lassen)')
+        return
+    cids = list(tracked)
+    chans = {}
+    for i in range(0, len(cids), 50):
+        for c in y.channels().list(part='snippet,statistics,contentDetails', id=','.join(cids[i:i + 50])).execute().get('items', []):
+            chans[c['id']] = c
+    winners, summary = [], []
+    for cid, c in chans.items():
+        try:
+            up = c['contentDetails']['relatedPlaylists']['uploads']
+            items = y.playlistItems().list(part='contentDetails', playlistId=up, maxResults=50).execute().get('items', [])
+            vids = [it['contentDetails']['videoId'] for it in items]
+            data = y.videos().list(part='snippet,statistics,contentDetails', id=','.join(vids)).execute().get('items', []) if vids else []
+        except Exception as ex:
+            log(f"Konkurrenz {c['snippet']['title']}: {ex}")
+            continue
+        rows = []
+        for v in data:
+            sn, st = v['snippet'], v.get('statistics', {})
+            pub = dt.datetime.fromisoformat(sn['publishedAt'].replace('Z', '+00:00'))
+            age = (now - pub).total_seconds() / 86400
+            sec = parse_dur(v['contentDetails'].get('duration'))
+            rows.append({'id': v['id'], 'title': sn['title'], 'views': int(st.get('viewCount') or 0),
+                         'likes': int(st.get('likeCount') or 0), 'comments': int(st.get('commentCount') or 0),
+                         'seconds': sec, 'format': 'short' if sec <= 180 else 'long', 'ageDays': round(age, 1),
+                         'published': sn['publishedAt'][:10], 'url': f"https://youtube.com/watch?v={v['id']}"})
+        subs = int(c['statistics'].get('subscriberCount') or 0)
+        name = c['snippet']['title']
+        tracked[cid]['name'] = name
+        hist = tracked[cid].setdefault('subsHistory', {})
+        hist[now.date().isoformat()] = subs
+        for f in ('short', 'long'):
+            fr = [r for r in rows if r['format'] == f and r['ageDays'] >= 3]
+            if not fr:
+                continue
+            med = statistics.median([r['views'] for r in fr]) or 1
+            recent = [r for r in fr if r['ageDays'] <= days]
+            per_week = round(len([r for r in rows if r['format'] == f and r['ageDays'] <= 28]) / 4, 1)
+            summary.append({'channel': name, 'id': cid, 'subs': subs, 'format': f, 'median': int(med), 'perWeek': per_week,
+                            'best': max(fr, key=lambda r: r['views'])['title']})
+            for r in recent:
+                score = r['views'] / max(med, 50)
+                if score >= 2.5 and r['views'] >= 3000:
+                    winners.append(dict(r, channel=name, subs=subs, score=round(score, 1), channelMedian=int(med)))
+    winners.sort(key=lambda r: -r['score'])
+    conf['channels'] = list(tracked.values())
+    cfile.write_text(json.dumps(conf, indent=1, ensure_ascii=False), encoding='utf-8')
+    out = {'fetched': now.isoformat(timespec='minutes'), 'summary': summary, 'winners': winners[:60]}
+    (AP / 'analytics' / 'competitors-report.json').write_text(json.dumps(out, indent=1, ensure_ascii=False), encoding='utf-8')
+    md = [f"# Konkurrenz-Beobachtung {now:%Y-%m-%d} ({len(chans)} Kanäle)", '',
+          'Gewinner = Video mit ≥ 2,5 × Views des eigenen Kanal-Medians (gleiches Format, letzte ' + str(days) + ' Tage, ≥ 3.000 Views).',
+          'Nutzen: IDEEN übernehmen (Thema, Format, Titel-Muster, Länge, Thumbnail-Prinzip) – nie Fragen, Skripte oder Bilder 1:1 kopieren.', '',
+          '## Gewinner-Videos (höchster Faktor zuerst)', '', '| × Median | Views | Länge | Titel | Kanal (Abos) | Datum |', '|---|---|---|---|---|---|']
+    for r in winners[:40]:
+        md.append(f"| {r['score']} | {r['views']:,} | {r['seconds'] // 60}:{r['seconds'] % 60:02d} | "
+                  f"[{r['title'].replace('|', '/')}]({r['url']}) | {r['channel'].replace('|', '/')} ({r['subs']:,}) | {r['published']} |")
+    md += ['', '## Kanäle', '', '| Kanal | Abos | Format | Median-Views | Uploads/Woche | bestes Video |', '|---|---|---|---|---|---|']
+    for s_ in sorted(summary, key=lambda s_: -s_['median']):
+        md.append(f"| {s_['channel'].replace('|', '/')} | {s_['subs']:,} | {s_['format']} | {s_['median']:,} | {s_['perWeek']} | {s_['best'].replace('|', '/')[:70]} |")
+    (AP / 'analytics' / 'competitors.md').write_text('\n'.join(md) + '\n', encoding='utf-8')
+    log(f'Konkurrenz: {len(chans)} Kanäle, {len(winners)} Gewinner-Videos')
+
+
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else 'all'
     AP.mkdir(exist_ok=True)
@@ -886,6 +973,8 @@ def main():
                 if story.get('format') == 'long':
                     render_thumbs(f'test-{name}', story)
                 log(f'Testlauf {name}: {len(times)} Standbilder in autopilot/test/frames')
+    elif cmd == 'competitors':
+        competitors()
     elif cmd == 'outliers':
         outliers(int(sys.argv[2]) if len(sys.argv) > 2 else 30)
     elif cmd == 'thumbs':
@@ -915,6 +1004,10 @@ def main():
                     outliers()
             except Exception:
                 log('Ausreißer-Scan-FEHLER:', traceback.format_exc())
+            try:
+                competitors()
+            except Exception:
+                log('Konkurrenz-FEHLER:', traceback.format_exc())
 
 
 if __name__ == '__main__':
