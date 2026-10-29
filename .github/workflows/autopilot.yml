@@ -99,13 +99,35 @@ jobs:
           RENDER_CONCURRENCY: '100%'
         run: python autopilot/autopilot.py $MODE ${{ github.event.inputs.args }}
 
+      - name: Tagesziel prüfen (2 Shorts + 1 Long)
+        if: env.MODE == 'all'
+        run: |
+          python - <<'PY'
+          import datetime, json
+          from pathlib import Path
+          today = datetime.date.today().isoformat()
+          counts = {"short": 0, "long": 0}
+          for path in Path("autopilot/queue/done").glob("*.json"):
+              try:
+                  item = json.loads(path.read_text(encoding="utf-8"))
+                  if not item.get("uploaded", {}).get("at", "").startswith(today):
+                      continue
+                  kind = "long" if item.get("story", {}).get("format") == "long" else "short"
+                  counts[kind] += 1
+              except Exception:
+                  continue
+          print(f"Today's completed uploads: Shorts={counts['short']}, long={counts['long']}")
+          if counts["short"] < 2 or counts["long"] < 1:
+              raise SystemExit("DAILY TARGET NOT MET: expected 2 Shorts and 1 long video. Workflow must stay red.")
+          PY
+
       - name: Fertiges Video zum Ansehen speichern
-        if: always()
+        if: always() && env.MODE != 'comments' && env.MODE != 'outliers'
         uses: actions/upload-artifact@v4
         with:
           name: videos
           path: out/*.mp4
-          if-no-files-found: ignore
+          if-no-files-found: error
           retention-days: 14
 
       - name: Ergebnisse zurück ins Repository
