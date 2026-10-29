@@ -180,13 +180,13 @@ def ensure_queue():
         questions = story.get("questions", [])
         lines = item.get("lines", [])
         if questions and len(questions) == len(lines):
-            if len(questions) >= (50 if fmt == "long" else 1):
+            if len(questions) >= (50 if fmt == "long" else 1) and not any(q.get("values") for q in questions):
                 templates[fmt].append(item)
             for q, line in zip(questions, lines):
                 key = norm(q.get("q"))
                 if not key or key in used_today:
                     continue
-                if not isinstance(q.get("answers"), list) or len(q["answers"]) < 2:
+                if q.get("values") or not isinstance(q.get("answers"), list) or len(q["answers"]) != 4:
                     continue
                 correct = q.get("correct")
                 if not isinstance(correct, int) or not 0 <= correct < len(q["answers"]):
@@ -275,7 +275,7 @@ def ensure_queue():
         for index, row in enumerate(rows):
             question = copy.deepcopy(skeleton[index])
             # Template visuals belong to the template's question (e.g. a Venus photo) – drop them.
-            for field in ("image", "revealImage", "revealCaption", "cardText"):
+            for field in ("image", "revealImage", "revealCaption", "cardText", "values", "valueLabels", "icons", "images"):
                 question.pop(field, None)
             for field in ("q", "answers", "correct", "level", "cardText", "image", "revealImage", "revealCaption"):
                 if field in row["question"]:

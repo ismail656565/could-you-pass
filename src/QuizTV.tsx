@@ -439,3 +439,76 @@ export const TvThumb: React.FC<{story: QuizStory & {thumbImage?: string; thumbBa
     </AbsoluteFill>
   );
 };
+
+// ---------------------------------------------------------------- Vergleichs-Quiz (Short 1080x1920)
+// Frage mit genau 2 Antworten + q.values: zwei Seiten (Foto aus image-credits oder Emoji), Countdown,
+// danach wachsen zwei Balken auf die echten Werte (q.valueLabels als Beschriftung), Gewinner wird grün.
+const C2 = {COL_W: 470, L_X: 50, R_X: 560, PIC_Y: 500, PIC_H: 330, LBL_Y: 860, LBL_H: 110, BAR_BOTTOM: 1700, BAR_MAX: 560};
+
+const fmtNum = (v: number) => (Math.abs(v) >= 100 ? Math.round(v).toLocaleString('en-US') : (Math.round(v * 10) / 10).toString());
+
+export const CompareScene: React.FC<{q: QuizQuestion; index: number; total: number; story: QuizStory}> = ({q, index, total, story}) => {
+  const frame = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  const t = q.start + frame / fps;
+  const revealed = t >= q.reveal;
+  const revealFrame = Math.round((q.reveal - q.start) * fps);
+  const since = frame - revealFrame;
+  const vals = q.values ?? [1, 1];
+  const max = Math.max(...vals, 1e-9);
+  const grow = revealed ? spring({frame: since, fps, config: {damping: 18, mass: 0.9}, durationInFrames: Math.round(fps * 1.1)}) : 0;
+  const enter = index === 0 ? 1 : interpolate(frame, [0, 8], [0, 1], {extrapolateRight: 'clamp'});
+  const plain = q.q.replace(/\*\*/g, '');
+  return (
+    <AbsoluteFill>
+      <TvBackground />
+      <Header q={q} index={index} total={total} header={story.header} x={S.LEFT + 10} y={160} w={S.FULL_W - 20} size={36} />
+      <div style={{position: 'absolute', inset: 0, opacity: enter}}>
+        <Lozenge x={S.LEFT - 20} y={250} w={S.FULL_W + 40} h={210}>
+          <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 800, fontSize: qSizeFor(plain, 76), lineHeight: 1.12, color: T.white}}>
+            <TvHighlighted text={q.q} accent={story.accent ?? T.gold} />
+          </div>
+        </Lozenge>
+        {q.answers.slice(0, 2).map((a, i) => {
+          const x = i === 0 ? C2.L_X : C2.R_X;
+          const ok = i === q.correct;
+          const st = answerState(revealed, ok, since);
+          const img = q.images?.[i];
+          const icon = q.icons?.[i];
+          const h = Math.max(0.06, vals[i] / max) * C2.BAR_MAX * grow;
+          const label = q.valueLabels?.[i] ?? fmtNum(vals[i] * grow);
+          return (
+            <React.Fragment key={i}>
+              <div style={{position: 'absolute', left: x, top: C2.PIC_Y, width: C2.COL_W, height: C2.PIC_H, borderRadius: 22, overflow: 'hidden', border: `4px solid ${st === 'right' || st === 'lock' ? T.gold : T.silver}`, background: `linear-gradient(180deg, ${T.blue}, ${T.navy})`, opacity: st === 'dim' ? 0.5 : 1, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+                {img ? <Img src={staticFile(img)} style={{width: '100%', height: '100%', objectFit: 'cover'}} /> : <div style={{fontSize: 170, lineHeight: 1}}>{icon ?? (i === 0 ? '🅰️' : '🅱️')}</div>}
+              </div>
+              <Lozenge x={x - 10} y={C2.LBL_Y} w={C2.COL_W + 20} h={C2.LBL_H} state={st} style={{opacity: st === 'dim' ? 0.55 : 1}}>
+                <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: a.length > 14 ? 38 : 48, color: st === 'normal' ? T.white : '#040A2C'}}>{a}</div>
+              </Lozenge>
+              {revealed ? (
+                <>
+                  <div style={{position: 'absolute', left: x + 85, top: C2.BAR_BOTTOM - h, width: C2.COL_W - 170, height: h, borderRadius: '18px 18px 4px 4px', background: ok ? `linear-gradient(180deg, ${T.greenLight}, ${T.green})` : `linear-gradient(180deg, ${T.silver}, #7C8AA5)`, border: `3px solid ${ok ? T.gold : T.silver}`}} />
+                  <div style={{position: 'absolute', left: x, width: C2.COL_W, top: C2.BAR_BOTTOM - h - 82, textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: 56, color: ok ? T.gold : T.white, opacity: interpolate(since, [2, 8], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})}}>{label}</div>
+                </>
+              ) : null}
+            </React.Fragment>
+          );
+        })}
+        {!revealed ? (
+          <div style={{position: 'absolute', left: 540 - 70, top: C2.PIC_Y + C2.PIC_H / 2 - 70, width: 140, height: 140, borderRadius: 70, background: '#040A2C', border: `4px solid ${T.gold}`, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: FONT, fontWeight: 900, fontSize: 56, color: T.gold, opacity: t >= q.countdownStart ? 0 : 1}}>VS</div>
+        ) : null}
+        <div style={{position: 'absolute', left: S.LEFT, top: C2.BAR_BOTTOM + 6, width: S.FULL_W, height: 6, background: T.silver, opacity: revealed ? 0.6 : 0}} />
+      </div>
+      <TvTimer q={q} x={540 - 85} y={1180} size={170} />
+      {index === 0 && story.hook ? <Banner text={story.hook} x={S.LEFT + 24} y={C2.PIC_Y - 10} size={42} until={2.8} /> : null}
+      {index === 0 && story.teaser ? <Banner text={story.teaser} x={S.LEFT + 24} y={C2.PIC_Y - 10} size={42} from={story.hook ? 2.8 : 0} color={T.silver} /> : null}
+      {index === total - 1 && index > 0 && story.finalLabel ? <Banner text={story.finalLabel} x={S.LEFT + 24} y={C2.PIC_Y - 10} size={42} /> : null}
+      {story.midLabel && index === Math.floor(total / 2) && index !== total - 1 ? <Banner text={story.midLabel} x={S.LEFT + 24} y={C2.PIC_Y - 10} size={42} from={1.2} color={T.silver} /> : null}
+      {index === total - 1 && story.ctaText && revealed ? (
+        <Lozenge x={S.LEFT} y={1740} w={S.ANS_W} h={96} state="lock" style={{opacity: interpolate(since, [14, 20], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})}}>
+          <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: 42, color: '#040A2C'}}>{story.ctaText}</div>
+        </Lozenge>
+      ) : null}
+    </AbsoluteFill>
+  );
+};

@@ -2,7 +2,7 @@ import React from 'react';
 import {AbsoluteFill, Audio, Img, Sequence, interpolate, random, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 import {loadFont} from '@remotion/google-fonts/Montserrat';
 import {NeonScene} from './QuizNeon';
-import {TvScene} from './QuizTV';
+import {TvScene, CompareScene} from './QuizTV';
 import {QuizMascot, type MascotSetting} from './components/Mascot';
 
 // Quiz-Short, Layout B "Knallig & Comic":
@@ -30,6 +30,14 @@ export type QuizQuestion = {
   revealCaption?: string;
   /** Schwierigkeit, z. B. "EASY" / "MEDIUM" / "HARD" (Farbe automatisch) */
   level?: string;
+  /** Vergleichs-Quiz (genau 2 Antworten): echte Werte für die Balken, z. B. [17098246, 9984670] */
+  values?: number[];
+  /** Beschriftung der Balken, z. B. ["17.1M km²", "10.0M km²"] */
+  valueLabels?: string[];
+  /** Emoji je Seite (wenn kein Foto) */
+  icons?: string[];
+  /** Foto je Seite (public/, nur aus image-credits.json) */
+  images?: string[];
   /** Sekunden: Frage erscheint */
   start: number;
   /** Sekunden: Countdown beginnt */
@@ -687,7 +695,7 @@ export const Quiz: React.FC<QuizStory> = (story) => {
     <AbsoluteFill style={{backgroundColor: story.layout === 'tvshow' ? '#030616' : story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
       {story.questions.map((q, i) => (
         <Sequence key={i} from={f(q.start)} durationInFrames={Math.max(1, f(q.end) - f(q.start))} name={`Frage ${i + 1}`}>
-          {story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
+          {q.values && q.answers.length === 2 ? <CompareScene q={q} index={i} total={total} story={story} /> : story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
         </Sequence>
       ))}
       {hasOutro ? (
