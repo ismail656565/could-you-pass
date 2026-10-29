@@ -483,7 +483,7 @@ export const CompareScene: React.FC<{q: QuizQuestion; index: number; total: numb
                 {img ? <Img src={staticFile(img)} style={{width: '100%', height: '100%', objectFit: 'cover'}} /> : <div style={{fontSize: 170, lineHeight: 1}}>{icon ?? (i === 0 ? '🅰️' : '🅱️')}</div>}
               </div>
               <Lozenge x={x - 10} y={C2.LBL_Y} w={C2.COL_W + 20} h={C2.LBL_H} state={st} style={{opacity: st === 'dim' ? 0.55 : 1}}>
-                <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: a.length > 14 ? 38 : 48, color: st === 'normal' ? T.white : '#040A2C'}}>{a}</div>
+                <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: a.length > 14 ? 38 : 48, color: st === 'normal' || st === 'dim' ? T.white : '#040A2C'}}>{a}</div>
               </Lozenge>
               {revealed ? (
                 <>
