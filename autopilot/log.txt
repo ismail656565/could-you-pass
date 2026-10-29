@@ -605,3 +605,4 @@
 [2026-10-29 21:00:02] Ton fertig: 35.2 s
 [2026-10-29 21:02:53] Testlauf tv-short-test: Render-Code 0, Dauer 35.166 s
 [2026-10-29 21:02:55] Testlauf tv-short-test: 5 Standbilder in autopilot/test/frames
+[2026-10-29 21:20:16] Konkurrenz: 25 Kanäle, 139 Gewinner-Videos
