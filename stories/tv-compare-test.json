@@ -1,0 +1,122 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Bigger?",
+ "header": "WHICH IS BIGGER?",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "BIGGER!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which country is **bigger**?",
+   "answers": [
+    "Brazil",
+    "Australia"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "values": [
+    8515770,
+    7741220
+   ],
+   "valueLabels": [
+    "8.5M km²",
+    "7.7M km²"
+   ],
+   "images": [
+    "bilder/cap-flag-brazil.jpg",
+    "bilder/cap-flag-australia.jpg"
+   ],
+   "start": 0.0,
+   "countdownStart": 2.621,
+   "reveal": 5.621,
+   "end": 9.828
+  },
+  {
+   "q": "Which country is **bigger**?",
+   "answers": [
+    "Italy",
+    "Japan"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "values": [
+    301340,
+    377915
+   ],
+   "valueLabels": [
+    "301k km²",
+    "378k km²"
+   ],
+   "images": [
+    "bilder/cap-flag-italy.jpg",
+    "bilder/cap-flag-japan.jpg"
+   ],
+   "start": 9.828,
+   "countdownStart": 11.217,
+   "reveal": 14.217,
+   "end": 17.614
+  },
+  {
+   "q": "Which country is **bigger**?",
+   "answers": [
+    "Nigeria",
+    "Kazakhstan"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    923768,
+    2724900
+   ],
+   "valueLabels": [
+    "924k km²",
+    "2.7M km²"
+   ],
+   "images": [
+    "bilder/cap-flag-nigeria.jpg",
+    "bilder/cap-flag-kazakhstan.jpg"
+   ],
+   "start": 17.614,
+   "countdownStart": 19.493,
+   "reveal": 22.493,
+   "end": 28.102
+  },
+  {
+   "q": "Which country is **bigger**?",
+   "answers": [
+    "France",
+    "Turkey"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    643801,
+    783562
+   ],
+   "valueLabels": [
+    "644k km²",
+    "784k km²"
+   ],
+   "images": [
+    "bilder/cap-flag-france.jpg",
+    "bilder/cap-flag-turkey.jpg"
+   ],
+   "start": 28.102,
+   "countdownStart": 29.987,
+   "reveal": 32.987,
+   "end": 38.641
+  }
+ ],
+ "audio": "audio/tv-compare-test.mp3",
+ "outroStart": 38.641,
+ "durationInSeconds": 38.641
+}

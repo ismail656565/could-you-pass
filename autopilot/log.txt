@@ -597,3 +597,11 @@
 [2026-10-29 19:04:33] Kein long-Video in der Warteschlange.
 [2026-10-29 19:04:34] Short-Beschreibung (auto-2026-10-29-short-1) verlinkt auf langes Video U8i53jbut9U
 [2026-10-29 19:04:34] Short-Beschreibung (auto-2026-10-29-short-2) verlinkt auf langes Video U8i53jbut9U
+[2026-10-29 20:56:04] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-29 20:56:28] Ton fertig: 38.6 s
+[2026-10-29 20:59:39] Testlauf tv-compare-test: Render-Code 0, Dauer 38.641 s
+[2026-10-29 20:59:41] Testlauf tv-compare-test: 5 Standbilder in autopilot/test/frames
+[2026-10-29 20:59:41] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-29 21:00:02] Ton fertig: 35.2 s
+[2026-10-29 21:02:53] Testlauf tv-short-test: Render-Code 0, Dauer 35.166 s
+[2026-10-29 21:02:55] Testlauf tv-short-test: 5 Standbilder in autopilot/test/frames
