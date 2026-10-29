@@ -1,14 +1,14 @@
 {
  "id": "animal-quiz-50-1",
  "timing": {
-  "count": 6.0,
-  "tail": 1.5,
+  "count": 5.0,
+  "tail": 1.2,
   "tempo": 1.0
  },
  "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
  "lines": [
   {
-   "q": "Welcome back, quiz friends! Fifty animal questions today, grab a pen and keep score. First one: what is the fastest land animal?",
+   "q": "Fifty animal questions, from easy to legend, and they get harder every round. Keep score! First one: what is the fastest land animal?",
    "a": "The cheetah! It can sprint at around a hundred kilometres an hour."
   },
   {
