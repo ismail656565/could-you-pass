@@ -143,7 +143,7 @@ jobs:
           name: videos
           path: out/*.mp4
           if-no-files-found: warn
-          retention-days: 14
+          retention-days: 1
 
       - name: Ergebnisse zurück ins Repository
         if: always()
