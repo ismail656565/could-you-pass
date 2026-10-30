@@ -671,3 +671,15 @@
 [2026-10-30 14:05:21] animal-quiz-50-1: Kommentar gepostet
 [2026-10-30 14:05:21] one-q-sloth-digest: noch nicht öffentlich – Kommentar später
 [2026-10-30 14:05:21] trap-4-5-food: noch nicht öffentlich – Kommentar später
+[2026-10-30 20:18:04] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-10-30 20:18:15] Ton fertig: 35.2 s
+[2026-10-30 20:18:19] B-Roll Frage 1 ("octopus underwater"): Krake (Octopus vulgaris) im Roten Meer. Ägypten. Осьминог в 
+[2026-10-30 20:18:22] B-Roll Frage 2 ("coastline aerial"): Aerial views of the Great Ocean Road and nearby coastline in
+[2026-10-30 20:18:24] B-Roll Frage 3 ("snow ice landscape"): Sheets of Ice on the Mississippi River (15405314334).webm
+[2026-10-30 20:18:25] B-Roll Clip übersprungen Monarchs on the Branch of a Eucalyptus Tree (37598227355).we 429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/Mo
+[2026-10-30 20:18:25] B-Roll Clip übersprungen Eucalyptus 01.webm 429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/Eu
+[2026-10-30 20:18:25] B-Roll Clip übersprungen Eucalyptus 02.webm 429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Eu
+[2026-10-30 20:18:25] B-Roll Frage 4 ("eucalyptus tree"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-10-30 20:18:25] Testlauf B-Roll-Credits: ['Krake (Octopus vulgaris) im Roten Meer. Ägypten. Осьминог в Красном мо – Kora27 (CC BY-SA 4.0)', 'Aerial views of the Great Ocean Road and nearby coastline in Victoria, – JSery Films (CC BY 3.0)', 'Sheets of Ice on the Mississippi River (15405314334) – U.S. Fish and Wildlife Service - Midwest Region (Public domain)']
+[2026-10-30 20:20:54] Testlauf broll-test: Render-Code 0, Dauer 35.171 s
+[2026-10-30 20:20:55] Testlauf broll-test: 5 Standbilder in autopilot/test/frames
