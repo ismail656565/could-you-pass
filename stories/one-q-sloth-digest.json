@@ -1,0 +1,37 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "ANIMAL QUIZ",
+ "hook": "ONLY 1 IN 10 GET THIS 🤯",
+ "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+ "finalLabel": "",
+ "ctaText": "Follow if you got it ✅",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get it?",
+ "outroSub": "Comment 👇",
+ "questions": [
+  {
+   "q": "How long does a **sloth** need to digest one meal?",
+   "answers": [
+    "6 hours",
+    "2 days",
+    "Weeks",
+    "A whole year"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🦥  🍃",
+   "start": 0.0,
+   "countdownStart": 6.559,
+   "reveal": 9.559,
+   "end": 13.924
+  }
+ ],
+ "audio": "audio/one-q-sloth-digest.mp3",
+ "outroStart": 13.924,
+ "durationInSeconds": 13.924
+}

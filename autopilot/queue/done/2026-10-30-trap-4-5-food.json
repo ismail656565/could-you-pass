@@ -60,7 +60,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🥜"
+    "cardText": "🥜",
+    "start": 0.0,
+    "countdownStart": 2.635,
+    "reveal": 5.135,
+    "end": 9.391
    },
    {
     "q": "Where did **potatoes** originally come from?",
@@ -72,7 +76,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🥔  🌍"
+    "cardText": "🥔  🌍",
+    "start": 9.391,
+    "countdownStart": 11.69,
+    "reveal": 14.19,
+    "end": 19.413
    },
    {
     "q": "How long does one **pineapple** take to grow?",
@@ -84,7 +92,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🌱  ⏳"
+    "cardText": "🌱  ⏳",
+    "start": 19.413,
+    "countdownStart": 21.728,
+    "reveal": 24.228,
+    "end": 30.716
    },
    {
     "q": "The world's most **expensive** spice?",
@@ -96,8 +108,24 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🌶️  💰"
+    "cardText": "🌶️  💰",
+    "start": 30.716,
+    "countdownStart": 33.868,
+    "reveal": 36.368,
+    "end": 42.779
    }
-  ]
- }
+  ],
+  "audio": "audio/trap-4-5-food.mp3",
+  "outroStart": 42.779,
+  "durationInSeconds": 42.779
+ },
+ "publishAt": "21:00",
+ "scheduledFor": "2026-10-30T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "-FHIjux26Rg",
+  "at": "2026-10-30T06:26"
+ },
+ "linkedLong": "brCR2MyeQr0"
 }

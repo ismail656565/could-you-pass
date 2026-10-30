@@ -1,0 +1,86 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "FOOD QUIZ",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "**Peanuts** are not nuts. They are…?",
+   "answers": [
+    "Seeds",
+    "Legumes",
+    "Grains",
+    "Berries"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🥜",
+   "start": 0.0,
+   "countdownStart": 2.635,
+   "reveal": 5.135,
+   "end": 9.391
+  },
+  {
+   "q": "Where did **potatoes** originally come from?",
+   "answers": [
+    "Ireland",
+    "Germany",
+    "Russia",
+    "Peru"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🥔  🌍",
+   "start": 9.391,
+   "countdownStart": 11.69,
+   "reveal": 14.19,
+   "end": 19.413
+  },
+  {
+   "q": "How long does one **pineapple** take to grow?",
+   "answers": [
+    "3 months",
+    "6 months",
+    "About 2 years",
+    "5 years"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🌱  ⏳",
+   "start": 19.413,
+   "countdownStart": 21.728,
+   "reveal": 24.228,
+   "end": 30.716
+  },
+  {
+   "q": "The world's most **expensive** spice?",
+   "answers": [
+    "Saffron",
+    "Vanilla",
+    "Cardamom",
+    "Cinnamon"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🌶️  💰",
+   "start": 30.716,
+   "countdownStart": 33.868,
+   "reveal": 36.368,
+   "end": 42.779
+  }
+ ],
+ "audio": "audio/trap-4-5-food.mp3",
+ "outroStart": 42.779,
+ "durationInSeconds": 42.779
+}

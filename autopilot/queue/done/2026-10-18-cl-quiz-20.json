@@ -459,8 +459,8 @@
    "B",
    "C"
   ],
-  "current": "C",
-  "since": "2026-10-26",
+  "current": "A",
+  "since": "2026-10-30",
   "results": {
    "A": {
     "views": 3,
@@ -477,9 +477,17 @@
     "note": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-1",
     "from": "2026-10-22",
     "to": "2026-10-26"
+   },
+   "C": {
+    "views": 0,
+    "ctr": 0.0,
+    "metric": "views/day",
+    "from": "2026-10-26",
+    "to": "2026-10-30"
    }
   },
-  "done": false
+  "done": true,
+  "winner": "A"
  },
  "playlistAdded": true
 }

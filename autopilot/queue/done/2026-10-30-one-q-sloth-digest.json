@@ -51,8 +51,24 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🦥  🍃"
+    "cardText": "🦥  🍃",
+    "start": 0.0,
+    "countdownStart": 6.559,
+    "reveal": 9.559,
+    "end": 13.924
    }
-  ]
- }
+  ],
+  "audio": "audio/one-q-sloth-digest.mp3",
+  "outroStart": 13.924,
+  "durationInSeconds": 13.924
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-10-30T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "0Lqj4vVUHyM",
+  "at": "2026-10-30T06:22"
+ },
+ "linkedLong": "brCR2MyeQr0"
 }

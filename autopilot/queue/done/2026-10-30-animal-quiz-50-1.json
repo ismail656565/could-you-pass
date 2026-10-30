@@ -264,7 +264,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🐾  💨"
+    "cardText": "🐾  💨",
+    "start": 0.0,
+    "countdownStart": 8.134,
+    "reveal": 13.134,
+    "end": 17.811
    },
    {
     "q": "A baby **kangaroo** is called a…?",
@@ -276,7 +280,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🍼"
+    "cardText": "🍼",
+    "start": 17.811,
+    "countdownStart": 19.689,
+    "reveal": 24.689,
+    "end": 28.965
    },
    {
     "q": "What is the **largest** bird alive today?",
@@ -288,7 +296,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🪶  🥚"
+    "cardText": "🪶  🥚",
+    "start": 28.965,
+    "countdownStart": 31.241,
+    "reveal": 36.241,
+    "end": 40.65
    },
    {
     "q": "What do giant **pandas** mostly eat?",
@@ -300,7 +312,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🍃"
+    "cardText": "🍃",
+    "start": 40.65,
+    "countdownStart": 42.916,
+    "reveal": 47.916,
+    "end": 51.417
    },
    {
     "q": "A **male chicken** is called a…?",
@@ -312,7 +328,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🐣"
+    "cardText": "🐣",
+    "start": 51.417,
+    "countdownStart": 53.174,
+    "reveal": 58.174,
+    "end": 64.06
    },
    {
     "q": "Which big cat has a **mane**?",
@@ -324,7 +344,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "👑"
+    "cardText": "👑",
+    "start": 64.06,
+    "countdownStart": 65.759,
+    "reveal": 70.759,
+    "end": 73.887
    },
    {
     "q": "A **caterpillar** turns into a…?",
@@ -336,7 +360,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🐛"
+    "cardText": "🐛",
+    "start": 73.887,
+    "countdownStart": 75.831,
+    "reveal": 80.831,
+    "end": 86.318
    },
    {
     "q": "Which animal is famous for building **dams**?",
@@ -348,7 +376,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🪵  💧"
+    "cardText": "🪵  💧",
+    "start": 86.318,
+    "countdownStart": 88.771,
+    "reveal": 93.771,
+    "end": 97.451
    },
    {
     "q": "Where do **polar bears** live in the wild?",
@@ -360,7 +392,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🧊  ❄️"
+    "cardText": "🧊  ❄️",
+    "start": 97.451,
+    "countdownStart": 99.679,
+    "reveal": 104.679,
+    "end": 109.655
    },
    {
     "q": "A crab has how many **legs**, claws included?",
@@ -372,7 +408,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🦀"
+    "cardText": "🦀",
+    "start": 109.655,
+    "countdownStart": 112.505,
+    "reveal": 117.505,
+    "end": 125.119
    },
    {
     "q": "A group of **lions** is called a…?",
@@ -384,7 +424,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🦁  🦁"
+    "cardText": "🦁  🦁",
+    "start": 125.119,
+    "countdownStart": 128.445,
+    "reveal": 133.445,
+    "end": 137.733
    },
    {
     "q": "Which animal sleeps up to **20 hours** a day?",
@@ -396,7 +440,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "😴"
+    "cardText": "😴",
+    "start": 137.733,
+    "countdownStart": 140.401,
+    "reveal": 145.401,
+    "end": 149.905
    },
    {
     "q": "How many **humps** does a dromedary camel have?",
@@ -408,7 +456,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🏜️"
+    "cardText": "🏜️",
+    "start": 149.905,
+    "countdownStart": 152.336,
+    "reveal": 157.336,
+    "end": 161.198
    },
    {
     "q": "What is the **largest** shark in the world?",
@@ -420,7 +472,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🌊"
+    "cardText": "🌊",
+    "start": 161.198,
+    "countdownStart": 163.42,
+    "reveal": 168.42,
+    "end": 172.573
    },
    {
     "q": "A **female deer** is called a…?",
@@ -432,7 +488,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🦌"
+    "cardText": "🦌",
+    "start": 172.573,
+    "countdownStart": 174.422,
+    "reveal": 179.422,
+    "end": 184.938
    },
    {
     "q": "What colour is a **zebra's** skin?",
@@ -444,7 +504,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🦓"
+    "cardText": "🦓",
+    "start": 184.938,
+    "countdownStart": 187.463,
+    "reveal": 192.463,
+    "end": 195.89
    },
    {
     "q": "An adult **dog** has how many teeth?",
@@ -456,7 +520,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🐕"
+    "cardText": "🐕",
+    "start": 195.89,
+    "countdownStart": 198.272,
+    "reveal": 203.272,
+    "end": 206.983
    },
    {
     "q": "Our **closest** living animal relative?",
@@ -468,7 +536,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🧬"
+    "cardText": "🧬",
+    "start": 206.983,
+    "countdownStart": 209.608,
+    "reveal": 214.608,
+    "end": 219.713
    },
    {
     "q": "A baby **swan** is called a…?",
@@ -480,7 +552,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🪶"
+    "cardText": "🪶",
+    "start": 219.713,
+    "countdownStart": 221.515,
+    "reveal": 226.515,
+    "end": 230.093
    },
    {
     "q": "Which continent has **no** native snakes?",
@@ -492,7 +568,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🐍"
+    "cardText": "🐍",
+    "start": 230.093,
+    "countdownStart": 232.739,
+    "reveal": 237.739,
+    "end": 242.846
    },
    {
     "q": "Which animal has the strongest **bite**?",
@@ -504,7 +584,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🦷"
+    "cardText": "🦷",
+    "start": 242.846,
+    "countdownStart": 246.965,
+    "reveal": 251.965,
+    "end": 257.712
    },
    {
     "q": "How many stomach **chambers** does a cow have?",
@@ -516,7 +600,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🐄"
+    "cardText": "🐄",
+    "start": 257.712,
+    "countdownStart": 260.149,
+    "reveal": 265.149,
+    "end": 268.779
    },
    {
     "q": "Which bird has the widest **wingspan**?",
@@ -528,7 +616,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🪽"
+    "cardText": "🪽",
+    "start": 268.779,
+    "countdownStart": 271.011,
+    "reveal": 276.011,
+    "end": 280.547
    },
    {
     "q": "What is the **fastest** bird in a dive?",
@@ -540,7 +632,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "💨"
+    "cardText": "💨",
+    "start": 280.547,
+    "countdownStart": 282.851,
+    "reveal": 287.851,
+    "end": 294.105
    },
    {
     "q": "How many **eyes** does a honey bee have?",
@@ -552,7 +648,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🐝"
+    "cardText": "🐝",
+    "start": 294.105,
+    "countdownStart": 296.225,
+    "reveal": 301.225,
+    "end": 308.697
    },
    {
     "q": "Which animal has the **densest** fur?",
@@ -564,7 +664,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🌊  ❄️"
+    "cardText": "🌊  ❄️",
+    "start": 308.697,
+    "countdownStart": 311.407,
+    "reveal": 316.407,
+    "end": 320.739
    },
    {
     "q": "What do camels store in their **humps**?",
@@ -576,7 +680,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🐪"
+    "cardText": "🐪",
+    "start": 320.739,
+    "countdownStart": 322.688,
+    "reveal": 327.688,
+    "end": 332.509
    },
    {
     "q": "Which of these is a **marsupial**?",
@@ -588,7 +696,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "👶  👜"
+    "cardText": "👶  👜",
+    "start": 332.509,
+    "countdownStart": 334.787,
+    "reveal": 339.787,
+    "end": 344.763
    },
    {
     "q": "Which mammal lives the **longest**?",
@@ -600,7 +712,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "⏳"
+    "cardText": "⏳",
+    "start": 344.763,
+    "countdownStart": 346.775,
+    "reveal": 351.775,
+    "end": 356.222
    },
    {
     "q": "Which animal has the **largest** brain?",
@@ -612,7 +728,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🧠"
+    "cardText": "🧠",
+    "start": 356.222,
+    "countdownStart": 358.748,
+    "reveal": 363.748,
+    "end": 369.904
    },
    {
     "q": "Which animal has the highest **blood pressure**?",
@@ -624,7 +744,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "❤️"
+    "cardText": "❤️",
+    "start": 369.904,
+    "countdownStart": 374.239,
+    "reveal": 379.239,
+    "end": 383.719
    },
    {
     "q": "A baby **echidna** is called a…?",
@@ -636,7 +760,11 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🦔"
+    "cardText": "🦔",
+    "start": 383.719,
+    "countdownStart": 385.697,
+    "reveal": 390.697,
+    "end": 394.556
    },
    {
     "q": "The only **mammal** covered in scales?",
@@ -648,7 +776,11 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "🛡️"
+    "cardText": "🛡️",
+    "start": 394.556,
+    "countdownStart": 397.015,
+    "reveal": 402.015,
+    "end": 405.809
    },
    {
     "q": "Which animal sleeps with **half its brain**?",
@@ -660,7 +792,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "💤"
+    "cardText": "💤",
+    "start": 405.809,
+    "countdownStart": 408.652,
+    "reveal": 413.652,
+    "end": 417.691
    },
    {
     "q": "What is the **largest** living lizard?",
@@ -672,7 +808,11 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "🦎"
+    "cardText": "🦎",
+    "start": 417.691,
+    "countdownStart": 419.771,
+    "reveal": 424.771,
+    "end": 429.342
    },
    {
     "q": "Which penguin lives near the **equator**?",
@@ -684,7 +824,11 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "🐧  ☀️"
+    "cardText": "🐧  ☀️",
+    "start": 429.342,
+    "countdownStart": 431.572,
+    "reveal": 436.572,
+    "end": 442.986
    },
    {
     "q": "What is the **largest** rodent in the world?",
@@ -696,7 +840,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🐹"
+    "cardText": "🐹",
+    "start": 442.986,
+    "countdownStart": 445.35,
+    "reveal": 450.35,
+    "end": 454.408
    },
    {
     "q": "A **female fox** is called a…?",
@@ -708,7 +856,11 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🦊"
+    "cardText": "🦊",
+    "start": 454.408,
+    "countdownStart": 456.338,
+    "reveal": 461.338,
+    "end": 465.477
    },
    {
     "q": "How many chambers in a **crocodile's** heart?",
@@ -720,7 +872,11 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🐊"
+    "cardText": "🐊",
+    "start": 465.477,
+    "countdownStart": 468.154,
+    "reveal": 473.154,
+    "end": 477.287
    },
    {
     "q": "Most **starfish** have how many arms?",
@@ -732,7 +888,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🌊"
+    "cardText": "🌊",
+    "start": 477.287,
+    "countdownStart": 479.527,
+    "reveal": 484.527,
+    "end": 489.964
    },
    {
     "q": "Which creature can turn back into a **baby**?",
@@ -744,7 +904,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "♾️"
+    "cardText": "♾️",
+    "start": 489.964,
+    "countdownStart": 494.659,
+    "reveal": 499.659,
+    "end": 505.416
    },
    {
     "q": "Whose blue **blood** is used to test medicine?",
@@ -756,7 +920,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "💉"
+    "cardText": "💉",
+    "start": 505.416,
+    "countdownStart": 508.786,
+    "reveal": 513.786,
+    "end": 518.3
    },
    {
     "q": "What is the **smallest** bird in the world?",
@@ -768,7 +936,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🔍"
+    "cardText": "🔍",
+    "start": 518.3,
+    "countdownStart": 520.47,
+    "reveal": 525.47,
+    "end": 529.058
    },
    {
     "q": "Which animal has the longest **migration**?",
@@ -780,7 +952,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🗺️"
+    "cardText": "🗺️",
+    "start": 529.058,
+    "countdownStart": 531.82,
+    "reveal": 536.82,
+    "end": 541.9
    },
    {
     "q": "The **longest-living** animal with a backbone?",
@@ -792,7 +968,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🦈"
+    "cardText": "🦈",
+    "start": 541.9,
+    "countdownStart": 544.551,
+    "reveal": 549.551,
+    "end": 554.866
    },
    {
     "q": "A group of **ferrets** is called a…?",
@@ -804,7 +984,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🐾"
+    "cardText": "🐾",
+    "start": 554.866,
+    "countdownStart": 556.816,
+    "reveal": 561.816,
+    "end": 564.611
    },
    {
     "q": "Which animal makes **cube-shaped** poop?",
@@ -816,7 +1000,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🎲"
+    "cardText": "🎲",
+    "start": 564.611,
+    "countdownStart": 566.789,
+    "reveal": 571.789,
+    "end": 576.894
    },
    {
     "q": "What colour is a **chow chow's** tongue?",
@@ -828,7 +1016,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "👅"
+    "cardText": "👅",
+    "start": 576.894,
+    "countdownStart": 578.899,
+    "reveal": 583.899,
+    "end": 589.383
    },
    {
     "q": "How many bones are in a **giraffe's** neck?",
@@ -840,7 +1032,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🦴"
+    "cardText": "🦴",
+    "start": 589.383,
+    "countdownStart": 591.594,
+    "reveal": 596.594,
+    "end": 601.66
    },
    {
     "q": "Which animal has **survived** outer space?",
@@ -852,9 +1048,35 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🚀"
+    "cardText": "🚀",
+    "start": 601.66,
+    "countdownStart": 605.522,
+    "reveal": 610.522,
+    "end": 617.363
    }
   ],
-  "thumbImage": "bilder/q2-bear.jpg"
+  "thumbImage": "bilder/q2-bear.jpg",
+  "audio": "audio/animal-quiz-50-1.mp3",
+  "outroStart": 617.363,
+  "durationInSeconds": 627.151
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/animal-quiz-50-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-10-30",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-10-30T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "brCR2MyeQr0",
+  "at": "2026-10-30T07:12"
  }
 }
