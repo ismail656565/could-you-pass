@@ -113,7 +113,8 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🕐"
+    "cardText": "🕐",
+    "broll": "city skyline night"
    },
    {
     "q": "Which element has the symbol **Pb**?",
@@ -125,7 +126,8 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "Pb"
+    "cardText": "Pb",
+    "broll": "chemistry laboratory"
    },
    {
     "q": "What is the **smallest** country in Africa?",
@@ -161,7 +163,8 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "✋"
+    "cardText": "✋",
+    "broll": "hands typing keyboard"
    },
    {
     "q": "Which language has the **second** most native speakers?",
@@ -173,7 +176,8 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🗣️"
+    "cardText": "🗣️",
+    "broll": "busy street market"
    },
    {
     "q": "What is the most common element in **Earth's crust**?",
@@ -209,7 +213,8 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "D"
+    "cardText": "D",
+    "broll": "ocean waves beach"
    },
    {
     "q": "About how often does your **heart** beat in one day?",
@@ -221,7 +226,8 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "❤️"
+    "cardText": "❤️",
+    "broll": "runner jogging park"
    },
    {
     "q": "How many **permanent** members has the UN Security Council?",

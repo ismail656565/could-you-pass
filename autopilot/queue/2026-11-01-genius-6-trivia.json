@@ -69,7 +69,8 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🐞"
+    "cardText": "🐞",
+    "broll": "ladybug on leaf"
    },
    {
     "q": "In which country is the **Taj Mahal**?",
@@ -81,7 +82,8 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🕌"
+    "cardText": "🕌",
+    "broll": "sunrise clouds timelapse"
    },
    {
     "q": "Which planet is famous for its **rings**?",
@@ -93,7 +95,8 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🪐"
+    "cardText": "🪐",
+    "broll": "night sky stars"
    },
    {
     "q": "Blue + yellow paint makes which **colour**?",
@@ -105,7 +108,8 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🎨"
+    "cardText": "🎨",
+    "broll": "paint brush canvas"
    },
    {
     "q": "What is the **square root** of 144?",
@@ -117,7 +121,8 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "√144"
+    "cardText": "√144",
+    "broll": "chalkboard writing"
    },
    {
     "q": "Who painted **The Starry Night**?",
@@ -129,7 +134,8 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🌌"
+    "cardText": "🌌",
+    "broll": "art museum gallery"
    }
   ]
  }

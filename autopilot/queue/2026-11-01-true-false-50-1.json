@@ -263,7 +263,8 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "⚡"
+    "cardText": "⚡",
+    "broll": "lightning storm"
    },
    {
     "q": "The **Sun** is a star.",
@@ -273,7 +274,8 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "☀️"
+    "cardText": "☀️",
+    "broll": "sunset sky"
    },
    {
     "q": "**Spiders** are insects.",
@@ -363,7 +365,8 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🪶"
+    "cardText": "🪶",
+    "broll": "ostrich walking"
    },
    {
     "q": "**Chameleons** change colour mainly to hide.",
@@ -373,7 +376,8 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🦎"
+    "cardText": "🦎",
+    "broll": "chameleon"
    },
    {
     "q": "**Napoleon** was unusually short.",
@@ -463,7 +467,8 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🪐"
+    "cardText": "🪐",
+    "broll": "night sky telescope"
    },
    {
     "q": "Earth has more **trees** than the Milky Way has stars.",
@@ -473,7 +478,8 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🌳"
+    "cardText": "🌳",
+    "broll": "forest aerial"
    },
    {
     "q": "The **Statue of Liberty** was once copper-brown.",
@@ -563,7 +569,8 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🍅"
+    "cardText": "🍅",
+    "broll": "tomatoes market"
    },
    {
     "q": "The **lighter** was invented before the match.",
@@ -573,7 +580,8 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🔥"
+    "cardText": "🔥",
+    "broll": "candle flame"
    },
    {
     "q": "**Pluto** has orbited the Sun once since it was found.",
@@ -663,7 +671,8 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🎂"
+    "cardText": "🎂",
+    "broll": "palace garden fountain"
    },
    {
     "q": "The **Pringles** can inventor was buried in one.",
@@ -673,7 +682,8 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🥫"
+    "cardText": "🥫",
+    "broll": "supermarket shelves"
    },
    {
     "q": "France still used the **guillotine** when Star Wars came out.",

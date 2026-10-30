@@ -59,7 +59,8 @@
     ],
     "correct": 1,
     "level": "TRUE OR FALSE",
-    "cardText": "🐟"
+    "cardText": "🐟",
+    "broll": "goldfish aquarium"
    },
    {
     "q": "Sea otters **hold hands** while they sleep.",
@@ -69,7 +70,8 @@
     ],
     "correct": 0,
     "level": "TRUE OR FALSE",
-    "cardText": "🦦"
+    "cardText": "🦦",
+    "broll": "sea otter"
    },
    {
     "q": "Humans only use **10%** of their brain.",
@@ -79,7 +81,8 @@
     ],
     "correct": 1,
     "level": "TRUE OR FALSE",
-    "cardText": "🧠"
+    "cardText": "🧠",
+    "broll": "people walking city"
    },
    {
     "q": "Sound travels **faster** in water than in air.",
@@ -89,7 +92,8 @@
     ],
     "correct": 0,
     "level": "TRUE OR FALSE",
-    "cardText": "🔊"
+    "cardText": "🔊",
+    "broll": "underwater diving"
    }
   ]
  }
