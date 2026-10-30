@@ -1,15 +1,6 @@
 {
  "channels": [
   {
-   "id": "UCULEK2LWTahJym1z4hfmP_A",
-   "name": "Routed",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 644
-   }
-  },
-  {
    "id": "UCDmeY0zSuykFtaFKr-khKIQ",
    "name": "Trivia Square",
    "source": "outlier-scan",
@@ -118,24 +109,6 @@
    }
   },
   {
-   "id": "UCu5_enl_cmCz_4sjMcz1kBg",
-   "name": "Shailesh Rajput",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 21000
-   }
-  },
-  {
-   "id": "UCMvCuzlVNm0uZF1xBl-rRnA",
-   "name": "Quiz Baazi",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 1030
-   }
-  },
-  {
    "id": "UCQ6zZ6H8RmtBT4XLZN06X_A",
    "name": "QuizKoala",
    "source": "outlier-scan",
@@ -163,30 +136,12 @@
    }
   },
   {
-   "id": "UCz3jHcdrKO4aadKdj8JnxXg",
-   "name": "GK Prashnix",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 297
-   }
-  },
-  {
    "id": "UCDj-szyubQWTtvRaEUa2Gdw",
    "name": "Chauncey Asks",
    "source": "outlier-scan",
    "added": "2026-10-29",
    "subsHistory": {
     "2026-10-29": 4290
-   }
-  },
-  {
-   "id": "UCsB72jQQTnsrke2iu5Pi2GA",
-   "name": "ABCInfoTales",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 3730
    }
   },
   {

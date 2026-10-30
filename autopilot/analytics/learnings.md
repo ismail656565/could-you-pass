@@ -241,3 +241,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 
 ## 2026-10-29 – TESTWOCHE 30.10.–05.11. (Besitzer)
 - Neues System läuft 1 Woche unverändert: Research-Agent (06:23) → plan.md → Produktions-Agent (07:07) → Action. Getestet: VS-Vergleichs-Quiz, 7-Minuten-Langvideo mit niedriger Score-Hürde, Konkurrenz-Muster, Foto-Thumbnails, kürzere Denkpausen/Loop-Brücke. Keine grundlegenden Strategiewechsel vor der Auswertung am 05.11. (nur Fehlerbehebung und die im Plan vorgesehenen Experimente).
+
+## 2026-10-30 – Research (Research-Agent, 1. Lauf)
+- Shorts: leichte Einzelfragen des Ersatz-Generators Median 1.112 Views (n=3) vs. kuratierte schwere 1-Frage-Hooks 330 (n=5) → 16:00 ab 31.10. leichte Frage + "Can You Answer: …?". 6+-Fragen Median 1.333 → kommt 01.11. zurück. tvshow 958 vs. neon 338; game-show 1.072 vs. brain-pulse 338.
+- Long: Median <20 Views, 50 Q Median 3, CTR 2,9 % → Experiment E1 ab 31.10.: 12 sehr schwere Fragen, ~7 min, Titel "Can You Score 4/12?" (Konkurrenz: Clear Think 1,26 Mio/6:48, GK STUDIO PRO 971k/7:15 "at least 4/10").
+- competitors.json 25 → 20 (nicht-englische/Off-Topic-Kanäle entfernt). Technik: Thumbnail-Test-CTR-Abfrage liefert HttpError 400; Queue 31.10. nur 1 Item.
+- Events: 01.11. US-Zeitumstellung, 03.11. Midterms (Presidents-Quiz), 05.11. Bonfire Night.
