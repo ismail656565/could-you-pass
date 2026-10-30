@@ -136,16 +136,6 @@ jobs:
               raise SystemExit("DAILY TARGET NOT MET: expected 2 Shorts and 1 long video. Workflow must stay red.")
           PY
 
-      - name: Fertiges Video zum Ansehen speichern
-        if: always() && env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords' && env.MODE != 'competitors'
-        continue-on-error: true
-        uses: actions/upload-artifact@v4
-        with:
-          name: videos
-          path: out/*.mp4
-          if-no-files-found: warn
-          retention-days: 1
-
       - name: Ergebnisse zurück ins Repository
         if: always()
         run: |
