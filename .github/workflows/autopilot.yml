@@ -138,6 +138,7 @@ jobs:
 
       - name: Fertiges Video zum Ansehen speichern
         if: always() && env.MODE != 'comments' && env.MODE != 'outliers' && env.MODE != 'keywords' && env.MODE != 'competitors'
+        continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: videos
