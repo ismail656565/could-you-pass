@@ -534,18 +534,28 @@ def render_thumbs(name, story):
     return out
 
 
+_CTR_API_OK = True
+
+
 def thumb_score(a, vid, start, end):
-    """Klickrate (CTR) des Vorschaubilds im Zeitraum; falls die API das nicht liefert: Aufrufe pro Tag"""
-    try:
-        rep = a.reports().query(ids='channel==MINE', startDate=start, endDate=end, filters=f'video=={vid}',
-                                metrics='videoThumbnailImpressions,videoThumbnailImpressionsClickRate').execute()
-        row = (rep.get('rows') or [[0, 0]])[0]
-        return {'impressions': int(row[0] or 0), 'ctr': round(float(row[1] or 0), 4), 'metric': 'ctr'}
-    except Exception as ex:
-        rep = a.reports().query(ids='channel==MINE', startDate=start, endDate=end, filters=f'video=={vid}', metrics='views').execute()
-        views = int(((rep.get('rows') or [[0]])[0])[0] or 0)
-        days = max(1, (dt.date.fromisoformat(end) - dt.date.fromisoformat(start)).days)
-        return {'views': views, 'ctr': round(views / days, 2), 'metric': 'views/day', 'note': str(ex)[:120]}
+    """Klickrate (CTR) des Vorschaubilds im Zeitraum; falls die API das nicht liefert: Aufrufe pro Tag.
+    Die CTR-Abfrage liefert bisher HttpError 400 → nach dem ersten Fehler pro Lauf nicht erneut versuchen,
+    und den Fehlertext nicht mehr in jedes Ergebnis/Log schreiben."""
+    global _CTR_API_OK
+    if _CTR_API_OK:
+        try:
+            rep = a.reports().query(ids='channel==MINE', startDate=start, endDate=end, filters=f'video=={vid}',
+                                    dimensions='video',
+                                    metrics='videoThumbnailImpressions,videoThumbnailImpressionsClickRate').execute()
+            row = (rep.get('rows') or [[vid, 0, 0]])[0]
+            return {'impressions': int(row[1] or 0), 'ctr': round(float(row[2] or 0), 4), 'metric': 'ctr'}
+        except Exception as ex:
+            _CTR_API_OK = False
+            log('Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag', str(ex)[:80])
+    rep = a.reports().query(ids='channel==MINE', startDate=start, endDate=end, filters=f'video=={vid}', metrics='views').execute()
+    views = int(((rep.get('rows') or [[0]])[0])[0] or 0)
+    days = max(1, (dt.date.fromisoformat(end) - dt.date.fromisoformat(start)).days)
+    return {'views': views, 'ctr': round(views / days, 2), 'metric': 'views/day'}
 
 
 def thumb_rotate():

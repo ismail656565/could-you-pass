@@ -1,0 +1,96 @@
+{
+ "id": "trap-4-true-false",
+ "timing": {
+  "count": 2.5,
+  "tail": 1.0
+ },
+ "lines": [
+  {
+   "q": "True or false: goldfish have a three second memory.",
+   "a": "False! Studies show goldfish can remember things for months."
+  },
+  {
+   "q": "True or false: sea otters hold hands while they sleep.",
+   "a": "True! It stops them drifting apart on the water."
+  },
+  {
+   "q": "True or false: humans only use ten percent of their brain.",
+   "a": "False! Brain scans show we use virtually all of it."
+  },
+  {
+   "q": "Last one. True or false: sound travels faster in water than in air.",
+   "a": "True! About four times faster. Think you can get all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "True or False? 4 Facts 90% Get Wrong ✅❌ #shorts",
+  "description": "4 true or false questions most people get wrong ✅❌ How many did you get?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trueorfalse #quiz #trivia #myths #funfacts #shorts\n\nMusic: original.",
+  "tags": [
+   "true or false quiz",
+   "true or false",
+   "myths vs facts",
+   "trivia quiz",
+   "fun facts",
+   "general knowledge quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "How many did you get out of 4? Which one fooled you? ✅❌👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "TRUE OR FALSE?",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "questions": [
+   {
+    "q": "Goldfish have a **3-second** memory.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "TRUE OR FALSE",
+    "cardText": "🐟"
+   },
+   {
+    "q": "Sea otters **hold hands** while they sleep.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "TRUE OR FALSE",
+    "cardText": "🦦"
+   },
+   {
+    "q": "Humans only use **10%** of their brain.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "TRUE OR FALSE",
+    "cardText": "🧠"
+   },
+   {
+    "q": "Sound travels **faster** in water than in air.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "TRUE OR FALSE",
+    "cardText": "🔊"
+   }
+  ]
+ }
+}

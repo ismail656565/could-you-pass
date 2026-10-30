@@ -1,0 +1,760 @@
+{
+ "id": "true-false-50-1",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Fifty true or false facts, from easy to legend, and they get harder every round. Keep score! First one: True or false: lightning never strikes the same place twice.",
+   "a": "False! The Empire State Building gets hit around twenty times a year."
+  },
+  {
+   "q": "True or false: the Sun is a star.",
+   "a": "True! A pretty average one, too."
+  },
+  {
+   "q": "True or false: spiders are insects.",
+   "a": "False! They're arachnids, with eight legs instead of six."
+  },
+  {
+   "q": "True or false: botanically, a tomato is a fruit.",
+   "a": "True! It grows from the flower and carries the seeds."
+  },
+  {
+   "q": "True or false: penguins live at the North Pole.",
+   "a": "False! Wild penguins live almost only in the southern hemisphere. Five down, nice and easy so far!"
+  },
+  {
+   "q": "True or false: bulls get angry at the colour red.",
+   "a": "False! Bulls can't really see red. It's the moving cape that sets them off."
+  },
+  {
+   "q": "True or false: a whale is a mammal.",
+   "a": "True! Whales breathe air and feed their babies milk."
+  },
+  {
+   "q": "True or false: bananas grow on trees.",
+   "a": "False! The banana plant is a giant herb, not a tree."
+  },
+  {
+   "q": "True or false: water boils at a lower temperature on top of a mountain.",
+   "a": "True! Lower air pressure means it boils sooner."
+  },
+  {
+   "q": "True or false: Mount Everest is the highest mountain above sea level.",
+   "a": "True! Almost eight thousand eight hundred fifty metres."
+  },
+  {
+   "q": "Round two, medium. True or false: ostriches bury their heads in the sand.",
+   "a": "False! They lower their heads to turn their eggs, which looks like it from far away."
+  },
+  {
+   "q": "True or false: chameleons change colour mainly to hide.",
+   "a": "False! They mostly change colour to signal mood and control their temperature."
+  },
+  {
+   "q": "True or false: Napoleon was unusually short.",
+   "a": "False! He was about average height for his time. Old French inches made him sound smaller."
+  },
+  {
+   "q": "True or false: diamonds are made of carbon.",
+   "a": "True! The same element as the graphite in your pencil."
+  },
+  {
+   "q": "True or false: koalas are bears.",
+   "a": "False! They're marsupials, with a pouch like kangaroos. Fifteen done, you're doing great!"
+  },
+  {
+   "q": "True or false: old window glass is slowly flowing like a liquid.",
+   "a": "False! Glass is a solid. Old panes were just made unevenly."
+  },
+  {
+   "q": "True or false: cracking your knuckles causes arthritis.",
+   "a": "False! Studies have found no link. The pop is just gas bubbles."
+  },
+  {
+   "q": "True or false: Mount Everest is still growing taller.",
+   "a": "True! A few millimetres a year as the plates keep pushing."
+  },
+  {
+   "q": "True or false: the Eiffel Tower gets taller in summer.",
+   "a": "True! The iron expands in the heat, by up to about fifteen centimetres."
+  },
+  {
+   "q": "True or false: Vikings wore horned helmets in battle.",
+   "a": "False! That idea mostly comes from nineteenth century costumes and opera."
+  },
+  {
+   "q": "Round three, hard. True or false: in theory, Saturn could float in water.",
+   "a": "True! It is less dense than water, if you had a bathtub big enough."
+  },
+  {
+   "q": "True or false: there are more trees on Earth than stars in the Milky Way.",
+   "a": "True! About three trillion trees, and a few hundred billion stars."
+  },
+  {
+   "q": "True or false: the Statue of Liberty was originally copper brown.",
+   "a": "True! It slowly turned green over about twenty years."
+  },
+  {
+   "q": "True or false: your stomach gets a new inner lining every few days.",
+   "a": "True! Otherwise its own acid would wear it away."
+  },
+  {
+   "q": "True or false: Einstein failed maths at school.",
+   "a": "False! He had mastered calculus by about fifteen. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "True or false: the Moon has quakes, just like Earth.",
+   "a": "True! Apollo astronauts left seismometers that recorded moonquakes."
+  },
+  {
+   "q": "True or false: strawberries are true berries.",
+   "a": "False! Botanically they're not, but bananas and grapes are."
+  },
+  {
+   "q": "True or false: a jiffy is a real unit of time.",
+   "a": "True! In electronics it can mean one sixtieth of a second."
+  },
+  {
+   "q": "True or false: the Great Fire of London in sixteen sixty six killed thousands.",
+   "a": "False! Only six deaths were recorded, though the real number may be higher."
+  },
+  {
+   "q": "True or false: chocolate is toxic to dogs.",
+   "a": "True! Dogs can't break down theobromine well. Thirty done, twenty to go!"
+  },
+  {
+   "q": "Round four, very hard. True or false: ketchup was once sold as medicine.",
+   "a": "True! In the eighteen thirties, as tomato pills for indigestion."
+  },
+  {
+   "q": "True or false: the lighter was invented before the match.",
+   "a": "True! A hydrogen lighter came in eighteen twenty three, friction matches a few years later."
+  },
+  {
+   "q": "True or false: Pluto has completed a full orbit of the Sun since it was discovered.",
+   "a": "False! It was found in nineteen thirty, and one orbit takes about two hundred forty eight years."
+  },
+  {
+   "q": "True or false: bananas are slightly radioactive.",
+   "a": "True! A tiny bit, thanks to natural potassium. Totally harmless."
+  },
+  {
+   "q": "True or false: a group of flamingos is called a flamboyance.",
+   "a": "True! Best group name in nature."
+  },
+  {
+   "q": "True or false: no bridge crosses the Amazon River.",
+   "a": "True! Its banks are soft and swampy, and few roads reach it."
+  },
+  {
+   "q": "True or false: Hawaii moves a little closer to Japan every year.",
+   "a": "True! The Pacific plate carries it several centimetres a year."
+  },
+  {
+   "q": "True or false: identical twins have identical fingerprints.",
+   "a": "False! Fingerprints form in the womb and are unique to each twin."
+  },
+  {
+   "q": "True or false: the Sahara has always been a desert.",
+   "a": "False! Several thousand years ago it was green with lakes and grassland."
+  },
+  {
+   "q": "True or false: cats can't taste sweetness.",
+   "a": "True! They lack a working sweet taste receptor. Forty done, legend round next!"
+  },
+  {
+   "q": "Legend round. True or false: Marie Antoinette said let them eat cake.",
+   "a": "False! There's no evidence she ever said it."
+  },
+  {
+   "q": "True or false: the inventor of the Pringles can was buried in one.",
+   "a": "True! Fredric Baur's family put some of his ashes in a Pringles can in two thousand eight."
+  },
+  {
+   "q": "True or false: France still used the guillotine when the first Star Wars movie came out.",
+   "a": "True! The last execution was in September nineteen seventy seven."
+  },
+  {
+   "q": "True or false: Harvard University is older than calculus.",
+   "a": "True! Harvard opened in sixteen thirty six, decades before Newton and Leibniz."
+  },
+  {
+   "q": "True or false: in the original novel, Frankenstein is the name of the monster.",
+   "a": "False! Victor Frankenstein is the scientist. The creature has no name."
+  },
+  {
+   "q": "True or false: Columbus proved the Earth was round.",
+   "a": "False! Ancient Greeks had worked that out almost two thousand years earlier."
+  },
+  {
+   "q": "True or false: a day on Mercury lasts longer than its year.",
+   "a": "True! Sunrise to sunrise takes about a hundred seventy six Earth days, a year only eighty eight. Three left, stay with me!"
+  },
+  {
+   "q": "True or false: humans evolved from chimpanzees.",
+   "a": "False! We share a common ancestor that lived millions of years ago."
+  },
+  {
+   "q": "True or false: Abraham Lincoln is in a wrestling hall of fame.",
+   "a": "True! He was a skilled wrestler as a young man and is honoured by the National Wrestling Hall of Fame."
+  },
+  {
+   "q": "Final question. True or false: there are more possible chess games than atoms in the observable universe.",
+   "a": "True! Roughly ten to the one hundred twentieth games, against about ten to the eightieth atoms."
+  }
+ ],
+ "youtube": {
+  "title": "True or False Quiz: 50 Facts From Easy to Legend ✅❌",
+  "description": "50 true or false questions, from easy myths to legend-level facts ✅❌ Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#TrueOrFalse #TrueOrFalseQuiz #TriviaQuiz #Quiz #GeneralKnowledge #MythsVsFacts\n\nPhotos via Wikimedia Commons: Octopus – Diego Delso (CC BY-SA 4.0)\nMusic: original.",
+  "tags": [
+   "true or false quiz",
+   "true or false",
+   "true or false questions",
+   "myths vs facts",
+   "general knowledge quiz",
+   "trivia quiz",
+   "50 question quiz",
+   "quiz for adults",
+   "fun facts quiz"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 50? ✅❌ Which fact surprised you most? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "True or False Quiz",
+  "header": "TRUE OR FALSE QUIZ",
+  "hook": "CAN YOU GET 40/50? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "TRUE OR **FALSE**?",
+   "CAN YOU GET **40/50**?",
+   "**MYTH** OR FACT?"
+  ],
+  "thumbEmoji": "✅",
+  "thumbBadge": "50 FACTS · EASY → LEGEND",
+  "cardColors": [
+   "#7F1D1D",
+   "#2A0A0A"
+  ],
+  "thumbImage": "bilder/q2-octopus.jpg",
+  "questions": [
+   {
+    "q": "Lightning never strikes the **same place** twice.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "⚡"
+   },
+   {
+    "q": "The **Sun** is a star.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "☀️"
+   },
+   {
+    "q": "**Spiders** are insects.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🕷️"
+   },
+   {
+    "q": "A **tomato** is a fruit.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🍅"
+   },
+   {
+    "q": "**Penguins** live at the North Pole.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🐧"
+   },
+   {
+    "q": "**Bulls** get angry at the colour red.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🐂"
+   },
+   {
+    "q": "A **whale** is a mammal.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🐋"
+   },
+   {
+    "q": "**Bananas** grow on trees.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🍌"
+   },
+   {
+    "q": "Water boils at a **lower** temperature on a mountain.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🏔️"
+   },
+   {
+    "q": "**Everest** is the highest mountain above sea level.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🗻"
+   },
+   {
+    "q": "**Ostriches** bury their heads in the sand.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🪶"
+   },
+   {
+    "q": "**Chameleons** change colour mainly to hide.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🦎"
+   },
+   {
+    "q": "**Napoleon** was unusually short.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎩"
+   },
+   {
+    "q": "**Diamonds** are made of carbon.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "💎"
+   },
+   {
+    "q": "**Koalas** are bears.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🐨"
+   },
+   {
+    "q": "Old window **glass** is a slow-flowing liquid.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🪟"
+   },
+   {
+    "q": "Cracking your **knuckles** causes arthritis.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "✊"
+   },
+   {
+    "q": "**Mount Everest** is still growing.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "📏"
+   },
+   {
+    "q": "The **Eiffel Tower** gets taller in summer.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🗼"
+   },
+   {
+    "q": "**Vikings** wore horned helmets in battle.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "⚔️"
+   },
+   {
+    "q": "**Saturn** could float in water.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🪐"
+   },
+   {
+    "q": "Earth has more **trees** than the Milky Way has stars.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌳"
+   },
+   {
+    "q": "The **Statue of Liberty** was once copper-brown.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🗽"
+   },
+   {
+    "q": "Your **stomach** lining renews every few days.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🫃"
+   },
+   {
+    "q": "**Einstein** failed maths at school.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🧮"
+   },
+   {
+    "q": "The **Moon** has earthquakes.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌕"
+   },
+   {
+    "q": "**Strawberries** are berries.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🍓"
+   },
+   {
+    "q": "A **jiffy** is a real unit of time.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "⏱️"
+   },
+   {
+    "q": "The Great Fire of **London** killed thousands.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🔥"
+   },
+   {
+    "q": "**Chocolate** is toxic to dogs.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🐶"
+   },
+   {
+    "q": "**Ketchup** was once sold as medicine.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🍅"
+   },
+   {
+    "q": "The **lighter** was invented before the match.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🔥"
+   },
+   {
+    "q": "**Pluto** has orbited the Sun once since it was found.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🔭"
+   },
+   {
+    "q": "**Bananas** are slightly radioactive.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "☢️"
+   },
+   {
+    "q": "A group of **flamingos** is a flamboyance.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🦩"
+   },
+   {
+    "q": "No bridge crosses the **Amazon** River.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🌉"
+   },
+   {
+    "q": "**Hawaii** moves closer to Japan every year.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🏝️"
+   },
+   {
+    "q": "Identical **twins** share fingerprints.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "👆"
+   },
+   {
+    "q": "The **Sahara** has always been a desert.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🐪"
+   },
+   {
+    "q": "**Cats** can't taste sweetness.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🐱"
+   },
+   {
+    "q": "Marie Antoinette said **'Let them eat cake'**.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🎂"
+   },
+   {
+    "q": "The **Pringles** can inventor was buried in one.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🥫"
+   },
+   {
+    "q": "France still used the **guillotine** when Star Wars came out.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🎬"
+   },
+   {
+    "q": "**Harvard** is older than calculus.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🎓"
+   },
+   {
+    "q": "**Frankenstein** is the name of the monster.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🧟"
+   },
+   {
+    "q": "**Columbus** proved the Earth was round.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🌍"
+   },
+   {
+    "q": "A day on **Mercury** lasts longer than its year.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "☿"
+   },
+   {
+    "q": "Humans evolved from **chimpanzees**.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🐒"
+   },
+   {
+    "q": "**Abraham Lincoln** is in a wrestling hall of fame.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🤼"
+   },
+   {
+    "q": "Chess has more possible games than the universe has **atoms**.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "♟️"
+   }
+  ]
+ }
+}

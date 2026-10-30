@@ -247,3 +247,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Long: Median <20 Views, 50 Q Median 3, CTR 2,9 % → Experiment E1 ab 31.10.: 12 sehr schwere Fragen, ~7 min, Titel "Can You Score 4/12?" (Konkurrenz: Clear Think 1,26 Mio/6:48, GK STUDIO PRO 971k/7:15 "at least 4/10").
 - competitors.json 25 → 20 (nicht-englische/Off-Topic-Kanäle entfernt). Technik: Thumbnail-Test-CTR-Abfrage liefert HttpError 400; Queue 31.10. nur 1 Item.
 - Events: 01.11. US-Zeitumstellung, 03.11. Midterms (Presidents-Quiz), 05.11. Bonfire Night.
+
+## 2026-10-30 (Produktions-Agent, Queue 31.10. + 01.11.)
+- Ausgangslage: report.json noch vom 29.10. 18:02 (7 Abos); 29.10. lief nur über den Ersatz-Generator, Uploads erst 18–19 Uhr (2 Shorts + 1 Long erfüllt). Läufe seit 29.10. 12:58 alle grün.
+- Shorts: Spitzenreiter bleiben Mehr-Fragen-Shorts – 8 Geography 1.325 Views (stayed 45 %, Ø 60 % angesehen), 8 Emoji-Länder 1.303 (51 %, 65 %), IQ-Test 10 Q 1.279 (54 %), Capitals Easy→Hard 1.105. 1-Frage-Ego-Hook Median 330 (n=5) → 31.10. erster LEICHTER 1-Frage-Short ("hours in a week").
+- Lange Videos: nur das Emoji-Long trägt (138 Views, stayed 73 %, Ø 52,9 % angesehen, +1 Abo); Citizenship-Short 57 Views. 50-Fragen-Median ≈3 → E1 (12 Fragen, ~7 min, Hürde 4/12) startet 31.10., True/False-50 am 01.11.
+- Thumbnails: A/B/C-Test bisher nur views/day (halloween-35 B 2/Tag, over65 A 4/Tag, emoji-15 B 0) – keine aussagekräftige CTR. Fix heute: CTR-Abfrage einmal pro Lauf mit dimensions=video, bei 400 sofort auf views/day ohne Fehler-Spam.
+- Fragen-Duplikate: Der Plan sah "largest ocean" und "hardest natural substance" vor – beide schon benutzt → ersetzt (Fragenpool inzwischen >1.300 Fragen; vor jedem Item gegen queue/done + stories greppen).

@@ -1,0 +1,58 @@
+{
+ "id": "one-q-hours-week",
+ "timing": {
+  "count": 3.0,
+  "tail": 0.4
+ },
+ "lines": [
+  {
+   "q": "Quick one, no calculator! How many hours are there in one week? Double tap to lock your answer!",
+   "a": "One hundred sixty eight! Seven days times twenty four hours. Follow if you got it!"
+  }
+ ],
+ "youtube": {
+  "title": "Can You Answer: How Many Hours Are in a Week? 🤯 #shorts",
+  "description": "No calculator allowed 🤯 How fast did you get it?\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #mathquiz #brainteaser #generalknowledge #shorts\n\nMusic: original.",
+  "tags": [
+   "quiz",
+   "math quiz",
+   "quick quiz",
+   "brain teaser",
+   "general knowledge quiz",
+   "trivia",
+   "can you answer this",
+   "shorts"
+  ],
+  "comment": "148, 160, 168 or 186? How fast did you get it? ⏱️👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "QUICK QUIZ",
+  "hook": "NO CALCULATOR 🤯",
+  "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+  "finalLabel": "",
+  "ctaText": "Follow if you got it ✅",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you get it?",
+  "outroSub": "Comment 👇",
+  "questions": [
+   {
+    "q": "How many **hours** are in one week?",
+    "answers": [
+     "148",
+     "160",
+     "168",
+     "186"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "7 × 🕐"
+   }
+  ]
+ }
+}

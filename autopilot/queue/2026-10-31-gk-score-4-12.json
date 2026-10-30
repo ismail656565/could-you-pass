@@ -1,0 +1,252 @@
+{
+ "id": "gk-score-4-12",
+ "timing": {
+  "count": 9.0,
+  "tail": 2.0,
+  "tempo": 0.95
+ },
+ "outroLine": "How many did you get? Comment your score, did you beat four? Subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Twelve hard questions, about seven minutes. Can you score four or more? First one: how many time zones does China officially use?",
+   "a": "Just one! All of China runs on Beijing time, even though the country is about five time zones wide."
+  },
+  {
+   "q": "Which chemical element has the symbol P B?",
+   "a": "Lead! The symbol comes from plumbum, the Latin word for lead, which also gave us the word plumber."
+  },
+  {
+   "q": "What is the smallest country in Africa?",
+   "a": "Seychelles! An island nation of about four hundred and sixty square kilometres. Gambia is only the smallest on the mainland."
+  },
+  {
+   "q": "What is the deepest lake in the world?",
+   "a": "Lake Baikal in Siberia! It is more than one and a half kilometres deep and holds about a fifth of the world's unfrozen fresh water. Four down, how are you doing?"
+  },
+  {
+   "q": "Round two, very hard. How many bones are in one adult human hand, wrist included?",
+   "a": "Twenty seven! Eight in the wrist, five in the palm and fourteen in the fingers."
+  },
+  {
+   "q": "Mandarin has the most native speakers on Earth. Which language comes second?",
+   "a": "Spanish! Close to five hundred million native speakers. English has more speakers in total, but fewer native ones. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "What is the most common element in Earth's crust?",
+   "a": "Oxygen! Almost half of the crust by weight, locked up in rocks and minerals. Silicon is a distant second."
+  },
+  {
+   "q": "Which of these organs cannot feel pain itself?",
+   "a": "The brain! Brain tissue has no pain receptors, which is why some brain surgery can be done while the patient is awake. Eight down, four to go!"
+  },
+  {
+   "q": "Legend round. What does the D in D-Day stand for?",
+   "a": "Simply day! Military planners used D-Day for the start date of any operation, and H-Hour for its start time."
+  },
+  {
+   "q": "Roughly how many times does a resting human heart beat in one day?",
+   "a": "About one hundred thousand times! Seventy beats a minute adds up fast. Three left, stay with me!"
+  },
+  {
+   "q": "How many permanent members does the United Nations Security Council have?",
+   "a": "Five! The United States, the United Kingdom, France, Russia and China. Fifteen is the total, including the ten elected members."
+  },
+  {
+   "q": "Final question. Which is the oldest university in the world that is still operating today?",
+   "a": "Al Qarawiyyin in Morocco! Founded in eight fifty nine by Fatima al Fihri, and recognised by Guinness World Records as the oldest still running."
+  }
+ ],
+ "youtube": {
+  "title": "General Knowledge Quiz: Can You Score 4/12? 🧠 7-Minute Test",
+  "description": "12 hard general knowledge questions in about 7 minutes 🧠 Can you score at least 4?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeneralKnowledgeQuiz #TriviaQuiz #Quiz #HardQuiz #IQTest #GeneralKnowledge\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nMusic: original.",
+  "tags": [
+   "general knowledge quiz",
+   "hard quiz",
+   "trivia quiz",
+   "7 minute quiz",
+   "iq test",
+   "test your knowledge",
+   "quiz for adults",
+   "hard trivia questions",
+   "general knowledge"
+  ],
+  "categoryId": "24",
+  "comment": "What did you score out of 12? Did you beat 4? 🧠👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "General Knowledge Quiz",
+  "header": "GENERAL KNOWLEDGE QUIZ",
+  "hook": "CAN YOU SCORE 4/12? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you beat 4?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 5,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "SCORE **4/12**?",
+   "**7-MINUTE** TEST",
+   "HARDER THAN **IT LOOKS**"
+  ],
+  "thumbEmoji": "🧠",
+  "thumbBadge": "12 HARD QUESTIONS",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "thumbImage": "bilder/q2-pyramid.jpg",
+  "questions": [
+   {
+    "q": "How many **time zones** does China officially use?",
+    "answers": [
+     "Five",
+     "Four",
+     "One",
+     "Three"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🕐"
+   },
+   {
+    "q": "Which element has the symbol **Pb**?",
+    "answers": [
+     "Platinum",
+     "Lead",
+     "Phosphorus",
+     "Palladium"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "Pb"
+   },
+   {
+    "q": "What is the **smallest** country in Africa?",
+    "answers": [
+     "Gambia",
+     "Comoros",
+     "Seychelles",
+     "Sao Tome and Principe"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🌍"
+   },
+   {
+    "q": "What is the **deepest** lake in the world?",
+    "answers": [
+     "Lake Tanganyika",
+     "Lake Baikal",
+     "Lake Superior",
+     "Lake Victoria"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🌊"
+   },
+   {
+    "q": "How many bones are in one adult **hand**?",
+    "answers": [
+     "19",
+     "27",
+     "32",
+     "14"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "✋"
+   },
+   {
+    "q": "Which language has the **second** most native speakers?",
+    "answers": [
+     "English",
+     "Hindi",
+     "Spanish",
+     "Arabic"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🗣️"
+   },
+   {
+    "q": "What is the most common element in **Earth's crust**?",
+    "answers": [
+     "Iron",
+     "Silicon",
+     "Oxygen",
+     "Aluminium"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🪨"
+   },
+   {
+    "q": "Which organ **cannot feel pain** itself?",
+    "answers": [
+     "Heart",
+     "Brain",
+     "Liver",
+     "Skin"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🧠"
+   },
+   {
+    "q": "What does the **D** in D-Day stand for?",
+    "answers": [
+     "Doom",
+     "Day",
+     "Destiny",
+     "Deliverance"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "D"
+   },
+   {
+    "q": "About how often does your **heart** beat in one day?",
+    "answers": [
+     "10,000 times",
+     "1 million times",
+     "100,000 times",
+     "500,000 times"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "❤️"
+   },
+   {
+    "q": "How many **permanent** members has the UN Security Council?",
+    "answers": [
+     "Five",
+     "Seven",
+     "Ten",
+     "Fifteen"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🌐"
+   },
+   {
+    "q": "What is the world's **oldest** university still running?",
+    "answers": [
+     "Oxford",
+     "Bologna",
+     "Al-Qarawiyyin",
+     "Al-Azhar"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🎓"
+   }
+  ]
+ }
+}

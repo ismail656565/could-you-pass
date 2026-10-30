@@ -1,0 +1,136 @@
+{
+ "id": "genius-6-trivia",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "lines": [
+  {
+   "q": "How many legs does an insect have?",
+   "a": "Six! Spiders have eight, so they're not insects."
+  },
+  {
+   "q": "In which country is the Taj Mahal?",
+   "a": "India! In the city of Agra."
+  },
+  {
+   "q": "Which planet is famous for its rings?",
+   "a": "Saturn! Halfway there, keep going!"
+  },
+  {
+   "q": "Mix blue and yellow paint. What colour do you get?",
+   "a": "Green!"
+  },
+  {
+   "q": "What is the square root of one hundred forty four?",
+   "a": "Twelve! Twelve times twelve."
+  },
+  {
+   "q": "Last one. Who painted The Starry Night?",
+   "a": "Vincent van Gogh! Think you can get all six? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts",
+  "description": "6 quick trivia questions 🧠 Can you get all six?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #triviachallenge #generalknowledge #quiztime #shorts\n\nMusic: original.",
+  "tags": [
+   "trivia challenge quiz",
+   "trivia quiz",
+   "general knowledge quiz",
+   "quiz",
+   "only geniuses",
+   "6 questions quiz",
+   "quiz time",
+   "shorts"
+  ],
+  "comment": "How many did you get out of 6? 🧠👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "TRIVIA CHALLENGE",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "questions": [
+   {
+    "q": "How many legs does an **insect** have?",
+    "answers": [
+     "Four",
+     "Six",
+     "Eight",
+     "Ten"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🐞"
+   },
+   {
+    "q": "In which country is the **Taj Mahal**?",
+    "answers": [
+     "India",
+     "Pakistan",
+     "Iran",
+     "Turkey"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🕌"
+   },
+   {
+    "q": "Which planet is famous for its **rings**?",
+    "answers": [
+     "Jupiter",
+     "Mars",
+     "Neptune",
+     "Saturn"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🪐"
+   },
+   {
+    "q": "Blue + yellow paint makes which **colour**?",
+    "answers": [
+     "Purple",
+     "Green",
+     "Orange",
+     "Brown"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎨"
+   },
+   {
+    "q": "What is the **square root** of 144?",
+    "answers": [
+     "12",
+     "14",
+     "16",
+     "22"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "√144"
+   },
+   {
+    "q": "Who painted **The Starry Night**?",
+    "answers": [
+     "Monet",
+     "Picasso",
+     "Van Gogh",
+     "Rembrandt"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🌌"
+   }
+  ]
+ }
+}
