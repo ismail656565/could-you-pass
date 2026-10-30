@@ -254,3 +254,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Lange Videos: nur das Emoji-Long trägt (138 Views, stayed 73 %, Ø 52,9 % angesehen, +1 Abo); Citizenship-Short 57 Views. 50-Fragen-Median ≈3 → E1 (12 Fragen, ~7 min, Hürde 4/12) startet 31.10., True/False-50 am 01.11.
 - Thumbnails: A/B/C-Test bisher nur views/day (halloween-35 B 2/Tag, over65 A 4/Tag, emoji-15 B 0) – keine aussagekräftige CTR. Fix heute: CTR-Abfrage einmal pro Lauf mit dimensions=video, bei 400 sofort auf views/day ohne Fehler-Spam.
 - Fragen-Duplikate: Der Plan sah "largest ocean" und "hardest natural substance" vor – beide schon benutzt → ersetzt (Fragenpool inzwischen >1.300 Fragen; vor jedem Item gegen queue/done + stories greppen).
+
+## 2026-10-30 – Externe Recherche (last30days, vom Besitzer lokal ausgeführt; Quellen v. a. TikTok/Reddit, YouTube fehlte)
+- Stärkste Quiz-Clips der letzten 30 Tage versprechen das Scheitern: "The last one will HUMBLE you" (~279k Views, ~7,5k Kommentare), "99% Get It Wrong… Only 1% Notice the Trick!" (~293k, 5,9k Kommentare). → Titel-/Hook-Muster für die Trap-Shorts testen: hook "THE LAST ONE WILL HUMBLE YOU 😏" bzw. Titel "… The Last One Will Humble You". Nur eine Variable pro Test (Titel), Format bleibt gleich.
+- Kommentare entstehen bei Fragen mit kleinem Haken/überraschender Antwort (r/trivia streitet über Antworten). → pro Short mindestens eine "Haken"-Frage (Antwort überraschend, aber eindeutig belegbar – keine echt strittigen Fakten).
+- "Comment your score" + Short als Teaser fürs lange Quiz ist verbreitet, aber bei kleinen Kanälen kein Selbstläufer (32–1.200 Views). Wir verlinken Shorts bereits aufs Long – beibehalten.
+- Externe Daten sagen 3–5 Fragen à 5 s; UNSERE Daten sagen 6–10 Fragen gewinnen (Median ~1.300 vs. 4-Trap 294) → eigene Daten haben Vorrang.
+- RISIKO Monetarisierung: Seit Juli 2026 gelten generische/sich wiederholende Inhalte (auch Shorts) als nicht monetarisierbar ("inauthentic content"). → Jedes Video sichtbar variieren (Thema, Format, Farben, Musik, Hook-Text, Moderationssätze); Ersatz-Generator-Videos mit Einheitstiteln vermeiden; keine fremden Clips.
+- Konkurrenz: "Jeopardy! YouTube Edition" (seit 22.10., Ken Jennings) – Promi-Format, nicht kopieren; Nische kleiner Kanäle bleibt Fakten-/Fallen-Quiz.
