@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-30T06:21",
+ "fetched": "2026-10-30T08:10",
  "groups": {
   "short.format": {
    "6+ Fragen": {
@@ -22,10 +22,10 @@
    },
    "4-Fragen-Trap": {
     "n": 6,
-    "avgViews": 472,
+    "avgViews": 473,
     "medianViews": 294,
-    "bestViews": 1074,
-    "stayed": 50.1,
+    "bestViews": 1075,
+    "stayed": 50.3,
     "avgPct": 89.6,
     "subs": 0
    },
@@ -40,8 +40,8 @@
    },
    "Ersatz-Generator (1 Frage)": {
     "n": 3,
-    "avgViews": 1151,
-    "medianViews": 1134,
+    "avgViews": 1153,
+    "medianViews": 1137,
     "bestViews": 1184,
     "stayed": 39.3,
     "avgPct": 112.5,
@@ -89,8 +89,8 @@
     "n": 6,
     "avgViews": 471,
     "medianViews": 289,
-    "bestViews": 1074,
-    "stayed": 52.6,
+    "bestViews": 1075,
+    "stayed": 52.8,
     "avgPct": 59.7,
     "subs": 0
    },
@@ -132,9 +132,9 @@
    },
    "GENERAL KNOWLEDGE": {
     "n": 2,
-    "avgViews": 1134,
-    "medianViews": 1134,
-    "bestViews": 1134,
+    "avgViews": 1137,
+    "medianViews": 1137,
+    "bestViews": 1137,
     "stayed": 37.3,
     "avgPct": 116.6,
     "subs": 0
@@ -161,8 +161,8 @@
    },
    "tvshow": {
     "n": 8,
-    "avgViews": 747,
-    "medianViews": 967,
+    "avgViews": 748,
+    "medianViews": 968,
     "bestViews": 1184,
     "stayed": 45.6,
     "avgPct": 86.1,
@@ -181,8 +181,8 @@
    },
    "game-show.wav": {
     "n": 4,
-    "avgViews": 888,
-    "medianViews": 1083,
+    "avgViews": 889,
+    "medianViews": 1084,
     "bestViews": 1184,
     "stayed": 46.2,
     "avgPct": 91.6,
@@ -193,7 +193,7 @@
     "avgViews": 427,
     "medianViews": 427,
     "bestViews": 714,
-    "stayed": 45.0,
+    "stayed": 45.4,
     "avgPct": 86.4,
     "subs": 0
    }
@@ -228,10 +228,10 @@
    },
    "21:00": {
     "n": 8,
-    "avgViews": 636,
+    "avgViews": 637,
     "medianViews": 680,
-    "bestViews": 1134,
-    "stayed": 48.3,
+    "bestViews": 1137,
+    "stayed": 48.4,
     "avgPct": 75.9,
     "subs": 0
    }
@@ -481,7 +481,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 11.6,
+   "ageDays": 11.7,
    "search": null
   },
   {
@@ -500,7 +500,7 @@
    "avgPct": 61.18,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 11.6,
+   "ageDays": 11.7,
    "search": null
   },
   {
@@ -538,7 +538,7 @@
    "avgPct": 73.82,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 10.5,
+   "ageDays": 10.6,
    "search": null
   },
   {
@@ -690,7 +690,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 7.7,
+   "ageDays": 7.8,
    "search": null
   },
   {
@@ -728,7 +728,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 6.7,
+   "ageDays": 6.8,
    "search": null
   },
   {
@@ -804,8 +804,8 @@
    "avgPct": 114.74,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 5.7,
-   "search": 25
+   "ageDays": 5.8,
+   "search": null
   },
   {
    "file": "2026-10-24-trap-4-2-tv.json",
@@ -824,7 +824,7 @@
    "subs": 0.0,
    "durationSec": 38,
    "ageDays": 5.5,
-   "search": 22
+   "search": null
   },
   {
    "file": "2026-10-24-trap-4-2.json",
@@ -895,7 +895,7 @@
    "music": "world-trip.wav",
    "slot": "21:00",
    "publicViews": 140.0,
-   "engagedShare": 0.528,
+   "engagedShare": 0.536,
    "avgPct": 58.01,
    "subs": 0.0,
    "durationSec": 39,
@@ -951,7 +951,7 @@
    "layout": "tvshow",
    "music": "brain-pulse.wav",
    "slot": "21:00",
-   "publicViews": 1074.0,
+   "publicViews": 1075.0,
    "engagedShare": 0.491,
    "avgPct": 43.08,
    "subs": 0.0,
@@ -989,12 +989,12 @@
    "layout": "tvshow",
    "music": "brain-pulse.wav",
    "slot": "21:00",
-   "publicViews": 1134.0,
+   "publicViews": 1137.0,
    "engagedShare": 0.373,
    "avgPct": 116.58999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 2.4,
+   "ageDays": 2.5,
    "search": 8
   },
   {
@@ -1046,12 +1046,12 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "21:00",
-   "publicViews": 1134.0,
+   "publicViews": 1137.0,
    "engagedShare": 0.373,
    "avgPct": 116.58999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 2.4,
+   "ageDays": 2.5,
    "search": 8
   }
  ]
