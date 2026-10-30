@@ -681,7 +681,14 @@ def fetch_broll(story, name, max_clips=12):
             raw = outdir / f'{name}-{i}.src'
             out = outdir / f'{name}-{i}.mp4'
             try:
-                with sess.get(c['src'], timeout=120, stream=True) as r:
+                time.sleep(3)  # Wikimedia drosselt schnelle Downloads (429)
+                for attempt in range(3):
+                    r = sess.get(c['src'], timeout=120, stream=True)
+                    if r.status_code != 429:
+                        break
+                    r.close()
+                    time.sleep(10 * (attempt + 1))
+                with r:
                     r.raise_for_status()
                     with open(raw, 'wb') as fh:
                         for chunk in r.iter_content(1 << 20):
