@@ -22,6 +22,10 @@ export type QuizQuestion = {
   correct: number;
   /** Bild zur Frage (Datei in public/), darf die Antwort nicht verraten */
   image?: string;
+  /** Echter Video-Clip (B-Roll, public/broll/…mp4, von der Action aus Wikimedia Commons geladen) – hat Vorrang vor image/cardText */
+  video?: string;
+  /** Suchbegriff für den B-Roll-Clip (englisch, darf die Antwort nicht verraten) */
+  broll?: string;
   /** Statt Bild: großer Text/Emojis, z. B. "2 · 4 · 8 · 16 · ?" (Zeilenumbruch mit \n) */
   cardText?: string;
   /** Bild, das bei der Auflösung in der Karte erscheint (z. B. Foto der Hauptstadt) */

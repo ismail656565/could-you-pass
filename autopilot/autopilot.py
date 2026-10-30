@@ -611,6 +611,118 @@ def thumb_rotate():
         d.write_text(json.dumps(item, indent=1, ensure_ascii=False), encoding='utf-8')
 
 
+# ---------------------------------------------------------------- B-Roll (echte Clips statt KI-Look)
+BROLL_USED = AP / 'broll-used.json'
+_OK_LICENSE = re.compile(r'^(cc0|public domain|pd\b|pd-|cc[ -]by(?![^ ]*n[cd]))', re.I)
+
+
+def _strip_html(t):
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', t or '')).strip()
+
+
+def _commons_candidates(query, sess):
+    r = sess.get('https://commons.wikimedia.org/w/api.php', timeout=30, params={
+        'action': 'query', 'format': 'json', 'generator': 'search', 'gsrsearch': f'{query} filetype:video',
+        'gsrnamespace': 6, 'gsrlimit': 15, 'prop': 'videoinfo',
+        'viprop': 'url|size|mime|extmetadata|derivatives'})
+    r.raise_for_status()
+    pages = sorted((r.json().get('query') or {}).get('pages', {}).values(), key=lambda p: p.get('index', 99))
+    out = []
+    for pg in pages:
+        vi = (pg.get('videoinfo') or [{}])[0]
+        meta = vi.get('extmetadata') or {}
+        lic = _strip_html(meta.get('LicenseShortName', {}).get('value', ''))
+        if not _OK_LICENSE.match(lic):
+            continue
+        dur = float(vi.get('duration') or 0)
+        if dur and (dur < 4 or dur > 1800):
+            continue
+        ders = [d for d in vi.get('derivatives', []) if 300 <= int(d.get('height') or 0) <= 720]
+        ders.sort(key=lambda d: -int(d.get('height') or 0))
+        src = ders[0]['src'] if ders else (vi.get('url') if int(vi.get('size') or 0) < 80_000_000 else None)
+        if not src:
+            continue
+        title = pg['title'].replace('File:', '', 1)
+        artist = _strip_html(meta.get('Artist', {}).get('value', ''))[:60] or 'unknown'
+        out.append({'title': title, 'src': src, 'dur': dur, 'credit': f'{title.rsplit(".", 1)[0][:70]} – {artist} ({lic})'})
+    return out
+
+
+def fetch_broll(story, name, max_clips=12):
+    """Lädt für Fragen mit "broll" (Suchbegriff) einen kurzen, stummen Clip aus Wikimedia Commons
+    (nur CC0/PD/CC BY/CC BY-SA) nach public/broll/ und setzt q["video"]. Fehler → Frage bleibt bei Foto/Emoji.
+    Gibt die Credit-Zeilen für die Beschreibung zurück."""
+    qs = [q for q in story.get('questions', []) if q.get('broll') and not q.get('values')][:max_clips]
+    if not qs:
+        return []
+    import requests
+    ff = 'ffmpeg'
+    try:
+        import imageio_ffmpeg
+        ff = imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        pass
+    sess = requests.Session()
+    sess.headers['User-Agent'] = 'CouldYouPassQuizBot/1.0 (YouTube quiz channel; contact via GitHub ismail656565)'
+    used = set(json.loads(BROLL_USED.read_text(encoding='utf-8'))) if BROLL_USED.exists() else set()
+    outdir = ROOT / 'public' / 'broll'
+    outdir.mkdir(parents=True, exist_ok=True)
+    credits = []
+    for i, q in enumerate(story['questions']):
+        if q not in qs:
+            continue
+        try:
+            cands = [c for c in _commons_candidates(q['broll'], sess) if c['title'] not in used]
+        except Exception as ex:
+            log('B-Roll Suche fehlgeschlagen', q['broll'], str(ex)[:120])
+            continue
+        need = max(4.0, float(q.get('end', 8)) - float(q.get('start', 0)) + 1.0)
+        for c in cands[:3]:
+            raw = outdir / f'{name}-{i}.src'
+            out = outdir / f'{name}-{i}.mp4'
+            try:
+                with sess.get(c['src'], timeout=120, stream=True) as r:
+                    r.raise_for_status()
+                    with open(raw, 'wb') as fh:
+                        for chunk in r.iter_content(1 << 20):
+                            fh.write(chunk)
+                start = min(3.0, c['dur'] / 4) if c['dur'] else 0
+                cmd = [ff, '-y', '-loglevel', 'error', '-stream_loop', '-1', '-ss', f'{start:.1f}', '-i', str(raw),
+                       '-t', f'{need:.1f}', '-an', '-vf', 'scale=-2:720,fps=30', '-c:v', 'libx264', '-preset', 'veryfast',
+                       '-crf', '26', '-pix_fmt', 'yuv420p', str(out)]
+                rr = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+                raw.unlink(missing_ok=True)
+                if rr.returncode or not out.exists() or out.stat().st_size < 20_000:
+                    raise RuntimeError(rr.stderr[-200:])
+                q['video'] = f'broll/{out.name}'
+                used.add(c['title'])
+                credits.append(c['credit'])
+                log(f'B-Roll Frage {i + 1} ("{q["broll"]}"): {c["title"][:60]}')
+                break
+            except Exception as ex:
+                raw.unlink(missing_ok=True)
+                log('B-Roll Clip übersprungen', c['title'][:60], str(ex)[:120])
+        else:
+            if 'video' not in q:
+                log(f'B-Roll Frage {i + 1} ("{q["broll"]}"): kein passender Clip – bleibt bei Foto/Emoji')
+    BROLL_USED.write_text(json.dumps(sorted(used), indent=0, ensure_ascii=False), encoding='utf-8')
+    return credits
+
+
+def add_broll_credits(item, credits):
+    if not credits:
+        return
+    yt = item.setdefault('youtube', {})
+    desc = yt.get('description', '')
+    line = 'Footage via Wikimedia Commons: ' + '; '.join(credits)
+    if 'Music: original.' in desc:
+        desc = desc.replace('Music: original.', line + '\nMusic: original.')
+    else:
+        desc = desc.rstrip() + '\n' + line
+    yt['description'] = desc[:4900]
+
+
+
 def produce_one(p):
     item = json.loads(p.read_text(encoding='utf-8'))
     name = item['id']
@@ -619,6 +731,10 @@ def produce_one(p):
         story = item['story']
         story['audio'] = f'audio/{name}.mp3'
         build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
+        try:
+            add_broll_credits(item, fetch_broll(story, name))
+        except Exception as ex:
+            log('B-Roll übersprungen:', str(ex)[:200])
         (ROOT / 'stories' / f'{name}.json').write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf-8')
         r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=ROOT, shell=(os.name == 'nt'), capture_output=True, text=True)
         mp4 = ROOT / 'out' / f'{name}.mp4'
@@ -948,6 +1064,10 @@ def main():
             story = item['story']
             story['audio'] = f'audio/{name}.mp3'
             build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
+            try:
+                log('Testlauf B-Roll-Credits:', fetch_broll(story, name))
+            except Exception as ex:
+                log('B-Roll übersprungen:', str(ex)[:200])
             (ROOT / 'stories' / f'{name}.json').write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf-8')
             r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=ROOT, capture_output=True, text=True)
             if r.returncode:

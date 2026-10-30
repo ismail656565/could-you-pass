@@ -1,5 +1,5 @@
 import React from 'react';
-import {AbsoluteFill, Img, Sequence, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
+import {AbsoluteFill, Img, OffthreadVideo, Sequence, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 import {loadFont} from '@remotion/google-fonts/Montserrat';
 import type {QuizQuestion, QuizStory} from './Quiz';
 
@@ -144,8 +144,10 @@ const TvCard: React.FC<{q: QuizQuestion; story: QuizStory; x: number; y: number;
   return (
     <div style={{position: 'absolute', left: x, top: y, width: w, height: h, borderRadius: 22, padding: 5, background: `linear-gradient(160deg, #F8E7A8, ${T.gold} 40%, ${T.goldDark} 70%, ${T.silver})`, boxShadow: '0 20px 50px rgba(0,0,0,0.55)'}}>
       <div style={{position: 'relative', width: '100%', height: '100%', borderRadius: 18, overflow: 'hidden', background: `radial-gradient(circle at 50% 40%, ${c1} 0%, ${c2} 100%)`}}>
-        {q.image ? <Img src={staticFile(q.image)} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${zoom})`}} /> : null}
-        {q.cardText ? (
+        {q.video ? (
+          <OffthreadVideo src={staticFile(q.video)} muted style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+        ) : q.image ? <Img src={staticFile(q.image)} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${zoom})`}} /> : null}
+        {q.cardText && !q.video ? (
           <div style={{position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', whiteSpace: 'pre-line', fontFamily: FONT, fontWeight: 800, color: T.white, fontSize: cardFont(q.cardText, h * 0.6, w * 0.8), lineHeight: 1.2}}>
             {q.cardText}
           </div>

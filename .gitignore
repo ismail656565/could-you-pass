@@ -6,3 +6,4 @@ autopilot/token.json
 autopilot/tmp/
 __pycache__/
 models/
+public/broll/
