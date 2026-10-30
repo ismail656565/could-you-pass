@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-30T08:10",
+ "fetched": "2026-10-30T11:32",
  "channel": "COULD YOU PASS?",
  "subscribers": "7",
  "audience": {
@@ -83,12 +83,12 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 12490,
-    "engagedViews": 5438
+    "views": 12487,
+    "engagedViews": 5437
    },
    {
     "deviceType": "TABLET",
-    "views": 3153,
+    "views": 3152,
     "engagedViews": 1568
    },
    {
@@ -177,7 +177,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 652,
-   "publicViews": "1"
+   "publicViews": "2"
   },
   {
    "id": "bG67Q6LHIiw",
@@ -186,7 +186,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 7,
-   "publicViews": "207"
+   "publicViews": "210"
   },
   {
    "id": "ncpoW2HLpI0",
@@ -195,7 +195,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 8,
-   "publicViews": "482"
+   "publicViews": "531"
   },
   {
    "id": "zZDclzxCTSg",
@@ -215,7 +215,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 674,
-   "publicViews": "8",
+   "publicViews": "9",
    "engagedShare": 1.0
   },
   {
@@ -1265,7 +1265,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 13,
-   "publicViews": "1184",
+   "publicViews": "1187",
    "engagedShare": 0.434
   },
   {
@@ -1280,15 +1280,15 @@
    "comments": 1,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 970,
-    "YT_SEARCH": 18,
-    "YT_OTHER_PAGE": 8,
-    "YT_CHANNEL": 2,
+    "SHORTS": 967,
+    "YT_SEARCH": 19,
+    "YT_OTHER_PAGE": 7,
+    "YT_CHANNEL": 3,
     "NO_LINK_OTHER": 0,
     "EXT_URL": 0
    },
    "durationSec": 43,
-   "publicViews": "1075",
+   "publicViews": "1076",
    "engagedShare": 0.491
   },
   {
@@ -1303,9 +1303,9 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 826,
+    "SHORTS": 822,
     "YT_SEARCH": 26,
-    "YT_CHANNEL": 2,
+    "YT_CHANNEL": 4,
     "YT_OTHER_PAGE": 1,
     "NO_LINK_OTHER": 0
    },
@@ -1784,7 +1784,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 63,
-   "publicViews": "303",
+   "publicViews": "304",
    "engagedShare": 0.71
   },
   {
