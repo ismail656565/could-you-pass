@@ -275,3 +275,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Test 30.10. (dryrun broll-test): 3 von 4 Clips gefunden (Oktopus Rotes Meer, Küste aus der Luft, Eis auf dem Mississippi), Render ok, wirkt deutlich echter. 4. Clip scheiterte an Wikimedia-Drosselung (429) → Pause + Wiederholung eingebaut.
 - REGELN für "broll": (1) Der Clip darf die Antwort NICHT verraten oder auf sie hindeuten (bei "largest desert" NICHT "snow ice", sondern z. B. "sand dunes wind" nur wenn Sahara keine Lösung ist – sonst neutral "globe earth rotating"). (2) Konkrete, filmbare Motive nennen ("octopus underwater", "city traffic night", "waterfall forest", "old steam train"); keine abstrakten Begriffe. (3) Shorts: für JEDE Frage ein broll (max. 12 pro Video). Lange Videos: broll nur für die ersten 2 Fragen jeder Runde (≤ 10 Clips), Rest image/cardText. (4) VS-Fragen (values) bekommen kein broll. (5) Fotos aus image-credits.json bleiben erlaubt; ist broll gesetzt, hat der Clip Vorrang.
 - Bereits benutzte Clips stehen in autopilot/broll-used.json und werden nicht wiederverwendet (Abwechslung gegen "inauthentic content").
+
+## 2026-10-31 – Research (Research-Agent)
+- Keine neuen Analytics seit 30.10. 11:32; Stand: 6+-Fragen-Shorts Median 1.333, leichte 1-Frage 1.137, 4-Trap 294; Honig-1-Frage jetzt 855, "4 History Questions" 998 (reine Themen-Sets + Foto tragen). Long-Median 9 Views (50 Q tvshow).
+- Konkurrenz: Clear Think "Test Your IQ … 8 Min (Part 2)" 187k (297×) → 7-Min-Tests tragen auch als Serie; Quibby (206 Abos) "Name the Movie By The Car" 343k → "Errate X am Detail" (~7 min) als Long-Idee.
+- Technik: Action hatte 5 entfernte Off-Topic-Kanäle wieder aufgenommen → neue `blocked`-Liste in competitors.json, competitors() respektiert sie (20 Kanäle).
+- 02.11.: E1 #2 "US Presidents Quiz: Can You Score 5/15?" (Midterms 03.11., nur Fakten), VS #2 "Which Is Faster?", leichte 1-Frage "Closest to the Sun".

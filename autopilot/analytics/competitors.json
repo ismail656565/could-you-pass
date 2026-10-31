@@ -199,51 +199,13 @@
     "2026-10-29": 3850,
     "2026-10-30": 3910
    }
-  },
-  {
-   "id": "UCULEK2LWTahJym1z4hfmP_A",
-   "name": "Routed",
-   "source": "outlier-scan",
-   "added": "2026-10-30",
-   "subsHistory": {
-    "2026-10-30": 644
-   }
-  },
-  {
-   "id": "UCu5_enl_cmCz_4sjMcz1kBg",
-   "name": "Shailesh Rajput",
-   "source": "outlier-scan",
-   "added": "2026-10-30",
-   "subsHistory": {
-    "2026-10-30": 21100
-   }
-  },
-  {
-   "id": "UCMvCuzlVNm0uZF1xBl-rRnA",
-   "name": "Quiz Baazi",
-   "source": "outlier-scan",
-   "added": "2026-10-30",
-   "subsHistory": {
-    "2026-10-30": 1040
-   }
-  },
-  {
-   "id": "UCz3jHcdrKO4aadKdj8JnxXg",
-   "name": "GK Prashnix",
-   "source": "outlier-scan",
-   "added": "2026-10-30",
-   "subsHistory": {
-    "2026-10-30": 300
-   }
-  },
-  {
-   "id": "UCsB72jQQTnsrke2iu5Pi2GA",
-   "name": "ABCInfoTales",
-   "source": "outlier-scan",
-   "added": "2026-10-30",
-   "subsHistory": {
-    "2026-10-30": 3780
-   }
   }
+ ],
+ "blocked": [
+  "UCMvCuzlVNm0uZF1xBl-rRnA",
+  "UCULEK2LWTahJym1z4hfmP_A",
+  "UCsB72jQQTnsrke2iu5Pi2GA",
+  "UCu5_enl_cmCz_4sjMcz1kBg",
+  "UCz3jHcdrKO4aadKdj8JnxXg"
  ]
 }

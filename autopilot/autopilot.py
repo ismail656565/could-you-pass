@@ -937,7 +937,8 @@ def competitors(max_channels=25, days=60):
     now = dt.datetime.now(dt.timezone.utc)
     cfile = AP / 'analytics' / 'competitors.json'
     conf = json.loads(cfile.read_text(encoding='utf-8')) if cfile.exists() else {}
-    tracked = {c['id']: c for c in conf.get('channels', [])}
+    blocked = set(conf.get('blocked', []))  # vom Research-Agenten entfernte Kanäle (nie wieder aufnehmen)
+    tracked = {c['id']: c for c in conf.get('channels', []) if c['id'] not in blocked}
     # neue Kandidaten aus dem Ausreißer-Scan (Video-IDs -> Kanal-IDs)
     of = AP / 'analytics' / 'outliers.json'
     if of.exists():
@@ -947,7 +948,7 @@ def competitors(max_channels=25, days=60):
         for i in range(0, len(ids), 50):
             for it in y.videos().list(part='snippet', id=','.join(ids[i:i + 50])).execute().get('items', []):
                 cid = it['snippet']['channelId']
-                if cid not in tracked and len(tracked) < max_channels:
+                if cid not in tracked and cid not in blocked and len(tracked) < max_channels:
                     tracked[cid] = {'id': cid, 'name': it['snippet']['channelTitle'], 'source': 'outlier-scan',
                                     'added': now.date().isoformat()}
     if not tracked:
