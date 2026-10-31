@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-31T07:59",
+ "fetched": "2026-10-31T11:29",
  "channel": "COULD YOU PASS?",
  "subscribers": "8",
  "audience": {
@@ -168,7 +168,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 43,
-   "publicViews": "57"
+   "publicViews": "66"
   },
   {
    "id": "0Lqj4vVUHyM",
@@ -177,7 +177,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 14,
-   "publicViews": "87"
+   "publicViews": "99"
   },
   {
    "id": "brCR2MyeQr0",
@@ -195,7 +195,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 15,
-   "publicViews": "171"
+   "publicViews": "176"
   },
   {
    "id": "U8i53jbut9U",
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 7,
-   "publicViews": "288"
+   "publicViews": "292"
   },
   {
    "id": "ncpoW2HLpI0",
@@ -734,7 +734,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 8,
-   "publicViews": "601",
+   "publicViews": "603",
    "engagedShare": 0.344
   },
   {
@@ -770,14 +770,15 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 1069,
-    "YT_OTHER_PAGE": 11,
-    "YT_SEARCH": 8,
+    "SHORTS": 1064,
+    "YT_OTHER_PAGE": 12,
+    "YT_SEARCH": 9,
     "YT_CHANNEL": 5,
-    "NO_LINK_OTHER": 1
+    "NO_LINK_OTHER": 1,
+    "SOUND_PAGE": 0
    },
    "durationSec": 9,
-   "publicViews": "1151",
+   "publicViews": "1153",
    "engagedShare": 0.371
   },
   {
@@ -792,16 +793,16 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 1100,
-    "YT_SEARCH": 19,
-    "YT_OTHER_PAGE": 15,
+    "SHORTS": 1095,
+    "YT_SEARCH": 24,
+    "YT_OTHER_PAGE": 13,
     "YT_CHANNEL": 2,
     "EXT_URL": 2,
     "SOUND_PAGE": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 13,
-   "publicViews": "1202",
+   "publicViews": "1205",
    "engagedShare": 0.433
   },
   {
@@ -840,8 +841,8 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 829,
-    "YT_SEARCH": 26,
+    "SHORTS": 825,
+    "YT_SEARCH": 28,
     "YT_CHANNEL": 4,
     "YT_OTHER_PAGE": 1,
     "NO_LINK_OTHER": 0
@@ -1153,7 +1154,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 26,
-   "publicViews": "496",
+   "publicViews": "497",
    "engagedShare": 0.371
   },
   {

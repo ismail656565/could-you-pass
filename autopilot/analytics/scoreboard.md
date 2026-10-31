@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-10-31T07:59 (8 Abos)
+# Scoreboard – Stand 2026-10-31T11:29 (8 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -9,9 +9,9 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 2 | 1334 | 1334 | 1433 | 56.0 | 53.7 | 0 |
-| Ersatz-Generator (1 Frage) | 4 | 1026 | 1151 | 1202 | 38.0 | 114.8 | 0 |
+| Ersatz-Generator (1 Frage) | 4 | 1028 | 1153 | 1205 | 38.0 | 114.8 | 0 |
 | 1-Frage-Ego-Hook | 5 | 453 | 330 | 864 | 45.0 | 110.9 | 0 |
-| 3 Fragen | 3 | 339 | 327 | 496 | 39.5 | 64.9 | 0 |
+| 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.9 | 0 |
 | 4-Fragen-Trap | 6 | 474 | 294 | 1081 | 50.3 | 89.6 | 0 |
 
 ### Shorts nach Thema/Titeltyp
@@ -20,11 +20,11 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | GENIUS TEST | 1 | 1433 | 1433 | 1433 | 57.0 | 61.2 | 0 |
 | WHICH CAME FIRST? | 1 | 1234 | 1234 | 1234 | 55.1 | 46.2 | 0 |
-| BRAIN QUIZ | 1 | 1202 | 1202 | 1202 | 43.3 | 104.4 | 0 |
-| GENERAL KNOWLEDGE | 3 | 968 | 1151 | 1151 | 36.2 | 118.2 | 0 |
+| BRAIN QUIZ | 1 | 1205 | 1205 | 1205 | 43.3 | 104.4 | 0 |
+| GENERAL KNOWLEDGE | 3 | 970 | 1153 | 1153 | 36.2 | 118.2 | 0 |
 | NATURE QUIZ | 1 | 864 | 864 | 864 | 38.8 | 71.8 | 0 |
 | GEOGRAPHY QUIZ | 1 | 714 | 714 | 714 | 37.4 | 114.3 | 0 |
-| HALLOWEEN TRIVIA | 3 | 343 | 338 | 496 | 35.3 | 114.8 | 0 |
+| HALLOWEEN TRIVIA | 3 | 343 | 338 | 497 | 35.3 | 114.8 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | TRIVIA | 6 | 472 | 289 | 1081 | 52.8 | 59.7 | 0 |
 | SPACE QUIZ | 1 | 202 | 202 | 202 | 49.5 | 95.5 | 0 |
@@ -34,14 +34,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 9 | 738 | 864 | 1202 | 44.3 | 90.1 | 0 |
-| neon | 11 | 568 | 338 | 1433 | 46.0 | 95.3 | 0 |
+| tvshow | 9 | 739 | 864 | 1205 | 44.3 | 90.1 | 0 |
+| neon | 11 | 569 | 338 | 1433 | 46.0 | 95.3 | 0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 5 | 838 | 1032 | 1202 | 43.8 | 97.6 | 0 |
+| game-show.wav | 5 | 839 | 1032 | 1205 | 43.8 | 97.6 | 0 |
 | world-trip.wav | 2 | 427 | 427 | 714 | 45.5 | 86.2 | 0 |
 | brain-pulse.wav | 13 | 604 | 338 | 1433 | 45.8 | 91.9 | 0 |
 
@@ -49,18 +49,18 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| – | 2 | 964 | 964 | 1433 | 47.0 | 67.5 | 0 |
-| 21:00 | 8 | 642 | 680 | 1151 | 48.3 | 75.9 | 0 |
-| 16:00 | 7 | 581 | 601 | 1202 | 43.3 | 111.6 | 0 |
+| – | 2 | 965 | 965 | 1433 | 47.0 | 67.5 | 0 |
+| 21:00 | 8 | 642 | 680 | 1153 | 48.3 | 75.9 | 0 |
+| 16:00 | 7 | 582 | 603 | 1205 | 43.3 | 111.6 | 0 |
 | 10:00 | 3 | 589 | 338 | 1234 | 41.3 | 105.6 | 0 |
 
 ### Top 8 Shorts
 
 - 1433 Views · stayed 0.57 · 6+ Fragen · neon · brain-pulse.wav · Only Geniuses Get 6/6 🧠 Hard Trivia Quiz #shorts
 - 1234 Views · stayed 0.551 · 6+ Fragen · neon · brain-pulse.wav · Which Came First? 6 Questions 90% Get Wrong 🤯 #shorts
-- 1202 Views · stayed 0.433 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer: What is the smallest prime number? 🤯 #shorts
-- 1151 Views · stayed 0.371 · Ersatz-Generator (1 Frage) · tvshow · brain-pulse.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
-- 1151 Views · stayed 0.371 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
+- 1205 Views · stayed 0.433 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer: What is the smallest prime number? 🤯 #shorts
+- 1153 Views · stayed 0.371 · Ersatz-Generator (1 Frage) · tvshow · brain-pulse.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
+- 1153 Views · stayed 0.371 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
 - 1081 Views · stayed 0.491 · 4-Fragen-Trap · tvshow · brain-pulse.wav · 4 History Questions Almost Everyone Gets Wrong 🦖 #shorts
 - 1032 Views · stayed 0.546 · 4-Fragen-Trap · neon · game-show.wav · 4 Questions 90% Get Wrong 🤯 #shorts
 - 864 Views · stayed 0.388 · 1-Frage-Ego-Hook · tvshow · brain-pulse.wav · How Many Flowers Make One Pound of Honey? 🍯🤯 #shorts
