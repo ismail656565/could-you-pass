@@ -58,7 +58,7 @@
  ],
  "youtube": {
   "title": "General Knowledge Quiz: Can You Score 4/12? 🧠 7-Minute Test",
-  "description": "12 hard general knowledge questions in about 7 minutes 🧠 Can you score at least 4?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeneralKnowledgeQuiz #TriviaQuiz #Quiz #HardQuiz #IQTest #GeneralKnowledge\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nMusic: original.",
+  "description": "12 hard general knowledge questions in about 7 minutes 🧠 Can you score at least 4?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeneralKnowledgeQuiz #TriviaQuiz #Quiz #HardQuiz #IQTest #GeneralKnowledge\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nFootage via Wikimedia Commons: City skyline (time lapse) – https://www.youtube.com/user/Editor (CC BY 3.0); AU700 chemistry analyzer in action – Shanel (CC BY-SA 4.0); Hunt and peck typing — Monkeytype benchmark – C40115 (CC BY 4.0); Haikou wholesale fruit market panorama - 01 – Anna Frodesiak (CC0); Ocean waves at Lækjavik beach, Iceland – Alexander Grebenkov (CC BY 3.0)\nMusic: original.",
   "tags": [
    "general knowledge quiz",
    "hard quiz",
@@ -114,7 +114,12 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🕐",
-    "broll": "city skyline night"
+    "broll": "city skyline night",
+    "start": 0.0,
+    "countdownStart": 7.905,
+    "reveal": 16.905,
+    "end": 25.149,
+    "video": "broll/gk-score-4-12-0.mp4"
    },
    {
     "q": "Which element has the symbol **Pb**?",
@@ -127,7 +132,12 @@
     "correct": 1,
     "level": "HARD",
     "cardText": "Pb",
-    "broll": "chemistry laboratory"
+    "broll": "chemistry laboratory",
+    "start": 25.149,
+    "countdownStart": 27.983,
+    "reveal": 36.983,
+    "end": 44.419,
+    "video": "broll/gk-score-4-12-1.mp4"
    },
    {
     "q": "What is the **smallest** country in Africa?",
@@ -139,7 +149,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🌍"
+    "cardText": "🌍",
+    "start": 44.419,
+    "countdownStart": 46.846,
+    "reveal": 55.846,
+    "end": 64.984
    },
    {
     "q": "What is the **deepest** lake in the world?",
@@ -151,7 +165,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🌊"
+    "cardText": "🌊",
+    "start": 64.984,
+    "countdownStart": 67.17,
+    "reveal": 76.17,
+    "end": 87.956
    },
    {
     "q": "How many bones are in one adult **hand**?",
@@ -164,7 +182,12 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "✋",
-    "broll": "hands typing keyboard"
+    "broll": "hands typing keyboard",
+    "start": 87.956,
+    "countdownStart": 93.065,
+    "reveal": 102.065,
+    "end": 108.18,
+    "video": "broll/gk-score-4-12-4.mp4"
    },
    {
     "q": "Which language has the **second** most native speakers?",
@@ -177,7 +200,12 @@
     "correct": 2,
     "level": "VERY HARD",
     "cardText": "🗣️",
-    "broll": "busy street market"
+    "broll": "busy street market",
+    "start": 108.18,
+    "countdownStart": 112.934,
+    "reveal": 121.934,
+    "end": 134.103,
+    "video": "broll/gk-score-4-12-5.mp4"
    },
    {
     "q": "What is the most common element in **Earth's crust**?",
@@ -189,7 +217,11 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🪨"
+    "cardText": "🪨",
+    "start": 134.103,
+    "countdownStart": 136.883,
+    "reveal": 145.883,
+    "end": 154.173
    },
    {
     "q": "Which organ **cannot feel pain** itself?",
@@ -201,7 +233,11 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "🧠"
+    "cardText": "🧠",
+    "start": 154.173,
+    "countdownStart": 156.935,
+    "reveal": 165.935,
+    "end": 176.513
    },
    {
     "q": "What does the **D** in D-Day stand for?",
@@ -214,7 +250,12 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "D",
-    "broll": "ocean waves beach"
+    "broll": "ocean waves beach",
+    "start": 176.513,
+    "countdownStart": 179.831,
+    "reveal": 188.831,
+    "end": 197.457,
+    "video": "broll/gk-score-4-12-8.mp4"
    },
    {
     "q": "About how often does your **heart** beat in one day?",
@@ -227,7 +268,11 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "❤️",
-    "broll": "runner jogging park"
+    "broll": "runner jogging park",
+    "start": 197.457,
+    "countdownStart": 201.243,
+    "reveal": 210.243,
+    "end": 218.001
    },
    {
     "q": "How many **permanent** members has the UN Security Council?",
@@ -239,7 +284,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🌐"
+    "cardText": "🌐",
+    "start": 218.001,
+    "countdownStart": 222.381,
+    "reveal": 231.381,
+    "end": 241.414
    },
    {
     "q": "What is the world's **oldest** university still running?",
@@ -251,8 +300,34 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🎓"
+    "cardText": "🎓",
+    "start": 241.414,
+    "countdownStart": 246.956,
+    "reveal": 255.956,
+    "end": 266.779
    }
-  ]
+  ],
+  "audio": "audio/gk-score-4-12.mp3",
+  "outroStart": 266.779,
+  "durationInSeconds": 277.483
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/gk-score-4-12-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-10-31",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-10-31T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "ixo369QcvVk",
+  "at": "2026-10-31T06:44"
  }
 }

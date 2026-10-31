@@ -73,7 +73,11 @@
     "images": [
      "bilder/cap-flag-brazil.jpg",
      "bilder/cap-flag-australia.jpg"
-    ]
+    ],
+    "start": 0.0,
+    "countdownStart": 2.621,
+    "reveal": 5.621,
+    "end": 9.829
    },
    {
     "q": "Which country is **bigger**?",
@@ -94,7 +98,11 @@
     "images": [
      "bilder/cap-flag-italy.jpg",
      "bilder/cap-flag-japan.jpg"
-    ]
+    ],
+    "start": 9.829,
+    "countdownStart": 11.217,
+    "reveal": 14.217,
+    "end": 17.612
    },
    {
     "q": "Which country is **bigger**?",
@@ -115,7 +123,11 @@
     "images": [
      "bilder/cap-flag-nigeria.jpg",
      "bilder/cap-flag-kazakhstan.jpg"
-    ]
+    ],
+    "start": 17.612,
+    "countdownStart": 19.491,
+    "reveal": 22.491,
+    "end": 28.103
    },
    {
     "q": "Which country is **bigger**?",
@@ -136,8 +148,24 @@
     "images": [
      "bilder/cap-flag-france.jpg",
      "bilder/cap-flag-turkey.jpg"
-    ]
+    ],
+    "start": 28.103,
+    "countdownStart": 29.988,
+    "reveal": 32.988,
+    "end": 39.463
    }
-  ]
- }
+  ],
+  "audio": "audio/vs-countries-bigger-1.mp3",
+  "outroStart": 39.463,
+  "durationInSeconds": 39.463
+ },
+ "publishAt": "21:00",
+ "scheduledFor": "2026-10-31T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "S-rX4Xh6B78",
+  "at": "2026-10-31T06:20"
+ },
+ "linkedLong": "ixo369QcvVk"
 }

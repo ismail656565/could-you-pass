@@ -1,0 +1,238 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "tvshow",
+ "title": "General Knowledge Quiz",
+ "header": "GENERAL KNOWLEDGE QUIZ",
+ "hook": "CAN YOU SCORE 4/12? 🧠",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you beat 4?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 5,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "SCORE **4/12**?",
+  "**7-MINUTE** TEST",
+  "HARDER THAN **IT LOOKS**"
+ ],
+ "thumbEmoji": "🧠",
+ "thumbBadge": "12 HARD QUESTIONS",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "thumbImage": "bilder/q2-pyramid.jpg",
+ "questions": [
+  {
+   "q": "How many **time zones** does China officially use?",
+   "answers": [
+    "Five",
+    "Four",
+    "One",
+    "Three"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🕐",
+   "broll": "city skyline night",
+   "start": 0.0,
+   "countdownStart": 7.905,
+   "reveal": 16.905,
+   "end": 25.149,
+   "video": "broll/gk-score-4-12-0.mp4"
+  },
+  {
+   "q": "Which element has the symbol **Pb**?",
+   "answers": [
+    "Platinum",
+    "Lead",
+    "Phosphorus",
+    "Palladium"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "Pb",
+   "broll": "chemistry laboratory",
+   "start": 25.149,
+   "countdownStart": 27.983,
+   "reveal": 36.983,
+   "end": 44.419,
+   "video": "broll/gk-score-4-12-1.mp4"
+  },
+  {
+   "q": "What is the **smallest** country in Africa?",
+   "answers": [
+    "Gambia",
+    "Comoros",
+    "Seychelles",
+    "Sao Tome and Principe"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🌍",
+   "start": 44.419,
+   "countdownStart": 46.846,
+   "reveal": 55.846,
+   "end": 64.984
+  },
+  {
+   "q": "What is the **deepest** lake in the world?",
+   "answers": [
+    "Lake Tanganyika",
+    "Lake Baikal",
+    "Lake Superior",
+    "Lake Victoria"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🌊",
+   "start": 64.984,
+   "countdownStart": 67.17,
+   "reveal": 76.17,
+   "end": 87.956
+  },
+  {
+   "q": "How many bones are in one adult **hand**?",
+   "answers": [
+    "19",
+    "27",
+    "32",
+    "14"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "✋",
+   "broll": "hands typing keyboard",
+   "start": 87.956,
+   "countdownStart": 93.065,
+   "reveal": 102.065,
+   "end": 108.18,
+   "video": "broll/gk-score-4-12-4.mp4"
+  },
+  {
+   "q": "Which language has the **second** most native speakers?",
+   "answers": [
+    "English",
+    "Hindi",
+    "Spanish",
+    "Arabic"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🗣️",
+   "broll": "busy street market",
+   "start": 108.18,
+   "countdownStart": 112.934,
+   "reveal": 121.934,
+   "end": 134.103,
+   "video": "broll/gk-score-4-12-5.mp4"
+  },
+  {
+   "q": "What is the most common element in **Earth's crust**?",
+   "answers": [
+    "Iron",
+    "Silicon",
+    "Oxygen",
+    "Aluminium"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🪨",
+   "start": 134.103,
+   "countdownStart": 136.883,
+   "reveal": 145.883,
+   "end": 154.173
+  },
+  {
+   "q": "Which organ **cannot feel pain** itself?",
+   "answers": [
+    "Heart",
+    "Brain",
+    "Liver",
+    "Skin"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "🧠",
+   "start": 154.173,
+   "countdownStart": 156.935,
+   "reveal": 165.935,
+   "end": 176.513
+  },
+  {
+   "q": "What does the **D** in D-Day stand for?",
+   "answers": [
+    "Doom",
+    "Day",
+    "Destiny",
+    "Deliverance"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "D",
+   "broll": "ocean waves beach",
+   "start": 176.513,
+   "countdownStart": 179.831,
+   "reveal": 188.831,
+   "end": 197.457,
+   "video": "broll/gk-score-4-12-8.mp4"
+  },
+  {
+   "q": "About how often does your **heart** beat in one day?",
+   "answers": [
+    "10,000 times",
+    "1 million times",
+    "100,000 times",
+    "500,000 times"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "❤️",
+   "broll": "runner jogging park",
+   "start": 197.457,
+   "countdownStart": 201.243,
+   "reveal": 210.243,
+   "end": 218.001
+  },
+  {
+   "q": "How many **permanent** members has the UN Security Council?",
+   "answers": [
+    "Five",
+    "Seven",
+    "Ten",
+    "Fifteen"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🌐",
+   "start": 218.001,
+   "countdownStart": 222.381,
+   "reveal": 231.381,
+   "end": 241.414
+  },
+  {
+   "q": "What is the world's **oldest** university still running?",
+   "answers": [
+    "Oxford",
+    "Bologna",
+    "Al-Qarawiyyin",
+    "Al-Azhar"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "🎓",
+   "start": 241.414,
+   "countdownStart": 246.956,
+   "reveal": 255.956,
+   "end": 266.779
+  }
+ ],
+ "audio": "audio/gk-score-4-12.mp3",
+ "outroStart": 266.779,
+ "durationInSeconds": 277.483
+}

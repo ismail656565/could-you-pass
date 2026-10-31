@@ -12,7 +12,7 @@
  ],
  "youtube": {
   "title": "Can You Answer: How Many Hours Are in a Week? 🤯 #shorts",
-  "description": "No calculator allowed 🤯 How fast did you get it?\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #mathquiz #brainteaser #generalknowledge #shorts\n\nMusic: original.",
+  "description": "No calculator allowed 🤯 How fast did you get it?\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #mathquiz #brainteaser #generalknowledge #shorts\n\nFootage via Wikimedia Commons: Andreas Huber clock ticking Wien Museum Uhrenmuseum Vienna 2024 – Furkan Akkurt (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "quiz",
    "math quiz",
@@ -52,8 +52,25 @@
     "correct": 2,
     "level": "EASY",
     "cardText": "7 × 🕐",
-    "broll": "wall clock ticking"
+    "broll": "wall clock ticking",
+    "start": 0.0,
+    "countdownStart": 4.945,
+    "reveal": 7.945,
+    "end": 12.859,
+    "video": "broll/one-q-hours-week-0.mp4"
    }
-  ]
- }
+  ],
+  "audio": "audio/one-q-hours-week.mp3",
+  "outroStart": 12.859,
+  "durationInSeconds": 12.859
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-10-31T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "ytdL31Bpx_A",
+  "at": "2026-10-31T06:17"
+ },
+ "linkedLong": "ixo369QcvVk"
 }

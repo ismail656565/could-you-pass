@@ -1,0 +1,39 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "QUICK QUIZ",
+ "hook": "NO CALCULATOR 🤯",
+ "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+ "finalLabel": "",
+ "ctaText": "Follow if you got it ✅",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get it?",
+ "outroSub": "Comment 👇",
+ "questions": [
+  {
+   "q": "How many **hours** are in one week?",
+   "answers": [
+    "148",
+    "160",
+    "168",
+    "186"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "7 × 🕐",
+   "broll": "wall clock ticking",
+   "start": 0.0,
+   "countdownStart": 4.945,
+   "reveal": 7.945,
+   "end": 12.859,
+   "video": "broll/one-q-hours-week-0.mp4"
+  }
+ ],
+ "audio": "audio/one-q-hours-week.mp3",
+ "outroStart": 12.859,
+ "durationInSeconds": 12.859
+}
