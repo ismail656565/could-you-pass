@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-31T06:15",
+ "fetched": "2026-10-31T07:59",
  "groups": {
   "short.format": {
    "6+ Fragen": {
@@ -481,7 +481,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 12.6,
+   "ageDays": 12.7,
    "search": null
   },
   {
@@ -500,7 +500,7 @@
    "avgPct": 61.18,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 12.6,
+   "ageDays": 12.7,
    "search": null
   },
   {
@@ -538,7 +538,7 @@
    "avgPct": 73.82,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 11.5,
+   "ageDays": 11.6,
    "search": null
   },
   {
@@ -576,7 +576,7 @@
    "avgPct": 46.2,
    "subs": 0.0,
    "durationSec": 46,
-   "ageDays": 11.9,
+   "ageDays": 12.0,
    "search": null
   },
   {
@@ -595,7 +595,7 @@
    "avgPct": 56.830000000000005,
    "subs": 0.0,
    "durationSec": 24,
-   "ageDays": 10.9,
+   "ageDays": 11.0,
    "search": null
   },
   {
@@ -652,7 +652,7 @@
    "avgPct": 213.79000000000002,
    "subs": 0.0,
    "durationSec": 35,
-   "ageDays": 9.9,
+   "ageDays": 10.0,
    "search": null
   },
   {
@@ -862,7 +862,7 @@
    "subs": 0.0,
    "durationSec": 17,
    "ageDays": 5.7,
-   "search": 5
+   "search": null
   },
   {
    "file": "2026-10-25-over65-memory-50-1.json",
@@ -880,7 +880,7 @@
    "avgPct": 26.119999999999997,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 5.7,
+   "ageDays": 5.8,
    "search": null
   },
   {
@@ -899,8 +899,8 @@
    "avgPct": 58.01,
    "subs": 0.0,
    "durationSec": 39,
-   "ageDays": 5.4,
-   "search": 5
+   "ageDays": 5.5,
+   "search": null
   },
   {
    "file": "2026-10-26-citizenship-test-50-1.json",
@@ -918,8 +918,8 @@
    "avgPct": 37.07,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 4.7,
-   "search": 2
+   "ageDays": 4.8,
+   "search": null
   },
   {
    "file": "2026-10-26-one-q-honey-flowers.json",
@@ -956,7 +956,7 @@
    "avgPct": 43.06,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 4.4,
+   "ageDays": 4.5,
    "search": 19
   },
   {
@@ -994,7 +994,7 @@
    "avgPct": 116.34,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 3.4,
+   "ageDays": 3.5,
    "search": 8
   },
   {
@@ -1013,7 +1013,7 @@
    "avgPct": 104.42,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 3.4,
+   "ageDays": 3.5,
    "search": 19
   },
   {
@@ -1070,7 +1070,7 @@
    "avgPct": 116.34,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 3.4,
+   "ageDays": 3.5,
    "search": 8
   }
  ]
