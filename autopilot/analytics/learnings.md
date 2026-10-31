@@ -281,3 +281,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Konkurrenz: Clear Think "Test Your IQ … 8 Min (Part 2)" 187k (297×) → 7-Min-Tests tragen auch als Serie; Quibby (206 Abos) "Name the Movie By The Car" 343k → "Errate X am Detail" (~7 min) als Long-Idee.
 - Technik: Action hatte 5 entfernte Off-Topic-Kanäle wieder aufgenommen → neue `blocked`-Liste in competitors.json, competitors() respektiert sie (20 Kanäle).
 - 02.11.: E1 #2 "US Presidents Quiz: Can You Score 5/15?" (Midterms 03.11., nur Fakten), VS #2 "Which Is Faster?", leichte 1-Frage "Closest to the Sun".
+
+## 2026-10-31 (Produktions-Agent, Queue 02.11.)
+- Technik: Lauf 30.10. 06:17 war nur wegen "Artifact storage quota" rot – alle 3 Uploads (2 Shorts + 1 Long) liefen durch; Artefakt-Upload ist seit 16f5b0a entfernt, Läufe danach grün. 30.10. Soll erfüllt (one-q-sloth-digest, trap-4-5-food, animal-quiz-50-1).
+- Analytics: report.json weiterhin vom 30.10. 11:32 (7 Abos) – keine neuen Zahlen. Shorts: 6+ Fragen Median 1.333 (stayed 56 %), leichte 1-Frage 1.137 (39 %), 4-Trap 294 (50 %); tvshow 968 vs. neon 338.
+- Long: Median <10 Views; nur Emoji-Long trägt (stayed 73 %). E1 #1 (12 Q, 31.10.) und E1 #2 Presidents (15 Q, 02.11.) liefern das erste Verdict zum 7-Min-Format ab 03.–05.11.
+- Thumbnails: Für das Presidents-Long gibt es kein passendes Foto in image-credits.json (keine US-Flagge/Kapitol/White House) → bewusst ohne thumbImage statt themenfremdem Foto. Bitte gelegentlich US-Motive (Flagge, Kapitol, Mount Rushmore) in image-credits.json ergänzen.
+- VS #2: Mensch-Durchschnittstempo nicht eindeutig belegbar → Runde ersetzt; finale Paare: Bolt vs Grizzly, Gabelbock vs Rennpferd, Strauß vs Gepard, Bolt vs Flusspferd (Callback auf R1). Kein Strauß-Emoji vorhanden → 🪶.

@@ -1,0 +1,143 @@
+{
+ "id": "vs-animals-faster-1",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "lines": [
+  {
+   "q": "Which is faster, Usain Bolt or a grizzly bear?",
+   "a": "The grizzly! About fifty six kilometres an hour. Even the fastest man alive can't outrun one."
+  },
+  {
+   "q": "Pronghorn or racehorse?",
+   "a": "Pronghorn! Up to eighty eight kilometres an hour, the fastest animal in North America."
+  },
+  {
+   "q": "Ostrich or cheetah?",
+   "a": "Cheetah! But the ostrich is the fastest bird on land, at about seventy."
+  },
+  {
+   "q": "Last one. Usain Bolt or a hippo?",
+   "a": "Usain Bolt! Finally a win for humans. A hippo tops out around thirty. Think you can get all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Which Is Faster? 4 Races 90% Get Wrong 🐆 #shorts",
+  "description": "Guess the faster one – the bars reveal the real top speeds 🐆 Did #1 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#animals #quiz #animalquiz #speed #trivia #shorts\n\nSpeed data (approximate top speeds): U.S. National Park Service, Smithsonian's National Zoo, Guinness World Records.\nMusic: original.",
+  "tags": [
+   "which is faster",
+   "animal speed comparison",
+   "animal quiz",
+   "fastest animals",
+   "speed comparison",
+   "usain bolt vs animals",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did the grizzly bear get you? 🐻 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Faster?",
+  "header": "WHICH IS FASTER?",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "FASTER!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which is **faster**?",
+    "answers": [
+     "Usain Bolt",
+     "Grizzly bear"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     44.7,
+     56
+    ],
+    "valueLabels": [
+     "44.7 km/h",
+     "56 km/h"
+    ],
+    "icons": [
+     "🏃",
+     "🐻"
+    ]
+   },
+   {
+    "q": "Which is **faster**?",
+    "answers": [
+     "Pronghorn",
+     "Racehorse"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "values": [
+     88,
+     70
+    ],
+    "valueLabels": [
+     "88 km/h",
+     "70 km/h"
+    ],
+    "icons": [
+     "🦌",
+     "🐎"
+    ]
+   },
+   {
+    "q": "Which is **faster**?",
+    "answers": [
+     "Ostrich",
+     "Cheetah"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "values": [
+     70,
+     112
+    ],
+    "valueLabels": [
+     "70 km/h",
+     "112 km/h"
+    ],
+    "icons": [
+     "🪶",
+     "🐆"
+    ]
+   },
+   {
+    "q": "Which is **faster**?",
+    "answers": [
+     "Usain Bolt",
+     "Hippo"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "values": [
+     44.7,
+     30
+    ],
+    "valueLabels": [
+     "44.7 km/h",
+     "30 km/h"
+    ],
+    "icons": [
+     "🏃",
+     "🦛"
+    ]
+   }
+  ]
+ }
+}

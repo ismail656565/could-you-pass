@@ -1,0 +1,60 @@
+{
+ "id": "one-q-closest-sun",
+ "timing": {
+  "count": 3.0,
+  "tail": 0.4
+ },
+ "lines": [
+  {
+   "q": "Quick one! Which planet is closest to the Sun? Double tap to lock your answer!",
+   "a": "Mercury! Plot twist: it's not the hottest planet. That's Venus, thanks to its thick clouds. Follow if you got it!"
+  }
+ ],
+ "youtube": {
+  "title": "Can You Answer: Which Planet Is Closest to the Sun? ☀️🤯 #shorts",
+  "description": "Easy… or is it? ☀️ The answer has a twist.\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #spacequiz #planets #solarsystem #trivia #shorts\n\nPhotos via Wikimedia Commons: Sun – NASA/SDO (public domain)\nMusic: original.",
+  "tags": [
+   "space quiz",
+   "planets quiz",
+   "solar system quiz",
+   "quiz",
+   "trivia",
+   "can you answer this",
+   "science quiz",
+   "shorts"
+  ],
+  "comment": "Venus, Mercury, Mars or Earth? Did the twist get you? ☀️👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "QUICK QUIZ",
+  "hook": "EASY… OR IS IT? 🤔",
+  "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+  "finalLabel": "",
+  "ctaText": "Follow if you got it ✅",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you get it?",
+  "outroSub": "Comment 👇",
+  "questions": [
+   {
+    "q": "Which planet is **closest** to the Sun?",
+    "answers": [
+     "Venus",
+     "Mercury",
+     "Mars",
+     "Earth"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "image": "bilder/q2-sun.jpg",
+    "cardText": "☀️",
+    "broll": "night sky stars"
+   }
+  ]
+ }
+}
