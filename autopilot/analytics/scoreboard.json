@@ -274,9 +274,9 @@
     "subs": 1.0
    },
    "50 Fragen": {
-    "n": 7,
-    "avgViews": 7,
-    "medianViews": 4,
+    "n": 8,
+    "avgViews": 6,
+    "medianViews": 3,
     "bestViews": 13,
     "stayed": 55.9,
     "avgPct": 52.9,
@@ -347,6 +347,15 @@
     "avgPct": 37.1,
     "subs": 0
    },
+   "Tiere": {
+    "n": 1,
+    "avgViews": 2,
+    "medianViews": 2,
+    "bestViews": 2,
+    "stayed": null,
+    "avgPct": null,
+    "subs": 0
+   },
    "Allgemeinwissen": {
     "n": 3,
     "avgViews": 9,
@@ -377,9 +386,9 @@
     "subs": 1.0
    },
    "tvshow": {
-    "n": 5,
-    "avgViews": 9,
-    "medianViews": 11,
+    "n": 6,
+    "avgViews": 8,
+    "medianViews": 8,
     "bestViews": 13,
     "stayed": 48.2,
     "avgPct": 34.0,
@@ -397,9 +406,9 @@
     "subs": 1.0
    },
    "game-show.wav": {
-    "n": 5,
-    "avgViews": 45,
-    "medianViews": 8,
+    "n": 6,
+    "avgViews": 38,
+    "medianViews": 7,
     "bestViews": 183,
     "stayed": 63.5,
     "avgPct": 38.8,
@@ -435,9 +444,9 @@
     "subs": 1.0
    },
    "14:00": {
-    "n": 11,
-    "avgViews": 17,
-    "medianViews": 11,
+    "n": 12,
+    "avgViews": 15,
+    "medianViews": 10,
     "bestViews": 57,
     "stayed": 59.5,
     "avgPct": 46.2,
@@ -519,7 +528,7 @@
    "avgPct": 25.540000000000003,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 12.7,
+   "ageDays": 12.8,
    "search": null
   },
   {
@@ -557,7 +566,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 13.0,
+   "ageDays": 13.1,
    "search": null
   },
   {
@@ -614,7 +623,7 @@
    "avgPct": 33.27,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 12.0,
+   "ageDays": 12.1,
    "search": null
   },
   {
@@ -633,7 +642,7 @@
    "avgPct": 23.26,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 11.0,
+   "ageDays": 11.1,
    "search": null
   },
   {
@@ -671,7 +680,7 @@
    "avgPct": 36.55,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 10.0,
+   "ageDays": 10.1,
    "search": null
   },
   {
@@ -709,7 +718,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 9.7,
+   "ageDays": 9.8,
    "search": null
   },
   {
@@ -747,7 +756,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 9.0,
+   "ageDays": 9.1,
    "search": null
   },
   {
@@ -766,7 +775,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 8.7,
+   "ageDays": 8.8,
    "search": null
   },
   {
@@ -785,7 +794,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 8.0,
+   "ageDays": 8.1,
    "search": null
   },
   {
@@ -823,7 +832,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 7.7,
+   "ageDays": 7.8,
    "search": null
   },
   {
@@ -842,7 +851,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 8.3,
+   "ageDays": 8.4,
    "search": null
   },
   {
@@ -861,7 +870,7 @@
    "avgPct": 95.47,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 6.9,
+   "ageDays": 7.0,
    "search": null
   },
   {
@@ -937,7 +946,7 @@
    "avgPct": 71.81,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 5.9,
+   "ageDays": 6.0,
    "search": null
   },
   {
@@ -960,6 +969,25 @@
    "search": null
   },
   {
+   "file": "2026-10-30-animal-quiz-50-1.json",
+   "id": "animal-quiz-50-1",
+   "videoId": "brCR2MyeQr0",
+   "kind": "long",
+   "title": "Animal Quiz: 50 Questions From Easy to Legend 🐾 | How Many Can You Get?",
+   "format": "50 Fragen",
+   "topic": "Tiere",
+   "layout": "tvshow",
+   "music": "game-show.wav",
+   "slot": "14:00",
+   "publicViews": 2.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 628,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-27-long.json",
    "id": "auto-2026-10-27-long",
    "videoId": "zZDclzxCTSg",
@@ -975,7 +1003,7 @@
    "avgPct": 3.58,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 4.6,
+   "ageDays": 4.7,
    "search": 2
   },
   {
@@ -1032,7 +1060,7 @@
    "avgPct": 3.58,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 4.6,
+   "ageDays": 4.7,
    "search": 2
   },
   {
@@ -1051,7 +1079,7 @@
    "avgPct": 126.27999999999999,
    "subs": 0.0,
    "durationSec": 8,
-   "ageDays": 3.9,
+   "ageDays": 4.0,
    "search": 7
   },
   {
@@ -1089,7 +1117,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 2.7,
+   "ageDays": 2.8,
    "search": null
   },
   {
