@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-01T08:06 (8 Abos)
+# Scoreboard – Stand 2026-11-01T11:28 (8 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -9,7 +9,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 2 | 1334 | 1334 | 1433 | 56.0 | 53.7 | 0 |
-| Ersatz-Generator (1 Frage) | 6 | 774 | 885 | 1206 | 36.3 | 159.0 | 0 |
+| Ersatz-Generator (1 Frage) | 6 | 775 | 886 | 1206 | 36.3 | 159.0 | 0 |
 | 1-Frage-Ego-Hook | 5 | 453 | 330 | 864 | 45.0 | 110.9 | 0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.9 | 0 |
 | 4-Fragen-Trap | 6 | 474 | 294 | 1081 | 50.2 | 89.6 | 0 |
@@ -23,7 +23,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | BRAIN QUIZ | 1 | 1206 | 1206 | 1206 | 43.8 | 103.7 | 0 |
 | NATURE QUIZ | 1 | 864 | 864 | 864 | 38.8 | 71.8 | 0 |
 | GEOGRAPHY QUIZ | 1 | 714 | 714 | 714 | 37.4 | 114.3 | 0 |
-| GENERAL KNOWLEDGE | 5 | 688 | 610 | 1160 | 34.8 | 170.0 | 0 |
+| GENERAL KNOWLEDGE | 5 | 688 | 612 | 1160 | 34.8 | 170.0 | 0 |
 | HALLOWEEN TRIVIA | 3 | 343 | 338 | 497 | 35.3 | 114.8 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | TRIVIA | 6 | 472 | 289 | 1081 | 52.7 | 59.6 | 0 |
@@ -50,7 +50,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 965 | 965 | 1433 | 47.0 | 67.5 | 0 |
-| 16:00 | 7 | 583 | 610 | 1206 | 43.7 | 112.1 | 0 |
+| 16:00 | 7 | 583 | 612 | 1206 | 43.7 | 112.1 | 0 |
 | 10:00 | 4 | 521 | 328 | 1234 | 38.9 | 177.2 | 0 |
 | 21:00 | 9 | 594 | 327 | 1160 | 46.1 | 78.8 | 0 |
 

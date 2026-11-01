@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-01T08:06",
+ "fetched": "2026-11-01T11:28",
  "channel": "COULD YOU PASS?",
  "subscribers": "8",
  "audience": {
@@ -83,8 +83,8 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 13348,
-    "engagedViews": 5736
+    "views": 13345,
+    "engagedViews": 5735
    },
    {
     "deviceType": "TABLET",
@@ -168,7 +168,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 40,
-   "publicViews": "516"
+   "publicViews": "525"
   },
   {
    "id": "ytdL31Bpx_A",
@@ -177,7 +177,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 13,
-   "publicViews": "195"
+   "publicViews": "206"
   },
   {
    "id": "ixo369QcvVk",
@@ -195,7 +195,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 43,
-   "publicViews": "122"
+   "publicViews": "125"
   },
   {
    "id": "0Lqj4vVUHyM",
@@ -204,7 +204,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 14,
-   "publicViews": "145"
+   "publicViews": "154"
   },
   {
    "id": "brCR2MyeQr0",
@@ -787,13 +787,13 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 497,
+    "SHORTS": 494,
     "YT_SEARCH": 7,
     "YT_CHANNEL": 2,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 8,
-   "publicViews": "610",
+   "publicViews": "612",
    "engagedShare": 0.372
   },
   {
@@ -829,10 +829,10 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 1109,
-    "YT_OTHER_PAGE": 12,
+    "SHORTS": 1105,
+    "YT_OTHER_PAGE": 14,
     "YT_SEARCH": 9,
-    "YT_CHANNEL": 5,
+    "YT_CHANNEL": 7,
     "NO_LINK_OTHER": 1,
     "SOUND_PAGE": 0
    },
