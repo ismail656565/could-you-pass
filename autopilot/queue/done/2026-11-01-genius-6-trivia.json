@@ -32,7 +32,7 @@
  ],
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts",
-  "description": "6 quick trivia questions 🧠 Can you get all six?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #triviachallenge #generalknowledge #quiztime #shorts\n\nMusic: original.",
+  "description": "6 quick trivia questions 🧠 Can you get all six?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #triviachallenge #generalknowledge #quiztime #shorts\n\nFootage via Wikimedia Commons: Ladybug larva (Coccinellidae sp.) – Ursus sapien (CC BY-SA 3.0); Timelapse video of Bulusan Volcano after its eruption on June 12, 2022 – Philippine Institute of Volcanology and Seismology (PHIVOLCS (Public domain); Night sky time lapse – https://www.youtube.com/user/FreeSwissVideo (CC BY 3.0); How to use the Desert Brush Pack Tutorial for Painter – PainterTutorials (CC BY 3.0); The Voice of the Active Learner by Blackboard and JESS3 – JESS3 (CC BY 3.0); Two Orreries (Derby Museum & Art Gallery) – Nick Moyes (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "trivia challenge quiz",
    "trivia quiz",
@@ -70,7 +70,12 @@
     "correct": 1,
     "level": "EASY",
     "cardText": "🐞",
-    "broll": "ladybug on leaf"
+    "broll": "ladybug on leaf",
+    "start": 0.0,
+    "countdownStart": 2.001,
+    "reveal": 4.501,
+    "end": 7.653,
+    "video": "broll/genius-6-trivia-0.mp4"
    },
    {
     "q": "In which country is the **Taj Mahal**?",
@@ -83,7 +88,12 @@
     "correct": 0,
     "level": "EASY",
     "cardText": "🕌",
-    "broll": "sunrise clouds timelapse"
+    "broll": "sunrise clouds timelapse",
+    "start": 7.653,
+    "countdownStart": 9.741,
+    "reveal": 12.241,
+    "end": 14.715,
+    "video": "broll/genius-6-trivia-1.mp4"
    },
    {
     "q": "Which planet is famous for its **rings**?",
@@ -96,7 +106,12 @@
     "correct": 3,
     "level": "EASY",
     "cardText": "🪐",
-    "broll": "night sky stars"
+    "broll": "night sky stars",
+    "start": 14.715,
+    "countdownStart": 16.819,
+    "reveal": 19.319,
+    "end": 22.012,
+    "video": "broll/genius-6-trivia-2.mp4"
    },
    {
     "q": "Blue + yellow paint makes which **colour**?",
@@ -109,7 +124,12 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "🎨",
-    "broll": "paint brush canvas"
+    "broll": "paint brush canvas",
+    "start": 22.012,
+    "countdownStart": 24.848,
+    "reveal": 27.348,
+    "end": 29.14,
+    "video": "broll/genius-6-trivia-3.mp4"
    },
    {
     "q": "What is the **square root** of 144?",
@@ -122,7 +142,12 @@
     "correct": 0,
     "level": "MEDIUM",
     "cardText": "√144",
-    "broll": "chalkboard writing"
+    "broll": "chalkboard writing",
+    "start": 29.14,
+    "countdownStart": 31.652,
+    "reveal": 34.152,
+    "end": 36.608,
+    "video": "broll/genius-6-trivia-4.mp4"
    },
    {
     "q": "Who painted **The Starry Night**?",
@@ -135,8 +160,25 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🌌",
-    "broll": "art museum gallery"
+    "broll": "art museum gallery",
+    "start": 36.608,
+    "countdownStart": 38.817,
+    "reveal": 41.317,
+    "end": 44.925,
+    "video": "broll/genius-6-trivia-5.mp4"
    }
-  ]
- }
+  ],
+  "audio": "audio/genius-6-trivia.mp3",
+  "outroStart": 44.925,
+  "durationInSeconds": 44.925
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-11-01T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "Tx5xmZvvjcA",
+  "at": "2026-11-01T06:24"
+ },
+ "linkedLong": "Uqu-veLODm8"
 }

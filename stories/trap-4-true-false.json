@@ -1,0 +1,83 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "TRUE OR FALSE?",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "questions": [
+  {
+   "q": "Goldfish have a **3-second** memory.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "TRUE OR FALSE",
+   "cardText": "🐟",
+   "broll": "goldfish aquarium",
+   "start": 0.0,
+   "countdownStart": 2.961,
+   "reveal": 5.461,
+   "end": 9.414,
+   "video": "broll/trap-4-true-false-0.mp4"
+  },
+  {
+   "q": "Sea otters **hold hands** while they sleep.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "TRUE OR FALSE",
+   "cardText": "🦦",
+   "broll": "sea otter",
+   "start": 9.414,
+   "countdownStart": 12.414,
+   "reveal": 14.914,
+   "end": 18.442,
+   "video": "broll/trap-4-true-false-1.mp4"
+  },
+  {
+   "q": "Humans only use **10%** of their brain.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "TRUE OR FALSE",
+   "cardText": "🧠",
+   "broll": "people walking city",
+   "start": 18.442,
+   "countdownStart": 21.857,
+   "reveal": 24.357,
+   "end": 28.096,
+   "video": "broll/trap-4-true-false-2.mp4"
+  },
+  {
+   "q": "Sound travels **faster** in water than in air.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "TRUE OR FALSE",
+   "cardText": "🔊",
+   "broll": "underwater diving",
+   "start": 28.096,
+   "countdownStart": 31.904,
+   "reveal": 34.404,
+   "end": 38.935,
+   "video": "broll/trap-4-true-false-3.mp4"
+  }
+ ],
+ "audio": "audio/trap-4-true-false.mp3",
+ "outroStart": 38.935,
+ "durationInSeconds": 38.935
+}

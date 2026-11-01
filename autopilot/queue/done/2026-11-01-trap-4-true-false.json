@@ -24,7 +24,7 @@
  ],
  "youtube": {
   "title": "True or False? 4 Facts 90% Get Wrong ✅❌ #shorts",
-  "description": "4 true or false questions most people get wrong ✅❌ How many did you get?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trueorfalse #quiz #trivia #myths #funfacts #shorts\n\nMusic: original.",
+  "description": "4 true or false questions most people get wrong ✅❌ How many did you get?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trueorfalse #quiz #trivia #myths #funfacts #shorts\n\nFootage via Wikimedia Commons: Pez de colores (Carassius auratus) – EEIM (CC BY-SA 4.0); Sea otter. Enhydra lutris video – https://www.flickr.com/photos/gails_pictures/ (CC BY 2.0); People walking during a snowstorm in Quebec City – Own work (CC0); Diving signal out of gas – Sergey Dukachev &amp; Alex Zelenin (CC BY-SA 3.0)\nMusic: original.",
   "tags": [
    "true or false quiz",
    "true or false",
@@ -60,7 +60,12 @@
     "correct": 1,
     "level": "TRUE OR FALSE",
     "cardText": "🐟",
-    "broll": "goldfish aquarium"
+    "broll": "goldfish aquarium",
+    "start": 0.0,
+    "countdownStart": 2.961,
+    "reveal": 5.461,
+    "end": 9.414,
+    "video": "broll/trap-4-true-false-0.mp4"
    },
    {
     "q": "Sea otters **hold hands** while they sleep.",
@@ -71,7 +76,12 @@
     "correct": 0,
     "level": "TRUE OR FALSE",
     "cardText": "🦦",
-    "broll": "sea otter"
+    "broll": "sea otter",
+    "start": 9.414,
+    "countdownStart": 12.414,
+    "reveal": 14.914,
+    "end": 18.442,
+    "video": "broll/trap-4-true-false-1.mp4"
    },
    {
     "q": "Humans only use **10%** of their brain.",
@@ -82,7 +92,12 @@
     "correct": 1,
     "level": "TRUE OR FALSE",
     "cardText": "🧠",
-    "broll": "people walking city"
+    "broll": "people walking city",
+    "start": 18.442,
+    "countdownStart": 21.857,
+    "reveal": 24.357,
+    "end": 28.096,
+    "video": "broll/trap-4-true-false-2.mp4"
    },
    {
     "q": "Sound travels **faster** in water than in air.",
@@ -93,8 +108,25 @@
     "correct": 0,
     "level": "TRUE OR FALSE",
     "cardText": "🔊",
-    "broll": "underwater diving"
+    "broll": "underwater diving",
+    "start": 28.096,
+    "countdownStart": 31.904,
+    "reveal": 34.404,
+    "end": 38.935,
+    "video": "broll/trap-4-true-false-3.mp4"
    }
-  ]
- }
+  ],
+  "audio": "audio/trap-4-true-false.mp3",
+  "outroStart": 38.935,
+  "durationInSeconds": 38.935
+ },
+ "publishAt": "21:00",
+ "scheduledFor": "2026-11-01T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "8ZxEi5hhL0c",
+  "at": "2026-11-01T06:30"
+ },
+ "linkedLong": "Uqu-veLODm8"
 }

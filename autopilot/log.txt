@@ -759,3 +759,61 @@
 [2026-10-31 13:49:53] gk-score-4-12: Kommentar gepostet
 [2026-10-31 13:49:53] one-q-hours-week: noch nicht öffentlich – Kommentar später
 [2026-10-31 13:49:53] vs-countries-bigger-1: noch nicht öffentlich – Kommentar später
+[2026-11-01 06:17:59] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-01 06:17:59] Analytics gespeichert (50 Videos)
+[2026-11-01 06:18:00] one-q-hours-week: Kommentar gepostet
+[2026-11-01 06:18:01] vs-countries-bigger-1: Kommentar gepostet
+[2026-11-01 06:18:01] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-01 06:18:01] Thumbnail-Test memory-check-35-1: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-01 06:18:04] Thumbnail-Test memory-check-35-1: jetzt Variante A (Gewinner)
+[2026-11-01 06:18:04] Thumbnail-Test memory-test-50-1: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-01 06:18:06] Thumbnail-Test memory-test-50-1: jetzt Variante C
+[2026-11-01 06:18:07] Thumbnail-Test auto-2026-10-28-long: Variante A → {'views': 7, 'ctr': 1.75, 'metric': 'views/day'}
+[2026-11-01 06:18:10] Thumbnail-Test auto-2026-10-28-long: jetzt Variante B
+[2026-11-01 06:18:10] Produziere genius-6-trivia (short)
+[2026-11-01 06:18:10] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-01 06:18:39] Ton fertig: 44.9 s
+[2026-11-01 06:18:45] B-Roll Frage 1 ("ladybug on leaf"): Ladybug larva (Coccinellidae sp.).webm
+[2026-11-01 06:18:49] B-Roll Frage 2 ("sunrise clouds timelapse"): Timelapse video of Bulusan Volcano after its eruption on Jun
+[2026-11-01 06:18:55] B-Roll Frage 3 ("night sky stars"): Night sky time lapse.webm
+[2026-11-01 06:19:00] B-Roll Frage 4 ("paint brush canvas"): How to use the Desert Brush Pack Tutorial for Painter.webm
+[2026-11-01 06:19:08] B-Roll Frage 5 ("chalkboard writing"): The Voice of the Active Learner by Blackboard and JESS3.webm
+[2026-11-01 06:19:13] B-Roll Frage 6 ("art museum gallery"): Two Orreries (Derby Museum & Art Gallery).webm
+[2026-11-01 06:24:52] Gerendert
+[2026-11-01 06:24:54] Hochgeladen: https://youtube.com/watch?v=Tx5xmZvvjcA (private)
+[2026-11-01 06:24:55] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-01 06:24:55] Geplant für 01.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-01 06:24:55] Produziere trap-4-true-false (short)
+[2026-11-01 06:24:55] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-01 06:25:21] Ton fertig: 38.9 s
+[2026-11-01 06:25:29] B-Roll Frage 1 ("goldfish aquarium"): Pez de colores (Carassius auratus).webm
+[2026-11-01 06:25:37] B-Roll Frage 2 ("sea otter"): Sea otter. Enhydra lutris video.webm
+[2026-11-01 06:25:46] B-Roll Frage 3 ("people walking city"): People walking during a snowstorm in Quebec City.webm
+[2026-11-01 06:25:54] B-Roll Frage 4 ("underwater diving"): Diving signal out of gas.ogv
+[2026-11-01 06:30:40] Gerendert
+[2026-11-01 06:30:44] Hochgeladen: https://youtube.com/watch?v=8ZxEi5hhL0c (private)
+[2026-11-01 06:30:44] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-01 06:30:44] Geplant für 01.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-01 06:30:44] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-01 06:30:44] Produziere true-false-50-1 (long)
+[2026-11-01 06:30:44] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-01 06:36:37] Ton fertig: 692.0 s
+[2026-11-01 06:36:45] B-Roll Frage 1 ("lightning storm"): Гроза в Донецке- Thunderstorm in Donetsk.webm
+[2026-11-01 06:36:50] B-Roll Frage 2 ("sunset sky"): Sunset Sky Minggir.webm
+[2026-11-01 06:36:51] B-Roll Frage 11 ("ostrich walking"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-01 06:37:00] B-Roll Frage 12 ("chameleon"): Chameleon on ixora flowers.webm
+[2026-11-01 06:37:08] B-Roll Frage 21 ("night sky telescope"): Imaging with an RC at York Prairie.webm
+[2026-11-01 06:37:19] B-Roll Frage 22 ("forest aerial"): Aerial views of a forest in Belarus.webm
+[2026-11-01 06:37:29] B-Roll Frage 31 ("tomatoes market"): Market Movements.webm
+[2026-11-01 06:37:37] B-Roll Frage 32 ("candle flame"): Visible light spectrum of a candle flame.webm
+[2026-11-01 06:37:48] B-Roll Frage 41 ("palace garden fountain"): Fountain Garden Patio Area.webm
+[2026-11-01 06:37:58] B-Roll Frage 42 ("supermarket shelves"): Industrie van dierenvoedsel groeit gestaag-32966.ogv
+[2026-11-01 07:38:12] Gerendert
+[2026-11-01 07:38:30] Hochgeladen: https://youtube.com/watch?v=Uqu-veLODm8 (private)
+[2026-11-01 07:38:33] Vorschaubild gesetzt
+[2026-11-01 07:38:34] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-11-01 07:38:34] Geplant für 01.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-01 07:38:34] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-01 07:38:35] Short-Beschreibung (genius-6-trivia) verlinkt auf langes Video Uqu-veLODm8
+[2026-11-01 07:38:35] Short-Beschreibung (trap-4-true-false) verlinkt auf langes Video Uqu-veLODm8
+[2026-11-01 07:38:46] Konkurrenz: 25 Kanäle, 129 Gewinner-Videos

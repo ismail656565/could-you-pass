@@ -1,0 +1,754 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "tvshow",
+ "title": "True or False Quiz",
+ "header": "TRUE OR FALSE QUIZ",
+ "hook": "CAN YOU GET 40/50? 🧠",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 24,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "TRUE OR **FALSE**?",
+  "CAN YOU GET **40/50**?",
+  "**MYTH** OR FACT?"
+ ],
+ "thumbEmoji": "✅",
+ "thumbBadge": "50 FACTS · EASY → LEGEND",
+ "cardColors": [
+  "#7F1D1D",
+  "#2A0A0A"
+ ],
+ "thumbImage": "bilder/q2-octopus.jpg",
+ "questions": [
+  {
+   "q": "Lightning never strikes the **same place** twice.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "⚡",
+   "broll": "lightning storm",
+   "start": 0.0,
+   "countdownStart": 9.91,
+   "reveal": 14.91,
+   "end": 19.864,
+   "video": "broll/true-false-50-1-0.mp4"
+  },
+  {
+   "q": "The **Sun** is a star.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "☀️",
+   "broll": "sunset sky",
+   "start": 19.864,
+   "countdownStart": 22.015,
+   "reveal": 27.015,
+   "end": 30.104,
+   "video": "broll/true-false-50-1-1.mp4"
+  },
+  {
+   "q": "**Spiders** are insects.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🕷️",
+   "start": 30.104,
+   "countdownStart": 32.525,
+   "reveal": 37.525,
+   "end": 41.751
+  },
+  {
+   "q": "A **tomato** is a fruit.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🍅",
+   "start": 41.751,
+   "countdownStart": 44.821,
+   "reveal": 49.821,
+   "end": 53.768
+  },
+  {
+   "q": "**Penguins** live at the North Pole.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🐧",
+   "start": 53.768,
+   "countdownStart": 56.623,
+   "reveal": 61.623,
+   "end": 68.735
+  },
+  {
+   "q": "**Bulls** get angry at the colour red.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🐂",
+   "start": 68.735,
+   "countdownStart": 71.77,
+   "reveal": 76.77,
+   "end": 82.021
+  },
+  {
+   "q": "A **whale** is a mammal.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🐋",
+   "start": 82.021,
+   "countdownStart": 84.207,
+   "reveal": 89.207,
+   "end": 93.146
+  },
+  {
+   "q": "**Bananas** grow on trees.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🍌",
+   "start": 93.146,
+   "countdownStart": 95.745,
+   "reveal": 100.745,
+   "end": 104.975
+  },
+  {
+   "q": "Water boils at a **lower** temperature on a mountain.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🏔️",
+   "start": 104.975,
+   "countdownStart": 109.245,
+   "reveal": 114.245,
+   "end": 117.817
+  },
+  {
+   "q": "**Everest** is the highest mountain above sea level.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🗻",
+   "start": 117.817,
+   "countdownStart": 122.043,
+   "reveal": 127.043,
+   "end": 131.135
+  },
+  {
+   "q": "**Ostriches** bury their heads in the sand.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🪶",
+   "broll": "ostrich walking",
+   "start": 131.135,
+   "countdownStart": 135.499,
+   "reveal": 140.499,
+   "end": 145.896
+  },
+  {
+   "q": "**Chameleons** change colour mainly to hide.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🦎",
+   "broll": "chameleon",
+   "start": 145.896,
+   "countdownStart": 149.244,
+   "reveal": 154.244,
+   "end": 159.531,
+   "video": "broll/true-false-50-1-11.mp4"
+  },
+  {
+   "q": "**Napoleon** was unusually short.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🎩",
+   "start": 159.531,
+   "countdownStart": 162.48,
+   "reveal": 167.48,
+   "end": 173.609
+  },
+  {
+   "q": "**Diamonds** are made of carbon.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "💎",
+   "start": 173.609,
+   "countdownStart": 176.282,
+   "reveal": 181.282,
+   "end": 185.387
+  },
+  {
+   "q": "**Koalas** are bears.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🐨",
+   "start": 185.387,
+   "countdownStart": 187.587,
+   "reveal": 192.587,
+   "end": 198.48
+  },
+  {
+   "q": "Old window **glass** is a slow-flowing liquid.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🪟",
+   "start": 198.48,
+   "countdownStart": 202.417,
+   "reveal": 207.417,
+   "end": 212.277
+  },
+  {
+   "q": "Cracking your **knuckles** causes arthritis.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "✊",
+   "start": 212.277,
+   "countdownStart": 215.716,
+   "reveal": 220.716,
+   "end": 225.287
+  },
+  {
+   "q": "**Mount Everest** is still growing.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "📏",
+   "start": 225.287,
+   "countdownStart": 228.434,
+   "reveal": 233.434,
+   "end": 237.621
+  },
+  {
+   "q": "The **Eiffel Tower** gets taller in summer.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🗼",
+   "start": 237.621,
+   "countdownStart": 240.891,
+   "reveal": 245.891,
+   "end": 251.064
+  },
+  {
+   "q": "**Vikings** wore horned helmets in battle.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "⚔️",
+   "start": 251.064,
+   "countdownStart": 254.351,
+   "reveal": 259.351,
+   "end": 264.594
+  },
+  {
+   "q": "**Saturn** could float in water.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🪐",
+   "broll": "night sky telescope",
+   "start": 264.594,
+   "countdownStart": 268.976,
+   "reveal": 273.976,
+   "end": 278.83,
+   "video": "broll/true-false-50-1-20.mp4"
+  },
+  {
+   "q": "Earth has more **trees** than the Milky Way has stars.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🌳",
+   "broll": "forest aerial",
+   "start": 278.83,
+   "countdownStart": 282.614,
+   "reveal": 287.614,
+   "end": 292.356,
+   "video": "broll/true-false-50-1-21.mp4"
+  },
+  {
+   "q": "The **Statue of Liberty** was once copper-brown.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🗽",
+   "start": 292.356,
+   "countdownStart": 296.305,
+   "reveal": 301.305,
+   "end": 305.449
+  },
+  {
+   "q": "Your **stomach** lining renews every few days.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🫃",
+   "start": 305.449,
+   "countdownStart": 309.498,
+   "reveal": 314.498,
+   "end": 318.338
+  },
+  {
+   "q": "**Einstein** failed maths at school.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🧮",
+   "start": 318.338,
+   "countdownStart": 321.284,
+   "reveal": 326.284,
+   "end": 333.11
+  },
+  {
+   "q": "The **Moon** has earthquakes.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🌕",
+   "start": 333.11,
+   "countdownStart": 335.876,
+   "reveal": 340.876,
+   "end": 345.964
+  },
+  {
+   "q": "**Strawberries** are berries.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🍓",
+   "start": 345.964,
+   "countdownStart": 348.535,
+   "reveal": 353.535,
+   "end": 357.859
+  },
+  {
+   "q": "A **jiffy** is a real unit of time.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "⏱️",
+   "start": 357.859,
+   "countdownStart": 361.038,
+   "reveal": 366.038,
+   "end": 370.515
+  },
+  {
+   "q": "The Great Fire of **London** killed thousands.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🔥",
+   "start": 370.515,
+   "countdownStart": 375.322,
+   "reveal": 380.322,
+   "end": 385.483
+  },
+  {
+   "q": "**Chocolate** is toxic to dogs.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🐶",
+   "start": 385.483,
+   "countdownStart": 388.254,
+   "reveal": 393.254,
+   "end": 398.55
+  },
+  {
+   "q": "**Ketchup** was once sold as medicine.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🍅",
+   "broll": "tomatoes market",
+   "start": 398.55,
+   "countdownStart": 402.91,
+   "reveal": 407.91,
+   "end": 412.863,
+   "video": "broll/true-false-50-1-30.mp4"
+  },
+  {
+   "q": "The **lighter** was invented before the match.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🔥",
+   "broll": "candle flame",
+   "start": 412.863,
+   "countdownStart": 416.204,
+   "reveal": 421.204,
+   "end": 427.283,
+   "video": "broll/true-false-50-1-31.mp4"
+  },
+  {
+   "q": "**Pluto** has orbited the Sun once since it was found.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "🔭",
+   "start": 427.283,
+   "countdownStart": 432.034,
+   "reveal": 437.034,
+   "end": 443.508
+  },
+  {
+   "q": "**Bananas** are slightly radioactive.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "☢️",
+   "start": 443.508,
+   "countdownStart": 446.786,
+   "reveal": 451.786,
+   "end": 456.985
+  },
+  {
+   "q": "A group of **flamingos** is a flamboyance.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🦩",
+   "start": 456.985,
+   "countdownStart": 460.645,
+   "reveal": 465.645,
+   "end": 468.783
+  },
+  {
+   "q": "No bridge crosses the **Amazon** River.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🌉",
+   "start": 468.783,
+   "countdownStart": 472.013,
+   "reveal": 477.013,
+   "end": 481.492
+  },
+  {
+   "q": "**Hawaii** moves closer to Japan every year.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🏝️",
+   "start": 481.492,
+   "countdownStart": 485.47,
+   "reveal": 490.47,
+   "end": 495.063
+  },
+  {
+   "q": "Identical **twins** share fingerprints.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "👆",
+   "start": 495.063,
+   "countdownStart": 498.915,
+   "reveal": 503.915,
+   "end": 508.34
+  },
+  {
+   "q": "The **Sahara** has always been a desert.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "🐪",
+   "start": 508.34,
+   "countdownStart": 511.507,
+   "reveal": 516.507,
+   "end": 521.452
+  },
+  {
+   "q": "**Cats** can't taste sweetness.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🐱",
+   "start": 521.452,
+   "countdownStart": 524.027,
+   "reveal": 529.027,
+   "end": 534.569
+  },
+  {
+   "q": "Marie Antoinette said **'Let them eat cake'**.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🎂",
+   "broll": "palace garden fountain",
+   "start": 534.569,
+   "countdownStart": 538.908,
+   "reveal": 543.908,
+   "end": 547.458,
+   "video": "broll/true-false-50-1-40.mp4"
+  },
+  {
+   "q": "The **Pringles** can inventor was buried in one.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🥫",
+   "broll": "supermarket shelves",
+   "start": 547.458,
+   "countdownStart": 551.351,
+   "reveal": 556.351,
+   "end": 562.115,
+   "video": "broll/true-false-50-1-41.mp4"
+  },
+  {
+   "q": "France still used the **guillotine** when Star Wars came out.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🎬",
+   "start": 562.115,
+   "countdownStart": 567.156,
+   "reveal": 572.156,
+   "end": 577.062
+  },
+  {
+   "q": "**Harvard** is older than calculus.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🎓",
+   "start": 577.062,
+   "countdownStart": 580.92,
+   "reveal": 585.92,
+   "end": 591.782
+  },
+  {
+   "q": "**Frankenstein** is the name of the monster.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🧟",
+   "start": 591.782,
+   "countdownStart": 596.42,
+   "reveal": 601.42,
+   "end": 606.907
+  },
+  {
+   "q": "**Columbus** proved the Earth was round.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🌍",
+   "start": 606.907,
+   "countdownStart": 609.919,
+   "reveal": 614.919,
+   "end": 619.999
+  },
+  {
+   "q": "A day on **Mercury** lasts longer than its year.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "☿",
+   "start": 619.999,
+   "countdownStart": 623.421,
+   "reveal": 628.421,
+   "end": 636.611
+  },
+  {
+   "q": "Humans evolved from **chimpanzees**.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🐒",
+   "start": 636.611,
+   "countdownStart": 639.741,
+   "reveal": 644.741,
+   "end": 649.56
+  },
+  {
+   "q": "**Abraham Lincoln** is in a wrestling hall of fame.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🤼",
+   "start": 649.56,
+   "countdownStart": 653.35,
+   "reveal": 658.35,
+   "end": 664.484
+  },
+  {
+   "q": "Chess has more possible games than the universe has **atoms**.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "♟️",
+   "start": 664.484,
+   "countdownStart": 670.869,
+   "reveal": 675.869,
+   "end": 682.26
+  }
+ ],
+ "audio": "audio/true-false-50-1.mp3",
+ "outroStart": 682.26,
+ "durationInSeconds": 692.047
+}
