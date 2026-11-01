@@ -288,3 +288,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Long: Median <10 Views; nur Emoji-Long trägt (stayed 73 %). E1 #1 (12 Q, 31.10.) und E1 #2 Presidents (15 Q, 02.11.) liefern das erste Verdict zum 7-Min-Format ab 03.–05.11.
 - Thumbnails: Für das Presidents-Long gibt es kein passendes Foto in image-credits.json (keine US-Flagge/Kapitol/White House) → bewusst ohne thumbImage statt themenfremdem Foto. Bitte gelegentlich US-Motive (Flagge, Kapitol, Mount Rushmore) in image-credits.json ergänzen.
 - VS #2: Mensch-Durchschnittstempo nicht eindeutig belegbar → Runde ersetzt; finale Paare: Bolt vs Grizzly, Gabelbock vs Rennpferd, Strauß vs Gepard, Bolt vs Flusspferd (Callback auf R1). Kein Strauß-Emoji vorhanden → 🪶.
+
+## 2026-11-01 – Research (Research-Agent)
+- Shorts-Reichweite fällt (Ersatz-1-Frage 603 → 292/176; Sloth 99, Food 66 nach ~1 T); 6+-Fragen bleibt Spitze (Median 1.334) → 03.11. 16:00 = 6-Fragen "Which Came First? Round 2". Neues Titel-Experiment E4 "The Last One Will Humble You" (nur Titel ändert sich).
+- E1 #1 "Score 4/12" nur 4:38 (12 Q, ≈23 s/Q) statt 7 min → E1 künftig 15 Q, count 10.0/tail 2.6 (≈27 s/Q).
+- Technik: Kommentar-Crons enden 13:10 UTC, Shorts (15:00/20:00 UTC) bekamen erst am Folgetag ihren Kommentar → 2 Crons ergänzen. Konkurrenzliste 25 → 22 (Meme-/Zitat-Kanäle blockiert).
+- Event: GTA VI am 19.11.2026 → GTA-Quiz ab 15.11. (nur Fakten, keine Spielbilder).

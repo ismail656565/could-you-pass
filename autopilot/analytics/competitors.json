@@ -1,276 +1,250 @@
 {
- "channels": [
-  {
-   "id": "UCDmeY0zSuykFtaFKr-khKIQ",
-   "name": "Trivia Square",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 3680,
-    "2026-10-30": 3700,
-    "2026-10-31": 3740
-   }
-  },
-  {
-   "id": "UCDmT7n7Y5Glnej4YU4NG1Hg",
-   "name": "Quibby",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 206,
-    "2026-10-30": 206,
-    "2026-10-31": 210
-   }
-  },
-  {
-   "id": "UCXp25tNG0ksT8RcHuA5FLhg",
-   "name": "Studio Seven",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 1260,
-    "2026-10-30": 1260,
-    "2026-10-31": 1270
-   }
-  },
-  {
-   "id": "UCzTNzEZHQshIAHI4pn-SsQw",
-   "name": "Dopamine Quiz",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 370,
-    "2026-10-30": 369,
-    "2026-10-31": 372
-   }
-  },
-  {
-   "id": "UCKNOqv8x6leujb_FzIj98tw",
-   "name": "GK STUDIO PRO ",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 1730,
-    "2026-10-30": 1750,
-    "2026-10-31": 1760
-   }
-  },
-  {
-   "id": "UCp1ponCnxIyhTBkW_DHRDZA",
-   "name": "Clue Senpai",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 996,
-    "2026-10-30": 1000,
-    "2026-10-31": 1020
-   }
-  },
-  {
-   "id": "UCIf4pOoCGhhRoIBnIzZODbw",
-   "name": "Next Line",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 1020,
-    "2026-10-30": 1020,
-    "2026-10-31": 1020
-   }
-  },
-  {
-   "id": "UCIi14gmV-jKEM5CE7-0n6Ew",
-   "name": "comicnutz",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 5090,
-    "2026-10-30": 5100,
-    "2026-10-31": 5130
-   }
-  },
-  {
-   "id": "UCu8eOeTD4AFJitF-d2NO0Bg",
-   "name": "QuizNova",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 1230,
-    "2026-10-30": 1240,
-    "2026-10-31": 1270
-   }
-  },
-  {
-   "id": "UCAzUcqJGER_QoWF272TTW7w",
-   "name": "Your.bummy.quizzes",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 2230,
-    "2026-10-30": 2240,
-    "2026-10-31": 2260
-   }
-  },
-  {
-   "id": "UCXOBg4wRjEf-ZUZ8qlZ8nFg",
-   "name": "Clear Think ",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 4890,
-    "2026-10-30": 5050,
-    "2026-10-31": 5410
-   }
-  },
-  {
-   "id": "UCpXaP5ZliDPVXtUaVWshVPA",
-   "name": "Math Quiz ",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 675,
-    "2026-10-30": 680,
-    "2026-10-31": 696
-   }
-  },
-  {
-   "id": "UCQ6zZ6H8RmtBT4XLZN06X_A",
-   "name": "QuizKoala",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 1320,
-    "2026-10-30": 1320,
-    "2026-10-31": 1330
-   }
-  },
-  {
-   "id": "UCkzCVjl-z5OJadPbEmkm9qA",
-   "name": "Think Nova",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 2490,
-    "2026-10-30": 2500,
-    "2026-10-31": 2500
-   }
-  },
-  {
-   "id": "UCQWkhw1gE9gEWKqCEyLfVfw",
-   "name": "Quiz Dolphy",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 953,
-    "2026-10-30": 958,
-    "2026-10-31": 977
-   }
-  },
-  {
-   "id": "UCDj-szyubQWTtvRaEUa2Gdw",
-   "name": "Chauncey Asks",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 4290,
-    "2026-10-30": 4300,
-    "2026-10-31": 4320
-   }
-  },
-  {
-   "id": "UCc2iU1DaHIXtD14lx0U65Xg",
-   "name": "IQ Mazz",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 723,
-    "2026-10-30": 728,
-    "2026-10-31": 748
-   }
-  },
-  {
-   "id": "UCabdLAwA5WgHRWI1lfKp3ng",
-   "name": "FlameTimer",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 44000,
-    "2026-10-30": 44000,
-    "2026-10-31": 44100
-   }
-  },
-  {
-   "id": "UCSJdcwYDKu2WK7bMxUJc92g",
-   "name": "Quiz Guy",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 443,
-    "2026-10-30": 446,
-    "2026-10-31": 455
-   }
-  },
-  {
-   "id": "UCbYD7yFf4Z7pG2qEaGjrJ5w",
-   "name": "Quiz Bunny ",
-   "source": "outlier-scan",
-   "added": "2026-10-29",
-   "subsHistory": {
-    "2026-10-29": 3850,
-    "2026-10-30": 3910,
-    "2026-10-31": 4110
-   }
-  },
-  {
-   "id": "UCx1kc9JYpOG5my7QgfazAzw",
-   "name": "The Brownish Bros",
-   "source": "outlier-scan",
-   "added": "2026-10-31",
-   "subsHistory": {
-    "2026-10-31": 1740
-   }
-  },
-  {
-   "id": "UC2lTEKjvVO_jTebNypIJmvg",
-   "name": "Quiz World",
-   "source": "outlier-scan",
-   "added": "2026-10-31",
-   "subsHistory": {
-    "2026-10-31": 651
-   }
-  },
-  {
-   "id": "UCDItMzuYRndnAre8UBZpcSQ",
-   "name": "Master m",
-   "source": "outlier-scan",
-   "added": "2026-10-31",
-   "subsHistory": {
-    "2026-10-31": 1400
-   }
-  },
-  {
-   "id": "UC9ay9JUsR0UsRH2oR_xJEJA",
-   "name": "Treble | Quiz",
-   "source": "outlier-scan",
-   "added": "2026-10-31",
-   "subsHistory": {
-    "2026-10-31": 1500
-   }
-  },
-  {
-   "id": "UC8E4AHKLnb3Kmrq_pJMMl-w",
-   "name": "Quiz Daily",
-   "source": "outlier-scan",
-   "added": "2026-10-31",
-   "subsHistory": {
-    "2026-10-31": 608
-   }
-  }
- ],
- "blocked": [
-  "UCMvCuzlVNm0uZF1xBl-rRnA",
-  "UCULEK2LWTahJym1z4hfmP_A",
-  "UCsB72jQQTnsrke2iu5Pi2GA",
-  "UCu5_enl_cmCz_4sjMcz1kBg",
-  "UCz3jHcdrKO4aadKdj8JnxXg"
- ]
+  "channels": [
+    {
+      "id": "UCDmeY0zSuykFtaFKr-khKIQ",
+      "name": "Trivia Square",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 3680,
+        "2026-10-30": 3700,
+        "2026-10-31": 3740
+      }
+    },
+    {
+      "id": "UCDmT7n7Y5Glnej4YU4NG1Hg",
+      "name": "Quibby",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 206,
+        "2026-10-30": 206,
+        "2026-10-31": 210
+      }
+    },
+    {
+      "id": "UCXp25tNG0ksT8RcHuA5FLhg",
+      "name": "Studio Seven",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 1260,
+        "2026-10-30": 1260,
+        "2026-10-31": 1270
+      }
+    },
+    {
+      "id": "UCzTNzEZHQshIAHI4pn-SsQw",
+      "name": "Dopamine Quiz",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 370,
+        "2026-10-30": 369,
+        "2026-10-31": 372
+      }
+    },
+    {
+      "id": "UCKNOqv8x6leujb_FzIj98tw",
+      "name": "GK STUDIO PRO ",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 1730,
+        "2026-10-30": 1750,
+        "2026-10-31": 1760
+      }
+    },
+    {
+      "id": "UCp1ponCnxIyhTBkW_DHRDZA",
+      "name": "Clue Senpai",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 996,
+        "2026-10-30": 1000,
+        "2026-10-31": 1020
+      }
+    },
+    {
+      "id": "UCIi14gmV-jKEM5CE7-0n6Ew",
+      "name": "comicnutz",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 5090,
+        "2026-10-30": 5100,
+        "2026-10-31": 5130
+      }
+    },
+    {
+      "id": "UCu8eOeTD4AFJitF-d2NO0Bg",
+      "name": "QuizNova",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 1230,
+        "2026-10-30": 1240,
+        "2026-10-31": 1270
+      }
+    },
+    {
+      "id": "UCAzUcqJGER_QoWF272TTW7w",
+      "name": "Your.bummy.quizzes",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 2230,
+        "2026-10-30": 2240,
+        "2026-10-31": 2260
+      }
+    },
+    {
+      "id": "UCXOBg4wRjEf-ZUZ8qlZ8nFg",
+      "name": "Clear Think ",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 4890,
+        "2026-10-30": 5050,
+        "2026-10-31": 5410
+      }
+    },
+    {
+      "id": "UCpXaP5ZliDPVXtUaVWshVPA",
+      "name": "Math Quiz ",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 675,
+        "2026-10-30": 680,
+        "2026-10-31": 696
+      }
+    },
+    {
+      "id": "UCQ6zZ6H8RmtBT4XLZN06X_A",
+      "name": "QuizKoala",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 1320,
+        "2026-10-30": 1320,
+        "2026-10-31": 1330
+      }
+    },
+    {
+      "id": "UCkzCVjl-z5OJadPbEmkm9qA",
+      "name": "Think Nova",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 2490,
+        "2026-10-30": 2500,
+        "2026-10-31": 2500
+      }
+    },
+    {
+      "id": "UCQWkhw1gE9gEWKqCEyLfVfw",
+      "name": "Quiz Dolphy",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 953,
+        "2026-10-30": 958,
+        "2026-10-31": 977
+      }
+    },
+    {
+      "id": "UCDj-szyubQWTtvRaEUa2Gdw",
+      "name": "Chauncey Asks",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 4290,
+        "2026-10-30": 4300,
+        "2026-10-31": 4320
+      }
+    },
+    {
+      "id": "UCc2iU1DaHIXtD14lx0U65Xg",
+      "name": "IQ Mazz",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 723,
+        "2026-10-30": 728,
+        "2026-10-31": 748
+      }
+    },
+    {
+      "id": "UCabdLAwA5WgHRWI1lfKp3ng",
+      "name": "FlameTimer",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 44000,
+        "2026-10-30": 44000,
+        "2026-10-31": 44100
+      }
+    },
+    {
+      "id": "UCSJdcwYDKu2WK7bMxUJc92g",
+      "name": "Quiz Guy",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 443,
+        "2026-10-30": 446,
+        "2026-10-31": 455
+      }
+    },
+    {
+      "id": "UCbYD7yFf4Z7pG2qEaGjrJ5w",
+      "name": "Quiz Bunny ",
+      "source": "outlier-scan",
+      "added": "2026-10-29",
+      "subsHistory": {
+        "2026-10-29": 3850,
+        "2026-10-30": 3910,
+        "2026-10-31": 4110
+      }
+    },
+    {
+      "id": "UC2lTEKjvVO_jTebNypIJmvg",
+      "name": "Quiz World",
+      "source": "outlier-scan",
+      "added": "2026-10-31",
+      "subsHistory": {
+        "2026-10-31": 651
+      }
+    },
+    {
+      "id": "UC9ay9JUsR0UsRH2oR_xJEJA",
+      "name": "Treble | Quiz",
+      "source": "outlier-scan",
+      "added": "2026-10-31",
+      "subsHistory": {
+        "2026-10-31": 1500
+      }
+    },
+    {
+      "id": "UC8E4AHKLnb3Kmrq_pJMMl-w",
+      "name": "Quiz Daily",
+      "source": "outlier-scan",
+      "added": "2026-10-31",
+      "subsHistory": {
+        "2026-10-31": 608
+      }
+    }
+  ],
+  "blocked": [
+    "UCMvCuzlVNm0uZF1xBl-rRnA",
+    "UCULEK2LWTahJym1z4hfmP_A",
+    "UCsB72jQQTnsrke2iu5Pi2GA",
+    "UCu5_enl_cmCz_4sjMcz1kBg",
+    "UCz3jHcdrKO4aadKdj8JnxXg",
+    "UCDItMzuYRndnAre8UBZpcSQ",
+    "UCx1kc9JYpOG5my7QgfazAzw",
+    "UCIf4pOoCGhhRoIBnIzZODbw"
+  ]
 }
