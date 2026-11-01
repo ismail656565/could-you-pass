@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-01T06:17 (8 Abos)
+# Scoreboard – Stand 2026-11-01T08:06 (8 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 

@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-01T06:17",
+ "fetched": "2026-11-01T08:06",
  "groups": {
   "short.format": {
    "6+ Fragen": {
@@ -538,7 +538,7 @@
    "avgPct": 73.82,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 12.5,
+   "ageDays": 12.6,
    "search": null
   },
   {
@@ -690,7 +690,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 9.7,
+   "ageDays": 9.8,
    "search": null
   },
   {
@@ -728,7 +728,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 8.7,
+   "ageDays": 8.8,
    "search": null
   },
   {
@@ -804,7 +804,7 @@
    "avgPct": 114.32,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 7.7,
+   "ageDays": 7.8,
    "search": null
   },
   {
@@ -938,7 +938,7 @@
    "subs": 0.0,
    "durationSec": 19,
    "ageDays": 5.7,
-   "search": 28
+   "search": null
   },
   {
    "file": "2026-10-26-trap-4-4-tv.json",
@@ -957,7 +957,7 @@
    "subs": 0.0,
    "durationSec": 43,
    "ageDays": 5.5,
-   "search": 19
+   "search": null
   },
   {
    "file": "auto-2026-10-27-long.json",
@@ -1014,7 +1014,7 @@
    "subs": 0.0,
    "durationSec": 13,
    "ageDays": 4.5,
-   "search": 25
+   "search": null
   },
   {
    "file": "auto-2026-10-28-long.json",
