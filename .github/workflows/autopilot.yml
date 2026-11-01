@@ -10,6 +10,8 @@ on:
     - cron: '10 9 * * *'
     - cron: '10 12 * * *'
     - cron: '10 13 * * *'
+    - cron: '20 15 * * *'   # Short 16:00 Berlin (Winterzeit) -> Erst-Kommentar
+    - cron: '20 20 * * *'   # Short 21:00 Berlin (Winterzeit) -> Erst-Kommentar
   workflow_dispatch:
     inputs:
       mode:

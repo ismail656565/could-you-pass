@@ -294,3 +294,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - E1 #1 "Score 4/12" nur 4:38 (12 Q, ≈23 s/Q) statt 7 min → E1 künftig 15 Q, count 10.0/tail 2.6 (≈27 s/Q).
 - Technik: Kommentar-Crons enden 13:10 UTC, Shorts (15:00/20:00 UTC) bekamen erst am Folgetag ihren Kommentar → 2 Crons ergänzen. Konkurrenzliste 25 → 22 (Meme-/Zitat-Kanäle blockiert).
 - Event: GTA VI am 19.11.2026 → GTA-Quiz ab 15.11. (nur Fakten, keine Spielbilder).
+
+## 2026-11-01 (Produktions-Agent, Queue 03.11.)
+- Technik: Läufe 30./31.10. alle grün, 31.10. Soll erfüllt (one-q-hours-week, vs-countries-bigger-1, gk-score-4-12). Plan-Fix 1 umgesetzt: Kommentar-Crons '20 15' und '20 20' UTC ergänzt (Shorts 16:00/21:00 bekommen den Erst-Kommentar ~20 min nach Veröffentlichung). Plan-Fix 2: Presidents-Item timing 10.0/2.6/0.95 + 8 Erklärzeilen um je einen Fakt verlängert (Schätzung ≈6:30–7:00).
+- Analytics: report.json weiterhin vom 31.10. 11:29 (8 Abos) – heutiger Lauf aktualisiert. Shorts: 6+ Fragen Median 1.334 (stayed 56 %, n=2), Ersatz-1-Frage 1.153, 4-Trap 294 (stayed 50 %); neueste Shorts nach ~1 Tag schwach: Sloth 99, Food 66.
+- Long: Animal-50 nach 1 T nur 2 Views; Emoji-Long weiter einziges tragendes Long (141 Views, stayed 73 %). E1 #1 (4/12) noch ohne Zahlen.
+- Thumbnails: weiterhin keine CTR (HttpError 400) – A/B/C nur über views/day, noch zu wenig Daten.
+- Dateinamen-Regel: Der Plan nannte "which-first-6-2" (16:00) und "trap-4-…" (21:00) – "w" sortiert hinter "t" → 16:00-Item heißt "2026-11-03-six-q-which-first-2.json"; zusätzlich publishAt in beiden Short-Items fest gesetzt.
+- Fragen-Duplikate vermieden: Nintendo, Feuerzeug/Streichholz, Guillotine, Napoleon, Wikinger, Mammuts (alle im True/False-50 vom 01.11.), Oxford/Azteken, Kleopatra, Frauenwahlrecht NZ – ersetzt durch Coca-Cola 1886, Stonehenge, Mikrowelle, Mayflower, Facebook, Toastbrot vor Pluto; History: Pyramide letztes Weltwunder, Olivenkranz, Victoria, Big Ben = Glocke.
