@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (25 Videos)
+## Shorts (26 Videos)
 
 ### Shorts nach Format
 
@@ -10,6 +10,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 2 | 1334 | 1334 | 1433 | 56.0 | 53.7 | 0 |
 | Ersatz-Generator (1 Frage) | 6 | 775 | 887 | 1206 | 37.8 | 143.1 | 0 |
+| VS-Vergleich | 1 | 757 | 757 | 757 | – | – | 0 |
 | 1-Frage-Ego-Hook | 7 | 399 | 330 | 865 | 43.3 | 104.4 | 1.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 7 | 432 | 251 | 1081 | 53.9 | 81.0 | 0 |
@@ -22,6 +23,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHICH CAME FIRST? | 1 | 1234 | 1234 | 1234 | 55.1 | 46.2 | 0 |
 | BRAIN QUIZ | 1 | 1206 | 1206 | 1206 | 44.1 | 103.3 | 0 |
 | NATURE QUIZ | 1 | 865 | 865 | 865 | 38.9 | 71.8 | 0 |
+| WHICH IS BIGGER? | 1 | 757 | 757 | 757 | – | – | 0 |
 | GEOGRAPHY QUIZ | 1 | 715 | 715 | 715 | 37.4 | 114.3 | 0 |
 | GENERAL KNOWLEDGE | 5 | 689 | 614 | 1160 | 36.5 | 151.1 | 0 |
 | QUICK QUIZ | 1 | 358 | 358 | 358 | – | – | 0 |
@@ -37,7 +39,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 12 | 616 | 486 | 1206 | 46.6 | 83.7 | 1.0 |
+| tvshow | 13 | 627 | 614 | 1206 | 46.6 | 83.7 | 1.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.0 | 112.8 | 0 |
 
 ### Shorts nach Musik
@@ -45,8 +47,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 7 | 679 | 614 | 1206 | 49.5 | 87.7 | 0 |
+| world-trip.wav | 4 | 445 | 441 | 757 | 41.8 | 81.5 | 1.0 |
 | brain-pulse.wav | 15 | 558 | 330 | 1433 | 44.1 | 107.3 | 0 |
-| world-trip.wav | 3 | 341 | 167 | 715 | 41.8 | 81.5 | 1.0 |
 
 ### Shorts nach Sendezeit
 
@@ -55,7 +57,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
 | 16:00 | 9 | 513 | 358 | 1206 | 42.8 | 106.6 | 1.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.5 | 155.6 | 0 |
-| 21:00 | 10 | 553 | 289 | 1160 | 49.5 | 73.8 | 0 |
+| 21:00 | 11 | 571 | 327 | 1160 | 49.5 | 73.8 | 0 |
 
 ### Top 8 Shorts
 
