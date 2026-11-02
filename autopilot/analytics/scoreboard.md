@@ -75,7 +75,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (15 Videos)
+## Lange Videos (16 Videos)
 
 ### Lange Videos nach Format
 
@@ -86,6 +86,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 40 Fragen | 1 | 24 | 24 | 24 | 77.3 | 36.4 | 1.0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 8 | 6 | 3 | 13 | 54.4 | 46.3 | 0 |
+| 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
 ### Lange Videos nach Thema/Titeltyp
 
@@ -94,8 +95,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Emoji-Raten | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | Halloween | 2 | 116 | 116 | 184 | 54.6 | 25.4 | 0 |
 | IQ-Titel | 1 | 24 | 24 | 24 | 77.3 | 36.4 | 1.0 |
-| Allgemeinwissen | 3 | 9 | 13 | 13 | 52.5 | 35.9 | 0 |
 | Can-You-Pass-Test | 1 | 11 | 11 | 11 | 27.3 | 37.1 | 0 |
+| Allgemeinwissen | 4 | 7 | 8 | 13 | 52.5 | 35.9 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 21 | 4 | 58 | 61.7 | 52.2 | 0 |
 | Jahrzehnt | 1 | 2 | 2 | 2 | 50.0 | 100.0 | 0 |
@@ -107,14 +108,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 41 | 16 | 184 | 65.7 | 52.9 | 1.0 |
-| tvshow | 6 | 8 | 8 | 13 | 47.5 | 28.5 | 0 |
+| tvshow | 7 | 6 | 4 | 13 | 47.5 | 28.5 | 0 |
 
 ### Lange Videos nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| brain-pulse.wav | 3 | 35 | 47 | 58 | 68.2 | 52.1 | 0 |
+| brain-pulse.wav | 4 | 26 | 24 | 58 | 68.2 | 52.1 | 0 |
 | world-trip.wav | 5 | 8 | 11 | 13 | 47.0 | 48.9 | 0 |
 | game-show.wav | 6 | 38 | 7 | 184 | 61.9 | 32.2 | 1.0 |
 
@@ -123,7 +124,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 110 | 141 | 184 | 59.8 | 45.8 | 1.0 |
-| 14:00 | 12 | 15 | 10 | 58 | 58.7 | 42.4 | 1.0 |
+| 14:00 | 13 | 14 | 8 | 58 | 58.7 | 42.4 | 1.0 |
 
 ### Top 8 Lange Videos
 
@@ -138,8 +139,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Lange Videos
 
-- 4 Views · 50 Fragen · Are You Over 65? Let's Check Your Memory 🧠 | 50 Question General Knowledge Quiz
 - 2 Views · 50 Fragen · 1960s Trivia Quiz 🎸 How Much Do You Remember? | 50 Questions, Easy to Legend
 - 2 Views · 50 Fragen · Animal Quiz: 50 Questions From Easy to Legend 🐾 | How Many Can You Get?
 - 2 Views · 50 Fragen · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
 - 1 Views · 50 Fragen · General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent 🧠 | 50 Questions
+- 0 Views · 12 Fragen · General Knowledge Quiz: Can You Score 4/12? 🧠 7-Minute Test
