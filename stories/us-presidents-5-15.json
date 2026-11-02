@@ -1,0 +1,284 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "tvshow",
+ "title": "US Presidents Quiz",
+ "header": "US PRESIDENTS QUIZ",
+ "hook": "CAN YOU SCORE 5/15? 🧠",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you beat 5?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 7,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "SCORE **5/15**?",
+  "PRESIDENTS **QUIZ**",
+  "**LEGEND** LEVEL"
+ ],
+ "thumbEmoji": "🏛️",
+ "thumbBadge": "15 HARD QUESTIONS",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "Which president served the **shortest** time?",
+   "answers": [
+    "James Garfield",
+    "William Henry Harrison",
+    "Zachary Taylor",
+    "Warren Harding"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "⏱️",
+   "broll": "american flag waving",
+   "start": 0.0,
+   "countdownStart": 9.008,
+   "reveal": 19.008,
+   "end": 32.864,
+   "video": "broll/us-presidents-5-15-0.mp4"
+  },
+  {
+   "q": "First president to live in the **White House**?",
+   "answers": [
+    "George Washington",
+    "Thomas Jefferson",
+    "John Adams",
+    "James Madison"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🏛️",
+   "broll": "white house exterior",
+   "start": 32.864,
+   "countdownStart": 35.651,
+   "reveal": 45.651,
+   "end": 56.587,
+   "video": "broll/us-presidents-5-15-1.mp4"
+  },
+  {
+   "q": "Which president is on the US **$20** bill?",
+   "answers": [
+    "Ulysses S. Grant",
+    "Andrew Jackson",
+    "Abraham Lincoln",
+    "Alexander Hamilton"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "$20",
+   "start": 56.587,
+   "countdownStart": 59.535,
+   "reveal": 69.535,
+   "end": 77.309
+  },
+  {
+   "q": "Who was the **youngest** person to become president?",
+   "answers": [
+    "John F. Kennedy",
+    "Bill Clinton",
+    "Theodore Roosevelt",
+    "Ulysses S. Grant"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "42?",
+   "start": 77.309,
+   "countdownStart": 80.391,
+   "reveal": 90.391,
+   "end": 102.738
+  },
+  {
+   "q": "Which president served the **longest**?",
+   "answers": [
+    "Ronald Reagan",
+    "Franklin D. Roosevelt",
+    "Dwight Eisenhower",
+    "Thomas Jefferson"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "📅",
+   "start": 102.738,
+   "countdownStart": 105.488,
+   "reveal": 115.488,
+   "end": 125.585
+  },
+  {
+   "q": "Which president never **married**?",
+   "answers": [
+    "Grover Cleveland",
+    "James Buchanan",
+    "Chester Arthur",
+    "Martin Van Buren"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "💍",
+   "broll": "candle light old room",
+   "start": 125.585,
+   "countdownStart": 128.843,
+   "reveal": 138.843,
+   "end": 148.393
+  },
+  {
+   "q": "Who founded the University of **Virginia**?",
+   "answers": [
+    "James Madison",
+    "George Washington",
+    "James Monroe",
+    "Thomas Jefferson"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "🎓",
+   "broll": "university campus autumn",
+   "start": 148.393,
+   "countdownStart": 151.404,
+   "reveal": 161.404,
+   "end": 171.781
+  },
+  {
+   "q": "First president born a **US citizen**?",
+   "answers": [
+    "John Quincy Adams",
+    "Andrew Jackson",
+    "Martin Van Buren",
+    "James Monroe"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "1782",
+   "start": 171.781,
+   "countdownStart": 175.809,
+   "reveal": 185.809,
+   "end": 198.583
+  },
+  {
+   "q": "Which president later became **Chief Justice**?",
+   "answers": [
+    "William Howard Taft",
+    "John Adams",
+    "Herbert Hoover",
+    "Woodrow Wilson"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "⚖️",
+   "start": 198.583,
+   "countdownStart": 203.034,
+   "reveal": 213.034,
+   "end": 225.71
+  },
+  {
+   "q": "Who was president when the **Statue of Liberty** opened?",
+   "answers": [
+    "Chester Arthur",
+    "Benjamin Harrison",
+    "Rutherford Hayes",
+    "Grover Cleveland"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "🗽",
+   "start": 225.71,
+   "countdownStart": 229.169,
+   "reveal": 239.169,
+   "end": 248.824
+  },
+  {
+   "q": "What does the **S** in Harry S Truman stand for?",
+   "answers": [
+    "Solomon",
+    "Samuel",
+    "Nothing at all",
+    "Stephen"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "S?",
+   "broll": "old typewriter",
+   "start": 248.824,
+   "countdownStart": 253.606,
+   "reveal": 263.606,
+   "end": 274.249,
+   "video": "broll/us-presidents-5-15-10.mp4"
+  },
+  {
+   "q": "How many presidents have **died in office**?",
+   "answers": [
+    "Eight",
+    "Four",
+    "Six",
+    "Ten"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🕯️",
+   "broll": "marching band parade",
+   "start": 274.249,
+   "countdownStart": 276.545,
+   "reveal": 286.545,
+   "end": 296.14,
+   "video": "broll/us-presidents-5-15-11.mp4"
+  },
+  {
+   "q": "Who was the first president to be **impeached**?",
+   "answers": [
+    "Andrew Johnson",
+    "Richard Nixon",
+    "Andrew Jackson",
+    "Bill Clinton"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "📜",
+   "start": 296.14,
+   "countdownStart": 300.154,
+   "reveal": 310.154,
+   "end": 320.151
+  },
+  {
+   "q": "First sitting president to appear on **TV**?",
+   "answers": [
+    "Herbert Hoover",
+    "Harry Truman",
+    "Dwight Eisenhower",
+    "Franklin D. Roosevelt"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "📺",
+   "start": 320.151,
+   "countdownStart": 323.31,
+   "reveal": 333.31,
+   "end": 344.522
+  },
+  {
+   "q": "Who won **every** Electoral College vote?",
+   "answers": [
+    "James Monroe",
+    "George Washington",
+    "Franklin D. Roosevelt",
+    "Thomas Jefferson"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "🗳️",
+   "start": 344.522,
+   "countdownStart": 348.859,
+   "reveal": 358.859,
+   "end": 369.485
+  }
+ ],
+ "audio": "audio/us-presidents-5-15.mp3",
+ "outroStart": 369.485,
+ "durationInSeconds": 380.244
+}

@@ -12,7 +12,7 @@
  ],
  "youtube": {
   "title": "Can You Answer: Which Planet Is Closest to the Sun? ☀️🤯 #shorts",
-  "description": "Easy… or is it? ☀️ The answer has a twist.\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #spacequiz #planets #solarsystem #trivia #shorts\n\nPhotos via Wikimedia Commons: Sun – NASA/SDO (public domain)\nMusic: original.",
+  "description": "Easy… or is it? ☀️ The answer has a twist.\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #spacequiz #planets #solarsystem #trivia #shorts\n\nPhotos via Wikimedia Commons: Sun – NASA/SDO (public domain)\nFootage via Wikimedia Commons: Time-lapse of night sky in Antarctica – Discovering Antarctica / Kenrick Turner (CC BY 3.0)\nMusic: original.",
   "tags": [
    "space quiz",
    "planets quiz",
@@ -53,8 +53,25 @@
     "level": "EASY",
     "image": "bilder/q2-sun.jpg",
     "cardText": "☀️",
-    "broll": "night sky stars"
+    "broll": "night sky stars",
+    "start": 0.0,
+    "countdownStart": 4.033,
+    "reveal": 7.033,
+    "end": 13.242,
+    "video": "broll/one-q-closest-sun-0.mp4"
    }
-  ]
- }
+  ],
+  "audio": "audio/one-q-closest-sun.mp3",
+  "outroStart": 13.242,
+  "durationInSeconds": 13.242
+ },
+ "publishAt": "16:00",
+ "scheduledFor": "2026-11-02T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "ZVUz-EjQsI8",
+  "at": "2026-11-02T06:22"
+ },
+ "linkedLong": "GZnsjhdoEys"
 }

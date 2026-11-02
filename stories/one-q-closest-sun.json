@@ -1,0 +1,40 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Trivia",
+ "header": "QUICK QUIZ",
+ "hook": "EASY… OR IS IT? 🤔",
+ "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+ "finalLabel": "",
+ "ctaText": "Follow if you got it ✅",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get it?",
+ "outroSub": "Comment 👇",
+ "questions": [
+  {
+   "q": "Which planet is **closest** to the Sun?",
+   "answers": [
+    "Venus",
+    "Mercury",
+    "Mars",
+    "Earth"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "image": "bilder/q2-sun.jpg",
+   "cardText": "☀️",
+   "broll": "night sky stars",
+   "start": 0.0,
+   "countdownStart": 4.033,
+   "reveal": 7.033,
+   "end": 13.242,
+   "video": "broll/one-q-closest-sun-0.mp4"
+  }
+ ],
+ "audio": "audio/one-q-closest-sun.mp3",
+ "outroStart": 13.242,
+ "durationInSeconds": 13.242
+}

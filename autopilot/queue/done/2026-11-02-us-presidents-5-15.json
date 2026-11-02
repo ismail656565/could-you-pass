@@ -1,0 +1,391 @@
+{
+ "id": "us-presidents-5-15",
+ "timing": {
+  "count": 10.0,
+  "tail": 2.6,
+  "tempo": 0.95
+ },
+ "outroLine": "How many did you get? Comment your score, did you beat five? Subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Fifteen presidential questions in about seven minutes, and most people don't get five. First one: which president served the shortest time in office?",
+   "a": "William Henry Harrison! He died just thirty one days after taking office, back in eighteen forty one. And he gave the longest inaugural speech ever, almost two hours, out in the cold."
+  },
+  {
+   "q": "Who was the first president to live in the White House?",
+   "a": "John Adams! He moved in in eighteen hundred. George Washington picked the site, but never lived there. The building wasn't even finished when he arrived."
+  },
+  {
+   "q": "Which president is on the US twenty dollar bill?",
+   "a": "Andrew Jackson! Grant is on the fifty, and Hamilton, on the ten, was never president."
+  },
+  {
+   "q": "Who was the youngest person ever to become president?",
+   "a": "Theodore Roosevelt, at forty two! Kennedy was the youngest ever elected, at forty three. He took over after President McKinley was assassinated in nineteen oh one."
+  },
+  {
+   "q": "Nice start! Which president served the longest?",
+   "a": "Franklin D. Roosevelt! He won four elections and served just over twelve years. That's why there's a two term limit today."
+  },
+  {
+   "q": "Round two: very hard. Which president never married?",
+   "a": "James Buchanan! The only lifelong bachelor in the job. His niece Harriet Lane served as White House hostess."
+  },
+  {
+   "q": "Which president founded the University of Virginia?",
+   "a": "Thomas Jefferson! He listed it on his own gravestone, but left off being president. He also wrote the Declaration of Independence."
+  },
+  {
+   "q": "Who was the first president born as a citizen of the United States?",
+   "a": "Martin Van Buren! Born in seventeen eighty two, after independence. Everyone before him was born a British subject. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Still with me? Which president later became Chief Justice of the Supreme Court?",
+   "a": "William Howard Taft! The only person who has led two branches of the government. He was president first, then Chief Justice from nineteen twenty one to nineteen thirty."
+  },
+  {
+   "q": "Who was president when the Statue of Liberty was dedicated?",
+   "a": "Grover Cleveland! He dedicated it in October eighteen eighty six. The statue was a gift from the people of France."
+  },
+  {
+   "q": "Final round: legend level. What does the S in Harry S Truman stand for?",
+   "a": "Nothing at all! It's just the letter S, a nod to both of his grandfathers. His grandfathers were Anderson Shipp Truman and Solomon Young."
+  },
+  {
+   "q": "How many presidents have died in office?",
+   "a": "Eight! Four from illness and four assassinated, from Harrison in eighteen forty one to Kennedy in nineteen sixty three."
+  },
+  {
+   "q": "Three left, stay with me! Who was the first president to be impeached?",
+   "a": "Andrew Johnson, in eighteen sixty eight! The Senate acquitted him by a single vote. Nixon resigned before it got that far."
+  },
+  {
+   "q": "Who was the first sitting president to appear on television?",
+   "a": "Franklin D. Roosevelt! At the New York World's Fair in nineteen thirty nine. Regular TV broadcasts in America had only just begun."
+  },
+  {
+   "q": "Final question. Which president won every single electoral vote?",
+   "a": "George Washington! He did it in both of his elections. James Monroe came close in eighteen twenty, but one elector voted against him."
+  }
+ ],
+ "youtube": {
+  "title": "US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test",
+  "description": "15 hard questions about US presidents in about 7 minutes 🏛️ Can you score at least 5?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#USPresidentsQuiz #HistoryQuiz #AmericanHistory #Quiz #TriviaQuiz #HardQuiz\n\nFootage via Wikimedia Commons: American Flag – Stockfootage.com (CC BY-SA 4.0); President Trump Participates in the NATO Unveiling – The White House (Public domain); Manufacture de rubans de machine à écrire (1923) – Unknown authorUnknown author (Public domain); Hungry March Band at St. Pat's For All Parade, Sunnyside, NYC 2025 – CastIronSeasoner (CC BY 4.0)\nMusic: original.",
+  "tags": [
+   "us presidents quiz",
+   "presidents quiz",
+   "american history quiz",
+   "history quiz",
+   "us history trivia",
+   "hard quiz",
+   "7 minute quiz",
+   "trivia quiz",
+   "presidents trivia"
+  ],
+  "categoryId": "27",
+  "comment": "What did you score out of 15? Did you beat 5? 🏛️👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "US Presidents Quiz",
+  "header": "US PRESIDENTS QUIZ",
+  "hook": "CAN YOU SCORE 5/15? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you beat 5?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 7,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "SCORE **5/15**?",
+   "PRESIDENTS **QUIZ**",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🏛️",
+  "thumbBadge": "15 HARD QUESTIONS",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "Which president served the **shortest** time?",
+    "answers": [
+     "James Garfield",
+     "William Henry Harrison",
+     "Zachary Taylor",
+     "Warren Harding"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "⏱️",
+    "broll": "american flag waving",
+    "start": 0.0,
+    "countdownStart": 9.008,
+    "reveal": 19.008,
+    "end": 32.864,
+    "video": "broll/us-presidents-5-15-0.mp4"
+   },
+   {
+    "q": "First president to live in the **White House**?",
+    "answers": [
+     "George Washington",
+     "Thomas Jefferson",
+     "John Adams",
+     "James Madison"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🏛️",
+    "broll": "white house exterior",
+    "start": 32.864,
+    "countdownStart": 35.651,
+    "reveal": 45.651,
+    "end": 56.587,
+    "video": "broll/us-presidents-5-15-1.mp4"
+   },
+   {
+    "q": "Which president is on the US **$20** bill?",
+    "answers": [
+     "Ulysses S. Grant",
+     "Andrew Jackson",
+     "Abraham Lincoln",
+     "Alexander Hamilton"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "$20",
+    "start": 56.587,
+    "countdownStart": 59.535,
+    "reveal": 69.535,
+    "end": 77.309
+   },
+   {
+    "q": "Who was the **youngest** person to become president?",
+    "answers": [
+     "John F. Kennedy",
+     "Bill Clinton",
+     "Theodore Roosevelt",
+     "Ulysses S. Grant"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "42?",
+    "start": 77.309,
+    "countdownStart": 80.391,
+    "reveal": 90.391,
+    "end": 102.738
+   },
+   {
+    "q": "Which president served the **longest**?",
+    "answers": [
+     "Ronald Reagan",
+     "Franklin D. Roosevelt",
+     "Dwight Eisenhower",
+     "Thomas Jefferson"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "📅",
+    "start": 102.738,
+    "countdownStart": 105.488,
+    "reveal": 115.488,
+    "end": 125.585
+   },
+   {
+    "q": "Which president never **married**?",
+    "answers": [
+     "Grover Cleveland",
+     "James Buchanan",
+     "Chester Arthur",
+     "Martin Van Buren"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "💍",
+    "broll": "candle light old room",
+    "start": 125.585,
+    "countdownStart": 128.843,
+    "reveal": 138.843,
+    "end": 148.393
+   },
+   {
+    "q": "Who founded the University of **Virginia**?",
+    "answers": [
+     "James Madison",
+     "George Washington",
+     "James Monroe",
+     "Thomas Jefferson"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🎓",
+    "broll": "university campus autumn",
+    "start": 148.393,
+    "countdownStart": 151.404,
+    "reveal": 161.404,
+    "end": 171.781
+   },
+   {
+    "q": "First president born a **US citizen**?",
+    "answers": [
+     "John Quincy Adams",
+     "Andrew Jackson",
+     "Martin Van Buren",
+     "James Monroe"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "1782",
+    "start": 171.781,
+    "countdownStart": 175.809,
+    "reveal": 185.809,
+    "end": 198.583
+   },
+   {
+    "q": "Which president later became **Chief Justice**?",
+    "answers": [
+     "William Howard Taft",
+     "John Adams",
+     "Herbert Hoover",
+     "Woodrow Wilson"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "⚖️",
+    "start": 198.583,
+    "countdownStart": 203.034,
+    "reveal": 213.034,
+    "end": 225.71
+   },
+   {
+    "q": "Who was president when the **Statue of Liberty** opened?",
+    "answers": [
+     "Chester Arthur",
+     "Benjamin Harrison",
+     "Rutherford Hayes",
+     "Grover Cleveland"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🗽",
+    "start": 225.71,
+    "countdownStart": 229.169,
+    "reveal": 239.169,
+    "end": 248.824
+   },
+   {
+    "q": "What does the **S** in Harry S Truman stand for?",
+    "answers": [
+     "Solomon",
+     "Samuel",
+     "Nothing at all",
+     "Stephen"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "S?",
+    "broll": "old typewriter",
+    "start": 248.824,
+    "countdownStart": 253.606,
+    "reveal": 263.606,
+    "end": 274.249,
+    "video": "broll/us-presidents-5-15-10.mp4"
+   },
+   {
+    "q": "How many presidents have **died in office**?",
+    "answers": [
+     "Eight",
+     "Four",
+     "Six",
+     "Ten"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🕯️",
+    "broll": "marching band parade",
+    "start": 274.249,
+    "countdownStart": 276.545,
+    "reveal": 286.545,
+    "end": 296.14,
+    "video": "broll/us-presidents-5-15-11.mp4"
+   },
+   {
+    "q": "Who was the first president to be **impeached**?",
+    "answers": [
+     "Andrew Johnson",
+     "Richard Nixon",
+     "Andrew Jackson",
+     "Bill Clinton"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "📜",
+    "start": 296.14,
+    "countdownStart": 300.154,
+    "reveal": 310.154,
+    "end": 320.151
+   },
+   {
+    "q": "First sitting president to appear on **TV**?",
+    "answers": [
+     "Herbert Hoover",
+     "Harry Truman",
+     "Dwight Eisenhower",
+     "Franklin D. Roosevelt"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "📺",
+    "start": 320.151,
+    "countdownStart": 323.31,
+    "reveal": 333.31,
+    "end": 344.522
+   },
+   {
+    "q": "Who won **every** Electoral College vote?",
+    "answers": [
+     "James Monroe",
+     "George Washington",
+     "Franklin D. Roosevelt",
+     "Thomas Jefferson"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🗳️",
+    "start": 344.522,
+    "countdownStart": 348.859,
+    "reveal": 358.859,
+    "end": 369.485
+   }
+  ],
+  "audio": "audio/us-presidents-5-15.mp3",
+  "outroStart": 369.485,
+  "durationInSeconds": 380.244
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/us-presidents-5-15-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-11-02",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-02T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "GZnsjhdoEys",
+  "at": "2026-11-02T06:47"
+ }
+}

@@ -73,7 +73,11 @@
     "icons": [
      "🏃",
      "🐻"
-    ]
+    ],
+    "start": 0.0,
+    "countdownStart": 2.735,
+    "reveal": 5.735,
+    "end": 12.061
    },
    {
     "q": "Which is **faster**?",
@@ -94,7 +98,11 @@
     "icons": [
      "🦌",
      "🐎"
-    ]
+    ],
+    "start": 12.061,
+    "countdownStart": 13.662,
+    "reveal": 16.662,
+    "end": 22.279
    },
    {
     "q": "Which is **faster**?",
@@ -115,7 +123,11 @@
     "icons": [
      "🪶",
      "🐆"
-    ]
+    ],
+    "start": 22.279,
+    "countdownStart": 23.795,
+    "reveal": 26.795,
+    "end": 31.961
    },
    {
     "q": "Which is **faster**?",
@@ -136,8 +148,24 @@
     "icons": [
      "🏃",
      "🦛"
-    ]
+    ],
+    "start": 31.961,
+    "countdownStart": 34.289,
+    "reveal": 37.289,
+    "end": 44.533
    }
-  ]
- }
+  ],
+  "audio": "audio/vs-animals-faster-1.mp3",
+  "outroStart": 44.533,
+  "durationInSeconds": 44.533
+ },
+ "publishAt": "21:00",
+ "scheduledFor": "2026-11-02T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "vVlz3ctkWZo",
+  "at": "2026-11-02T06:24"
+ },
+ "linkedLong": "GZnsjhdoEys"
 }

@@ -848,3 +848,48 @@
 [2026-11-01 15:52:25] genius-6-trivia: Kommentar gepostet
 [2026-11-01 15:52:25] trap-4-true-false: noch nicht öffentlich – Kommentar später
 [2026-11-01 20:56:38] trap-4-true-false: Kommentar gepostet
+[2026-11-02 06:20:31] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-02 06:20:31] Analytics gespeichert (53 Videos)
+[2026-11-02 06:20:31] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-02 06:20:32] Thumbnail-Test emoji-word-15: Variante C → {'views': 3, 'ctr': 0.75, 'metric': 'views/day'}
+[2026-11-02 06:20:34] Thumbnail-Test emoji-word-15: jetzt Variante A (Gewinner)
+[2026-11-02 06:20:34] Thumbnail-Test halloween-quiz-35-2: Variante C → {'views': 3, 'ctr': 0.75, 'metric': 'views/day'}
+[2026-11-02 06:20:36] Thumbnail-Test halloween-quiz-35-2: jetzt Variante A (Gewinner)
+[2026-11-02 06:20:36] Thumbnail-Test over65-memory-50-1: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-02 06:20:39] Thumbnail-Test over65-memory-50-1: jetzt Variante C
+[2026-11-02 06:20:39] Thumbnail-Test auto-2026-10-29-long: Variante A → {'views': 2, 'ctr': 0.5, 'metric': 'views/day'}
+[2026-11-02 06:20:42] Thumbnail-Test auto-2026-10-29-long: jetzt Variante B
+[2026-11-02 06:20:42] Produziere one-q-closest-sun (short)
+[2026-11-02 06:20:42] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-02 06:20:46] Ton fertig: 13.2 s
+[2026-11-02 06:20:53] B-Roll Frage 1 ("night sky stars"): Time-lapse of night sky in Antarctica.webm
+[2026-11-02 06:21:59] Gerendert
+[2026-11-02 06:22:01] Hochgeladen: https://youtube.com/watch?v=ZVUz-EjQsI8 (private)
+[2026-11-02 06:22:02] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-02 06:22:02] Geplant für 02.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-02 06:22:02] Produziere vs-animals-faster-1 (short)
+[2026-11-02 06:22:02] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-02 06:22:13] Ton fertig: 44.5 s
+[2026-11-02 06:24:12] Gerendert
+[2026-11-02 06:24:15] Hochgeladen: https://youtube.com/watch?v=vVlz3ctkWZo (private)
+[2026-11-02 06:24:15] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-02 06:24:15] Geplant für 02.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-02 06:24:15] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-02 06:24:15] Produziere us-presidents-5-15 (long)
+[2026-11-02 06:24:15] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-02 06:25:19] Ton fertig: 380.2 s
+[2026-11-02 06:25:29] B-Roll Frage 1 ("american flag waving"): American Flag.webm
+[2026-11-02 06:25:38] B-Roll Frage 2 ("white house exterior"): President Trump Participates in the NATO Unveiling.webm
+[2026-11-02 06:25:39] B-Roll Frage 6 ("candle light old room"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-02 06:25:39] B-Roll Frage 7 ("university campus autumn"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-02 06:25:47] B-Roll Frage 11 ("old typewriter"): Manufacture de rubans de machine à écrire (1923).webm
+[2026-11-02 06:25:53] B-Roll Frage 12 ("marching band parade"): Hungry March Band at St. Pat's For All Parade, Sunnyside, NY
+[2026-11-02 06:46:48] Gerendert
+[2026-11-02 06:46:59] Hochgeladen: https://youtube.com/watch?v=GZnsjhdoEys (private)
+[2026-11-02 06:47:01] Vorschaubild gesetzt
+[2026-11-02 06:47:01] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-11-02 06:47:01] Geplant für 02.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-02 06:47:01] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-02 06:47:02] Short-Beschreibung (one-q-closest-sun) verlinkt auf langes Video GZnsjhdoEys
+[2026-11-02 06:47:03] Short-Beschreibung (vs-animals-faster-1) verlinkt auf langes Video GZnsjhdoEys
+[2026-11-02 06:47:12] Konkurrenz: 25 Kanäle, 133 Gewinner-Videos

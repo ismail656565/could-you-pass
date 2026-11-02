@@ -1,0 +1,122 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Faster?",
+ "header": "WHICH IS FASTER?",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "FASTER!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which is **faster**?",
+   "answers": [
+    "Usain Bolt",
+    "Grizzly bear"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    44.7,
+    56
+   ],
+   "valueLabels": [
+    "44.7 km/h",
+    "56 km/h"
+   ],
+   "icons": [
+    "🏃",
+    "🐻"
+   ],
+   "start": 0.0,
+   "countdownStart": 2.735,
+   "reveal": 5.735,
+   "end": 12.061
+  },
+  {
+   "q": "Which is **faster**?",
+   "answers": [
+    "Pronghorn",
+    "Racehorse"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "values": [
+    88,
+    70
+   ],
+   "valueLabels": [
+    "88 km/h",
+    "70 km/h"
+   ],
+   "icons": [
+    "🦌",
+    "🐎"
+   ],
+   "start": 12.061,
+   "countdownStart": 13.662,
+   "reveal": 16.662,
+   "end": 22.279
+  },
+  {
+   "q": "Which is **faster**?",
+   "answers": [
+    "Ostrich",
+    "Cheetah"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "values": [
+    70,
+    112
+   ],
+   "valueLabels": [
+    "70 km/h",
+    "112 km/h"
+   ],
+   "icons": [
+    "🪶",
+    "🐆"
+   ],
+   "start": 22.279,
+   "countdownStart": 23.795,
+   "reveal": 26.795,
+   "end": 31.961
+  },
+  {
+   "q": "Which is **faster**?",
+   "answers": [
+    "Usain Bolt",
+    "Hippo"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "values": [
+    44.7,
+    30
+   ],
+   "valueLabels": [
+    "44.7 km/h",
+    "30 km/h"
+   ],
+   "icons": [
+    "🏃",
+    "🦛"
+   ],
+   "start": 31.961,
+   "countdownStart": 34.289,
+   "reveal": 37.289,
+   "end": 44.533
+  }
+ ],
+ "audio": "audio/vs-animals-faster-1.mp3",
+ "outroStart": 44.533,
+ "durationInSeconds": 44.533
+}
