@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-02T08:34 (8 Abos)
+# Scoreboard – Stand 2026-11-02T11:49 (8 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -11,7 +11,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 6+ Fragen | 2 | 1334 | 1334 | 1433 | 56.0 | 53.7 | 0 |
 | Ersatz-Generator (1 Frage) | 6 | 775 | 887 | 1206 | 37.8 | 143.1 | 0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
-| 1-Frage-Ego-Hook | 6 | 405 | 266 | 864 | 43.3 | 104.4 | 1.0 |
+| 1-Frage-Ego-Hook | 6 | 406 | 267 | 865 | 43.3 | 104.4 | 1.0 |
 | 4-Fragen-Trap | 7 | 432 | 251 | 1081 | 53.9 | 81.0 | 0 |
 
 ### Shorts nach Thema/Titeltyp
@@ -21,13 +21,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | GENIUS TEST | 1 | 1433 | 1433 | 1433 | 57.0 | 61.1 | 0 |
 | WHICH CAME FIRST? | 1 | 1234 | 1234 | 1234 | 55.1 | 46.2 | 0 |
 | BRAIN QUIZ | 1 | 1206 | 1206 | 1206 | 44.1 | 103.3 | 0 |
-| NATURE QUIZ | 1 | 864 | 864 | 864 | 38.9 | 71.8 | 0 |
-| GEOGRAPHY QUIZ | 1 | 714 | 714 | 714 | 37.4 | 114.3 | 0 |
+| NATURE QUIZ | 1 | 865 | 865 | 865 | 38.9 | 71.8 | 0 |
+| GEOGRAPHY QUIZ | 1 | 715 | 715 | 715 | 37.4 | 114.3 | 0 |
 | GENERAL KNOWLEDGE | 5 | 689 | 614 | 1160 | 36.5 | 151.1 | 0 |
 | HALLOWEEN TRIVIA | 3 | 343 | 338 | 497 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | TRIVIA | 6 | 472 | 289 | 1081 | 52.7 | 59.6 | 0 |
-| SPACE QUIZ | 1 | 202 | 202 | 202 | 49.5 | 95.5 | 0 |
+| SPACE QUIZ | 1 | 204 | 204 | 204 | 49.5 | 95.5 | 0 |
 | FOOD QUIZ | 1 | 182 | 182 | 182 | 72.6 | 38.4 | 0 |
 | ANIMAL QUIZ | 1 | 167 | 167 | 167 | 34.4 | 72.1 | 1.0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
@@ -45,14 +45,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 6 | 733 | 823 | 1206 | 49.5 | 87.7 | 0 |
 | brain-pulse.wav | 15 | 558 | 330 | 1433 | 44.1 | 107.3 | 0 |
-| world-trip.wav | 3 | 340 | 167 | 714 | 41.8 | 81.5 | 1.0 |
+| world-trip.wav | 3 | 341 | 167 | 715 | 41.8 | 81.5 | 1.0 |
 
 ### Shorts nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
-| 16:00 | 8 | 531 | 472 | 1206 | 42.8 | 106.6 | 1.0 |
+| 16:00 | 8 | 532 | 472 | 1206 | 42.8 | 106.6 | 1.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.5 | 155.6 | 0 |
 | 21:00 | 10 | 553 | 289 | 1160 | 49.5 | 73.8 | 0 |
 
@@ -65,7 +65,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 1160 Views · stayed 0.38 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
 - 1081 Views · stayed 0.487 · 4-Fragen-Trap · tvshow · brain-pulse.wav · 4 History Questions Almost Everyone Gets Wrong 🦖 #shorts
 - 1032 Views · stayed 0.546 · 4-Fragen-Trap · neon · game-show.wav · 4 Questions 90% Get Wrong 🤯 #shorts
-- 864 Views · stayed 0.389 · 1-Frage-Ego-Hook · tvshow · brain-pulse.wav · How Many Flowers Make One Pound of Honey? 🍯🤯 #shorts
+- 865 Views · stayed 0.389 · 1-Frage-Ego-Hook · tvshow · brain-pulse.wav · How Many Flowers Make One Pound of Honey? 🍯🤯 #shorts
 
 ### Flop 5 Shorts
 

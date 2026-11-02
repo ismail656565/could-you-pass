@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-02T08:34",
+ "fetched": "2026-11-02T11:49",
  "channel": "COULD YOU PASS?",
  "subscribers": "8",
  "audience": {
@@ -83,12 +83,12 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 13643,
+    "views": 13641,
     "engagedViews": 5862
    },
    {
     "deviceType": "TABLET",
-    "views": 3388,
+    "views": 3386,
     "engagedViews": 1678
    },
    {
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 45,
-   "publicViews": "1012",
+   "publicViews": "1032",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -249,7 +249,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 40,
-   "publicViews": "733",
+   "publicViews": "757",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -267,7 +267,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 13,
-   "publicViews": "344",
+   "publicViews": "358",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1100,7 +1100,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 19,
-   "publicViews": "864",
+   "publicViews": "865",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1172,7 +1172,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 17,
-   "publicViews": "202",
+   "publicViews": "204",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1244,7 +1244,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 19,
-   "publicViews": "714",
+   "publicViews": "715",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,

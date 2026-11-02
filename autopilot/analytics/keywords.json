@@ -7,11 +7,11 @@
    "quizzes",
    "quiz dino",
    "quiz blitz",
-   "quiz for kids",
    "quizas si quizas no",
    "quiz rainbow",
-   "quiz show",
-   "quizas quizas quizas"
+   "quiz for kids",
+   "quizas quizas quizas",
+   "quiz show"
   ],
   "trivia": [
    "trivia",
@@ -22,8 +22,8 @@
    "trivia quiz",
    "trivia music",
    "trivial pursuit",
-   "trivia song",
-   "trivia night"
+   "trivia night",
+   "trivia song"
   ],
   "general knowledge quiz": [
    "general knowledge quiz",
@@ -107,7 +107,7 @@
    "guess the animal",
    "guess the food",
    "guess the restaurant",
-   "guess the rapper"
+   "guess the nfl player"
   ],
   "can you pass": [
    "can you pass the jelly",
@@ -702,11 +702,6 @@
    "hits": 2
   },
   {
-   "keyword": "quiz for kids",
-   "score": 1.5,
-   "hits": 2
-  },
-  {
    "keyword": "trivia for kids",
    "score": 1.5,
    "hits": 2
@@ -770,6 +765,11 @@
    "keyword": "emoji quiz guess the restaurant",
    "score": 1.5,
    "hits": 2
+  },
+  {
+   "keyword": "true or false quiz ding dong",
+   "score": 1.5,
+   "hits": 2
   }
  ],
  "trends": {
@@ -780,39 +780,35 @@
      "100"
     ],
     [
-     "song quiz",
+     "quiz song",
      "40"
     ],
     [
      "trivia quiz",
-     "39"
-    ],
-    [
-     "trivia",
      "38"
     ],
     [
+     "trivia",
+     "37"
+    ],
+    [
      "kids quiz",
-     "26"
+     "27"
     ],
     [
      "hero quiz",
-     "25"
+     "24"
     ],
     [
      "quiz questions",
-     "23"
-    ],
-    [
-     "music quiz",
-     "21"
-    ],
-    [
-     "quiz kpop",
-     "20"
+     "24"
     ],
     [
      "quiz math",
+     "21"
+    ],
+    [
+     "music quiz",
      "20"
     ],
     [
@@ -821,6 +817,10 @@
     ],
     [
      "math",
+     "20"
+    ],
+    [
+     "quiz kpop",
      "20"
     ],
     [
@@ -839,7 +839,7 @@
    "rising": [
     [
      "kerala piravi quiz",
-     "+3,900%"
+     "+3,800%"
     ],
     [
      "halloween quiz",
@@ -851,18 +851,10 @@
     ],
     [
      "trivia quiz",
-     "+170%"
-    ],
-    [
-     "quiz pays",
-     "+40%"
+     "+160%"
     ],
     [
      "quiz drapeau",
-     "+40%"
-    ],
-    [
-     "quiz musique",
      "+40%"
     ]
    ]
@@ -870,23 +862,23 @@
   "trivia": {
    "top": [
     [
-     "quiz trivia",
+     "quiz",
      "100"
     ],
     [
-     "quiz",
-     "99"
+     "trivia quiz",
+     "98"
     ],
     [
      "trivia questions",
-     "23"
+     "22"
     ],
     [
-     "trivia movie",
+     "movie trivia",
      "18"
     ],
     [
-     "trivia music",
+     "music trivia",
      "13"
     ],
     [
@@ -895,26 +887,22 @@
     ],
     [
      "general trivia",
-     "10"
-    ],
-    [
-     "trivia song",
      "9"
     ],
     [
-     "trivia kids",
+     "song trivia",
+     "9"
+    ],
+    [
+     "kids trivia",
      "8"
     ],
     [
-     "halloween trivia",
+     "trivia halloween",
      "8"
     ],
     [
-     "trivia general knowledge",
-     "6"
-    ],
-    [
-     "trivia games",
+     "general knowledge trivia",
      "6"
     ],
     [
@@ -922,12 +910,16 @@
      "6"
     ],
     [
-     "trivia disney",
+     "trivia games",
+     "5"
+    ],
+    [
+     "disney trivia",
      "5"
     ],
     [
      "bible trivia",
-     "5"
+     "4"
     ]
    ],
    "rising": [
@@ -940,24 +932,24 @@
      "+550%"
     ],
     [
-     "halloween trivia",
-     "+450%"
+     "trivia halloween",
+     "+500%"
     ],
     [
      "halloween trivia for adults",
      "+400%"
     ],
     [
-     "quiz trivia",
-     "+120%"
+     "trivia quiz",
+     "+130%"
     ],
     [
      "quiz",
-     "+110%"
+     "+120%"
     ],
     [
-     "trivia movie",
-     "+80%"
+     "movie trivia",
+     "+90%"
     ],
     [
      "horror movie trivia",
@@ -965,7 +957,7 @@
     ],
     [
      "horror trivia",
-     "+80%"
+     "+70%"
     ],
     [
      "thriller michael jackson",
@@ -980,52 +972,40 @@
   "general knowledge quiz": {
    "top": [
     [
-     "quiz questions general knowledge",
+     "general knowledge questions",
      "100"
     ],
     [
-     "general knowledge questions",
+     "quiz questions",
      "97"
     ],
     [
-     "quiz questions",
-     "95"
-    ],
-    [
-     "general knowledge trivia quiz",
-     "54"
-    ],
-    [
-     "trivia quiz",
-     "54"
+     "kids general knowledge quiz",
+     "70"
     ],
     [
      "general knowledge trivia",
-     "53"
-    ],
-    [
-     "trivia",
-     "53"
+     "55"
     ],
     [
      "general knowledge quiz hard",
-     "52"
+     "53"
     ],
     [
      "music quiz",
-     "21"
+     "22"
     ],
     [
-     "general knowledge questions and answers",
-     "20"
+     "math quiz",
+     "18"
     ],
     [
      "general knowledge quiz malayalam",
-     "15"
+     "16"
     ],
     [
      "general knowledge quiz uk",
-     "10"
+     "11"
     ],
     [
      "british general knowledge quiz",
@@ -1042,111 +1022,7 @@
      "+50%"
     ]
    ]
-  },
-  "guess the": {
-   "top": [
-    [
-     "guess the song",
-     "100"
-    ],
-    [
-     "guess the country",
-     "31"
-    ],
-    [
-     "guess the logo",
-     "22"
-    ],
-    [
-     "guess the movie",
-     "21"
-    ],
-    [
-     "guess the emoji",
-     "19"
-    ],
-    [
-     "guess the game",
-     "17"
-    ],
-    [
-     "guess the word",
-     "15"
-    ],
-    [
-     "guess the player",
-     "15"
-    ],
-    [
-     "guess the quiz",
-     "13"
-    ],
-    [
-     "guess the songs",
-     "12"
-    ],
-    [
-     "quiz",
-     "12"
-    ],
-    [
-     "guess the animal",
-     "11"
-    ],
-    [
-     "guess the flag",
-     "9"
-    ],
-    [
-     "guess the character",
-     "8"
-    ],
-    [
-     "guess the food",
-     "8"
-    ]
-   ],
-   "rising": [
-    [
-     "guess the youtuber challenge",
-     "+180%"
-    ],
-    [
-     "guess the animal challenge",
-     "+90%"
-    ],
-    [
-     "guess the ufc fighter",
-     "+50%"
-    ]
-   ]
-  },
-  "which is bigger": {
-   "top": [
-    [
-     "which is bigger the earth or the moon",
-     "100"
-    ],
-    [
-     "9.9 or 9.11 which is bigger",
-     "10"
-    ],
-    [
-     "9.11 and 9.9 which is bigger",
-     "8"
-    ]
-   ],
-   "rising": [
-    [
-     "which is bigger the earth or the moon",
-     "Breakout"
-    ],
-    [
-     "9.9 or 9.11 which is bigger",
-     "Breakout"
-    ]
-   ]
   }
  },
- "trendsError": null
+ "trendsError": "HTTPError: 429 Client Error: unknown for url: https://trends.google.com/trends/api/widgetdata/relatedsearches?hl=en-US&tz=0&req=%7B%22restriction%22%3A+%7B%22geo"
 }
