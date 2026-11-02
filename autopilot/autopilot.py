@@ -159,10 +159,26 @@ def analytics():
     # Länge der Videos
     for i in range(0, len(vids), 50):
         ids = ','.join(v['id'] for v in vids[i:i + 50])
-        for it in y.videos().list(part='contentDetails,statistics', id=ids).execute().get('items', []):
-            m = re.match(r'PT(?:(\d+)M)?(?:(\d+)S)?', it['contentDetails']['duration'])
-            by_id[it['id']]['durationSec'] = int(m.group(1) or 0) * 60 + int(m.group(2) or 0) if m else None
+        for it in y.videos().list(part='contentDetails,statistics,status', id=ids).execute().get('items', []):
+            m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', it['contentDetails']['duration'])
+            by_id[it['id']]['durationSec'] = (int(m.group(1) or 0) * 3600 + int(m.group(2) or 0) * 60 + int(m.group(3) or 0)) if m else None
             by_id[it['id']]['publicViews'] = it['statistics'].get('viewCount')
+            # Status-Check (Plan 02.11.): öffentlich? fälschlich "made for kids"? Altersbeschränkung?
+            st = it.get('status', {})
+            by_id[it['id']]['status'] = {k: st.get(k) for k in ('privacyStatus', 'madeForKids', 'selfDeclaredMadeForKids',
+                                                                 'embeddable', 'publicStatsViewable', 'uploadStatus')}
+            by_id[it['id']]['status']['ytRating'] = it['contentDetails'].get('contentRating', {}).get('ytRating')
+            if st.get('selfDeclaredMadeForKids'):
+                try:
+                    y.videos().update(part='status', body={'id': it['id'], 'status': {
+                        'privacyStatus': st.get('privacyStatus'), 'selfDeclaredMadeForKids': False,
+                        **({'publishAt': st['publishAt']} if st.get('publishAt') else {})}}).execute()
+                    log(f"Status-Fix: {it['id']} war als 'made for kids' markiert → auf False gesetzt")
+                except Exception as ex:
+                    log(f"Status-Fix {it['id']} fehlgeschlagen:", str(ex)[:150])
+            if st.get('madeForKids') or by_id[it['id']]['status']['ytRating'] or (
+                    st.get('privacyStatus') not in ('public', 'private') and st.get('privacyStatus')):
+                log(f"Status-Warnung {it['id']}: {by_id[it['id']]['status']}")
     for v in vids:
         if v.get('views') and v.get('engagedViews') is not None:
             v['engagedShare'] = round(v['engagedViews'] / max(1, v['views']), 3)

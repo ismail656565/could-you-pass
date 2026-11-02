@@ -1,0 +1,144 @@
+{
+ "id": "six-q-quick-geo",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "lines": [
+  {
+   "q": "Which country is home to Machu Picchu?",
+   "a": "Peru! High in the Andes, built by the Inca."
+  },
+  {
+   "q": "Which river flows through Paris?",
+   "a": "The Seine! It runs right past the Eiffel Tower."
+  },
+  {
+   "q": "Which is the largest US state?",
+   "a": "Alaska! More than twice the size of Texas."
+  },
+  {
+   "q": "Which continent has the most countries?",
+   "a": "Africa, with fifty four! Asia has the most people, not the most countries."
+  },
+  {
+   "q": "Whose national flag is not a rectangle?",
+   "a": "Nepal! Two stacked triangles, the only one like it."
+  },
+  {
+   "q": "Last one. Which country has the most lakes?",
+   "a": "Canada! More than half of all the lakes on Earth. Think you got all six? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Quick Fire Geography Quiz – Can You Get 6/6? 🌍 #shorts",
+  "description": "6 quick fire geography questions, from easy to hard 🌍 Did #6 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #geographyquiz #quiz #trivia #quickfire #shorts\n\nMusic: original.",
+  "tags": [
+   "quick fire quiz",
+   "geography quiz",
+   "can you get 6/6",
+   "geography trivia",
+   "world geography",
+   "countries quiz",
+   "trivia quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Canada's lakes get almost everyone 💧 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Quick Fire Geography",
+  "header": "QUICK FIRE GEOGRAPHY",
+  "hook": "CAN YOU GET 6/6? 🌍",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which country is home to **Machu Picchu**?",
+    "answers": [
+     "Mexico",
+     "Chile",
+     "Peru",
+     "Bolivia"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "⛰️",
+    "broll": "mountain ruins clouds"
+   },
+   {
+    "q": "Which river flows through **Paris**?",
+    "answers": [
+     "Seine",
+     "Thames",
+     "Danube",
+     "Rhine"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🌉",
+    "broll": "river city bridge"
+   },
+   {
+    "q": "Which is the largest US **state**?",
+    "answers": [
+     "Texas",
+     "California",
+     "Montana",
+     "Alaska"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🗺️"
+   },
+   {
+    "q": "Which continent has the most **countries**?",
+    "answers": [
+     "Asia",
+     "Africa",
+     "Europe",
+     "South America"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "54?"
+   },
+   {
+    "q": "Whose national flag is not a **rectangle**?",
+    "answers": [
+     "Bhutan",
+     "Sri Lanka",
+     "Nepal",
+     "Brunei"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🏳️"
+   },
+   {
+    "q": "Which country has the most **lakes**?",
+    "answers": [
+     "Finland",
+     "Russia",
+     "USA",
+     "Canada"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "💧",
+    "broll": "lake forest aerial"
+   }
+  ]
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "id": "vs-population-1",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "lines": [
+  {
+   "q": "Which has more people, Brazil or Nigeria?",
+   "a": "Nigeria! About two hundred thirty three million, twenty million more than Brazil."
+  },
+  {
+   "q": "Japan or Turkey?",
+   "a": "Japan! Around one hundred twenty four million, even though its population is shrinking."
+  },
+  {
+   "q": "Australia or Canada?",
+   "a": "Canada! About forty million, Australia has around twenty seven."
+  },
+  {
+   "q": "Last one. Switzerland or Kazakhstan?",
+   "a": "Kazakhstan! More than twice as many people. Think you can beat all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Which Has More People? 4 Rounds 90% Get Wrong 👥 #shorts",
+  "description": "Guess which country has more people – the bars reveal the real population 👥 Did #1 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #quiz #population #countries #geographyquiz #shorts\n\nPopulation data: UN World Population Prospects 2024 (2024 estimates).\nPhotos via Wikimedia Commons: Flag of Brazil (public domain); Flag of Nigeria (public domain); Flag of Japan (public domain); Flag of Turkey (public domain); Flag of Australia (public domain); Flag of Canada (public domain); Flag of Switzerland (public domain); Flag of Kazakhstan (public domain)\nMusic: original.",
+  "tags": [
+   "which has more people",
+   "population comparison",
+   "country population",
+   "geography quiz",
+   "countries quiz",
+   "comparison quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Brazil vs Nigeria fools almost everyone Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "More People?",
+  "header": "WHO HAS MORE PEOPLE?",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "MORE PEOPLE!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Brazil",
+     "Nigeria"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     211998573,
+     232679478
+    ],
+    "valueLabels": [
+     "212M",
+     "233M"
+    ],
+    "images": [
+     "bilder/cap-flag-brazil.jpg",
+     "bilder/cap-flag-nigeria.jpg"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Japan",
+     "Turkey"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "values": [
+     123753041,
+     87473805
+    ],
+    "valueLabels": [
+     "124M",
+     "87M"
+    ],
+    "images": [
+     "bilder/cap-flag-japan.jpg",
+     "bilder/cap-flag-turkey.jpg"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Australia",
+     "Canada"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "values": [
+     26713205,
+     39742430
+    ],
+    "valueLabels": [
+     "27M",
+     "40M"
+    ],
+    "images": [
+     "bilder/cap-flag-australia.jpg",
+     "bilder/cap-flag-canada.jpg"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Switzerland",
+     "Kazakhstan"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     8921981,
+     20592571
+    ],
+    "valueLabels": [
+     "9M",
+     "21M"
+    ],
+    "images": [
+     "bilder/cap-flag-switzerland.jpg",
+     "bilder/cap-flag-kazakhstan.jpg"
+    ]
+   }
+  ]
+ }
+}

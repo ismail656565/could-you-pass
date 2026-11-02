@@ -1,0 +1,303 @@
+{
+ "id": "gk-well-educated-5-15",
+ "timing": {
+  "count": 10.0,
+  "tail": 2.6,
+  "tempo": 0.95
+ },
+ "outroLine": "How many did you get? Comment your score, did you pass with five? Subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Fifteen hard questions, score five and you pass. Ready? First one: which country has the most pyramids?",
+   "a": "Sudan! More than two hundred of them, about twice as many as Egypt. They were built by the kings of ancient Kush."
+  },
+  {
+   "q": "Trick question. You're in a race and you pass the runner in second place. What place are you in now?",
+   "a": "Second! You took their place, you didn't pass the leader. Most people shout first."
+  },
+  {
+   "q": "In which city was the Titanic built?",
+   "a": "Belfast! At the Harland and Wolff shipyard. It sailed from Southampton, which fools a lot of people."
+  },
+  {
+   "q": "Which is the only planet named after a goddess?",
+   "a": "Venus! The Roman goddess of love. Every other planet is named after a male god."
+  },
+  {
+   "q": "Nice start! Which gas makes up most of the air we breathe?",
+   "a": "Nitrogen! About seventy eight percent. Oxygen is only around twenty one percent."
+  },
+  {
+   "q": "Round two: very hard. What was the tallest mountain in the world before Mount Everest was discovered?",
+   "a": "Mount Everest! It was already the tallest, people just hadn't measured it yet. Got you?"
+  },
+  {
+   "q": "Which is the only bird that can truly fly backwards?",
+   "a": "The hummingbird! Its wings can beat around fifty times a second, and it can even hover in place."
+  },
+  {
+   "q": "Does England have a Fourth of July?",
+   "a": "Yes, every year! It just isn't a holiday there. Every country has a fourth of July, it comes right after the third. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Still with me? What is the most common letter in English?",
+   "a": "E! It shows up in about one in every eight letters you read. T is a distant second."
+  },
+  {
+   "q": "How many hearts does an octopus have?",
+   "a": "Three! Two pump blood to the gills, one to the rest of the body. And its blood is blue."
+  },
+  {
+   "q": "Final round: legend level. A plane crashes right on the border between the US and Canada. Where do they bury the survivors?",
+   "a": "Nowhere! Survivors are alive, you don't bury them. Did you start picking a country?"
+  },
+  {
+   "q": "Which country sends London the giant Christmas tree in Trafalgar Square every year?",
+   "a": "Norway! Oslo has sent one every year since nineteen forty seven, as a thank you for British help in World War Two."
+  },
+  {
+   "q": "Three left, stay with me! A red house is made of red bricks. What is a greenhouse made of?",
+   "a": "Glass! Your brain wanted to say green bricks. That's why trick questions work."
+  },
+  {
+   "q": "Which is the only number whose letters are in alphabetical order?",
+   "a": "Forty! F, O, R, T, Y. Check it yourself, no other number works."
+  },
+  {
+   "q": "Final question. Which planet has the fastest winds in the solar system?",
+   "a": "Neptune! Winds up to about two thousand kilometres an hour. That's faster than the speed of sound on Earth."
+  }
+ ],
+ "youtube": {
+  "title": "Are You Well Educated? Hard Quiz – Score 5/15 to Pass 🎓",
+  "description": "15 hard general knowledge questions, including 5 trick questions 🎓 Score at least 5 and you pass.\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeneralKnowledgeQuiz #HardQuiz #TrickQuestions #TriviaQuiz #Quiz #IQTest\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0); RMS Titanic – F. G. O. Stuart (public domain); Octopus – Diego Delso (CC BY-SA 4.0)\nMusic: original.",
+  "tags": [
+   "are you well educated",
+   "hard quiz",
+   "general knowledge quiz",
+   "trick questions",
+   "trivia quiz",
+   "hard trivia",
+   "iq test",
+   "quiz",
+   "brain test"
+  ],
+  "categoryId": "24",
+  "comment": "What did you score out of 15? Which trick question got you? 🎓👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Well Educated Quiz",
+  "header": "WELL EDUCATED QUIZ",
+  "hook": "CAN YOU SCORE 5/15? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you pass?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 7,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbImage": "bilder/q2-pyramid.jpg",
+  "thumbTexts": [
+   "SCORE **5/15**?",
+   "WELL **EDUCATED**?",
+   "**5** TRICK QUESTIONS"
+  ],
+  "thumbEmoji": "🎓",
+  "thumbBadge": "15 HARD QUESTIONS",
+  "cardColors": [
+   "#5B21B6",
+   "#1E0B3B"
+  ],
+  "questions": [
+   {
+    "q": "Which country has the most **pyramids**?",
+    "answers": [
+     "Egypt",
+     "Sudan",
+     "Mexico",
+     "Peru"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "image": "bilder/q2-pyramid.jpg"
+   },
+   {
+    "q": "You pass the runner in **2nd** place. Your place?",
+    "answers": [
+     "First",
+     "Third",
+     "Second",
+     "Last"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🏃"
+   },
+   {
+    "q": "In which city was the **Titanic** built?",
+    "answers": [
+     "Southampton",
+     "Liverpool",
+     "Glasgow",
+     "Belfast"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "image": "bilder/mv-titanic.jpg"
+   },
+   {
+    "q": "Only planet named after a **goddess**?",
+    "answers": [
+     "Venus",
+     "Mars",
+     "Saturn",
+     "Neptune"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🪐"
+   },
+   {
+    "q": "Which gas makes up most of Earth's **air**?",
+    "answers": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Nitrogen",
+     "Argon"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🌬️",
+    "broll": "clouds sky timelapse"
+   },
+   {
+    "q": "Tallest mountain **before** Everest was discovered?",
+    "answers": [
+     "K2",
+     "Mount Everest",
+     "Kangchenjunga",
+     "Mont Blanc"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🏔️",
+    "broll": "snowy mountain peaks"
+   },
+   {
+    "q": "The only bird that can fly **backwards**?",
+    "answers": [
+     "Hummingbird",
+     "Swift",
+     "Kingfisher",
+     "Owl"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🐦"
+   },
+   {
+    "q": "Does England have a **4th of July**?",
+    "answers": [
+     "No",
+     "Only in leap years",
+     "Yes, every year",
+     "Only in London"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "📅"
+   },
+   {
+    "q": "Most common **letter** in English?",
+    "answers": [
+     "A",
+     "T",
+     "S",
+     "E"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🔤"
+   },
+   {
+    "q": "How many **hearts** does an octopus have?",
+    "answers": [
+     "One",
+     "Two",
+     "Three",
+     "Eight"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "image": "bilder/q2-octopus.jpg"
+   },
+   {
+    "q": "Plane crash on a border: where are **survivors** buried?",
+    "answers": [
+     "In the USA",
+     "Nowhere",
+     "In Canada",
+     "Where they lived"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "✈️"
+   },
+   {
+    "q": "Who gives London's Trafalgar **Christmas tree**?",
+    "answers": [
+     "Sweden",
+     "Denmark",
+     "Norway",
+     "Finland"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🎄"
+   },
+   {
+    "q": "Red house: red bricks. A **greenhouse**?",
+    "answers": [
+     "Green bricks",
+     "Glass",
+     "Green paint",
+     "Grass"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🏠"
+   },
+   {
+    "q": "Only number spelled in **alphabetical** order?",
+    "answers": [
+     "Four",
+     "Eight",
+     "Sixty",
+     "Forty"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🔢"
+   },
+   {
+    "q": "Which planet has the **fastest** winds?",
+    "answers": [
+     "Jupiter",
+     "Saturn",
+     "Neptune",
+     "Uranus"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "💨",
+    "broll": "night sky stars"
+   }
+  ]
+ }
+}
