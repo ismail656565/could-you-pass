@@ -11,7 +11,7 @@
    "quizas si quizas no",
    "quiz rainbow",
    "quiz show",
-   "quiz game for kids"
+   "quizas quizas quizas"
   ],
   "trivia": [
    "trivia",
@@ -23,7 +23,7 @@
    "trivia music",
    "trivial pursuit",
    "trivia song",
-   "trivia hard"
+   "trivia night"
   ],
   "general knowledge quiz": [
    "general knowledge quiz",
@@ -135,6 +135,7 @@
   ],
   "emoji quiz": [
    "emoji quiz",
+   "emoji quiz hard",
    "emoji quiz for kids",
    "emoji quiz movie",
    "emoji quiz food",
@@ -142,8 +143,7 @@
    "emoji quiz christmas",
    "emoji quiz disney",
    "emoji quiz restaurants",
-   "emoji quiz disney movies",
-   "emoji quiz countries"
+   "emoji quiz disney movies"
   ],
   "true or false quiz": [
    "true or false quiz",
@@ -297,11 +297,6 @@
    "hits": 3
   },
   {
-   "keyword": "emoji quiz hard level",
-   "score": 2.1,
-   "hits": 3
-  },
-  {
    "keyword": "country guessing game flag",
    "score": 2.1,
    "hits": 3
@@ -402,9 +397,14 @@
    "hits": 2
   },
   {
-   "keyword": "emoji quiz for kids",
+   "keyword": "emoji quiz hard",
    "score": 1.9,
    "hits": 2
+  },
+  {
+   "keyword": "emoji quiz hard level",
+   "score": 1.9,
+   "hits": 3
   },
   {
    "keyword": "country quiz game",
@@ -502,7 +502,7 @@
    "hits": 2
   },
   {
-   "keyword": "emoji quiz movie",
+   "keyword": "emoji quiz for kids",
    "score": 1.8,
    "hits": 2
   },
@@ -612,6 +612,11 @@
    "hits": 2
   },
   {
+   "keyword": "emoji quiz movie",
+   "score": 1.7,
+   "hits": 2
+  },
+  {
    "keyword": "true or false quiz peppa pig",
    "score": 1.7,
    "hits": 2
@@ -687,11 +692,6 @@
    "hits": 2
   },
   {
-   "keyword": "emoji quiz food",
-   "score": 1.6,
-   "hits": 2
-  },
-  {
    "keyword": "emoji quiz guess the movie",
    "score": 1.6,
    "hits": 2
@@ -762,7 +762,7 @@
    "hits": 2
   },
   {
-   "keyword": "emoji quiz christmas",
+   "keyword": "emoji quiz food",
    "score": 1.5,
    "hits": 2
   },
@@ -780,31 +780,35 @@
      "100"
     ],
     [
-     "quiz song",
+     "song quiz",
      "40"
     ],
     [
-     "quiz trivia",
-     "37"
+     "trivia quiz",
+     "39"
     ],
     [
      "trivia",
-     "36"
+     "38"
     ],
     [
      "kids quiz",
      "26"
     ],
     [
-     "quiz questions",
-     "24"
+     "hero quiz",
+     "25"
     ],
     [
-     "hero quiz",
+     "quiz questions",
      "23"
     ],
     [
-     "kpop quiz",
+     "music quiz",
+     "21"
+    ],
+    [
+     "quiz kpop",
      "20"
     ],
     [
@@ -812,12 +816,12 @@
      "20"
     ],
     [
-     "music quiz",
-     "19"
+     "kpop quiz",
+     "20"
     ],
     [
      "math",
-     "19"
+     "20"
     ],
     [
      "general knowledge quiz",
@@ -828,18 +832,14 @@
      "18"
     ],
     [
-     "quiz anime",
-     "17"
-    ],
-    [
      "english quiz",
-     "17"
+     "18"
     ]
    ],
    "rising": [
     [
      "kerala piravi quiz",
-     "+3,850%"
+     "+3,900%"
     ],
     [
      "halloween quiz",
@@ -850,15 +850,19 @@
      "+180%"
     ],
     [
-     "quiz trivia",
-     "+160%"
-    ],
-    [
-     "quiz drapeau",
-     "+50%"
+     "trivia quiz",
+     "+170%"
     ],
     [
      "quiz pays",
+     "+40%"
+    ],
+    [
+     "quiz drapeau",
+     "+40%"
+    ],
+    [
+     "quiz musique",
      "+40%"
     ]
    ]
@@ -875,11 +879,11 @@
     ],
     [
      "trivia questions",
-     "24"
+     "23"
     ],
     [
-     "movie trivia",
-     "19"
+     "trivia movie",
+     "18"
     ],
     [
      "trivia music",
@@ -887,19 +891,19 @@
     ],
     [
      "trivia game",
-     "12"
+     "11"
     ],
     [
      "general trivia",
      "10"
     ],
     [
-     "song trivia",
+     "trivia song",
      "9"
     ],
     [
-     "kids trivia",
-     "9"
+     "trivia kids",
+     "8"
     ],
     [
      "halloween trivia",
@@ -910,11 +914,11 @@
      "6"
     ],
     [
-     "trivia challenge",
+     "trivia games",
      "6"
     ],
     [
-     "trivia games",
+     "trivia challenge",
      "6"
     ],
     [
@@ -945,15 +949,15 @@
     ],
     [
      "quiz trivia",
-     "+110%"
+     "+120%"
     ],
     [
      "quiz",
      "+110%"
     ],
     [
-     "movie trivia",
-     "+90%"
+     "trivia movie",
+     "+80%"
     ],
     [
      "horror movie trivia",
@@ -976,32 +980,48 @@
   "general knowledge quiz": {
    "top": [
     [
-     "general knowledge questions",
+     "quiz questions general knowledge",
      "100"
     ],
     [
-     "quiz questions",
-     "99"
+     "general knowledge questions",
+     "97"
     ],
     [
-     "kids general knowledge quiz",
-     "70"
+     "quiz questions",
+     "95"
+    ],
+    [
+     "general knowledge trivia quiz",
+     "54"
+    ],
+    [
+     "trivia quiz",
+     "54"
     ],
     [
      "general knowledge trivia",
-     "55"
-    ],
-    [
-     "general knowledge quiz hard",
      "53"
     ],
     [
-     "music quiz",
-     "22"
+     "trivia",
+     "53"
     ],
     [
-     "math quiz",
-     "18"
+     "general knowledge quiz hard",
+     "52"
+    ],
+    [
+     "music quiz",
+     "21"
+    ],
+    [
+     "general knowledge questions and answers",
+     "20"
+    ],
+    [
+     "general knowledge quiz malayalam",
+     "15"
     ],
     [
      "general knowledge quiz uk",
@@ -1043,7 +1063,7 @@
     ],
     [
      "guess the emoji",
-     "20"
+     "19"
     ],
     [
      "guess the game",
@@ -1059,7 +1079,7 @@
     ],
     [
      "guess the quiz",
-     "12"
+     "13"
     ],
     [
      "guess the songs",
@@ -1078,7 +1098,7 @@
      "9"
     ],
     [
-     "guess the name",
+     "guess the character",
      "8"
     ],
     [
@@ -1089,11 +1109,15 @@
    "rising": [
     [
      "guess the youtuber challenge",
-     "+200%"
+     "+180%"
     ],
     [
      "guess the animal challenge",
-     "+100%"
+     "+90%"
+    ],
+    [
+     "guess the ufc fighter",
+     "+50%"
     ]
    ]
   },
@@ -1105,11 +1129,11 @@
     ],
     [
      "9.9 or 9.11 which is bigger",
-     "12"
+     "10"
     ],
     [
      "9.11 and 9.9 which is bigger",
-     "4"
+     "8"
     ]
    ],
    "rising": [

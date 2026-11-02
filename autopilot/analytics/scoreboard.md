@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-02T06:20 (8 Abos)
+# Scoreboard – Stand 2026-11-02T08:34 (8 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -82,7 +82,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 0 Fragen | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| 35 Fragen | 3 | 96 | 58 | 183 | 48.1 | 27.1 | 0 |
+| 35 Fragen | 3 | 96 | 58 | 184 | 48.1 | 27.1 | 0 |
 | 40 Fragen | 1 | 24 | 24 | 24 | 77.3 | 36.4 | 1.0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 8 | 6 | 3 | 13 | 54.4 | 46.3 | 0 |
@@ -92,7 +92,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | Emoji-Raten | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| Halloween | 2 | 115 | 115 | 183 | 54.6 | 25.4 | 0 |
+| Halloween | 2 | 116 | 116 | 184 | 54.6 | 25.4 | 0 |
 | IQ-Titel | 1 | 24 | 24 | 24 | 77.3 | 36.4 | 1.0 |
 | Allgemeinwissen | 3 | 9 | 13 | 13 | 52.5 | 35.9 | 0 |
 | Can-You-Pass-Test | 1 | 11 | 11 | 11 | 27.3 | 37.1 | 0 |
@@ -106,7 +106,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| neon | 8 | 41 | 16 | 183 | 65.7 | 52.9 | 1.0 |
+| neon | 8 | 41 | 16 | 184 | 65.7 | 52.9 | 1.0 |
 | tvshow | 6 | 8 | 8 | 13 | 47.5 | 28.5 | 0 |
 
 ### Lange Videos nach Musik
@@ -116,18 +116,18 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | brain-pulse.wav | 3 | 35 | 47 | 58 | 68.2 | 52.1 | 0 |
 | world-trip.wav | 5 | 8 | 11 | 13 | 47.0 | 48.9 | 0 |
-| game-show.wav | 6 | 38 | 7 | 183 | 61.9 | 32.2 | 1.0 |
+| game-show.wav | 6 | 38 | 7 | 184 | 61.9 | 32.2 | 1.0 |
 
 ### Lange Videos nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| – | 3 | 110 | 141 | 183 | 59.8 | 45.8 | 1.0 |
+| – | 3 | 110 | 141 | 184 | 59.8 | 45.8 | 1.0 |
 | 14:00 | 12 | 15 | 10 | 58 | 58.7 | 42.4 | 1.0 |
 
 ### Top 8 Lange Videos
 
-- 183 Views · stayed 0.396 · 35 Fragen · neon · game-show.wav · Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend
+- 184 Views · stayed 0.396 · 35 Fragen · neon · game-show.wav · Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend
 - 141 Views · stayed 0.73 · 0 Fragen · comic · – · Guess the Word by Emoji 🧠 Only a Genius Gets 15/15!
 - 58 Views · stayed 0.351 · 35 Fragen · neon · brain-pulse.wav · Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz
 - 47 Views · stayed 0.696 · 35 Fragen · neon · brain-pulse.wav · Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions
