@@ -302,3 +302,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Thumbnails: weiterhin keine CTR (HttpError 400) – A/B/C nur über views/day, noch zu wenig Daten.
 - Dateinamen-Regel: Der Plan nannte "which-first-6-2" (16:00) und "trap-4-…" (21:00) – "w" sortiert hinter "t" → 16:00-Item heißt "2026-11-03-six-q-which-first-2.json"; zusätzlich publishAt in beiden Short-Items fest gesetzt.
 - Fragen-Duplikate vermieden: Nintendo, Feuerzeug/Streichholz, Guillotine, Napoleon, Wikinger, Mammuts (alle im True/False-50 vom 01.11.), Oxford/Azteken, Kleopatra, Frauenwahlrecht NZ – ersetzt durch Coca-Cola 1886, Stonehenge, Mikrowelle, Mayflower, Facebook, Toastbrot vor Pluto; History: Pyramide letztes Weltwunder, Olivenkranz, Victoria, Big Ben = Glocke.
+
+## 2026-11-02 – Research (Research-Agent)
+- E2 VS #1 "Which Country Is Bigger?" 525 Views nach ~15 h (4-Trap-Median 251, leichte 1-Frage "Hours in a Week" 206 nach 20 h) → VS früh vielversprechend; E2 #3 (Einwohner) am 04.11.
+- Final-Flops: Sloth-1-Frage 154, Food-Trap 125, Animal-50-Long 2. 6+-Fragen-Shorts bleiben Spitze (Median 1.334); Konkurrenz bestätigt: FlameTimer "Quick Fire General Knowledge Quiz" 6,9 Mio (0:59), "Can You Get 6/6?" 316k → 04.11. "Quick Fire Geography Quiz – Can You Get 6/6?".
+- Long: E1 #1 0 öffentliche Views nach 21 h → Status/madeForKids-Prüfung angefordert; E1 #3 "Are You Well Educated? … Score 5/15" am 04.11. schließt die Testreihe (Konkurrenz: Clear Think 1,53 Mio, GK STUDIO PRO 1,0 Mio, Quiz World Riddles 364k).
+- competitors.json: Ajmal Quiz (Urdu) + Gk Quiz Study (Odia) entfernt/blockiert → 23 Kanäle.

@@ -259,24 +259,6 @@
    }
   },
   {
-   "id": "UCF41RUHm5XFTzFB2LCFZMrA",
-   "name": "Gk Quiz Study ",
-   "source": "outlier-scan",
-   "added": "2026-11-01",
-   "subsHistory": {
-    "2026-11-01": 489
-   }
-  },
-  {
-   "id": "UCJV8gjOT_49iDzkNdRcOpFg",
-   "name": "Ajmal Quiz",
-   "source": "outlier-scan",
-   "added": "2026-11-01",
-   "subsHistory": {
-    "2026-11-01": 664
-   }
-  },
-  {
    "id": "UCTRjmrOCxnJt61FvrKCPyjw",
    "name": "Quiz Phoenix",
    "source": "outlier-scan",
@@ -294,6 +276,8 @@
   "UCz3jHcdrKO4aadKdj8JnxXg",
   "UCDItMzuYRndnAre8UBZpcSQ",
   "UCx1kc9JYpOG5my7QgfazAzw",
-  "UCIf4pOoCGhhRoIBnIzZODbw"
+  "UCIf4pOoCGhhRoIBnIzZODbw",
+  "UCF41RUHm5XFTzFB2LCFZMrA",
+  "UCJV8gjOT_49iDzkNdRcOpFg"
  ]
 }
