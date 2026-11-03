@@ -32,6 +32,8 @@ export type QuizQuestion = {
   revealImage?: string;
   /** Beschriftung zum Auflösungsbild, z. B. "CANBERRA" */
   revealCaption?: string;
+  /** kurzer Fakt fürs "DID YOU KNOW?"-Feld nach der Auflösung (tvshow, optional) */
+  fact?: string;
   /** Schwierigkeit, z. B. "EASY" / "MEDIUM" / "HARD" (Farbe automatisch) */
   level?: string;
   /** Vergleichs-Quiz (genau 2 Antworten): echte Werte für die Balken, z. B. [17098246, 9984670] */
@@ -696,7 +698,7 @@ export const Quiz: React.FC<QuizStory> = (story) => {
   const total = story.questions.length;
   const hasOutro = (story.durationInSeconds ?? Infinity) - story.outroStart > 0.3;
   return (
-    <AbsoluteFill style={{backgroundColor: story.layout === 'tvshow' ? '#030616' : story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
+    <AbsoluteFill style={{backgroundColor: story.layout === 'tvshow' ? '#14213D' : story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
       {story.questions.map((q, i) => (
         <Sequence key={i} from={f(q.start)} durationInFrames={Math.max(1, f(q.end) - f(q.start))} name={`Frage ${i + 1}`}>
           {q.values && q.answers.length === 2 ? <CompareScene q={q} index={i} total={total} story={story} /> : story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}

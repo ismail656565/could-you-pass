@@ -125,7 +125,8 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "image": "bilder/q2-pyramid.jpg"
+    "image": "bilder/q2-pyramid.jpg",
+    "fact": "Sudan has 200+ pyramids – about twice as many as Egypt."
    },
    {
     "q": "You pass the runner in **2nd** place. Your place?",
@@ -137,7 +138,8 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🏃"
+    "cardText": "🏃",
+    "fact": "Pass the runner in 2nd place and you take 2nd – not 1st."
    },
    {
     "q": "In which city was the **Titanic** built?",
@@ -149,7 +151,8 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "image": "bilder/mv-titanic.jpg"
+    "image": "bilder/mv-titanic.jpg",
+    "fact": "Titanic was built at Harland & Wolff in Belfast."
    },
    {
     "q": "Only planet named after a **goddess**?",
@@ -161,7 +164,8 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🪐"
+    "cardText": "🪐",
+    "fact": "Venus is the hottest planet – hotter than Mercury."
    },
    {
     "q": "Which gas makes up most of Earth's **air**?",
@@ -174,7 +178,8 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🌬️",
-    "broll": "clouds sky timelapse"
+    "broll": "clouds sky timelapse",
+    "fact": "Air is about 78% nitrogen and 21% oxygen."
    },
    {
     "q": "Tallest mountain **before** Everest was discovered?",
@@ -187,7 +192,8 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🏔️",
-    "broll": "snowy mountain peaks"
+    "broll": "snowy mountain peaks",
+    "fact": "Everest was always the tallest – it just hadn't been measured."
    },
    {
     "q": "The only bird that can fly **backwards**?",
@@ -199,7 +205,8 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🐦"
+    "cardText": "🐦",
+    "fact": "Hummingbirds can hover and even fly backwards."
    },
    {
     "q": "Does England have a **4th of July**?",
@@ -211,7 +218,8 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "📅"
+    "cardText": "📅",
+    "fact": "Every country has a 4th of July – it follows the 3rd."
    },
    {
     "q": "Most common **letter** in English?",
@@ -223,7 +231,8 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🔤"
+    "cardText": "🔤",
+    "fact": "E appears in roughly 1 of every 8 letters in English text."
    },
    {
     "q": "How many **hearts** does an octopus have?",
@@ -235,7 +244,8 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "image": "bilder/q2-octopus.jpg"
+    "image": "bilder/q2-octopus.jpg",
+    "fact": "Octopus blood is blue because it is based on copper."
    },
    {
     "q": "Plane crash on a border: where are **survivors** buried?",
@@ -247,7 +257,8 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "✈️"
+    "cardText": "✈️",
+    "fact": "Survivors are alive – nobody buries them."
    },
    {
     "q": "Who gives London's Trafalgar **Christmas tree**?",
@@ -259,7 +270,8 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🎄"
+    "cardText": "🎄",
+    "fact": "Norway has sent the tree every year since 1947."
    },
    {
     "q": "Red house: red bricks. A **greenhouse**?",
@@ -271,7 +283,8 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🏠"
+    "cardText": "🏠",
+    "fact": "A greenhouse is made of glass."
    },
    {
     "q": "Only number spelled in **alphabetical** order?",
@@ -283,7 +296,8 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🔢"
+    "cardText": "🔢",
+    "fact": "F-O-R-T-Y: the only number with letters in alphabetical order."
    },
    {
     "q": "Which planet has the **fastest** winds?",
@@ -296,7 +310,8 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "💨",
-    "broll": "night sky stars"
+    "broll": "night sky stars",
+    "fact": "Neptune's winds reach about 2,000 km/h."
    }
   ]
  }

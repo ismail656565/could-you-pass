@@ -497,7 +497,7 @@ export const QuizThumb: React.FC<ThumbProps> = (story) => {
   const emoji = story.thumbEmoji ?? '🏆';
   const puzzle = story.thumbPuzzle && story.thumbPuzzle.length ? story.thumbPuzzle : null;
   const badge = story.thumbBadge ?? story.hook ?? `${story.questions.length} QUESTIONS`;
-  if (v === 'A' && story.layout === 'tvshow') return <TvThumb story={story} text={text} badge={badge} />;
+  if (story.layout === 'tvshow') return <TvThumb story={story} text={text} badge={badge} variant={v} />;
   if (v === 'B') {
     return (
       <AbsoluteFill style={{background: '#FFD400', overflow: 'hidden'}}>
