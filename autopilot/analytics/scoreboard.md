@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (27 Videos)
+## Shorts (28 Videos)
 
 ### Shorts nach Format
 
@@ -14,6 +14,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 1-Frage-Ego-Hook | 7 | 414 | 330 | 865 | 44.0 | 100.9 | 1.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 7 | 432 | 251 | 1081 | 52.3 | 89.2 | 0 |
+| Wahr/Falsch | 1 | 120 | 120 | 120 | – | – | 0 |
 
 ### Shorts nach Thema/Titeltyp
 
@@ -35,12 +36,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | FOOD QUIZ | 1 | 182 | 182 | 182 | 62.7 | 87.4 | 0 |
 | ANIMAL QUIZ | 1 | 167 | 167 | 167 | 41.6 | 77.2 | 1.0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
+| TRUE OR FALSE? | 1 | 120 | 120 | 120 | – | – | 0 |
 
 ### Shorts nach Layout
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 14 | 681 | 734 | 1206 | 46.4 | 85.8 | 1.0 |
+| tvshow | 15 | 643 | 615 | 1206 | 46.4 | 85.8 | 1.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.1 | 111.5 | 0 |
 
 ### Shorts nach Musik
@@ -49,7 +51,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 8 | 755 | 824 | 1206 | 46.9 | 92.8 | 0 |
 | world-trip.wav | 4 | 469 | 441 | 854 | 46.4 | 78.9 | 1.0 |
-| brain-pulse.wav | 15 | 558 | 330 | 1433 | 44.2 | 106.3 | 0 |
+| brain-pulse.wav | 16 | 531 | 328 | 1433 | 44.2 | 106.3 | 0 |
 
 ### Shorts nach Sendezeit
 
@@ -58,7 +60,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
 | 16:00 | 10 | 590 | 539 | 1206 | 43.4 | 103.6 | 1.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
-| 21:00 | 11 | 580 | 327 | 1160 | 49.1 | 77.9 | 0 |
+| 21:00 | 12 | 542 | 289 | 1160 | 49.1 | 77.9 | 0 |
 
 ### Top 8 Shorts
 
@@ -73,10 +75,10 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Shorts
 
-- 182 Views · 4-Fragen-Trap · 4 Food Questions Almost Everyone Gets Wrong 🍍 #shorts
 - 167 Views · 1-Frage-Ego-Hook · How Long Does a Sloth Take to Digest One Meal? 🦥🤯 #shorts
 - 154 Views · 1-Frage-Ego-Hook · How Long Does Sunlight Take to Reach Earth? ☀️🤯 #shorts
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
+- 120 Views · Wahr/Falsch · True or False? 4 Facts 90% Get Wrong ✅❌ #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
 ## Lange Videos (17 Videos)
