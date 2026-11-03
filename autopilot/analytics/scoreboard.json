@@ -319,9 +319,9 @@
     "subs": 1.0
    },
    "50 Fragen": {
-    "n": 8,
+    "n": 9,
     "avgViews": 6,
-    "medianViews": 3,
+    "medianViews": 2,
     "bestViews": 14,
     "stayed": 54.4,
     "avgPct": 46.3,
@@ -418,6 +418,15 @@
     "stayed": 52.5,
     "avgPct": 35.9,
     "subs": 0
+   },
+   "Wahr/Falsch": {
+    "n": 1,
+    "avgViews": 0,
+    "medianViews": 0,
+    "bestViews": 0,
+    "stayed": null,
+    "avgPct": null,
+    "subs": 0
    }
   },
   "long.layout": {
@@ -440,9 +449,9 @@
     "subs": 1.0
    },
    "tvshow": {
-    "n": 7,
-    "avgViews": 7,
-    "medianViews": 4,
+    "n": 8,
+    "avgViews": 6,
+    "medianViews": 3,
     "bestViews": 14,
     "stayed": 47.5,
     "avgPct": 28.5,
@@ -460,9 +469,9 @@
     "subs": 1.0
    },
    "game-show.wav": {
-    "n": 6,
-    "avgViews": 38,
-    "medianViews": 7,
+    "n": 7,
+    "avgViews": 33,
+    "medianViews": 6,
     "bestViews": 185,
     "stayed": 62.2,
     "avgPct": 32.5,
@@ -498,9 +507,9 @@
     "subs": 1.0
    },
    "14:00": {
-    "n": 13,
-    "avgViews": 15,
-    "medianViews": 8,
+    "n": 14,
+    "avgViews": 14,
+    "medianViews": 6,
     "bestViews": 59,
     "stayed": 58.9,
     "avgPct": 42.5,
@@ -544,7 +553,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 15.8,
+   "ageDays": 15.9,
    "search": null
   },
   {
@@ -563,7 +572,7 @@
    "avgPct": 61.12,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 15.8,
+   "ageDays": 15.9,
    "search": null
   },
   {
@@ -582,7 +591,7 @@
    "avgPct": 25.3,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 14.7,
+   "ageDays": 14.8,
    "search": null
   },
   {
@@ -601,7 +610,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 14.7,
+   "ageDays": 14.8,
    "search": null
   },
   {
@@ -753,7 +762,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 11.9,
+   "ageDays": 12.0,
    "search": null
   },
   {
@@ -772,7 +781,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 11.7,
+   "ageDays": 11.8,
    "search": null
   },
   {
@@ -791,7 +800,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 10.9,
+   "ageDays": 11.0,
    "search": null
   },
   {
@@ -829,7 +838,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 10.7,
+   "ageDays": 10.8,
    "search": null
   },
   {
@@ -867,7 +876,7 @@
    "avgPct": 114.32,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 9.9,
+   "ageDays": 10.0,
    "search": null
   },
   {
@@ -886,7 +895,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 9.7,
+   "ageDays": 9.8,
    "search": null
   },
   {
@@ -943,7 +952,7 @@
    "avgPct": 26.119999999999997,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 8.9,
+   "ageDays": 9.0,
    "search": null
   },
   {
@@ -981,7 +990,7 @@
    "avgPct": 37.07,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 7.9,
+   "ageDays": 8.0,
    "search": null
   },
   {
@@ -1038,7 +1047,7 @@
    "avgPct": 0.0,
    "subs": 0.0,
    "durationSec": 628,
-   "ageDays": 3.9,
+   "ageDays": 4.0,
    "search": null
   },
   {
@@ -1095,7 +1104,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 278,
-   "ageDays": 2.9,
+   "ageDays": 3.0,
    "search": null
   },
   {
@@ -1137,6 +1146,25 @@
    "search": 21
   },
   {
+   "file": "2026-11-01-true-false-50-1.json",
+   "id": "true-false-50-1",
+   "videoId": "Uqu-veLODm8",
+   "kind": "long",
+   "title": "True or False Quiz: 50 Facts From Easy to Legend ✅❌",
+   "format": "50 Fragen",
+   "topic": "Wahr/Falsch",
+   "layout": "tvshow",
+   "music": "game-show.wav",
+   "slot": "14:00",
+   "publicViews": 0.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 693,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-27-long.json",
    "id": "auto-2026-10-27-long",
    "videoId": "zZDclzxCTSg",
@@ -1171,7 +1199,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 6.6,
+   "ageDays": 6.7,
    "search": null
   },
   {
@@ -1190,7 +1218,7 @@
    "avgPct": 103.39,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 6.6,
+   "ageDays": 6.7,
    "search": null
   },
   {
@@ -1247,7 +1275,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 6.6,
+   "ageDays": 6.7,
    "search": null
   },
   {
@@ -1285,7 +1313,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 4.7,
+   "ageDays": 4.8,
    "search": null
   },
   {
