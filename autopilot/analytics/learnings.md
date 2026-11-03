@@ -316,3 +316,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Long: E1 #1 "Score 4/12" Länge 4:38, 0 Views; Animal-50 2 Views; Citizenship 11 (stayed 30 %). Long-Median bleibt einstellig → E1 #3 am 04.11. mit 5 Fangfragen (Konkurrenz-Muster "Tricky").
 - Thumbnails: weiterhin keine CTR (HttpError 400); E1 #3 testet A "SCORE 5/15?" + Pyramiden-Foto vs. B "WELL EDUCATED?" vs. C "5 TRICK QUESTIONS".
 - Duplikate vermieden: Timbuktu (Geo-50 03.11.), Saturn-Monde, Frankreich-Zeitzonen, Schweden-Inseln, Sixtinische Kapelle, Uranus, Stapes, Kalium, Schottland-Einhorn, 28-Tage-Monate – ersetzt durch Sudan-Pyramiden, Belfast/Titanic, Venus-Göttin, Kolibri rückwärts, Oktopus 3 Herzen, Norwegen-Baum, "forty", Neptun-Winde.
+
+## 2026-11-03 – Research (Research-Agent)
+- Status-Check ok (public, nicht madeForKids) – trotzdem Longs ohne Reichweite: E1 #1 "Score 4/12" 0 Views nach ~46 h, True/False-50 0 nach ~23 h; 50-Q-Median 3. Einziges tragendes Long bleibt Emoji (141, stayed 73 %) → 05.11. Emoji-50.
+- Shorts: "Only Geniuses Get 6/6" 1.032 nach ~21 h (6+-Format 3/3 > 1.000); VS #1 757 (~1,7 T); True/False-4-Short nur 63 nach 16 h (E3 schwach); leichte 1-Frage "Hours in a Week" 358.
+- Konkurrenz: Quiz World "10 Tricky IQ Riddles" 203k → 430k in 12 T; neu: Wortschatz-Shorts (Math Quiz 152k/141k/101k) → E5 "Vocabulary Quiz – Can You Get 6/6?" am 05.11.
+- E1 #2 Presidents nur 6:21 statt ~7 min → E1 #3 Länge vor Render prüfen. Event 05.11. Bonfire Night → Gunpowder-Plot-Trap 21:00.
