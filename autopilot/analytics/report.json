@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-03T08:25",
+ "fetched": "2026-11-03T11:47",
  "channel": "COULD YOU PASS?",
  "subscribers": "11",
  "audience": {
@@ -195,7 +195,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 45,
-   "publicViews": "482",
+   "publicViews": "488",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 14,
-   "publicViews": "184",
+   "publicViews": "193",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -249,7 +249,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 40,
-   "publicViews": "105",
+   "publicViews": "120",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -267,7 +267,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 45,
-   "publicViews": "1170",
+   "publicViews": "1181",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -817,7 +817,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 40,
-   "publicViews": "852",
+   "publicViews": "854",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -848,7 +848,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 13,
-   "publicViews": "453",
+   "publicViews": "463",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -918,7 +918,12 @@
    "likes": 7,
    "comments": 0,
    "subscribersGained": 1,
-   "trafficError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-11-03&metric",
+   "trafficSources": {
+    "SHORTS": 149,
+    "NO_LINK_OTHER": 0,
+    "YT_CHANNEL": 0,
+    "YT_SEARCH": 0
+   },
    "durationSec": 14,
    "publicViews": "167",
    "status": {
