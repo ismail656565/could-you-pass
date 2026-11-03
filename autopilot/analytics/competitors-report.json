@@ -1,15 +1,6 @@
 {
- "fetched": "2026-11-03T07:39+00:00",
+ "fetched": "2026-11-03T08:25+00:00",
  "summary": [
-  {
-   "channel": "Chauncey Asks",
-   "id": "UCDj-szyubQWTtvRaEUa2Gdw",
-   "subs": 4570,
-   "format": "short",
-   "median": 28375,
-   "perWeek": 7.0,
-   "best": "Name the musical from its Playbill"
-  },
   {
    "channel": "Quibby",
    "id": "UCDmT7n7Y5Glnej4YU4NG1Hg",
@@ -20,40 +11,22 @@
    "best": "Name the Movie By The Car Trivia Quiz | Can You Name All 30 Movies By The Car?"
   },
   {
-   "channel": "Dopamine Quiz",
-   "id": "UCzTNzEZHQshIAHI4pn-SsQw",
-   "subs": 409,
+   "channel": "QuizKoala",
+   "id": "UCQ6zZ6H8RmtBT4XLZN06X_A",
+   "subs": 1350,
    "format": "short",
-   "median": 50,
-   "perWeek": 0.5,
-   "best": "Guess The Football Player, Level Easy,  Part 1"
+   "median": 2580,
+   "perWeek": 0.0,
+   "best": "Guess the Player! ⚽🔥"
   },
   {
-   "channel": "Dopamine Quiz",
-   "id": "UCzTNzEZHQshIAHI4pn-SsQw",
-   "subs": 409,
+   "channel": "QuizKoala",
+   "id": "UCQ6zZ6H8RmtBT4XLZN06X_A",
+   "subs": 1350,
    "format": "long",
-   "median": 660,
-   "perWeek": 1.8,
-   "best": "Guess the F1 Track No Longer in 2027 Calendar! – F1 Track Quiz🏎️🏁"
-  },
-  {
-   "channel": "Quiz Guy",
-   "id": "UCSJdcwYDKu2WK7bMxUJc92g",
-   "subs": 476,
-   "format": "long",
-   "median": 1148,
-   "perWeek": 2.0,
-   "best": "You’re Not Smart Enough to Solve These 12 Puzzles!"
-  },
-  {
-   "channel": "Think Nova",
-   "id": "UCkzCVjl-z5OJadPbEmkm9qA",
-   "subs": 2530,
-   "format": "short",
-   "median": 677,
-   "perWeek": 1.8,
-   "best": "trivia challenge quiz 😌"
+   "median": 14389,
+   "perWeek": 0.8,
+   "best": "GUESS THE PLAYER BY THE CELEBRATION ⚽WORLD CUP 2026 😱 Neymar 💛 CR7 ❤️ Messi 💙 QUIZ"
   },
   {
    "channel": "Quiz Dolphy",
@@ -76,7 +49,7 @@
   {
    "channel": "Quiz World",
    "id": "UC2lTEKjvVO_jTebNypIJmvg",
-   "subs": 970,
+   "subs": 973,
    "format": "short",
    "median": 1214,
    "perWeek": 0.2,
@@ -85,65 +58,38 @@
   {
    "channel": "Quiz World",
    "id": "UC2lTEKjvVO_jTebNypIJmvg",
-   "subs": 970,
+   "subs": 973,
    "format": "long",
    "median": 1822,
    "perWeek": 0.8,
    "best": "10 Tricky IQ Riddles | Test Your Intelligence!"
   },
   {
-   "channel": "QuizNova",
-   "id": "UCu8eOeTD4AFJitF-d2NO0Bg",
-   "subs": 1350,
-   "format": "long",
-   "median": 3024,
-   "perWeek": 12.5,
-   "best": "🧠Are You Around 75? Let’s Test Your Memory! Only Sharp Minds Can Score High!"
+   "channel": "comicnutz",
+   "id": "UCIi14gmV-jKEM5CE7-0n6Ew",
+   "subs": 5230,
+   "format": "short",
+   "median": 15060,
+   "perWeek": 1.8,
+   "best": "Man Trivia with @Needlenuts  #comics #marvel #dc #superhero #guessinggame"
   },
   {
    "channel": "GK STUDIO PRO ",
    "id": "UCKNOqv8x6leujb_FzIj98tw",
    "subs": 1830,
    "format": "long",
-   "median": 850,
+   "median": 855,
    "perWeek": 7.0,
    "best": "Are You Well Educated? Take This General Knowledge Quiz & Score At Least 4/10!"
   },
   {
-   "channel": "Trivia Square",
-   "id": "UCDmeY0zSuykFtaFKr-khKIQ",
-   "subs": 3870,
-   "format": "short",
-   "median": 141,
-   "perWeek": 3.2,
-   "best": "What's the biggest continent on Earth? 🌍 Trivia Quiz #Shorts"
-  },
-  {
-   "channel": "Trivia Square",
-   "id": "UCDmeY0zSuykFtaFKr-khKIQ",
-   "subs": 3870,
+   "channel": "Quiz Phoenix",
+   "id": "UCTRjmrOCxnJt61FvrKCPyjw",
+   "subs": 4590,
    "format": "long",
-   "median": 62103,
-   "perWeek": 1.2,
-   "best": "Can You Pass the U.S. Citizenship Test? | 50 Questions"
-  },
-  {
-   "channel": "Clue Senpai",
-   "id": "UCp1ponCnxIyhTBkW_DHRDZA",
-   "subs": 1120,
-   "format": "short",
-   "median": 2067,
-   "perWeek": 0.8,
-   "best": "Can You Guess the Anime Scene from These Bad Drawings?"
-  },
-  {
-   "channel": "Clue Senpai",
-   "id": "UCp1ponCnxIyhTBkW_DHRDZA",
-   "subs": 1120,
-   "format": "long",
-   "median": 8112,
-   "perWeek": 3.2,
-   "best": "Can You Guess the Anime from These Bad Drawings?"
+   "median": 4545,
+   "perWeek": 2.8,
+   "best": "Guess 25 DISNEY Songs 🎙️🌈🎶 Guess Who's Singing | Inside Out 2, Encanto, Moana, Elsa, Rapunzel, Ariel"
   },
   {
    "channel": "Puzzle Code",
@@ -164,13 +110,40 @@
    "best": "18 Hard Riddles That Will Test Your IQ 🧠🔥 Can You Solve Them All?"
   },
   {
-   "channel": "Quiz Daily",
-   "id": "UC8E4AHKLnb3Kmrq_pJMMl-w",
-   "subs": 626,
+   "channel": "Clue Senpai",
+   "id": "UCp1ponCnxIyhTBkW_DHRDZA",
+   "subs": 1120,
+   "format": "short",
+   "median": 2067,
+   "perWeek": 0.8,
+   "best": "Can You Guess the Anime Scene from These Bad Drawings?"
+  },
+  {
+   "channel": "Clue Senpai",
+   "id": "UCp1ponCnxIyhTBkW_DHRDZA",
+   "subs": 1120,
    "format": "long",
-   "median": 3811,
-   "perWeek": 6.2,
-   "best": "HOW GOOD IS YOUR GENERAL KNOWLEDGE? || GENERAL KNOWLEDGE QUIZ"
+   "median": 8144,
+   "perWeek": 3.2,
+   "best": "Can You Guess the Anime from These Bad Drawings?"
+  },
+  {
+   "channel": "Quiz Bunny ",
+   "id": "UCbYD7yFf4Z7pG2qEaGjrJ5w",
+   "subs": 5040,
+   "format": "long",
+   "median": 6165,
+   "perWeek": 1.5,
+   "best": "Guess the Movie by Emoji 🎬🍿 Movie Quiz"
+  },
+  {
+   "channel": "QuizNova",
+   "id": "UCu8eOeTD4AFJitF-d2NO0Bg",
+   "subs": 1350,
+   "format": "long",
+   "median": 3023,
+   "perWeek": 12.5,
+   "best": "🧠Are You Around 75? Let’s Test Your Memory! Only Sharp Minds Can Score High!"
   },
   {
    "channel": "Treble | Quiz",
@@ -186,27 +159,54 @@
    "id": "UC9ay9JUsR0UsRH2oR_xJEJA",
    "subs": 1530,
    "format": "long",
-   "median": 57098,
+   "median": 57084,
    "perWeek": 0.0,
    "best": "Guess The Player From Their Transfers - 2026/27 | Football Quiz"
   },
   {
-   "channel": "Quiz Bunny ",
-   "id": "UCbYD7yFf4Z7pG2qEaGjrJ5w",
-   "subs": 5040,
+   "channel": "Quiz Guy",
+   "id": "UCSJdcwYDKu2WK7bMxUJc92g",
+   "subs": 476,
    "format": "long",
-   "median": 6165,
-   "perWeek": 1.5,
-   "best": "Guess the Movie by Emoji 🎬🍿 Movie Quiz"
+   "median": 1148,
+   "perWeek": 2.0,
+   "best": "You’re Not Smart Enough to Solve These 12 Puzzles!"
   },
   {
-   "channel": "comicnutz",
-   "id": "UCIi14gmV-jKEM5CE7-0n6Ew",
-   "subs": 5230,
+   "channel": "Math Quiz ",
+   "id": "UCpXaP5ZliDPVXtUaVWshVPA",
+   "subs": 1210,
    "format": "short",
-   "median": 15060,
+   "median": 3694,
+   "perWeek": 5.2,
+   "best": "English Quizz IQ test time #quiz #learnanewwordtoday"
+  },
+  {
+   "channel": "Math Quiz ",
+   "id": "UCpXaP5ZliDPVXtUaVWshVPA",
+   "subs": 1210,
+   "format": "long",
+   "median": 103,
+   "perWeek": 0.5,
+   "best": "human body English Quizz IQ test time"
+  },
+  {
+   "channel": "FlameTimer",
+   "id": "UCabdLAwA5WgHRWI1lfKp3ng",
+   "subs": 44200,
+   "format": "short",
+   "median": 8552,
+   "perWeek": 12.5,
+   "best": "Mastering Time: Calculating Seconds in Two Hours #shorts"
+  },
+  {
+   "channel": "Think Nova",
+   "id": "UCkzCVjl-z5OJadPbEmkm9qA",
+   "subs": 2530,
+   "format": "short",
+   "median": 677,
    "perWeek": 1.8,
-   "best": "Man Trivia with @Needlenuts  #comics #marvel #dc #superhero #guessinggame"
+   "best": "trivia challenge quiz 😌"
   },
   {
    "channel": "Studio Seven",
@@ -216,6 +216,33 @@
    "median": 4210,
    "perWeek": 11.8,
    "best": "First To Connect The Words Wins 🔗🚨 #shorts"
+  },
+  {
+   "channel": "Chauncey Asks",
+   "id": "UCDj-szyubQWTtvRaEUa2Gdw",
+   "subs": 4570,
+   "format": "short",
+   "median": 28378,
+   "perWeek": 7.0,
+   "best": "Name the musical from its Playbill"
+  },
+  {
+   "channel": "IQ Mazz",
+   "id": "UCc2iU1DaHIXtD14lx0U65Xg",
+   "subs": 819,
+   "format": "short",
+   "median": 7315,
+   "perWeek": 11.8,
+   "best": "#318 90% FAILED HERE - Find the Difference  #quiz  #iqtest  #quiztime  #gk  #usa #shorts"
+  },
+  {
+   "channel": "IQ Mazz",
+   "id": "UCc2iU1DaHIXtD14lx0U65Xg",
+   "subs": 819,
+   "format": "long",
+   "median": 131,
+   "perWeek": 0.8,
+   "best": "Part 1: 90% FAILED HERE - Find the Difference  #quiz  #iqtest  #quiztime  #gk  #usa #shorts"
   },
   {
    "channel": "Clear Think ",
@@ -236,117 +263,90 @@
    "best": "Test Your iQ in just 7 minutes "
   },
   {
-   "channel": "IQ Mazz",
-   "id": "UCc2iU1DaHIXtD14lx0U65Xg",
-   "subs": 819,
-   "format": "short",
-   "median": 7311,
-   "perWeek": 11.8,
-   "best": "#318 90% FAILED HERE - Find the Difference  #quiz  #iqtest  #quiztime  #gk  #usa #shorts"
-  },
-  {
-   "channel": "IQ Mazz",
-   "id": "UCc2iU1DaHIXtD14lx0U65Xg",
-   "subs": 819,
+   "channel": "Quiz Daily",
+   "id": "UC8E4AHKLnb3Kmrq_pJMMl-w",
+   "subs": 626,
    "format": "long",
-   "median": 126,
-   "perWeek": 0.8,
-   "best": "Part 1: 90% FAILED HERE - Find the Difference  #quiz  #iqtest  #quiztime  #gk  #usa #shorts"
-  },
-  {
-   "channel": "Your.bummy.quizzes",
-   "id": "UCAzUcqJGER_QoWF272TTW7w",
-   "subs": 2340,
-   "format": "short",
-   "median": 21212,
-   "perWeek": 12.2,
-   "best": "Should you? #generalknowledge #korean #testandlearn #learn #school #quiz #smart #study #test"
-  },
-  {
-   "channel": "QuizKoala",
-   "id": "UCQ6zZ6H8RmtBT4XLZN06X_A",
-   "subs": 1350,
-   "format": "short",
-   "median": 2580,
-   "perWeek": 0.0,
-   "best": "Guess the Player! ⚽🔥"
-  },
-  {
-   "channel": "QuizKoala",
-   "id": "UCQ6zZ6H8RmtBT4XLZN06X_A",
-   "subs": 1350,
-   "format": "long",
-   "median": 14389,
-   "perWeek": 0.8,
-   "best": "GUESS THE PLAYER BY THE CELEBRATION ⚽WORLD CUP 2026 😱 Neymar 💛 CR7 ❤️ Messi 💙 QUIZ"
-  },
-  {
-   "channel": "FlameTimer",
-   "id": "UCabdLAwA5WgHRWI1lfKp3ng",
-   "subs": 44200,
-   "format": "short",
-   "median": 8552,
-   "perWeek": 12.5,
-   "best": "Mastering Time: Calculating Seconds in Two Hours #shorts"
+   "median": 3809,
+   "perWeek": 6.2,
+   "best": "HOW GOOD IS YOUR GENERAL KNOWLEDGE? || GENERAL KNOWLEDGE QUIZ"
   },
   {
    "channel": "FootyMind Quiz",
    "id": "UCAMWsens5Dw49TqqSLm2B8A",
    "subs": 3620,
    "format": "long",
-   "median": 4898,
+   "median": 4901,
    "perWeek": 3.0,
    "best": "Guess a Football Player for Every Letter A–Z! 🧠⚽ | World Cup 2026 🏆 | Messi 💙 Ronaldo❤  Mbappé 🤍"
   },
   {
-   "channel": "Quiz Phoenix",
-   "id": "UCTRjmrOCxnJt61FvrKCPyjw",
-   "subs": 4580,
-   "format": "long",
-   "median": 4545,
-   "perWeek": 2.8,
-   "best": "Guess 25 DISNEY Songs 🎙️🌈🎶 Guess Who's Singing | Inside Out 2, Encanto, Moana, Elsa, Rapunzel, Ariel"
-  },
-  {
-   "channel": "Math Quiz ",
-   "id": "UCpXaP5ZliDPVXtUaVWshVPA",
-   "subs": 1190,
+   "channel": "Your.bummy.quizzes",
+   "id": "UCAzUcqJGER_QoWF272TTW7w",
+   "subs": 2340,
    "format": "short",
-   "median": 3660,
-   "perWeek": 5.2,
-   "best": "English Quizz IQ test time #quiz #learnanewwordtoday"
+   "median": 21159,
+   "perWeek": 12.2,
+   "best": "Should you? #generalknowledge #korean #testandlearn #learn #school #quiz #smart #study #test"
   },
   {
-   "channel": "Math Quiz ",
-   "id": "UCpXaP5ZliDPVXtUaVWshVPA",
-   "subs": 1190,
-   "format": "long",
-   "median": 103,
+   "channel": "Dopamine Quiz",
+   "id": "UCzTNzEZHQshIAHI4pn-SsQw",
+   "subs": 409,
+   "format": "short",
+   "median": 50,
    "perWeek": 0.5,
-   "best": "human body English Quizz IQ test time"
+   "best": "Guess The Football Player, Level Easy,  Part 1"
+  },
+  {
+   "channel": "Dopamine Quiz",
+   "id": "UCzTNzEZHQshIAHI4pn-SsQw",
+   "subs": 409,
+   "format": "long",
+   "median": 660,
+   "perWeek": 1.8,
+   "best": "Guess the F1 Track No Longer in 2027 Calendar! – F1 Track Quiz🏎️🏁"
+  },
+  {
+   "channel": "Trivia Square",
+   "id": "UCDmeY0zSuykFtaFKr-khKIQ",
+   "subs": 3870,
+   "format": "short",
+   "median": 141,
+   "perWeek": 3.2,
+   "best": "What's the biggest continent on Earth? 🌍 Trivia Quiz #Shorts"
+  },
+  {
+   "channel": "Trivia Square",
+   "id": "UCDmeY0zSuykFtaFKr-khKIQ",
+   "subs": 3870,
+   "format": "long",
+   "median": 62121,
+   "perWeek": 1.2,
+   "best": "Can You Pass the U.S. Citizenship Test? | 50 Questions"
   }
  ],
  "winners": [
   {
    "id": "3g2VbcVGwUk",
    "title": "Test Your iQ in just 7 minutes ",
-   "views": 1613454,
-   "likes": 6842,
+   "views": 1614174,
+   "likes": 6845,
    "comments": 643,
    "seconds": 408,
    "format": "long",
-   "ageDays": 34.3,
+   "ageDays": 34.4,
    "published": "2026-09-29",
    "url": "https://youtube.com/watch?v=3g2VbcVGwUk",
    "channel": "Clear Think ",
    "subs": 6110,
-   "score": 2314.9,
+   "score": 2315.9,
    "channelMedian": 697
   },
   {
    "id": "-shDOWURZSM",
    "title": "Are You Well Educated? Take This General Knowledge Quiz & Score At Least 4/10!",
-   "views": 1031606,
+   "views": 1032127,
    "likes": 2161,
    "comments": 828,
    "seconds": 435,
@@ -356,13 +356,13 @@
    "url": "https://youtube.com/watch?v=-shDOWURZSM",
    "channel": "GK STUDIO PRO ",
    "subs": 1830,
-   "score": 1213.7,
-   "channelMedian": 850
+   "score": 1207.2,
+   "channelMedian": 855
   },
   {
    "id": "6ac7r4sHoDw",
    "title": "Name the Movie By The Car Trivia Quiz | Can You Name All 30 Movies By The Car?",
-   "views": 361749,
+   "views": 361850,
    "likes": 1011,
    "comments": 63,
    "seconds": 415,
@@ -372,14 +372,14 @@
    "url": "https://youtube.com/watch?v=6ac7r4sHoDw",
    "channel": "Quibby",
    "subs": 215,
-   "score": 1134.0,
+   "score": 1134.3,
    "channelMedian": 319
   },
   {
    "id": "mcat_vaRyUM",
    "title": "trivia challenge quiz 😌",
-   "views": 481693,
-   "likes": 17766,
+   "views": 481727,
+   "likes": 17768,
    "comments": 3615,
    "seconds": 62,
    "format": "short",
@@ -388,7 +388,7 @@
    "url": "https://youtube.com/watch?v=mcat_vaRyUM",
    "channel": "Think Nova",
    "subs": 2530,
-   "score": 711.5,
+   "score": 711.6,
    "channelMedian": 677
   },
   {
@@ -399,7 +399,7 @@
    "comments": 206,
    "seconds": 540,
    "format": "long",
-   "ageDays": 35.7,
+   "ageDays": 35.8,
    "published": "2026-09-28",
    "url": "https://youtube.com/watch?v=Ouxjgr29BIM",
    "channel": "Dopamine Quiz",
@@ -410,8 +410,8 @@
   {
    "id": "p1V2Ty7KsPY",
    "title": "Test Your IQ  Level in just 8 Min (Part 2) ",
-   "views": 220423,
-   "likes": 3911,
+   "views": 220506,
+   "likes": 3912,
    "comments": 392,
    "seconds": 489,
    "format": "long",
@@ -420,29 +420,29 @@
    "url": "https://youtube.com/watch?v=p1V2Ty7KsPY",
    "channel": "Clear Think ",
    "subs": 6110,
-   "score": 316.2,
+   "score": 316.4,
    "channelMedian": 697
   },
   {
    "id": "-PNulfNNm5I",
    "title": "Name These F1 Tracks from Google Earth! (1954 to 2026) — F1 Track Quiz Part 2🏎️🏁",
-   "views": 207120,
+   "views": 207182,
    "likes": 555,
    "comments": 132,
    "seconds": 906,
    "format": "long",
-   "ageDays": 25.7,
+   "ageDays": 25.8,
    "published": "2026-10-08",
    "url": "https://youtube.com/watch?v=-PNulfNNm5I",
    "channel": "Dopamine Quiz",
    "subs": 409,
-   "score": 313.8,
+   "score": 313.9,
    "channelMedian": 660
   },
   {
    "id": "fUWzj8xF7xM",
    "title": "10 Tricky IQ Riddles | Test Your Intelligence!",
-   "views": 461761,
+   "views": 462972,
    "likes": 0,
    "comments": 105,
    "seconds": 408,
@@ -451,48 +451,48 @@
    "published": "2026-10-22",
    "url": "https://youtube.com/watch?v=fUWzj8xF7xM",
    "channel": "Quiz World",
-   "subs": 970,
-   "score": 253.4,
+   "subs": 973,
+   "score": 254.1,
    "channelMedian": 1822
   },
   {
    "id": "7rwB4FQ-kow",
    "title": "🧠Are You Around 75? Let’s Test Your Memory! Only Sharp Minds Can Score High!",
-   "views": 447438,
-   "likes": 780,
+   "views": 447613,
+   "likes": 781,
    "comments": 566,
    "seconds": 402,
    "format": "long",
-   "ageDays": 27.2,
+   "ageDays": 27.3,
    "published": "2026-10-07",
    "url": "https://youtube.com/watch?v=7rwB4FQ-kow",
    "channel": "QuizNova",
    "subs": 1350,
    "score": 148.0,
-   "channelMedian": 3024
+   "channelMedian": 3023
   },
   {
    "id": "fy0UjNIIxDA",
    "title": "Guess 25 DISNEY Songs 🎙️🌈🎶 Guess Who's Singing | Inside Out 2, Encanto, Moana, Elsa, Rapunzel, Ariel",
-   "views": 660557,
+   "views": 661098,
    "likes": 2063,
    "comments": 0,
    "seconds": 982,
    "format": "long",
-   "ageDays": 29.6,
+   "ageDays": 29.7,
    "published": "2026-10-04",
    "url": "https://youtube.com/watch?v=fy0UjNIIxDA",
    "channel": "Quiz Phoenix",
-   "subs": 4580,
-   "score": 145.3,
+   "subs": 4590,
+   "score": 145.5,
    "channelMedian": 4545
   },
   {
    "id": "rtLDDF7AUVc",
    "title": "Man Trivia with @Needlenuts  #comics #marvel #dc #superhero #guessinggame",
-   "views": 2131648,
-   "likes": 73734,
-   "comments": 12974,
+   "views": 2132119,
+   "likes": 73747,
+   "comments": 12977,
    "seconds": 150,
    "format": "short",
    "ageDays": 26.3,
@@ -500,13 +500,13 @@
    "url": "https://youtube.com/watch?v=rtLDDF7AUVc",
    "channel": "comicnutz",
    "subs": 5230,
-   "score": 141.5,
+   "score": 141.6,
    "channelMedian": 15060
   },
   {
    "id": "-29XeiWt_Kg",
    "title": "Can You Score More Than 2? Test For Ages 70-95!",
-   "views": 411280,
+   "views": 411416,
    "likes": 763,
    "comments": 890,
    "seconds": 402,
@@ -516,15 +516,15 @@
    "url": "https://youtube.com/watch?v=-29XeiWt_Kg",
    "channel": "QuizNova",
    "subs": 1350,
-   "score": 136.0,
-   "channelMedian": 3024
+   "score": 136.1,
+   "channelMedian": 3023
   },
   {
    "id": "iOMRCl0cr4U",
    "title": "Guess the Movie by Emoji 🎬🍿 Movie Quiz",
-   "views": 660181,
-   "likes": 6943,
-   "comments": 2071,
+   "views": 660261,
+   "likes": 6945,
+   "comments": 2072,
    "seconds": 733,
    "format": "long",
    "ageDays": 31.7,
@@ -538,8 +538,8 @@
   {
    "id": "7HoUMbxkjZI",
    "title": "Guess a Football Player for Every Letter A–Z! 🧠⚽ | World Cup 2026 🏆 | Messi 💙 Ronaldo❤  Mbappé 🤍",
-   "views": 498158,
-   "likes": 2259,
+   "views": 498258,
+   "likes": 2260,
    "comments": 117,
    "seconds": 602,
    "format": "long",
@@ -549,13 +549,13 @@
    "channel": "FootyMind Quiz",
    "subs": 3620,
    "score": 101.7,
-   "channelMedian": 4898
+   "channelMedian": 4901
   },
   {
    "id": "LR2sEmcSWys",
    "title": "Only 1% Can Get 50/50 on This Animal Quiz! 🤯 The Ultimate Animal General Knowledge Quiz! 🧠🐯",
-   "views": 168858,
-   "likes": 1103,
+   "views": 168872,
+   "likes": 1104,
    "comments": 14,
    "seconds": 1410,
    "format": "long",
@@ -570,7 +570,7 @@
   {
    "id": "rtqbAtpe9mU",
    "title": "Guess a Football Player for Every Letter A–Z! 🧠⚽ | World Cup 2026 🌍🏆 | Messi 💙 Ronaldo❤ Yamal 💛",
-   "views": 452130,
+   "views": 452217,
    "likes": 1592,
    "comments": 125,
    "seconds": 606,
@@ -581,7 +581,7 @@
    "channel": "FootyMind Quiz",
    "subs": 3620,
    "score": 92.3,
-   "channelMedian": 4898
+   "channelMedian": 4901
   },
   {
    "id": "WyShr0ebbrI",
@@ -602,7 +602,7 @@
   {
    "id": "HzruGXs1DN8",
    "title": "You’re Not Smart Enough to Solve These 12 Puzzles!",
-   "views": 78835,
+   "views": 78849,
    "likes": 276,
    "comments": 22,
    "seconds": 495,
@@ -634,39 +634,39 @@
   {
    "id": "QtTGchlWygA",
    "title": "Name the musical from its Playbill",
-   "views": 1719875,
-   "likes": 75845,
+   "views": 1720136,
+   "likes": 75852,
    "comments": 772,
    "seconds": 107,
    "format": "short",
-   "ageDays": 20.8,
+   "ageDays": 20.9,
    "published": "2026-10-13",
    "url": "https://youtube.com/watch?v=QtTGchlWygA",
    "channel": "Chauncey Asks",
    "subs": 4570,
    "score": 60.6,
-   "channelMedian": 28375
+   "channelMedian": 28378
   },
   {
    "id": "Lm_OkyemfsM",
    "title": "Can You Guess the Anime from These Bad Drawings?",
-   "views": 479264,
-   "likes": 4729,
+   "views": 479414,
+   "likes": 4731,
    "comments": 180,
    "seconds": 1079,
    "format": "long",
-   "ageDays": 24.4,
+   "ageDays": 24.5,
    "published": "2026-10-09",
    "url": "https://youtube.com/watch?v=Lm_OkyemfsM",
    "channel": "Clue Senpai",
    "subs": 1120,
-   "score": 59.1,
-   "channelMedian": 8112
+   "score": 58.9,
+   "channelMedian": 8144
   },
   {
    "id": "7MqySAv5Gb4",
    "title": "NAME A PLAYER THAT STARTS WITH A TO Z! ⚽😱 WORLD CUP 2026 🌎 Lamine 💛 CR7 ❤️ Messi 💙 QUIZ",
-   "views": 240825,
+   "views": 240882,
    "likes": 1260,
    "comments": 49,
    "seconds": 609,
@@ -676,13 +676,13 @@
    "url": "https://youtube.com/watch?v=7MqySAv5Gb4",
    "channel": "FootyMind Quiz",
    "subs": 3620,
-   "score": 49.2,
-   "channelMedian": 4898
+   "score": 49.1,
+   "channelMedian": 4901
   },
   {
    "id": "KnpEj3aAsiM",
    "title": " 🧠 Your Brain Is Ageless! Take This 10-Question IQ Quiz and Test Your Mind",
-   "views": 39700,
+   "views": 40038,
    "likes": 80,
    "comments": 16,
    "seconds": 434,
@@ -692,15 +692,15 @@
    "url": "https://youtube.com/watch?v=KnpEj3aAsiM",
    "channel": "GK STUDIO PRO ",
    "subs": 1830,
-   "score": 46.7,
-   "channelMedian": 850
+   "score": 46.8,
+   "channelMedian": 855
   },
   {
    "id": "LvmaZmry60s",
    "title": "Can You Pass the U.S. Citizenship Test? | 50 Questions",
-   "views": 2618456,
+   "views": 2618661,
    "likes": 8409,
-   "comments": 1932,
+   "comments": 1933,
    "seconds": 949,
    "format": "long",
    "ageDays": 32.1,
@@ -709,12 +709,12 @@
    "channel": "Trivia Square",
    "subs": 3870,
    "score": 42.2,
-   "channelMedian": 62103
+   "channelMedian": 62121
   },
   {
    "id": "yq8BuOAJjSY",
    "title": "English Quizz IQ test time #quiz #learnanewwordtoday",
-   "views": 152630,
+   "views": 152631,
    "likes": 1401,
    "comments": 15,
    "seconds": 71,
@@ -723,9 +723,9 @@
    "published": "2026-10-17",
    "url": "https://youtube.com/watch?v=yq8BuOAJjSY",
    "channel": "Math Quiz ",
-   "subs": 1190,
-   "score": 41.7,
-   "channelMedian": 3660
+   "subs": 1210,
+   "score": 41.3,
+   "channelMedian": 3694
   },
   {
    "id": "jaWCxKGi1WU",
@@ -739,14 +739,14 @@
    "published": "2026-09-21",
    "url": "https://youtube.com/watch?v=jaWCxKGi1WU",
    "channel": "Math Quiz ",
-   "subs": 1190,
-   "score": 38.5,
-   "channelMedian": 3660
+   "subs": 1210,
+   "score": 38.1,
+   "channelMedian": 3694
   },
   {
    "id": "mYr_WYNMJKo",
    "title": "These 12 Puzzles Will Expose Your Weakness",
-   "views": 40285,
+   "views": 40303,
    "likes": 160,
    "comments": 23,
    "seconds": 496,
@@ -772,13 +772,13 @@
    "url": "https://youtube.com/watch?v=rqEJlwhA_Dc",
    "channel": "GK STUDIO PRO ",
    "subs": 1830,
-   "score": 33.8,
-   "channelMedian": 850
+   "score": 33.6,
+   "channelMedian": 855
   },
   {
    "id": "hYXzSBtFRc0",
    "title": "12 Puzzles That Expose How Easily You Get Tricked!",
-   "views": 37161,
+   "views": 37160,
    "likes": 133,
    "comments": 16,
    "seconds": 502,
@@ -794,18 +794,18 @@
   {
    "id": "GdKOcWFNneY",
    "title": "Name a European city that starts with...",
-   "views": 799882,
-   "likes": 13864,
+   "views": 800066,
+   "likes": 13867,
    "comments": 335,
    "seconds": 115,
    "format": "short",
-   "ageDays": 18.8,
+   "ageDays": 18.9,
    "published": "2026-10-15",
    "url": "https://youtube.com/watch?v=GdKOcWFNneY",
    "channel": "Chauncey Asks",
    "subs": 4570,
    "score": 28.2,
-   "channelMedian": 28375
+   "channelMedian": 28378
   },
   {
    "id": "ZaELskqhRKA",
@@ -819,14 +819,14 @@
    "published": "2026-10-01",
    "url": "https://youtube.com/watch?v=ZaELskqhRKA",
    "channel": "Math Quiz ",
-   "subs": 1190,
-   "score": 27.5,
-   "channelMedian": 3660
+   "subs": 1210,
+   "score": 27.3,
+   "channelMedian": 3694
   },
   {
    "id": "C0TDoTfBSkA",
    "title": "HOW GOOD IS YOUR GENERAL KNOWLEDGE? || GENERAL KNOWLEDGE QUIZ",
-   "views": 96377,
+   "views": 96435,
    "likes": 643,
    "comments": 37,
    "seconds": 1221,
@@ -837,23 +837,23 @@
    "channel": "Quiz Daily",
    "subs": 626,
    "score": 25.3,
-   "channelMedian": 3811
+   "channelMedian": 3809
   },
   {
    "id": "tm6VjNWOBzQ",
    "title": "Can You Score More Than 2? Test For Ages 60-90!",
-   "views": 71911,
+   "views": 71915,
    "likes": 141,
    "comments": 137,
    "seconds": 402,
    "format": "long",
-   "ageDays": 18.2,
+   "ageDays": 18.3,
    "published": "2026-10-16",
    "url": "https://youtube.com/watch?v=tm6VjNWOBzQ",
    "channel": "QuizNova",
    "subs": 1350,
    "score": 23.8,
-   "channelMedian": 3024
+   "channelMedian": 3023
   },
   {
    "id": "sTpEU6bNlmo",
@@ -863,7 +863,7 @@
    "comments": 27,
    "seconds": 414,
    "format": "long",
-   "ageDays": 16.7,
+   "ageDays": 16.8,
    "published": "2026-10-17",
    "url": "https://youtube.com/watch?v=sTpEU6bNlmo",
    "channel": "Dopamine Quiz",
@@ -879,18 +879,18 @@
    "comments": 683,
    "seconds": 75,
    "format": "short",
-   "ageDays": 20.2,
+   "ageDays": 20.3,
    "published": "2026-10-14",
    "url": "https://youtube.com/watch?v=Up4EL4yNvlo",
    "channel": "Your.bummy.quizzes",
    "subs": 2340,
    "score": 22.1,
-   "channelMedian": 21212
+   "channelMedian": 21159
   },
   {
    "id": "-GAFiV7Y4jQ",
    "title": "No Person Born Before 1960 Gets Even 4 Right In This Surprising Challenge! 🧠⚡",
-   "views": 64560,
+   "views": 64587,
    "likes": 134,
    "comments": 74,
    "seconds": 402,
@@ -900,34 +900,34 @@
    "url": "https://youtube.com/watch?v=-GAFiV7Y4jQ",
    "channel": "QuizNova",
    "subs": 1350,
-   "score": 21.3,
-   "channelMedian": 3024
+   "score": 21.4,
+   "channelMedian": 3023
   },
   {
    "id": "K_LIxrbgY-s",
    "title": "Name the airline from its livery",
-   "views": 599697,
-   "likes": 9204,
-   "comments": 185,
+   "views": 600507,
+   "likes": 9213,
+   "comments": 186,
    "seconds": 77,
    "format": "short",
-   "ageDays": 13.8,
+   "ageDays": 13.9,
    "published": "2026-10-20",
    "url": "https://youtube.com/watch?v=K_LIxrbgY-s",
    "channel": "Chauncey Asks",
    "subs": 4570,
-   "score": 21.1,
-   "channelMedian": 28375
+   "score": 21.2,
+   "channelMedian": 28378
   },
   {
    "id": "5eTGi998B6I",
    "title": "GUESS THE PLAYER BY THE CELEBRATION ⚽WORLD CUP 2026 😱 Neymar 💛 CR7 ❤️ Messi 💙 QUIZ",
-   "views": 267992,
+   "views": 267994,
    "likes": 3430,
    "comments": 85,
    "seconds": 650,
    "format": "long",
-   "ageDays": 36.7,
+   "ageDays": 36.8,
    "published": "2026-09-27",
    "url": "https://youtube.com/watch?v=5eTGi998B6I",
    "channel": "QuizKoala",
@@ -938,7 +938,7 @@
   {
    "id": "B_R8twIocTs",
    "title": "​🧠💥 BRAIN EXAM FOR SENIORS! Only the Sharpest Minds Will Ace It! 🧠💥",
-   "views": 54137,
+   "views": 54082,
    "likes": 78,
    "comments": 47,
    "seconds": 402,
@@ -949,7 +949,7 @@
    "channel": "QuizNova",
    "subs": 1350,
    "score": 17.9,
-   "channelMedian": 3024
+   "channelMedian": 3023
   },
   {
    "id": "b25y17DtgPI",
@@ -959,13 +959,13 @@
    "comments": 101,
    "seconds": 65,
    "format": "short",
-   "ageDays": 13.1,
+   "ageDays": 13.2,
    "published": "2026-10-21",
    "url": "https://youtube.com/watch?v=b25y17DtgPI",
    "channel": "Math Quiz ",
-   "subs": 1190,
-   "score": 17.1,
-   "channelMedian": 3660
+   "subs": 1210,
+   "score": 17.0,
+   "channelMedian": 3694
   },
   {
    "id": "5KZ_MkmC0yY",
@@ -975,13 +975,13 @@
    "comments": 374,
    "seconds": 69,
    "format": "short",
-   "ageDays": 18.2,
+   "ageDays": 18.3,
    "published": "2026-10-16",
    "url": "https://youtube.com/watch?v=5KZ_MkmC0yY",
    "channel": "Your.bummy.quizzes",
    "subs": 2340,
    "score": 16.1,
-   "channelMedian": 21212
+   "channelMedian": 21159
   },
   {
    "id": "ijwcuORethw",
@@ -997,23 +997,39 @@
    "channel": "QuizNova",
    "subs": 1350,
    "score": 15.8,
-   "channelMedian": 3024
+   "channelMedian": 3023
   },
   {
    "id": "WVQHowyRYjs",
    "title": "Hard #generalknowledge #korean #testandlearn #learn #school #quiz #smart #study #test #students",
-   "views": 324168,
+   "views": 324290,
    "likes": 2539,
-   "comments": 1002,
+   "comments": 1003,
    "seconds": 72,
    "format": "short",
-   "ageDays": 17.2,
+   "ageDays": 17.3,
    "published": "2026-10-17",
    "url": "https://youtube.com/watch?v=WVQHowyRYjs",
    "channel": "Your.bummy.quizzes",
    "subs": 2340,
    "score": 15.3,
-   "channelMedian": 21212
+   "channelMedian": 21159
+  },
+  {
+   "id": "kWFdNHjboJk",
+   "title": "⚽ GUESS THE PLAYER BY EMOJIS 😱 | WORLD CUP 2026 🏆 Neymar💛 CR7❤️ Messi💙 QUIZ",
+   "views": 209145,
+   "likes": 1827,
+   "comments": 66,
+   "seconds": 303,
+   "format": "long",
+   "ageDays": 45.7,
+   "published": "2026-09-18",
+   "url": "https://youtube.com/watch?v=kWFdNHjboJk",
+   "channel": "QuizKoala",
+   "subs": 1350,
+   "score": 14.5,
+   "channelMedian": 14389
   },
   {
    "id": "-qoRAoxX364",
@@ -1023,7 +1039,7 @@
    "comments": 83,
    "seconds": 66,
    "format": "short",
-   "ageDays": 13.0,
+   "ageDays": 13.1,
    "published": "2026-10-21",
    "url": "https://youtube.com/watch?v=-qoRAoxX364",
    "channel": "Think Nova",
@@ -1048,41 +1064,25 @@
    "channelMedian": 4210
   },
   {
-   "id": "kWFdNHjboJk",
-   "title": "⚽ GUESS THE PLAYER BY EMOJIS 😱 | WORLD CUP 2026 🏆 Neymar💛 CR7❤️ Messi💙 QUIZ",
-   "views": 208977,
-   "likes": 1825,
-   "comments": 66,
-   "seconds": 303,
-   "format": "long",
-   "ageDays": 45.6,
-   "published": "2026-09-18",
-   "url": "https://youtube.com/watch?v=kWFdNHjboJk",
-   "channel": "QuizKoala",
-   "subs": 1350,
-   "score": 14.5,
-   "channelMedian": 14389
-  },
-  {
    "id": "s-XOMP55SAk",
    "title": "You’re good? #generalknowledge #testandlearn #learn #school #quiz #smart #funny #study #quickstudy",
-   "views": 286776,
+   "views": 286796,
    "likes": 4046,
    "comments": 504,
    "seconds": 68,
    "format": "short",
-   "ageDays": 15.6,
+   "ageDays": 15.7,
    "published": "2026-10-18",
    "url": "https://youtube.com/watch?v=s-XOMP55SAk",
    "channel": "Your.bummy.quizzes",
    "subs": 2340,
-   "score": 13.5,
-   "channelMedian": 21212
+   "score": 13.6,
+   "channelMedian": 21159
   },
   {
    "id": "p6JFPaOI0Vw",
    "title": "Can You Guess The Football Player By Emoji? ⚽🏆 | Ronaldo, Messi, Mbappé, Yamal & More!",
-   "views": 81405,
+   "views": 81533,
    "likes": 1572,
    "comments": 64,
    "seconds": 536,
@@ -1103,7 +1103,7 @@
    "comments": 25,
    "seconds": 160,
    "format": "short",
-   "ageDays": 28.7,
+   "ageDays": 28.8,
    "published": "2026-10-05",
    "url": "https://youtube.com/watch?v=Cx4H53dZxhk",
    "channel": "Studio Seven",
@@ -1130,7 +1130,7 @@
   {
    "id": "ZnjjQ0kpzIw",
    "title": "HOW GOOD IS YOUR GENERAL KNOWLEDGE? || GENERAL KNOWLEDGE QUIZ",
-   "views": 42244,
+   "views": 42245,
    "likes": 326,
    "comments": 13,
    "seconds": 1221,
@@ -1141,7 +1141,7 @@
    "channel": "Quiz Daily",
    "subs": 626,
    "score": 11.1,
-   "channelMedian": 3811
+   "channelMedian": 3809
   },
   {
    "id": "kG8tORpBcns",
@@ -1151,7 +1151,7 @@
    "comments": 87,
    "seconds": 82,
    "format": "short",
-   "ageDays": 42.6,
+   "ageDays": 42.7,
    "published": "2026-09-21",
    "url": "https://youtube.com/watch?v=kG8tORpBcns",
    "channel": "Think Nova",
@@ -1173,7 +1173,7 @@
    "channel": "Your.bummy.quizzes",
    "subs": 2340,
    "score": 10.8,
-   "channelMedian": 21212
+   "channelMedian": 21159
   },
   {
    "id": "0dIUnJBRX1E",
@@ -1187,25 +1187,25 @@
    "published": "2026-09-18",
    "url": "https://youtube.com/watch?v=0dIUnJBRX1E",
    "channel": "Math Quiz ",
-   "subs": 1190,
-   "score": 10.5,
-   "channelMedian": 3660
+   "subs": 1210,
+   "score": 10.4,
+   "channelMedian": 3694
   },
   {
    "id": "c3WHePJsETg",
    "title": "Can You Score More Than 4? Test For Ages 70-90!",
-   "views": 31291,
+   "views": 31288,
    "likes": 51,
    "comments": 21,
    "seconds": 402,
    "format": "long",
-   "ageDays": 16.2,
+   "ageDays": 16.3,
    "published": "2026-10-18",
    "url": "https://youtube.com/watch?v=c3WHePJsETg",
    "channel": "QuizNova",
    "subs": 1350,
    "score": 10.3,
-   "channelMedian": 3024
+   "channelMedian": 3023
   },
   {
    "id": "MRlhR9hldj8",
@@ -1215,7 +1215,7 @@
    "comments": 20,
    "seconds": 104,
    "format": "short",
-   "ageDays": 27.7,
+   "ageDays": 27.8,
    "published": "2026-10-06",
    "url": "https://youtube.com/watch?v=MRlhR9hldj8",
    "channel": "Studio Seven",
@@ -1231,7 +1231,7 @@
    "comments": 21,
    "seconds": 106,
    "format": "short",
-   "ageDays": 12.9,
+   "ageDays": 13.0,
    "published": "2026-10-21",
    "url": "https://youtube.com/watch?v=35zUmZXiTZA",
    "channel": "Studio Seven",
@@ -1242,7 +1242,7 @@
   {
    "id": "3oCddH1-n8s",
    "title": "Guess the Video Game from Bad Drawings",
-   "views": 74765,
+   "views": 74804,
    "likes": 581,
    "comments": 33,
    "seconds": 959,
@@ -1253,7 +1253,7 @@
    "channel": "Clue Senpai",
    "subs": 1120,
    "score": 9.2,
-   "channelMedian": 8112
+   "channelMedian": 8144
   },
   {
    "id": "hzsqoyB3neY",
@@ -1284,8 +1284,8 @@
    "url": "https://youtube.com/watch?v=FQifaq7SYpw",
    "channel": "GK STUDIO PRO ",
    "subs": 1830,
-   "score": 8.9,
-   "channelMedian": 850
+   "score": 8.8,
+   "channelMedian": 855
   }
  ]
 }

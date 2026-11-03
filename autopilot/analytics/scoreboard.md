@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-03T06:21 (11 Abos)
+# Scoreboard – Stand 2026-11-03T08:25 (11 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -10,8 +10,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 2 | 1334 | 1334 | 1433 | 56.0 | 53.7 | 0 |
 | Ersatz-Generator (1 Frage) | 6 | 775 | 888 | 1206 | 38.0 | 140.7 | 0 |
-| VS-Vergleich | 1 | 839 | 839 | 839 | 53.0 | 66.0 | 0 |
-| 1-Frage-Ego-Hook | 7 | 411 | 330 | 865 | 44.0 | 100.9 | 1.0 |
+| VS-Vergleich | 1 | 852 | 852 | 852 | 53.0 | 66.0 | 0 |
+| 1-Frage-Ego-Hook | 7 | 413 | 330 | 865 | 44.0 | 100.9 | 1.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 7 | 432 | 251 | 1081 | 52.3 | 89.2 | 0 |
 
@@ -23,10 +23,10 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHICH CAME FIRST? | 1 | 1234 | 1234 | 1234 | 55.1 | 46.2 | 0 |
 | BRAIN QUIZ | 1 | 1206 | 1206 | 1206 | 44.0 | 103.4 | 0 |
 | NATURE QUIZ | 1 | 865 | 865 | 865 | 38.9 | 71.8 | 0 |
-| WHICH IS BIGGER? | 1 | 839 | 839 | 839 | 53.0 | 66.0 | 0 |
+| WHICH IS BIGGER? | 1 | 852 | 852 | 852 | 53.0 | 66.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 715 | 715 | 715 | 37.4 | 114.3 | 0 |
 | GENERAL KNOWLEDGE | 5 | 689 | 615 | 1160 | 36.9 | 148.1 | 0 |
-| QUICK QUIZ | 1 | 442 | 442 | 442 | 41.0 | 74.8 | 0 |
+| QUICK QUIZ | 1 | 453 | 453 | 453 | 41.0 | 74.8 | 0 |
 | HALLOWEEN TRIVIA | 3 | 343 | 338 | 497 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | TRIVIA | 6 | 472 | 289 | 1081 | 52.7 | 59.6 | 0 |
@@ -39,15 +39,15 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 13 | 639 | 615 | 1206 | 46.4 | 85.8 | 1.0 |
+| tvshow | 13 | 641 | 615 | 1206 | 46.4 | 85.8 | 1.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.1 | 111.5 | 0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 7 | 692 | 615 | 1206 | 46.9 | 92.8 | 0 |
-| world-trip.wav | 4 | 465 | 441 | 839 | 46.4 | 78.9 | 1.0 |
+| game-show.wav | 7 | 693 | 615 | 1206 | 46.9 | 92.8 | 0 |
+| world-trip.wav | 4 | 468 | 441 | 852 | 46.4 | 78.9 | 1.0 |
 | brain-pulse.wav | 15 | 558 | 330 | 1433 | 44.2 | 106.3 | 0 |
 
 ### Shorts nach Sendezeit
@@ -55,9 +55,9 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
-| 16:00 | 9 | 522 | 442 | 1206 | 43.4 | 103.6 | 1.0 |
+| 16:00 | 9 | 523 | 453 | 1206 | 43.4 | 103.6 | 1.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
-| 21:00 | 11 | 579 | 327 | 1160 | 49.1 | 77.9 | 0 |
+| 21:00 | 11 | 580 | 327 | 1160 | 49.1 | 77.9 | 0 |
 
 ### Top 8 Shorts
 
