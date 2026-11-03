@@ -1,0 +1,130 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Which Came First?",
+ "header": "WHICH CAME FIRST?",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "FIRST!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which came **first**?",
+   "answers": [
+    "Eiffel Tower",
+    "Coca-Cola",
+    "Sherlock Holmes",
+    "The zipper"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🥤",
+   "broll": "old city street",
+   "start": 0.0,
+   "countdownStart": 4.082,
+   "reveal": 6.582,
+   "end": 11.218,
+   "video": "broll/six-q-which-first-2-0.mp4"
+  },
+  {
+   "q": "Which is **older**?",
+   "answers": [
+    "Great Pyramid",
+    "Colosseum",
+    "Stonehenge",
+    "Great Wall"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🪨",
+   "broll": "sunrise over field",
+   "start": 11.218,
+   "countdownStart": 12.421,
+   "reveal": 14.921,
+   "end": 19.438,
+   "video": "broll/six-q-which-first-2-1.mp4"
+  },
+  {
+   "q": "Which was invented **first**?",
+   "answers": [
+    "Credit card",
+    "Barbie doll",
+    "Hula hoop",
+    "Microwave oven"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🔌",
+   "broll": "vintage living room",
+   "start": 19.438,
+   "countdownStart": 21.175,
+   "reveal": 23.675,
+   "end": 28.454,
+   "video": "broll/six-q-which-first-2-2.mp4"
+  },
+  {
+   "q": "Which happened **first**?",
+   "answers": [
+    "Mayflower voyage",
+    "Taj Mahal begun",
+    "Newton born",
+    "Great Fire of London"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "⛵",
+   "broll": "old map candle",
+   "start": 28.454,
+   "countdownStart": 29.854,
+   "reveal": 32.354,
+   "end": 37.604,
+   "video": "broll/six-q-which-first-2-3.mp4"
+  },
+  {
+   "q": "Which launched **first**?",
+   "answers": [
+    "YouTube",
+    "Facebook",
+    "iPhone",
+    "Google Maps"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "📱",
+   "broll": "city crowd walking",
+   "start": 37.604,
+   "countdownStart": 39.001,
+   "reveal": 41.501,
+   "end": 45.601,
+   "video": "broll/six-q-which-first-2-4.mp4"
+  },
+  {
+   "q": "Which came **first**?",
+   "answers": [
+    "Pluto discovered",
+    "Sliced bread",
+    "Monopoly",
+    "Empire State Building"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🍞",
+   "broll": "telescope night sky",
+   "start": 45.601,
+   "countdownStart": 47.351,
+   "reveal": 49.851,
+   "end": 56.096,
+   "video": "broll/six-q-which-first-2-5.mp4"
+  }
+ ],
+ "audio": "audio/six-q-which-first-2.mp3",
+ "outroStart": 56.096,
+ "durationInSeconds": 56.096
+}

@@ -1,13 +1,13 @@
 {
- "fetched": "2026-11-02T11:49",
+ "fetched": "2026-11-03T06:21",
  "channel": "COULD YOU PASS?",
- "subscribers": "8",
+ "subscribers": "11",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 9478,
-    "engagedViews": 4458
+    "views": 10147,
+    "engagedViews": 4801
    },
    {
     "country": "DE",
@@ -31,8 +31,8 @@
    },
    {
     "country": "ID",
-    "views": 309,
-    "engagedViews": 161
+    "views": 337,
+    "engagedViews": 174
    },
    {
     "country": "CA",
@@ -83,23 +83,23 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 13641,
-    "engagedViews": 5862
+    "views": 14240,
+    "engagedViews": 6121
    },
    {
     "deviceType": "TABLET",
-    "views": 3386,
-    "engagedViews": 1678
+    "views": 3581,
+    "engagedViews": 1792
    },
    {
     "deviceType": "TV",
-    "views": 1723,
-    "engagedViews": 1371
+    "views": 1798,
+    "engagedViews": 1427
    },
    {
     "deviceType": "DESKTOP",
-    "views": 1144,
-    "engagedViews": 586
+    "views": 1184,
+    "engagedViews": 610
    }
   ],
   "ageGroups": [
@@ -109,7 +109,7 @@
    },
    {
     "ageGroup": "age18-24",
-    "viewerPercentage": 3.8
+    "viewerPercentage": 3.6
    },
    {
     "ageGroup": "age25-34",
@@ -117,51 +117,33 @@
    },
    {
     "ageGroup": "age35-44",
-    "viewerPercentage": 22.4
+    "viewerPercentage": 22.2
    },
    {
     "ageGroup": "age45-54",
-    "viewerPercentage": 9.1
+    "viewerPercentage": 9.2
    },
    {
     "ageGroup": "age55-64",
-    "viewerPercentage": 3.5
+    "viewerPercentage": 3.4
    },
    {
     "ageGroup": "age65-",
-    "viewerPercentage": 33.7
+    "viewerPercentage": 34.1
    }
   ]
  },
  "videos": [
   {
-   "id": "GZnsjhdoEys",
-   "title": "US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test",
-   "published": "2026-11-02T06:46:57Z",
-   "retention": [],
-   "trafficSources": {},
-   "durationSec": 381,
-   "publicViews": "0",
-   "status": {
-    "privacyStatus": "private",
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false,
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "uploadStatus": "processed",
-    "ytRating": null
-   }
-  },
-  {
    "id": "vVlz3ctkWZo",
    "title": "Which Is Faster? 4 Races 90% Get Wrong 🐆 #shorts",
-   "published": "2026-11-02T06:24:13Z",
+   "published": "2026-11-02T20:00:36Z",
    "retention": [],
    "trafficSources": {},
    "durationSec": 45,
-   "publicViews": "0",
+   "publicViews": "482",
    "status": {
-    "privacyStatus": "private",
+    "privacyStatus": "public",
     "madeForKids": false,
     "selfDeclaredMadeForKids": false,
     "embeddable": true,
@@ -173,13 +155,31 @@
   {
    "id": "ZVUz-EjQsI8",
    "title": "Can You Answer: Which Planet Is Closest to the Sun? ☀️🤯 #shorts",
-   "published": "2026-11-02T06:22:00Z",
+   "published": "2026-11-02T15:00:09Z",
    "retention": [],
    "trafficSources": {},
    "durationSec": 14,
+   "publicViews": "179",
+   "status": {
+    "privacyStatus": "public",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null
+   }
+  },
+  {
+   "id": "GZnsjhdoEys",
+   "title": "US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test",
+   "published": "2026-11-02T13:00:35Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 381,
    "publicViews": "0",
    "status": {
-    "privacyStatus": "private",
+    "privacyStatus": "public",
     "madeForKids": false,
     "selfDeclaredMadeForKids": false,
     "embeddable": true,
@@ -195,7 +195,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 40,
-   "publicViews": "63",
+   "publicViews": "105",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 45,
-   "publicViews": "1032",
+   "publicViews": "1163",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -246,10 +246,524 @@
    "id": "S-rX4Xh6B78",
    "title": "Which Country Is Bigger? 4 Rounds 90% Get Wrong 🌍 #shorts",
    "published": "2026-10-31T20:00:34Z",
-   "retention": [],
-   "trafficSources": {},
+   "views": 519,
+   "engagedViews": 275,
+   "averageViewDuration": 26,
+   "averageViewPercentage": 65.95,
+   "likes": 19,
+   "comments": 1,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     1.215,
+     0.569
+    ],
+    [
+     0.02,
+     1.211,
+     0.537
+    ],
+    [
+     0.03,
+     1.193,
+     0.506
+    ],
+    [
+     0.04,
+     1.167,
+     0.479
+    ],
+    [
+     0.05,
+     1.164,
+     0.459
+    ],
+    [
+     0.06,
+     1.149,
+     0.445
+    ],
+    [
+     0.07,
+     1.153,
+     0.435
+    ],
+    [
+     0.08,
+     1.153,
+     0.428
+    ],
+    [
+     0.09,
+     1.153,
+     0.423
+    ],
+    [
+     0.1,
+     1.153,
+     0.42
+    ],
+    [
+     0.11,
+     1.149,
+     0.417
+    ],
+    [
+     0.12,
+     1.124,
+     0.416
+    ],
+    [
+     0.13,
+     1.109,
+     0.415
+    ],
+    [
+     0.14,
+     1.087,
+     0.415
+    ],
+    [
+     0.15,
+     1.084,
+     0.416
+    ],
+    [
+     0.16,
+     1.073,
+     0.416
+    ],
+    [
+     0.17,
+     1.058,
+     0.417
+    ],
+    [
+     0.18,
+     1.044,
+     0.418
+    ],
+    [
+     0.19,
+     1.018,
+     0.42
+    ],
+    [
+     0.2,
+     0.982,
+     0.421
+    ],
+    [
+     0.21,
+     0.942,
+     0.422
+    ],
+    [
+     0.22,
+     0.902,
+     0.423
+    ],
+    [
+     0.23,
+     0.855,
+     0.425
+    ],
+    [
+     0.24,
+     0.829,
+     0.426
+    ],
+    [
+     0.25,
+     0.811,
+     0.427
+    ],
+    [
+     0.26,
+     0.8,
+     0.428
+    ],
+    [
+     0.27,
+     0.764,
+     0.429
+    ],
+    [
+     0.28,
+     0.76,
+     0.43
+    ],
+    [
+     0.29,
+     0.756,
+     0.431
+    ],
+    [
+     0.3,
+     0.753,
+     0.432
+    ],
+    [
+     0.31,
+     0.735,
+     0.434
+    ],
+    [
+     0.32,
+     0.731,
+     0.436
+    ],
+    [
+     0.33,
+     0.72,
+     0.438
+    ],
+    [
+     0.34,
+     0.72,
+     0.44
+    ],
+    [
+     0.35,
+     0.706,
+     0.442
+    ],
+    [
+     0.36,
+     0.706,
+     0.445
+    ],
+    [
+     0.37,
+     0.698,
+     0.447
+    ],
+    [
+     0.38,
+     0.695,
+     0.45
+    ],
+    [
+     0.39,
+     0.698,
+     0.453
+    ],
+    [
+     0.4,
+     0.691,
+     0.456
+    ],
+    [
+     0.41,
+     0.673,
+     0.459
+    ],
+    [
+     0.42,
+     0.658,
+     0.462
+    ],
+    [
+     0.43,
+     0.651,
+     0.464
+    ],
+    [
+     0.44,
+     0.644,
+     0.467
+    ],
+    [
+     0.45,
+     0.622,
+     0.47
+    ],
+    [
+     0.46,
+     0.622,
+     0.473
+    ],
+    [
+     0.47,
+     0.615,
+     0.476
+    ],
+    [
+     0.48,
+     0.611,
+     0.479
+    ],
+    [
+     0.49,
+     0.607,
+     0.482
+    ],
+    [
+     0.5,
+     0.607,
+     0.485
+    ],
+    [
+     0.51,
+     0.596,
+     0.488
+    ],
+    [
+     0.52,
+     0.589,
+     0.492
+    ],
+    [
+     0.53,
+     0.578,
+     0.496
+    ],
+    [
+     0.54,
+     0.578,
+     0.499
+    ],
+    [
+     0.55,
+     0.578,
+     0.503
+    ],
+    [
+     0.56,
+     0.575,
+     0.507
+    ],
+    [
+     0.57,
+     0.575,
+     0.511
+    ],
+    [
+     0.58,
+     0.575,
+     0.515
+    ],
+    [
+     0.59,
+     0.575,
+     0.52
+    ],
+    [
+     0.6,
+     0.567,
+     0.524
+    ],
+    [
+     0.61,
+     0.567,
+     0.529
+    ],
+    [
+     0.62,
+     0.553,
+     0.534
+    ],
+    [
+     0.63,
+     0.534,
+     0.538
+    ],
+    [
+     0.64,
+     0.524,
+     0.543
+    ],
+    [
+     0.65,
+     0.52,
+     0.548
+    ],
+    [
+     0.66,
+     0.52,
+     0.553
+    ],
+    [
+     0.67,
+     0.516,
+     0.557
+    ],
+    [
+     0.68,
+     0.516,
+     0.562
+    ],
+    [
+     0.69,
+     0.509,
+     0.567
+    ],
+    [
+     0.7,
+     0.502,
+     0.572
+    ],
+    [
+     0.71,
+     0.498,
+     0.578
+    ],
+    [
+     0.72,
+     0.498,
+     0.583
+    ],
+    [
+     0.73,
+     0.498,
+     0.588
+    ],
+    [
+     0.74,
+     0.495,
+     0.594
+    ],
+    [
+     0.75,
+     0.495,
+     0.6
+    ],
+    [
+     0.76,
+     0.491,
+     0.605
+    ],
+    [
+     0.77,
+     0.487,
+     0.61
+    ],
+    [
+     0.78,
+     0.487,
+     0.615
+    ],
+    [
+     0.79,
+     0.48,
+     0.62
+    ],
+    [
+     0.8,
+     0.48,
+     0.624
+    ],
+    [
+     0.81,
+     0.476,
+     0.628
+    ],
+    [
+     0.82,
+     0.476,
+     0.631
+    ],
+    [
+     0.83,
+     0.476,
+     0.634
+    ],
+    [
+     0.84,
+     0.476,
+     0.637
+    ],
+    [
+     0.85,
+     0.476,
+     0.639
+    ],
+    [
+     0.86,
+     0.469,
+     0.641
+    ],
+    [
+     0.87,
+     0.462,
+     0.642
+    ],
+    [
+     0.88,
+     0.444,
+     0.644
+    ],
+    [
+     0.89,
+     0.415,
+     0.645
+    ],
+    [
+     0.9,
+     0.393,
+     0.646
+    ],
+    [
+     0.91,
+     0.371,
+     0.647
+    ],
+    [
+     0.92,
+     0.349,
+     0.649
+    ],
+    [
+     0.93,
+     0.338,
+     0.651
+    ],
+    [
+     0.94,
+     0.316,
+     0.653
+    ],
+    [
+     0.95,
+     0.309,
+     0.654
+    ],
+    [
+     0.96,
+     0.287,
+     0.656
+    ],
+    [
+     0.97,
+     0.276,
+     0.656
+    ],
+    [
+     0.98,
+     0.258,
+     0.656
+    ],
+    [
+     0.99,
+     0.255,
+     0.656
+    ],
+    [
+     1,
+     0.255,
+     0.655
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 494,
+    "YT_SEARCH": 21,
+    "YT_CHANNEL": 2,
+    "YT_OTHER_PAGE": 2,
+    "NO_LINK_OTHER": 0
+   },
    "durationSec": 40,
-   "publicViews": "757",
+   "publicViews": "839",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -258,16 +772,531 @@
     "publicStatsViewable": true,
     "uploadStatus": "processed",
     "ytRating": null
-   }
+   },
+   "engagedShare": 0.53
   },
   {
    "id": "ytdL31Bpx_A",
    "title": "Can You Answer: How Many Hours Are in a Week? 🤯 #shorts",
    "published": "2026-10-31T15:00:18Z",
-   "retention": [],
-   "trafficSources": {},
+   "views": 205,
+   "engagedViews": 84,
+   "averageViewDuration": 9,
+   "averageViewPercentage": 74.84,
+   "likes": 6,
+   "comments": 0,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     1.262,
+     0.517
+    ],
+    [
+     0.02,
+     1.262,
+     0.511
+    ],
+    [
+     0.03,
+     1.238,
+     0.504
+    ],
+    [
+     0.04,
+     1.202,
+     0.497
+    ],
+    [
+     0.05,
+     1.19,
+     0.49
+    ],
+    [
+     0.06,
+     1.19,
+     0.483
+    ],
+    [
+     0.07,
+     1.19,
+     0.476
+    ],
+    [
+     0.08,
+     1.155,
+     0.469
+    ],
+    [
+     0.09,
+     1.155,
+     0.461
+    ],
+    [
+     0.1,
+     1.131,
+     0.454
+    ],
+    [
+     0.11,
+     1.131,
+     0.446
+    ],
+    [
+     0.12,
+     1.119,
+     0.439
+    ],
+    [
+     0.13,
+     1.119,
+     0.432
+    ],
+    [
+     0.14,
+     1.119,
+     0.425
+    ],
+    [
+     0.15,
+     1.119,
+     0.417
+    ],
+    [
+     0.16,
+     1.095,
+     0.41
+    ],
+    [
+     0.17,
+     1.083,
+     0.404
+    ],
+    [
+     0.18,
+     1.095,
+     0.397
+    ],
+    [
+     0.19,
+     1.095,
+     0.39
+    ],
+    [
+     0.2,
+     1.095,
+     0.384
+    ],
+    [
+     0.21,
+     1.095,
+     0.377
+    ],
+    [
+     0.22,
+     1.095,
+     0.371
+    ],
+    [
+     0.23,
+     1.095,
+     0.365
+    ],
+    [
+     0.24,
+     1.071,
+     0.359
+    ],
+    [
+     0.25,
+     1.071,
+     0.353
+    ],
+    [
+     0.26,
+     1.06,
+     0.348
+    ],
+    [
+     0.27,
+     1.06,
+     0.342
+    ],
+    [
+     0.28,
+     1.06,
+     0.337
+    ],
+    [
+     0.29,
+     1.06,
+     0.332
+    ],
+    [
+     0.3,
+     1.036,
+     0.327
+    ],
+    [
+     0.31,
+     1.06,
+     0.323
+    ],
+    [
+     0.32,
+     1.036,
+     0.318
+    ],
+    [
+     0.33,
+     1.036,
+     0.314
+    ],
+    [
+     0.34,
+     1.024,
+     0.31
+    ],
+    [
+     0.35,
+     1,
+     0.306
+    ],
+    [
+     0.36,
+     0.952,
+     0.302
+    ],
+    [
+     0.37,
+     0.917,
+     0.299
+    ],
+    [
+     0.38,
+     0.905,
+     0.296
+    ],
+    [
+     0.39,
+     0.881,
+     0.292
+    ],
+    [
+     0.4,
+     0.857,
+     0.29
+    ],
+    [
+     0.41,
+     0.845,
+     0.287
+    ],
+    [
+     0.42,
+     0.857,
+     0.284
+    ],
+    [
+     0.43,
+     0.845,
+     0.282
+    ],
+    [
+     0.44,
+     0.845,
+     0.28
+    ],
+    [
+     0.45,
+     0.845,
+     0.278
+    ],
+    [
+     0.46,
+     0.833,
+     0.276
+    ],
+    [
+     0.47,
+     0.821,
+     0.274
+    ],
+    [
+     0.48,
+     0.798,
+     0.272
+    ],
+    [
+     0.49,
+     0.774,
+     0.271
+    ],
+    [
+     0.5,
+     0.75,
+     0.269
+    ],
+    [
+     0.51,
+     0.738,
+     0.268
+    ],
+    [
+     0.52,
+     0.726,
+     0.267
+    ],
+    [
+     0.53,
+     0.714,
+     0.266
+    ],
+    [
+     0.54,
+     0.726,
+     0.265
+    ],
+    [
+     0.55,
+     0.702,
+     0.264
+    ],
+    [
+     0.56,
+     0.691,
+     0.264
+    ],
+    [
+     0.57,
+     0.691,
+     0.263
+    ],
+    [
+     0.58,
+     0.691,
+     0.262
+    ],
+    [
+     0.59,
+     0.702,
+     0.262
+    ],
+    [
+     0.6,
+     0.702,
+     0.261
+    ],
+    [
+     0.61,
+     0.714,
+     0.261
+    ],
+    [
+     0.62,
+     0.714,
+     0.261
+    ],
+    [
+     0.63,
+     0.691,
+     0.26
+    ],
+    [
+     0.64,
+     0.679,
+     0.26
+    ],
+    [
+     0.65,
+     0.667,
+     0.26
+    ],
+    [
+     0.66,
+     0.655,
+     0.26
+    ],
+    [
+     0.67,
+     0.667,
+     0.26
+    ],
+    [
+     0.68,
+     0.667,
+     0.26
+    ],
+    [
+     0.69,
+     0.655,
+     0.26
+    ],
+    [
+     0.7,
+     0.643,
+     0.26
+    ],
+    [
+     0.71,
+     0.607,
+     0.26
+    ],
+    [
+     0.72,
+     0.583,
+     0.26
+    ],
+    [
+     0.73,
+     0.571,
+     0.261
+    ],
+    [
+     0.74,
+     0.512,
+     0.261
+    ],
+    [
+     0.75,
+     0.488,
+     0.261
+    ],
+    [
+     0.76,
+     0.488,
+     0.262
+    ],
+    [
+     0.77,
+     0.452,
+     0.262
+    ],
+    [
+     0.78,
+     0.417,
+     0.263
+    ],
+    [
+     0.79,
+     0.405,
+     0.263
+    ],
+    [
+     0.8,
+     0.417,
+     0.264
+    ],
+    [
+     0.81,
+     0.417,
+     0.265
+    ],
+    [
+     0.82,
+     0.405,
+     0.265
+    ],
+    [
+     0.83,
+     0.405,
+     0.266
+    ],
+    [
+     0.84,
+     0.381,
+     0.267
+    ],
+    [
+     0.85,
+     0.357,
+     0.268
+    ],
+    [
+     0.86,
+     0.333,
+     0.269
+    ],
+    [
+     0.87,
+     0.333,
+     0.27
+    ],
+    [
+     0.88,
+     0.321,
+     0.272
+    ],
+    [
+     0.89,
+     0.321,
+     0.273
+    ],
+    [
+     0.9,
+     0.321,
+     0.274
+    ],
+    [
+     0.91,
+     0.321,
+     0.275
+    ],
+    [
+     0.92,
+     0.321,
+     0.277
+    ],
+    [
+     0.93,
+     0.309,
+     0.278
+    ],
+    [
+     0.94,
+     0.309,
+     0.279
+    ],
+    [
+     0.95,
+     0.309,
+     0.28
+    ],
+    [
+     0.96,
+     0.309,
+     0.282
+    ],
+    [
+     0.97,
+     0.309,
+     0.283
+    ],
+    [
+     0.98,
+     0.309,
+     0.284
+    ],
+    [
+     0.99,
+     0.309,
+     0.285
+    ],
+    [
+     1,
+     0.309,
+     0.286
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 198,
+    "YT_SEARCH": 3,
+    "YT_OTHER_PAGE": 3,
+    "YT_CHANNEL": 1,
+    "NO_LINK_OTHER": 0
+   },
    "durationSec": 13,
-   "publicViews": "358",
+   "publicViews": "442",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -276,7 +1305,8 @@
     "publicStatsViewable": true,
     "uploadStatus": "processed",
     "ytRating": null
-   }
+   },
+   "engagedShare": 0.41
   },
   {
    "id": "ixo369QcvVk",
@@ -300,519 +1330,520 @@
    "id": "-FHIjux26Rg",
    "title": "4 Food Questions Almost Everyone Gets Wrong 🍍 #shorts",
    "published": "2026-10-30T20:00:25Z",
-   "views": 62,
-   "engagedViews": 45,
-   "averageViewDuration": 16,
-   "averageViewPercentage": 38.42,
-   "likes": 2,
+   "views": 126,
+   "engagedViews": 79,
+   "averageViewDuration": 37,
+   "averageViewPercentage": 87.4,
+   "likes": 7,
    "comments": 0,
    "subscribersGained": 0,
    "retention": [
     [
      0.01,
-     1.044,
-     0.28
+     1.519,
+     0.63
     ],
     [
      0.02,
-     1.022,
-     0.241
+     1.494,
+     0.594
     ],
     [
      0.03,
-     1.022,
-     0.204
+     1.494,
+     0.561
     ],
     [
      0.04,
-     1.022,
-     0.174
+     1.494,
+     0.535
     ],
     [
      0.05,
-     1.022,
-     0.151
+     1.468,
+     0.517
     ],
     [
      0.06,
-     1.022,
-     0.136
+     1.468,
+     0.507
     ],
     [
      0.07,
-     1.022,
-     0.126
+     1.468,
+     0.502
     ],
     [
      0.08,
-     1,
-     0.119
+     1.456,
+     0.5
     ],
     [
      0.09,
-     1,
-     0.114
+     1.456,
+     0.5
     ],
     [
      0.1,
-     1,
-     0.11
+     1.443,
+     0.499
     ],
     [
      0.11,
-     1,
-     0.107
+     1.405,
+     0.499
     ],
     [
      0.12,
-     1,
-     0.104
+     1.405,
+     0.499
     ],
     [
      0.13,
-     1,
-     0.102
+     1.392,
+     0.499
     ],
     [
      0.14,
-     0.956,
-     0.101
+     1.354,
+     0.499
     ],
     [
      0.15,
-     0.956,
-     0.1
+     1.354,
+     0.499
     ],
     [
      0.16,
-     0.889,
-     0.1
+     1.304,
+     0.499
     ],
     [
      0.17,
-     0.8,
-     0.099
+     1.202,
+     0.499
     ],
     [
      0.18,
-     0.689,
-     0.099
+     1.139,
+     0.499
     ],
     [
      0.19,
-     0.622,
-     0.099
+     1.089,
+     0.499
     ],
     [
      0.2,
-     0.6,
-     0.098
+     1.076,
+     0.499
     ],
     [
      0.21,
-     0.578,
-     0.097
+     1.013,
+     0.499
     ],
     [
      0.22,
-     0.489,
-     0.096
+     0.949,
+     0.499
     ],
     [
      0.23,
-     0.444,
-     0.094
+     0.924,
+     0.499
     ],
     [
      0.24,
-     0.4,
-     0.09
+     0.899,
+     0.499
     ],
     [
      0.25,
-     0.4,
-     0.087
+     0.886,
+     0.499
     ],
     [
      0.26,
-     0.4,
-     0.083
+     0.886,
+     0.499
     ],
     [
      0.27,
-     0.4,
-     0.08
+     0.886,
+     0.499
     ],
     [
      0.28,
-     0.4,
-     0.077
+     0.886,
+     0.499
     ],
     [
      0.29,
-     0.4,
-     0.075
+     0.886,
+     0.499
     ],
     [
      0.3,
-     0.378,
-     0.073
+     0.873,
+     0.5
     ],
     [
      0.31,
-     0.378,
-     0.07
+     0.873,
+     0.5
     ],
     [
      0.32,
-     0.356,
-     0.067
+     0.861,
+     0.5
     ],
     [
      0.33,
-     0.356,
-     0.063
+     0.861,
+     0.5
     ],
     [
      0.34,
-     0.356,
-     0.059
+     0.848,
+     0.5
     ],
     [
      0.35,
-     0.356,
-     0.056
+     0.848,
+     0.5
     ],
     [
      0.36,
-     0.356,
-     0.053
+     0.848,
+     0.5
     ],
     [
      0.37,
-     0.333,
-     0.051
+     0.835,
+     0.5
     ],
     [
      0.38,
-     0.333,
-     0.05
+     0.835,
+     0.501
     ],
     [
      0.39,
-     0.333,
-     0.049
+     0.835,
+     0.501
     ],
     [
      0.4,
-     0.333,
-     0.049
+     0.823,
+     0.502
     ],
     [
      0.41,
-     0.333,
-     0.049
+     0.823,
+     0.504
     ],
     [
      0.42,
-     0.311,
-     0.049
+     0.81,
+     0.506
     ],
     [
      0.43,
-     0.311,
-     0.049
+     0.81,
+     0.508
     ],
     [
      0.44,
-     0.311,
-     0.05
+     0.81,
+     0.511
     ],
     [
      0.45,
-     0.311,
-     0.05
+     0.81,
+     0.514
     ],
     [
      0.46,
-     0.267,
-     0.05
+     0.785,
+     0.517
     ],
     [
      0.47,
-     0.267,
-     0.052
+     0.785,
+     0.52
     ],
     [
      0.48,
-     0.244,
-     0.053
+     0.772,
+     0.524
     ],
     [
      0.49,
-     0.244,
-     0.055
+     0.772,
+     0.528
     ],
     [
      0.5,
-     0.244,
-     0.057
+     0.772,
+     0.532
     ],
     [
      0.51,
-     0.244,
-     0.06
+     0.772,
+     0.537
     ],
     [
      0.52,
-     0.244,
-     0.062
+     0.772,
+     0.543
     ],
     [
      0.53,
-     0.244,
-     0.064
+     0.772,
+     0.548
     ],
     [
      0.54,
-     0.244,
-     0.066
+     0.772,
+     0.554
     ],
     [
      0.55,
-     0.244,
-     0.069
+     0.772,
+     0.561
     ],
     [
      0.56,
-     0.244,
-     0.071
+     0.772,
+     0.567
     ],
     [
      0.57,
-     0.244,
-     0.075
+     0.772,
+     0.574
     ],
     [
      0.58,
-     0.244,
-     0.078
+     0.772,
+     0.582
     ],
     [
      0.59,
-     0.244,
-     0.082
+     0.772,
+     0.589
     ],
     [
      0.6,
-     0.222,
-     0.086
+     0.76,
+     0.597
     ],
     [
      0.61,
-     0.222,
-     0.09
+     0.76,
+     0.604
     ],
     [
      0.62,
-     0.222,
-     0.095
+     0.76,
+     0.612
     ],
     [
      0.63,
-     0.222,
-     0.1
+     0.76,
+     0.62
     ],
     [
      0.64,
-     0.222,
-     0.106
+     0.76,
+     0.628
     ],
     [
      0.65,
-     0.222,
-     0.112
+     0.76,
+     0.635
     ],
     [
      0.66,
-     0.222,
-     0.118
+     0.76,
+     0.643
     ],
     [
      0.67,
-     0.222,
-     0.124
+     0.747,
+     0.65
     ],
     [
      0.68,
-     0.222,
-     0.131
+     0.747,
+     0.657
     ],
     [
      0.69,
-     0.222,
-     0.138
+     0.747,
+     0.664
     ],
     [
      0.7,
-     0.222,
-     0.145
+     0.734,
+     0.671
     ],
     [
      0.71,
-     0.222,
-     0.153
+     0.734,
+     0.677
     ],
     [
      0.72,
-     0.2,
-     0.16
+     0.722,
+     0.683
     ],
     [
      0.73,
-     0.2,
-     0.168
+     0.722,
+     0.689
     ],
     [
      0.74,
-     0.2,
-     0.176
+     0.722,
+     0.695
     ],
     [
      0.75,
-     0.2,
-     0.185
+     0.722,
+     0.699
     ],
     [
      0.76,
-     0.2,
-     0.192
+     0.722,
+     0.704
     ],
     [
      0.77,
-     0.2,
-     0.2
+     0.722,
+     0.707
     ],
     [
      0.78,
-     0.2,
-     0.207
+     0.722,
+     0.709
     ],
     [
      0.79,
-     0.2,
-     0.213
+     0.722,
+     0.711
     ],
     [
      0.8,
-     0.2,
-     0.218
+     0.722,
+     0.713
     ],
     [
      0.81,
-     0.2,
-     0.222
+     0.722,
+     0.713
     ],
     [
      0.82,
-     0.2,
-     0.225
+     0.722,
+     0.713
     ],
     [
      0.83,
-     0.2,
-     0.228
+     0.722,
+     0.713
     ],
     [
      0.84,
-     0.2,
-     0.23
+     0.722,
+     0.712
     ],
     [
      0.85,
-     0.2,
-     0.231
+     0.722,
+     0.711
     ],
     [
      0.86,
-     0.2,
-     0.232
+     0.722,
+     0.71
     ],
     [
      0.87,
-     0.2,
-     0.232
+     0.722,
+     0.709
     ],
     [
      0.88,
-     0.2,
-     0.232
+     0.709,
+     0.707
     ],
     [
      0.89,
-     0.178,
-     0.231
+     0.696,
+     0.706
     ],
     [
      0.9,
-     0.178,
-     0.231
+     0.683,
+     0.704
     ],
     [
      0.91,
-     0.156,
-     0.23
+     0.658,
+     0.702
     ],
     [
      0.92,
-     0.156,
-     0.229
+     0.658,
+     0.7
     ],
     [
      0.93,
-     0.156,
-     0.228
+     0.658,
+     0.698
     ],
     [
      0.94,
-     0.133,
-     0.226
+     0.646,
+     0.696
     ],
     [
      0.95,
-     0.111,
-     0.225
+     0.62,
+     0.695
     ],
     [
      0.96,
-     0.089,
-     0.223
+     0.595,
+     0.693
     ],
     [
      0.97,
-     0.089,
-     0.221
+     0.595,
+     0.691
     ],
     [
      0.98,
-     0.089,
-     0.22
+     0.582,
+     0.689
     ],
     [
      0.99,
-     0.089,
-     0.218
+     0.582,
+     0.687
     ],
     [
      1,
-     0.089,
-     0.217
+     0.582,
+     0.686
     ]
    ],
    "trafficSources": {
-    "SHORTS": 62,
+    "SHORTS": 124,
+    "YT_SEARCH": 2,
     "NO_LINK_OTHER": 0,
-    "YT_SEARCH": 0
+    "YT_CHANNEL": 0
    },
    "durationSec": 43,
    "publicViews": "182",
@@ -825,22 +1856,24 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.726
+   "engagedShare": 0.627
   },
   {
    "id": "0Lqj4vVUHyM",
    "title": "How Long Does a Sloth Take to Digest One Meal? 🦥🤯 #shorts",
    "published": "2026-10-30T15:00:10Z",
-   "views": 93,
-   "engagedViews": 32,
+   "views": 149,
+   "engagedViews": 62,
    "averageViewDuration": 10,
-   "averageViewPercentage": 72.13,
-   "likes": 3,
+   "averageViewPercentage": 77.24,
+   "likes": 7,
    "comments": 0,
    "subscribersGained": 1,
    "trafficSources": {
-    "SHORTS": 93,
-    "NO_LINK_OTHER": 0
+    "SHORTS": 149,
+    "NO_LINK_OTHER": 0,
+    "YT_CHANNEL": 0,
+    "YT_SEARCH": 0
    },
    "durationSec": 14,
    "publicViews": "167",
@@ -853,7 +1886,7 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.344
+   "engagedShare": 0.416
   },
   {
    "id": "brCR2MyeQr0",
@@ -887,17 +1920,18 @@
    "id": "CyvjgIYgGs4",
    "title": "Can You Answer This Quiz Question? 🤯 #2 #shorts",
    "published": "2026-10-29T20:00:20Z",
-   "views": 172,
-   "engagedViews": 58,
+   "views": 193,
+   "engagedViews": 68,
    "averageViewDuration": 14,
-   "averageViewPercentage": 94.69,
-   "likes": 6,
+   "averageViewPercentage": 94.77,
+   "likes": 8,
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 171,
+    "SHORTS": 192,
     "YT_OTHER_PAGE": 1,
-    "NO_LINK_OTHER": 0
+    "NO_LINK_OTHER": 0,
+    "YT_SEARCH": 0
    },
    "durationSec": 15,
    "publicViews": "194",
@@ -910,7 +1944,7 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.337
+   "engagedShare": 0.352
   },
   {
    "id": "U8i53jbut9U",
@@ -943,15 +1977,15 @@
    "id": "bG67Q6LHIiw",
    "title": "Can You Answer This Quiz Question? 🤯 #1 #shorts",
    "published": "2026-10-29T18:04:15Z",
-   "views": 292,
-   "engagedViews": 100,
-   "averageViewDuration": 21,
-   "averageViewPercentage": 305.47,
+   "views": 316,
+   "engagedViews": 109,
+   "averageViewDuration": 20,
+   "averageViewPercentage": 290.59,
    "likes": 5,
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 291,
+    "SHORTS": 319,
     "YT_OTHER_PAGE": 1,
     "NO_LINK_OTHER": 0
    },
@@ -966,21 +2000,21 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.342
+   "engagedShare": 0.345
   },
   {
    "id": "ncpoW2HLpI0",
    "title": "Can You Answer This Quiz Question? 🤯 #1 #shorts",
    "published": "2026-10-28T15:00:25Z",
-   "views": 603,
-   "engagedViews": 232,
+   "views": 612,
+   "engagedViews": 235,
    "averageViewDuration": 9,
-   "averageViewPercentage": 122.57000000000001,
-   "likes": 25,
+   "averageViewPercentage": 122.17,
+   "likes": 28,
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 8,
-   "publicViews": "614",
+   "publicViews": "615",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -990,7 +2024,7 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.385
+   "engagedShare": 0.384
   },
   {
    "id": "zZDclzxCTSg",
@@ -1004,7 +2038,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 674,
-   "publicViews": "13",
+   "publicViews": "14",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1020,10 +2054,10 @@
    "id": "RN2bewj8MMg",
    "title": "Can You Answer This Quiz Question? 🤯 #2 #shorts",
    "published": "2026-10-27T20:43:10Z",
-   "views": 1150,
-   "engagedViews": 437,
+   "views": 1160,
+   "engagedViews": 442,
    "averageViewDuration": 10,
-   "averageViewPercentage": 116.38999999999999,
+   "averageViewPercentage": 116.53999999999999,
    "likes": 29,
    "comments": 0,
    "subscribersGained": 0,
@@ -1038,16 +2072,16 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.38
+   "engagedShare": 0.381
   },
   {
    "id": "9XXjtsGD6GA",
    "title": "Can You Answer: What is the smallest prime number? 🤯 #shorts",
    "published": "2026-10-27T20:22:25Z",
-   "views": 1203,
-   "engagedViews": 530,
+   "views": 1206,
+   "engagedViews": 531,
    "averageViewDuration": 13,
-   "averageViewPercentage": 103.32999999999998,
+   "averageViewPercentage": 103.39,
    "likes": 33,
    "comments": 0,
    "subscribersGained": 0,
@@ -1062,7 +2096,7 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.441
+   "engagedShare": 0.44
   },
   {
    "id": "JzX5tY6R9Dw",
@@ -1420,15 +2454,15 @@
    "id": "faqivgeR7fw",
    "title": "General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions",
    "published": "2026-10-22T12:00:29Z",
-   "views": 22,
-   "engagedViews": 17,
-   "averageViewDuration": 165,
-   "averageViewPercentage": 36.36,
+   "views": 24,
+   "engagedViews": 19,
+   "averageViewDuration": 174,
+   "averageViewPercentage": 38.25,
    "likes": 0,
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 455,
-   "publicViews": "24",
+   "publicViews": "26",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1438,21 +2472,21 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.773
+   "engagedShare": 0.792
   },
   {
    "id": "73pAHN8YcDs",
    "title": "Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions",
    "published": "2026-10-21T12:00:17Z",
-   "views": 46,
-   "engagedViews": 32,
-   "averageViewDuration": 98,
-   "averageViewPercentage": 25.619999999999997,
+   "views": 47,
+   "engagedViews": 33,
+   "averageViewDuration": 95,
+   "averageViewPercentage": 24.9,
    "likes": 0,
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 384,
-   "publicViews": "47",
+   "publicViews": "48",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1462,7 +2496,7 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.696
+   "engagedShare": 0.702
   },
   {
    "id": "fkrNaaz-gZE",
@@ -1500,7 +2534,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 367,
-   "publicViews": "58",
+   "publicViews": "59",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1572,15 +2606,15 @@
    "id": "Feubf7dVX7Y",
    "title": "Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend",
    "published": "2026-10-19T18:58:44Z",
-   "views": 182,
-   "engagedViews": 72,
-   "averageViewDuration": 100,
-   "averageViewPercentage": 25.239999999999995,
+   "views": 183,
+   "engagedViews": 73,
+   "averageViewDuration": 101,
+   "averageViewPercentage": 25.3,
    "likes": 1,
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 400,
-   "publicViews": "184",
+   "publicViews": "185",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1590,7 +2624,7 @@
     "uploadStatus": "processed",
     "ytRating": null
    },
-   "engagedShare": 0.396
+   "engagedShare": 0.399
   },
   {
    "id": "aBw0DS0IqYE",

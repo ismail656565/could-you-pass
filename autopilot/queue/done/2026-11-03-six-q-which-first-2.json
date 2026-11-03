@@ -1,0 +1,187 @@
+{
+ "id": "six-q-which-first-2",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "lines": [
+  {
+   "q": "Which came first: the Eiffel Tower, Coca-Cola, Sherlock Holmes or the zipper?",
+   "a": "Coca-Cola, in eighteen eighty six! Three years before the Eiffel Tower."
+  },
+  {
+   "q": "Which is older?",
+   "a": "Stonehenge! Its first stage was dug centuries before the Great Pyramid."
+  },
+  {
+   "q": "Which was invented first?",
+   "a": "The microwave oven! It started as radar tech in the nineteen forties."
+  },
+  {
+   "q": "Which happened first?",
+   "a": "The Mayflower, in sixteen twenty! The Taj Mahal was started twelve years later."
+  },
+  {
+   "q": "Which launched first?",
+   "a": "Facebook, in two thousand four! YouTube came a year later."
+  },
+  {
+   "q": "Last one. Which came first?",
+   "a": "Sliced bread, in nineteen twenty eight! Pluto wasn't even discovered yet. Think you got all six? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Which Came First? Round 2 – 6 Questions 🤯 #shorts",
+  "description": "Which is older? 6 \"which came first\" questions that trick almost everyone 🤯 Did the last one get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #whichcamefirst #historyquiz #generalknowledge #shorts\n\nFootage via Wikimedia Commons: Jerusalem Old City Walking to the Western Wall 4K – YeshuaAgapao (CC BY 3.0); Sunrise on storms over the Gulf of Mexico (CIRA 2019-04-26) – GOES imagery: CSU/CIRA &amp; NOAA (Public domain); WP25 Anthem video – Wikimedia Foundation. Full credits list available in the col (CC BY-SA 4.0); Benchmark SuperTux Kart Base Profile 2025.07.04 - 10.19.10.02 – SuperTux Kart-Autoren (CC BY-SA 4.0); United Foundation of Metropolitan Detroit - City of Neighbors Give Onc – United Foundation of Metropolitan Detroit (Public domain); NASA's Black Marble- Stories from the Night Sky (SVS14872 - 25 07 BLAC – NASA's Scientific Visualization Studio - eMITS/Emme Watkins, (Public domain)\nMusic: original.",
+  "tags": [
+   "which came first",
+   "which came first quiz",
+   "history quiz",
+   "trivia quiz",
+   "general knowledge quiz",
+   "quiz",
+   "timeline quiz",
+   "shorts"
+  ],
+  "comment": "Sliced bread before Pluto 🍞🪐 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Which Came First?",
+  "header": "WHICH CAME FIRST?",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "FIRST!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which came **first**?",
+    "answers": [
+     "Eiffel Tower",
+     "Coca-Cola",
+     "Sherlock Holmes",
+     "The zipper"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🥤",
+    "broll": "old city street",
+    "start": 0.0,
+    "countdownStart": 4.082,
+    "reveal": 6.582,
+    "end": 11.218,
+    "video": "broll/six-q-which-first-2-0.mp4"
+   },
+   {
+    "q": "Which is **older**?",
+    "answers": [
+     "Great Pyramid",
+     "Colosseum",
+     "Stonehenge",
+     "Great Wall"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🪨",
+    "broll": "sunrise over field",
+    "start": 11.218,
+    "countdownStart": 12.421,
+    "reveal": 14.921,
+    "end": 19.438,
+    "video": "broll/six-q-which-first-2-1.mp4"
+   },
+   {
+    "q": "Which was invented **first**?",
+    "answers": [
+     "Credit card",
+     "Barbie doll",
+     "Hula hoop",
+     "Microwave oven"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🔌",
+    "broll": "vintage living room",
+    "start": 19.438,
+    "countdownStart": 21.175,
+    "reveal": 23.675,
+    "end": 28.454,
+    "video": "broll/six-q-which-first-2-2.mp4"
+   },
+   {
+    "q": "Which happened **first**?",
+    "answers": [
+     "Mayflower voyage",
+     "Taj Mahal begun",
+     "Newton born",
+     "Great Fire of London"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "⛵",
+    "broll": "old map candle",
+    "start": 28.454,
+    "countdownStart": 29.854,
+    "reveal": 32.354,
+    "end": 37.604,
+    "video": "broll/six-q-which-first-2-3.mp4"
+   },
+   {
+    "q": "Which launched **first**?",
+    "answers": [
+     "YouTube",
+     "Facebook",
+     "iPhone",
+     "Google Maps"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "📱",
+    "broll": "city crowd walking",
+    "start": 37.604,
+    "countdownStart": 39.001,
+    "reveal": 41.501,
+    "end": 45.601,
+    "video": "broll/six-q-which-first-2-4.mp4"
+   },
+   {
+    "q": "Which came **first**?",
+    "answers": [
+     "Pluto discovered",
+     "Sliced bread",
+     "Monopoly",
+     "Empire State Building"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🍞",
+    "broll": "telescope night sky",
+    "start": 45.601,
+    "countdownStart": 47.351,
+    "reveal": 49.851,
+    "end": 56.096,
+    "video": "broll/six-q-which-first-2-5.mp4"
+   }
+  ],
+  "audio": "audio/six-q-which-first-2.mp3",
+  "outroStart": 56.096,
+  "durationInSeconds": 56.096
+ },
+ "scheduledFor": "2026-11-03T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "Nz7lPovZA10",
+  "at": "2026-11-03T06:30"
+ },
+ "linkedLong": "rwbfV7G7Vpo"
+}

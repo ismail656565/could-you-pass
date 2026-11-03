@@ -923,3 +923,58 @@
 [2026-11-02 16:21:22] one-q-closest-sun: Kommentar gepostet
 [2026-11-02 16:21:22] vs-animals-faster-1: noch nicht öffentlich – Kommentar später
 [2026-11-02 21:02:29] vs-animals-faster-1: Kommentar gepostet
+[2026-11-03 06:21:12] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-03 06:21:12] Analytics gespeichert (56 Videos)
+[2026-11-03 06:21:13] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-03 06:21:13] Thumbnail-Test iq-check-40-1: Variante C → {'views': 5, 'ctr': 1.25, 'metric': 'views/day'}
+[2026-11-03 06:21:15] Thumbnail-Test iq-check-40-1: jetzt Variante A (Gewinner)
+[2026-11-03 06:21:15] Thumbnail-Test citizenship-test-50-1: Variante B → {'views': 1, 'ctr': 0.25, 'metric': 'views/day'}
+[2026-11-03 06:21:17] Thumbnail-Test citizenship-test-50-1: jetzt Variante C
+[2026-11-03 06:21:17] Thumbnail-Test animal-quiz-50-1: Variante A → {'views': 2, 'ctr': 0.5, 'metric': 'views/day'}
+[2026-11-03 06:21:19] Thumbnail-Test animal-quiz-50-1: jetzt Variante B
+[2026-11-03 06:21:19] Produziere six-q-which-first-2 (short)
+[2026-11-03 06:21:19] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-03 06:21:58] Ton fertig: 56.1 s
+[2026-11-03 06:22:14] B-Roll Frage 1 ("old city street"): Jerusalem Old City Walking to the Western Wall 4K.webm
+[2026-11-03 06:22:22] B-Roll Frage 2 ("sunrise over field"): Sunrise on storms over the Gulf of Mexico (CIRA 2019-04-26).
+[2026-11-03 06:22:29] B-Roll Frage 3 ("vintage living room"): WP25 Anthem video.webm
+[2026-11-03 06:22:35] B-Roll Frage 4 ("old map candle"): Benchmark SuperTux Kart Base Profile 2025.07.04 - 10.19.10.0
+[2026-11-03 06:22:44] B-Roll Frage 5 ("city crowd walking"): United Foundation of Metropolitan Detroit - City of Neighbor
+[2026-11-03 06:22:49] B-Roll Frage 6 ("telescope night sky"): NASA's Black Marble- Stories from the Night Sky (SVS14872 - 
+[2026-11-03 06:30:10] Gerendert
+[2026-11-03 06:30:13] Hochgeladen: https://youtube.com/watch?v=Nz7lPovZA10 (private)
+[2026-11-03 06:30:14] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-03 06:30:14] Geplant für 03.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-03 06:30:14] Produziere trap-4-history-humble (short)
+[2026-11-03 06:30:14] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-03 06:30:41] Ton fertig: 39.2 s
+[2026-11-03 06:30:47] B-Roll Frage 1 ("ancient ruins columns"): Німфеум Адріана 11.webm
+[2026-11-03 06:30:47] B-Roll Frage 2 ("runners stadium track"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-03 06:30:48] B-Roll Frage 3 ("castle gate guards"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-03 06:30:54] B-Roll Frage 4 ("london street traffic"): Traffic Light Tree from southeast in June 2014 2.ogv
+[2026-11-03 06:34:47] Gerendert
+[2026-11-03 06:34:50] Hochgeladen: https://youtube.com/watch?v=-5vGx-rtRTw (private)
+[2026-11-03 06:34:50] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-03 06:34:50] Geplant für 03.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-03 06:34:50] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-03 06:34:50] Produziere geography-quiz-50-1 (long)
+[2026-11-03 06:34:50] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-03 06:40:13] Ton fertig: 648.2 s
+[2026-11-03 06:40:25] B-Roll Frage 2 ("city street cafe"): Timelapse of No Kings 3 march in NYC.webm
+[2026-11-03 06:40:34] B-Roll Frage 11 ("city skyline evening"): Time-lapse of New York City skyline July 2023.webm
+[2026-11-03 06:40:46] B-Roll Frage 12 ("green hills countryside"): Day on a farm in SLOVENIA. Slow Life & Happy Animals. ASMR s
+[2026-11-03 06:40:55] B-Roll Frage 21 ("mountain range clouds"): Chorla ghat sep 2020.ogv
+[2026-11-03 06:40:55] B-Roll Frage 22 ("llama grazing"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-03 06:41:04] B-Roll Frage 31 ("old town harbor"): 4K Drone Flight over Ephraim Harbor to see the Fall Colors -
+[2026-11-03 06:41:05] B-Roll Frage 32 ("giraffe savanna"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-03 06:41:16] B-Roll Frage 41 ("african village market"): Preparation-du-pain-sale-realisatrice-edith-ndah-wiki-loves-
+[2026-11-03 06:41:25] B-Roll Frage 42 ("snowy mountains wind"): Wooly Mammoth by OpenAI Sora.webm
+[2026-11-03 07:38:56] Gerendert
+[2026-11-03 07:39:14] Hochgeladen: https://youtube.com/watch?v=rwbfV7G7Vpo (private)
+[2026-11-03 07:39:18] Vorschaubild gesetzt
+[2026-11-03 07:39:19] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-11-03 07:39:19] Geplant für 03.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-03 07:39:19] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-03 07:39:20] Short-Beschreibung (six-q-which-first-2) verlinkt auf langes Video rwbfV7G7Vpo
+[2026-11-03 07:39:20] Short-Beschreibung (trap-4-history-humble) verlinkt auf langes Video rwbfV7G7Vpo
+[2026-11-03 07:39:30] Konkurrenz: 25 Kanäle, 136 Gewinner-Videos

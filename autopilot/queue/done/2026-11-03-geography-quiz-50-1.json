@@ -1,0 +1,1098 @@
+{
+ "id": "geography-quiz-50-1",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Fifty geography questions, from easy to legend, and they get harder every round. Keep score! First one: which country is shaped like a boot?",
+   "a": "Italy! And Sicily is the ball it's kicking."
+  },
+  {
+   "q": "In which city will you find the Eiffel Tower?",
+   "a": "Paris! It was built for the World's Fair in eighteen eighty nine."
+  },
+  {
+   "q": "On which continent is Egypt?",
+   "a": "Africa! Although a small corner of it, the Sinai, reaches into Asia."
+  },
+  {
+   "q": "What is the capital of Germany?",
+   "a": "Berlin! It has more bridges than Venice."
+  },
+  {
+   "q": "Easy so far? Which country has a maple leaf on its flag?",
+   "a": "Canada! That flag only became official in nineteen sixty five."
+  },
+  {
+   "q": "Which river flows through London?",
+   "a": "The Thames! The Seine is the one in Paris."
+  },
+  {
+   "q": "Kangaroos live in the wild on which continent?",
+   "a": "Australia! A group of kangaroos is called a mob."
+  },
+  {
+   "q": "What is the capital of Russia?",
+   "a": "Moscow! Saint Petersburg was the capital for about two hundred years, though."
+  },
+  {
+   "q": "In which country is Mount Fuji?",
+   "a": "Japan! It's actually an active volcano."
+  },
+  {
+   "q": "Last one of round one. Which US state is made up entirely of islands?",
+   "a": "Hawaii! It's the only state outside North America."
+  },
+  {
+   "q": "Round two: medium, and it gets harder now. What is the capital of South Korea?",
+   "a": "Seoul! Pyongyang is the capital of North Korea."
+  },
+  {
+   "q": "What is the capital of Ireland?",
+   "a": "Dublin! Belfast is the capital of Northern Ireland, part of the UK."
+  },
+  {
+   "q": "Which Italian city is famous for its gondolas?",
+   "a": "Venice! The city is built on more than a hundred small islands."
+  },
+  {
+   "q": "Turkey lies on which two continents?",
+   "a": "Europe and Asia! Istanbul sits on both sides of the Bosphorus."
+  },
+  {
+   "q": "Nice going! What is the capital of Argentina?",
+   "a": "Buenos Aires! The name means good winds."
+  },
+  {
+   "q": "Marrakesh is a city in which country?",
+   "a": "Morocco! But the capital is Rabat, not Marrakesh."
+  },
+  {
+   "q": "Which is the largest country in the world by area?",
+   "a": "Russia! It covers more than a tenth of all the land on Earth."
+  },
+  {
+   "q": "The Panama Canal links the Atlantic to which ocean?",
+   "a": "The Pacific! Ships save thousands of miles instead of sailing around South America."
+  },
+  {
+   "q": "Madagascar lies in which ocean?",
+   "a": "The Indian Ocean! Most of its animals live nowhere else on Earth."
+  },
+  {
+   "q": "The United States shares the world's longest border between two countries with which country?",
+   "a": "Canada! Almost nine thousand kilometers long."
+  },
+  {
+   "q": "Round three: hard. Ready? What is the longest mountain range on land?",
+   "a": "The Andes! About seven thousand kilometers down South America."
+  },
+  {
+   "q": "Which of these South American countries is landlocked?",
+   "a": "Bolivia! Paraguay is the only other one on the continent."
+  },
+  {
+   "q": "Which is the longest river in the United States?",
+   "a": "The Missouri! It beats the Mississippi by just a tiny margin. Did that get you?"
+  },
+  {
+   "q": "Which strait separates Europe and Africa?",
+   "a": "The Strait of Gibraltar! At its narrowest it's only about fourteen kilometers wide."
+  },
+  {
+   "q": "Angel Falls, the tallest waterfall on Earth, is in which country?",
+   "a": "Venezuela! The water drops nearly a kilometer. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "The Atacama, one of the driest places on Earth, is mostly in which country?",
+   "a": "Chile! Some weather stations there have never recorded rain."
+  },
+  {
+   "q": "The Danube flows into which sea?",
+   "a": "The Black Sea! On the way, it passes through four capital cities."
+  },
+  {
+   "q": "Halfway through round three! The Gobi Desert covers parts of China and which country?",
+   "a": "Mongolia! And it gets snow in winter."
+  },
+  {
+   "q": "Where is the lowest point on dry land?",
+   "a": "The shore of the Dead Sea! More than four hundred meters below sea level."
+  },
+  {
+   "q": "Which river forms much of the border between the United States and Mexico?",
+   "a": "The Rio Grande! In Mexico, it's called the Río Bravo."
+  },
+  {
+   "q": "Round four: very hard. This is where scores drop. What is the capital of Croatia?",
+   "a": "Zagreb! Ljubljana is Slovenia and Belgrade is Serbia."
+  },
+  {
+   "q": "What is the capital of Kenya?",
+   "a": "Nairobi! It even has a national park right inside the city."
+  },
+  {
+   "q": "Which major river crosses the equator twice?",
+   "a": "The Congo! It's also the deepest river in the world."
+  },
+  {
+   "q": "What is the capital of Bhutan?",
+   "a": "Thimphu! It's one of the few capitals without a single traffic light."
+  },
+  {
+   "q": "Still with me? Timbuktu is a real city. In which country?",
+   "a": "Mali! It was a famous center of learning in the fifteenth century."
+  },
+  {
+   "q": "The Caspian Sea is really the world's largest what?",
+   "a": "Lake! It has no connection to the ocean, but its water is slightly salty."
+  },
+  {
+   "q": "What is the capital of Myanmar?",
+   "a": "Naypyidaw! Yangon, the old capital, is still its biggest city."
+  },
+  {
+   "q": "Which country was once called Abyssinia?",
+   "a": "Ethiopia! It's also where coffee is said to have been discovered."
+  },
+  {
+   "q": "What was Sri Lanka called until nineteen seventy two?",
+   "a": "Ceylon! That's why you still see Ceylon tea in the shops."
+  },
+  {
+   "q": "What is the smallest country in South America?",
+   "a": "Suriname! And its official language is Dutch."
+  },
+  {
+   "q": "Final round: legend level. Only real geography pros survive this. What is the capital of Burkina Faso?",
+   "a": "Ouagadougou! Locals just call it Ouaga."
+  },
+  {
+   "q": "Which is the driest continent on Earth?",
+   "a": "Antarctica! Its high interior gets only about two inches of snow a year."
+  },
+  {
+   "q": "Lesotho is completely surrounded by which country?",
+   "a": "South Africa! It's one of only three countries fully inside another."
+  },
+  {
+   "q": "What is the largest landlocked country in the world?",
+   "a": "Kazakhstan! It's the ninth largest country on Earth."
+  },
+  {
+   "q": "Which is the southernmost capital city in the world?",
+   "a": "Wellington, in New Zealand! It's also one of the windiest."
+  },
+  {
+   "q": "Which of these countries is doubly landlocked, surrounded only by landlocked countries?",
+   "a": "Liechtenstein! Uzbekistan is the only other one."
+  },
+  {
+   "q": "Three left, stay with me! Which is the largest island in the Mediterranean?",
+   "a": "Sicily! It's home to Etna, the tallest active volcano in Europe."
+  },
+  {
+   "q": "In which country does the Mekong River begin?",
+   "a": "China! High up on the Tibetan Plateau."
+  },
+  {
+   "q": "Greenland is part of which kingdom?",
+   "a": "Denmark! But Greenland governs most of its own affairs."
+  },
+  {
+   "q": "Final question. Which is the northernmost of these capitals: Reykjavík, Oslo, Helsinki or Stockholm?",
+   "a": "Reykjavík! The northernmost capital of any country. On winter days, the sun shines for only about four hours."
+  }
+ ],
+ "youtube": {
+  "title": "Geography Quiz: 50 Questions From Easy to Legend 🌍",
+  "description": "50 geography questions, from easy capitals to legend-level map facts 🌍 Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeographyQuiz #Geography #CapitalsQuiz #TriviaQuiz #Quiz #GeneralKnowledge\n\nPhotos via Wikimedia Commons: Flag of Brazil (public domain)\nFootage via Wikimedia Commons: Timelapse of No Kings 3 march in NYC – Hyraemous (CC BY-SA 4.0); Time-lapse of New York City skyline July 2023 – David Schwab (CC BY 3.0); Day on a farm in SLOVENIA. Slow Life & Happy Animals. ASMR sound, coup – Peaceful Camp Vlog (CC BY 3.0); Chorla ghat sep 2020 – Vikram2784 (CC0); 4K Drone Flight over Ephraim Harbor to see the Fall Colors - Door Coun – Travel Smart Seniors (CC BY 3.0); Preparation-du-pain-sale-realisatrice-edith-ndah-wiki-loves-africa-cot – Mahebie22 (CC BY-SA 4.0); Wooly Mammoth by OpenAI Sora – Sora / OpenAI (Public domain)\nMusic: original.",
+  "tags": [
+   "geography quiz",
+   "geography trivia",
+   "capital cities quiz",
+   "world geography quiz",
+   "geography quiz hard",
+   "trivia quiz",
+   "50 question quiz",
+   "general knowledge quiz",
+   "quiz for adults"
+  ],
+  "categoryId": "27",
+  "comment": "How many did you get out of 50? 🌍 Which one caught you out – the Missouri or the Caspian? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Geography Quiz",
+  "header": "GEOGRAPHY QUIZ",
+  "hook": "CAN YOU GET 40/50? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "GEOGRAPHY **QUIZ**",
+   "CAN YOU GET **40/50**?",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🌍",
+  "thumbBadge": "50 Q · EASY → LEGEND",
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "thumbImage": "bilder/cap-flag-brazil.jpg",
+  "questions": [
+   {
+    "q": "Which country is shaped like a **boot**?",
+    "answers": [
+     "Spain",
+     "Italy",
+     "Greece",
+     "Portugal"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "👢",
+    "start": 0.0,
+    "countdownStart": 8.231,
+    "reveal": 13.231,
+    "end": 16.807
+   },
+   {
+    "q": "In which city is the **Eiffel Tower**?",
+    "answers": [
+     "Lyon",
+     "Brussels",
+     "Paris",
+     "Monaco"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🗼",
+    "broll": "city street cafe",
+    "start": 16.807,
+    "countdownStart": 19.223,
+    "reveal": 24.223,
+    "end": 28.536,
+    "video": "broll/geography-quiz-50-1-1.mp4"
+   },
+   {
+    "q": "On which **continent** is Egypt?",
+    "answers": [
+     "Asia",
+     "Africa",
+     "Europe",
+     "Oceania"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🐪",
+    "start": 28.536,
+    "countdownStart": 30.526,
+    "reveal": 35.526,
+    "end": 40.504
+   },
+   {
+    "q": "What is the capital of **Germany**?",
+    "answers": [
+     "Munich",
+     "Hamburg",
+     "Frankfurt",
+     "Berlin"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🏛️",
+    "start": 40.504,
+    "countdownStart": 42.575,
+    "reveal": 47.575,
+    "end": 51.122
+   },
+   {
+    "q": "Which country has a **maple leaf** on its flag?",
+    "answers": [
+     "Switzerland",
+     "Austria",
+     "Canada",
+     "Lebanon"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🍂",
+    "start": 51.122,
+    "countdownStart": 54.736,
+    "reveal": 59.736,
+    "end": 64.497
+   },
+   {
+    "q": "Which **river** flows through London?",
+    "answers": [
+     "Thames",
+     "Seine",
+     "Severn",
+     "Tyne"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🌉",
+    "start": 64.497,
+    "countdownStart": 66.455,
+    "reveal": 71.455,
+    "end": 74.868
+   },
+   {
+    "q": "**Kangaroos** live in the wild on which continent?",
+    "answers": [
+     "Africa",
+     "South America",
+     "Australia",
+     "Asia"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🦘",
+    "start": 74.868,
+    "countdownStart": 77.376,
+    "reveal": 82.376,
+    "end": 86.294
+   },
+   {
+    "q": "What is the capital of **Russia**?",
+    "answers": [
+     "Saint Petersburg",
+     "Moscow",
+     "Kazan",
+     "Novosibirsk"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "❄️",
+    "start": 86.294,
+    "countdownStart": 88.312,
+    "reveal": 93.312,
+    "end": 98.479
+   },
+   {
+    "q": "In which country is **Mount Fuji**?",
+    "answers": [
+     "China",
+     "South Korea",
+     "Nepal",
+     "Japan"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🗻",
+    "start": 98.479,
+    "countdownStart": 100.597,
+    "reveal": 105.597,
+    "end": 109.277
+   },
+   {
+    "q": "Which US state is made up of **islands**?",
+    "answers": [
+     "Hawaii",
+     "Alaska",
+     "Florida",
+     "California"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🌺",
+    "start": 109.277,
+    "countdownStart": 113.624,
+    "reveal": 118.624,
+    "end": 122.802
+   },
+   {
+    "q": "What is the capital of **South Korea**?",
+    "answers": [
+     "Busan",
+     "Seoul",
+     "Incheon",
+     "Pyongyang"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏙️",
+    "broll": "city skyline evening",
+    "start": 122.802,
+    "countdownStart": 127.355,
+    "reveal": 132.355,
+    "end": 136.172,
+    "video": "broll/geography-quiz-50-1-10.mp4"
+   },
+   {
+    "q": "What is the capital of **Ireland**?",
+    "answers": [
+     "Cork",
+     "Galway",
+     "Dublin",
+     "Belfast"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "☘️",
+    "broll": "green hills countryside",
+    "start": 136.172,
+    "countdownStart": 138.215,
+    "reveal": 143.215,
+    "end": 148.246,
+    "video": "broll/geography-quiz-50-1-11.mp4"
+   },
+   {
+    "q": "Which Italian city is famous for **gondolas**?",
+    "answers": [
+     "Florence",
+     "Milan",
+     "Naples",
+     "Venice"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🛶",
+    "start": 148.246,
+    "countdownStart": 151.038,
+    "reveal": 156.038,
+    "end": 160.41
+   },
+   {
+    "q": "Turkey lies on which **two** continents?",
+    "answers": [
+     "Europe and Asia",
+     "Asia and Africa",
+     "Europe and Africa",
+     "Only Asia"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🌉",
+    "start": 160.41,
+    "countdownStart": 162.602,
+    "reveal": 167.602,
+    "end": 172.783
+   },
+   {
+    "q": "What is the capital of **Argentina**?",
+    "answers": [
+     "Córdoba",
+     "Buenos Aires",
+     "Montevideo",
+     "Santiago"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "💃",
+    "start": 172.783,
+    "countdownStart": 175.528,
+    "reveal": 180.528,
+    "end": 184.158
+   },
+   {
+    "q": "**Marrakesh** is a city in which country?",
+    "answers": [
+     "Tunisia",
+     "Egypt",
+     "Morocco",
+     "Algeria"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🕌",
+    "start": 184.158,
+    "countdownStart": 186.476,
+    "reveal": 191.476,
+    "end": 195.484
+   },
+   {
+    "q": "Which is the **largest** country by area?",
+    "answers": [
+     "Canada",
+     "China",
+     "USA",
+     "Russia"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "📏",
+    "start": 195.484,
+    "countdownStart": 198.267,
+    "reveal": 203.267,
+    "end": 207.469
+   },
+   {
+    "q": "The **Panama Canal** links the Atlantic to which ocean?",
+    "answers": [
+     "Pacific",
+     "Indian",
+     "Arctic",
+     "Southern"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🚢",
+    "start": 207.469,
+    "countdownStart": 210.412,
+    "reveal": 215.412,
+    "end": 221.139
+   },
+   {
+    "q": "**Madagascar** lies in which ocean?",
+    "answers": [
+     "Atlantic",
+     "Indian",
+     "Pacific",
+     "Southern"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🐒",
+    "start": 221.139,
+    "countdownStart": 223.318,
+    "reveal": 228.318,
+    "end": 233.446
+   },
+   {
+    "q": "The US shares the world's longest **border** with…?",
+    "answers": [
+     "Mexico",
+     "Russia",
+     "Canada",
+     "Cuba"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🛂",
+    "start": 233.446,
+    "countdownStart": 238.186,
+    "reveal": 243.186,
+    "end": 247.149
+   },
+   {
+    "q": "What is the longest mountain **range** on land?",
+    "answers": [
+     "Rockies",
+     "Himalayas",
+     "Alps",
+     "Andes"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "⛰️",
+    "broll": "mountain range clouds",
+    "start": 247.149,
+    "countdownStart": 251.367,
+    "reveal": 256.367,
+    "end": 261.307,
+    "video": "broll/geography-quiz-50-1-20.mp4"
+   },
+   {
+    "q": "Which South American country is **landlocked**?",
+    "answers": [
+     "Bolivia",
+     "Chile",
+     "Peru",
+     "Ecuador"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🦙",
+    "broll": "llama grazing",
+    "start": 261.307,
+    "countdownStart": 264.192,
+    "reveal": 269.192,
+    "end": 273.572
+   },
+   {
+    "q": "Which is the **longest** river in the USA?",
+    "answers": [
+     "Mississippi",
+     "Missouri",
+     "Colorado",
+     "Rio Grande"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🛶",
+    "start": 273.572,
+    "countdownStart": 276.313,
+    "reveal": 281.313,
+    "end": 286.939
+   },
+   {
+    "q": "Which strait separates **Europe and Africa**?",
+    "answers": [
+     "Bosphorus",
+     "Hormuz",
+     "Gibraltar",
+     "Dover"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🧭",
+    "start": 286.939,
+    "countdownStart": 289.291,
+    "reveal": 294.291,
+    "end": 300.32
+   },
+   {
+    "q": "**Angel Falls**, the tallest waterfall, is in…?",
+    "answers": [
+     "Brazil",
+     "Colombia",
+     "Guyana",
+     "Venezuela"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "💧",
+    "start": 300.32,
+    "countdownStart": 304.106,
+    "reveal": 309.106,
+    "end": 315.959
+   },
+   {
+    "q": "The **Atacama** Desert is mostly in which country?",
+    "answers": [
+     "Chile",
+     "Peru",
+     "Argentina",
+     "Mexico"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌵",
+    "start": 315.959,
+    "countdownStart": 320.352,
+    "reveal": 325.352,
+    "end": 329.68
+   },
+   {
+    "q": "The **Danube** flows into which sea?",
+    "answers": [
+     "Baltic Sea",
+     "Black Sea",
+     "North Sea",
+     "Adriatic Sea"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🌊",
+    "start": 329.68,
+    "countdownStart": 331.674,
+    "reveal": 336.674,
+    "end": 341.339
+   },
+   {
+    "q": "The **Gobi** Desert covers parts of China and…?",
+    "answers": [
+     "Kazakhstan",
+     "Iran",
+     "Mongolia",
+     "India"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🐫",
+    "start": 341.339,
+    "countdownStart": 346.138,
+    "reveal": 351.138,
+    "end": 354.665
+   },
+   {
+    "q": "Where is the **lowest** point on dry land?",
+    "answers": [
+     "Death Valley",
+     "Caspian Sea",
+     "Lake Assal",
+     "Dead Sea shore"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "⬇️",
+    "start": 354.665,
+    "countdownStart": 356.993,
+    "reveal": 361.993,
+    "end": 367.023
+   },
+   {
+    "q": "Which river forms much of the US–**Mexico** border?",
+    "answers": [
+     "Rio Grande",
+     "Colorado",
+     "Pecos",
+     "Red River"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌵",
+    "start": 367.023,
+    "countdownStart": 370.872,
+    "reveal": 375.872,
+    "end": 380.15
+   },
+   {
+    "q": "What is the capital of **Croatia**?",
+    "answers": [
+     "Split",
+     "Zagreb",
+     "Ljubljana",
+     "Belgrade"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "⛵",
+    "broll": "old town harbor",
+    "start": 380.15,
+    "countdownStart": 384.897,
+    "reveal": 389.897,
+    "end": 394.491,
+    "video": "broll/geography-quiz-50-1-30.mp4"
+   },
+   {
+    "q": "What is the capital of **Kenya**?",
+    "answers": [
+     "Mombasa",
+     "Kampala",
+     "Nairobi",
+     "Addis Ababa"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🦒",
+    "broll": "giraffe savanna",
+    "start": 394.491,
+    "countdownStart": 396.431,
+    "reveal": 401.431,
+    "end": 406.135
+   },
+   {
+    "q": "Which river crosses the **equator** twice?",
+    "answers": [
+     "Amazon",
+     "Nile",
+     "Niger",
+     "Congo"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🌍",
+    "start": 406.135,
+    "countdownStart": 408.887,
+    "reveal": 413.887,
+    "end": 417.841
+   },
+   {
+    "q": "What is the capital of **Bhutan**?",
+    "answers": [
+     "Thimphu",
+     "Kathmandu",
+     "Dhaka",
+     "Paro"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🏔️",
+    "start": 417.841,
+    "countdownStart": 419.936,
+    "reveal": 424.936,
+    "end": 429.628
+   },
+   {
+    "q": "**Timbuktu** is a real city in which country?",
+    "answers": [
+     "Niger",
+     "Mali",
+     "Chad",
+     "Morocco"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🏜️",
+    "start": 429.628,
+    "countdownStart": 433.161,
+    "reveal": 438.161,
+    "end": 442.599
+   },
+   {
+    "q": "The **Caspian Sea** is really the world's largest…?",
+    "answers": [
+     "Bay",
+     "Lagoon",
+     "Lake",
+     "Gulf"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🌊",
+    "start": 442.599,
+    "countdownStart": 445.704,
+    "reveal": 450.704,
+    "end": 456.111
+   },
+   {
+    "q": "What is the capital of **Myanmar**?",
+    "answers": [
+     "Yangon",
+     "Mandalay",
+     "Bangkok",
+     "Naypyidaw"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🛕",
+    "start": 456.111,
+    "countdownStart": 458.209,
+    "reveal": 463.209,
+    "end": 467.874
+   },
+   {
+    "q": "Which country was once called **Abyssinia**?",
+    "answers": [
+     "Ethiopia",
+     "Eritrea",
+     "Somalia",
+     "Sudan"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "☕",
+    "start": 467.874,
+    "countdownStart": 470.23,
+    "reveal": 475.23,
+    "end": 479.686
+   },
+   {
+    "q": "**Sri Lanka** used to be called…?",
+    "answers": [
+     "Siam",
+     "Ceylon",
+     "Burma",
+     "Persia"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🍵",
+    "start": 479.686,
+    "countdownStart": 482.598,
+    "reveal": 487.598,
+    "end": 491.741
+   },
+   {
+    "q": "What is the **smallest** country in South America?",
+    "answers": [
+     "Uruguay",
+     "Guyana",
+     "Suriname",
+     "Ecuador"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🗺️",
+    "start": 491.741,
+    "countdownStart": 494.403,
+    "reveal": 499.403,
+    "end": 503.189
+   },
+   {
+    "q": "What is the capital of **Burkina Faso**?",
+    "answers": [
+     "Bamako",
+     "Niamey",
+     "Accra",
+     "Ouagadougou"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🌍",
+    "broll": "african village market",
+    "start": 503.189,
+    "countdownStart": 510.031,
+    "reveal": 515.031,
+    "end": 518.664,
+    "video": "broll/geography-quiz-50-1-40.mp4"
+   },
+   {
+    "q": "Which is the **driest** continent?",
+    "answers": [
+     "Antarctica",
+     "Africa",
+     "Australia",
+     "Asia"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🏜️",
+    "broll": "snowy mountains wind",
+    "start": 518.664,
+    "countdownStart": 521.04,
+    "reveal": 526.04,
+    "end": 531.509,
+    "video": "broll/geography-quiz-50-1-41.mp4"
+   },
+   {
+    "q": "**Lesotho** is completely surrounded by…?",
+    "answers": [
+     "Botswana",
+     "South Africa",
+     "Namibia",
+     "Zimbabwe"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "⛰️",
+    "start": 531.509,
+    "countdownStart": 534.586,
+    "reveal": 539.586,
+    "end": 544.513
+   },
+   {
+    "q": "What is the largest **landlocked** country?",
+    "answers": [
+     "Mongolia",
+     "Chad",
+     "Kazakhstan",
+     "Bolivia"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🐎",
+    "start": 544.513,
+    "countdownStart": 547.363,
+    "reveal": 552.363,
+    "end": 556.645
+   },
+   {
+    "q": "Which is the world's **southernmost** capital?",
+    "answers": [
+     "Canberra",
+     "Buenos Aires",
+     "Cape Town",
+     "Wellington"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🧭",
+    "start": 556.645,
+    "countdownStart": 559.496,
+    "reveal": 564.496,
+    "end": 568.977
+   },
+   {
+    "q": "Which country is **doubly** landlocked?",
+    "answers": [
+     "Liechtenstein",
+     "Switzerland",
+     "Austria",
+     "Luxembourg"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🔒",
+    "start": 568.977,
+    "countdownStart": 573.793,
+    "reveal": 578.793,
+    "end": 582.959
+   },
+   {
+    "q": "Which is the largest island in the **Mediterranean**?",
+    "answers": [
+     "Sardinia",
+     "Sicily",
+     "Cyprus",
+     "Crete"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🏝️",
+    "start": 582.959,
+    "countdownStart": 587.219,
+    "reveal": 592.219,
+    "end": 597.313
+   },
+   {
+    "q": "In which country does the **Mekong** begin?",
+    "answers": [
+     "Laos",
+     "Thailand",
+     "China",
+     "Myanmar"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🛶",
+    "start": 597.313,
+    "countdownStart": 599.889,
+    "reveal": 604.889,
+    "end": 608.418
+   },
+   {
+    "q": "**Greenland** is part of which kingdom?",
+    "answers": [
+     "Norway",
+     "Iceland",
+     "Canada",
+     "Denmark"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🧊",
+    "start": 608.418,
+    "countdownStart": 610.497,
+    "reveal": 615.497,
+    "end": 619.665
+   },
+   {
+    "q": "Which is the **northernmost** of these capitals?",
+    "answers": [
+     "Reykjavík",
+     "Oslo",
+     "Helsinki",
+     "Stockholm"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🌌",
+    "start": 619.665,
+    "countdownStart": 625.919,
+    "reveal": 630.919,
+    "end": 638.382
+   }
+  ],
+  "audio": "audio/geography-quiz-50-1.mp3",
+  "outroStart": 638.382,
+  "durationInSeconds": 648.17
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/geography-quiz-50-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-11-03",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-03T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "rwbfV7G7Vpo",
+  "at": "2026-11-03T07:39"
+ }
+}
