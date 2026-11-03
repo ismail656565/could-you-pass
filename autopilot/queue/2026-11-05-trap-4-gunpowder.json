@@ -1,0 +1,116 @@
+{
+ "id": "trap-4-gunpowder",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 1.0
+ },
+ "lines": [
+  {
+   "q": "Who was the leader of the Gunpowder Plot?",
+   "a": "Robert Catesby! Guy Fawkes was just the explosives man."
+  },
+  {
+   "q": "In what year was the Gunpowder Plot?",
+   "a": "Sixteen oh five! On the fifth of November."
+  },
+  {
+   "q": "Which building did the plotters try to blow up?",
+   "a": "The House of Lords! During the state opening of Parliament, with King James inside."
+  },
+  {
+   "q": "Last one. How many barrels of gunpowder were hidden under Parliament?",
+   "a": "Thirty six! Enough to flatten the building. Think you can get all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts",
+  "description": "Remember, remember the fifth of November 💥 4 Bonfire Night questions – most people miss #1.\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#bonfirenight #guyfawkes #gunpowderplot #historyquiz #quiz #shorts\n\nFacts: UK Parliament, Britannica.\nMusic: original.",
+  "tags": [
+   "bonfire night",
+   "gunpowder plot",
+   "guy fawkes",
+   "guy fawkes night",
+   "history quiz",
+   "british history",
+   "trivia quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did you say Guy Fawkes for #1? 💥 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Gunpowder Plot",
+  "header": "BONFIRE NIGHT QUIZ",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "questions": [
+   {
+    "q": "Who **led** the Gunpowder Plot?",
+    "answers": [
+     "Guy Fawkes",
+     "Thomas Percy",
+     "Robert Catesby",
+     "Walter Raleigh"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🎆",
+    "broll": "fireworks night sky"
+   },
+   {
+    "q": "What **year** was the Gunpowder Plot?",
+    "answers": [
+     "1588",
+     "1605",
+     "1666",
+     "1715"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "📜",
+    "broll": "old map candle"
+   },
+   {
+    "q": "Which **building** was the target?",
+    "answers": [
+     "Tower of London",
+     "Westminster Abbey",
+     "St Paul's",
+     "House of Lords"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🏛️",
+    "broll": "london street traffic"
+   },
+   {
+    "q": "How many **barrels** of gunpowder?",
+    "answers": [
+     "6",
+     "36",
+     "100",
+     "360"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🛢️"
+   }
+  ]
+ }
+}

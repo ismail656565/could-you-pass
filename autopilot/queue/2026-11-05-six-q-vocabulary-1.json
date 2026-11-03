@@ -1,0 +1,145 @@
+{
+ "id": "six-q-vocabulary-1",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "lines": [
+  {
+   "q": "What does petrichor mean?",
+   "a": "The smell of rain on dry ground! The word comes from Greek, meaning stone."
+  },
+  {
+   "q": "What does ubiquitous mean?",
+   "a": "Found everywhere! Like phones in a restaurant."
+  },
+  {
+   "q": "What does ephemeral mean?",
+   "a": "Lasting a very short time! Like a soap bubble."
+  },
+  {
+   "q": "What does defenestration mean?",
+   "a": "Throwing someone out of a window! Yes, there's a word for that. Prague is famous for it."
+  },
+  {
+   "q": "What does serendipity mean?",
+   "a": "A lucky discovery by accident! Penicillin was found that way."
+  },
+  {
+   "q": "Last one. What does sesquipedalian mean?",
+   "a": "Using long words! And it's a long word itself. Think you got all six? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Vocabulary Quiz – Can You Get 6/6? 📚 #shorts",
+  "description": "6 real English words – do you know what they mean? 📚 The last one describes itself.\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#vocabulary #vocabularyquiz #englishquiz #wordquiz #quiz #shorts\n\nDefinitions checked against Merriam-Webster and Oxford dictionaries.\nMusic: original.",
+  "tags": [
+   "vocabulary quiz",
+   "english vocabulary",
+   "word quiz",
+   "english quiz",
+   "hard words",
+   "words and meanings",
+   "iq test",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did defenestration get you? 🪟😂 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Vocabulary Quiz",
+  "header": "VOCABULARY QUIZ",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "What does **petrichor** mean?",
+    "answers": [
+     "A rare gemstone",
+     "Smell after rain",
+     "Fear of rocks",
+     "A morning mist"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "PETRICHOR"
+   },
+   {
+    "q": "What does **ubiquitous** mean?",
+    "answers": [
+     "Very rare",
+     "Hard to see",
+     "Extremely old",
+     "Found everywhere"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "UBIQUITOUS"
+   },
+   {
+    "q": "What does **ephemeral** mean?",
+    "answers": [
+     "Very short-lived",
+     "Very heavy",
+     "Glowing softly",
+     "Sounding happy"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "EPHEMERAL"
+   },
+   {
+    "q": "What does **defenestration** mean?",
+    "answers": [
+     "Removing a fence",
+     "Losing a war",
+     "Out of a window",
+     "Tearing down a wall"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "DEFENESTRATION"
+   },
+   {
+    "q": "What does **serendipity** mean?",
+    "answers": [
+     "Lucky accident",
+     "Deep sadness",
+     "A calm sea",
+     "Perfect timing"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "SERENDIPITY"
+   },
+   {
+    "q": "What does **sesquipedalian** mean?",
+    "answers": [
+     "Six-legged",
+     "Using long words",
+     "Walking slowly",
+     "Half a century"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "SESQUIPEDALIAN"
+   }
+  ]
+ }
+}

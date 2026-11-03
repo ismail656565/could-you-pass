@@ -322,3 +322,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Shorts: "Only Geniuses Get 6/6" 1.032 nach ~21 h (6+-Format 3/3 > 1.000); VS #1 757 (~1,7 T); True/False-4-Short nur 63 nach 16 h (E3 schwach); leichte 1-Frage "Hours in a Week" 358.
 - Konkurrenz: Quiz World "10 Tricky IQ Riddles" 203k → 430k in 12 T; neu: Wortschatz-Shorts (Math Quiz 152k/141k/101k) → E5 "Vocabulary Quiz – Can You Get 6/6?" am 05.11.
 - E1 #2 Presidents nur 6:21 statt ~7 min → E1 #3 Länge vor Render prüfen. Event 05.11. Bonfire Night → Gunpowder-Plot-Trap 21:00.
+
+## 2026-11-03 (Produktions-Agent, Queue 05.11.)
+- Technik: Alle Läufe 02.11. grün (10/10), 02.11. Soll erfüllt (one-q-closest-sun, vs-animals-faster-1, us-presidents-5-15; Erst-Kommentare 13:10/16:21/21:02 – neue Kommentar-Crons wirken). 03.11. + 04.11. lagen schon in der Queue → nur 05.11. angelegt. Keine auto-*-Fallbacks offen.
+- Technik 1 (Long-Views): `publicViews` (statistics.viewCount) ist bei E1 #1 "4/12" und True/False-50 wirklich 0 – kein Analytics-Lag, kein Feldfehler, Status public/nicht MFK → reines Distributionsproblem der Longs.
+- Technik 2 (Länge E1 #3): Schätzung aus Presidents-Kalibrierung (≈2,76 Wörter/s inkl. Pausen-Abzug) ergab nur ≈6:04 → count 10.0 → 11.5 und 8 Antworten um je einen belegten Fakt verlängert → neu ≈6:47.
+- Shorts (Stand 02.11. 11:49): 6+-Fragen "Only Geniuses Get 6/6" 1.032 (n. ~21 h), VS #1 757, leichte 1-Frage "Hours in a Week" 358, True/False-4 63 → Leader: 6+-Fragen > VS > 4-Trap > 1-Frage.
+- Long: Emoji-15 bleibt einziges tragendes Long (141 Views, stayed 73 %); 50-Q-Longs der letzten Woche 0–2 Views → Emoji-50 (05.11., geschätzt ≈11:10, timing 5.5/1.4) testet, ob Emoji auch im 50er-Format trägt.
+- Thumbnails: Emoji-15 A/B/C fertig – Sieger A (13 Views/Tag) vor C 0,75 und B 0 (Original O 98/Tag = Startphase, nicht vergleichbar); weiterhin keine CTR (HttpError 400).

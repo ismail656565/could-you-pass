@@ -1,0 +1,859 @@
+{
+ "id": "emoji-word-50-1",
+ "timing": {
+  "count": 5.5,
+  "tail": 1.4,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Fifty emoji puzzles, from easy to legend, and they get harder every round. Keep score! First one: rain, plus a bow. What word is it?",
+   "a": "Rainbow! Rain plus bow. You can only see one with the sun behind you."
+  },
+  {
+   "q": "A sun, plus a flower.",
+   "a": "Sunflower! Young sunflowers even turn to follow the sun across the sky."
+  },
+  {
+   "q": "Snow, plus a man.",
+   "a": "Snowman! Easy one. Every kid has built one, or tried to."
+  },
+  {
+   "q": "Fire, plus a fly.",
+   "a": "Firefly! And fun fact, fireflies aren't flies at all. They're beetles."
+  },
+  {
+   "q": "A moon, plus a light bulb.",
+   "a": "Moonlight! Which is really just sunlight bouncing off the moon. Nice and easy so far, right?"
+  },
+  {
+   "q": "A key, plus a hole.",
+   "a": "Keyhole! You're halfway through round one."
+  },
+  {
+   "q": "A cat, plus a fish.",
+   "a": "Catfish! Named for their long whiskers, just like a cat."
+  },
+  {
+   "q": "Honey, plus the moon.",
+   "a": "Honeymoon! The first sweet month of a marriage."
+  },
+  {
+   "q": "Butter, plus milk.",
+   "a": "Buttermilk! The liquid that's left after churning cream into butter."
+  },
+  {
+   "q": "Last one of round one. A sailboat, plus a house. Careful with the order!",
+   "a": "Houseboat! House comes first in the word, even though it's second on screen. Sneaky!"
+  },
+  {
+   "q": "Round two: medium, and it gets harder now. A hand, plus a bag.",
+   "a": "Handbag! Simple, but you'd be surprised how many say backpack."
+  },
+  {
+   "q": "A dragon, plus a fly.",
+   "a": "Dragonfly! They were flying around long before the dinosaurs."
+  },
+  {
+   "q": "An egg, plus a plant.",
+   "a": "Eggplant! Early ones were small and white, like eggs."
+  },
+  {
+   "q": "A horse, plus a shoe.",
+   "a": "Horseshoe! People hang them over doors for luck."
+  },
+  {
+   "q": "Water, plus a melon. Bit of a giveaway!",
+   "a": "Watermelon! It's about ninety two percent water. How's your score?"
+  },
+  {
+   "q": "A lady, plus a bug.",
+   "a": "Ladybug! Or ladybird, if you're in Britain."
+  },
+  {
+   "q": "A book, plus a worm.",
+   "a": "Bookworm! Someone who always has their nose in a book."
+  },
+  {
+   "q": "An ear, plus a ring.",
+   "a": "Earring! Easy, if you didn't overthink it."
+  },
+  {
+   "q": "A door, plus a bell.",
+   "a": "Doorbell! Ding dong, nine down in this round."
+  },
+  {
+   "q": "Last one of round two. A tooth, plus a paintbrush.",
+   "a": "Toothbrush! The brush on screen is a paintbrush, but the word wants a toothbrush. Round two done. Twenty out of twenty? Respect."
+  },
+  {
+   "q": "Round three: hard. Only the sharp ones keep up from here. A cow, plus a boy.",
+   "a": "Cowboy! Spanish cowboys, the vaqueros, came first."
+  },
+  {
+   "q": "A light bulb, plus a house.",
+   "a": "Lighthouse! The Lighthouse of Alexandria was one of the seven ancient wonders."
+  },
+  {
+   "q": "A brain, plus a storm.",
+   "a": "Brainstorm! Exactly what you're doing right now."
+  },
+  {
+   "q": "A fish, plus a bowl.",
+   "a": "Fishbowl! Halfway through round three."
+  },
+  {
+   "q": "Rain, plus a tree.",
+   "a": "Rainforest! The Amazon is the biggest one on Earth. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Cheese, plus a cake.",
+   "a": "Cheesecake! The ancient Greeks were already making a version of it."
+  },
+  {
+   "q": "A tree, plus a house.",
+   "a": "Treehouse! Every kid's dream hideout."
+  },
+  {
+   "q": "A foot, plus a printer. Think about it.",
+   "a": "Footprint! The most famous ones are still sitting on the moon."
+  },
+  {
+   "q": "Sleep, plus walking.",
+   "a": "Sleepwalk! It's much more common in kids than in adults."
+  },
+  {
+   "q": "Last one of round three. The Earth, plus a worm.",
+   "a": "Earthworm! Earthworms breathe through their skin. No lungs at all. Round three done. If you're above twenty five, you're doing great."
+  },
+  {
+   "q": "Round four: very hard. Now it's not just one word any more. A snail, plus a letter.",
+   "a": "Snail mail! A letter sent the slow way, by post."
+  },
+  {
+   "q": "Eyes, plus candy.",
+   "a": "Eye candy! Something nice to look at, but not much more."
+  },
+  {
+   "q": "Fire, plus a house. It's a party!",
+   "a": "Housewarming! A party to celebrate moving into a new home."
+  },
+  {
+   "q": "A bed, plus a bug.",
+   "a": "Bedbug! Good night, sleep tight, don't let the bedbugs bite."
+  },
+  {
+   "q": "A bull, plus an eye.",
+   "a": "Bullseye! The center of a target, and a perfect shot. Getting tough now!"
+  },
+  {
+   "q": "A brain, plus a wave.",
+   "a": "Brainwave! A sudden clever idea. Hopefully you're having lots."
+  },
+  {
+   "q": "A horse, plus a strong arm.",
+   "a": "Horsepower! James Watt came up with it to sell his steam engines."
+  },
+  {
+   "q": "A ghost, plus someone writing.",
+   "a": "Ghostwriter! Someone who writes a book that another person's name goes on."
+  },
+  {
+   "q": "Money, plus a shark.",
+   "a": "Loan shark! Someone who lends money at crazy prices. Stay away!"
+  },
+  {
+   "q": "Last one of round four. A leg, plus a crash. It's a saying!",
+   "a": "Break a leg! It means good luck, especially before a show. Round four done. Only legends left."
+  },
+  {
+   "q": "Final round: legend level. These are sayings now. An elephant, plus a sofa.",
+   "a": "The elephant in the room! A big problem everyone is ignoring."
+  },
+  {
+   "q": "Rain, plus a cat, plus a dog.",
+   "a": "Raining cats and dogs! Pouring with rain. Nobody really knows where it came from."
+  },
+  {
+   "q": "A cake, plus walking.",
+   "a": "Cakewalk! Something really easy. It started as a dance where the prize was a cake."
+  },
+  {
+   "q": "Freezing cold, plus a turkey.",
+   "a": "Cold turkey! Quitting something all at once."
+  },
+  {
+   "q": "An apple, plus an eye.",
+   "a": "The apple of my eye! Someone you love more than anyone. The phrase is over a thousand years old. You've got this."
+  },
+  {
+   "q": "A cat, plus sleep.",
+   "a": "Catnap! A short, light sleep, the way cats doze."
+  },
+  {
+   "q": "Blue, plus a full moon.",
+   "a": "Once in a blue moon! Very rarely. A real blue moon only comes about every two or three years."
+  },
+  {
+   "q": "Three left, stay with me! Two birds, plus one stone.",
+   "a": "Kill two birds with one stone! Getting two jobs done with one move."
+  },
+  {
+   "q": "A hot pepper, plus a potato.",
+   "a": "Hot potato! A topic nobody wants to touch."
+  },
+  {
+   "q": "Final question. A cloud, plus the number nine.",
+   "a": "On cloud nine! Feeling super happy."
+  }
+ ],
+ "youtube": {
+  "title": "Emoji Quiz: Guess the Word – 50 Rounds, Easy to Legend 🧩",
+  "description": "50 emoji puzzles, from easy words to legend-level sayings 🧩 Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#EmojiQuiz #GuessTheWord #EmojiChallenge #WordQuiz #Quiz #BrainTeaser\n\nAll emoji puzzles are original.\nMusic: original.",
+  "tags": [
+   "emoji quiz",
+   "guess the word by emoji",
+   "emoji picture quiz",
+   "emoji challenge",
+   "guess the emoji",
+   "word quiz",
+   "brain teaser quiz",
+   "quiz for adults",
+   "50 question quiz"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 50? 🧩 Which one got you – the houseboat or cloud nine? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Emoji Quiz",
+  "header": "EMOJI QUIZ",
+  "hook": "CAN YOU GET 40/50? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "EMOJI **QUIZ**",
+   "CAN YOU GET **40/50**?",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🧩",
+  "thumbBadge": "50 PUZZLES · EASY → LEGEND",
+  "cardColors": [
+   "#5B21B6",
+   "#1E0B3B"
+  ],
+  "questions": [
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Raincoat",
+     "Rainbow",
+     "Rainfall",
+     "Bow tie"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌧️ + 🎀"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Sunflower",
+     "Sunshine",
+     "Sunrise",
+     "Flowerpot"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "☀️ + 🌸"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Snowflake",
+     "Snowstorm",
+     "Iceman",
+     "Snowman"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "❄️ + 👨"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Dragonfly",
+     "Fireworks",
+     "Firefly",
+     "Fireman"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🔥 + 🪰"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Sunlight",
+     "Moonlight",
+     "Moonwalk",
+     "Flashlight"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌙 + 💡"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Keyhole",
+     "Keyring",
+     "Loophole",
+     "Pothole"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🔑 + 🕳️"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Goldfish",
+     "Swordfish",
+     "Catwalk",
+     "Catfish"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🐱 + 🐟"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Honeycomb",
+     "Honeybee",
+     "Honeymoon",
+     "Moonbeam"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🍯 + 🌙"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Butterfly",
+     "Buttermilk",
+     "Milkshake",
+     "Buttercup"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🧈 + 🥛"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Houseboat",
+     "Sailboat",
+     "Lighthouse",
+     "Homework"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "⛵ + 🏠"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Handshake",
+     "Backpack",
+     "Handball",
+     "Handbag"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "✋ + 👜"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Firefly",
+     "Horsefly",
+     "Dragonfly",
+     "Butterfly"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🐉 + 🪰"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Eggshell",
+     "Eggplant",
+     "Houseplant",
+     "Eggnog"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🥚 + 🌱"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Horseshoe",
+     "Horsefly",
+     "Snowshoe",
+     "Horseback"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🐴 + 👞"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Waterfall",
+     "Honeydew",
+     "Muskmelon",
+     "Watermelon"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "💧 + 🍉"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Bedbug",
+     "Firebug",
+     "Ladybug",
+     "Bugbear"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "👩 + 🐛"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Earthworm",
+     "Bookworm",
+     "Bookshelf",
+     "Silkworm"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "📖 + 🐛"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Earring",
+     "Earphone",
+     "Ringtone",
+     "Keyring"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "👂 + 💍"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Doorknob",
+     "Bluebell",
+     "Cowbell",
+     "Doorbell"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🚪 + 🔔"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Hairbrush",
+     "Toothpaste",
+     "Toothbrush",
+     "Paintbrush"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🦷 + 🖌️"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Cowbell",
+     "Cowboy",
+     "Tomboy",
+     "Cowgirl"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🐮 + 👦"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Lighthouse",
+     "Greenhouse",
+     "Lightbulb",
+     "Doghouse"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "💡 + 🏠"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Brainchild",
+     "Snowstorm",
+     "Thunderstorm",
+     "Brainstorm"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🧠 + 🌪️"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Goldfish",
+     "Fishnet",
+     "Fishbowl",
+     "Dustbowl"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🐟 + 🥣"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Raindrop",
+     "Rainforest",
+     "Raincoat",
+     "Treetop"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🌧️ + 🌳"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Cheesecake",
+     "Cupcake",
+     "Pancake",
+     "Cheeseburger"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🧀 + 🎂"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Greenhouse",
+     "Treetop",
+     "Birdhouse",
+     "Treehouse"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🌳 + 🏠"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Fingerprint",
+     "Footstep",
+     "Footprint",
+     "Blueprint"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🦶 + 🖨️"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Sleepover",
+     "Sleepwalk",
+     "Moonwalk",
+     "Nightwalk"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "💤 + 🚶"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Earthworm",
+     "Inchworm",
+     "Earthquake",
+     "Glowworm"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌍 + 🐛"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Junk mail",
+     "Airmail",
+     "Chain mail",
+     "Snail mail"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🐌 + ✉️"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Eyebrow",
+     "Cotton candy",
+     "Eye candy",
+     "Eyesore"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "👀 + 🍬"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Firehouse",
+     "Housewarming",
+     "Hothouse",
+     "Homecoming"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🔥 + 🏠"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Bedbug",
+     "Bedrock",
+     "Humbug",
+     "Bookworm"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🛏️ + 🐛"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Bullfrog",
+     "Ox-eye",
+     "Cowboy",
+     "Bullseye"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🐂 + 👁️"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Brainstorm",
+     "Microwave",
+     "Brainwave",
+     "Heatwave"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🧠 + 🌊"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Horseplay",
+     "Horsepower",
+     "Manpower",
+     "Willpower"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🐴 + 💪"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Ghostwriter",
+     "Songwriter",
+     "Typewriter",
+     "Ghost story"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "👻 + ✍️"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Card shark",
+     "Tiger shark",
+     "Moneybag",
+     "Loan shark"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "💰 + 🦈"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "Leg day",
+     "Kick off",
+     "Break a leg",
+     "Cold feet"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🦵 + 💥"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "White elephant",
+     "Elephant in the room",
+     "Jumbo jet",
+     "Herd mentality"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🐘 + 🛋️"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "Raining cats and dogs",
+     "Dog days",
+     "Cat burglar",
+     "Under the weather"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🌧️ + 🐱 + 🐶"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Piece of cake",
+     "Catwalk",
+     "Boardwalk",
+     "Cakewalk"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🍰 + 🚶"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "Cold feet",
+     "Turkey trot",
+     "Cold turkey",
+     "Chill out"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🥶 + 🦃"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "Big Apple",
+     "Apple of my eye",
+     "Eye opener",
+     "Bad apple"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🍎 + 👁️"
+   },
+   {
+    "q": "Which **word** is this?",
+    "answers": [
+     "Catnap",
+     "Power nap",
+     "Catwalk",
+     "Cat's pajamas"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🐈 + 💤"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "Blue Monday",
+     "Moonshine",
+     "Full moon",
+     "Once in a blue moon"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🔵 + 🌕"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "Bird's eye view",
+     "Stone Age",
+     "Two birds, one stone",
+     "Early bird"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🐦🐦 + 🪨"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "Couch potato",
+     "Hot potato",
+     "Spicy chips",
+     "Hot dog"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🌶️ + 🥔"
+   },
+   {
+    "q": "Which **saying** is this?",
+    "answers": [
+     "Cloud nine",
+     "Seventh heaven",
+     "Over the moon",
+     "Cloudburst"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "☁️ + 9️⃣"
+   }
+  ]
+ }
+}

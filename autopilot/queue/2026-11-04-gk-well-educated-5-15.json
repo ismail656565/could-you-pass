@@ -1,7 +1,7 @@
 {
  "id": "gk-well-educated-5-15",
  "timing": {
-  "count": 10.0,
+  "count": 11.5,
   "tail": 2.6,
   "tempo": 0.95
  },
@@ -17,19 +17,19 @@
   },
   {
    "q": "In which city was the Titanic built?",
-   "a": "Belfast! At the Harland and Wolff shipyard. It sailed from Southampton, which fools a lot of people."
+   "a": "Belfast! At the Harland and Wolff shipyard. It sailed from Southampton, which fools a lot of people. Building it took about three years."
   },
   {
    "q": "Which is the only planet named after a goddess?",
-   "a": "Venus! The Roman goddess of love. Every other planet is named after a male god."
+   "a": "Venus! The Roman goddess of love. Every other planet is named after a male god. It's also the hottest planet, even hotter than Mercury."
   },
   {
    "q": "Nice start! Which gas makes up most of the air we breathe?",
-   "a": "Nitrogen! About seventy eight percent. Oxygen is only around twenty one percent."
+   "a": "Nitrogen! About seventy eight percent. Oxygen is only around twenty one percent. The last one percent is mostly argon."
   },
   {
    "q": "Round two: very hard. What was the tallest mountain in the world before Mount Everest was discovered?",
-   "a": "Mount Everest! It was already the tallest, people just hadn't measured it yet. Got you?"
+   "a": "Mount Everest! It was already the tallest, people just hadn't measured it yet. Got you? Surveyors worked out its height in the eighteen fifties."
   },
   {
    "q": "Which is the only bird that can truly fly backwards?",
@@ -41,15 +41,15 @@
   },
   {
    "q": "Still with me? What is the most common letter in English?",
-   "a": "E! It shows up in about one in every eight letters you read. T is a distant second."
+   "a": "E! It shows up in about one in every eight letters you read. T is a distant second. That's why it's worth just one point in Scrabble."
   },
   {
    "q": "How many hearts does an octopus have?",
-   "a": "Three! Two pump blood to the gills, one to the rest of the body. And its blood is blue."
+   "a": "Three! Two pump blood to the gills, one to the rest of the body. And its blood is blue. It gets that color from copper."
   },
   {
    "q": "Final round: legend level. A plane crashes right on the border between the US and Canada. Where do they bury the survivors?",
-   "a": "Nowhere! Survivors are alive, you don't bury them. Did you start picking a country?"
+   "a": "Nowhere! Survivors are alive, you don't bury them. Did you start picking a country? Read it again, slowly."
   },
   {
    "q": "Which country sends London the giant Christmas tree in Trafalgar Square every year?",
@@ -65,7 +65,7 @@
   },
   {
    "q": "Final question. Which planet has the fastest winds in the solar system?",
-   "a": "Neptune! Winds up to about two thousand kilometres an hour. That's faster than the speed of sound on Earth."
+   "a": "Neptune! Winds up to about two thousand kilometres an hour. That's faster than the speed of sound on Earth. And it's the farthest planet from the Sun."
   }
  ],
  "youtube": {
