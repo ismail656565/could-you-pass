@@ -382,9 +382,19 @@ def post_pending_comments():
         if st.get('privacyStatus') != 'public':
             log(f"{item['id']}: noch nicht öffentlich – Kommentar später")
             continue
+        text = item['youtube']['comment']
+        # Manager-Entscheid 04.11.: Shorts-Zuschauer per Erst-Kommentar zum Long führen (nur wenn der Long schon öffentlich ist)
+        lid = item.get('linkedLong')
+        if lid and fmt_of(item) != 'long' and 'youtu.be/' not in text:
+            try:
+                lst = (y.videos().list(part='status', id=lid).execute().get('items') or [{}])[0].get('status', {})
+                if lst.get('privacyStatus') == 'public':
+                    text += f"\n\n▶ Want more? Try today's full quiz: https://youtu.be/{lid}"
+            except Exception as ex:
+                log('Long-Status für Kommentar-Link nicht lesbar:', str(ex)[:120])
         try:
-            y.commentThreads().insert(part='snippet', body={'snippet': {'videoId': vid, 'topLevelComment': {'snippet': {'textOriginal': item['youtube']['comment']}}}}).execute()
-            log(f"{item['id']}: Kommentar gepostet")
+            y.commentThreads().insert(part='snippet', body={'snippet': {'videoId': vid, 'topLevelComment': {'snippet': {'textOriginal': text}}}}).execute()
+            log(f"{item['id']}: Kommentar gepostet" + (' (mit Long-Link)' if 'youtu.be/' in text else ''))
             item.pop('pendingComment', None)
             d.write_text(json.dumps(item, indent=1, ensure_ascii=False), encoding='utf-8')
         except Exception as ex:
@@ -649,6 +659,8 @@ def _strip_html(t):
 
 
 _AI_CLIP = re.compile(r'\bsora\b|openai|midjourney|dall-?e|stable[ _-]?diffusion|runway ?ml|\bveo ?[23]?\b|ai[- _]generated|\bkling\b|\bpika\b|generative ai|text-to-video', re.I)
+# Manager-Entscheid 04.11.: keine politischen/Konflikt-Clips (z. B. "No Kings march" im Geography-Long 03.11.)
+_OFFTOPIC_CLIP = re.compile(r'protest|demonstrat|no kings|\brally\b|\briot|election|campaign|politic|parliament|\btrump\b|\bbiden\b|refugee|military|soldier|\bpolice\b|\bwar\b|funeral|accident|\bcrash', re.I)
 
 
 def _commons_candidates(query, sess):
@@ -678,7 +690,7 @@ def _commons_candidates(query, sess):
         # Plan 04.11.: keine KI-generierten Clips (Besitzer-Regel "kein AI-Look", Synthetic-Content-Kennzeichnung)
         blob = ' '.join([title, artist, _strip_html(meta.get('ImageDescription', {}).get('value', '')),
                          _strip_html(meta.get('Categories', {}).get('value', ''))])
-        if _AI_CLIP.search(blob):
+        if _AI_CLIP.search(blob) or _OFFTOPIC_CLIP.search(blob):
             continue
         out.append({'title': title, 'src': src, 'dur': dur, 'credit': f'{title.rsplit(".", 1)[0][:70]} – {artist} ({lic})'})
     return out
