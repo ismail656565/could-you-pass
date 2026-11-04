@@ -338,3 +338,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - NEU optionales Feld je Frage **"fact"** (max ~70 Zeichen, Ziffern erlaubt, nur geprüfte Fakten): erscheint nach der Auflösung als "DID YOU KNOW?"-Streifen im Bild. Für Longs ab jetzt bei allen Fragen setzen, für Shorts optional. Erstmals im Long 04.11. (gk-well-educated, 15 Fakten).
 - Für Emoji-Longs `thumbPuzzle` (2 Emojis, keine Lösung aus dem Video) setzen; thumbEmoji dient nur noch als Fallback in Variante C.
 - Verdict neuer Look: ab 06.11. Ø angesehen/stayed der Videos ab 04.11. vs. Median der Vorwoche (Shorts stayed ~50 %, Longs Views-Median 3).
+
+## 2026-11-04 – Research (Research-Agent)
+- Longs: 4 Uploads in Folge mit 0 öffentlichen Views (E1 #1 final 0 n. 3 T, True/False-50 0 n. 2,9 T, Presidents 0 n. 23 h) trotz public/nicht MFK → Distribution/Einschränkung; neue Status-Felder (regionRestriction, contentRating) angefordert + Timing-Experiment E7 (Long 06.11. um 19:00 statt 14:00).
+- Shorts final: VS #1 854 (3,4× 4-Trap-Median), 6+-Fragen 3/3 > 1.000 (1.433/1.234/1.181); Flops: True/False-Short 120 (pausiert), leichte 1-Frage "Hours" 463 (Ziel 700 ✗). VS #2 "Faster" 488 n. ~16 h.
+- B-Roll zog einen OpenAI-Sora-Clip (Geo-50 Q42) → Filter gegen KI-Clips in fetch_broll angefordert.
+- Konkurrenz: Quiz World Riddles 430k → 469k; neu Dopamine Quiz "F1 Tracks Part 3" 26k in 4 T (Serien-Effekt). GTA VI weiter 19.11.2026.
