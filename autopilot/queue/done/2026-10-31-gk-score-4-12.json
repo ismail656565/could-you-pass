@@ -318,9 +318,17 @@
    "B",
    "C"
   ],
-  "current": "A",
-  "since": "2026-10-31",
-  "results": {},
+  "current": "B",
+  "since": "2026-11-04",
+  "results": {
+   "A": {
+    "views": 0,
+    "ctr": 0.0,
+    "metric": "views/day",
+    "from": "2026-10-31",
+    "to": "2026-11-04"
+   }
+  },
   "done": false
  },
  "scheduledFor": "2026-10-31T14:00+01:00",

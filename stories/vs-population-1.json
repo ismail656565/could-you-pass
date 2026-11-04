@@ -1,0 +1,122 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "More People?",
+ "header": "WHO HAS MORE PEOPLE?",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "MORE PEOPLE!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which has more **people**?",
+   "answers": [
+    "Brazil",
+    "Nigeria"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    211998573,
+    232679478
+   ],
+   "valueLabels": [
+    "212M",
+    "233M"
+   ],
+   "images": [
+    "bilder/cap-flag-brazil.jpg",
+    "bilder/cap-flag-nigeria.jpg"
+   ],
+   "start": 0.0,
+   "countdownStart": 2.34,
+   "reveal": 5.34,
+   "end": 10.685
+  },
+  {
+   "q": "Which has more **people**?",
+   "answers": [
+    "Japan",
+    "Turkey"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "values": [
+    123753041,
+    87473805
+   ],
+   "valueLabels": [
+    "124M",
+    "87M"
+   ],
+   "images": [
+    "bilder/cap-flag-japan.jpg",
+    "bilder/cap-flag-turkey.jpg"
+   ],
+   "start": 10.685,
+   "countdownStart": 12.139,
+   "reveal": 15.139,
+   "end": 20.721
+  },
+  {
+   "q": "Which has more **people**?",
+   "answers": [
+    "Australia",
+    "Canada"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "values": [
+    26713205,
+    39742430
+   ],
+   "valueLabels": [
+    "27M",
+    "40M"
+   ],
+   "images": [
+    "bilder/cap-flag-australia.jpg",
+    "bilder/cap-flag-canada.jpg"
+   ],
+   "start": 20.721,
+   "countdownStart": 22.303,
+   "reveal": 25.303,
+   "end": 29.942
+  },
+  {
+   "q": "Which has more **people**?",
+   "answers": [
+    "Switzerland",
+    "Kazakhstan"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    8921981,
+    20592571
+   ],
+   "valueLabels": [
+    "9M",
+    "21M"
+   ],
+   "images": [
+    "bilder/cap-flag-switzerland.jpg",
+    "bilder/cap-flag-kazakhstan.jpg"
+   ],
+   "start": 29.942,
+   "countdownStart": 32.312,
+   "reveal": 35.312,
+   "end": 40.79
+  }
+ ],
+ "audio": "audio/vs-population-1.mp3",
+ "outroStart": 40.79,
+ "durationInSeconds": 40.79
+}

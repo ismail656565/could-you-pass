@@ -70,7 +70,7 @@
  ],
  "youtube": {
   "title": "Are You Well Educated? Hard Quiz – Score 5/15 to Pass 🎓",
-  "description": "15 hard general knowledge questions, including 5 trick questions 🎓 Score at least 5 and you pass.\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeneralKnowledgeQuiz #HardQuiz #TrickQuestions #TriviaQuiz #Quiz #IQTest\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0); RMS Titanic – F. G. O. Stuart (public domain); Octopus – Diego Delso (CC BY-SA 4.0)\nMusic: original.",
+  "description": "15 hard general knowledge questions, including 5 trick questions 🎓 Score at least 5 and you pass.\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GeneralKnowledgeQuiz #HardQuiz #TrickQuestions #TriviaQuiz #Quiz #IQTest\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0); RMS Titanic – F. G. O. Stuart (public domain); Octopus – Diego Delso (CC BY-SA 4.0)\nFootage via Wikimedia Commons: Winter Timelapse of Clouds Roiling over Rimrock on Okanagan Mountain – Extemporalist (CC0); Mount Shasta 360 digital elevation model topography – TierraMagica (CC BY 4.0); Starry sky with North Star circled – Thomas Bresson (CC BY 3.0)\nMusic: original.",
   "tags": [
    "are you well educated",
    "hard quiz",
@@ -126,7 +126,11 @@
     "correct": 1,
     "level": "HARD",
     "image": "bilder/q2-pyramid.jpg",
-    "fact": "Sudan has 200+ pyramids – about twice as many as Egypt."
+    "fact": "Sudan has 200+ pyramids – about twice as many as Egypt.",
+    "start": 0.0,
+    "countdownStart": 6.217,
+    "reveal": 17.717,
+    "end": 26.775
    },
    {
     "q": "You pass the runner in **2nd** place. Your place?",
@@ -139,7 +143,11 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🏃",
-    "fact": "Pass the runner in 2nd place and you take 2nd – not 1st."
+    "fact": "Pass the runner in 2nd place and you take 2nd – not 1st.",
+    "start": 26.775,
+    "countdownStart": 32.205,
+    "reveal": 43.705,
+    "end": 50.736
    },
    {
     "q": "In which city was the **Titanic** built?",
@@ -152,7 +160,11 @@
     "correct": 3,
     "level": "HARD",
     "image": "bilder/mv-titanic.jpg",
-    "fact": "Titanic was built at Harland & Wolff in Belfast."
+    "fact": "Titanic was built at Harland & Wolff in Belfast.",
+    "start": 50.736,
+    "countdownStart": 53.134,
+    "reveal": 64.634,
+    "end": 74.989
    },
    {
     "q": "Only planet named after a **goddess**?",
@@ -165,7 +177,11 @@
     "correct": 0,
     "level": "HARD",
     "cardText": "🪐",
-    "fact": "Venus is the hottest planet – hotter than Mercury."
+    "fact": "Venus is the hottest planet – hotter than Mercury.",
+    "start": 74.989,
+    "countdownStart": 77.742,
+    "reveal": 89.242,
+    "end": 100.246
    },
    {
     "q": "Which gas makes up most of Earth's **air**?",
@@ -179,7 +195,12 @@
     "level": "HARD",
     "cardText": "🌬️",
     "broll": "clouds sky timelapse",
-    "fact": "Air is about 78% nitrogen and 21% oxygen."
+    "fact": "Air is about 78% nitrogen and 21% oxygen.",
+    "start": 100.246,
+    "countdownStart": 103.617,
+    "reveal": 115.117,
+    "end": 125.385,
+    "video": "broll/gk-well-educated-5-15-4.mp4"
    },
    {
     "q": "Tallest mountain **before** Everest was discovered?",
@@ -193,7 +214,12 @@
     "level": "VERY HARD",
     "cardText": "🏔️",
     "broll": "snowy mountain peaks",
-    "fact": "Everest was always the tallest – it just hadn't been measured."
+    "fact": "Everest was always the tallest – it just hadn't been measured.",
+    "start": 125.385,
+    "countdownStart": 131.105,
+    "reveal": 142.605,
+    "end": 153.182,
+    "video": "broll/gk-well-educated-5-15-5.mp4"
    },
    {
     "q": "The only bird that can fly **backwards**?",
@@ -206,7 +232,11 @@
     "correct": 0,
     "level": "VERY HARD",
     "cardText": "🐦",
-    "fact": "Hummingbirds can hover and even fly backwards."
+    "fact": "Hummingbirds can hover and even fly backwards.",
+    "start": 153.182,
+    "countdownStart": 156.325,
+    "reveal": 167.825,
+    "end": 176.046
    },
    {
     "q": "Does England have a **4th of July**?",
@@ -219,7 +249,11 @@
     "correct": 2,
     "level": "VERY HARD",
     "cardText": "📅",
-    "fact": "Every country has a 4th of July – it follows the 3rd."
+    "fact": "Every country has a 4th of July – it follows the 3rd.",
+    "start": 176.046,
+    "countdownStart": 178.233,
+    "reveal": 189.733,
+    "end": 202.345
    },
    {
     "q": "Most common **letter** in English?",
@@ -232,7 +266,11 @@
     "correct": 3,
     "level": "VERY HARD",
     "cardText": "🔤",
-    "fact": "E appears in roughly 1 of every 8 letters in English text."
+    "fact": "E appears in roughly 1 of every 8 letters in English text.",
+    "start": 202.345,
+    "countdownStart": 205.35,
+    "reveal": 216.85,
+    "end": 227.223
    },
    {
     "q": "How many **hearts** does an octopus have?",
@@ -245,7 +283,11 @@
     "correct": 2,
     "level": "VERY HARD",
     "image": "bilder/q2-octopus.jpg",
-    "fact": "Octopus blood is blue because it is based on copper."
+    "fact": "Octopus blood is blue because it is based on copper.",
+    "start": 227.223,
+    "countdownStart": 229.485,
+    "reveal": 240.985,
+    "end": 250.309
    },
    {
     "q": "Plane crash on a border: where are **survivors** buried?",
@@ -258,7 +300,11 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "✈️",
-    "fact": "Survivors are alive – nobody buries them."
+    "fact": "Survivors are alive – nobody buries them.",
+    "start": 250.309,
+    "countdownStart": 257.94,
+    "reveal": 269.44,
+    "end": 278.055
    },
    {
     "q": "Who gives London's Trafalgar **Christmas tree**?",
@@ -271,7 +317,11 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "🎄",
-    "fact": "Norway has sent the tree every year since 1947."
+    "fact": "Norway has sent the tree every year since 1947.",
+    "start": 278.055,
+    "countdownStart": 282.625,
+    "reveal": 294.125,
+    "end": 303.421
    },
    {
     "q": "Red house: red bricks. A **greenhouse**?",
@@ -284,7 +334,11 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "🏠",
-    "fact": "A greenhouse is made of glass."
+    "fact": "A greenhouse is made of glass.",
+    "start": 303.421,
+    "countdownStart": 308.714,
+    "reveal": 320.214,
+    "end": 327.116
    },
    {
     "q": "Only number spelled in **alphabetical** order?",
@@ -297,7 +351,11 @@
     "correct": 3,
     "level": "LEGEND",
     "cardText": "🔢",
-    "fact": "F-O-R-T-Y: the only number with letters in alphabetical order."
+    "fact": "F-O-R-T-Y: the only number with letters in alphabetical order.",
+    "start": 327.116,
+    "countdownStart": 330.851,
+    "reveal": 342.351,
+    "end": 349.125
    },
    {
     "q": "Which planet has the **fastest** winds?",
@@ -311,8 +369,35 @@
     "level": "LEGEND",
     "cardText": "💨",
     "broll": "night sky stars",
-    "fact": "Neptune's winds reach about 2,000 km/h."
+    "fact": "Neptune's winds reach about 2,000 km/h.",
+    "start": 349.125,
+    "countdownStart": 353.776,
+    "reveal": 365.276,
+    "end": 376.402,
+    "video": "broll/gk-well-educated-5-15-14.mp4"
    }
-  ]
+  ],
+  "audio": "audio/gk-well-educated-5-15.mp3",
+  "outroStart": 376.402,
+  "durationInSeconds": 387.368
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/gk-well-educated-5-15-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-11-04",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-04T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "ifkBW33NomU",
+  "at": "2026-11-04T06:50"
  }
 }

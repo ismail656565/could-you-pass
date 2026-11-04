@@ -1008,3 +1008,45 @@
 [2026-11-03 16:13:21] six-q-which-first-2: Kommentar gepostet
 [2026-11-03 16:13:21] trap-4-history-humble: noch nicht öffentlich – Kommentar später
 [2026-11-03 21:08:51] trap-4-history-humble: Kommentar gepostet
+[2026-11-04 06:18:36] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-04 06:18:36] Analytics gespeichert (59 Videos)
+[2026-11-04 06:18:37] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-04 06:18:37] Thumbnail-Test sixties-quiz-50-1: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-04 06:18:39] Thumbnail-Test sixties-quiz-50-1: jetzt Variante A (Gewinner)
+[2026-11-04 06:18:39] Thumbnail-Test gk-score-4-12: Variante A → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-04 06:18:41] Thumbnail-Test gk-score-4-12: jetzt Variante B
+[2026-11-04 06:18:41] Thumbnail-Test auto-2026-10-27-long: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-04 06:18:43] Thumbnail-Test auto-2026-10-27-long: jetzt Variante C
+[2026-11-04 06:18:43] Produziere six-q-quick-geo (short)
+[2026-11-04 06:18:43] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-04 06:19:19] Ton fertig: 50.5 s
+[2026-11-04 06:19:19] B-Roll Frage 1 ("mountain ruins clouds"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-04 06:19:29] B-Roll Frage 2 ("river city bridge"): Aerial view of MTA Subway Trains on Williamsburg Bridge, The
+[2026-11-04 06:19:37] B-Roll Frage 6 ("lake forest aerial"): Aerial view of Snow Lake and Dipping Vat Campground in Gila 
+[2026-11-04 06:22:44] Gerendert
+[2026-11-04 06:22:47] Hochgeladen: https://youtube.com/watch?v=8kff4Swo7MM (private)
+[2026-11-04 06:22:48] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-04 06:22:48] Geplant für 04.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-04 06:22:48] Produziere vs-population-1 (short)
+[2026-11-04 06:22:48] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-04 06:23:13] Ton fertig: 40.8 s
+[2026-11-04 06:24:59] Gerendert
+[2026-11-04 06:25:02] Hochgeladen: https://youtube.com/watch?v=wbX6CNPI1v0 (private)
+[2026-11-04 06:25:02] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-04 06:25:02] Geplant für 04.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-04 06:25:02] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-04 06:25:02] Produziere gk-well-educated-5-15 (long)
+[2026-11-04 06:25:02] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-04 06:27:35] Ton fertig: 387.4 s
+[2026-11-04 06:27:50] B-Roll Frage 5 ("clouds sky timelapse"): Winter Timelapse of Clouds Roiling over Rimrock on Okanagan 
+[2026-11-04 06:28:02] B-Roll Frage 6 ("snowy mountain peaks"): Mount Shasta 360 digital elevation model topography.webm
+[2026-11-04 06:28:11] B-Roll Frage 15 ("night sky stars"): Starry sky with North Star circled.webm
+[2026-11-04 06:49:50] Gerendert
+[2026-11-04 06:50:06] Hochgeladen: https://youtube.com/watch?v=ifkBW33NomU (private)
+[2026-11-04 06:50:09] Vorschaubild gesetzt
+[2026-11-04 06:50:09] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-11-04 06:50:09] Geplant für 04.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-04 06:50:09] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-04 06:50:10] Short-Beschreibung (six-q-quick-geo) verlinkt auf langes Video ifkBW33NomU
+[2026-11-04 06:50:11] Short-Beschreibung (vs-population-1) verlinkt auf langes Video ifkBW33NomU
+[2026-11-04 06:50:20] Konkurrenz: 25 Kanäle, 135 Gewinner-Videos

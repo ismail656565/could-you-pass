@@ -74,7 +74,11 @@
     "images": [
      "bilder/cap-flag-brazil.jpg",
      "bilder/cap-flag-nigeria.jpg"
-    ]
+    ],
+    "start": 0.0,
+    "countdownStart": 2.34,
+    "reveal": 5.34,
+    "end": 10.685
    },
    {
     "q": "Which has more **people**?",
@@ -95,7 +99,11 @@
     "images": [
      "bilder/cap-flag-japan.jpg",
      "bilder/cap-flag-turkey.jpg"
-    ]
+    ],
+    "start": 10.685,
+    "countdownStart": 12.139,
+    "reveal": 15.139,
+    "end": 20.721
    },
    {
     "q": "Which has more **people**?",
@@ -116,7 +124,11 @@
     "images": [
      "bilder/cap-flag-australia.jpg",
      "bilder/cap-flag-canada.jpg"
-    ]
+    ],
+    "start": 20.721,
+    "countdownStart": 22.303,
+    "reveal": 25.303,
+    "end": 29.942
    },
    {
     "q": "Which has more **people**?",
@@ -137,8 +149,23 @@
     "images": [
      "bilder/cap-flag-switzerland.jpg",
      "bilder/cap-flag-kazakhstan.jpg"
-    ]
+    ],
+    "start": 29.942,
+    "countdownStart": 32.312,
+    "reveal": 35.312,
+    "end": 40.79
    }
-  ]
- }
+  ],
+  "audio": "audio/vs-population-1.mp3",
+  "outroStart": 40.79,
+  "durationInSeconds": 40.79
+ },
+ "scheduledFor": "2026-11-04T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "wbX6CNPI1v0",
+  "at": "2026-11-04T06:25"
+ },
+ "linkedLong": "ifkBW33NomU"
 }

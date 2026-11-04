@@ -1,0 +1,123 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Quick Fire Geography",
+ "header": "QUICK FIRE GEOGRAPHY",
+ "hook": "CAN YOU GET 6/6? 🌍",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which country is home to **Machu Picchu**?",
+   "answers": [
+    "Mexico",
+    "Chile",
+    "Peru",
+    "Bolivia"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "⛰️",
+   "broll": "mountain ruins clouds",
+   "start": 0.0,
+   "countdownStart": 2.139,
+   "reveal": 4.639,
+   "end": 7.773
+  },
+  {
+   "q": "Which river flows through **Paris**?",
+   "answers": [
+    "Seine",
+    "Thames",
+    "Danube",
+    "Rhine"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🌉",
+   "broll": "river city bridge",
+   "start": 7.773,
+   "countdownStart": 9.664,
+   "reveal": 12.164,
+   "end": 15.482,
+   "video": "broll/six-q-quick-geo-1.mp4"
+  },
+  {
+   "q": "Which is the largest US **state**?",
+   "answers": [
+    "Texas",
+    "California",
+    "Montana",
+    "Alaska"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🗺️",
+   "start": 15.482,
+   "countdownStart": 17.453,
+   "reveal": 19.953,
+   "end": 23.126
+  },
+  {
+   "q": "Which continent has the most **countries**?",
+   "answers": [
+    "Asia",
+    "Africa",
+    "Europe",
+    "South America"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "54?",
+   "start": 23.126,
+   "countdownStart": 25.256,
+   "reveal": 27.756,
+   "end": 32.55
+  },
+  {
+   "q": "Whose national flag is not a **rectangle**?",
+   "answers": [
+    "Bhutan",
+    "Sri Lanka",
+    "Nepal",
+    "Brunei"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🏳️",
+   "start": 32.55,
+   "countdownStart": 34.859,
+   "reveal": 37.359,
+   "end": 40.9
+  },
+  {
+   "q": "Which country has the most **lakes**?",
+   "answers": [
+    "Finland",
+    "Russia",
+    "USA",
+    "Canada"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "💧",
+   "broll": "lake forest aerial",
+   "start": 40.9,
+   "countdownStart": 43.254,
+   "reveal": 45.754,
+   "end": 50.515,
+   "video": "broll/six-q-quick-geo-5.mp4"
+  }
+ ],
+ "audio": "audio/six-q-quick-geo.mp3",
+ "outroStart": 50.515,
+ "durationInSeconds": 50.515
+}
