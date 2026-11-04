@@ -362,3 +362,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Entscheid 3 – B-Roll: Filter gegen politische/Konflikt-Clips (protest, no kings, rally, election, military, police, war, crash …) zusätzlich zum KI-Filter.
 - Verdict E8 (neues Long-Format): nach 5 Longs ab 07.11. (≈12.11.): Ziel Median ≥10 öffentliche Views n. 3 T UND Ø angesehen ≥40 %. Verfehlt → Longs auf 3×/Woche reduzieren, Kapazität in 3. Short (6-Q/VS) stecken.
 - Offen beim Besitzer: Studio-Screenshot "Reichweite" eines Longs (Impressionen, CTR, Zugriffsquellen) – entscheidet, ob Ausspielung (Impressionen ≈0) oder Thumbnail/Titel (CTR <2 %) das Problem ist.
+
+## 2026-11-04 – Studio-Screenshot Besitzer (23:26) + STRATEGIE (Manager-Entscheid) – GILT AB 07.11.
+- VS #3 "Which Has More People? 4 Rounds 90% Get Wrong 👥" (21:00): **948 Views nach 2 h 26 min, Rang 1 von 10** (bester Start aller Videos), 561 engaged views, **stayed 56,0 %** (VS #1 53 %, 4-Trap-Median ~50 %), Länge 0:41. Kurve: steiler Knick nach ~1,5 h → Shorts-Feed hat nachgeschoben.
+- E2-Verdict vorgezogen: VS 3/3 Treffer (854 / 488 n. 16 h / 948 n. 2,4 h) → **VS ist Exploit-Format**.
+- Entscheid: **21:00-Slot = täglich VS** (kein Wechsel mehr mit 4-Trap). 4-Trap nur noch bei Events/Jahrestagen. VS-Themen rotieren: Einwohner, Fläche, Tempo, Höhe, Gewicht, Alter ("Which Is Older?"), Preise; Länder-Flaggen-Fotos funktionieren als Bild (Thumbnail-Frame zeigt Flaggen + Balken).
+- Gunpowder-Trap 05.11. bleibt (Event Bonfire Night). Long-Screenshot "Reichweite" fehlt weiterhin.
