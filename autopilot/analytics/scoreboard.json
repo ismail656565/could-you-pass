@@ -362,6 +362,15 @@
     "stayed": null,
     "avgPct": null,
     "subs": 0
+   },
+   "15 Fragen": {
+    "n": 1,
+    "avgViews": 0,
+    "medianViews": 0,
+    "bestViews": 0,
+    "stayed": null,
+    "avgPct": null,
+    "subs": 0
    }
   },
   "long.topic": {
@@ -454,6 +463,15 @@
     "stayed": null,
     "avgPct": null,
     "subs": 0
+   },
+   "Sonstiges": {
+    "n": 1,
+    "avgViews": 0,
+    "medianViews": 0,
+    "bestViews": 0,
+    "stayed": null,
+    "avgPct": null,
+    "subs": 0
    }
   },
   "long.layout": {
@@ -476,9 +494,9 @@
     "subs": 1.0
    },
    "tvshow": {
-    "n": 8,
-    "avgViews": 6,
-    "medianViews": 4,
+    "n": 9,
+    "avgViews": 5,
+    "medianViews": 2,
     "bestViews": 14,
     "stayed": 47.5,
     "avgPct": 28.5,
@@ -505,9 +523,9 @@
     "subs": 1.0
    },
    "brain-pulse.wav": {
-    "n": 4,
-    "avgViews": 27,
-    "medianViews": 24,
+    "n": 5,
+    "avgViews": 22,
+    "medianViews": 1,
     "bestViews": 59,
     "stayed": 68.2,
     "avgPct": 51.8,
@@ -534,9 +552,9 @@
     "subs": 1.0
    },
    "14:00": {
-    "n": 14,
-    "avgViews": 14,
-    "medianViews": 6,
+    "n": 15,
+    "avgViews": 13,
+    "medianViews": 5,
     "bestViews": 59,
     "stayed": 58.9,
     "avgPct": 42.5,
@@ -580,7 +598,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 16.8,
+   "ageDays": 16.9,
    "search": null
   },
   {
@@ -599,7 +617,7 @@
    "avgPct": 61.12,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 16.8,
+   "ageDays": 16.9,
    "search": null
   },
   {
@@ -618,7 +636,7 @@
    "avgPct": 24.97,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 15.7,
+   "ageDays": 15.8,
    "search": null
   },
   {
@@ -637,7 +655,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 15.7,
+   "ageDays": 15.8,
    "search": null
   },
   {
@@ -789,7 +807,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 12.9,
+   "ageDays": 13.0,
    "search": null
   },
   {
@@ -808,7 +826,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 12.7,
+   "ageDays": 12.8,
    "search": null
   },
   {
@@ -827,7 +845,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 11.9,
+   "ageDays": 12.0,
    "search": null
   },
   {
@@ -865,7 +883,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 11.7,
+   "ageDays": 11.8,
    "search": null
   },
   {
@@ -903,7 +921,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 10.9,
+   "ageDays": 11.0,
    "search": null
   },
   {
@@ -922,7 +940,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 10.7,
+   "ageDays": 10.8,
    "search": null
   },
   {
@@ -1230,6 +1248,25 @@
    "search": null
   },
   {
+   "file": "2026-11-02-us-presidents-5-15.json",
+   "id": "us-presidents-5-15",
+   "videoId": "GZnsjhdoEys",
+   "kind": "long",
+   "title": "US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test",
+   "format": "15 Fragen",
+   "topic": "Sonstiges",
+   "layout": "tvshow",
+   "music": "brain-pulse.wav",
+   "slot": "14:00",
+   "publicViews": 0.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 381,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-27-long.json",
    "id": "auto-2026-10-27-long",
    "videoId": "zZDclzxCTSg",
@@ -1264,7 +1301,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 7.6,
+   "ageDays": 7.7,
    "search": null
   },
   {
@@ -1283,7 +1320,7 @@
    "avgPct": 103.39,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 7.6,
+   "ageDays": 7.7,
    "search": null
   },
   {
@@ -1340,7 +1377,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 7.6,
+   "ageDays": 7.7,
    "search": null
   },
   {
@@ -1359,7 +1396,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 5.7,
+   "ageDays": 5.8,
    "search": null
   },
   {
@@ -1378,7 +1415,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 5.7,
+   "ageDays": 5.8,
    "search": null
   },
   {
