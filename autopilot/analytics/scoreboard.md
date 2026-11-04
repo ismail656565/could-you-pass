@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-04T06:18 (12 Abos)
+# Scoreboard – Stand 2026-11-04T08:27 (12 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -27,7 +27,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | NATURE QUIZ | 1 | 865 | 865 | 865 | 39.0 | 72.0 | 0 |
 | WHICH IS BIGGER? | 1 | 861 | 861 | 861 | 56.0 | 67.5 | 0 |
 | GEOGRAPHY QUIZ | 1 | 715 | 715 | 715 | 37.5 | 114.3 | 0 |
-| GENERAL KNOWLEDGE | 5 | 689 | 616 | 1160 | 36.9 | 148.0 | 0 |
+| GENERAL KNOWLEDGE | 5 | 689 | 616 | 1160 | 36.9 | 147.9 | 0 |
 | QUICK QUIZ | 1 | 470 | 470 | 470 | 42.6 | 84.3 | 0 |
 | HALLOWEEN TRIVIA | 3 | 343 | 338 | 497 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
@@ -58,7 +58,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
-| 16:00 | 10 | 593 | 543 | 1206 | 45.2 | 99.5 | 1.0 |
+| 16:00 | 10 | 593 | 543 | 1206 | 45.2 | 99.4 | 1.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
 | 21:00 | 12 | 544 | 289 | 1160 | 49.4 | 82.1 | 0 |
 
