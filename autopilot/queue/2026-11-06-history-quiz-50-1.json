@@ -1,0 +1,927 @@
+{
+ "id": "history-quiz-50-1",
+ "publishAt": "19:00",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Fifty history questions, from easy to legend, and they get harder every round. Keep score! First one: which ancient people built the Parthenon?",
+   "a": "The Greeks! It was built in Athens to honour the goddess Athena."
+  },
+  {
+   "q": "Who sailed across the Atlantic to the Americas in fourteen ninety two?",
+   "a": "Christopher Columbus! With just three small ships."
+  },
+  {
+   "q": "Ancient Egyptians preserved their dead as what?",
+   "a": "Mummies! The whole process could take about seventy days."
+  },
+  {
+   "q": "The Great Wall was built in which country?",
+   "a": "China! Measured with all its branches, it's over twenty one thousand kilometres long."
+  },
+  {
+   "q": "Gladiators fought in the arenas of which civilisation?",
+   "a": "Ancient Rome! And most gladiators were slaves or prisoners of war, not volunteers."
+  },
+  {
+   "q": "Nice start! Samurai were warriors from which country?",
+   "a": "Japan! The samurai class was abolished in the eighteen seventies."
+  },
+  {
+   "q": "Where did the ancient Olympic Games begin?",
+   "a": "Greece! At Olympia, back in seven seventy six BC."
+  },
+  {
+   "q": "Which Roman city was buried by Mount Vesuvius in seventy nine AD?",
+   "a": "Pompeii! The ash preserved whole streets, even loaves of bread."
+  },
+  {
+   "q": "Who was killed on the Ides of March?",
+   "a": "Julius Caesar! The Ides of March is simply the fifteenth of March."
+  },
+  {
+   "q": "Last one of round one. Where did the Vikings mainly come from?",
+   "a": "Scandinavia! Norway, Sweden and Denmark."
+  },
+  {
+   "q": "Round two: medium, and it gets harder now. Which people built Chichen Itza in Mexico?",
+   "a": "The Maya! Its main pyramid has three hundred sixty five steps, one for each day of the year."
+  },
+  {
+   "q": "Who ruled England when the Spanish Armada attacked in fifteen eighty eight?",
+   "a": "Elizabeth the First! Storms wrecked much of the Armada on its way home."
+  },
+  {
+   "q": "Which English king had six wives?",
+   "a": "Henry the Eighth! Two of them were executed."
+  },
+  {
+   "q": "What was the famous trade route linking China to Europe?",
+   "a": "The Silk Road! It was really a whole network of routes."
+  },
+  {
+   "q": "Keep going! In which year did the French Revolution begin?",
+   "a": "Seventeen eighty nine! The storming of the Bastille is still celebrated every fourteenth of July."
+  },
+  {
+   "q": "Who first printed with movable metal type in Europe?",
+   "a": "Johannes Gutenberg! His famous Bible came off the press in the fourteen fifties."
+  },
+  {
+   "q": "Which Viking explorer reached North America around the year one thousand?",
+   "a": "Leif Erikson! A Viking site still survives in Newfoundland, Canada."
+  },
+  {
+   "q": "In which century did the Black Death sweep across Europe?",
+   "a": "The fourteenth! It may have killed a third of all Europeans or more."
+  },
+  {
+   "q": "Joan of Arc fought for which country?",
+   "a": "France! She was only about nineteen years old when she died."
+  },
+  {
+   "q": "Last one of round two. Who founded the Mongol Empire?",
+   "a": "Genghis Khan! It became the largest connected land empire ever."
+  },
+  {
+   "q": "Round three: hard. Ready? What was the capital of the Byzantine Empire?",
+   "a": "Constantinople! Today we call it Istanbul."
+  },
+  {
+   "q": "Which Chinese emperor was buried with an army of clay soldiers?",
+   "a": "Qin Shi Huang! The first emperor of a united China."
+  },
+  {
+   "q": "Suleiman the Magnificent ruled which empire?",
+   "a": "The Ottoman Empire! For forty six years."
+  },
+  {
+   "q": "What did the Romans call London?",
+   "a": "Londinium! They founded it nearly two thousand years ago. Did that one get you?"
+  },
+  {
+   "q": "The legendary Hanging Gardens were said to be in which city?",
+   "a": "Babylon! Strangely, no one has ever found clear proof they existed. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Whose expedition was the first to sail around the world?",
+   "a": "Magellan's! But he died on the way, and Juan Sebastián Elcano finished the trip."
+  },
+  {
+   "q": "Halfway through round three! The ruins of ancient Troy are in which modern country?",
+   "a": "Turkey! Not Greece, as many people guess."
+  },
+  {
+   "q": "Which people built the city of Tenochtitlan?",
+   "a": "The Aztecs! Mexico City is built right on top of it."
+  },
+  {
+   "q": "Which general crossed the Alps with war elephants?",
+   "a": "Hannibal! The general from Carthage, in two hundred eighteen BC."
+  },
+  {
+   "q": "Last one of round three. Who led the first team to reach the South Pole?",
+   "a": "Roald Amundsen! He beat Robert Scott by about five weeks."
+  },
+  {
+   "q": "Round four: very hard. This is where scores drop. The houses of York and Lancaster fought in which war?",
+   "a": "The Wars of the Roses! A white rose for York, a red one for Lancaster."
+  },
+  {
+   "q": "What was the first permanent English settlement in America, in sixteen oh seven?",
+   "a": "Jamestown! In Virginia, thirteen years before the Mayflower."
+  },
+  {
+   "q": "The giant Colossus statue stood on which Greek island?",
+   "a": "Rhodes! An earthquake knocked it down after only about fifty four years."
+  },
+  {
+   "q": "In which year is the Western Roman Empire said to have fallen?",
+   "a": "Four seventy six! The last emperor in the West was only a teenager."
+  },
+  {
+   "q": "Still with me? What was the capital of the Inca Empire?",
+   "a": "Cusco! High in the Andes, about three thousand four hundred metres up."
+  },
+  {
+   "q": "Which traveller wrote about the court of Kublai Khan?",
+   "a": "Marco Polo! He said he spent about seventeen years in China."
+  },
+  {
+   "q": "Which ancient wonder was a giant lighthouse?",
+   "a": "The Pharos of Alexandria! One of the tallest buildings of the ancient world."
+  },
+  {
+   "q": "Who founded the Mughal Empire in India?",
+   "a": "Babur! In fifteen twenty six. His grandson was the famous Akbar."
+  },
+  {
+   "q": "Which Chinese dynasty built most of the Great Wall we see today?",
+   "a": "The Ming! Most sections tourists walk on today are from the Ming era."
+  },
+  {
+   "q": "Last one of round four. Which Greek city-state fought the famous stand at Thermopylae?",
+   "a": "Sparta! King Leonidas and his three hundred."
+  },
+  {
+   "q": "Round five: legend. Only the best get these. Which emperor built the Hagia Sophia in five thirty seven?",
+   "a": "Justinian! For about a thousand years it was the biggest cathedral in the world."
+  },
+  {
+   "q": "Which ancient people carved the city of Petra in Jordan?",
+   "a": "The Nabataeans! Right into rose red sandstone cliffs."
+  },
+  {
+   "q": "Which peace treaty ended the Thirty Years' War in sixteen forty eight?",
+   "a": "The Peace of Westphalia! Signed in two towns, Münster and Osnabrück."
+  },
+  {
+   "q": "Mansa Musa, maybe the richest man in history, ruled which empire?",
+   "a": "The Mali Empire! His pilgrimage to Mecca handed out so much gold it hit prices in Cairo."
+  },
+  {
+   "q": "Which English king was executed in sixteen forty nine?",
+   "a": "Charles the First! England then went eleven years without a king."
+  },
+  {
+   "q": "Which Roman emperor built a wall right across northern Britain?",
+   "a": "Hadrian! Building started around one twenty two AD."
+  },
+  {
+   "q": "Which empire built Angkor Wat?",
+   "a": "The Khmer Empire! It's the largest religious monument on Earth."
+  },
+  {
+   "q": "Three left, stay with me! Who invented cuneiform, one of the first writing systems?",
+   "a": "The Sumerians! They pressed it into wet clay more than five thousand years ago."
+  },
+  {
+   "q": "Alexander the Great was king of which kingdom?",
+   "a": "Macedonia! And his teacher as a boy was Aristotle."
+  },
+  {
+   "q": "Final question. In which year did Constantinople fall to the Ottomans?",
+   "a": "Fourteen fifty three! That ended the Byzantine Empire after more than a thousand years."
+  }
+ ],
+ "youtube": {
+  "title": "History Quiz: 50 Questions From Easy to Legend 🏛️",
+  "description": "50 history questions, from ancient Greece to the age of explorers – easy to legend 🏛️ Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#HistoryQuiz #HistoryTrivia #Quiz #Trivia #AncientHistory #GeneralKnowledge\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nMusic: original.",
+  "tags": [
+   "history quiz",
+   "history trivia",
+   "history quiz questions",
+   "ancient history quiz",
+   "world history quiz",
+   "50 question quiz",
+   "trivia quiz",
+   "general knowledge quiz",
+   "quiz for adults"
+  ],
+  "categoryId": "27",
+  "comment": "How many did you get out of 50? 🏛️ Did Troy or Londinium catch you out? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "History Quiz",
+  "header": "HISTORY QUIZ",
+  "hook": "CAN YOU GET 40/50? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "HISTORY **QUIZ**",
+   "CAN YOU GET **40/50**?",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🏛️",
+  "thumbBadge": "50 Q · EASY → LEGEND",
+  "cardColors": [
+   "#7F1D1D",
+   "#2A0A0A"
+  ],
+  "thumbImage": "bilder/q2-pyramid.jpg",
+  "questions": [
+   {
+    "q": "Which ancient people built the **Parthenon**?",
+    "answers": [
+     "Romans",
+     "Persians",
+     "Greeks",
+     "Egyptians"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🏛️",
+    "fact": "Built in Athens about 2,450 years ago to honour Athena.",
+    "broll": "ancient ruins columns"
+   },
+   {
+    "q": "Who sailed to the Americas in **1492**?",
+    "answers": [
+     "Christopher Columbus",
+     "Vasco da Gama",
+     "James Cook",
+     "Marco Polo"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "⛵",
+    "fact": "He crossed with three ships: Niña, Pinta and Santa María.",
+    "broll": "sailing ship ocean"
+   },
+   {
+    "q": "Ancient **Egyptians** preserved their dead as…?",
+    "answers": [
+     "Statues",
+     "Mummies",
+     "Fossils",
+     "Ashes"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "⚱️",
+    "fact": "Making a mummy could take around 70 days."
+   },
+   {
+    "q": "The **Great Wall** was built in which country?",
+    "answers": [
+     "Mongolia",
+     "Japan",
+     "Korea",
+     "China"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🧱",
+    "fact": "A 2012 survey measured all its parts at about 21,196 km.",
+    "broll": "great wall china"
+   },
+   {
+    "q": "**Gladiators** fought in the arenas of…?",
+    "answers": [
+     "Ancient Rome",
+     "Ancient China",
+     "The Aztecs",
+     "The Vikings"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "⚔️",
+    "fact": "Most gladiators were slaves or prisoners of war.",
+    "broll": "colosseum rome"
+   },
+   {
+    "q": "**Samurai** were warriors from which country?",
+    "answers": [
+     "China",
+     "Korea",
+     "Japan",
+     "Thailand"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🗡️",
+    "fact": "Samurai were officially abolished in the 1870s."
+   },
+   {
+    "q": "Where did the ancient **Olympic Games** begin?",
+    "answers": [
+     "Italy",
+     "Greece",
+     "Egypt",
+     "Turkey"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🏅",
+    "fact": "The first recorded Games at Olympia date to 776 BC."
+   },
+   {
+    "q": "Which city was buried by **Vesuvius** in 79 AD?",
+    "answers": [
+     "Pompeii",
+     "Naples",
+     "Athens",
+     "Carthage"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🌋",
+    "fact": "The ash preserved bread, graffiti and whole streets.",
+    "broll": "volcano eruption smoke"
+   },
+   {
+    "q": "Who was killed on the **Ides of March**?",
+    "answers": [
+     "Nero",
+     "Augustus",
+     "Caligula",
+     "Julius Caesar"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🗓️",
+    "fact": "The Ides of March is 15 March. Caesar died in 44 BC."
+   },
+   {
+    "q": "The **Vikings** came mainly from…?",
+    "answers": [
+     "The Balkans",
+     "Scandinavia",
+     "North Africa",
+     "Spain"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🛶",
+    "fact": "Vikings reached North America about 500 years before Columbus.",
+    "broll": "fjord norway boat"
+   },
+   {
+    "q": "Which people built **Chichen Itza**?",
+    "answers": [
+     "Aztecs",
+     "Inca",
+     "Maya",
+     "Olmecs"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🛕",
+    "fact": "Its main pyramid has 365 steps – one for each day.",
+    "broll": "mexico pyramid ruins"
+   },
+   {
+    "q": "Who ruled England when the **Armada** attacked?",
+    "answers": [
+     "Elizabeth I",
+     "Mary I",
+     "Victoria",
+     "Anne"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "👑",
+    "fact": "The Spanish Armada sailed against England in 1588."
+   },
+   {
+    "q": "Which English king had **six wives**?",
+    "answers": [
+     "Richard III",
+     "Henry VIII",
+     "Edward I",
+     "Charles II"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "💍",
+    "fact": "Only two of his six wives were executed."
+   },
+   {
+    "q": "What linked China to Europe for **trade**?",
+    "answers": [
+     "The Spice Canal",
+     "The Amber Road",
+     "The Silk Road",
+     "The Royal Road"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🐫",
+    "fact": "It was a network of routes, not a single road.",
+    "broll": "desert camels caravan"
+   },
+   {
+    "q": "In which year did the **French Revolution** begin?",
+    "answers": [
+     "1776",
+     "1815",
+     "1848",
+     "1789"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "⚖️",
+    "fact": "It began with the storming of the Bastille on 14 July."
+   },
+   {
+    "q": "Who printed with **movable metal type** in Europe?",
+    "answers": [
+     "Gutenberg",
+     "Galileo",
+     "Da Vinci",
+     "Newton"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "📜",
+    "fact": "His famous Bible was printed around the 1450s."
+   },
+   {
+    "q": "Which Viking reached **North America** first?",
+    "answers": [
+     "Erik the Red",
+     "Leif Erikson",
+     "Ragnar",
+     "Harald"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🧭",
+    "fact": "A Viking site was found at L'Anse aux Meadows in Canada."
+   },
+   {
+    "q": "In which century did the **Black Death** hit Europe?",
+    "answers": [
+     "12th",
+     "16th",
+     "14th",
+     "10th"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "☠️",
+    "fact": "It killed perhaps a third or more of Europe's people."
+   },
+   {
+    "q": "**Joan of Arc** fought for which country?",
+    "answers": [
+     "England",
+     "Spain",
+     "Italy",
+     "France"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🛡️",
+    "fact": "She was only about 19 when she died in 1431."
+   },
+   {
+    "q": "Who founded the **Mongol** Empire?",
+    "answers": [
+     "Genghis Khan",
+     "Kublai Khan",
+     "Attila",
+     "Tamerlane"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🐎",
+    "fact": "It became the largest connected land empire in history.",
+    "broll": "horses steppe grassland"
+   },
+   {
+    "q": "What was the capital of the **Byzantine** Empire?",
+    "answers": [
+     "Rome",
+     "Athens",
+     "Constantinople",
+     "Alexandria"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🕌",
+    "fact": "Today the city is called Istanbul."
+   },
+   {
+    "q": "Which emperor was buried with a **clay army**?",
+    "answers": [
+     "Qin Shi Huang",
+     "Kublai Khan",
+     "Hirohito",
+     "Ashoka"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🗿",
+    "fact": "The Terracotta Army has thousands of life-size soldiers."
+   },
+   {
+    "q": "**Suleiman the Magnificent** ruled which empire?",
+    "answers": [
+     "Persian",
+     "Mughal",
+     "Ottoman",
+     "Byzantine"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🌙",
+    "fact": "He ruled for 46 years, from 1520 to 1566."
+   },
+   {
+    "q": "What did the Romans call **London**?",
+    "answers": [
+     "Londinium",
+     "Lugdunum",
+     "Eboracum",
+     "Aquae Sulis"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🏺",
+    "fact": "Romans founded it around AD 47.",
+    "broll": "river thames london"
+   },
+   {
+    "q": "The **Hanging Gardens** were said to be in…?",
+    "answers": [
+     "Athens",
+     "Babylon",
+     "Memphis",
+     "Troy"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🌿",
+    "fact": "No one has ever found clear proof they existed."
+   },
+   {
+    "q": "Whose expedition first sailed **around the world**?",
+    "answers": [
+     "Columbus",
+     "Drake",
+     "Cook",
+     "Magellan"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🌍",
+    "fact": "Magellan died on the way; Elcano finished in 1522.",
+    "broll": "ocean waves ship"
+   },
+   {
+    "q": "The ruins of **Troy** are in which country?",
+    "answers": [
+     "Greece",
+     "Turkey",
+     "Italy",
+     "Cyprus"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🐴",
+    "fact": "Troy lies at Hisarlik, in northwest Turkey."
+   },
+   {
+    "q": "Which people built **Tenochtitlan**?",
+    "answers": [
+     "Maya",
+     "Inca",
+     "Olmecs",
+     "Aztecs"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🛶",
+    "fact": "Mexico City stands on its ruins today."
+   },
+   {
+    "q": "Who crossed the **Alps** with elephants?",
+    "answers": [
+     "Hannibal",
+     "Julius Caesar",
+     "Alexander",
+     "Attila"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🐘",
+    "fact": "The Carthaginian general did it in 218 BC.",
+    "broll": "snowy alps mountains"
+   },
+   {
+    "q": "Who first reached the **South Pole**?",
+    "answers": [
+     "Robert Scott",
+     "Ernest Shackleton",
+     "Roald Amundsen",
+     "Edmund Hillary"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🧊",
+    "fact": "Amundsen's team arrived on 14 December 1911.",
+    "broll": "antarctica ice snow"
+   },
+   {
+    "q": "**York** and **Lancaster** fought in which war?",
+    "answers": [
+     "Hundred Years' War",
+     "Wars of the Roses",
+     "English Civil War",
+     "Thirty Years' War"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🌹",
+    "fact": "York had a white rose, Lancaster a red one."
+   },
+   {
+    "q": "First lasting English **town** in America (1607)?",
+    "answers": [
+     "Plymouth",
+     "Boston",
+     "Jamestown",
+     "Roanoke"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🏕️",
+    "fact": "Jamestown, Virginia, was founded in 1607."
+   },
+   {
+    "q": "The **Colossus** stood on which Greek island?",
+    "answers": [
+     "Crete",
+     "Rhodes",
+     "Corfu",
+     "Delos"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🗽",
+    "fact": "An earthquake toppled it after only about 54 years."
+   },
+   {
+    "q": "In which year did the **Western Roman Empire** fall?",
+    "answers": [
+     "410",
+     "476",
+     "1453",
+     "312"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🏛️",
+    "fact": "In 476 the last emperor, Romulus Augustulus, was removed."
+   },
+   {
+    "q": "What was the capital of the **Inca** Empire?",
+    "answers": [
+     "Lima",
+     "Quito",
+     "Cusco",
+     "La Paz"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🦙",
+    "fact": "Cusco sits about 3,400 m above sea level.",
+    "broll": "andes mountains peru"
+   },
+   {
+    "q": "Who wrote about the court of **Kublai Khan**?",
+    "answers": [
+     "Ibn Battuta",
+     "Marco Polo",
+     "Columbus",
+     "Magellan"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "📖",
+    "fact": "He said he spent about 17 years in China."
+   },
+   {
+    "q": "Which ancient wonder was a giant **lighthouse**?",
+    "answers": [
+     "Pharos of Alexandria",
+     "Colossus",
+     "Mausoleum",
+     "Temple of Artemis"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🗼",
+    "fact": "The Pharos was among the tallest buildings of its time."
+   },
+   {
+    "q": "Who founded the **Mughal** Empire in India?",
+    "answers": [
+     "Akbar",
+     "Shah Jahan",
+     "Aurangzeb",
+     "Babur"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🐘",
+    "fact": "Babur won the First Battle of Panipat in 1526."
+   },
+   {
+    "q": "Which dynasty built most of today's **Great Wall**?",
+    "answers": [
+     "Han",
+     "Tang",
+     "Ming",
+     "Qing"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🏯",
+    "fact": "Most sections tourists visit today are Ming-era."
+   },
+   {
+    "q": "Which city-state fought at **Thermopylae** in 480 BC?",
+    "answers": [
+     "Athens",
+     "Sparta",
+     "Corinth",
+     "Thebes"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🛡️",
+    "fact": "King Leonidas led the famous 300 Spartans."
+   },
+   {
+    "q": "Which emperor built the **Hagia Sophia** in 537?",
+    "answers": [
+     "Constantine",
+     "Justinian",
+     "Theodosius",
+     "Augustus"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🕌",
+    "fact": "For about 1,000 years it was the largest cathedral."
+   },
+   {
+    "q": "Which people carved **Petra** in Jordan?",
+    "answers": [
+     "Romans",
+     "Persians",
+     "Phoenicians",
+     "Nabataeans"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🏜️",
+    "fact": "Petra is carved straight into rose-red sandstone cliffs.",
+    "broll": "desert canyon rock"
+   },
+   {
+    "q": "Which peace ended the **Thirty Years' War**?",
+    "answers": [
+     "Utrecht",
+     "Versailles",
+     "Westphalia",
+     "Vienna"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🕊️",
+    "fact": "The Peace of Westphalia was signed in 1648."
+   },
+   {
+    "q": "**Mansa Musa** ruled which empire?",
+    "answers": [
+     "Mali",
+     "Songhai",
+     "Ghana",
+     "Ethiopia"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "💰",
+    "fact": "His 1324 pilgrimage to Mecca was famous for its gold."
+   },
+   {
+    "q": "Which English king was executed in **1649**?",
+    "answers": [
+     "Charles I",
+     "James II",
+     "Richard II",
+     "Henry VI"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🪓",
+    "fact": "England then had no king for 11 years."
+   },
+   {
+    "q": "Which Roman emperor built a wall across **Britain**?",
+    "answers": [
+     "Nero",
+     "Trajan",
+     "Hadrian",
+     "Claudius"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🧱",
+    "fact": "Work on Hadrian's Wall began around AD 122.",
+    "broll": "stone wall countryside"
+   },
+   {
+    "q": "Which empire built **Angkor Wat**?",
+    "answers": [
+     "Khmer",
+     "Siam",
+     "Champa",
+     "Majapahit"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🛕",
+    "fact": "It's the largest religious monument in the world."
+   },
+   {
+    "q": "Who invented **cuneiform** writing?",
+    "answers": [
+     "Egyptians",
+     "Sumerians",
+     "Phoenicians",
+     "Hittites"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "✍️",
+    "fact": "Cuneiform was pressed into clay over 5,000 years ago."
+   },
+   {
+    "q": "**Alexander the Great** was king of…?",
+    "answers": [
+     "Persia",
+     "Athens",
+     "Sparta",
+     "Macedonia"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🏺",
+    "fact": "He was tutored as a boy by Aristotle."
+   },
+   {
+    "q": "In which year did **Constantinople** fall?",
+    "answers": [
+     "1492",
+     "1415",
+     "1453",
+     "1517"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🏰",
+    "fact": "Ottoman forces took the city on 29 May 1453."
+   }
+  ]
+ }
+}

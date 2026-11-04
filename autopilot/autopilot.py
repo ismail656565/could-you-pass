@@ -168,6 +168,18 @@ def analytics():
             by_id[it['id']]['status'] = {k: st.get(k) for k in ('privacyStatus', 'madeForKids', 'selfDeclaredMadeForKids',
                                                                  'embeddable', 'publicStatsViewable', 'uploadStatus')}
             by_id[it['id']]['status']['ytRating'] = it['contentDetails'].get('contentRating', {}).get('ytRating')
+            # Plan 04.11.: versteckte Einschränkungen sichtbar machen (Longs mit 0 Views)
+            cd = it.get('contentDetails', {})
+            by_id[it['id']]['status'].update({
+                'regionRestriction': cd.get('regionRestriction'),
+                'contentRating': cd.get('contentRating') or None,
+                'licensedContent': cd.get('licensedContent'),
+                'rejectionReason': st.get('rejectionReason'),
+                'failureReason': st.get('failureReason'),
+                'license': st.get('license')})
+            rr_ = cd.get('regionRestriction') or {}
+            if rr_.get('blocked') or rr_.get('allowed') or st.get('rejectionReason') or st.get('failureReason'):
+                log(f"Status-Warnung {it['id']}: regionRestriction={rr_} rejection={st.get('rejectionReason')} failure={st.get('failureReason')}")
             if st.get('selfDeclaredMadeForKids'):
                 try:
                     y.videos().update(part='status', body={'id': it['id'], 'status': {
@@ -636,6 +648,9 @@ def _strip_html(t):
     return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', t or '')).strip()
 
 
+_AI_CLIP = re.compile(r'\bsora\b|openai|midjourney|dall-?e|stable[ _-]?diffusion|runway ?ml|\bveo ?[23]?\b|ai[- _]generated|\bkling\b|\bpika\b|generative ai|text-to-video', re.I)
+
+
 def _commons_candidates(query, sess):
     r = sess.get('https://commons.wikimedia.org/w/api.php', timeout=30, params={
         'action': 'query', 'format': 'json', 'generator': 'search', 'gsrsearch': f'{query} filetype:video',
@@ -660,6 +675,11 @@ def _commons_candidates(query, sess):
             continue
         title = pg['title'].replace('File:', '', 1)
         artist = _strip_html(meta.get('Artist', {}).get('value', ''))[:60] or 'unknown'
+        # Plan 04.11.: keine KI-generierten Clips (Besitzer-Regel "kein AI-Look", Synthetic-Content-Kennzeichnung)
+        blob = ' '.join([title, artist, _strip_html(meta.get('ImageDescription', {}).get('value', '')),
+                         _strip_html(meta.get('Categories', {}).get('value', ''))])
+        if _AI_CLIP.search(blob):
+            continue
         out.append({'title': title, 'src': src, 'dur': dur, 'credit': f'{title.rsplit(".", 1)[0][:70]} – {artist} ({lic})'})
     return out
 

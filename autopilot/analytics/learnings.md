@@ -344,3 +344,12 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Shorts final: VS #1 854 (3,4× 4-Trap-Median), 6+-Fragen 3/3 > 1.000 (1.433/1.234/1.181); Flops: True/False-Short 120 (pausiert), leichte 1-Frage "Hours" 463 (Ziel 700 ✗). VS #2 "Faster" 488 n. ~16 h.
 - B-Roll zog einen OpenAI-Sora-Clip (Geo-50 Q42) → Filter gegen KI-Clips in fetch_broll angefordert.
 - Konkurrenz: Quiz World Riddles 430k → 469k; neu Dopamine Quiz "F1 Tracks Part 3" 26k in 4 T (Serien-Effekt). GTA VI weiter 19.11.2026.
+
+## 2026-11-04 (Produktions-Agent, Queue 06.11.)
+- Technik: Alle Läufe 03.11. grün (10/10), Soll 03.11. erfüllt (geography-quiz-50-1, six-q-which-first-2, trap-4-history-humble; Kommentare 13:04/16:13/21:08). 04.11. + 05.11. lagen in der Queue → nur 06.11. angelegt, keine auto-*-Fallbacks.
+- Technik 1 (Plan): analytics() schreibt jetzt zusätzlich `regionRestriction`, `contentRating`, `licensedContent`, `rejectionReason`, `failureReason`, `license` je Video in report.json; bei Sperre/Ablehnung → "Status-Warnung" im Log. Ergebnis ab dem Analytics-Lauf 04.11. prüfen (Longs seit 31.10. 0 öffentliche Views).
+- Technik 2 (Plan): `_commons_candidates` verwirft B-Roll-Kandidaten mit KI-Hinweis (sora, openai, midjourney, dall-e, stable diffusion, runwayml, veo, kling, pika, "ai-generated", "generative ai", text-to-video) in Titel/Autor/Beschreibung/Kategorien. Getestet: "Wooly Mammoth by OpenAI Sora" geblockt, "Runway at airport"/"Sorano" nicht.
+- Shorts (report.json Stand 03.11. 11:47, 11 Abos): 6+-Fragen-Leader "Only Geniuses 6/6" 1.181; VS #1 854 (stayed 53 %, Ø angesehen 66 %), VS #2 488 n. ~16 h; Food-Trap 182 (stayed 63 %), Hours 463 (stayed 41 %). → Leader: 6+-Fragen > VS > 4-Trap > 1-Frage.
+- Long: 4 Longs in Folge 0 öffentliche Views (4/12, True/False-50, Presidents, Geography-50 n. <1 T) → E7 (19:00) am 06.11. mit History-50.
+- Thumbnails: weiter keine CTR (HttpError 400); History-50 testet A "HISTORY QUIZ" + Pyramiden-Foto vs. B "40/50" vs. C "LEGEND LEVEL".
+- Duplikate vermieden (gegen queue/done/stories gegrept): Kolosseum, Mona Lisa, Magna Carta, Darwin/Beagle, Hastings, Curie, Tutanchamun, Gagarin (History) sowie CO₂, 206 Knochen, Diamant, Banane, Mars, Fledermaus, Uranus (Science) → ersetzt.

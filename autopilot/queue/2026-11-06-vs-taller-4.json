@@ -1,0 +1,144 @@
+{
+ "id": "vs-taller-4",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "lines": [
+  {
+   "q": "Which is taller, the Eiffel Tower or the Great Pyramid?",
+   "a": "The Eiffel Tower! Three hundred thirty metres, more than twice the pyramid."
+  },
+  {
+   "q": "The Statue of Liberty or Big Ben's tower?",
+   "a": "Big Ben's tower! Ninety six metres, just beating Lady Liberty with her pedestal."
+  },
+  {
+   "q": "Tokyo Skytree or the CN Tower?",
+   "a": "Tokyo Skytree! Six hundred thirty four metres, the tallest tower in the world."
+  },
+  {
+   "q": "Last one. Christ the Redeemer or the Leaning Tower of Pisa?",
+   "a": "Pisa! About fifty six metres. Christ the Redeemer is thirty eight, pedestal included. Think you can get all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Which Is Taller? 4 Rounds 90% Get Wrong 🏙️ #shorts",
+  "description": "Guess the taller landmark – the bars reveal the real heights 🏙️ Did #2 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#landmarks #quiz #comparison #architecture #trivia #shorts\n\nHeight data (approximate, official sites / Encyclopaedia Britannica): Eiffel Tower 330 m incl. antenna (2022); Great Pyramid ~139 m today; Elizabeth Tower 96 m; Statue of Liberty 93 m ground to torch; Tokyo Skytree 634 m; CN Tower 553 m; Leaning Tower of Pisa ~56 m; Christ the Redeemer 38 m incl. pedestal.\nMusic: original.",
+  "tags": [
+   "which is taller",
+   "height comparison",
+   "landmarks quiz",
+   "tallest buildings",
+   "size comparison",
+   "comparison quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did Big Ben vs the Statue of Liberty get you? 🗽 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Taller?",
+  "header": "WHICH IS TALLER?",
+  "hook": "90% GET #2 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "TALLER!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which is **taller**?",
+    "answers": [
+     "Eiffel Tower",
+     "Great Pyramid"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "values": [
+     330,
+     139
+    ],
+    "valueLabels": [
+     "330 m",
+     "139 m"
+    ],
+    "icons": [
+     "🗼",
+     "🔺"
+    ]
+   },
+   {
+    "q": "Which is **taller**?",
+    "answers": [
+     "Statue of Liberty",
+     "Big Ben's tower"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     93,
+     96
+    ],
+    "valueLabels": [
+     "93 m incl. pedestal",
+     "96 m"
+    ],
+    "icons": [
+     "🗽",
+     "🕰️"
+    ]
+   },
+   {
+    "q": "Which is **taller**?",
+    "answers": [
+     "CN Tower",
+     "Tokyo Skytree"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "values": [
+     553,
+     634
+    ],
+    "valueLabels": [
+     "553 m",
+     "634 m"
+    ],
+    "icons": [
+     "📡",
+     "🗼"
+    ]
+   },
+   {
+    "q": "Which is **taller**?",
+    "answers": [
+     "Leaning Tower of Pisa",
+     "Christ the Redeemer"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "values": [
+     56,
+     38
+    ],
+    "valueLabels": [
+     "56 m",
+     "38 m incl. pedestal"
+    ],
+    "icons": [
+     "🏛️",
+     "⛰️"
+    ]
+   }
+  ]
+ }
+}
