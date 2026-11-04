@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-04T08:27",
+ "fetched": "2026-11-04T11:53",
  "channel": "COULD YOU PASS?",
  "subscribers": "12",
  "audience": {
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 40,
-   "publicViews": "233",
+   "publicViews": "239",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 57,
-   "publicViews": "51",
+   "publicViews": "52",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -285,7 +285,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 45,
-   "publicViews": "541",
+   "publicViews": "542",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -309,7 +309,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 14,
-   "publicViews": "271",
+   "publicViews": "307",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -906,7 +906,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 45,
-   "publicViews": "1201",
+   "publicViews": "1203",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -966,7 +966,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 40,
-   "publicViews": "861",
+   "publicViews": "862",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1003,7 +1003,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 13,
-   "publicViews": "470",
+   "publicViews": "479",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1025,7 +1025,7 @@
    "id": "ixo369QcvVk",
    "title": "General Knowledge Quiz: Can You Score 4/12? 🧠 7-Minute Test",
    "published": "2026-10-31T13:00:16Z",
-   "trafficError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-11-04&metric",
+   "trafficSources": {},
    "durationSec": 278,
    "publicViews": "0",
    "status": {
