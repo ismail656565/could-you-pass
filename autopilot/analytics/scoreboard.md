@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (31 Videos)
+## Shorts (32 Videos)
 
 ### Shorts nach Format
 
@@ -13,7 +13,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | VS-Vergleich | 2 | 714 | 714 | 873 | 52.2 | 69.0 | 1.0 |
 | 1-Frage-Ego-Hook | 8 | 417 | 376 | 865 | 44.1 | 102.5 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
-| 4-Fragen-Trap | 7 | 432 | 251 | 1081 | 52.6 | 88.0 | 0 |
+| 4-Fragen-Trap | 8 | 414 | 268 | 1081 | 52.6 | 88.0 | 0 |
 | Wahr/Falsch | 1 | 142 | 142 | 142 | 47.1 | 96.9 | 0 |
 
 ### Shorts nach Thema/Titeltyp
@@ -33,6 +33,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | HALLOWEEN TRIVIA | 3 | 343 | 338 | 497 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | TRIVIA | 6 | 472 | 289 | 1081 | 52.7 | 59.6 | 0 |
+| HISTORY TRIVIA | 1 | 286 | 286 | 286 | – | – | 0 |
 | SPACE QUIZ | 1 | 204 | 204 | 204 | 50.0 | 95.5 | 0 |
 | FOOD QUIZ | 1 | 184 | 184 | 184 | 64.7 | 80.4 | 0 |
 | ANIMAL QUIZ | 1 | 167 | 167 | 167 | 43.7 | 77.7 | 1.0 |
@@ -43,7 +44,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 18 | 603 | 517 | 1215 | 47.2 | 84.8 | 4.0 |
+| tvshow | 19 | 587 | 480 | 1215 | 47.2 | 84.8 | 4.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.2 | 111.5 | 0 |
 
 ### Shorts nach Musik
@@ -52,7 +53,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 9 | 724 | 616 | 1215 | 47.4 | 89.6 | 2.0 |
 | world-trip.wav | 5 | 490 | 554 | 873 | 47.9 | 77.6 | 2.0 |
-| brain-pulse.wav | 17 | 509 | 327 | 1433 | 44.5 | 105.7 | 0 |
+| brain-pulse.wav | 18 | 497 | 322 | 1433 | 44.5 | 105.7 | 0 |
 
 ### Shorts nach Sendezeit
 
@@ -61,7 +62,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
 | 16:00 | 12 | 543 | 450 | 1215 | 44.4 | 99.7 | 3.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
-| 21:00 | 13 | 546 | 327 | 1160 | 49.3 | 78.4 | 1.0 |
+| 21:00 | 14 | 527 | 306 | 1160 | 49.3 | 78.4 | 1.0 |
 
 ### Top 8 Shorts
 
