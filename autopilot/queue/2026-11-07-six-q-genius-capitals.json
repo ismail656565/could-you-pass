@@ -1,0 +1,141 @@
+{
+ "id": "six-q-genius-capitals",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "lines": [
+  {
+   "q": "What is the capital of Norway?",
+   "a": "Oslo! Home of the Nobel Peace Prize."
+  },
+  {
+   "q": "What is the capital of Scotland?",
+   "a": "Edinburgh! Not Glasgow, the bigger city."
+  },
+  {
+   "q": "What is the capital of Jamaica?",
+   "a": "Kingston! Not Montego Bay."
+  },
+  {
+   "q": "What is the capital of Tanzania?",
+   "a": "Dodoma! Not Dar es Salaam."
+  },
+  {
+   "q": "What is the capital of Nepal?",
+   "a": "Kathmandu! The gateway to Everest."
+  },
+  {
+   "q": "Last one. What is the capital of Belgium?",
+   "a": "Brussels! Got all six? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Capital Cities Quiz #shorts",
+  "description": "6 capital cities, from easy to hard 🌍 Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#capitals #capitalcities #geographyquiz #quiz #trivia #shorts\n\nMusic: original.",
+  "tags": [
+   "capital cities quiz",
+   "capitals quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "geography quiz",
+   "guess the capital",
+   "trivia quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Tanzania fools almost everyone 🦒 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Capital Cities",
+  "header": "CAPITAL CITIES",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "What is the capital of **Norway**?",
+    "answers": [
+     "Bergen",
+     "Oslo",
+     "Stavanger",
+     "Trondheim"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🫎"
+   },
+   {
+    "q": "What is the capital of **Scotland**?",
+    "answers": [
+     "Glasgow",
+     "Aberdeen",
+     "Edinburgh",
+     "Dundee"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🏰"
+   },
+   {
+    "q": "What is the capital of **Jamaica**?",
+    "answers": [
+     "Montego Bay",
+     "Kingston",
+     "Ocho Rios",
+     "Negril"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏝️"
+   },
+   {
+    "q": "What is the capital of **Tanzania**?",
+    "answers": [
+     "Dar es Salaam",
+     "Arusha",
+     "Zanzibar City",
+     "Dodoma"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🦒"
+   },
+   {
+    "q": "What is the capital of **Nepal**?",
+    "answers": [
+     "Kathmandu",
+     "Pokhara",
+     "Lhasa",
+     "Thimphu"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🏔️"
+   },
+   {
+    "q": "What is the capital of **Belgium**?",
+    "answers": [
+     "Antwerp",
+     "Bruges",
+     "Ghent",
+     "Brussels"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🧇"
+   }
+  ]
+ }
+}

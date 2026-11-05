@@ -1,0 +1,571 @@
+{
+ "id": "capital-cities-quiz-30-1",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Thirty capital cities, from easy to legend, and they get harder every round. Keep score! First one: What is the capital of the United Kingdom?",
+   "a": "London! Home of the world's very first underground railway."
+  },
+  {
+   "q": "What is the capital of China?",
+   "a": "Beijing! Shanghai is bigger, but Beijing runs the show."
+  },
+  {
+   "q": "What is the capital of Mexico?",
+   "a": "Mexico City! Built on an old lake, more than two thousand metres up."
+  },
+  {
+   "q": "What is the capital of Austria?",
+   "a": "Vienna! Mozart and Beethoven both made music there."
+  },
+  {
+   "q": "What is the capital of Sweden?",
+   "a": "Stockholm! A capital spread across fourteen islands."
+  },
+  {
+   "q": "Last one of round one. What is the capital of Thailand?",
+   "a": "Bangkok! Its full ceremonial name is one of the longest on Earth."
+  },
+  {
+   "q": "Round two: medium, and the traps begin. What is the capital of India?",
+   "a": "New Delhi! Not Mumbai, the trap most people fall into."
+  },
+  {
+   "q": "What is the capital of the Netherlands?",
+   "a": "Amsterdam! The government sits in The Hague, but the capital is Amsterdam."
+  },
+  {
+   "q": "What is the capital of Poland?",
+   "a": "Warsaw! Kraków was the old royal capital until around sixteen hundred."
+  },
+  {
+   "q": "What is the capital of Peru?",
+   "a": "Lima! Cusco was the Inca capital, Lima came with the Spanish."
+  },
+  {
+   "q": "What is the capital of the Philippines?",
+   "a": "Manila! Quezon City actually held the title from nineteen forty eight to seventy six."
+  },
+  {
+   "q": "What is the capital of Cuba?",
+   "a": "Havana! Famous for its classic old cars."
+  },
+  {
+   "q": "Round three: hard. Stay sharp! What is the capital of Saudi Arabia?",
+   "a": "Riyadh! Its name means the gardens."
+  },
+  {
+   "q": "What is the capital of the United Arab Emirates?",
+   "a": "Abu Dhabi! Dubai is more famous, but it is not the capital."
+  },
+  {
+   "q": "What is the capital of Colombia?",
+   "a": "Bogotá! Over two and a half kilometres up in the Andes. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "What is the capital of Chile?",
+   "a": "Santiago! Fun twist: Chile's congress meets in Valparaíso. Great going so far!"
+  },
+  {
+   "q": "What is the capital of Hungary?",
+   "a": "Budapest! Three towns, Buda, Óbuda and Pest, merged into one."
+  },
+  {
+   "q": "What is the capital of Ecuador?",
+   "a": "Quito! Guayaquil is bigger, but Quito is the capital."
+  },
+  {
+   "q": "Round four: very hard. Only the best get these. What is the capital of Cameroon?",
+   "a": "Yaoundé! Douala is bigger, but Yaoundé is the capital."
+  },
+  {
+   "q": "What is the capital of Belize?",
+   "a": "Belmopan! Built inland after a hurricane battered Belize City."
+  },
+  {
+   "q": "What is the capital of Slovenia?",
+   "a": "Ljubljana! Its symbol is a dragon. Bratislava is Slovakia, by the way."
+  },
+  {
+   "q": "What is the capital of Uruguay?",
+   "a": "Nice one if you got it! Montevideo! It hosted the very first World Cup final."
+  },
+  {
+   "q": "What is the capital of Paraguay?",
+   "a": "Asunción! One of the oldest cities in South America."
+  },
+  {
+   "q": "What is the capital of Malta?",
+   "a": "Valletta! The smallest capital in the whole European Union."
+  },
+  {
+   "q": "Final round: legend level! What is the capital of Liechtenstein?",
+   "a": "Vaduz! A capital with fewer than ten thousand people."
+  },
+  {
+   "q": "What is the capital of Kyrgyzstan?",
+   "a": "Bishkek! In Soviet times it was called Frunze."
+  },
+  {
+   "q": "What is the capital of Laos?",
+   "a": "Vientiane! Luang Prabang was the old royal capital."
+  },
+  {
+   "q": "Three left, stay with me! What is the capital of Suriname?",
+   "a": "Paramaribo! And fun fact, people there speak Dutch."
+  },
+  {
+   "q": "What is the capital of Brunei?",
+   "a": "Bandar Seri Begawan! Famous for a whole village on stilts."
+  },
+  {
+   "q": "Final question. What is the capital of Palau?",
+   "a": "Ngerulmud! Palau moved its capital there from Koror in two thousand six."
+  }
+ ],
+ "youtube": {
+  "title": "Capital Cities Quiz: 30 Questions From Easy to Legend 🌍",
+  "description": "30 capital cities of the world, from easy to legend 🌍 Can you get 25/30?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#CapitalCities #GeographyQuiz #CapitalsQuiz #Quiz #Trivia #WorldCapitals\n\nPhotos via Wikimedia Commons: Flag of Canada (public domain)\nMusic: original.",
+  "tags": [
+   "capital cities quiz",
+   "capitals quiz",
+   "world capitals quiz",
+   "guess the capital",
+   "geography quiz",
+   "capital cities of the world",
+   "country capitals",
+   "trivia quiz",
+   "quiz for adults"
+  ],
+  "categoryId": "27",
+  "comment": "How many did you get out of 30? 🌍 Did Amsterdam or Abu Dhabi catch you out? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Capital Cities Quiz",
+  "header": "CAPITAL CITIES QUIZ",
+  "hook": "CAN YOU GET 25/30? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 14,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "CAPITALS **QUIZ**",
+   "CAN YOU GET **25/30**?",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🌍",
+  "thumbBadge": "30 Q · EASY → LEGEND",
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "thumbImage": "bilder/cap-flag-canada.jpg",
+  "questions": [
+   {
+    "q": "What is the capital of **United Kingdom**?",
+    "answers": [
+     "Manchester",
+     "Birmingham",
+     "London",
+     "Liverpool"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "☂️",
+    "fact": "The London Underground opened in 1863 – the world's first."
+   },
+   {
+    "q": "What is the capital of **China**?",
+    "answers": [
+     "Beijing",
+     "Shanghai",
+     "Hong Kong",
+     "Guangzhou"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🐼",
+    "fact": "The Forbidden City has around 980 buildings."
+   },
+   {
+    "q": "What is the capital of **Mexico**?",
+    "answers": [
+     "Guadalajara",
+     "Monterrey",
+     "Cancún",
+     "Mexico City"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🌮",
+    "fact": "Mexico City sits about 2,240 m above sea level."
+   },
+   {
+    "q": "What is the capital of **Austria**?",
+    "answers": [
+     "Salzburg",
+     "Vienna",
+     "Graz",
+     "Innsbruck"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🎻",
+    "fact": "Mozart, Haydn and Beethoven all worked in Vienna."
+   },
+   {
+    "q": "What is the capital of **Sweden**?",
+    "answers": [
+     "Stockholm",
+     "Gothenburg",
+     "Malmö",
+     "Uppsala"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🫎",
+    "fact": "Stockholm is spread across 14 islands."
+   },
+   {
+    "q": "What is the capital of **Thailand**?",
+    "answers": [
+     "Phuket",
+     "Chiang Mai",
+     "Bangkok",
+     "Pattaya"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🛺",
+    "fact": "Bangkok's ceremonial name is one of the longest place names on Earth."
+   },
+   {
+    "q": "What is the capital of **India**?",
+    "answers": [
+     "Mumbai",
+     "New Delhi",
+     "Kolkata",
+     "Bangalore"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🐘",
+    "fact": "New Delhi was inaugurated as the capital in 1931."
+   },
+   {
+    "q": "What is the capital of **Netherlands**?",
+    "answers": [
+     "The Hague",
+     "Rotterdam",
+     "Utrecht",
+     "Amsterdam"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🌷",
+    "fact": "The government sits in The Hague, but the capital is Amsterdam."
+   },
+   {
+    "q": "What is the capital of **Poland**?",
+    "answers": [
+     "Warsaw",
+     "Kraków",
+     "Gdańsk",
+     "Wrocław"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🥟",
+    "fact": "The royal court moved from Kraków to Warsaw around 1600."
+   },
+   {
+    "q": "What is the capital of **Peru**?",
+    "answers": [
+     "Cusco",
+     "Arequipa",
+     "Lima",
+     "Trujillo"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🦙",
+    "fact": "Lima was founded by Francisco Pizarro in 1535."
+   },
+   {
+    "q": "What is the capital of **Philippines**?",
+    "answers": [
+     "Quezon City",
+     "Cebu City",
+     "Davao City",
+     "Manila"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🏝️",
+    "fact": "Quezon City was the capital from 1948 to 1976."
+   },
+   {
+    "q": "What is the capital of **Cuba**?",
+    "answers": [
+     "Santiago de Cuba",
+     "Havana",
+     "Varadero",
+     "Trinidad"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🚗",
+    "fact": "Old Havana became a UNESCO World Heritage Site in 1982."
+   },
+   {
+    "q": "What is the capital of **Saudi Arabia**?",
+    "answers": [
+     "Riyadh",
+     "Jeddah",
+     "Mecca",
+     "Medina"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🐪",
+    "fact": "Riyadh means 'the gardens' in Arabic."
+   },
+   {
+    "q": "What is the capital of **United Arab Emirates**?",
+    "answers": [
+     "Dubai",
+     "Sharjah",
+     "Abu Dhabi",
+     "Ajman"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🏜️",
+    "fact": "Abu Dhabi is by far the largest of the seven emirates."
+   },
+   {
+    "q": "What is the capital of **Colombia**?",
+    "answers": [
+     "Medellín",
+     "Bogotá",
+     "Cartagena",
+     "Cali"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "☕",
+    "fact": "Bogotá sits about 2,600 m up in the Andes."
+   },
+   {
+    "q": "What is the capital of **Chile**?",
+    "answers": [
+     "Valparaíso",
+     "Concepción",
+     "Antofagasta",
+     "Santiago"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🌶️",
+    "fact": "Chile's Congress meets in Valparaíso, not Santiago."
+   },
+   {
+    "q": "What is the capital of **Hungary**?",
+    "answers": [
+     "Debrecen",
+     "Szeged",
+     "Budapest",
+     "Pécs"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🌉",
+    "fact": "Budapest was formed in 1873 by joining Buda, Óbuda and Pest."
+   },
+   {
+    "q": "What is the capital of **Ecuador**?",
+    "answers": [
+     "Quito",
+     "Guayaquil",
+     "Cuenca",
+     "Manta"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌋",
+    "fact": "Quito was among the first UNESCO World Heritage Sites in 1978."
+   },
+   {
+    "q": "What is the capital of **Cameroon**?",
+    "answers": [
+     "Douala",
+     "Garoua",
+     "Bamenda",
+     "Yaoundé"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🦁",
+    "fact": "Douala is the biggest city, but Yaoundé is the capital."
+   },
+   {
+    "q": "What is the capital of **Belize**?",
+    "answers": [
+     "Belize City",
+     "Belmopan",
+     "San Ignacio",
+     "Orange Walk"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🐆",
+    "fact": "Belmopan was built after Hurricane Hattie hit Belize City in 1961."
+   },
+   {
+    "q": "What is the capital of **Slovenia**?",
+    "answers": [
+     "Ljubljana",
+     "Maribor",
+     "Bratislava",
+     "Koper"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🐉",
+    "fact": "Ljubljana's symbol is a dragon – see the Dragon Bridge."
+   },
+   {
+    "q": "What is the capital of **Uruguay**?",
+    "answers": [
+     "Punta del Este",
+     "Salto",
+     "Montevideo",
+     "Colonia del Sacramento"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "⚽",
+    "fact": "Montevideo hosted the first World Cup final in 1930."
+   },
+   {
+    "q": "What is the capital of **Paraguay**?",
+    "answers": [
+     "Ciudad del Este",
+     "Asunción",
+     "Encarnación",
+     "Concepción"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🧉",
+    "fact": "Founded in 1537, Asunción is one of South America's oldest cities."
+   },
+   {
+    "q": "What is the capital of **Malta**?",
+    "answers": [
+     "Mdina",
+     "Sliema",
+     "Birgu",
+     "Valletta"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🏰",
+    "fact": "Valletta is the smallest capital city in the EU."
+   },
+   {
+    "q": "What is the capital of **Liechtenstein**?",
+    "answers": [
+     "Schaan",
+     "Triesen",
+     "Vaduz",
+     "Balzers"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "⛰️",
+    "fact": "Vaduz has fewer than 10,000 residents."
+   },
+   {
+    "q": "What is the capital of **Kyrgyzstan**?",
+    "answers": [
+     "Bishkek",
+     "Osh",
+     "Karakol",
+     "Jalal-Abad"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🐎",
+    "fact": "Bishkek was called Frunze in Soviet times."
+   },
+   {
+    "q": "What is the capital of **Laos**?",
+    "answers": [
+     "Luang Prabang",
+     "Pakse",
+     "Savannakhet",
+     "Vientiane"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🛕",
+    "fact": "Luang Prabang was the old royal capital of Laos."
+   },
+   {
+    "q": "What is the capital of **Suriname**?",
+    "answers": [
+     "Georgetown",
+     "Paramaribo",
+     "Cayenne",
+     "Nieuw Nickerie"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🌴",
+    "fact": "Suriname's official language is Dutch."
+   },
+   {
+    "q": "What is the capital of **Brunei**?",
+    "answers": [
+     "Kota Kinabalu",
+     "Kuala Belait",
+     "Bandar Seri Begawan",
+     "Seria"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🕌",
+    "fact": "Its water village, Kampong Ayer, is built on stilts."
+   },
+   {
+    "q": "What is the capital of **Palau**?",
+    "answers": [
+     "Ngerulmud",
+     "Koror",
+     "Majuro",
+     "Palikir"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🐠",
+    "fact": "Palau moved its capital from Koror to Ngerulmud in 2006."
+   }
+  ]
+ }
+}

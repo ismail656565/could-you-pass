@@ -1,0 +1,144 @@
+{
+ "id": "vs-more-people-2",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "lines": [
+  {
+   "q": "Which has more people, the United States or Indonesia?",
+   "a": "The United States! About three hundred forty three million, sixty million more."
+  },
+  {
+   "q": "Germany or the Philippines?",
+   "a": "The Philippines! About one hundred fifteen million, thirty million more than Germany."
+  },
+  {
+   "q": "Ethiopia or Russia?",
+   "a": "Russia! About one hundred forty five million, but Ethiopia is catching up fast."
+  },
+  {
+   "q": "Last one. Mexico or Egypt?",
+   "a": "Mexico! About one hundred thirty million. Think you can get all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Which Country Has More People? 4 Rounds 90% Fail 👥 #shorts",
+  "description": "Guess which country has more people – the bars reveal the real population 👥 Did #2 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #population #countries #quiz #comparison #shorts\n\nPopulation data: UN World Population Prospects 2024 (mid-2023 estimates).\nMusic: original.",
+  "tags": [
+   "which has more people",
+   "population comparison",
+   "country comparison",
+   "geography quiz",
+   "population quiz",
+   "comparison quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did Germany vs the Philippines get you? 🏝️ Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "More People?",
+  "header": "WHICH HAS MORE PEOPLE?",
+  "hook": "90% GET #2 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "MORE!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "United States",
+     "Indonesia"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "values": [
+     343477335,
+     281190067
+    ],
+    "valueLabels": [
+     "343M",
+     "281M"
+    ],
+    "icons": [
+     "🗽",
+     "🌋"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Germany",
+     "Philippines"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "values": [
+     84548231,
+     114891199
+    ],
+    "valueLabels": [
+     "85M",
+     "115M"
+    ],
+    "icons": [
+     "🥨",
+     "🏝️"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Ethiopia",
+     "Russia"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     128691692,
+     145440500
+    ],
+    "valueLabels": [
+     "129M",
+     "145M"
+    ],
+    "icons": [
+     "☕",
+     "🪆"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Mexico",
+     "Egypt"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "values": [
+     129739759,
+     114535772
+    ],
+    "valueLabels": [
+     "130M",
+     "115M"
+    ],
+    "icons": [
+     "🌮",
+     "🐪"
+    ]
+   }
+  ]
+ }
+}

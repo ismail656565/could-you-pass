@@ -380,3 +380,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Frühwarnung: 6-Q-Fortsetzung "Which Came First? Round 2" nur 52 Views n. ~21 h (Runde 1: 1.234; 57 s statt ~45 s), E4 "Humble"-Trap 239 n. ~15 h → 6-Q zurück zum Titel "Only Geniuses Get 6/6 🧠" (2/2 > 1.200), Länge ≤ 50 s, keine "Round 2"-Titel.
 - Longs: E1 #1 0 (final), #2 0 n. 1,9 T, E1 #3 nur 6:28 (Schätzung 6:47) → Längenschätzer +5 %. 07.11. Start E8 #1 "Capital Cities Quiz: 30 Questions" gekoppelt an 6-Q-Capitals + VS-Einwohner ("Länder-Tag").
 - Konkurrenz: Quiz World Riddles 496k (+6 %/Tag), Clear Think "8 Min (Part 2)" 225k, Math Quiz Wortschatz 153k. GTA VI weiter 19.11.2026.
+
+## 2026-11-05 (Produktions-Agent, Queue 07.11.)
+- Technik: Alle Läufe 04.11. grün (8/8), Soll 04.11. erfüllt (gk-well-educated-5-15, six-q-quick-geo, vs-population-1; Kommentare 13:07/16:13/21:13 mit Long-Link). 05.11. + 06.11. lagen vollständig in der Queue → nur 07.11. angelegt, keine auto-*-Fallbacks in queue/.
+- Shorts (report.json weiterhin Stand 04.11. 11:53, 12 Abos): 6-Q "Only Geniuses 6/6" 1.433 (Ø angesehen 61 %) bleibt bester Titel; Capitals-Short 16.10. 1.105 (stayed 47 %) → Thema Hauptstädte trägt. VS = Leader des 21:00-Slots (948 n. 2,4 h, stayed 56 %).
+- Longs: weiter ~0 Ausspielung (Geo-50: 8 Impressionen/33 h); einziges Long mit Reichweite bleibt Emoji-15 (141, stayed 73 %). E8 #1 Capitals-30 geschätzt ~7:08 (Schätzer +5 %), Ziel 7–8 min ✓.
+- 6-Q-Capitals auf ~51 s geschätzt (Antworten ≤6 Wörter) – Plan-Länder (Italien, Nigeria, NZ, Vietnam, Marokko, Südkorea) waren alle schon benutzt → ersetzt durch Norwegen, Schottland, Jamaika, Tansania (#4 Haken Dodoma), Nepal, Belgien. Long ohne Überschneidung (30 neue Länder, u. a. Haken Amsterdam/Den Haag, Abu Dhabi/Dubai, Neu-Delhi/Mumbai, Finale Palau → Ngerulmud).
+- VS #5: Werte UN WPP 2024 (Spalte 1.7.2023, wie VS #3): USA 343M/Indonesien 281M, Deutschland 85M/Philippinen 115M, Äthiopien 129M/Russland 145M, Mexiko 130M/Ägypten 115M; Musik brain-pulse (Rotation).
+- Thumbnails: CTR weiter nicht messbar (HttpError 400) → thumbTest-Ergebnisse erst nach Studio-Screenshot.
