@@ -82,7 +82,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (18 Videos)
+## Lange Videos (19 Videos)
 
 ### Lange Videos nach Format
 
@@ -92,7 +92,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 35 Fragen | 3 | 97 | 59 | 185 | 49.0 | 26.2 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
-| 50 Fragen | 9 | 6 | 4 | 14 | 55.2 | 46.2 | 0 |
+| 50 Fragen | 10 | 6 | 4 | 14 | 55.2 | 46.2 | 0 |
 | 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 | 15 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
@@ -108,6 +108,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 22 | 6 | 59 | 61.9 | 51.9 | 0 |
 | Jahrzehnt | 1 | 4 | 4 | 4 | 50.0 | 100.0 | 0 |
+| Geografie | 1 | 3 | 3 | 3 | – | – | 0 |
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | – | – | 0 |
 | Sonstiges | 1 | 0 | 0 | 0 | – | – | 0 |
@@ -118,14 +119,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 185 | 66.5 | 52.5 | 1.0 |
-| tvshow | 9 | 6 | 2 | 14 | 48.6 | 28.3 | 0 |
+| tvshow | 10 | 5 | 2 | 14 | 48.6 | 28.3 | 0 |
 
 ### Lange Videos nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| world-trip.wav | 5 | 9 | 11 | 14 | 48.3 | 48.8 | 0 |
+| world-trip.wav | 6 | 8 | 8 | 14 | 48.3 | 48.8 | 0 |
 | game-show.wav | 7 | 33 | 6 | 185 | 62.6 | 32.1 | 1.0 |
 | brain-pulse.wav | 5 | 22 | 1 | 59 | 68.8 | 51.3 | 0 |
 
@@ -134,7 +135,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 185 | 60.1 | 45.7 | 1.0 |
-| 14:00 | 15 | 13 | 6 | 59 | 59.7 | 42.1 | 1.0 |
+| 14:00 | 16 | 12 | 5 | 59 | 59.7 | 42.1 | 1.0 |
 
 ### Top 8 Lange Videos
 
