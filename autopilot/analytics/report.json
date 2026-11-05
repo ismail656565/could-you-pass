@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-05T08:28",
+ "fetched": "2026-11-05T11:52",
  "channel": "COULD YOU PASS?",
  "subscribers": "14",
  "audience": {
@@ -83,7 +83,7 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 16052,
+    "views": 16050,
     "engagedViews": 6981
    },
    {
@@ -93,8 +93,8 @@
    },
    {
     "deviceType": "TV",
-    "views": 2007,
-    "engagedViews": 1588
+    "views": 2006,
+    "engagedViews": 1587
    },
    {
     "deviceType": "DESKTOP",
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 41,
-   "publicViews": "1000",
+   "publicViews": "1007",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 51,
-   "publicViews": "671",
+   "publicViews": "769",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -285,7 +285,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 40,
-   "publicViews": "282",
+   "publicViews": "286",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -309,7 +309,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 57,
-   "publicViews": "131",
+   "publicViews": "140",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1005,7 +1005,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 45,
-   "publicViews": "1213",
+   "publicViews": "1215",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
