@@ -374,3 +374,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Ursache: Kanal hat kein Long-Publikum (11 Abos, Shorts-Zuschauer ≠ Long-Zuschauer); YouTube testet neue Longs nur an "ähnlichen" Zuschauern – davon gibt es kaum welche, weil unsere Shorts-Formate (VS, 6-Q) inhaltlich nicht zu den Longs passen.
 - Entscheid (Manager): (1) E8-Format ab 07.11. bleibt (30 Q, enge Themen). (2) **Longs inhaltlich an die Gewinner-Shorts koppeln**: Long-Thema = Thema des VS-/6-Q-Shorts desselben Tages (z. B. VS "Which Is Taller?" → Long "Landmarks Quiz"), damit "Vorgeschlagene Videos" aus den Shorts zieht. (3) TECHNIK-Backlog: QuizLong kann noch keine VS-Balken (values) – Ziel: Long "Which Is Bigger? 30 Rounds" im VS-Stil, sobald Renderer erweitert und getestet ist. (4) Besitzer setzt im Studio unter den stärksten Shorts "Ähnliches Video" auf den Long (stärkster Hebel, nur manuell möglich).
 - Daily-Long bleibt (Produktion kostet nichts; schwache Videos schaden dem Kanal laut YouTube nicht) – Verdict E8 ≈12.11. weiterhin über Impressionen + Views.
+
+## 2026-11-05 – Research (Research-Agent)
+- VS 3/3 Treffer (862 final / 542 n. 1,7 T / 948 n. 2,4 h) → E2 abgeschlossen, VS = Exploit 21:00; 07.11. VS #5 Einwohner Runde 2 (u. a. Philippinen vs Deutschland, PH = Nr. 3 Publikum).
+- Frühwarnung: 6-Q-Fortsetzung "Which Came First? Round 2" nur 52 Views n. ~21 h (Runde 1: 1.234; 57 s statt ~45 s), E4 "Humble"-Trap 239 n. ~15 h → 6-Q zurück zum Titel "Only Geniuses Get 6/6 🧠" (2/2 > 1.200), Länge ≤ 50 s, keine "Round 2"-Titel.
+- Longs: E1 #1 0 (final), #2 0 n. 1,9 T, E1 #3 nur 6:28 (Schätzung 6:47) → Längenschätzer +5 %. 07.11. Start E8 #1 "Capital Cities Quiz: 30 Questions" gekoppelt an 6-Q-Capitals + VS-Einwohner ("Länder-Tag").
+- Konkurrenz: Quiz World Riddles 496k (+6 %/Tag), Clear Think "8 Min (Part 2)" 225k, Math Quiz Wortschatz 153k. GTA VI weiter 19.11.2026.
