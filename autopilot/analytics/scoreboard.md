@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-04T11:53 (12 Abos)
+# Scoreboard – Stand 2026-11-05T06:14 (13 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -8,13 +8,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 6+ Fragen | 3 | 1290 | 1234 | 1433 | 56.4 | 53.4 | 0 |
+| 6+ Fragen | 3 | 1293 | 1234 | 1433 | 55.2 | 53.0 | 1.0 |
 | Ersatz-Generator (1 Frage) | 6 | 775 | 888 | 1206 | 38.1 | 140.5 | 0 |
-| VS-Vergleich | 2 | 702 | 702 | 862 | 56.0 | 67.5 | 0 |
+| VS-Vergleich | 2 | 713 | 713 | 873 | 52.2 | 69.0 | 1.0 |
+| 1-Frage-Ego-Hook | 8 | 417 | 376 | 865 | 44.1 | 102.5 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
-| 1-Frage-Ego-Hook | 8 | 403 | 318 | 865 | 44.6 | 102.4 | 1.0 |
 | 4-Fragen-Trap | 7 | 432 | 251 | 1081 | 52.6 | 88.0 | 0 |
-| Wahr/Falsch | 1 | 142 | 142 | 142 | 47.6 | 129.9 | 0 |
+| Wahr/Falsch | 1 | 142 | 142 | 142 | 47.1 | 96.9 | 0 |
 
 ### Shorts nach Thema/Titeltyp
 
@@ -22,53 +22,53 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | GENIUS TEST | 1 | 1433 | 1433 | 1433 | 57.0 | 61.1 | 0 |
 | WHICH CAME FIRST? | 1 | 1234 | 1234 | 1234 | 55.1 | 46.2 | 0 |
+| TRIVIA CHALLENGE | 1 | 1212 | 1212 | 1212 | 53.6 | 51.6 | 1.0 |
 | BRAIN QUIZ | 1 | 1206 | 1206 | 1206 | 44.0 | 103.4 | 0 |
-| TRIVIA CHALLENGE | 1 | 1203 | 1203 | 1203 | 57.0 | 52.9 | 0 |
+| WHICH IS BIGGER? | 1 | 873 | 873 | 873 | 56.0 | 67.2 | 1.0 |
 | NATURE QUIZ | 1 | 865 | 865 | 865 | 39.0 | 72.0 | 0 |
-| WHICH IS BIGGER? | 1 | 862 | 862 | 862 | 56.0 | 67.5 | 0 |
 | GEOGRAPHY QUIZ | 1 | 715 | 715 | 715 | 37.5 | 114.3 | 0 |
 | GENERAL KNOWLEDGE | 5 | 689 | 616 | 1160 | 36.9 | 147.9 | 0 |
-| WHICH IS FASTER? | 1 | 542 | 542 | 542 | – | – | 0 |
-| QUICK QUIZ | 2 | 393 | 393 | 479 | 42.6 | 84.3 | 0 |
+| WHICH IS FASTER? | 1 | 553 | 553 | 553 | 48.5 | 70.8 | 0 |
+| QUICK QUIZ | 2 | 450 | 450 | 480 | 41.6 | 93.7 | 1.0 |
 | HALLOWEEN TRIVIA | 3 | 343 | 338 | 497 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | TRIVIA | 6 | 472 | 289 | 1081 | 52.7 | 59.6 | 0 |
 | SPACE QUIZ | 1 | 204 | 204 | 204 | 50.0 | 95.5 | 0 |
-| FOOD QUIZ | 1 | 182 | 182 | 182 | 64.5 | 80.4 | 0 |
+| FOOD QUIZ | 1 | 184 | 184 | 184 | 64.7 | 80.4 | 0 |
 | ANIMAL QUIZ | 1 | 167 | 167 | 167 | 43.7 | 77.7 | 1.0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
-| TRUE OR FALSE? | 1 | 142 | 142 | 142 | 47.6 | 129.9 | 0 |
+| TRUE OR FALSE? | 1 | 142 | 142 | 142 | 47.1 | 96.9 | 0 |
 
 ### Shorts nach Layout
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 17 | 622 | 542 | 1206 | 47.8 | 86.8 | 1.0 |
+| tvshow | 17 | 630 | 553 | 1212 | 47.2 | 84.8 | 4.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.2 | 111.5 | 0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 9 | 710 | 616 | 1206 | 48.6 | 88.1 | 0 |
-| world-trip.wav | 5 | 485 | 542 | 862 | 47.7 | 79.4 | 1.0 |
-| brain-pulse.wav | 16 | 532 | 328 | 1433 | 44.5 | 107.9 | 0 |
+| game-show.wav | 9 | 724 | 616 | 1212 | 47.4 | 89.6 | 2.0 |
+| world-trip.wav | 5 | 490 | 553 | 873 | 47.9 | 77.6 | 2.0 |
+| brain-pulse.wav | 16 | 532 | 328 | 1433 | 44.5 | 105.7 | 0 |
 
 ### Shorts nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
-| 16:00 | 11 | 568 | 479 | 1206 | 45.2 | 99.4 | 1.0 |
+| 16:00 | 11 | 579 | 480 | 1212 | 44.4 | 99.7 | 3.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
-| 21:00 | 13 | 544 | 327 | 1160 | 49.4 | 82.1 | 0 |
+| 21:00 | 13 | 546 | 327 | 1160 | 49.3 | 78.4 | 1.0 |
 
 ### Top 8 Shorts
 
 - 1433 Views · stayed 0.57 · 6+ Fragen · neon · brain-pulse.wav · Only Geniuses Get 6/6 🧠 Hard Trivia Quiz #shorts
 - 1234 Views · stayed 0.551 · 6+ Fragen · neon · brain-pulse.wav · Which Came First? 6 Questions 90% Get Wrong 🤯 #shorts
+- 1212 Views · stayed 0.536 · 6+ Fragen · tvshow · game-show.wav · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts
 - 1206 Views · stayed 0.44 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer: What is the smallest prime number? 🤯 #shorts
-- 1203 Views · stayed 0.57 · 6+ Fragen · tvshow · game-show.wav · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts
 - 1160 Views · stayed 0.381 · Ersatz-Generator (1 Frage) · tvshow · brain-pulse.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
 - 1160 Views · stayed 0.381 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
 - 1081 Views · stayed 0.487 · 4-Fragen-Trap · tvshow · brain-pulse.wav · 4 History Questions Almost Everyone Gets Wrong 🦖 #shorts
@@ -89,10 +89,10 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 0 Fragen | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| 35 Fragen | 3 | 97 | 59 | 185 | 48.3 | 26.8 | 0 |
-| 40 Fragen | 1 | 26 | 26 | 26 | 79.2 | 38.2 | 1.0 |
+| 35 Fragen | 3 | 97 | 59 | 185 | 49.0 | 26.2 | 0 |
+| 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
-| 50 Fragen | 9 | 6 | 2 | 14 | 54.4 | 46.3 | 0 |
+| 50 Fragen | 9 | 6 | 4 | 14 | 55.2 | 46.2 | 0 |
 | 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 | 15 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
@@ -101,13 +101,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | Emoji-Raten | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| Halloween | 2 | 116 | 116 | 185 | 55.2 | 24.9 | 0 |
-| IQ-Titel | 1 | 26 | 26 | 26 | 79.2 | 38.2 | 1.0 |
+| Halloween | 2 | 116 | 116 | 185 | 55.6 | 24.4 | 0 |
+| IQ-Titel | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | Can-You-Pass-Test | 1 | 11 | 11 | 11 | 27.3 | 37.1 | 0 |
-| Allgemeinwissen | 4 | 8 | 8 | 14 | 52.5 | 35.9 | 0 |
+| Allgemeinwissen | 4 | 8 | 8 | 14 | 54.7 | 35.6 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
-| Memory/Alters-Titel | 3 | 22 | 5 | 59 | 61.5 | 52.2 | 0 |
-| Jahrzehnt | 1 | 2 | 2 | 2 | 50.0 | 100.0 | 0 |
+| Memory/Alters-Titel | 3 | 22 | 6 | 59 | 61.9 | 51.9 | 0 |
+| Jahrzehnt | 1 | 4 | 4 | 4 | 50.0 | 100.0 | 0 |
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | – | – | 0 |
 | Sonstiges | 1 | 0 | 0 | 0 | – | – | 0 |
@@ -117,34 +117,34 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| neon | 8 | 42 | 17 | 185 | 66.0 | 53.0 | 1.0 |
-| tvshow | 9 | 5 | 2 | 14 | 47.5 | 28.5 | 0 |
+| neon | 8 | 42 | 17 | 185 | 66.5 | 52.5 | 1.0 |
+| tvshow | 9 | 6 | 2 | 14 | 48.6 | 28.3 | 0 |
 
 ### Lange Videos nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| world-trip.wav | 5 | 9 | 11 | 14 | 47.0 | 48.9 | 0 |
-| game-show.wav | 7 | 33 | 6 | 185 | 62.3 | 32.5 | 1.0 |
-| brain-pulse.wav | 5 | 22 | 1 | 59 | 68.2 | 51.8 | 0 |
+| world-trip.wav | 5 | 9 | 11 | 14 | 48.3 | 48.8 | 0 |
+| game-show.wav | 7 | 33 | 6 | 185 | 62.6 | 32.1 | 1.0 |
+| brain-pulse.wav | 5 | 22 | 1 | 59 | 68.8 | 51.3 | 0 |
 
 ### Lange Videos nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| – | 3 | 111 | 141 | 185 | 60.0 | 45.8 | 1.0 |
-| 14:00 | 15 | 13 | 5 | 59 | 58.9 | 42.5 | 1.0 |
+| – | 3 | 111 | 141 | 185 | 60.1 | 45.7 | 1.0 |
+| 14:00 | 15 | 13 | 6 | 59 | 59.7 | 42.1 | 1.0 |
 
 ### Top 8 Lange Videos
 
-- 185 Views · stayed 0.402 · 35 Fragen · neon · game-show.wav · Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend
+- 185 Views · stayed 0.405 · 35 Fragen · neon · game-show.wav · Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend
 - 141 Views · stayed 0.73 · 0 Fragen · comic · – · Guess the Word by Emoji 🧠 Only a Genius Gets 15/15!
-- 59 Views · stayed 0.345 · 35 Fragen · neon · brain-pulse.wav · Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz
-- 48 Views · stayed 0.702 · 35 Fragen · neon · brain-pulse.wav · Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions
-- 26 Views · stayed 0.792 · 40 Fragen · neon · game-show.wav · General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions
-- 14 Views · stayed 0.538 · 50 Fragen · tvshow · world-trip.wav · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
-- 14 Views · stayed 0.538 · 50 Fragen · tvshow · world-trip.wav · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
+- 59 Views · stayed 0.356 · 35 Fragen · neon · brain-pulse.wav · Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz
+- 48 Views · stayed 0.708 · 35 Fragen · neon · brain-pulse.wav · Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions
+- 26 Views · stayed 0.808 · 40 Fragen · neon · game-show.wav · General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions
+- 14 Views · stayed 0.571 · 50 Fragen · tvshow · world-trip.wav · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
+- 14 Views · stayed 0.571 · 50 Fragen · tvshow · world-trip.wav · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
 - 11 Views · stayed 0.273 · 50 Fragen · tvshow · world-trip.wav · Can You Pass the U.S. Citizenship Test? 🗽 50 Real Civics Questions | Easy to Legend
 
 ### Flop 5 Lange Videos

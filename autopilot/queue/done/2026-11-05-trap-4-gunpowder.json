@@ -25,7 +25,7 @@
  ],
  "youtube": {
   "title": "4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts",
-  "description": "Remember, remember the fifth of November 💥 4 Bonfire Night questions – most people miss #1.\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#bonfirenight #guyfawkes #gunpowderplot #historyquiz #quiz #shorts\n\nFacts: UK Parliament, Britannica.\nMusic: original.",
+  "description": "Remember, remember the fifth of November 💥 4 Bonfire Night questions – most people miss #1.\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#bonfirenight #guyfawkes #gunpowderplot #historyquiz #quiz #shorts\n\nFacts: UK Parliament, Britannica.\nFootage via Wikimedia Commons: Fireworks display at night in Japan – ChikoTokyo (CC BY-SA 4.0); Traffic Light Tree from west in June 2014 1 – Chris McKenna (CC BY-SA 3.0)\nMusic: original.",
   "tags": [
    "bonfire night",
    "gunpowder plot",
@@ -71,7 +71,12 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🎆",
-    "broll": "fireworks night sky"
+    "broll": "fireworks night sky",
+    "start": 0.0,
+    "countdownStart": 2.202,
+    "reveal": 4.702,
+    "end": 8.992,
+    "video": "broll/trap-4-gunpowder-0.mp4"
    },
    {
     "q": "What **year** was the Gunpowder Plot?",
@@ -84,7 +89,11 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "📜",
-    "broll": "old map candle"
+    "broll": "old map candle",
+    "start": 8.992,
+    "countdownStart": 11.057,
+    "reveal": 13.557,
+    "end": 16.808
    },
    {
     "q": "Which **building** was the target?",
@@ -97,7 +106,12 @@
     "correct": 3,
     "level": "MEDIUM",
     "cardText": "🏛️",
-    "broll": "london street traffic"
+    "broll": "london street traffic",
+    "start": 16.808,
+    "countdownStart": 19.167,
+    "reveal": 21.667,
+    "end": 26.9,
+    "video": "broll/trap-4-gunpowder-2.mp4"
    },
    {
     "q": "How many **barrels** of gunpowder?",
@@ -109,8 +123,23 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🛢️"
+    "cardText": "🛢️",
+    "start": 26.9,
+    "countdownStart": 30.157,
+    "reveal": 32.657,
+    "end": 37.569
    }
-  ]
- }
+  ],
+  "audio": "audio/trap-4-gunpowder.mp3",
+  "outroStart": 37.569,
+  "durationInSeconds": 37.569
+ },
+ "scheduledFor": "2026-11-05T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "Jmhx1u4Cv-M",
+  "at": "2026-11-05T06:19"
+ },
+ "linkedLong": "G6JJ4HGXJ9g"
 }

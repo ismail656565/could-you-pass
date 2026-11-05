@@ -1,0 +1,122 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Vocabulary Quiz",
+ "header": "VOCABULARY QUIZ",
+ "hook": "90% GET #1 WRONG 😏",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "What does **petrichor** mean?",
+   "answers": [
+    "A rare gemstone",
+    "Smell after rain",
+    "Fear of rocks",
+    "A morning mist"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "PETRICHOR",
+   "start": 0.0,
+   "countdownStart": 1.589,
+   "reveal": 4.089,
+   "end": 8.746
+  },
+  {
+   "q": "What does **ubiquitous** mean?",
+   "answers": [
+    "Very rare",
+    "Hard to see",
+    "Extremely old",
+    "Found everywhere"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "UBIQUITOUS",
+   "start": 8.746,
+   "countdownStart": 10.418,
+   "reveal": 12.918,
+   "end": 16.023
+  },
+  {
+   "q": "What does **ephemeral** mean?",
+   "answers": [
+    "Very short-lived",
+    "Very heavy",
+    "Glowing softly",
+    "Sounding happy"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "EPHEMERAL",
+   "start": 16.023,
+   "countdownStart": 17.542,
+   "reveal": 20.042,
+   "end": 23.434
+  },
+  {
+   "q": "What does **defenestration** mean?",
+   "answers": [
+    "Removing a fence",
+    "Losing a war",
+    "Out of a window",
+    "Tearing down a wall"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "DEFENESTRATION",
+   "start": 23.434,
+   "countdownStart": 25.292,
+   "reveal": 27.792,
+   "end": 32.842
+  },
+  {
+   "q": "What does **serendipity** mean?",
+   "answers": [
+    "Lucky accident",
+    "Deep sadness",
+    "A calm sea",
+    "Perfect timing"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "SERENDIPITY",
+   "start": 32.842,
+   "countdownStart": 34.522,
+   "reveal": 37.022,
+   "end": 41.394
+  },
+  {
+   "q": "What does **sesquipedalian** mean?",
+   "answers": [
+    "Six-legged",
+    "Using long words",
+    "Walking slowly",
+    "Half a century"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "SESQUIPEDALIAN",
+   "start": 41.394,
+   "countdownStart": 43.688,
+   "reveal": 46.188,
+   "end": 51.087
+  }
+ ],
+ "audio": "audio/six-q-vocabulary-1.mp3",
+ "outroStart": 51.087,
+ "durationInSeconds": 51.087
+}

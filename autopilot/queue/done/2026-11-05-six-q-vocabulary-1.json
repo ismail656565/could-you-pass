@@ -78,7 +78,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "PETRICHOR"
+    "cardText": "PETRICHOR",
+    "start": 0.0,
+    "countdownStart": 1.589,
+    "reveal": 4.089,
+    "end": 8.746
    },
    {
     "q": "What does **ubiquitous** mean?",
@@ -90,7 +94,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "UBIQUITOUS"
+    "cardText": "UBIQUITOUS",
+    "start": 8.746,
+    "countdownStart": 10.418,
+    "reveal": 12.918,
+    "end": 16.023
    },
    {
     "q": "What does **ephemeral** mean?",
@@ -102,7 +110,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "EPHEMERAL"
+    "cardText": "EPHEMERAL",
+    "start": 16.023,
+    "countdownStart": 17.542,
+    "reveal": 20.042,
+    "end": 23.434
    },
    {
     "q": "What does **defenestration** mean?",
@@ -114,7 +126,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "DEFENESTRATION"
+    "cardText": "DEFENESTRATION",
+    "start": 23.434,
+    "countdownStart": 25.292,
+    "reveal": 27.792,
+    "end": 32.842
    },
    {
     "q": "What does **serendipity** mean?",
@@ -126,7 +142,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "SERENDIPITY"
+    "cardText": "SERENDIPITY",
+    "start": 32.842,
+    "countdownStart": 34.522,
+    "reveal": 37.022,
+    "end": 41.394
    },
    {
     "q": "What does **sesquipedalian** mean?",
@@ -138,8 +158,23 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "SESQUIPEDALIAN"
+    "cardText": "SESQUIPEDALIAN",
+    "start": 41.394,
+    "countdownStart": 43.688,
+    "reveal": 46.188,
+    "end": 51.087
    }
-  ]
- }
+  ],
+  "audio": "audio/six-q-vocabulary-1.mp3",
+  "outroStart": 51.087,
+  "durationInSeconds": 51.087
+ },
+ "scheduledFor": "2026-11-05T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "I_OcWXkLB7M",
+  "at": "2026-11-05T06:16"
+ },
+ "linkedLong": "G6JJ4HGXJ9g"
 }

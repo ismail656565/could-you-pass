@@ -264,7 +264,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🌧️ + 🎀"
+    "cardText": "🌧️ + 🎀",
+    "start": 0.0,
+    "countdownStart": 7.958,
+    "reveal": 13.458,
+    "end": 18.852
    },
    {
     "q": "Which **word** is this?",
@@ -276,7 +280,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "☀️ + 🌸"
+    "cardText": "☀️ + 🌸",
+    "start": 18.852,
+    "countdownStart": 20.45,
+    "reveal": 25.95,
+    "end": 31.428
    },
    {
     "q": "Which **word** is this?",
@@ -288,7 +296,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "❄️ + 👨"
+    "cardText": "❄️ + 👨",
+    "start": 31.428,
+    "countdownStart": 32.916,
+    "reveal": 38.416,
+    "end": 43.306
    },
    {
     "q": "Which **word** is this?",
@@ -300,7 +312,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🔥 + 🪰"
+    "cardText": "🔥 + 🪰",
+    "start": 43.306,
+    "countdownStart": 44.89,
+    "reveal": 50.39,
+    "end": 55.803
    },
    {
     "q": "Which **word** is this?",
@@ -312,7 +328,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🌙 + 💡"
+    "cardText": "🌙 + 💡",
+    "start": 55.803,
+    "countdownStart": 57.62,
+    "reveal": 63.12,
+    "end": 69.598
    },
    {
     "q": "Which **word** is this?",
@@ -324,7 +344,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🔑 + 🕳️"
+    "cardText": "🔑 + 🕳️",
+    "start": 69.598,
+    "countdownStart": 71.16,
+    "reveal": 76.66,
+    "end": 80.157
    },
    {
     "q": "Which **word** is this?",
@@ -336,7 +360,11 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🐱 + 🐟"
+    "cardText": "🐱 + 🐟",
+    "start": 80.157,
+    "countdownStart": 81.745,
+    "reveal": 87.245,
+    "end": 91.783
    },
    {
     "q": "Which **word** is this?",
@@ -348,7 +376,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🍯 + 🌙"
+    "cardText": "🍯 + 🌙",
+    "start": 91.783,
+    "countdownStart": 93.278,
+    "reveal": 98.778,
+    "end": 102.613
    },
    {
     "q": "Which **word** is this?",
@@ -360,7 +392,11 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🧈 + 🥛"
+    "cardText": "🧈 + 🥛",
+    "start": 102.613,
+    "countdownStart": 104.141,
+    "reveal": 109.641,
+    "end": 114.372
    },
    {
     "q": "Which **word** is this?",
@@ -372,7 +408,11 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "⛵ + 🏠"
+    "cardText": "⛵ + 🏠",
+    "start": 114.372,
+    "countdownStart": 118.628,
+    "reveal": 124.128,
+    "end": 130.305
    },
    {
     "q": "Which **word** is this?",
@@ -384,7 +424,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "✋ + 👜"
+    "cardText": "✋ + 👜",
+    "start": 130.305,
+    "countdownStart": 134.139,
+    "reveal": 139.639,
+    "end": 144.594
    },
    {
     "q": "Which **word** is this?",
@@ -396,7 +440,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🐉 + 🪰"
+    "cardText": "🐉 + 🪰",
+    "start": 144.594,
+    "countdownStart": 146.315,
+    "reveal": 151.815,
+    "end": 156.385
    },
    {
     "q": "Which **word** is this?",
@@ -408,7 +456,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🥚 + 🌱"
+    "cardText": "🥚 + 🌱",
+    "start": 156.385,
+    "countdownStart": 157.961,
+    "reveal": 163.461,
+    "end": 167.626
    },
    {
     "q": "Which **word** is this?",
@@ -420,7 +472,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🐴 + 👞"
+    "cardText": "🐴 + 👞",
+    "start": 167.626,
+    "countdownStart": 169.142,
+    "reveal": 174.642,
+    "end": 178.52
    },
    {
     "q": "Which **word** is this?",
@@ -432,7 +488,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "💧 + 🍉"
+    "cardText": "💧 + 🍉",
+    "start": 178.52,
+    "countdownStart": 181.046,
+    "reveal": 186.546,
+    "end": 191.546
    },
    {
     "q": "Which **word** is this?",
@@ -444,7 +504,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "👩 + 🐛"
+    "cardText": "👩 + 🐛",
+    "start": 191.546,
+    "countdownStart": 193.131,
+    "reveal": 198.631,
+    "end": 202.572
    },
    {
     "q": "Which **word** is this?",
@@ -456,7 +520,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "📖 + 🐛"
+    "cardText": "📖 + 🐛",
+    "start": 202.572,
+    "countdownStart": 204.124,
+    "reveal": 209.624,
+    "end": 213.842
    },
    {
     "q": "Which **word** is this?",
@@ -468,7 +536,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "👂 + 💍"
+    "cardText": "👂 + 💍",
+    "start": 213.842,
+    "countdownStart": 215.359,
+    "reveal": 220.859,
+    "end": 224.47
    },
    {
     "q": "Which **word** is this?",
@@ -480,7 +552,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🚪 + 🔔"
+    "cardText": "🚪 + 🔔",
+    "start": 224.47,
+    "countdownStart": 225.986,
+    "reveal": 231.486,
+    "end": 235.303
    },
    {
     "q": "Which **word** is this?",
@@ -492,7 +568,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🦷 + 🖌️"
+    "cardText": "🦷 + 🖌️",
+    "start": 235.303,
+    "countdownStart": 238.411,
+    "reveal": 243.911,
+    "end": 252.532
    },
    {
     "q": "Which **word** is this?",
@@ -504,7 +584,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🐮 + 👦"
+    "cardText": "🐮 + 👦",
+    "start": 252.532,
+    "countdownStart": 256.919,
+    "reveal": 262.419,
+    "end": 266.844
    },
    {
     "q": "Which **word** is this?",
@@ -516,7 +600,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "💡 + 🏠"
+    "cardText": "💡 + 🏠",
+    "start": 266.844,
+    "countdownStart": 268.708,
+    "reveal": 274.208,
+    "end": 279.829
    },
    {
     "q": "Which **word** is this?",
@@ -528,7 +616,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🧠 + 🌪️"
+    "cardText": "🧠 + 🌪️",
+    "start": 279.829,
+    "countdownStart": 281.468,
+    "reveal": 286.968,
+    "end": 290.933
    },
    {
     "q": "Which **word** is this?",
@@ -540,7 +632,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🐟 + 🥣"
+    "cardText": "🐟 + 🥣",
+    "start": 290.933,
+    "countdownStart": 292.507,
+    "reveal": 298.007,
+    "end": 301.496
    },
    {
     "q": "Which **word** is this?",
@@ -552,7 +648,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🌧️ + 🌳"
+    "cardText": "🌧️ + 🌳",
+    "start": 301.496,
+    "countdownStart": 302.912,
+    "reveal": 308.412,
+    "end": 315.672
    },
    {
     "q": "Which **word** is this?",
@@ -564,7 +664,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🧀 + 🎂"
+    "cardText": "🧀 + 🎂",
+    "start": 315.672,
+    "countdownStart": 317.212,
+    "reveal": 322.712,
+    "end": 327.326
    },
    {
     "q": "Which **word** is this?",
@@ -576,7 +680,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🌳 + 🏠"
+    "cardText": "🌳 + 🏠",
+    "start": 327.326,
+    "countdownStart": 328.941,
+    "reveal": 334.441,
+    "end": 338.011
    },
    {
     "q": "Which **word** is this?",
@@ -588,7 +696,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🦶 + 🖨️"
+    "cardText": "🦶 + 🖨️",
+    "start": 338.011,
+    "countdownStart": 340.537,
+    "reveal": 346.037,
+    "end": 350.402
    },
    {
     "q": "Which **word** is this?",
@@ -600,7 +712,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "💤 + 🚶"
+    "cardText": "💤 + 🚶",
+    "start": 350.402,
+    "countdownStart": 351.972,
+    "reveal": 357.472,
+    "end": 361.942
    },
    {
     "q": "Which **word** is this?",
@@ -612,7 +728,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🌍 + 🐛"
+    "cardText": "🌍 + 🐛",
+    "start": 361.942,
+    "countdownStart": 364.766,
+    "reveal": 370.266,
+    "end": 378.268
    },
    {
     "q": "Which **word** is this?",
@@ -624,7 +744,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🐌 + ✉️"
+    "cardText": "🐌 + ✉️",
+    "start": 378.268,
+    "countdownStart": 383.097,
+    "reveal": 388.597,
+    "end": 392.85
    },
    {
     "q": "Which **word** is this?",
@@ -636,7 +760,11 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "👀 + 🍬"
+    "cardText": "👀 + 🍬",
+    "start": 392.85,
+    "countdownStart": 394.36,
+    "reveal": 399.86,
+    "end": 404.2
    },
    {
     "q": "Which **word** is this?",
@@ -648,7 +776,11 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "🔥 + 🏠"
+    "cardText": "🔥 + 🏠",
+    "start": 404.2,
+    "countdownStart": 406.37,
+    "reveal": 411.87,
+    "end": 416.378
    },
    {
     "q": "Which **word** is this?",
@@ -660,7 +792,11 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🛏️ + 🐛"
+    "cardText": "🛏️ + 🐛",
+    "start": 416.378,
+    "countdownStart": 417.901,
+    "reveal": 423.401,
+    "end": 428.084
    },
    {
     "q": "Which **word** is this?",
@@ -672,7 +808,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🐂 + 👁️"
+    "cardText": "🐂 + 👁️",
+    "start": 428.084,
+    "countdownStart": 429.645,
+    "reveal": 435.145,
+    "end": 440.479
    },
    {
     "q": "Which **word** is this?",
@@ -684,7 +824,11 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🧠 + 🌊"
+    "cardText": "🧠 + 🌊",
+    "start": 440.479,
+    "countdownStart": 442.128,
+    "reveal": 447.628,
+    "end": 452.628
    },
    {
     "q": "Which **word** is this?",
@@ -696,7 +840,11 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "🐴 + 💪"
+    "cardText": "🐴 + 💪",
+    "start": 452.628,
+    "countdownStart": 454.397,
+    "reveal": 459.897,
+    "end": 464.65
    },
    {
     "q": "Which **word** is this?",
@@ -708,7 +856,11 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "👻 + ✍️"
+    "cardText": "👻 + ✍️",
+    "start": 464.65,
+    "countdownStart": 466.608,
+    "reveal": 472.108,
+    "end": 477.41
    },
    {
     "q": "Which **word** is this?",
@@ -720,7 +872,11 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "💰 + 🦈"
+    "cardText": "💰 + 🦈",
+    "start": 477.41,
+    "countdownStart": 478.963,
+    "reveal": 484.463,
+    "end": 489.741
    },
    {
     "q": "Which **saying** is this?",
@@ -732,7 +888,11 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🦵 + 💥"
+    "cardText": "🦵 + 💥",
+    "start": 489.741,
+    "countdownStart": 493.297,
+    "reveal": 498.797,
+    "end": 505.698
    },
    {
     "q": "Which **saying** is this?",
@@ -744,7 +904,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🐘 + 🛋️"
+    "cardText": "🐘 + 🛋️",
+    "start": 505.698,
+    "countdownStart": 510.357,
+    "reveal": 515.857,
+    "end": 520.772
    },
    {
     "q": "Which **saying** is this?",
@@ -756,7 +920,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🌧️ + 🐱 + 🐶"
+    "cardText": "🌧️ + 🐱 + 🐶",
+    "start": 520.772,
+    "countdownStart": 522.867,
+    "reveal": 528.367,
+    "end": 534.366
    },
    {
     "q": "Which **word** is this?",
@@ -768,7 +936,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🍰 + 🚶"
+    "cardText": "🍰 + 🚶",
+    "start": 534.366,
+    "countdownStart": 535.978,
+    "reveal": 541.478,
+    "end": 547.471
    },
    {
     "q": "Which **saying** is this?",
@@ -780,7 +952,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🥶 + 🦃"
+    "cardText": "🥶 + 🦃",
+    "start": 547.471,
+    "countdownStart": 549.475,
+    "reveal": 554.975,
+    "end": 558.753
    },
    {
     "q": "Which **saying** is this?",
@@ -792,7 +968,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🍎 + 👁️"
+    "cardText": "🍎 + 👁️",
+    "start": 558.753,
+    "countdownStart": 560.376,
+    "reveal": 565.876,
+    "end": 573.251
    },
    {
     "q": "Which **word** is this?",
@@ -804,7 +984,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🐈 + 💤"
+    "cardText": "🐈 + 💤",
+    "start": 573.251,
+    "countdownStart": 574.781,
+    "reveal": 580.281,
+    "end": 584.402
    },
    {
     "q": "Which **saying** is this?",
@@ -816,7 +1000,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🔵 + 🌕"
+    "cardText": "🔵 + 🌕",
+    "start": 584.402,
+    "countdownStart": 586.018,
+    "reveal": 591.518,
+    "end": 598.305
    },
    {
     "q": "Which **saying** is this?",
@@ -828,7 +1016,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "🐦🐦 + 🪨"
+    "cardText": "🐦🐦 + 🪨",
+    "start": 598.305,
+    "countdownStart": 601.475,
+    "reveal": 606.975,
+    "end": 612.382
    },
    {
     "q": "Which **saying** is this?",
@@ -840,7 +1032,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🌶️ + 🥔"
+    "cardText": "🌶️ + 🥔",
+    "start": 612.382,
+    "countdownStart": 614.347,
+    "reveal": 619.847,
+    "end": 623.944
    },
    {
     "q": "Which **saying** is this?",
@@ -852,12 +1048,38 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "☁️ + 9️⃣"
+    "cardText": "☁️ + 9️⃣",
+    "start": 623.944,
+    "countdownStart": 626.978,
+    "reveal": 632.478,
+    "end": 636.053
    }
   ],
   "thumbPuzzle": [
    "⭐",
    "🐟"
-  ]
+  ],
+  "audio": "audio/emoji-word-50-1.mp3",
+  "outroStart": 636.053,
+  "durationInSeconds": 645.841
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/emoji-word-50-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-11-05",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-05T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "G6JJ4HGXJ9g",
+  "at": "2026-11-05T06:43"
  }
 }
