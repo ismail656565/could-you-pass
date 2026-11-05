@@ -44,6 +44,8 @@ export type QuizQuestion = {
   icons?: string[];
   /** Foto je Seite (public/, nur aus image-credits.json) */
   images?: string[];
+  /** Sekunden (absolut): Moment, in dem die Stimme das **Schlüsselwort** spricht (von der Action berechnet) */
+  keywordAt?: number;
   /** Sekunden: Frage erscheint */
   start: number;
   /** Sekunden: Countdown beginnt */

@@ -37,19 +37,28 @@ export const T = {
 const LETTERS = ['A', 'B', 'C', 'D'];
 const levelColor = (l: string) => (/legend/i.test(l) ? '#B98AE8' : /very/i.test(l) ? '#E07A5F' : /hard|schwer/i.test(l) ? '#E9A06B' : /med|mittel/i.test(l) ? T.gold : '#7FC8A9');
 
-export const TvHighlighted: React.FC<{text: string; accent?: string}> = ({text, accent = T.gold}) => (
-  <>
-    {text.split(/(\*\*[^*]+\*\*)/).map((p, i) =>
-      p.startsWith('**') ? (
-        <span key={i} style={{color: accent}}>
-          {p.slice(2, -2)}
-        </span>
-      ) : (
-        <span key={i}>{p}</span>
-      ),
-    )}
-  </>
-);
+/** Schlüsselwort rot; mit `at` (Sekunden ab Szenenstart) zusätzlich wortgenau zur Stimme: kurzer Pop + Marker-Unterstrich (Idee: video-talkcraft) */
+export const TvHighlighted: React.FC<{text: string; accent?: string; at?: number}> = ({text, accent = T.gold, at}) => {
+  const frame = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  const synced = typeof at === 'number' && at >= 0;
+  const f = synced ? frame - Math.round((at as number) * fps) : 0;
+  const sweep = synced ? interpolate(f, [0, 7], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 0;
+  const pop = synced ? 1 + 0.09 * Math.sin(Math.PI * interpolate(f, [0, 9], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})) : 1;
+  return (
+    <>
+      {text.split(/(\*\*[^*]+\*\*)/).map((p, i) =>
+        p.startsWith('**') ? (
+          <span key={i} style={{color: accent, display: synced ? 'inline-block' : undefined, transform: synced ? `scale(${pop})` : undefined, backgroundImage: synced ? `linear-gradient(${accent}38, ${accent}38)` : undefined, backgroundRepeat: 'no-repeat', backgroundPosition: '0 88%', backgroundSize: synced ? `${sweep * 100}% 0.22em` : undefined}}>
+            {p.slice(2, -2)}
+          </span>
+        ) : (
+          <span key={i}>{p}</span>
+        ),
+      )}
+    </>
+  );
+};
 
 /** Hintergrund: flaches Nachtblau mit feinem, ruhigem Sternenmuster (statisch, kein Licht-Effekt) */
 const STARS = (() => {
@@ -283,7 +292,7 @@ export const TvScene: React.FC<{q: QuizQuestion; index: number; total: number; s
         <TvCard q={q} story={story} x={S.LEFT} y={S.CARD_Y} w={S.FULL_W} h={S.CARD_H} index={index} factSize={34} />
         <Lozenge x={S.LEFT} y={S.Q_Y} w={S.FULL_W} h={S.Q_H} paper>
           <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 800, fontSize: qSizeFor(plain, 76), lineHeight: 1.12, color: T.ink}}>
-            <TvHighlighted text={q.q} accent={story.accent ?? T.red} />
+            <TvHighlighted text={q.q} accent={story.accent ?? T.red} at={q.keywordAt != null ? q.keywordAt - q.start : undefined} />
           </div>
         </Lozenge>
       </div>
@@ -416,7 +425,7 @@ export const TvLongScene: React.FC<{q: QuizQuestion; index: number; story: QuizS
         <TvCard q={q} story={story} x={L.X} y={L.CARD_Y} w={L.CARD_W} h={L.CARD_H} index={index} factSize={36} />
         <Lozenge x={L.X} y={L.Q_Y} w={1780} h={L.Q_H} paper>
           <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 800, fontSize: qSizeFor(plain, 70), lineHeight: 1.12, color: T.ink}}>
-            <TvHighlighted text={q.q} accent={story.accent ?? T.red} />
+            <TvHighlighted text={q.q} accent={story.accent ?? T.red} at={q.keywordAt != null ? q.keywordAt - q.start : undefined} />
           </div>
         </Lozenge>
       </div>
@@ -597,7 +606,7 @@ export const CompareScene: React.FC<{q: QuizQuestion; index: number; total: numb
       <div style={{position: 'absolute', inset: 0, opacity: enter}}>
         <Lozenge x={S.LEFT} y={250} w={S.FULL_W} h={210} paper>
           <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 800, fontSize: qSizeFor(plain, 76), lineHeight: 1.12, color: T.ink}}>
-            <TvHighlighted text={q.q} accent={story.accent ?? T.red} />
+            <TvHighlighted text={q.q} accent={story.accent ?? T.red} at={q.keywordAt != null ? q.keywordAt - q.start : undefined} />
           </div>
         </Lozenge>
         {q.answers.slice(0, 2).map((a, i) => {

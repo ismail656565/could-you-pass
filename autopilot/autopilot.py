@@ -303,6 +303,26 @@ def make_speaker(item):
     return lambda text: tts(key, vid, text, model)
 
 
+def keyword_offset(q_text, spoken, dur):
+    """Wann spricht die Stimme das **Schlüsselwort**? Kokoro liefert keine Wortzeiten → Schätzung über die
+    Zeichenposition im gesprochenen Satz (±0,3 s; Pausen am Satzanfang/-ende abgezogen). None, wenn nicht gefunden."""
+    import re as _re
+    m = _re.search(r'\*\*([^*]+)\*\*', q_text or '')
+    if not m or not spoken or dur <= 0:
+        return None
+    kw = m.group(1).strip().lower()
+    sp = spoken.lower()
+    i = sp.find(kw)
+    if i < 0:  # z. B. "1492" im Bild, "fourteen ninety two" gesprochen → erstes Wort probieren
+        first = _re.sub(r'[^a-z]', '', kw.split()[0]) if kw.split() else ''
+        i = sp.find(first) if len(first) >= 4 else -1
+    if i < 0:
+        return None
+    lead, trail = 0.08, 0.15  # typische Stille vor/nach Kokoro-Sätzen
+    frac = i / max(1, len(sp))
+    return max(0.0, lead + frac * max(0.1, dur - lead - trail))
+
+
 def build_audio(item, out_mp3):
     import numpy as np
     speak = make_speaker(item)
@@ -327,6 +347,9 @@ def build_audio(item, out_mp3):
         qa = decode(speak(ln['q']), tmp, tempo)
         aa = decode(speak(ln['a']), tmp, tempo)
         q['start'] = round(t, 3)
+        kw = keyword_offset(q.get('q', ''), ln['q'], len(qa) / SR)
+        if kw is not None:
+            q['keywordAt'] = round(t + kw, 3)
         put(qa)
         put(z(GAP_Q))
         q['countdownStart'] = round(t, 3)
@@ -778,6 +801,65 @@ def add_broll_credits(item, credits):
 
 
 
+def qa_check(mp4, item):
+    """Messbare Qualitätsprüfung nach dem Rendern (aus echris6/motion-video-kit, quality-bar.md):
+    Lautheit (Ziel −14 LUFS, True Peak ≤ −1 dBTP → sonst automatisch normalisieren), eingefrorene Strecken,
+    erstes Bild fertig (nicht schwarz). Ergebnis in item['qa'] + Log. Bricht nie den Upload ab."""
+    import re as _re
+    ff = ffmpeg_bin()
+    res = {}
+    try:
+        out = subprocess.run([ff, '-hide_banner', '-nostats', '-i', str(mp4), '-af', 'ebur128=peak=true', '-f', 'null', '-'],
+                             capture_output=True, text=True, timeout=900).stderr
+        summ = out[out.rfind('Summary:'):] if 'Summary:' in out else out
+        gi = _re.search(r'I:\s*(-?[\d.]+) LUFS', summ)
+        gp = _re.search(r'Peak:\s*(-?[\d.]+|-inf) dBFS', summ)
+        lra = _re.search(r'LRA:\s*(-?[\d.]+) LU', summ)
+        if gi:
+            res['lufs'] = float(gi.group(1))
+        if gp and gp.group(1) != '-inf':
+            res['truePeak'] = float(gp.group(1))
+        if lra:
+            res['lra'] = float(lra.group(1))
+        if 'lufs' in res and (abs(res['lufs'] + 14) > 1.5 or res.get('truePeak', -2) > -1.0):
+            tmp = Path(str(mp4).replace('.mp4', '.norm.mp4'))
+            r = subprocess.run([ff, '-v', 'error', '-y', '-i', str(mp4), '-c:v', 'copy', '-af', 'loudnorm=I=-14:TP=-1.5:LRA=11',
+                                '-ar', '48000', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', str(tmp)], timeout=900)
+            if r.returncode == 0 and tmp.exists():
+                shutil.move(str(tmp), str(mp4))
+                res['normalized'] = True
+        # eingefrorene Strecken (Bilddifferenz ~0) bei 5 fps; Countdown-Pausen zählen mit, daher nur Info + Grenzwert für lange Standbilder
+        fz = subprocess.run([ff, '-hide_banner', '-i', str(mp4), '-vf', 'fps=5,scale=240:-1,format=gray,tblend=all_mode=difference,signalstats,metadata=print:key=lavfi.signalstats.YAVG',
+                             '-an', '-f', 'null', '-'], capture_output=True, text=True, timeout=1800).stderr
+        vals = [float(v) for v in _re.findall(r'YAVG=([\d.]+)', fz)]
+        if vals:
+            frozen = [v < 0.35 for v in vals]
+            longest = cur = 0
+            for f in frozen:
+                cur = cur + 1 if f else 0
+                longest = max(longest, cur)
+            res['frozenShare'] = round(sum(frozen) / len(vals), 3)
+            res['longestFreezeSec'] = round(longest / 5, 1)
+        # erstes Bild: mittlere Helligkeit (schwarz/leer = schlechter Hook-Frame)
+        f0 = subprocess.run([ff, '-hide_banner', '-i', str(mp4), '-frames:v', '1', '-vf', 'scale=240:-1,format=gray,signalstats,metadata=print:key=lavfi.signalstats.YAVG', '-f', 'null', '-'],
+                            capture_output=True, text=True, timeout=120).stderr
+        y0 = _re.search(r'YAVG=([\d.]+)', f0)
+        if y0:
+            res['frame0Luma'] = round(float(y0.group(1)), 1)
+        warn = []
+        if res.get('longestFreezeSec', 0) > 6:
+            warn.append(f"Standbild {res['longestFreezeSec']} s")
+        if res.get('frame0Luma', 100) < 12:
+            warn.append('erstes Bild fast schwarz')
+        res['warnings'] = warn
+        log(f"QA: {res.get('lufs')} LUFS, TP {res.get('truePeak')} dBTP{' → normalisiert auf −14' if res.get('normalized') else ''}, "
+            f"Standbild max {res.get('longestFreezeSec')} s, Frame0-Luma {res.get('frame0Luma')}" + (f" | WARNUNG: {'; '.join(warn)}" if warn else ''))
+    except Exception as ex:
+        log('QA übersprungen:', str(ex)[:200])
+    item['qa'] = res
+    return res
+
+
 def produce_one(p):
     item = json.loads(p.read_text(encoding='utf-8'))
     name = item['id']
@@ -796,6 +878,7 @@ def produce_one(p):
         if r.returncode != 0 or not mp4.exists():
             raise RuntimeError('Rendern fehlgeschlagen: ' + (r.stdout[-1500:] + r.stderr[-1500:]).replace('\n', ' | '))
         log('Gerendert')
+        qa_check(mp4, item)
         if story.get('format') == 'long':
             variants = render_thumbs(name, story)
             if variants:
