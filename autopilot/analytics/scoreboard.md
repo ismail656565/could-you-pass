@@ -2,13 +2,13 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (30 Videos)
+## Shorts (31 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 6+ Fragen | 3 | 1294 | 1234 | 1433 | 55.2 | 53.0 | 1.0 |
+| 6+ Fragen | 4 | 1006 | 1224 | 1433 | 55.2 | 53.0 | 1.0 |
 | Ersatz-Generator (1 Frage) | 6 | 775 | 888 | 1206 | 38.1 | 140.5 | 0 |
 | VS-Vergleich | 2 | 714 | 714 | 873 | 52.2 | 69.0 | 1.0 |
 | 1-Frage-Ego-Hook | 8 | 417 | 376 | 865 | 44.1 | 102.5 | 2.0 |
@@ -21,12 +21,12 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | GENIUS TEST | 1 | 1433 | 1433 | 1433 | 57.0 | 61.1 | 0 |
-| WHICH CAME FIRST? | 1 | 1234 | 1234 | 1234 | 55.1 | 46.2 | 0 |
 | TRIVIA CHALLENGE | 1 | 1215 | 1215 | 1215 | 53.6 | 51.6 | 1.0 |
 | BRAIN QUIZ | 1 | 1206 | 1206 | 1206 | 44.0 | 103.4 | 0 |
 | WHICH IS BIGGER? | 1 | 873 | 873 | 873 | 56.0 | 67.2 | 1.0 |
 | NATURE QUIZ | 1 | 865 | 865 | 865 | 39.0 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 715 | 715 | 715 | 37.5 | 114.3 | 0 |
+| WHICH CAME FIRST? | 2 | 687 | 687 | 1234 | 55.1 | 46.2 | 0 |
 | GENERAL KNOWLEDGE | 5 | 689 | 616 | 1160 | 36.9 | 147.9 | 0 |
 | WHICH IS FASTER? | 1 | 554 | 554 | 554 | 48.5 | 70.8 | 0 |
 | QUICK QUIZ | 2 | 450 | 450 | 480 | 41.6 | 93.7 | 1.0 |
@@ -43,7 +43,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 17 | 631 | 554 | 1215 | 47.2 | 84.8 | 4.0 |
+| tvshow | 18 | 603 | 517 | 1215 | 47.2 | 84.8 | 4.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.2 | 111.5 | 0 |
 
 ### Shorts nach Musik
@@ -52,14 +52,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 9 | 724 | 616 | 1215 | 47.4 | 89.6 | 2.0 |
 | world-trip.wav | 5 | 490 | 554 | 873 | 47.9 | 77.6 | 2.0 |
-| brain-pulse.wav | 16 | 532 | 328 | 1433 | 44.5 | 105.7 | 0 |
+| brain-pulse.wav | 17 | 509 | 327 | 1433 | 44.5 | 105.7 | 0 |
 
 ### Shorts nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
-| 16:00 | 11 | 579 | 480 | 1215 | 44.4 | 99.7 | 3.0 |
+| 16:00 | 12 | 543 | 450 | 1215 | 44.4 | 99.7 | 3.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
 | 21:00 | 13 | 546 | 327 | 1160 | 49.3 | 78.4 | 1.0 |
 
@@ -76,10 +76,10 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Shorts
 
-- 167 Views · 1-Frage-Ego-Hook · How Long Does a Sloth Take to Digest One Meal? 🦥🤯 #shorts
 - 154 Views · 1-Frage-Ego-Hook · How Long Does Sunlight Take to Reach Earth? ☀️🤯 #shorts
 - 142 Views · Wahr/Falsch · True or False? 4 Facts 90% Get Wrong ✅❌ #shorts
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
+- 140 Views · 6+ Fragen · Which Came First? Round 2 – 6 Questions 🤯 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
 ## Lange Videos (19 Videos)

@@ -3,9 +3,9 @@
  "groups": {
   "short.format": {
    "6+ Fragen": {
-    "n": 3,
-    "avgViews": 1294,
-    "medianViews": 1234,
+    "n": 4,
+    "avgViews": 1006,
+    "medianViews": 1224,
     "bestViews": 1433,
     "stayed": 55.2,
     "avgPct": 53.0,
@@ -86,9 +86,9 @@
     "subs": 0
    },
    "WHICH CAME FIRST?": {
-    "n": 1,
-    "avgViews": 1234,
-    "medianViews": 1234,
+    "n": 2,
+    "avgViews": 687,
+    "medianViews": 687,
     "bestViews": 1234,
     "stayed": 55.1,
     "avgPct": 46.2,
@@ -241,9 +241,9 @@
     "subs": 0
    },
    "tvshow": {
-    "n": 17,
-    "avgViews": 631,
-    "medianViews": 554,
+    "n": 18,
+    "avgViews": 603,
+    "medianViews": 517,
     "bestViews": 1215,
     "stayed": 47.2,
     "avgPct": 84.8,
@@ -252,9 +252,9 @@
   },
   "short.music": {
    "brain-pulse.wav": {
-    "n": 16,
-    "avgViews": 532,
-    "medianViews": 328,
+    "n": 17,
+    "avgViews": 509,
+    "medianViews": 327,
     "bestViews": 1433,
     "stayed": 44.5,
     "avgPct": 105.7,
@@ -299,9 +299,9 @@
     "subs": 0
    },
    "16:00": {
-    "n": 11,
-    "avgViews": 579,
-    "medianViews": 480,
+    "n": 12,
+    "avgViews": 543,
+    "medianViews": 450,
     "bestViews": 1215,
     "stayed": 44.4,
     "avgPct": 99.7,
@@ -597,7 +597,7 @@
    "avgPct": 52.1,
    "subs": 1.0,
    "durationSec": 182,
-   "ageDays": 18.8,
+   "ageDays": 18.9,
    "search": null
   },
   {
@@ -616,7 +616,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 17.9,
+   "ageDays": 18.0,
    "search": null
   },
   {
@@ -635,7 +635,7 @@
    "avgPct": 61.12,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 17.9,
+   "ageDays": 18.0,
    "search": null
   },
   {
@@ -654,7 +654,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 16.8,
+   "ageDays": 16.9,
    "search": null
   },
   {
@@ -673,7 +673,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 16.8,
+   "ageDays": 16.9,
    "search": null
   },
   {
@@ -692,7 +692,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 17.1,
+   "ageDays": 17.2,
    "search": null
   },
   {
@@ -749,7 +749,7 @@
    "avgPct": 29.69,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 16.1,
+   "ageDays": 16.2,
    "search": null
   },
   {
@@ -768,7 +768,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 15.1,
+   "ageDays": 15.2,
    "search": null
   },
   {
@@ -806,7 +806,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 14.1,
+   "ageDays": 14.2,
    "search": null
   },
   {
@@ -825,7 +825,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 14.0,
+   "ageDays": 14.1,
    "search": null
   },
   {
@@ -844,7 +844,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 13.8,
+   "ageDays": 13.9,
    "search": null
   },
   {
@@ -863,7 +863,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 13.0,
+   "ageDays": 13.1,
    "search": null
   },
   {
@@ -882,7 +882,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 13.1,
+   "ageDays": 13.2,
    "search": null
   },
   {
@@ -901,7 +901,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 12.8,
+   "ageDays": 12.9,
    "search": null
   },
   {
@@ -920,7 +920,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 12.1,
+   "ageDays": 12.2,
    "search": null
   },
   {
@@ -939,7 +939,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 12.0,
+   "ageDays": 12.1,
    "search": null
   },
   {
@@ -958,7 +958,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 11.8,
+   "ageDays": 11.9,
    "search": null
   },
   {
@@ -977,7 +977,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 12.4,
+   "ageDays": 12.5,
    "search": null
   },
   {
@@ -996,7 +996,7 @@
    "avgPct": 95.46,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 11.0,
+   "ageDays": 11.1,
    "search": null
   },
   {
@@ -1072,7 +1072,7 @@
    "avgPct": 71.99,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 10.0,
+   "ageDays": 10.1,
    "search": null
   },
   {
@@ -1129,7 +1129,7 @@
    "avgPct": 77.71,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 6.0,
+   "ageDays": 6.1,
    "search": null
   },
   {
@@ -1186,7 +1186,7 @@
    "avgPct": 88.8,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 5.0,
+   "ageDays": 5.1,
    "search": null
   },
   {
@@ -1224,7 +1224,7 @@
    "avgPct": 51.56,
    "subs": 1.0,
    "durationSec": 45,
-   "ageDays": 4.0,
+   "ageDays": 4.1,
    "search": 21
   },
   {
@@ -1281,7 +1281,7 @@
    "avgPct": 98.58,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 3.0,
+   "ageDays": 3.1,
    "search": 4
   },
   {
@@ -1342,6 +1342,25 @@
    "search": null
   },
   {
+   "file": "2026-11-03-six-q-which-first-2.json",
+   "id": "six-q-which-first-2",
+   "videoId": "Nz7lPovZA10",
+   "kind": "short",
+   "title": "Which Came First? Round 2 – 6 Questions 🤯 #shorts",
+   "format": "6+ Fragen",
+   "topic": "WHICH CAME FIRST?",
+   "layout": "tvshow",
+   "music": "brain-pulse.wav",
+   "slot": "16:00",
+   "publicViews": 140.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 57,
+   "ageDays": 2.1,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-27-long.json",
    "id": "auto-2026-10-27-long",
    "videoId": "zZDclzxCTSg",
@@ -1357,7 +1376,7 @@
    "avgPct": 3.5000000000000004,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 8.7,
+   "ageDays": 8.8,
    "search": null
   },
   {
@@ -1376,7 +1395,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 8.7,
+   "ageDays": 8.8,
    "search": null
   },
   {
@@ -1414,7 +1433,7 @@
    "avgPct": 3.5000000000000004,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 8.7,
+   "ageDays": 8.8,
    "search": null
   },
   {
@@ -1433,7 +1452,7 @@
    "avgPct": 121.55,
    "subs": 0.0,
    "durationSec": 8,
-   "ageDays": 8.0,
+   "ageDays": 8.1,
    "search": null
   },
   {
@@ -1452,7 +1471,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 8.7,
+   "ageDays": 8.8,
    "search": null
   },
   {
@@ -1471,7 +1490,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 6.8,
+   "ageDays": 6.9,
    "search": null
   },
   {
@@ -1490,7 +1509,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 6.8,
+   "ageDays": 6.9,
    "search": null
   },
   {
