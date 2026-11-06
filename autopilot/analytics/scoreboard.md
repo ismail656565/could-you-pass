@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-06T08:25 (14 Abos)
+# Scoreboard – Stand 2026-11-06T11:47 (14 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -13,7 +13,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Ersatz-Generator (1 Frage) | 5 | 698 | 616 | 1206 | 38.1 | 145.3 | 0 |
 | 1-Frage-Ego-Hook | 8 | 418 | 378 | 865 | 44.2 | 101.6 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
-| 4-Fragen-Trap | 8 | 417 | 280 | 1081 | 51.4 | 81.1 | 1.0 |
+| 4-Fragen-Trap | 8 | 417 | 280 | 1081 | 51.5 | 81.1 | 1.0 |
 | Wahr/Falsch | 1 | 142 | 142 | 142 | 47.2 | 92.4 | 0 |
 
 ### Shorts nach Thema/Titeltyp
@@ -29,13 +29,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHICH CAME FIRST? | 2 | 696 | 696 | 1234 | 60.2 | 46.1 | 0 |
 | WHICH IS FASTER? | 1 | 555 | 555 | 555 | 49.3 | 66.9 | 0 |
 | GENERAL KNOWLEDGE | 4 | 572 | 466 | 1160 | 36.6 | 155.7 | 0 |
-| QUICK QUIZ | 2 | 452 | 452 | 480 | 42.2 | 90.1 | 1.0 |
+| QUICK QUIZ | 2 | 452 | 452 | 480 | 42.1 | 90.1 | 1.0 |
 | HALLOWEEN TRIVIA | 3 | 343 | 338 | 497 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | HISTORY TRIVIA | 1 | 310 | 310 | 310 | 44.4 | 39.5 | 1.0 |
 | TRIVIA | 6 | 472 | 289 | 1081 | 52.7 | 59.6 | 0 |
 | SPACE QUIZ | 1 | 204 | 204 | 204 | 50.0 | 95.5 | 0 |
-| FOOD QUIZ | 1 | 184 | 184 | 184 | 64.7 | 80.4 | 0 |
+| FOOD QUIZ | 1 | 184 | 184 | 184 | 65.4 | 80.4 | 0 |
 | ANIMAL QUIZ | 1 | 167 | 167 | 167 | 43.7 | 77.7 | 1.0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
 | TRUE OR FALSE? | 1 | 142 | 142 | 142 | 47.2 | 92.4 | 0 |
@@ -51,7 +51,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 9 | 725 | 616 | 1217 | 47.5 | 88.8 | 2.0 |
+| game-show.wav | 9 | 725 | 616 | 1217 | 47.6 | 88.8 | 2.0 |
 | world-trip.wav | 5 | 490 | 555 | 873 | 48.0 | 76.8 | 2.0 |
 | brain-pulse.wav | 17 | 460 | 316 | 1433 | 46.2 | 96.8 | 1.0 |
 
@@ -60,9 +60,9 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
-| 16:00 | 12 | 545 | 452 | 1217 | 46.3 | 94.6 | 3.0 |
+| 16:00 | 12 | 545 | 452 | 1217 | 46.2 | 94.6 | 3.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
-| 21:00 | 13 | 481 | 310 | 1160 | 49.9 | 71.3 | 2.0 |
+| 21:00 | 13 | 481 | 310 | 1160 | 50.0 | 71.3 | 2.0 |
 
 ### Top 8 Shorts
 
