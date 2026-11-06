@@ -83,7 +83,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (18 Videos)
+## Lange Videos (19 Videos)
 
 ### Lange Videos nach Format
 
@@ -95,7 +95,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 9 | 5 | 3 | 14 | 66.0 | 65.6 | 0 |
 | 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
-| 15 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
+| 15 Fragen | 2 | 0 | 0 | 1 | – | – | 0 |
 
 ### Lange Videos nach Thema/Titeltyp
 
@@ -112,7 +112,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | 100.0 | 99.8 | 0 |
-| Sonstiges | 1 | 0 | 0 | 0 | – | – | 0 |
+| Sonstiges | 2 | 0 | 0 | 1 | – | – | 0 |
 
 ### Lange Videos nach Layout
 
@@ -120,7 +120,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 185 | 66.5 | 52.5 | 1.0 |
-| tvshow | 9 | 4 | 2 | 14 | 63.5 | 55.8 | 0 |
+| tvshow | 10 | 4 | 2 | 14 | 63.5 | 55.8 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -129,14 +129,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | game-show.wav | 7 | 33 | 6 | 185 | 69.4 | 45.3 | 1.0 |
 | world-trip.wav | 5 | 7 | 4 | 14 | 56.9 | 68.1 | 0 |
-| brain-pulse.wav | 5 | 22 | 1 | 59 | 68.8 | 51.3 | 0 |
+| brain-pulse.wav | 6 | 18 | 1 | 59 | 68.8 | 51.3 | 0 |
 
 ### Lange Videos nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 185 | 60.1 | 45.7 | 1.0 |
-| 14:00 | 15 | 12 | 4 | 59 | 66.9 | 55.9 | 1.0 |
+| 14:00 | 16 | 12 | 4 | 59 | 66.9 | 55.9 | 1.0 |
 
 ### Top 8 Lange Videos
 
@@ -151,8 +151,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Lange Videos
 
-- 2 Views · 50 Fragen · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
 - 1 Views · 50 Fragen · General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent 🧠 | 50 Questions
 - 1 Views · 50 Fragen · True or False Quiz: 50 Facts From Easy to Legend ✅❌
+- 1 Views · 15 Fragen · Are You Well Educated? Hard Quiz – Score 5/15 to Pass 🎓
 - 0 Views · 12 Fragen · General Knowledge Quiz: Can You Score 4/12? 🧠 7-Minute Test
 - 0 Views · 15 Fragen · US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test

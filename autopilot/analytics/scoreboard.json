@@ -382,10 +382,10 @@
     "subs": 0
    },
    "15 Fragen": {
-    "n": 1,
+    "n": 2,
     "avgViews": 0,
     "medianViews": 0,
-    "bestViews": 0,
+    "bestViews": 1,
     "stayed": null,
     "avgPct": null,
     "subs": 0
@@ -483,10 +483,10 @@
     "subs": 0
    },
    "Sonstiges": {
-    "n": 1,
+    "n": 2,
     "avgViews": 0,
     "medianViews": 0,
-    "bestViews": 0,
+    "bestViews": 1,
     "stayed": null,
     "avgPct": null,
     "subs": 0
@@ -521,7 +521,7 @@
     "subs": 1.0
    },
    "tvshow": {
-    "n": 9,
+    "n": 10,
     "avgViews": 4,
     "medianViews": 2,
     "bestViews": 14,
@@ -550,8 +550,8 @@
     "subs": 1.0
    },
    "brain-pulse.wav": {
-    "n": 5,
-    "avgViews": 22,
+    "n": 6,
+    "avgViews": 18,
     "medianViews": 1,
     "bestViews": 59,
     "stayed": 68.8,
@@ -579,7 +579,7 @@
     "subs": 1.0
    },
    "14:00": {
-    "n": 15,
+    "n": 16,
     "avgViews": 12,
     "medianViews": 4,
     "bestViews": 59,
@@ -625,7 +625,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 18.8,
+   "ageDays": 18.9,
    "search": null
   },
   {
@@ -644,7 +644,7 @@
    "avgPct": 61.12,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 18.8,
+   "ageDays": 18.9,
    "search": null
   },
   {
@@ -663,7 +663,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 17.7,
+   "ageDays": 17.8,
    "search": null
   },
   {
@@ -682,7 +682,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 17.7,
+   "ageDays": 17.8,
    "search": null
   },
   {
@@ -834,7 +834,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 14.9,
+   "ageDays": 15.0,
    "search": null
   },
   {
@@ -853,7 +853,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 14.7,
+   "ageDays": 14.8,
    "search": null
   },
   {
@@ -872,7 +872,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 13.9,
+   "ageDays": 14.0,
    "search": null
   },
   {
@@ -910,7 +910,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 13.7,
+   "ageDays": 13.8,
    "search": null
   },
   {
@@ -948,7 +948,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 12.9,
+   "ageDays": 13.0,
    "search": null
   },
   {
@@ -967,7 +967,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 12.7,
+   "ageDays": 12.8,
    "search": null
   },
   {
@@ -1024,7 +1024,7 @@
    "avgPct": 50.7,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 11.9,
+   "ageDays": 12.0,
    "search": null
   },
   {
@@ -1062,7 +1062,7 @@
    "avgPct": 37.07,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 10.9,
+   "ageDays": 11.0,
    "search": null
   },
   {
@@ -1119,7 +1119,7 @@
    "avgPct": 0.0,
    "subs": 0.0,
    "durationSec": 628,
-   "ageDays": 6.9,
+   "ageDays": 7.0,
    "search": null
   },
   {
@@ -1176,7 +1176,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 278,
-   "ageDays": 5.9,
+   "ageDays": 6.0,
    "search": null
   },
   {
@@ -1271,7 +1271,7 @@
    "avgPct": 99.76,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 4.9,
+   "ageDays": 5.0,
    "search": null
   },
   {
@@ -1309,7 +1309,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 381,
-   "ageDays": 3.9,
+   "ageDays": 4.0,
    "search": null
   },
   {
@@ -1347,7 +1347,7 @@
    "avgPct": 99.89,
    "subs": 0.0,
    "durationSec": 649,
-   "ageDays": 2.9,
+   "ageDays": 3.0,
    "search": null
   },
   {
@@ -1389,6 +1389,25 @@
    "search": 2
   },
   {
+   "file": "2026-11-04-gk-well-educated-5-15.json",
+   "id": "gk-well-educated-5-15",
+   "videoId": "ifkBW33NomU",
+   "kind": "long",
+   "title": "Are You Well Educated? Hard Quiz – Score 5/15 to Pass 🎓",
+   "format": "15 Fragen",
+   "topic": "Sonstiges",
+   "layout": "tvshow",
+   "music": "brain-pulse.wav",
+   "slot": "14:00",
+   "publicViews": 1.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 388,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-28-long.json",
    "id": "auto-2026-10-28-long",
    "videoId": "zZDclzxCTSg",
@@ -1423,7 +1442,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 9.6,
+   "ageDays": 9.7,
    "search": null
   },
   {
@@ -1442,7 +1461,7 @@
    "avgPct": 103.39,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 9.6,
+   "ageDays": 9.7,
    "search": null
   },
   {
@@ -1480,7 +1499,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 7.7,
+   "ageDays": 7.8,
    "search": null
   },
   {
@@ -1499,7 +1518,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 7.7,
+   "ageDays": 7.8,
    "search": null
   },
   {
