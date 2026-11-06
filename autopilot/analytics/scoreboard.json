@@ -39,10 +39,10 @@
     "subs": 2.0
    },
    "VS-Vergleich": {
-    "n": 2,
-    "avgViews": 714,
-    "medianViews": 714,
-    "bestViews": 873,
+    "n": 3,
+    "avgViews": 843,
+    "medianViews": 873,
+    "bestViews": 1102,
     "stayed": 52.6,
     "avgPct": 67.0,
     "subs": 1.0
@@ -229,6 +229,15 @@
     "avgPct": null,
     "subs": 0
    },
+   "WHO HAS MORE PEOPLE?": {
+    "n": 1,
+    "avgViews": 1102,
+    "medianViews": 1102,
+    "bestViews": 1102,
+    "stayed": null,
+    "avgPct": null,
+    "subs": 0
+   },
    "GENERAL KNOWLEDGE": {
     "n": 4,
     "avgViews": 572,
@@ -259,9 +268,9 @@
     "subs": 0
    },
    "tvshow": {
-    "n": 19,
-    "avgViews": 579,
-    "medianViews": 480,
+    "n": 20,
+    "avgViews": 605,
+    "medianViews": 518,
     "bestViews": 1217,
     "stayed": 48.7,
     "avgPct": 77.5,
@@ -288,10 +297,10 @@
     "subs": 2.0
    },
    "world-trip.wav": {
-    "n": 5,
-    "avgViews": 490,
-    "medianViews": 555,
-    "bestViews": 873,
+    "n": 6,
+    "avgViews": 592,
+    "medianViews": 635,
+    "bestViews": 1102,
     "stayed": 48.0,
     "avgPct": 76.8,
     "subs": 2.0
@@ -326,9 +335,9 @@
     "subs": 3.0
    },
    "21:00": {
-    "n": 13,
-    "avgViews": 481,
-    "medianViews": 310,
+    "n": 14,
+    "avgViews": 525,
+    "medianViews": 318,
     "bestViews": 1160,
     "stayed": 50.0,
     "avgPct": 71.3,
@@ -615,7 +624,7 @@
    "avgPct": 52.1,
    "subs": 1.0,
    "durationSec": 182,
-   "ageDays": 19.8,
+   "ageDays": 20.0,
    "search": null
   },
   {
@@ -634,7 +643,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 19.0,
+   "ageDays": 19.2,
    "search": null
   },
   {
@@ -653,7 +662,7 @@
    "avgPct": 61.12,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 19.0,
+   "ageDays": 19.2,
    "search": null
   },
   {
@@ -672,7 +681,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 17.9,
+   "ageDays": 18.1,
    "search": null
   },
   {
@@ -691,7 +700,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 17.9,
+   "ageDays": 18.1,
    "search": null
   },
   {
@@ -710,7 +719,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 18.2,
+   "ageDays": 18.4,
    "search": null
   },
   {
@@ -729,7 +738,7 @@
    "avgPct": 46.2,
    "subs": 0.0,
    "durationSec": 46,
-   "ageDays": 18.3,
+   "ageDays": 18.5,
    "search": null
   },
   {
@@ -748,7 +757,7 @@
    "avgPct": 56.830000000000005,
    "subs": 0.0,
    "durationSec": 24,
-   "ageDays": 17.3,
+   "ageDays": 17.5,
    "search": null
   },
   {
@@ -767,7 +776,7 @@
    "avgPct": 29.69,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 17.2,
+   "ageDays": 17.4,
    "search": null
   },
   {
@@ -786,7 +795,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 16.2,
+   "ageDays": 16.4,
    "search": null
   },
   {
@@ -805,7 +814,7 @@
    "avgPct": 213.79000000000002,
    "subs": 0.0,
    "durationSec": 35,
-   "ageDays": 16.3,
+   "ageDays": 16.5,
    "search": null
   },
   {
@@ -824,7 +833,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 15.2,
+   "ageDays": 15.4,
    "search": null
   },
   {
@@ -843,7 +852,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 15.1,
+   "ageDays": 15.3,
    "search": null
   },
   {
@@ -862,7 +871,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 14.9,
+   "ageDays": 15.1,
    "search": null
   },
   {
@@ -881,7 +890,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 14.1,
+   "ageDays": 14.3,
    "search": null
   },
   {
@@ -900,7 +909,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 14.2,
+   "ageDays": 14.4,
    "search": null
   },
   {
@@ -919,7 +928,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 13.9,
+   "ageDays": 14.1,
    "search": null
   },
   {
@@ -938,7 +947,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 13.2,
+   "ageDays": 13.4,
    "search": null
   },
   {
@@ -957,7 +966,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 13.1,
+   "ageDays": 13.3,
    "search": null
   },
   {
@@ -976,7 +985,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 12.9,
+   "ageDays": 13.1,
    "search": null
   },
   {
@@ -995,7 +1004,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 13.4,
+   "ageDays": 13.7,
    "search": null
   },
   {
@@ -1014,7 +1023,7 @@
    "avgPct": 95.46,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 12.0,
+   "ageDays": 12.3,
    "search": null
   },
   {
@@ -1033,7 +1042,7 @@
    "avgPct": 50.7,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 12.1,
+   "ageDays": 12.3,
    "search": null
   },
   {
@@ -1052,7 +1061,7 @@
    "avgPct": 58.01,
    "subs": 0.0,
    "durationSec": 39,
-   "ageDays": 11.8,
+   "ageDays": 12.0,
    "search": null
   },
   {
@@ -1071,7 +1080,7 @@
    "avgPct": 37.07,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 11.1,
+   "ageDays": 11.3,
    "search": null
   },
   {
@@ -1090,7 +1099,7 @@
    "avgPct": 71.99,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 11.0,
+   "ageDays": 11.3,
    "search": null
   },
   {
@@ -1109,7 +1118,7 @@
    "avgPct": 42.72,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 10.8,
+   "ageDays": 11.0,
    "search": null
   },
   {
@@ -1128,7 +1137,7 @@
    "avgPct": 0.0,
    "subs": 0.0,
    "durationSec": 628,
-   "ageDays": 7.1,
+   "ageDays": 7.3,
    "search": null
   },
   {
@@ -1147,7 +1156,7 @@
    "avgPct": 77.71,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 7.0,
+   "ageDays": 7.3,
    "search": null
   },
   {
@@ -1166,7 +1175,7 @@
    "avgPct": 80.43,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 6.8,
+   "ageDays": 7.0,
    "search": null
   },
   {
@@ -1185,7 +1194,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 278,
-   "ageDays": 6.1,
+   "ageDays": 6.3,
    "search": null
   },
   {
@@ -1204,7 +1213,7 @@
    "avgPct": 88.54,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 6.0,
+   "ageDays": 6.3,
    "search": null
   },
   {
@@ -1223,7 +1232,7 @@
    "avgPct": 67.16,
    "subs": 1.0,
    "durationSec": 40,
-   "ageDays": 5.8,
+   "ageDays": 6.0,
    "search": null
   },
   {
@@ -1242,7 +1251,7 @@
    "avgPct": 51.34000000000001,
    "subs": 1.0,
    "durationSec": 45,
-   "ageDays": 5.0,
+   "ageDays": 5.3,
    "search": null
   },
   {
@@ -1261,7 +1270,7 @@
    "avgPct": 92.39,
    "subs": 0.0,
    "durationSec": 40,
-   "ageDays": 4.8,
+   "ageDays": 5.0,
    "search": null
   },
   {
@@ -1280,7 +1289,7 @@
    "avgPct": 99.76,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 5.1,
+   "ageDays": 5.3,
    "search": null
   },
   {
@@ -1299,7 +1308,7 @@
    "avgPct": 91.62,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 4.0,
+   "ageDays": 4.3,
    "search": 9
   },
   {
@@ -1318,7 +1327,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 381,
-   "ageDays": 4.1,
+   "ageDays": 4.3,
    "search": null
   },
   {
@@ -1337,7 +1346,7 @@
    "avgPct": 66.88,
    "subs": 0.0,
    "durationSec": 45,
-   "ageDays": 3.8,
+   "ageDays": 4.0,
    "search": 12
   },
   {
@@ -1356,7 +1365,7 @@
    "avgPct": 99.89,
    "subs": 0.0,
    "durationSec": 649,
-   "ageDays": 3.1,
+   "ageDays": 3.3,
    "search": null
   },
   {
@@ -1375,7 +1384,7 @@
    "avgPct": 46.08,
    "subs": 0.0,
    "durationSec": 57,
-   "ageDays": 3.0,
+   "ageDays": 3.3,
    "search": 1
   },
   {
@@ -1394,7 +1403,7 @@
    "avgPct": 39.52,
    "subs": 1.0,
    "durationSec": 40,
-   "ageDays": 2.8,
+   "ageDays": 3.0,
    "search": 2
   },
   {
@@ -1413,7 +1422,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 388,
-   "ageDays": 2.1,
+   "ageDays": 2.3,
    "search": null
   },
   {
@@ -1432,6 +1441,25 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 51,
+   "ageDays": 2.3,
+   "search": null
+  },
+  {
+   "file": "2026-11-04-vs-population-1.json",
+   "id": "vs-population-1",
+   "videoId": "wbX6CNPI1v0",
+   "kind": "short",
+   "title": "Which Has More People? 4 Rounds 90% Get Wrong 👥 #shorts",
+   "format": "VS-Vergleich",
+   "topic": "WHO HAS MORE PEOPLE?",
+   "layout": "tvshow",
+   "music": "world-trip.wav",
+   "slot": "21:00",
+   "publicViews": 1102.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 41,
    "ageDays": 2.0,
    "search": null
   },
@@ -1451,7 +1479,7 @@
    "avgPct": 3.5000000000000004,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 9.8,
+   "ageDays": 10.0,
    "search": null
   },
   {
@@ -1470,7 +1498,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 9.8,
+   "ageDays": 10.0,
    "search": null
   },
   {
@@ -1489,7 +1517,7 @@
    "avgPct": 103.39,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 9.8,
+   "ageDays": 10.0,
    "search": null
   },
   {
@@ -1508,7 +1536,7 @@
    "avgPct": 121.55,
    "subs": 0.0,
    "durationSec": 8,
-   "ageDays": 9.0,
+   "ageDays": 9.3,
    "search": null
   },
   {
@@ -1527,7 +1555,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 7.9,
+   "ageDays": 8.1,
    "search": null
   },
   {
@@ -1546,7 +1574,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 7.9,
+   "ageDays": 8.1,
    "search": null
   },
   {
@@ -1565,7 +1593,7 @@
    "avgPct": 94.3,
    "subs": 0.0,
    "durationSec": 15,
-   "ageDays": 7.8,
+   "ageDays": 8.0,
    "search": null
   }
  ]

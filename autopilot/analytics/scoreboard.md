@@ -2,14 +2,14 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (32 Videos)
+## Shorts (33 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 5 | 1002 | 1217 | 1433 | 57.7 | 51.2 | 1.0 |
-| VS-Vergleich | 2 | 714 | 714 | 873 | 52.6 | 67.0 | 1.0 |
+| VS-Vergleich | 3 | 843 | 873 | 1102 | 52.6 | 67.0 | 1.0 |
 | Ersatz-Generator (1 Frage) | 5 | 698 | 616 | 1206 | 38.1 | 145.3 | 0 |
 | 1-Frage-Ego-Hook | 8 | 418 | 378 | 865 | 44.2 | 101.6 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
@@ -23,6 +23,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | GENIUS TEST | 1 | 1433 | 1433 | 1433 | 57.0 | 61.1 | 0 |
 | TRIVIA CHALLENGE | 1 | 1217 | 1217 | 1217 | 53.4 | 51.3 | 1.0 |
 | BRAIN QUIZ | 1 | 1206 | 1206 | 1206 | 44.0 | 103.4 | 0 |
+| WHO HAS MORE PEOPLE? | 1 | 1102 | 1102 | 1102 | – | – | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 969 | 969 | 969 | – | – | 0 |
 | WHICH IS BIGGER? | 1 | 873 | 873 | 873 | 56.0 | 67.2 | 1.0 |
 | NATURE QUIZ | 1 | 865 | 865 | 865 | 39.0 | 72.0 | 0 |
@@ -45,7 +46,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 19 | 579 | 480 | 1217 | 48.7 | 77.5 | 5.0 |
+| tvshow | 20 | 605 | 518 | 1217 | 48.7 | 77.5 | 5.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.2 | 111.5 | 0 |
 
 ### Shorts nach Musik
@@ -53,7 +54,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 10 | 749 | 792 | 1217 | 47.6 | 88.8 | 2.0 |
-| world-trip.wav | 5 | 490 | 555 | 873 | 48.0 | 76.8 | 2.0 |
+| world-trip.wav | 6 | 592 | 635 | 1102 | 48.0 | 76.8 | 2.0 |
 | brain-pulse.wav | 17 | 460 | 316 | 1433 | 46.2 | 96.8 | 1.0 |
 
 ### Shorts nach Sendezeit
@@ -63,7 +64,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
 | 16:00 | 13 | 577 | 480 | 1217 | 46.2 | 94.6 | 3.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
-| 21:00 | 13 | 481 | 310 | 1160 | 50.0 | 71.3 | 2.0 |
+| 21:00 | 14 | 525 | 318 | 1160 | 50.0 | 71.3 | 2.0 |
 
 ### Top 8 Shorts
 
@@ -72,9 +73,9 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 1217 Views · stayed 0.534 · 6+ Fragen · tvshow · game-show.wav · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts
 - 1206 Views · stayed 0.44 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer: What is the smallest prime number? 🤯 #shorts
 - 1160 Views · stayed 0.381 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
+- 1102 Views · stayed – · VS-Vergleich · tvshow · world-trip.wav · Which Has More People? 4 Rounds 90% Get Wrong 👥 #shorts
 - 1081 Views · stayed 0.487 · 4-Fragen-Trap · tvshow · brain-pulse.wav · 4 History Questions Almost Everyone Gets Wrong 🦖 #shorts
 - 1032 Views · stayed 0.546 · 4-Fragen-Trap · neon · game-show.wav · 4 Questions 90% Get Wrong 🤯 #shorts
-- 969 Views · stayed – · 6+ Fragen · tvshow · game-show.wav · Quick Fire Geography Quiz – Can You Get 6/6? 🌍 #shorts
 
 ### Flop 5 Shorts
 

@@ -1234,3 +1234,5 @@
 [2026-11-06 16:06:35] history-quiz-50-1: noch nicht öffentlich – Kommentar später
 [2026-11-06 16:06:36] six-q-quick-science: Kommentar gepostet
 [2026-11-06 16:06:36] vs-taller-4: noch nicht öffentlich – Kommentar später
+[2026-11-06 21:04:21] history-quiz-50-1: Kommentar gepostet
+[2026-11-06 21:04:22] vs-taller-4: Kommentar gepostet (mit Long-Link)
