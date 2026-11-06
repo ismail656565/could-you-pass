@@ -1,0 +1,128 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Quick Fire Science",
+ "header": "QUICK FIRE SCIENCE",
+ "hook": "CAN YOU GET 6/6? 🔬",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "What keeps your feet on the **ground**?",
+   "answers": [
+    "Magnetism",
+    "Friction",
+    "Gravity",
+    "Air pressure"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🍎",
+   "broll": "waterfall falling water",
+   "start": 0.0,
+   "keywordAt": 1.536,
+   "countdownStart": 2.136,
+   "reveal": 4.636,
+   "end": 8.228,
+   "video": "broll/six-q-quick-science-0.mp4"
+  },
+  {
+   "q": "What is the centre of an **atom** called?",
+   "answers": [
+    "Nucleus",
+    "Proton",
+    "Core",
+    "Electron"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "⚛️",
+   "start": 8.228,
+   "keywordAt": 9.468,
+   "countdownStart": 10.326,
+   "reveal": 12.826,
+   "end": 16.983
+  },
+  {
+   "q": "Which organ makes **insulin**?",
+   "answers": [
+    "Liver",
+    "Kidney",
+    "Stomach",
+    "Pancreas"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "💉",
+   "start": 16.983,
+   "keywordAt": 18.011,
+   "countdownStart": 18.733,
+   "reveal": 21.233,
+   "end": 24.692
+  },
+  {
+   "q": "How long does **moonlight** take to reach us?",
+   "answers": [
+    "8 minutes",
+    "1.3 seconds",
+    "1 minute",
+    "13 seconds"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🌙",
+   "broll": "full moon night sky",
+   "start": 24.692,
+   "keywordAt": 25.392,
+   "countdownStart": 27.021,
+   "reveal": 29.521,
+   "end": 33.948,
+   "video": "broll/six-q-quick-science-3.mp4"
+  },
+  {
+   "q": "Largest organ **inside** your body?",
+   "answers": [
+    "Lungs",
+    "Brain",
+    "Liver",
+    "Heart"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🫀",
+   "start": 33.948,
+   "keywordAt": 35.254,
+   "countdownStart": 36.355,
+   "reveal": 38.855,
+   "end": 42.342
+  },
+  {
+   "q": "Which light has the longest **wavelength**?",
+   "answers": [
+    "Red",
+    "Violet",
+    "Green",
+    "Blue"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🌈",
+   "start": 42.342,
+   "keywordAt": 44.511,
+   "countdownStart": 45.289,
+   "reveal": 47.789,
+   "end": 52.022
+  }
+ ],
+ "audio": "audio/six-q-quick-science.mp3",
+ "outroStart": 52.022,
+ "durationInSeconds": 52.022
+}

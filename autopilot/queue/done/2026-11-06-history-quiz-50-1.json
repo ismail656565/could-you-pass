@@ -211,7 +211,7 @@
  ],
  "youtube": {
   "title": "History Quiz: 50 Questions From Easy to Legend 🏛️",
-  "description": "50 history questions, from ancient Greece to the age of explorers – easy to legend 🏛️ Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#HistoryQuiz #HistoryTrivia #Quiz #Trivia #AncientHistory #GeneralKnowledge\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nMusic: original.",
+  "description": "50 history questions, from ancient Greece to the age of explorers – easy to legend 🏛️ Can you get 40/50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#HistoryQuiz #HistoryTrivia #Quiz #Trivia #AncientHistory #GeneralKnowledge\n\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nFootage via Wikimedia Commons: Ocean surface waves – Mostafameraji (CC0); Great Wall of China visit of Philippines President Benigno Aquino III  – Philippine Government - Radio Television Malacañang (Public domain); Colosseum, Rome 113323 – Quahadi (CC BY 4.0); La Cumbre Volcano Erupts on Galapagos Islands (CIRA 2024-03-04 - nolab – GOES imagery: CSU/CIRA &amp; NOAA (Public domain); Mercuria tour boat River Thames Bankside Southwark Bridge Cannon Stree – Acabashi (CC BY-SA 4.0); Global Temperature Anomalies from 1880 to 2019 - 2 – NASA's Scientific Visualization Studio Data provided by Robe (Public domain)\nMusic: original.",
   "tags": [
    "history quiz",
    "history trivia",
@@ -268,7 +268,12 @@
     "level": "EASY",
     "cardText": "🏛️",
     "fact": "Built in Athens about 2,450 years ago to honour Athena.",
-    "broll": "ancient ruins columns"
+    "broll": "ancient ruins columns",
+    "start": 0.0,
+    "keywordAt": 7.657,
+    "countdownStart": 8.527,
+    "reveal": 13.527,
+    "end": 18.002
    },
    {
     "q": "Who sailed to the Americas in **1492**?",
@@ -282,7 +287,12 @@
     "level": "EASY",
     "cardText": "⛵",
     "fact": "He crossed with three ships: Niña, Pinta and Santa María.",
-    "broll": "sailing ship ocean"
+    "broll": "sailing ship ocean",
+    "start": 18.002,
+    "countdownStart": 21.8,
+    "reveal": 26.8,
+    "end": 30.667,
+    "video": "broll/history-quiz-50-1-1.mp4"
    },
    {
     "q": "Ancient **Egyptians** preserved their dead as…?",
@@ -295,7 +305,12 @@
     "correct": 1,
     "level": "EASY",
     "cardText": "⚱️",
-    "fact": "Making a mummy could take around 70 days."
+    "fact": "Making a mummy could take around 70 days.",
+    "start": 30.667,
+    "keywordAt": 31.156,
+    "countdownStart": 33.448,
+    "reveal": 38.448,
+    "end": 42.752
    },
    {
     "q": "The **Great Wall** was built in which country?",
@@ -309,7 +324,13 @@
     "level": "EASY",
     "cardText": "🧱",
     "fact": "A 2012 survey measured all its parts at about 21,196 km.",
-    "broll": "great wall china"
+    "broll": "great wall china",
+    "start": 42.752,
+    "keywordAt": 43.018,
+    "countdownStart": 45.082,
+    "reveal": 50.082,
+    "end": 55.884,
+    "video": "broll/history-quiz-50-1-3.mp4"
    },
    {
     "q": "**Gladiators** fought in the arenas of…?",
@@ -323,7 +344,13 @@
     "level": "EASY",
     "cardText": "⚔️",
     "fact": "Most gladiators were slaves or prisoners of war.",
-    "broll": "colosseum rome"
+    "broll": "colosseum rome",
+    "start": 55.884,
+    "keywordAt": 55.964,
+    "countdownStart": 59.157,
+    "reveal": 64.157,
+    "end": 70.181,
+    "video": "broll/history-quiz-50-1-4.mp4"
    },
    {
     "q": "**Samurai** were warriors from which country?",
@@ -336,7 +363,12 @@
     "correct": 2,
     "level": "EASY",
     "cardText": "🗡️",
-    "fact": "Samurai were officially abolished in the 1870s."
+    "fact": "Samurai were officially abolished in the 1870s.",
+    "start": 70.181,
+    "keywordAt": 70.852,
+    "countdownStart": 73.172,
+    "reveal": 78.172,
+    "end": 83.17
    },
    {
     "q": "Where did the ancient **Olympic Games** begin?",
@@ -349,7 +381,12 @@
     "correct": 1,
     "level": "EASY",
     "cardText": "🏅",
-    "fact": "The first recorded Games at Olympia date to 776 BC."
+    "fact": "The first recorded Games at Olympia date to 776 BC.",
+    "start": 83.17,
+    "keywordAt": 84.302,
+    "countdownStart": 85.558,
+    "reveal": 90.558,
+    "end": 95.036
    },
    {
     "q": "Which city was buried by **Vesuvius** in 79 AD?",
@@ -363,7 +400,13 @@
     "level": "EASY",
     "cardText": "🌋",
     "fact": "The ash preserved bread, graffiti and whole streets.",
-    "broll": "volcano eruption smoke"
+    "broll": "volcano eruption smoke",
+    "start": 95.036,
+    "keywordAt": 97.142,
+    "countdownStart": 98.975,
+    "reveal": 103.975,
+    "end": 108.654,
+    "video": "broll/history-quiz-50-1-7.mp4"
    },
    {
     "q": "Who was killed on the **Ides of March**?",
@@ -376,7 +419,12 @@
     "correct": 3,
     "level": "EASY",
     "cardText": "🗓️",
-    "fact": "The Ides of March is 15 March. Caesar died in 44 BC."
+    "fact": "The Ides of March is 15 March. Caesar died in 44 BC.",
+    "start": 108.654,
+    "keywordAt": 109.897,
+    "countdownStart": 110.937,
+    "reveal": 115.937,
+    "end": 121.072
    },
    {
     "q": "The **Vikings** came mainly from…?",
@@ -390,7 +438,12 @@
     "level": "EASY",
     "cardText": "🛶",
     "fact": "Vikings reached North America about 500 years before Columbus.",
-    "broll": "fjord norway boat"
+    "broll": "fjord norway boat",
+    "start": 121.072,
+    "keywordAt": 123.014,
+    "countdownStart": 124.573,
+    "reveal": 129.573,
+    "end": 133.294
    },
    {
     "q": "Which people built **Chichen Itza**?",
@@ -404,7 +457,12 @@
     "level": "MEDIUM",
     "cardText": "🛕",
     "fact": "Its main pyramid has 365 steps – one for each day.",
-    "broll": "mexico pyramid ruins"
+    "broll": "mexico pyramid ruins",
+    "start": 133.294,
+    "keywordAt": 136.86,
+    "countdownStart": 138.453,
+    "reveal": 143.453,
+    "end": 149.986
    },
    {
     "q": "Who ruled England when the **Armada** attacked?",
@@ -417,7 +475,12 @@
     "correct": 0,
     "level": "MEDIUM",
     "cardText": "👑",
-    "fact": "The Spanish Armada sailed against England in 1588."
+    "fact": "The Spanish Armada sailed against England in 1588.",
+    "start": 149.986,
+    "keywordAt": 151.717,
+    "countdownStart": 153.904,
+    "reveal": 158.904,
+    "end": 164.025
    },
    {
     "q": "Which English king had **six wives**?",
@@ -430,7 +493,12 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "💍",
-    "fact": "Only two of his six wives were executed."
+    "fact": "Only two of his six wives were executed.",
+    "start": 164.025,
+    "keywordAt": 165.362,
+    "countdownStart": 166.208,
+    "reveal": 171.208,
+    "end": 174.786
    },
    {
     "q": "What linked China to Europe for **trade**?",
@@ -444,7 +512,12 @@
     "level": "MEDIUM",
     "cardText": "🐫",
     "fact": "It was a network of routes, not a single road.",
-    "broll": "desert camels caravan"
+    "broll": "desert camels caravan",
+    "start": 174.786,
+    "keywordAt": 175.781,
+    "countdownStart": 177.728,
+    "reveal": 182.728,
+    "end": 186.948
    },
    {
     "q": "In which year did the **French Revolution** begin?",
@@ -457,7 +530,12 @@
     "correct": 3,
     "level": "MEDIUM",
     "cardText": "⚖️",
-    "fact": "It began with the storming of the Bastille on 14 July."
+    "fact": "It began with the storming of the Bastille on 14 July.",
+    "start": 186.948,
+    "keywordAt": 188.649,
+    "countdownStart": 190.094,
+    "reveal": 195.094,
+    "end": 201.477
    },
    {
     "q": "Who printed with **movable metal type** in Europe?",
@@ -470,7 +548,12 @@
     "correct": 0,
     "level": "MEDIUM",
     "cardText": "📜",
-    "fact": "His famous Bible was printed around the 1450s."
+    "fact": "His famous Bible was printed around the 1450s.",
+    "start": 201.477,
+    "keywordAt": 202.71,
+    "countdownStart": 204.463,
+    "reveal": 209.463,
+    "end": 215.365
    },
    {
     "q": "Which Viking reached **North America** first?",
@@ -483,7 +566,12 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "🧭",
-    "fact": "A Viking site was found at L'Anse aux Meadows in Canada."
+    "fact": "A Viking site was found at L'Anse aux Meadows in Canada.",
+    "start": 215.365,
+    "keywordAt": 216.927,
+    "countdownStart": 219.351,
+    "reveal": 224.351,
+    "end": 229.676
    },
    {
     "q": "In which century did the **Black Death** hit Europe?",
@@ -496,7 +584,12 @@
     "correct": 2,
     "level": "MEDIUM",
     "cardText": "☠️",
-    "fact": "It killed perhaps a third or more of Europe's people."
+    "fact": "It killed perhaps a third or more of Europe's people.",
+    "start": 229.676,
+    "keywordAt": 230.874,
+    "countdownStart": 232.604,
+    "reveal": 237.604,
+    "end": 242.274
    },
    {
     "q": "**Joan of Arc** fought for which country?",
@@ -509,7 +602,12 @@
     "correct": 3,
     "level": "MEDIUM",
     "cardText": "🛡️",
-    "fact": "She was only about 19 when she died in 1431."
+    "fact": "She was only about 19 when she died in 1431.",
+    "start": 242.274,
+    "keywordAt": 242.354,
+    "countdownStart": 244.399,
+    "reveal": 249.399,
+    "end": 253.595
    },
    {
     "q": "Who founded the **Mongol** Empire?",
@@ -523,7 +621,12 @@
     "level": "MEDIUM",
     "cardText": "🐎",
     "fact": "It became the largest connected land empire in history.",
-    "broll": "horses steppe grassland"
+    "broll": "horses steppe grassland",
+    "start": 253.595,
+    "keywordAt": 255.753,
+    "countdownStart": 256.799,
+    "reveal": 261.799,
+    "end": 266.996
    },
    {
     "q": "What was the capital of the **Byzantine** Empire?",
@@ -536,7 +639,12 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🕌",
-    "fact": "Today the city is called Istanbul."
+    "fact": "Today the city is called Istanbul.",
+    "start": 266.996,
+    "keywordAt": 270.114,
+    "countdownStart": 271.37,
+    "reveal": 276.37,
+    "end": 280.286
    },
    {
     "q": "Which emperor was buried with a **clay army**?",
@@ -549,7 +657,12 @@
     "correct": 0,
     "level": "HARD",
     "cardText": "🗿",
-    "fact": "The Terracotta Army has thousands of life-size soldiers."
+    "fact": "The Terracotta Army has thousands of life-size soldiers.",
+    "start": 280.286,
+    "keywordAt": 282.837,
+    "countdownStart": 283.843,
+    "reveal": 288.843,
+    "end": 293.098
    },
    {
     "q": "**Suleiman the Magnificent** ruled which empire?",
@@ -562,7 +675,12 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🌙",
-    "fact": "He ruled for 46 years, from 1520 to 1566."
+    "fact": "He ruled for 46 years, from 1520 to 1566.",
+    "start": 293.098,
+    "keywordAt": 293.178,
+    "countdownStart": 295.812,
+    "reveal": 300.812,
+    "end": 304.454
    },
    {
     "q": "What did the Romans call **London**?",
@@ -576,7 +694,13 @@
     "level": "HARD",
     "cardText": "🏺",
     "fact": "Romans founded it around AD 47.",
-    "broll": "river thames london"
+    "broll": "river thames london",
+    "start": 304.454,
+    "keywordAt": 305.68,
+    "countdownStart": 306.301,
+    "reveal": 311.301,
+    "end": 316.73,
+    "video": "broll/history-quiz-50-1-23.mp4"
    },
    {
     "q": "The **Hanging Gardens** were said to be in…?",
@@ -589,7 +713,12 @@
     "correct": 1,
     "level": "HARD",
     "cardText": "🌿",
-    "fact": "No one has ever found clear proof they existed."
+    "fact": "No one has ever found clear proof they existed.",
+    "start": 316.73,
+    "keywordAt": 317.456,
+    "countdownStart": 319.876,
+    "reveal": 324.876,
+    "end": 332.92
    },
    {
     "q": "Whose expedition first sailed **around the world**?",
@@ -603,7 +732,13 @@
     "level": "HARD",
     "cardText": "🌍",
     "fact": "Magellan died on the way; Elcano finished in 1522.",
-    "broll": "ocean waves ship"
+    "broll": "ocean waves ship",
+    "start": 332.92,
+    "keywordAt": 334.829,
+    "countdownStart": 335.925,
+    "reveal": 340.925,
+    "end": 346.645,
+    "video": "broll/history-quiz-50-1-25.mp4"
    },
    {
     "q": "The ruins of **Troy** are in which country?",
@@ -616,7 +751,12 @@
     "correct": 1,
     "level": "HARD",
     "cardText": "🐴",
-    "fact": "Troy lies at Hisarlik, in northwest Turkey."
+    "fact": "Troy lies at Hisarlik, in northwest Turkey.",
+    "start": 346.645,
+    "keywordAt": 349.276,
+    "countdownStart": 351.26,
+    "reveal": 356.26,
+    "end": 359.779
    },
    {
     "q": "Which people built **Tenochtitlan**?",
@@ -629,7 +769,12 @@
     "correct": 3,
     "level": "HARD",
     "cardText": "🛶",
-    "fact": "Mexico City stands on its ruins today."
+    "fact": "Mexico City stands on its ruins today.",
+    "start": 359.779,
+    "keywordAt": 361.307,
+    "countdownStart": 362.214,
+    "reveal": 367.214,
+    "end": 371.672
    },
    {
     "q": "Who crossed the **Alps** with elephants?",
@@ -643,7 +788,12 @@
     "level": "HARD",
     "cardText": "🐘",
     "fact": "The Carthaginian general did it in 218 BC.",
-    "broll": "snowy alps mountains"
+    "broll": "snowy alps mountains",
+    "start": 371.672,
+    "keywordAt": 372.935,
+    "countdownStart": 374.326,
+    "reveal": 379.326,
+    "end": 384.418
    },
    {
     "q": "Who first reached the **South Pole**?",
@@ -657,7 +807,12 @@
     "level": "HARD",
     "cardText": "🧊",
     "fact": "Amundsen's team arrived on 14 December 1911.",
-    "broll": "antarctica ice snow"
+    "broll": "antarctica ice snow",
+    "start": 384.418,
+    "keywordAt": 387.564,
+    "countdownStart": 388.416,
+    "reveal": 393.416,
+    "end": 398.244
    },
    {
     "q": "**York** and **Lancaster** fought in which war?",
@@ -670,7 +825,12 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🌹",
-    "fact": "York had a white rose, Lancaster a red one."
+    "fact": "York had a white rose, Lancaster a red one.",
+    "start": 398.244,
+    "keywordAt": 401.665,
+    "countdownStart": 404.001,
+    "reveal": 409.001,
+    "end": 414.599
    },
    {
     "q": "First lasting English **town** in America (1607)?",
@@ -683,7 +843,11 @@
     "correct": 2,
     "level": "VERY HARD",
     "cardText": "🏕️",
-    "fact": "Jamestown, Virginia, was founded in 1607."
+    "fact": "Jamestown, Virginia, was founded in 1607.",
+    "start": 414.599,
+    "countdownStart": 419.104,
+    "reveal": 424.104,
+    "end": 428.888
    },
    {
     "q": "The **Colossus** stood on which Greek island?",
@@ -696,7 +860,12 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🗽",
-    "fact": "An earthquake toppled it after only about 54 years."
+    "fact": "An earthquake toppled it after only about 54 years.",
+    "start": 428.888,
+    "keywordAt": 429.475,
+    "countdownStart": 432.003,
+    "reveal": 437.003,
+    "end": 442.045
    },
    {
     "q": "In which year did the **Western Roman Empire** fall?",
@@ -709,7 +878,12 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🏛️",
-    "fact": "In 476 the last emperor, Romulus Augustulus, was removed."
+    "fact": "In 476 the last emperor, Romulus Augustulus, was removed.",
+    "start": 442.045,
+    "keywordAt": 443.128,
+    "countdownStart": 445.385,
+    "reveal": 450.385,
+    "end": 455.54
    },
    {
     "q": "What was the capital of the **Inca** Empire?",
@@ -723,7 +897,12 @@
     "level": "VERY HARD",
     "cardText": "🦙",
     "fact": "Cusco sits about 3,400 m above sea level.",
-    "broll": "andes mountains peru"
+    "broll": "andes mountains peru",
+    "start": 455.54,
+    "keywordAt": 457.669,
+    "countdownStart": 458.541,
+    "reveal": 463.541,
+    "end": 468.672
    },
    {
     "q": "Who wrote about the court of **Kublai Khan**?",
@@ -736,7 +915,12 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "📖",
-    "fact": "He said he spent about 17 years in China."
+    "fact": "He said he spent about 17 years in China.",
+    "start": 468.672,
+    "keywordAt": 470.575,
+    "countdownStart": 471.409,
+    "reveal": 476.409,
+    "end": 481.336
    },
    {
     "q": "Which ancient wonder was a giant **lighthouse**?",
@@ -749,7 +933,12 @@
     "correct": 0,
     "level": "VERY HARD",
     "cardText": "🗼",
-    "fact": "The Pharos was among the tallest buildings of its time."
+    "fact": "The Pharos was among the tallest buildings of its time.",
+    "start": 481.336,
+    "keywordAt": 483.02,
+    "countdownStart": 483.854,
+    "reveal": 488.854,
+    "end": 494.211
    },
    {
     "q": "Who founded the **Mughal** Empire in India?",
@@ -762,7 +951,12 @@
     "correct": 3,
     "level": "VERY HARD",
     "cardText": "🐘",
-    "fact": "Babur won the First Battle of Panipat in 1526."
+    "fact": "Babur won the First Battle of Panipat in 1526.",
+    "start": 494.211,
+    "keywordAt": 495.153,
+    "countdownStart": 496.692,
+    "reveal": 501.692,
+    "end": 506.994
    },
    {
     "q": "Which dynasty built most of today's **Great Wall**?",
@@ -775,7 +969,12 @@
     "correct": 2,
     "level": "VERY HARD",
     "cardText": "🏯",
-    "fact": "Most sections tourists visit today are Ming-era."
+    "fact": "Most sections tourists visit today are Ming-era.",
+    "start": 506.994,
+    "keywordAt": 509.019,
+    "countdownStart": 510.485,
+    "reveal": 515.485,
+    "end": 520.256
    },
    {
     "q": "Which city-state fought at **Thermopylae** in 480 BC?",
@@ -788,7 +987,12 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🛡️",
-    "fact": "King Leonidas led the famous 300 Spartans."
+    "fact": "King Leonidas led the famous 300 Spartans.",
+    "start": 520.256,
+    "keywordAt": 523.919,
+    "countdownStart": 524.8,
+    "reveal": 529.8,
+    "end": 533.495
    },
    {
     "q": "Which emperor built the **Hagia Sophia** in 537?",
@@ -801,7 +1005,12 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "🕌",
-    "fact": "For about 1,000 years it was the largest cathedral."
+    "fact": "For about 1,000 years it was the largest cathedral.",
+    "start": 533.495,
+    "keywordAt": 537.547,
+    "countdownStart": 539.804,
+    "reveal": 544.804,
+    "end": 550.087
    },
    {
     "q": "Which people carved **Petra** in Jordan?",
@@ -815,7 +1024,12 @@
     "level": "LEGEND",
     "cardText": "🏜️",
     "fact": "Petra is carved straight into rose-red sandstone cliffs.",
-    "broll": "desert canyon rock"
+    "broll": "desert canyon rock",
+    "start": 550.087,
+    "keywordAt": 552.096,
+    "countdownStart": 553.168,
+    "reveal": 558.168,
+    "end": 562.473
    },
    {
     "q": "Which peace ended the **Thirty Years' War**?",
@@ -828,7 +1042,12 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "🕊️",
-    "fact": "The Peace of Westphalia was signed in 1648."
+    "fact": "The Peace of Westphalia was signed in 1648.",
+    "start": 562.473,
+    "keywordAt": 563.966,
+    "countdownStart": 566.263,
+    "reveal": 571.263,
+    "end": 576.383
    },
    {
     "q": "**Mansa Musa** ruled which empire?",
@@ -841,7 +1060,12 @@
     "correct": 0,
     "level": "LEGEND",
     "cardText": "💰",
-    "fact": "His 1324 pilgrimage to Mecca was famous for its gold."
+    "fact": "His 1324 pilgrimage to Mecca was famous for its gold.",
+    "start": 576.383,
+    "keywordAt": 576.463,
+    "countdownStart": 580.279,
+    "reveal": 585.279,
+    "end": 592.127
    },
    {
     "q": "Which English king was executed in **1649**?",
@@ -854,7 +1078,11 @@
     "correct": 0,
     "level": "LEGEND",
     "cardText": "🪓",
-    "fact": "England then had no king for 11 years."
+    "fact": "England then had no king for 11 years.",
+    "start": 592.127,
+    "countdownStart": 595.324,
+    "reveal": 600.324,
+    "end": 605.268
    },
    {
     "q": "Which Roman emperor built a wall across **Britain**?",
@@ -868,7 +1096,12 @@
     "level": "LEGEND",
     "cardText": "🧱",
     "fact": "Work on Hadrian's Wall began around AD 122.",
-    "broll": "stone wall countryside"
+    "broll": "stone wall countryside",
+    "start": 605.268,
+    "keywordAt": 607.902,
+    "countdownStart": 608.573,
+    "reveal": 613.573,
+    "end": 617.893
    },
    {
     "q": "Which empire built **Angkor Wat**?",
@@ -881,7 +1114,12 @@
     "correct": 0,
     "level": "LEGEND",
     "cardText": "🛕",
-    "fact": "It's the largest religious monument in the world."
+    "fact": "It's the largest religious monument in the world.",
+    "start": 617.893,
+    "keywordAt": 619.066,
+    "countdownStart": 619.999,
+    "reveal": 624.999,
+    "end": 629.887
    },
    {
     "q": "Who invented **cuneiform** writing?",
@@ -894,7 +1132,12 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "✍️",
-    "fact": "Cuneiform was pressed into clay over 5,000 years ago."
+    "fact": "Cuneiform was pressed into clay over 5,000 years ago.",
+    "start": 629.887,
+    "keywordAt": 632.035,
+    "countdownStart": 634.668,
+    "reveal": 639.668,
+    "end": 645.087
    },
    {
     "q": "**Alexander the Great** was king of…?",
@@ -907,7 +1150,12 @@
     "correct": 3,
     "level": "LEGEND",
     "cardText": "🏺",
-    "fact": "He was tutored as a boy by Aristotle."
+    "fact": "He was tutored as a boy by Aristotle.",
+    "start": 645.087,
+    "keywordAt": 645.167,
+    "countdownStart": 647.584,
+    "reveal": 652.584,
+    "end": 656.842
    },
    {
     "q": "In which year did **Constantinople** fall?",
@@ -920,8 +1168,47 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "🏰",
-    "fact": "Ottoman forces took the city on 29 May 1453."
+    "fact": "Ottoman forces took the city on 29 May 1453.",
+    "start": 656.842,
+    "keywordAt": 658.919,
+    "countdownStart": 661.334,
+    "reveal": 666.334,
+    "end": 672.478
    }
+  ],
+  "audio": "audio/history-quiz-50-1.mp3",
+  "outroStart": 672.478,
+  "durationInSeconds": 682.265
+ },
+ "qa": {
+  "lufs": -21.5,
+  "truePeak": -3.1,
+  "lra": 7.1,
+  "normalized": true,
+  "frozenShare": 0.656,
+  "longestFreezeSec": 8.8,
+  "frame0Luma": 120.9,
+  "warnings": [
+   "Standbild 8.8 s"
   ]
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/history-quiz-50-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-11-06",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-06T19:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "WVM3ZgBC3Kk",
+  "at": "2026-11-06T07:11"
  }
 }

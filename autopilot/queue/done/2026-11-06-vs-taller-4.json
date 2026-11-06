@@ -74,7 +74,12 @@
     "icons": [
      "🗼",
      "🔺"
-    ]
+    ],
+    "start": 0.0,
+    "keywordAt": 0.484,
+    "countdownStart": 2.849,
+    "reveal": 5.849,
+    "end": 10.877
    },
    {
     "q": "Which is **taller**?",
@@ -95,7 +100,11 @@
     "icons": [
      "🗽",
      "🕰️"
-    ]
+    ],
+    "start": 10.877,
+    "countdownStart": 13.269,
+    "reveal": 16.269,
+    "end": 21.758
    },
    {
     "q": "Which is **taller**?",
@@ -116,7 +125,11 @@
     "icons": [
      "📡",
      "🗼"
-    ]
+    ],
+    "start": 21.758,
+    "countdownStart": 24.061,
+    "reveal": 27.061,
+    "end": 32.481
    },
    {
     "q": "Which is **taller**?",
@@ -137,8 +150,35 @@
     "icons": [
      "🏛️",
      "⛰️"
-    ]
+    ],
+    "start": 32.481,
+    "countdownStart": 35.613,
+    "reveal": 38.613,
+    "end": 46.497
    }
+  ],
+  "audio": "audio/vs-taller-4.mp3",
+  "outroStart": 46.497,
+  "durationInSeconds": 46.497
+ },
+ "qa": {
+  "lufs": -20.5,
+  "truePeak": -3.0,
+  "lra": 5.3,
+  "normalized": true,
+  "frozenShare": 0.694,
+  "longestFreezeSec": 6.8,
+  "frame0Luma": 84.1,
+  "warnings": [
+   "Standbild 6.8 s"
   ]
- }
+ },
+ "scheduledFor": "2026-11-06T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "p1ro50dHVio",
+  "at": "2026-11-06T06:25"
+ },
+ "linkedLong": "WVM3ZgBC3Kk"
 }

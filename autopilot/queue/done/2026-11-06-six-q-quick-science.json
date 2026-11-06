@@ -33,7 +33,7 @@
  ],
  "youtube": {
   "title": "Quick Fire Science Quiz – Can You Get 6/6? 🔬 #shorts",
-  "description": "6 quick fire science questions, from easy to hard 🔬 Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#science #sciencequiz #quiz #trivia #quickfire #shorts\n\nMusic: original.",
+  "description": "6 quick fire science questions, from easy to hard 🔬 Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#science #sciencequiz #quiz #trivia #quickfire #shorts\n\nFootage via Wikimedia Commons: Waterfall in Huascarán National Park - Peru – CorraleH (CC0); Moon Phases 2014 - Northern Hemisphere - 1080 – NASA/Goddard Space Flight Center (Public domain)\nMusic: original.",
   "tags": [
    "quick fire quiz",
    "science quiz",
@@ -75,7 +75,13 @@
     "correct": 2,
     "level": "EASY",
     "cardText": "🍎",
-    "broll": "waterfall falling water"
+    "broll": "waterfall falling water",
+    "start": 0.0,
+    "keywordAt": 1.536,
+    "countdownStart": 2.136,
+    "reveal": 4.636,
+    "end": 8.228,
+    "video": "broll/six-q-quick-science-0.mp4"
    },
    {
     "q": "What is the centre of an **atom** called?",
@@ -87,7 +93,12 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "⚛️"
+    "cardText": "⚛️",
+    "start": 8.228,
+    "keywordAt": 9.468,
+    "countdownStart": 10.326,
+    "reveal": 12.826,
+    "end": 16.983
    },
    {
     "q": "Which organ makes **insulin**?",
@@ -99,7 +110,12 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "💉"
+    "cardText": "💉",
+    "start": 16.983,
+    "keywordAt": 18.011,
+    "countdownStart": 18.733,
+    "reveal": 21.233,
+    "end": 24.692
    },
    {
     "q": "How long does **moonlight** take to reach us?",
@@ -112,7 +128,13 @@
     "correct": 1,
     "level": "HARD",
     "cardText": "🌙",
-    "broll": "full moon night sky"
+    "broll": "full moon night sky",
+    "start": 24.692,
+    "keywordAt": 25.392,
+    "countdownStart": 27.021,
+    "reveal": 29.521,
+    "end": 33.948,
+    "video": "broll/six-q-quick-science-3.mp4"
    },
    {
     "q": "Largest organ **inside** your body?",
@@ -124,7 +146,12 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🫀"
+    "cardText": "🫀",
+    "start": 33.948,
+    "keywordAt": 35.254,
+    "countdownStart": 36.355,
+    "reveal": 38.855,
+    "end": 42.342
    },
    {
     "q": "Which light has the longest **wavelength**?",
@@ -136,8 +163,34 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🌈"
+    "cardText": "🌈",
+    "start": 42.342,
+    "keywordAt": 44.511,
+    "countdownStart": 45.289,
+    "reveal": 47.789,
+    "end": 52.022
    }
-  ]
- }
+  ],
+  "audio": "audio/six-q-quick-science.mp3",
+  "outroStart": 52.022,
+  "durationInSeconds": 52.022
+ },
+ "qa": {
+  "lufs": -20.3,
+  "truePeak": -3.2,
+  "lra": 5.4,
+  "normalized": true,
+  "frozenShare": 0.521,
+  "longestFreezeSec": 3.8,
+  "frame0Luma": 79.7,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-06T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "FtEYLT1m00I",
+  "at": "2026-11-06T06:22"
+ },
+ "linkedLong": "WVM3ZgBC3Kk"
 }
