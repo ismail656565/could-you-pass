@@ -410,3 +410,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **E1 (7-Min-Test, niedrige Score-Hürde) gestoppt:** #1 0, #2 0, #3 "Well Educated" 1 View n. 23 h – Konkurrenz-Muster (QuizNova 422k, GK Studio Pro 1,05 Mio) funktioniert ohne Long-Publikum nicht.
 - 08.11. = "Weltraum-Tag" (E8 #2 Solar System Quiz 30 Q + 6-Q Space [E9 Thema] + VS Planeten). Konkurrenz: Quiz World Riddles 510k (+3 %/Tag), Dopamine "F1 Tracks Part 3" 29k in 6 T (enge Nische + Serie). GTA VI weiter 19.11.2026.
 - Scoreboard zählt "Can You Answer This Quiz Question? #2" doppelt (2 done-Dateien, gleiche videoId) → Dedupe angefordert.
+
+## 2026-11-06 (Produktions-Agent, Queue 08.11.)
+- Technik: Alle Läufe 05.11. grün (8/8), Soll 05.11. erfüllt (emoji-word-50-1, six-q-vocabulary-1, trap-4-gunpowder; Kommentare 13:13/16:23/21:10). 06.11. + 07.11. lagen vollständig in der Queue → nur 08.11. ("Weltraum-Tag") angelegt, keine auto-*-Fallbacks in queue/.
+- Technik-Fix: research.py (Scoreboard) dedupliziert jetzt nach videoId (spätere done-Datei gewinnt) → Shorts 32 → 31; Gruppe "Ersatz-Generator" korrigiert Median 888 → 616, GENERAL KNOWLEDGE 616 → 466 (vorher durch Doppelzählung von "Can You Answer This Quiz Question? #2", 1.160 Views, geschönt).
+- Shorts (report.json Stand 05.11. 11:52, 14 Abos): VS #3 1.007 (bester Short seit 01.11.), VS-Median 873; 6-Q Quick Fire Geo 769 n. ~21 h; Which-First R2 140 (Sequel-Titel tot); 4-Trap Humble 286. Leader: VS (21:00) und 6-Q (16:00).
+- Longs: E1 gestoppt (0/0/1); Studio-Diagnose bleibt Ausspielung (8 Impressionen/33 h). E8 #2 Solar-System-30 mit 1 Fangfrage je Runde (Konkurrenz Quiz World "Tricky" 510k).
+- Thumbnails: CTR weiter nicht messbar (HttpError 400); Solar-System testet A "SOLAR SYSTEM QUIZ" + Sonnenfoto (NASA/SDO) vs. B "25/30" vs. C "LEGEND LEVEL".
+- Duplikate vermieden (gegen queue/done/stories): Rote Planet, Armstrong, Tereshkova, Sonnenlicht 8 min, meiste Monde, größter/kleinster Planet, Uranus seitlich, Herschel, Großer Roter Fleck, Saturn schwimmt, Ganymed als Frage, Wasserstoff, Gagarin/Leonov/Sputnik → ersetzt. Weltraum-Tag ohne gleiche Fakten zwischen Long, 6-Q und VS.

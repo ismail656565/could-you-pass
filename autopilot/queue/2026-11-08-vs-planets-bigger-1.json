@@ -1,0 +1,144 @@
+{
+ "id": "vs-planets-bigger-1",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "lines": [
+  {
+   "q": "Which is bigger, Saturn or Jupiter?",
+   "a": "Jupiter! About one hundred forty thousand kilometres wide, the king of the planets."
+  },
+  {
+   "q": "Jupiter's moon Ganymede, or the planet Mercury?",
+   "a": "Ganymede! A moon bigger than a planet, by almost four hundred kilometres."
+  },
+  {
+   "q": "Venus or Earth?",
+   "a": "Earth! But only by about six hundred kilometres. Venus is almost our twin."
+  },
+  {
+   "q": "Last one. Our Moon or Pluto?",
+   "a": "Our Moon! Pluto is only about two thirds as wide. Think you can get all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Which Is Bigger? Planets & Moons – 90% Get #2 Wrong 🪐 #shorts",
+  "description": "Guess which is bigger – the bars reveal the real width 🪐 Did #2 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#space #planets #solarsystem #quiz #comparison #shorts\n\nSize data: NASA planetary and moon fact sheets (mean diameters).\nMusic: original.",
+  "tags": [
+   "which is bigger",
+   "planet size comparison",
+   "planets and moons",
+   "solar system quiz",
+   "space quiz",
+   "comparison quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did you know a moon beats Mercury? 🧊 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Which Is Bigger?",
+  "header": "WHICH IS BIGGER?",
+  "hook": "90% GET #2 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "BIGGER!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which is **bigger**?",
+    "answers": [
+     "Saturn",
+     "Jupiter"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "values": [
+     116460,
+     139820
+    ],
+    "valueLabels": [
+     "116,460 km",
+     "139,820 km"
+    ],
+    "icons": [
+     "🪐",
+     "🌀"
+    ]
+   },
+   {
+    "q": "Which is **bigger**?",
+    "answers": [
+     "Ganymede",
+     "Mercury"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "values": [
+     5268,
+     4879
+    ],
+    "valueLabels": [
+     "5,268 km",
+     "4,879 km"
+    ],
+    "icons": [
+     "🧊",
+     "🔥"
+    ]
+   },
+   {
+    "q": "Which is **bigger**?",
+    "answers": [
+     "Venus",
+     "Earth"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     12104,
+     12742
+    ],
+    "valueLabels": [
+     "12,104 km",
+     "12,742 km"
+    ],
+    "icons": [
+     "☁️",
+     "🌊"
+    ]
+   },
+   {
+    "q": "Which is **bigger**?",
+    "answers": [
+     "Our Moon",
+     "Pluto"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "values": [
+     3475,
+     2377
+    ],
+    "valueLabels": [
+     "3,475 km",
+     "2,377 km"
+    ],
+    "icons": [
+     "🌕",
+     "❄️"
+    ]
+   }
+  ]
+ }
+}

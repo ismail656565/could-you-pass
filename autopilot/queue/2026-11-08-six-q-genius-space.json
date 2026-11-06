@@ -1,0 +1,141 @@
+{
+ "id": "six-q-genius-space",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "lines": [
+  {
+   "q": "In which year did humans first walk on the Moon?",
+   "a": "Nineteen sixty nine! In July, to be exact."
+  },
+  {
+   "q": "What is a shooting star really?",
+   "a": "A meteor! A space rock burning up in our air."
+  },
+  {
+   "q": "Who was the first American in space?",
+   "a": "Alan Shepard! John Glenn was first to orbit."
+  },
+  {
+   "q": "What color is the Sun really?",
+   "a": "White! Our air makes it look yellow."
+  },
+  {
+   "q": "How long does the International Space Station take to circle Earth?",
+   "a": "About ninety minutes! Sixteen sunrises a day."
+  },
+  {
+   "q": "Last one. What was the name of the first dog in orbit?",
+   "a": "Laika! Back in nineteen fifty seven. Got all six? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Space Quiz #shorts",
+  "description": "6 space questions, from easy to hard 🚀 Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#space #spacequiz #astronomy #quiz #trivia #shorts\n\nMusic: original.",
+  "tags": [
+   "space quiz",
+   "astronomy quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "science quiz",
+   "solar system quiz",
+   "trivia quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did the color of the Sun get you? ☀️ How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Space Quiz",
+  "header": "SPACE QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "In which year did humans first walk on the **Moon**?",
+    "answers": [
+     "1959",
+     "1969",
+     "1979",
+     "1989"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌕"
+   },
+   {
+    "q": "What is a **shooting star** really?",
+    "answers": [
+     "A meteor",
+     "A falling star",
+     "A comet",
+     "A satellite"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🌠"
+   },
+   {
+    "q": "Who was the first **American** in space?",
+    "answers": [
+     "John Glenn",
+     "Neil Armstrong",
+     "Alan Shepard",
+     "Buzz Aldrin"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "👨‍🚀"
+   },
+   {
+    "q": "What color is the **Sun** really?",
+    "answers": [
+     "Yellow",
+     "Orange",
+     "Red",
+     "White"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🎨"
+   },
+   {
+    "q": "How long does the **ISS** take to circle Earth?",
+    "answers": [
+     "About 90 minutes",
+     "About 9 hours",
+     "About 1 day",
+     "About 1 week"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🛰️"
+   },
+   {
+    "q": "What was the first **dog** in orbit called?",
+    "answers": [
+     "Belka",
+     "Laika",
+     "Lassie",
+     "Rex"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🐕"
+   }
+  ]
+ }
+}

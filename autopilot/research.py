@@ -90,6 +90,7 @@ def main():
     stats = {v["id"]: v for v in report.get("videos", [])}
     now = dt.datetime.now(dt.timezone.utc)
     rows = []
+    seen = {}  # videoId -> Index in rows (gleiche videoId in 2 done-Dateien nur 1x zählen, spätere Datei gewinnt)
     for path in sorted(DONE.glob("*.json")):
         try:
             item = json.loads(path.read_text(encoding="utf-8"))
@@ -110,7 +111,7 @@ def main():
         if age is not None and age < 2:
             continue  # zu frisch für einen fairen Vergleich
         title = s.get("title") or item.get("youtube", {}).get("title", "")
-        rows.append({
+        row = {
             "file": path.name, "id": item.get("id"), "videoId": vid, "kind": kind, "title": title,
             "format": short_format(item.get("id", ""), n) if kind == "short" else f"{n} Fragen",
             "topic": long_topic(title) if kind == "long" else (story.get("header") or "–").upper(),
@@ -120,7 +121,12 @@ def main():
             "avgPct": num(s.get("averageViewPercentage")), "subs": num(s.get("subscribersGained")),
             "durationSec": s.get("durationSec"), "ageDays": round(age, 1) if age is not None else None,
             "search": (s.get("trafficSources") or {}).get("YT_SEARCH"),
-        })
+        }
+        if vid in seen:
+            rows[seen[vid]] = row
+        else:
+            seen[vid] = len(rows)
+            rows.append(row)
 
     md = [f"# Scoreboard – Stand {report.get('fetched', '?')} ({report.get('subscribers', '?')} Abos)", "",
           "Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). "

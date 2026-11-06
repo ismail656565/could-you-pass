@@ -1,0 +1,571 @@
+{
+ "id": "solar-system-quiz-30-1",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "lines": [
+  {
+   "q": "Thirty questions about our solar system, from easy to legend, and they get harder every round. Keep score! First one: What is the name of our galaxy?",
+   "a": "The Milky Way! Home to hundreds of billions of stars."
+  },
+  {
+   "q": "How many planets are in our solar system?",
+   "a": "Eight! Four rocky ones, and four giants."
+  },
+  {
+   "q": "Which planet is third from the Sun?",
+   "a": "Earth! The only place we know of with life. Nice start!"
+  },
+  {
+   "q": "What causes day and night?",
+   "a": "Earth spinning! One full turn takes about twenty four hours."
+  },
+  {
+   "q": "How long does Earth take to orbit the Sun?",
+   "a": "About three hundred sixty five days! The extra quarter day gives us leap years."
+  },
+  {
+   "q": "Last one of round one. Which planet is called the Morning Star?",
+   "a": "Venus! It's the brightest planet in our sky."
+  },
+  {
+   "q": "Round two: medium. Here we go! Which planet has a giant hexagon shaped storm at its north pole?",
+   "a": "Saturn! Each side of that hexagon is wider than our whole planet."
+  },
+  {
+   "q": "Which planet is farthest from the Sun?",
+   "a": "Neptune! Pluto goes farther, but it's not a planet anymore."
+  },
+  {
+   "q": "Where is the main asteroid belt?",
+   "a": "Between Mars and Jupiter! And it's mostly empty space, not a wall of rocks."
+  },
+  {
+   "q": "What is the tallest volcano in the solar system?",
+   "a": "Olympus Mons, on Mars! About two and a half times as tall as Everest. You're flying!"
+  },
+  {
+   "q": "What is Saturn's largest moon?",
+   "a": "Titan! The only moon with a thick atmosphere."
+  },
+  {
+   "q": "Which planet has a day closest in length to ours?",
+   "a": "Mars! A Martian day lasts about twenty four hours and thirty seven minutes."
+  },
+  {
+   "q": "Round three: hard. Stay sharp! Which planet is the coldest?",
+   "a": "Uranus! Not Neptune, even though Neptune is farther out."
+  },
+  {
+   "q": "In which year did Pluto become a dwarf planet?",
+   "a": "Two thousand six! It had been called a planet for seventy six years."
+  },
+  {
+   "q": "Which planet was predicted with maths before anyone saw it?",
+   "a": "Neptune! Spotted in eighteen forty six, right where the maths said. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "What is the largest object in the asteroid belt?",
+   "a": "Ceres! It's so big it counts as a dwarf planet. Great going so far!"
+  },
+  {
+   "q": "Which moon is the most volcanic place we know?",
+   "a": "Io! This moon of Jupiter has hundreds of active volcanoes."
+  },
+  {
+   "q": "How many people have walked on the Moon?",
+   "a": "Twelve! All of them on six Apollo missions."
+  },
+  {
+   "q": "Round four: very hard. Only the best get these. How long is one year on Neptune?",
+   "a": "About one hundred sixty five Earth years! Since we found it, it has only gone round once."
+  },
+  {
+   "q": "What are the names of Mars's two moons?",
+   "a": "Phobos and Deimos! Their names mean fear and dread. Still with me?"
+  },
+  {
+   "q": "Roughly how hot is the surface of the Sun?",
+   "a": "About five thousand five hundred degrees Celsius! Yet its outer corona tops a million degrees."
+  },
+  {
+   "q": "Which spacecraft is the farthest human made object?",
+   "a": "Voyager one! Launched in nineteen seventy seven, now beyond the Sun's bubble."
+  },
+  {
+   "q": "Europa, a moon with a hidden ocean, orbits which planet?",
+   "a": "Jupiter! That ocean may hold more water than all of Earth's seas."
+  },
+  {
+   "q": "How old is our solar system?",
+   "a": "About four point six billion years! One round left, you've got this!"
+  },
+  {
+   "q": "Final round: legend level. Good luck! What is the icy shell at the very edge of our solar system called?",
+   "a": "The Oort Cloud! Nobody has seen it directly, but comets give it away."
+  },
+  {
+   "q": "Which spacecraft flew past Pluto in twenty fifteen?",
+   "a": "New Horizons! It found a giant heart shaped plain on Pluto."
+  },
+  {
+   "q": "Titan has lakes, but what are they filled with?",
+   "a": "Liquid methane! It even rains methane there. Three left, stay with me!"
+  },
+  {
+   "q": "How many Earth days is one year on Mercury?",
+   "a": "Eighty eight days! No planet races round the Sun faster."
+  },
+  {
+   "q": "Who discovered Jupiter's four biggest moons?",
+   "a": "Galileo Galilei! In sixteen ten, with a telescope he built himself."
+  },
+  {
+   "q": "Final question. Which planet has the most volcanoes?",
+   "a": "Venus! Scientists have mapped about eighty five thousand of them."
+  }
+ ],
+ "youtube": {
+  "title": "Solar System Quiz: 30 Questions From Easy to Legend 🪐",
+  "description": "30 questions about planets, moons and the Sun, from easy to legend 🪐 Can you get 25/30?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#SolarSystem #SpaceQuiz #SolarSystemQuiz #Quiz #Trivia #Planets\n\nFacts: NASA Science (science.nasa.gov).\nPhotos via Wikimedia Commons: Sun – NASA/SDO (public domain)\nMusic: original.",
+  "tags": [
+   "solar system quiz",
+   "space quiz",
+   "planets quiz",
+   "astronomy quiz",
+   "solar system trivia",
+   "science quiz",
+   "trivia quiz",
+   "quiz for adults",
+   "planet quiz"
+  ],
+  "categoryId": "27",
+  "comment": "How many did you get out of 30? 🪐 Did Uranus or the Pluto year catch you out? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Solar System Quiz",
+  "header": "SOLAR SYSTEM QUIZ",
+  "hook": "CAN YOU GET 25/30? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 14,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "SOLAR SYSTEM **QUIZ**",
+   "CAN YOU GET **25/30**?",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🪐",
+  "thumbBadge": "30 Q · EASY → LEGEND",
+  "cardColors": [
+   "#1E2A5A",
+   "#0B1026"
+  ],
+  "thumbImage": "bilder/q2-sun.jpg",
+  "questions": [
+   {
+    "q": "What is the name of our **galaxy**?",
+    "answers": [
+     "Andromeda",
+     "Milky Way",
+     "Whirlpool",
+     "Sombrero"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌌",
+    "fact": "The Milky Way is about 100,000 light-years across."
+   },
+   {
+    "q": "How many **planets** are in our solar system?",
+    "answers": [
+     "Seven",
+     "Nine",
+     "Eight",
+     "Ten"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🪐",
+    "fact": "Mercury, Venus, Earth and Mars are the four rocky planets."
+   },
+   {
+    "q": "Which planet is **third** from the Sun?",
+    "answers": [
+     "Venus",
+     "Mars",
+     "Mercury",
+     "Earth"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🔭",
+    "fact": "Earth is about 150 million km from the Sun."
+   },
+   {
+    "q": "What causes **day and night**?",
+    "answers": [
+     "Earth orbiting the Sun",
+     "Earth spinning",
+     "The Moon blocking the Sun",
+     "Passing clouds"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌗",
+    "fact": "At the equator, Earth spins at about 1,670 km/h."
+   },
+   {
+    "q": "How long does Earth take to **orbit** the Sun?",
+    "answers": [
+     "One day",
+     "One month",
+     "About 365 days",
+     "Ten years"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "📅",
+    "fact": "A year is about 365.25 days – that's why we have leap years."
+   },
+   {
+    "q": "Which planet is called the **Morning Star**?",
+    "answers": [
+     "Venus",
+     "Mars",
+     "Jupiter",
+     "Saturn"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "✨",
+    "fact": "After the Moon, Venus is the brightest natural object in the night sky."
+   },
+   {
+    "q": "Which planet has a giant **hexagon** storm?",
+    "answers": [
+     "Jupiter",
+     "Neptune",
+     "Saturn",
+     "Uranus"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🌀",
+    "fact": "Each side of the hexagon is wider than Earth."
+   },
+   {
+    "q": "Which planet is **farthest** from the Sun?",
+    "answers": [
+     "Uranus",
+     "Neptune",
+     "Pluto",
+     "Saturn"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🥶",
+    "fact": "Neptune is about 30 times farther from the Sun than Earth."
+   },
+   {
+    "q": "Where is the main **asteroid belt**?",
+    "answers": [
+     "Beyond Neptune",
+     "Between Earth and Mars",
+     "Between Jupiter and Saturn",
+     "Between Mars and Jupiter"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "☄️",
+    "fact": "Asteroids in the belt are usually hundreds of thousands of km apart."
+   },
+   {
+    "q": "What is the tallest **volcano** in the solar system?",
+    "answers": [
+     "Olympus Mons",
+     "Mauna Kea",
+     "Mount Fuji",
+     "Maxwell Montes"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🌋",
+    "fact": "Olympus Mons on Mars is about 22 km high."
+   },
+   {
+    "q": "What is Saturn's **largest** moon?",
+    "answers": [
+     "Europa",
+     "Io",
+     "Titan",
+     "Triton"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🌕",
+    "fact": "Titan's thick atmosphere is mostly nitrogen, like Earth's."
+   },
+   {
+    "q": "Which planet's **day** is closest to Earth's?",
+    "answers": [
+     "Jupiter",
+     "Venus",
+     "Mars",
+     "Mercury"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "⏰",
+    "fact": "A day on Mars is called a sol."
+   },
+   {
+    "q": "Which planet is the **coldest**?",
+    "answers": [
+     "Neptune",
+     "Saturn",
+     "Mercury",
+     "Uranus"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🧊",
+    "fact": "Uranus has hit about −224 °C, the coldest planetary atmosphere."
+   },
+   {
+    "q": "When did Pluto become a **dwarf planet**?",
+    "answers": [
+     "1996",
+     "2000",
+     "2006",
+     "2012"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "📉",
+    "fact": "Pluto was discovered in 1930 by Clyde Tombaugh."
+   },
+   {
+    "q": "Which planet was found by **maths** first?",
+    "answers": [
+     "Uranus",
+     "Neptune",
+     "Saturn",
+     "Mars"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🧮",
+    "fact": "Neptune was first seen in 1846 by Johann Galle."
+   },
+   {
+    "q": "What is the largest object in the **asteroid belt**?",
+    "answers": [
+     "Ceres",
+     "Vesta",
+     "Pallas",
+     "Eros"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🪨",
+    "fact": "Ceres is about 940 km wide."
+   },
+   {
+    "q": "Which moon is the most **volcanic**?",
+    "answers": [
+     "Europa",
+     "Titan",
+     "Callisto",
+     "Io"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🔥",
+    "fact": "Io has around 400 active volcanoes."
+   },
+   {
+    "q": "How many people have **walked** on the Moon?",
+    "answers": [
+     "Six",
+     "Twelve",
+     "Twenty-four",
+     "Eighteen"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "👣",
+    "fact": "The last Moon walk was in December 1972, on Apollo 17."
+   },
+   {
+    "q": "How long is one **year** on Neptune?",
+    "answers": [
+     "29 Earth years",
+     "84 Earth years",
+     "165 Earth years",
+     "248 Earth years"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "⌛",
+    "fact": "Neptune finished its first orbit since discovery in 2011."
+   },
+   {
+    "q": "What are the names of **Mars's** two moons?",
+    "answers": [
+     "Io and Europa",
+     "Titan and Rhea",
+     "Castor and Pollux",
+     "Phobos and Deimos"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🌑",
+    "fact": "Phobos orbits Mars three times a day."
+   },
+   {
+    "q": "How hot is the Sun's **surface**?",
+    "answers": [
+     "About 550 °C",
+     "About 5,500 °C",
+     "About 55,000 °C",
+     "About 5.5 million °C"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🌡️",
+    "fact": "The Sun's outer corona can top 1 million °C."
+   },
+   {
+    "q": "What is the **farthest** human-made object?",
+    "answers": [
+     "Voyager 2",
+     "Pioneer 10",
+     "Voyager 1",
+     "Cassini"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🛰️",
+    "fact": "Voyager 1 entered interstellar space in 2012."
+   },
+   {
+    "q": "**Europa**, a moon with a hidden ocean, orbits…?",
+    "answers": [
+     "Saturn",
+     "Jupiter",
+     "Uranus",
+     "Neptune"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🌊",
+    "fact": "Europa's ocean may hold twice the water of Earth's oceans."
+   },
+   {
+    "q": "How **old** is our solar system?",
+    "answers": [
+     "4.6 billion years",
+     "46 million years",
+     "460 million years",
+     "46 billion years"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "⏳",
+    "fact": "Earth's oldest known minerals are about 4.4 billion years old."
+   },
+   {
+    "q": "What is the icy shell at our solar system's **edge**?",
+    "answers": [
+     "Kuiper Belt",
+     "Oort Cloud",
+     "Asteroid Belt",
+     "Heliosphere"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "❄️",
+    "fact": "The Oort Cloud has never been seen directly."
+   },
+   {
+    "q": "Which spacecraft flew past **Pluto** in 2015?",
+    "answers": [
+     "Voyager 2",
+     "Juno",
+     "Cassini",
+     "New Horizons"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🚀",
+    "fact": "New Horizons took about 9.5 years to reach Pluto."
+   },
+   {
+    "q": "Titan has **lakes**. What are they filled with?",
+    "answers": [
+     "Water",
+     "Liquid methane",
+     "Lava",
+     "Acid"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🏞️",
+    "fact": "Titan is the only other world with stable liquids on its surface."
+   },
+   {
+    "q": "How many Earth days is a **year** on Mercury?",
+    "answers": [
+     "59",
+     "116",
+     "88",
+     "225"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🏃",
+    "fact": "Mercury orbits the Sun at about 47 km per second."
+   },
+   {
+    "q": "Who discovered Jupiter's four biggest **moons**?",
+    "answers": [
+     "Copernicus",
+     "Johannes Kepler",
+     "Isaac Newton",
+     "Galileo Galilei"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🔭",
+    "fact": "They are still called the Galilean moons."
+   },
+   {
+    "q": "Which planet has the most **volcanoes**?",
+    "answers": [
+     "Mars",
+     "Earth",
+     "Venus",
+     "Mercury"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🌋",
+    "fact": "Scientists have mapped about 85,000 volcanoes on Venus."
+   }
+  ]
+ }
+}
