@@ -403,3 +403,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Ausspielung tot – 7-Min-Experiment 0 / 0 / 1 Views, 50-Q 1–3 Views; Studio: 8 Impressionen in 33 h, 0 % Suche/Startseite. Kein Formatproblem messbar, Kanal hat (noch) kein Long-Publikum.
 - **Entscheid (gilt ab 06.11.):** (1) 16:00 = 6-Q "Only Geniuses Get 6/6 🧠 <Thema>" (≤ 50 s, Themen mit Beleg: Trivia, Hauptstädte, Geografie, Wissenschaft, Wortschatz); (2) 21:00 = VS täglich; (3) 1-Frage-Ego-Hook und 4-Trap gestoppt (Trap nur noch für Event-Tage); (4) Longs: E8 (30 Q, enge Themen, an Short-Thema gekoppelt) läuft bis Verdict 12.11. – Ziel Median ≥ 10 Views n. 3 T. Verfehlt → Longs nur noch Mo/Mi/Fr, an den anderen Tagen 3. Short (VS oder 6-Q) um 10:00 statt Long.
 - **Risiko GitHub-Actions-Minuten:** privates Repo, Laufzeit ~40–95 min/Tag (≈355 min in den ersten 5 Novembertagen → hochgerechnet ~2.100 min/Monat) – das Gratis-Kontingent für private Repos liegt bei 2.000 min/Monat. 30-Q-Longs (~7 min Video) halbieren die Renderzeit; falls Läufe mit "spending limit"/"minutes" scheitern → Besitzer informieren (Repo öffentlich machen oder Kontingent erhöhen), bis dahin Longs auf 3×/Woche.
+
+## 2026-11-06 – Research (Research-Agent)
+- VS jetzt 873 / 554 / 1.007 (VS-Median 873 ≈ 2× Shorts-Median 480) → 21:00 VS bleibt; 08.11. VS #6 Planeten & Monde (Haken Ganymed > Merkur).
+- 6-Q "Quick Fire Geography" 769 n. ~21 h (auf Kurs), "Which Came First? Round 2" bei 140 → Sequel-Titel endgültig tot; Titelformel "Only Geniuses Get 6/6 🧠 <Thema>".
+- **E1 (7-Min-Test, niedrige Score-Hürde) gestoppt:** #1 0, #2 0, #3 "Well Educated" 1 View n. 23 h – Konkurrenz-Muster (QuizNova 422k, GK Studio Pro 1,05 Mio) funktioniert ohne Long-Publikum nicht.
+- 08.11. = "Weltraum-Tag" (E8 #2 Solar System Quiz 30 Q + 6-Q Space [E9 Thema] + VS Planeten). Konkurrenz: Quiz World Riddles 510k (+3 %/Tag), Dopamine "F1 Tracks Part 3" 29k in 6 T (enge Nische + Serie). GTA VI weiter 19.11.2026.
+- Scoreboard zählt "Can You Answer This Quiz Question? #2" doppelt (2 done-Dateien, gleiche videoId) → Dedupe angefordert.
