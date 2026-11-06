@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-06T06:18",
+ "fetched": "2026-11-06T08:25",
  "groups": {
   "short.format": {
    "6+ Fragen": {
@@ -625,7 +625,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 18.6,
+   "ageDays": 18.7,
    "search": null
   },
   {
@@ -644,7 +644,7 @@
    "avgPct": 61.12,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 18.6,
+   "ageDays": 18.7,
    "search": null
   },
   {
@@ -663,7 +663,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 17.5,
+   "ageDays": 17.6,
    "search": null
   },
   {
@@ -682,7 +682,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 17.5,
+   "ageDays": 17.6,
    "search": null
   },
   {
@@ -701,7 +701,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 17.8,
+   "ageDays": 17.9,
    "search": null
   },
   {
@@ -758,7 +758,7 @@
    "avgPct": 29.69,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 16.8,
+   "ageDays": 16.9,
    "search": null
   },
   {
@@ -777,7 +777,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 15.8,
+   "ageDays": 15.9,
    "search": null
   },
   {
@@ -815,7 +815,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 14.8,
+   "ageDays": 14.9,
    "search": null
   },
   {
@@ -834,7 +834,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 14.7,
+   "ageDays": 14.8,
    "search": null
   },
   {
@@ -853,7 +853,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 14.5,
+   "ageDays": 14.6,
    "search": null
   },
   {
@@ -872,7 +872,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 13.7,
+   "ageDays": 13.8,
    "search": null
   },
   {
@@ -891,7 +891,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 13.8,
+   "ageDays": 13.9,
    "search": null
   },
   {
@@ -910,7 +910,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 13.5,
+   "ageDays": 13.6,
    "search": null
   },
   {
@@ -929,7 +929,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 12.8,
+   "ageDays": 12.9,
    "search": null
   },
   {
@@ -948,7 +948,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 12.7,
+   "ageDays": 12.8,
    "search": null
   },
   {
@@ -967,7 +967,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 12.5,
+   "ageDays": 12.6,
    "search": null
   },
   {
@@ -1234,7 +1234,7 @@
    "subs": 1.0,
    "durationSec": 45,
    "ageDays": 4.7,
-   "search": 21
+   "search": null
   },
   {
    "file": "2026-11-01-trap-4-true-false.json",
@@ -1253,7 +1253,7 @@
    "subs": 0.0,
    "durationSec": 40,
    "ageDays": 4.5,
-   "search": 2
+   "search": null
   },
   {
    "file": "2026-11-01-true-false-50-1.json",
@@ -1423,7 +1423,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 9.4,
+   "ageDays": 9.5,
    "search": null
   },
   {
@@ -1480,7 +1480,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 7.5,
+   "ageDays": 7.6,
    "search": null
   },
   {
@@ -1499,7 +1499,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 7.5,
+   "ageDays": 7.6,
    "search": null
   },
   {
