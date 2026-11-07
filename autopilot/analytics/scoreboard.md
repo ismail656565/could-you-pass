@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (34 Videos)
+## Shorts (35 Videos)
 
 ### Shorts nach Format
 
@@ -13,7 +13,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Ersatz-Generator (1 Frage) | 5 | 699 | 620 | 1206 | 38.1 | 145.3 | 0 |
 | 1-Frage-Ego-Hook | 8 | 419 | 378 | 865 | 44.2 | 101.5 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
-| 4-Fragen-Trap | 8 | 417 | 281 | 1081 | 52.1 | 81.8 | 1.0 |
+| 4-Fragen-Trap | 9 | 371 | 251 | 1081 | 52.1 | 81.8 | 1.0 |
 | Wahr/Falsch | 1 | 143 | 143 | 143 | 47.2 | 92.8 | 0 |
 
 ### Shorts nach Thema/Titeltyp
@@ -42,12 +42,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
 | VOCABULARY QUIZ | 1 | 144 | 144 | 144 | – | – | 0 |
 | TRUE OR FALSE? | 1 | 143 | 143 | 143 | 47.2 | 92.8 | 0 |
+| BONFIRE NIGHT QUIZ | 1 | 1 | 1 | 1 | – | – | 0 |
 
 ### Shorts nach Layout
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 21 | 587 | 482 | 1218 | 49.9 | 75.4 | 8.0 |
+| tvshow | 22 | 560 | 454 | 1218 | 49.9 | 75.4 | 8.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.2 | 111.5 | 0 |
 
 ### Shorts nach Musik
@@ -55,7 +56,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 10 | 751 | 798 | 1218 | 47.7 | 84.6 | 4.0 |
-| world-trip.wav | 6 | 601 | 636 | 1142 | 50.4 | 73.8 | 3.0 |
+| world-trip.wav | 7 | 515 | 556 | 1142 | 50.4 | 73.8 | 3.0 |
 | brain-pulse.wav | 18 | 443 | 314 | 1433 | 46.7 | 97.3 | 1.0 |
 
 ### Shorts nach Sendezeit
@@ -65,7 +66,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 965 | 965 | 1433 | 47.1 | 67.3 | 0 |
 | 16:00 | 14 | 548 | 454 | 1218 | 46.8 | 91.1 | 5.0 |
 | 10:00 | 4 | 521 | 327 | 1234 | 39.6 | 151.9 | 0 |
-| 21:00 | 14 | 528 | 319 | 1160 | 51.2 | 70.7 | 3.0 |
+| 21:00 | 15 | 493 | 311 | 1160 | 51.2 | 70.7 | 3.0 |
 
 ### Top 8 Shorts
 
@@ -80,10 +81,10 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Shorts
 
-- 154 Views · 1-Frage-Ego-Hook · How Long Does Sunlight Take to Reach Earth? ☀️🤯 #shorts
 - 144 Views · 6+ Fragen · Vocabulary Quiz – Can You Get 6/6? 📚 #shorts
 - 143 Views · Wahr/Falsch · True or False? 4 Facts 90% Get Wrong ✅❌ #shorts
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
+- 1 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
 ## Lange Videos (20 Videos)
