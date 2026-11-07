@@ -382,9 +382,9 @@
     "subs": 1.0
    },
    "50 Fragen": {
-    "n": 9,
-    "avgViews": 5,
-    "medianViews": 3,
+    "n": 10,
+    "avgViews": 4,
+    "medianViews": 2,
     "bestViews": 14,
     "stayed": 63.1,
     "avgPct": 60.9,
@@ -411,9 +411,9 @@
   },
   "long.topic": {
    "Emoji-Raten": {
-    "n": 1,
-    "avgViews": 141,
-    "medianViews": 141,
+    "n": 2,
+    "avgViews": 71,
+    "medianViews": 71,
     "bestViews": 141,
     "stayed": 73.0,
     "avgPct": 52.1,
@@ -539,7 +539,7 @@
     "subs": 1.0
    },
    "tvshow": {
-    "n": 10,
+    "n": 11,
     "avgViews": 4,
     "medianViews": 2,
     "bestViews": 14,
@@ -559,8 +559,8 @@
     "subs": 1.0
    },
    "game-show.wav": {
-    "n": 7,
-    "avgViews": 33,
+    "n": 8,
+    "avgViews": 29,
     "medianViews": 6,
     "bestViews": 185,
     "stayed": 70.3,
@@ -597,9 +597,9 @@
     "subs": 1.0
    },
    "14:00": {
-    "n": 16,
-    "avgViews": 12,
-    "medianViews": 4,
+    "n": 17,
+    "avgViews": 11,
+    "medianViews": 3,
     "bestViews": 59,
     "stayed": 67.3,
     "avgPct": 49.3,
@@ -624,7 +624,7 @@
    "avgPct": 52.1,
    "subs": 1.0,
    "durationSec": 182,
-   "ageDays": 20.7,
+   "ageDays": 20.8,
    "search": null
   },
   {
@@ -681,7 +681,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 18.7,
+   "ageDays": 18.8,
    "search": null
   },
   {
@@ -719,7 +719,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 19.0,
+   "ageDays": 19.1,
    "search": null
   },
   {
@@ -776,7 +776,7 @@
    "avgPct": 29.69,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 18.0,
+   "ageDays": 18.1,
    "search": null
   },
   {
@@ -795,7 +795,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 17.0,
+   "ageDays": 17.1,
    "search": null
   },
   {
@@ -833,7 +833,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 16.0,
+   "ageDays": 16.1,
    "search": null
   },
   {
@@ -871,7 +871,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 15.7,
+   "ageDays": 15.8,
    "search": null
   },
   {
@@ -909,7 +909,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 15.0,
+   "ageDays": 15.1,
    "search": null
   },
   {
@@ -928,7 +928,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 14.7,
+   "ageDays": 14.8,
    "search": null
   },
   {
@@ -947,7 +947,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 14.0,
+   "ageDays": 14.1,
    "search": null
   },
   {
@@ -985,7 +985,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 13.7,
+   "ageDays": 13.8,
    "search": null
   },
   {
@@ -1004,7 +1004,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 14.3,
+   "ageDays": 14.4,
    "search": null
   },
   {
@@ -1023,7 +1023,7 @@
    "avgPct": 95.46,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 12.9,
+   "ageDays": 13.0,
    "search": null
   },
   {
@@ -1099,7 +1099,7 @@
    "avgPct": 71.99,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 11.9,
+   "ageDays": 12.0,
    "search": null
   },
   {
@@ -1156,7 +1156,7 @@
    "avgPct": 77.71,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 7.9,
+   "ageDays": 8.0,
    "search": null
   },
   {
@@ -1213,7 +1213,7 @@
    "avgPct": 88.56,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 6.9,
+   "ageDays": 7.0,
    "search": null
   },
   {
@@ -1251,7 +1251,7 @@
    "avgPct": 51.27,
    "subs": 1.0,
    "durationSec": 45,
-   "ageDays": 5.9,
+   "ageDays": 6.0,
    "search": null
   },
   {
@@ -1308,7 +1308,7 @@
    "avgPct": 91.27,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 4.9,
+   "ageDays": 5.0,
    "search": null
   },
   {
@@ -1384,7 +1384,7 @@
    "avgPct": 48.38,
    "subs": 0.0,
    "durationSec": 57,
-   "ageDays": 3.9,
+   "ageDays": 4.0,
    "search": 2
   },
   {
@@ -1441,7 +1441,7 @@
    "avgPct": 47.31,
    "subs": 2.0,
    "durationSec": 51,
-   "ageDays": 2.9,
+   "ageDays": 3.0,
    "search": 25
   },
   {
@@ -1464,6 +1464,25 @@
    "search": 20
   },
   {
+   "file": "2026-11-05-emoji-word-50-1.json",
+   "id": "emoji-word-50-1",
+   "videoId": "G6JJ4HGXJ9g",
+   "kind": "long",
+   "title": "Emoji Quiz: Guess the Word – 50 Rounds, Easy to Legend 🧩",
+   "format": "50 Fragen",
+   "topic": "Emoji-Raten",
+   "layout": "tvshow",
+   "music": "game-show.wav",
+   "slot": "14:00",
+   "publicViews": 1.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 646,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-28-long.json",
    "id": "auto-2026-10-28-long",
    "videoId": "zZDclzxCTSg",
@@ -1479,7 +1498,7 @@
    "avgPct": 3.5000000000000004,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 10.6,
+   "ageDays": 10.7,
    "search": null
   },
   {
@@ -1536,7 +1555,7 @@
    "avgPct": 121.55,
    "subs": 0.0,
    "durationSec": 8,
-   "ageDays": 9.9,
+   "ageDays": 10.0,
    "search": null
   },
   {
@@ -1555,7 +1574,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 8.7,
+   "ageDays": 8.8,
    "search": null
   },
   {

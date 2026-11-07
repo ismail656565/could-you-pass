@@ -85,7 +85,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (19 Videos)
+## Lange Videos (20 Videos)
 
 ### Lange Videos nach Format
 
@@ -95,7 +95,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 35 Fragen | 3 | 97 | 59 | 185 | 49.0 | 26.2 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
-| 50 Fragen | 9 | 5 | 3 | 14 | 63.1 | 60.9 | 0 |
+| 50 Fragen | 10 | 4 | 2 | 14 | 63.1 | 60.9 | 0 |
 | 15 Fragen | 2 | 1 | 1 | 2 | 100.0 | 6.6 | 0 |
 | 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
@@ -103,8 +103,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| Emoji-Raten | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | Halloween | 2 | 116 | 116 | 185 | 55.6 | 24.4 | 0 |
+| Emoji-Raten | 2 | 71 | 71 | 141 | 73.0 | 52.1 | 1.0 |
 | IQ-Titel | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | Can-You-Pass-Test | 1 | 11 | 11 | 11 | 27.3 | 37.1 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
@@ -122,14 +122,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 185 | 66.5 | 52.5 | 1.0 |
-| tvshow | 10 | 4 | 2 | 14 | 64.7 | 44.4 | 0 |
+| tvshow | 11 | 4 | 2 | 14 | 64.7 | 44.4 | 0 |
 
 ### Lange Videos nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| game-show.wav | 7 | 33 | 6 | 185 | 70.3 | 45.8 | 1.0 |
+| game-show.wav | 8 | 29 | 6 | 185 | 70.3 | 45.8 | 1.0 |
 | world-trip.wav | 5 | 7 | 4 | 14 | 50.2 | 58.8 | 0 |
 | brain-pulse.wav | 6 | 18 | 2 | 59 | 76.6 | 40.1 | 0 |
 
@@ -138,7 +138,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 185 | 60.1 | 45.7 | 1.0 |
-| 14:00 | 16 | 12 | 4 | 59 | 67.3 | 49.3 | 1.0 |
+| 14:00 | 17 | 11 | 3 | 59 | 67.3 | 49.3 | 1.0 |
 
 ### Top 8 Lange Videos
 
@@ -153,8 +153,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Lange Videos
 
-- 2 Views · 50 Fragen · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
 - 1 Views · 50 Fragen · General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent 🧠 | 50 Questions
 - 1 Views · 50 Fragen · True or False Quiz: 50 Facts From Easy to Legend ✅❌
+- 1 Views · 50 Fragen · Emoji Quiz: Guess the Word – 50 Rounds, Easy to Legend 🧩
 - 0 Views · 12 Fragen · General Knowledge Quiz: Can You Score 4/12? 🧠 7-Minute Test
 - 0 Views · 15 Fragen · US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test
