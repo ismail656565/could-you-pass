@@ -74,7 +74,12 @@
     "icons": [
      "🗽",
      "🌋"
-    ]
+    ],
+    "start": 0.0,
+    "keywordAt": 0.812,
+    "countdownStart": 3.014,
+    "reveal": 6.014,
+    "end": 11.354
    },
    {
     "q": "Which has more **people**?",
@@ -95,7 +100,11 @@
     "icons": [
      "🥨",
      "🏝️"
-    ]
+    ],
+    "start": 11.354,
+    "countdownStart": 13.084,
+    "reveal": 16.084,
+    "end": 21.435
    },
    {
     "q": "Which has more **people**?",
@@ -116,7 +125,11 @@
     "icons": [
      "☕",
      "🪆"
-    ]
+    ],
+    "start": 21.435,
+    "countdownStart": 22.992,
+    "reveal": 25.992,
+    "end": 31.527
    },
    {
     "q": "Which has more **people**?",
@@ -137,8 +150,33 @@
     "icons": [
      "🌮",
      "🐪"
-    ]
+    ],
+    "start": 31.527,
+    "countdownStart": 33.593,
+    "reveal": 36.593,
+    "end": 41.837
    }
-  ]
- }
+  ],
+  "audio": "audio/vs-more-people-2.mp3",
+  "outroStart": 41.837,
+  "durationInSeconds": 41.837
+ },
+ "qa": {
+  "lufs": -20.6,
+  "truePeak": -2.8,
+  "lra": 5.9,
+  "normalized": true,
+  "frozenShare": 0.663,
+  "longestFreezeSec": 4.4,
+  "frame0Luma": 82.3,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-07T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "q1v-bakXibw",
+  "at": "2026-11-07T06:19"
+ },
+ "linkedLong": "YkUxjhxINPc"
 }

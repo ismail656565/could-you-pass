@@ -1,0 +1,124 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Capital Cities",
+ "header": "CAPITAL CITIES",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "What is the capital of **Norway**?",
+   "answers": [
+    "Bergen",
+    "Oslo",
+    "Stavanger",
+    "Trondheim"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🫎",
+   "start": 0.0,
+   "keywordAt": 1.191,
+   "countdownStart": 1.829,
+   "reveal": 4.329,
+   "end": 7.313
+  },
+  {
+   "q": "What is the capital of **Scotland**?",
+   "answers": [
+    "Glasgow",
+    "Aberdeen",
+    "Edinburgh",
+    "Dundee"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🏰",
+   "start": 7.313,
+   "keywordAt": 8.524,
+   "countdownStart": 9.267,
+   "reveal": 11.767,
+   "end": 14.614
+  },
+  {
+   "q": "What is the capital of **Jamaica**?",
+   "answers": [
+    "Montego Bay",
+    "Kingston",
+    "Ocho Rios",
+    "Negril"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🏝️",
+   "start": 14.614,
+   "keywordAt": 15.969,
+   "countdownStart": 16.713,
+   "reveal": 19.213,
+   "end": 21.81
+  },
+  {
+   "q": "What is the capital of **Tanzania**?",
+   "answers": [
+    "Dar es Salaam",
+    "Arusha",
+    "Zanzibar City",
+    "Dodoma"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🦒",
+   "start": 21.81,
+   "keywordAt": 23.097,
+   "countdownStart": 23.869,
+   "reveal": 26.369,
+   "end": 28.93
+  },
+  {
+   "q": "What is the capital of **Nepal**?",
+   "answers": [
+    "Kathmandu",
+    "Pokhara",
+    "Lhasa",
+    "Thimphu"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🏔️",
+   "start": 28.93,
+   "keywordAt": 30.247,
+   "countdownStart": 30.87,
+   "reveal": 33.37,
+   "end": 36.197
+  },
+  {
+   "q": "What is the capital of **Belgium**?",
+   "answers": [
+    "Antwerp",
+    "Bruges",
+    "Ghent",
+    "Brussels"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🧇",
+   "start": 36.197,
+   "keywordAt": 37.76,
+   "countdownStart": 38.42,
+   "reveal": 40.92,
+   "end": 43.588
+  }
+ ],
+ "audio": "audio/six-q-genius-capitals.mp3",
+ "outroStart": 43.588,
+ "durationInSeconds": 43.588
+}

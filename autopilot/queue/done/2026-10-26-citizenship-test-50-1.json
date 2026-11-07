@@ -1066,8 +1066,8 @@
    "B",
    "C"
   ],
-  "current": "C",
-  "since": "2026-11-03",
+  "current": "A",
+  "since": "2026-11-07",
   "results": {
    "A": {
     "views": 10,
@@ -1082,9 +1082,17 @@
     "metric": "views/day",
     "from": "2026-10-30",
     "to": "2026-11-03"
+   },
+   "C": {
+    "views": 0,
+    "ctr": 0.0,
+    "metric": "views/day",
+    "from": "2026-11-03",
+    "to": "2026-11-07"
    }
   },
-  "done": false
+  "done": true,
+  "winner": "A"
  },
  "scheduledFor": "2026-10-26T14:00+01:00",
  "playlistAdded": true,
