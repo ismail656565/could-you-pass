@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-07T06:15 (14 Abos)
+# Scoreboard – Stand 2026-11-07T08:10 (14 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -10,11 +10,11 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 5 | 1004 | 1218 | 1433 | 57.0 | 50.9 | 3.0 |
 | VS-Vergleich | 3 | 856 | 875 | 1136 | 55.9 | 64.2 | 2.0 |
-| Ersatz-Generator (1 Frage) | 5 | 699 | 619 | 1206 | 38.1 | 145.3 | 0 |
+| Ersatz-Generator (1 Frage) | 5 | 699 | 620 | 1206 | 38.1 | 145.3 | 0 |
 | 1-Frage-Ego-Hook | 8 | 419 | 378 | 865 | 44.2 | 101.5 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 497 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 8 | 417 | 281 | 1081 | 52.1 | 81.8 | 1.0 |
-| Wahr/Falsch | 1 | 143 | 143 | 143 | 47.2 | 92.4 | 0 |
+| Wahr/Falsch | 1 | 143 | 143 | 143 | 47.2 | 92.8 | 0 |
 
 ### Shorts nach Thema/Titeltyp
 
@@ -40,20 +40,20 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | FOOD QUIZ | 1 | 185 | 185 | 185 | 65.2 | 80.6 | 0 |
 | ANIMAL QUIZ | 1 | 178 | 178 | 178 | 43.7 | 77.7 | 1.0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
-| TRUE OR FALSE? | 1 | 143 | 143 | 143 | 47.2 | 92.4 | 0 |
+| TRUE OR FALSE? | 1 | 143 | 143 | 143 | 47.2 | 92.8 | 0 |
 
 ### Shorts nach Layout
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 20 | 608 | 519 | 1218 | 49.9 | 75.4 | 8.0 |
+| tvshow | 20 | 609 | 519 | 1218 | 49.9 | 75.4 | 8.0 |
 | neon | 13 | 520 | 330 | 1433 | 44.2 | 111.5 | 0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 10 | 751 | 797 | 1218 | 47.7 | 84.6 | 4.0 |
+| game-show.wav | 10 | 751 | 798 | 1218 | 47.7 | 84.6 | 4.0 |
 | world-trip.wav | 6 | 600 | 636 | 1136 | 50.4 | 73.8 | 3.0 |
 | brain-pulse.wav | 17 | 460 | 316 | 1433 | 46.7 | 97.3 | 1.0 |
 
