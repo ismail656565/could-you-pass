@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-07T08:10",
+ "fetched": "2026-11-07T11:30",
  "channel": "COULD YOU PASS?",
- "subscribers": "14",
+ "subscribers": "15",
  "audience": {
   "countries": [
    {
@@ -83,8 +83,8 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 17711,
-    "engagedViews": 7800
+    "views": 17703,
+    "engagedViews": 7799
    },
    {
     "deviceType": "TABLET",
@@ -93,13 +93,13 @@
    },
    {
     "deviceType": "TV",
-    "views": 2256,
+    "views": 2255,
     "engagedViews": 1789
    },
    {
     "deviceType": "DESKTOP",
-    "views": 1454,
-    "engagedViews": 774
+    "views": 1453,
+    "engagedViews": 773
    }
   ],
   "ageGroups": [
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 47,
-   "publicViews": "258",
+   "publicViews": "271",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -261,7 +261,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 53,
-   "publicViews": "54",
+   "publicViews": "67",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -309,7 +309,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 52,
-   "publicViews": "135",
+   "publicViews": "144",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -872,7 +872,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 41,
-   "publicViews": "1136",
+   "publicViews": "1142",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -966,15 +966,15 @@
    "views": 289,
    "engagedViews": 140,
    "averageViewDuration": 17,
-   "averageViewPercentage": 44.35,
+   "averageViewPercentage": 44.58,
    "likes": 9,
    "comments": 0,
    "subscribersGained": 1,
    "trafficSources": {
     "SHORTS": 284,
-    "YT_OTHER_PAGE": 3,
     "YT_SEARCH": 2,
-    "NO_LINK_OTHER": 0
+    "NO_LINK_OTHER": 0,
+    "YT_OTHER_PAGE": 0
    },
    "durationSec": 40,
    "publicViews": "311",
@@ -1007,8 +1007,9 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 133,
+    "SHORTS": 132,
     "YT_SEARCH": 2,
+    "SOUND_PAGE": 1,
     "NO_LINK_OTHER": 0,
     "YT_OTHER_PAGE": 0
    },
