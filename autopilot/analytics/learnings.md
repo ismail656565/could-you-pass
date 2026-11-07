@@ -418,3 +418,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: E1 gestoppt (0/0/1); Studio-Diagnose bleibt Ausspielung (8 Impressionen/33 h). E8 #2 Solar-System-30 mit 1 Fangfrage je Runde (Konkurrenz Quiz World "Tricky" 510k).
 - Thumbnails: CTR weiter nicht messbar (HttpError 400); Solar-System testet A "SOLAR SYSTEM QUIZ" + Sonnenfoto (NASA/SDO) vs. B "25/30" vs. C "LEGEND LEVEL".
 - Duplikate vermieden (gegen queue/done/stories): Rote Planet, Armstrong, Tereshkova, Sonnenlicht 8 min, meiste Monde, größter/kleinster Planet, Uranus seitlich, Herschel, Großer Roter Fleck, Saturn schwimmt, Ganymed als Frage, Wasserstoff, Gagarin/Leonov/Sputnik → ersetzt. Weltraum-Tag ohne gleiche Fakten zwischen Long, 6-Q und VS.
+
+## 2026-11-07 – Research (Research-Agent)
+- VS "Which Has More People?" jetzt 1.102 Views (VS 873 / 555 / 1.102, Median 873 ≈ 1,8× Shorts-Median 480) → 21:00 VS bleibt; 09.11. VS #7 "Which Is Heavier?" (Haken: Cumuluswolke ≈500 t > Blauwal ≈150 t).
+- 6-Q: Geography 969 n. 1,9 T, aber Vocabulary (E5) nur 115 n. ~20 h → Thema entscheidet; Wortschatz vorläufig Flop (Verdict 08.11.).
+- Gunpowder-4-Trap: public, 0 Views n. ~15,7 h → Verdacht Themenfilter (Sprengstoff/💥); keine Sprengstoff-/Waffen-Themen mehr in Shorts.
+- Longs final: Geography-50 3 Views (≥3 T), Emoji-50 1 View n. 1 T. E8 #3 Flag Quiz 09.11. (Konkurrenz "Only 5% can name these flags" 189k bei 1,5k Abos). GTA VI laut Take-Two weiter 19.11.2026.
