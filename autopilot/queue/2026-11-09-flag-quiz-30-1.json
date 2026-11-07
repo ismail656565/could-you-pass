@@ -1,0 +1,571 @@
+{
+ "id": "flag-quiz-30-1",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "lines": [
+  {
+   "q": "Thirty flags, from easy to legend, and they get harder every round. Keep score! First one: which country's flag is this?",
+   "a": "Japan! The Japanese call it Hinomaru, the circle of the sun."
+  },
+  {
+   "q": "Which country's flag is this?",
+   "a": "Italy! Green, white and red, nicknamed Il Tricolore."
+  },
+  {
+   "q": "And this one?",
+   "a": "Brazil! That blue globe shows the night sky over Rio."
+  },
+  {
+   "q": "Which country's flag is this?",
+   "a": "France! Blue, white and red, in vertical stripes."
+  },
+  {
+   "q": "What colours are on Germany's flag?",
+   "a": "Black, red and gold! Nice, you're warming up."
+  },
+  {
+   "q": "Last one of round one. What colours are on Ireland's flag?",
+   "a": "Green, white and orange! Not red, that's Italy."
+  },
+  {
+   "q": "Round two: medium, and the traps begin. Which country's flag is this?",
+   "a": "Australia! White stars. New Zealand's stars are red."
+  },
+  {
+   "q": "Which country's flag is this?",
+   "a": "Turkey! Tunisia's looks close, but its moon sits in a white circle."
+  },
+  {
+   "q": "Which country's flag is this?",
+   "a": "Nigeria! Designed by a student, Taiwo Akinkunmi, in nineteen fifty nine."
+  },
+  {
+   "q": "Which country has a square national flag?",
+   "a": "Switzerland! Only Vatican City shares that shape."
+  },
+  {
+   "q": "Brazil's flag has a motto, ordem e progresso. What does it mean?",
+   "a": "Order and Progress! How's your score so far?"
+  },
+  {
+   "q": "Which country's flag is a red circle on green?",
+   "a": "Bangladesh! And the circle sits slightly off centre."
+  },
+  {
+   "q": "Round three: hard. Stay sharp! Which country's flag is this?",
+   "a": "Kazakhstan! A golden sun above a soaring steppe eagle."
+  },
+  {
+   "q": "Which country's flag shows a map of its own island?",
+   "a": "Cyprus! The map is copper coloured, for its old copper mines."
+  },
+  {
+   "q": "Which country's flag has a cedar tree in the middle?",
+   "a": "Lebanon! The cedar has been its symbol for thousands of years. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Which country's flag shows a dragon?",
+   "a": "Bhutan! It's Druk, the Thunder Dragon."
+  },
+  {
+   "q": "What sits in the middle of Mexico's flag?",
+   "a": "An eagle eating a snake, on a cactus! You're doing great."
+  },
+  {
+   "q": "Last one of round three. What is in the middle of India's flag?",
+   "a": "A wheel! The Ashoka Chakra, in navy blue."
+  },
+  {
+   "q": "Round four: very hard. Only the best get these. Which country's flag has a different design on the back?",
+   "a": "Paraguay! The front has a coat of arms, the back a treasury seal."
+  },
+  {
+   "q": "Which country's flag shows a parrot?",
+   "a": "Dominica! The sisserou parrot, found nowhere else on Earth."
+  },
+  {
+   "q": "Which country's flag shows a bird of paradise?",
+   "a": "Papua New Guinea! With the Southern Cross beside it."
+  },
+  {
+   "q": "How many spokes does the wheel on India's flag have?",
+   "a": "Twenty four! Tough one, right?"
+  },
+  {
+   "q": "Which animal is on Sri Lanka's flag?",
+   "a": "A lion! A golden lion, standing proud."
+  },
+  {
+   "q": "Which country's flag shows a broken trident?",
+   "a": "Barbados! Broken to mark its break from colonial rule."
+  },
+  {
+   "q": "Final round: legend level! Which country has the oldest national flag still in use?",
+   "a": "Denmark! Legend says it fell from the sky in twelve nineteen."
+  },
+  {
+   "q": "What is the study of flags called?",
+   "a": "Vexillology! From vexillum, the Latin word for a flag."
+  },
+  {
+   "q": "What bird flies across Kiribati's flag?",
+   "a": "A frigatebird! Soaring over a rising sun."
+  },
+  {
+   "q": "Three left, stay with me! Which country's flag shows a temple?",
+   "a": "Cambodia! It's Angkor Wat."
+  },
+  {
+   "q": "Haiti and Liechtenstein found out they had the same flag. At which event?",
+   "a": "The nineteen thirty six Olympics! Liechtenstein then added a crown."
+  },
+  {
+   "q": "Final question. Which country's flag is almost identical to Chad's?",
+   "a": "Romania! Only the shade of blue is different."
+  }
+ ],
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Flag Quiz: 30 Questions From Easy to Legend 🚩",
+  "description": "Guess the country by its flag – 30 flags from easy to legend 🚩 Can you get 25/30?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#FlagQuiz #GuessTheFlag #GeographyQuiz #Flags #Quiz #Trivia\n\nPhotos via Wikimedia Commons: Flag of Japan (public domain), Flag of Italy (public domain), Flag of Brazil (public domain), Flag of France (public domain), Flag of Australia (public domain), Flag of Turkey (public domain), Flag of Nigeria (public domain), Flag of Kazakhstan (public domain)\nMusic: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "country flags quiz",
+   "guess the country by flag",
+   "flags of the world",
+   "geography quiz",
+   "world flags quiz",
+   "trivia quiz",
+   "quiz for adults"
+  ],
+  "categoryId": "27",
+  "comment": "How many did you get out of 30? 🚩 Did Australia or the Chad flag catch you out? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Flag Quiz",
+  "header": "FLAG QUIZ",
+  "hook": "CAN YOU GET 25/30? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 14,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "FLAG **QUIZ**",
+   "CAN YOU GET **25/30**?",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🚩",
+  "thumbBadge": "30 Q · EASY → LEGEND",
+  "cardColors": [
+   "#7F1D1D",
+   "#2A0A0A"
+  ],
+  "thumbImage": "bilder/cap-flag-canada.jpg",
+  "questions": [
+   {
+    "q": "Which country's **flag** is this?",
+    "answers": [
+     "China",
+     "South Korea",
+     "Japan",
+     "Bangladesh"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "image": "bilder/cap-flag-japan.jpg",
+    "fact": "Japan's flag is called Hinomaru – \"circle of the sun\"."
+   },
+   {
+    "q": "Which country's **flag** is this?",
+    "answers": [
+     "Ireland",
+     "Italy",
+     "Mexico",
+     "Hungary"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "image": "bilder/cap-flag-italy.jpg",
+    "fact": "Italians call their flag \"Il Tricolore\"."
+   },
+   {
+    "q": "Which country's **flag** is this?",
+    "answers": [
+     "Brazil",
+     "Portugal",
+     "Colombia",
+     "Jamaica"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "image": "bilder/cap-flag-brazil.jpg",
+    "fact": "The globe shows the sky over Rio on 15 November 1889."
+   },
+   {
+    "q": "Which country's **flag** is this?",
+    "answers": [
+     "Netherlands",
+     "Russia",
+     "Luxembourg",
+     "France"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "image": "bilder/cap-flag-france.jpg",
+    "fact": "France's tricolour dates back to the French Revolution."
+   },
+   {
+    "q": "What colours are on **Germany's** flag?",
+    "answers": [
+     "Black, red, gold",
+     "Red, white, black",
+     "Black, white, gold",
+     "Red, gold, green"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🥨",
+    "fact": "Germany's flag is black, red and gold, top to bottom."
+   },
+   {
+    "q": "What colours are on **Ireland's** flag?",
+    "answers": [
+     "Green, white, red",
+     "Green, gold, red",
+     "Green, white, orange",
+     "Blue, white, green"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "☘️",
+    "fact": "Ireland's tricolour: green, white and orange."
+   },
+   {
+    "q": "Which country's **flag** is this?",
+    "answers": [
+     "New Zealand",
+     "Fiji",
+     "United Kingdom",
+     "Australia"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "image": "bilder/cap-flag-australia.jpg",
+    "fact": "New Zealand's flag looks similar, but its stars are red."
+   },
+   {
+    "q": "Which country's **flag** is this?",
+    "answers": [
+     "Tunisia",
+     "Turkey",
+     "Pakistan",
+     "Algeria"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "image": "bilder/cap-flag-turkey.jpg",
+    "fact": "Tunisia's crescent and star sit inside a white disc."
+   },
+   {
+    "q": "Which country's **flag** is this?",
+    "answers": [
+     "Ghana",
+     "Senegal",
+     "Nigeria",
+     "Cameroon"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "image": "bilder/cap-flag-nigeria.jpg",
+    "fact": "Nigeria's flag was designed by student Taiwo Akinkunmi in 1959."
+   },
+   {
+    "q": "Which country has a **square** national flag?",
+    "answers": [
+     "Switzerland",
+     "Austria",
+     "Denmark",
+     "Norway"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🏔️",
+    "fact": "Only Switzerland and Vatican City have square flags."
+   },
+   {
+    "q": "What does **Ordem e Progresso** mean?",
+    "answers": [
+     "Peace and Love",
+     "God and Country",
+     "Unity and Work",
+     "Order and Progress"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "⭐",
+    "fact": "Brazil is one of few countries with words on its flag."
+   },
+   {
+    "q": "Which flag is a red circle on **green**?",
+    "answers": [
+     "Japan",
+     "Bangladesh",
+     "Palau",
+     "Laos"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🟢",
+    "fact": "Bangladesh's red disc is set slightly towards the pole."
+   },
+   {
+    "q": "Which country's **flag** is this?",
+    "answers": [
+     "Uzbekistan",
+     "Mongolia",
+     "Kazakhstan",
+     "Kyrgyzstan"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "image": "bilder/cap-flag-kazakhstan.jpg",
+    "fact": "Kazakhstan's flag shows a golden sun and a steppe eagle."
+   },
+   {
+    "q": "Which flag shows a **map** of its island?",
+    "answers": [
+     "Malta",
+     "Iceland",
+     "Sri Lanka",
+     "Cyprus"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🏝️",
+    "fact": "Cyprus's map is copper-coloured – the island was famed for copper."
+   },
+   {
+    "q": "Which flag has a **cedar** tree?",
+    "answers": [
+     "Lebanon",
+     "Cyprus",
+     "Greece",
+     "Jordan"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌲",
+    "fact": "The Lebanon cedar is mentioned many times in the Bible."
+   },
+   {
+    "q": "Which country's flag shows a **dragon**?",
+    "answers": [
+     "Nepal",
+     "Bhutan",
+     "Vietnam",
+     "Mongolia"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🐉",
+    "fact": "Bhutan's dragon is Druk, the \"Thunder Dragon\"."
+   },
+   {
+    "q": "What sits on **Mexico's** flag?",
+    "answers": [
+     "A jaguar",
+     "A sun with a face",
+     "An eagle with a snake",
+     "A volcano"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🌵",
+    "fact": "It shows the Aztec legend of founding Tenochtitlan."
+   },
+   {
+    "q": "What is in the middle of **India's** flag?",
+    "answers": [
+     "A lotus",
+     "A wheel",
+     "A tiger",
+     "A star"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🌏",
+    "fact": "India's wheel is the Ashoka Chakra."
+   },
+   {
+    "q": "Which flag has a different **back** side?",
+    "answers": [
+     "Uruguay",
+     "Bolivia",
+     "Paraguay",
+     "Peru"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🔄",
+    "fact": "Paraguay: coat of arms on the front, treasury seal on the back."
+   },
+   {
+    "q": "Which flag shows a **parrot**?",
+    "answers": [
+     "Dominica",
+     "Jamaica",
+     "Barbados",
+     "Grenada"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🦜",
+    "fact": "The sisserou parrot lives only on Dominica."
+   },
+   {
+    "q": "Which flag shows a **bird of paradise**?",
+    "answers": [
+     "Fiji",
+     "Indonesia",
+     "Samoa",
+     "Papua New Guinea"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🪶",
+    "fact": "Papua New Guinea's flag also shows the Southern Cross."
+   },
+   {
+    "q": "How many spokes on **India's** wheel?",
+    "answers": [
+     "Twelve",
+     "Sixteen",
+     "Thirty-two",
+     "Twenty-four"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "☸️",
+    "fact": "The Ashoka Chakra on India's flag has 24 spokes."
+   },
+   {
+    "q": "Which animal is on **Sri Lanka's** flag?",
+    "answers": [
+     "A tiger",
+     "A lion",
+     "An elephant",
+     "A peacock"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🏝️",
+    "fact": "Sri Lanka's flag is often called the Lion Flag."
+   },
+   {
+    "q": "Which flag shows a broken **trident**?",
+    "answers": [
+     "Jamaica",
+     "Bahamas",
+     "Barbados",
+     "Trinidad and Tobago"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🌊",
+    "fact": "The broken trident marks Barbados's break from colonial rule."
+   },
+   {
+    "q": "Which nation's flag is the **oldest** in use?",
+    "answers": [
+     "Netherlands",
+     "Denmark",
+     "United Kingdom",
+     "Austria"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🏛️",
+    "fact": "Legend says Denmark's flag fell from the sky in 1219."
+   },
+   {
+    "q": "What is the study of flags **called**?",
+    "answers": [
+     "Vexillology",
+     "Heraldry",
+     "Semaphore",
+     "Philately"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "📚",
+    "fact": "\"Vexillum\" was a Roman military flag."
+   },
+   {
+    "q": "What flies on **Kiribati's** flag?",
+    "answers": [
+     "An eagle",
+     "A seagull",
+     "A frigatebird",
+     "A pelican"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🌅",
+    "fact": "Kiribati's frigatebird flies over a rising sun."
+   },
+   {
+    "q": "Which flag shows a **temple**?",
+    "answers": [
+     "Thailand",
+     "Laos",
+     "Myanmar",
+     "Cambodia"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🛕",
+    "fact": "Cambodia's flag shows Angkor Wat."
+   },
+   {
+    "q": "Haiti found its flag twin at which **event**?",
+    "answers": [
+     "The 1936 Olympics",
+     "A World Cup",
+     "A UN meeting",
+     "A royal wedding"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🤝",
+    "fact": "Liechtenstein added a crown to its flag in 1937."
+   },
+   {
+    "q": "Which flag is almost identical to **Chad's**?",
+    "answers": [
+     "Belgium",
+     "Andorra",
+     "Moldova",
+     "Romania"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🟦",
+    "fact": "Chad and Romania differ only in the shade of blue."
+   }
+  ]
+ }
+}

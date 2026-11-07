@@ -1,0 +1,145 @@
+{
+ "id": "vs-heavier-1",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "lines": [
+  {
+   "q": "Which is heavier, an African elephant or a hippo?",
+   "a": "The elephant! About six tonnes, four times a hippo."
+  },
+  {
+   "q": "A fluffy cloud or a blue whale?",
+   "a": "The cloud! About five hundred tonnes of water, floating above you."
+  },
+  {
+   "q": "A moose or a giraffe?",
+   "a": "The giraffe! About twice as heavy as a big moose."
+  },
+  {
+   "q": "Last one. A grizzly or a polar bear?",
+   "a": "The polar bear! The biggest bear on land. Think you can get all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Which Is Heavier? 4 Rounds 90% Get #2 Wrong 🐘 #shorts",
+  "description": "Guess which is heavier – the bars reveal the real weight ⚖️ Did #2 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#whichisheavier #animals #comparison #quiz #trivia #shorts\n\nData: USGS (cumulus cloud ≈ 1.1 million lb), NOAA Fisheries (blue whale), Smithsonian's National Zoo (adult males, rounded averages).\nMusic: original.",
+  "tags": [
+   "which is heavier",
+   "weight comparison",
+   "animal comparison",
+   "comparison quiz",
+   "animal quiz",
+   "blue whale",
+   "cloud weight",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did the cloud get you? ☁️ Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Heavier?",
+  "header": "WHICH IS HEAVIER?",
+  "hook": "90% GET #2 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "HEAVIER!",
+  "revealIcon": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which is **heavier**?",
+    "answers": [
+     "African elephant",
+     "Hippo"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "values": [
+     6000,
+     1500
+    ],
+    "valueLabels": [
+     "≈ 6,000 kg",
+     "≈ 1,500 kg"
+    ],
+    "icons": [
+     "🐘",
+     "🦛"
+    ]
+   },
+   {
+    "q": "Which is **heavier**?",
+    "answers": [
+     "Cumulus cloud",
+     "Blue whale"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "values": [
+     500000,
+     150000
+    ],
+    "valueLabels": [
+     "≈ 500 tonnes",
+     "≈ 150 tonnes"
+    ],
+    "icons": [
+     "☁️",
+     "🐋"
+    ]
+   },
+   {
+    "q": "Which is **heavier**?",
+    "answers": [
+     "Moose",
+     "Giraffe"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     600,
+     1200
+    ],
+    "valueLabels": [
+     "≈ 600 kg",
+     "≈ 1,200 kg"
+    ],
+    "icons": [
+     "🫎",
+     "🦒"
+    ]
+   },
+   {
+    "q": "Which is **heavier**?",
+    "answers": [
+     "Grizzly bear",
+     "Polar bear"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     300,
+     450
+    ],
+    "valueLabels": [
+     "≈ 300 kg",
+     "≈ 450 kg"
+    ],
+    "icons": [
+     "🐻",
+     "🐻‍❄️"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "id": "six-q-genius-berlin-wall",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "lines": [
+  {
+   "q": "In what year did the Berlin Wall fall?",
+   "a": "Nineteen eighty nine! On the ninth of November."
+  },
+  {
+   "q": "Which famous gate stood right by the Wall?",
+   "a": "The Brandenburg Gate! Right on the border."
+  },
+  {
+   "q": "What was the most famous crossing point called?",
+   "a": "Checkpoint Charlie! Now a busy tourist stop."
+  },
+  {
+   "q": "How many years did the Berlin Wall stand?",
+   "a": "Twenty eight! Almost exactly."
+  },
+  {
+   "q": "What's the longest surviving painted section called?",
+   "a": "The East Side Gallery! Over a kilometre of art."
+  },
+  {
+   "q": "Last one. When did Germany reunify?",
+   "a": "October nineteen ninety! Got all six? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Berlin Wall Quiz #shorts",
+  "description": "37 years since the Berlin Wall fell – 6 questions, easy to hard 🧱 Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#berlinwall #historyquiz #germany #quiz #trivia #shorts\n\nMusic: original.",
+  "tags": [
+   "berlin wall quiz",
+   "berlin wall",
+   "fall of the berlin wall",
+   "history quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "germany quiz",
+   "trivia quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did #4 trip you up? 🧱 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Berlin Wall",
+  "header": "BERLIN WALL QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "In what year did the **Berlin Wall** fall?",
+    "answers": [
+     "1979",
+     "1985",
+     "1989",
+     "1991"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🧱"
+   },
+   {
+    "q": "Which famous **gate** stood by the Wall?",
+    "answers": [
+     "Brandenburg Gate",
+     "Arc de Triomphe",
+     "Golden Gate",
+     "Victory Gate"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🏛️"
+   },
+   {
+    "q": "Which **crossing** is the most famous?",
+    "answers": [
+     "Gate Seven",
+     "Checkpoint Charlie",
+     "Point Alpha",
+     "Bridge Zero"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🚧"
+   },
+   {
+    "q": "How many **years** did the Wall stand?",
+    "answers": [
+     "Eighteen",
+     "Thirty-eight",
+     "Forty-five",
+     "Twenty-eight"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "⏳"
+   },
+   {
+    "q": "What is its longest painted **section**?",
+    "answers": [
+     "Wall Park",
+     "Red Mile",
+     "East Side Gallery",
+     "Mural Road"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🎨"
+   },
+   {
+    "q": "When did Germany **reunify**?",
+    "answers": [
+     "October 1990",
+     "November 1989",
+     "January 1991",
+     "June 1990"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "📅"
+   }
+  ]
+ }
+}

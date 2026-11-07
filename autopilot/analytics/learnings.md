@@ -424,3 +424,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - 6-Q: Geography 969 n. 1,9 T, aber Vocabulary (E5) nur 115 n. ~20 h → Thema entscheidet; Wortschatz vorläufig Flop (Verdict 08.11.).
 - Gunpowder-4-Trap: public, 0 Views n. ~15,7 h → Verdacht Themenfilter (Sprengstoff/💥); keine Sprengstoff-/Waffen-Themen mehr in Shorts.
 - Longs final: Geography-50 3 Views (≥3 T), Emoji-50 1 View n. 1 T. E8 #3 Flag Quiz 09.11. (Konkurrenz "Only 5% can name these flags" 189k bei 1,5k Abos). GTA VI laut Take-Two weiter 19.11.2026.
+
+## 2026-11-07 (Produktions-Agent, Queue 09.11.)
+- Technik: Alle Läufe 06.11. grün (10/10), Soll 06.11. erfüllt (history-quiz-50-1 geplant 19:00 [E7], six-q-quick-science, vs-taller-4; Kommentare 16:06/21:04 mit Long-Link). 07.11. + 08.11. lagen vollständig in der Queue → nur 09.11. angelegt, keine auto-*-Fallbacks in queue/. Kein Code-Fix nötig.
+- Shorts (report.json weiter Stand 06.11. 11:47, 14 Abos): VS "More People" 1.102 (Leader), 6-Q Geo 969 n. 1,9 T, Vocabulary 115 n. ~20 h, Gunpowder 0 n. ~15,7 h (Status public, keine Sperre-Felder gesetzt → Ausspielung, nicht Ablehnung).
+- Longs: Geography-50 final 3, Well-Educated 1, Emoji-50 1 → Ausspielung weiter tot; E8 #3 Flag Quiz 30 Q mit 8 lizenzierten Flaggenfotos als "Which country's flag is this?" (echtes Genre-Format "guess the flag"), 22 Text-Hinweisfragen, Fangfragen Australien/NZ, Türkei/Tunesien, Tschad/Rumänien (Finale).
+- Thumbnails: Flag-Long A "FLAG QUIZ" + Kanada-Flagge (kommt im Quiz nicht als Frage vor) vs. B "25/30" vs. C "LEGEND LEVEL"; CTR weiter nicht messbar (HttpError 400).
+- Duplikate vermieden: Ahornblatt-Frage (Geo-50), Nepal-Flagge (Quick-Geo), US-Sterne/Streifen, "1961 geteilte Stadt" (Sixties-50) → Berlin-Wall-Q1 = Jahr des Mauerfalls statt Stadt. VS-Gewicht ohne Wiederholung (Grizzly nur aus "Faster"-VS, dort Tempo).
