@@ -2,7 +2,7 @@
 für die Karte oben (q["video"]). Ohne LTX_API_KEY oder bei Fehlern bleibt die Frage bei Emoji/Foto.
 
 Kosten (Stand 11/2026, ltx-2-3-fast, 1280x720): 0,03 $ pro Sekunde → 6-s-Clip = 0,18 $.
-Budget pro Video: LTX_MAX_CLIPS (Standard 6). Bereits erzeugte Clips werden über den Prompt-Hash wiederverwendet.
+Shorts nutzen LTX NUR mit LTX_FOR_SHORTS=1 (Standard: aus, kostenlos). Budget pro Video: LTX_MAX_CLIPS (Standard 6). Bereits erzeugte Clips werden über den Prompt-Hash wiederverwendet.
 
 Prompt-Quelle je Frage (darf die Antwort NIE verraten):
   q["ltx"]   – eigener Szenen-Prompt (bevorzugt), z. B. "a ladybug walking on a leaf"
@@ -56,6 +56,10 @@ def _generate(key, prompt, out, model, duration, resolution):
 def fetch_ltx(story, root: Path):
     """Setzt q["video"] = "ltx/<hash>.mp4" für Fragen mit Prompt. Gibt Anzahl neuer Clips zurück."""
     if story.get('layout') != 'stick':
+        return 0
+    # Shorts bleiben kostenlos (Emoji-Karten), außer LTX_FOR_SHORTS=1 ist gesetzt
+    if story.get('format', 'short') != 'long' and os.environ.get('LTX_FOR_SHORTS') != '1':
+        _log('Short → kostenlos ohne LTX (Emoji-Karten)')
         return 0
     key = os.environ.get('LTX_API_KEY')
     if not key:
