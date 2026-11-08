@@ -286,7 +286,8 @@ const phaseAt = (story: QuizStory, t: number): Phase => {
       ? {pose: 'nervous', start: nervousFrom, bubble: {kind: 'count', text: String(left)}}
       : {pose: 'think', start: q.countdownStart, bubble: {kind: 'count', text: String(left)}};
   }
-  const it = `IT'S ${LETTERS[q.correct]}!`;
+  const ca = q.answers[q.correct] ?? '';
+  const it = q.values && q.answers.length === 2 ? (ca.length <= 9 ? `${ca.toUpperCase()}!` : q.correct === 0 ? 'LEFT ONE!' : 'RIGHT ONE!') : `IT'S ${LETTERS[q.correct]}!`;
   if (t < q.reveal + 1.3) return {pose: 'cheer', start: q.reveal, bubble: {kind: 'text', text: it}};
   return {pose: 'pointDown', start: q.reveal + 1.3, bubble: {kind: 'text', text: it}};
 };
@@ -329,6 +330,119 @@ export const StickHostOverlay: React.FC<{story: QuizStory; x: number; y: number;
         </div>
       ) : null}
     </>
+  );
+};
+
+// ------------------------------------------------------------ VS-Vergleich (2 Antworten + values) im Strichmännchen-Look
+const V = {COL_W: 440, L_X: 60, R_X: 580, PIC_Y: 410, PIC_H: 370, LBL_Y: 806, LBL_H: 112, BASE: 1290, BAR_MAX: 280};
+const fmtNum = (v: number) => (Math.abs(v) >= 100 ? Math.round(v).toLocaleString('en-US') : (Math.round(v * 10) / 10).toString());
+
+export const StickCompareScene: React.FC<{q: QuizQuestion; index: number; total: number; story: QuizStory}> = ({q, index, total, story}) => {
+  const frame = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  const t = q.start + frame / fps;
+  const revealed = t >= q.reveal;
+  const since = frame - Math.round((q.reveal - q.start) * fps);
+  const vals = q.values ?? [1, 1];
+  const max = Math.max(...vals, 1e-9);
+  const grow = revealed ? spring({frame: since, fps, config: {damping: 16, mass: 0.9}, durationInFrames: Math.round(fps * 1.1)}) : 0;
+  const enter = index === 0 ? 1 : spring({frame, fps, config: {damping: 14, stiffness: 180}});
+  const kb = interpolate(frame, [0, fps * 10], [1.0, 1.15], {extrapolateRight: 'clamp'});
+  const plain = q.q.replace(/\*\*/g, '');
+  const n = story.questions.length;
+  const boil = Math.floor(frame / 3) % 4;
+  return (
+    <AbsoluteFill>
+      <Paper />
+      <div style={{position: 'absolute', left: X, top: 120, width: W, display: 'flex', alignItems: 'center', gap: 18}}>
+        <div style={{fontFamily: MARK, fontSize: 40, color: K.ink, transform: 'rotate(-2deg)'}}>{story.header}</div>
+        <div style={{flex: 1}} />
+        <div style={{display: 'flex', gap: 10}}>
+          {Array.from({length: total}, (_, i) => (
+            <div key={i} style={{width: 26, height: 26, borderRadius: 13, border: `4px solid ${K.ink}`, background: i < index ? K.ink : i === index ? K.hi : 'transparent'}} />
+          ))}
+        </div>
+      </div>
+      <div style={{position: 'absolute', inset: 0, opacity: enter, transform: `translateX(${(1 - enter) * 140}px)`}}>
+        <div style={{position: 'absolute', left: X + 10, top: 200, width: W - 20, height: 190, display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center'}}>
+          <div style={{fontFamily: HAND, fontWeight: 700, fontSize: Math.min(84, qSize(plain) + 8), lineHeight: 1.1, color: K.ink}}>
+            <Marked text={q.q} at={q.keywordAt != null ? q.keywordAt - q.start : undefined} />
+          </div>
+        </div>
+        {q.answers.slice(0, 2).map((a, i) => {
+          const x = i === 0 ? V.L_X : V.R_X;
+          const ok = i === q.correct;
+          const img = q.images?.[i];
+          const icon = q.icons?.[i];
+          const dim = revealed && !ok && since > 8;
+          const h = Math.max(0.06, vals[i] / max) * V.BAR_MAX * grow;
+          const label = q.valueLabels?.[i] ?? fmtNum(vals[i] * grow);
+          const strikeK = revealed && !ok ? interpolate(since, [6, 14], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 0;
+          const fillK = revealed && ok ? interpolate(since, [0, 8], [0, 1], {extrapolateRight: 'clamp'}) : 0;
+          return (
+            <React.Fragment key={i}>
+              <SketchBox x={x} y={V.PIC_Y} w={V.COL_W} h={V.PIC_H} seed={`vp${index}-${i}`} rotate={i === 0 ? -1.2 : 1.2} style={{opacity: dim ? 0.5 : 1}} sw={7}>
+                <div style={{position: 'absolute', left: 16, top: 16, right: 16, bottom: 16, overflow: 'hidden', borderRadius: 6, background: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+                  {img ? (
+                    <Img src={staticFile(img)} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${kb})`}} />
+                  ) : (
+                    <div style={{fontSize: 190, lineHeight: 1, fontFamily: 'Noto Color Emoji, sans-serif', transform: `scale(${1 + 0.05 * Math.sin(frame / 7 + i * 1.6)}) rotate(${5 * Math.sin(frame / 11 + i)}deg)`}}>{icon ?? (i === 0 ? '🅰️' : '🅱️')}</div>
+                  )}
+                </div>
+              </SketchBox>
+              <SketchBox x={x} y={V.LBL_Y} w={V.COL_W} h={V.LBL_H} seed={`vl${index}-${i}`} fill={TILE[i]} style={{opacity: dim ? 0.55 : 1}}>
+                {fillK > 0 ? (
+                  <svg width={V.COL_W} height={V.LBL_H} style={{position: 'absolute', inset: 0}}>
+                    <rect x={10} y={10} width={(V.COL_W - 20) * fillK} height={V.LBL_H - 20} fill={K.green} rx={8} />
+                  </svg>
+                ) : null}
+                <div style={{position: 'relative', fontFamily: HAND, fontWeight: 700, fontSize: a.length > 16 ? 40 : 52, color: K.ink, textAlign: 'center', lineHeight: 1.05, padding: '0 16px'}}>{a}</div>
+                {strikeK > 0 ? (
+                  <svg width={V.COL_W} height={V.LBL_H} style={{position: 'absolute', inset: 0, overflow: 'visible'}}>
+                    <path d={`M24 ${V.LBL_H * 0.62} Q${V.COL_W / 2} ${V.LBL_H * 0.4} ${24 + (V.COL_W - 48) * strikeK} ${V.LBL_H * 0.48}`} stroke={K.red} strokeWidth={8} fill="none" strokeLinecap="round" />
+                  </svg>
+                ) : null}
+                {revealed && ok && since > 6 ? (
+                  <div style={{position: 'absolute', right: -10, top: -34, fontFamily: MARK, fontSize: 34, background: K.ink, color: '#fff', padding: '4px 14px', transform: `rotate(6deg) scale(${spring({frame: since - 6, fps, config: {damping: 9, stiffness: 240}})})`}}>
+                    {story.correctLabel ?? 'CORRECT!'}
+                  </div>
+                ) : null}
+              </SketchBox>
+              {/* Balken: vor der Auflösung gestrichelte "?"-Umrisse, danach wachsen sie auf die echten Werte */}
+              <svg width={V.COL_W} height={V.BAR_MAX + 120} style={{position: 'absolute', left: x, top: V.BASE - V.BAR_MAX - 120, overflow: 'visible'}}>
+                {revealed ? (
+                  <>
+                    <path d={sketchPath(V.COL_W - 180, Math.max(12, h), `bar${index}${i}${boil}`, 3)} transform={`translate(90 ${V.BAR_MAX + 120 - Math.max(12, h)})`} fill={ok ? K.green : '#D9D4C7'} stroke={K.ink} strokeWidth={6} strokeLinejoin="round" />
+                    {Array.from({length: Math.floor(h / 26)}, (_, k) => (
+                      <line key={k} x1={100} x2={V.COL_W - 100} y1={V.BAR_MAX + 120 - 14 - k * 26} y2={V.BAR_MAX + 120 - 34 - k * 26} stroke={K.ink} strokeWidth={2} opacity={0.25} />
+                    ))}
+                  </>
+                ) : (
+                  <path d={sketchPath(V.COL_W - 180, 140, `q${index}${i}${boil}`, 4)} transform={`translate(90 ${V.BAR_MAX - 20})`} fill="none" stroke={K.pencil} strokeWidth={5} strokeDasharray="14 12" />
+                )}
+              </svg>
+              <div style={{position: 'absolute', left: x, width: V.COL_W, top: revealed ? V.BASE - h - 66 : V.BASE - 120, textAlign: 'center', fontFamily: MARK, fontSize: revealed ? 52 : 70, color: revealed ? K.ink : K.pencil, opacity: revealed ? interpolate(since, [2, 8], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 1}}>
+                {revealed ? label : '?'}
+              </div>
+            </React.Fragment>
+          );
+        })}
+        <svg width={1080} height={20} style={{position: 'absolute', left: 0, top: V.BASE - 4}}>
+          <path d={`M${X} 8 Q540 ${4 + boil} ${X + W} 10`} stroke={K.ink} strokeWidth={6} fill="none" strokeLinecap="round" />
+        </svg>
+        <div style={{position: 'absolute', left: 540 - 66, top: V.PIC_Y + V.PIC_H / 2 - 66, width: 132, height: 132, display: 'flex', alignItems: 'center', justifyContent: 'center', transform: `rotate(${-8 + Math.sin(frame / 9) * 4}deg)`}}>
+          <svg width={132} height={132} style={{position: 'absolute', inset: 0}}>
+            <path d="M66 6 L80 44 L124 40 L92 70 L118 112 L72 94 L44 128 L42 86 L4 70 L42 48 Z" fill={K.hi} stroke={K.ink} strokeWidth={5} strokeLinejoin="round" />
+          </svg>
+          <div style={{position: 'relative', fontFamily: MARK, fontSize: 44, color: K.ink}}>VS</div>
+        </div>
+      </div>
+      {index === 0 && story.hook ? <Sticky text={story.hook} x={X + 20} y={V.PIC_Y - 30} until={2.8} /> : null}
+      {index === 0 && story.teaser ? <Sticky text={story.teaser} x={X + 20} y={V.PIC_Y - 30} from={story.hook ? 2.8 : 0} until={q.countdownStart - q.start + 0.01} color="#BDE3FF" rot={2} /> : null}
+      {index === n - 1 && index > 0 && story.finalLabel ? <Sticky text={story.finalLabel} x={X + 20} y={V.PIC_Y - 30} until={q.countdownStart - q.start} color="#FFB3C1" /> : null}
+      {story.midLabel && index === Math.floor(n / 2) && index !== n - 1 ? <Sticky text={story.midLabel} x={X + 20} y={V.PIC_Y - 30} from={0.6} until={q.countdownStart - q.start} color="#BDE3FF" rot={2} /> : null}
+      {index === n - 1 && story.ctaText && revealed ? <Sticky text={story.ctaText} x={X + 40} y={V.PIC_Y + V.PIC_H - 120} from={q.reveal - q.start + 0.6} size={42} rot={-2} /> : null}
+    </AbsoluteFill>
   );
 };
 

@@ -4,7 +4,7 @@ import {loadFont} from '@remotion/google-fonts/Montserrat';
 import {NeonScene} from './QuizNeon';
 import {TvScene, CompareScene} from './QuizTV';
 import {QuizMascot, type MascotSetting} from './components/Mascot';
-import {StickScene, StickHostOverlay, StickOutro, K as STICK} from './QuizStick';
+import {StickScene, StickCompareScene, StickHostOverlay, StickOutro, K as STICK} from './QuizStick';
 
 // Quiz-Short, Layout B "Knallig & Comic":
 //   gelber Hintergrund mit Punktraster, dicke schwarze Ränder, harte Schatten
@@ -704,7 +704,7 @@ export const Quiz: React.FC<QuizStory> = (story) => {
     <AbsoluteFill style={{backgroundColor: story.layout === 'stick' ? STICK.paper : story.layout === 'tvshow' ? '#14213D' : story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
       {story.questions.map((q, i) => (
         <Sequence key={i} from={f(q.start)} durationInFrames={Math.max(1, f(q.end) - f(q.start))} name={`Frage ${i + 1}`}>
-          {q.values && q.answers.length === 2 ? <CompareScene q={q} index={i} total={total} story={story} /> : story.layout === 'stick' ? <StickScene q={q} index={i} total={total} story={story} /> : story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
+          {q.values && q.answers.length === 2 && story.layout === 'stick' ? <StickCompareScene q={q} index={i} total={total} story={story} /> : q.values && q.answers.length === 2 ? <CompareScene q={q} index={i} total={total} story={story} /> : story.layout === 'stick' ? <StickScene q={q} index={i} total={total} story={story} /> : story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
         </Sequence>
       ))}
       {hasOutro ? (

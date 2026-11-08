@@ -41,7 +41,7 @@
  },
  "story": {
   "type": "quiz",
-  "layout": "tvshow",
+  "layout": "stick",
   "title": "Heavier?",
   "header": "WHICH IS HEAVIER?",
   "hook": "90% GET #2 WRONG 😏",
