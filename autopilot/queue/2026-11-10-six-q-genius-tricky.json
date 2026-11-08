@@ -1,0 +1,140 @@
+{
+ "id": "six-q-genius-tricky",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz #shorts",
+  "description": "6 tricky trivia questions, easy to hard 🧠 Did #6 get you? 🍕\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trivia #quiz #generalknowledge #brainteaser #onlygeniuses #shorts\n\nMusic: original.",
+  "tags": [
+   "tricky trivia",
+   "trivia quiz",
+   "general knowledge quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "brain teaser",
+   "shorts"
+  ],
+  "comment": "Did the Hawaiian pizza get you? 🍕 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Tricky Trivia",
+  "header": "TRICKY TRIVIA",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which animal is called man's **best friend**?",
+    "answers": [
+     "Cat",
+     "Horse",
+     "Dog",
+     "Parrot"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🦴"
+   },
+   {
+    "q": "What is a baby **frog** called?",
+    "answers": [
+     "Tadpole",
+     "Cub",
+     "Froglet",
+     "Pup"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🐸"
+   },
+   {
+    "q": "How many **sides** does a stop sign have?",
+    "answers": [
+     "Six",
+     "Eight",
+     "Seven",
+     "Ten"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🛑"
+   },
+   {
+    "q": "Which fruit wears its **seeds** on the outside?",
+    "answers": [
+     "Kiwi",
+     "Raspberry",
+     "Fig",
+     "Strawberry"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🌱"
+   },
+   {
+    "q": "How many **hours** are in two days?",
+    "answers": [
+     "48",
+     "36",
+     "72",
+     "24"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "⏰"
+   },
+   {
+    "q": "Where was **Hawaiian** pizza invented?",
+    "answers": [
+     "Hawaii",
+     "Italy",
+     "Canada",
+     "USA"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🍕"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which animal is called man's best friend?",
+   "a": "The dog! Loyal for over fifteen thousand years."
+  },
+  {
+   "q": "What is a baby frog called?",
+   "a": "A tadpole! Tail first, legs later."
+  },
+  {
+   "q": "How many sides does a stop sign have?",
+   "a": "Eight! It's an octagon."
+  },
+  {
+   "q": "Which fruit wears its seeds on the outside?",
+   "a": "The strawberry! Around two hundred tiny seeds."
+  },
+  {
+   "q": "How many hours are in two days?",
+   "a": "Forty eight! Easy maths, if you didn't panic."
+  },
+  {
+   "q": "Last one. Where was Hawaiian pizza invented?",
+   "a": "Canada! In Ontario, back in nineteen sixty two. Got all six? Go again!"
+  }
+ ]
+}

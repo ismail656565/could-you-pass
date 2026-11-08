@@ -598,6 +598,8 @@ export const CompareScene: React.FC<{q: QuizQuestion; index: number; total: numb
   const max = Math.max(...vals, 1e-9);
   const grow = revealed ? spring({frame: since, fps, config: {damping: 18, mass: 0.9}, durationInFrames: Math.round(fps * 1.1)}) : 0;
   const enter = index === 0 ? 1 : interpolate(frame, [0, 8], [0, 1], {extrapolateRight: 'clamp'});
+  // langsamer Ken-Burns-Zoom gegen Standbild (QA-Warnung VS Taller 6,8 s)
+  const kb = interpolate(frame, [0, fps * 10], [1.0, 1.18], {extrapolateRight: 'clamp'});
   const plain = q.q.replace(/\*\*/g, '');
   return (
     <AbsoluteFill>
@@ -620,7 +622,7 @@ export const CompareScene: React.FC<{q: QuizQuestion; index: number; total: numb
           return (
             <React.Fragment key={i}>
               <div style={{position: 'absolute', left: x, top: C2.PIC_Y, width: C2.COL_W, height: C2.PIC_H, borderRadius: 14, overflow: 'hidden', border: `12px solid ${st === 'right' || st === 'lock' ? T.gold : T.paper}`, boxSizing: 'border-box', background: T.paper, opacity: st === 'dim' ? 0.5 : 1, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-                {img ? <Img src={staticFile(img)} style={{width: '100%', height: '100%', objectFit: 'cover'}} /> : <div style={{fontSize: 170, lineHeight: 1}}>{icon ?? (i === 0 ? '🅰️' : '🅱️')}</div>}
+                {img ? <Img src={staticFile(img)} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${kb}) translateX(${(i === 0 ? 1 : -1) * (kb - 1) * 60}px)`}} /> : <div style={{fontSize: 170, lineHeight: 1, transform: `scale(${1 + 0.05 * Math.sin(frame / 7 + i * 1.6)}) rotate(${4 * Math.sin(frame / 11 + i)}deg)`}}>{icon ?? (i === 0 ? '🅰️' : '🅱️')}</div>}
               </div>
               <Lozenge x={x - 10} y={C2.LBL_Y} w={C2.COL_W + 20} h={C2.LBL_H} state={st} style={{opacity: st === 'dim' ? 0.55 : 1}}>
                 <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: a.length > 14 ? 38 : 48, color: st === 'lock' ? T.ink : T.white}}>{a}</div>

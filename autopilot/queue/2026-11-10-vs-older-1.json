@@ -1,0 +1,150 @@
+{
+ "id": "vs-older-1",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "youtube": {
+  "title": "Which Is Older? 4 Rounds 90% Get #2 Wrong 🏛️ #shorts",
+  "description": "Guess which is older – the bars reveal the real age 🏛️ Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#whichisolder #history #comparison #quiz #trivia #shorts\n\nData (ages in 2026): UK Parliament (Elizabeth Tower, 1859), Eiffel Tower official site (1889), Nintendo (founded 1889), Ford Motor Company (1903), Harvard University (1636), US Forest Service (Methuselah bristlecone pine, ~4,850 years), Britannica (Great Pyramid, c. 2560 BC).\nPhotos via Wikimedia Commons: Great Pyramid – kallerna (CC BY-SA 3.0)\nMusic: original.",
+  "tags": [
+   "which is older",
+   "age comparison",
+   "comparison quiz",
+   "history quiz",
+   "nintendo",
+   "harvard",
+   "oldest tree",
+   "great pyramid",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did the tree get you? 🌲 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Older?",
+  "header": "WHICH IS OLDER?",
+  "hook": "90% GET #2 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "OLDER!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which is **older**?",
+    "answers": [
+     "Big Ben's tower",
+     "Eiffel Tower"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "values": [
+     167,
+     137
+    ],
+    "valueLabels": [
+     "167 years",
+     "137 years"
+    ],
+    "icons": [
+     "🕰️",
+     "🗼"
+    ]
+   },
+   {
+    "q": "Which is **older**?",
+    "answers": [
+     "Ford",
+     "Nintendo"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "values": [
+     123,
+     137
+    ],
+    "valueLabels": [
+     "123 years",
+     "137 years"
+    ],
+    "icons": [
+     "🚗",
+     "🎮"
+    ]
+   },
+   {
+    "q": "Which is **older**?",
+    "answers": [
+     "Harvard",
+     "The USA"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "values": [
+     390,
+     250
+    ],
+    "valueLabels": [
+     "390 years",
+     "250 years"
+    ],
+    "icons": [
+     "🎓",
+     "🦅"
+    ]
+   },
+   {
+    "q": "Which is **older**?",
+    "answers": [
+     "Great Pyramid",
+     "A living tree"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "values": [
+     4580,
+     4850
+    ],
+    "valueLabels": [
+     "≈ 4,580 years",
+     "≈ 4,850 years"
+    ],
+    "images": [
+     "bilder/q2-pyramid.jpg",
+     null
+    ],
+    "icons": [
+     null,
+     "🌲"
+    ]
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which is older, Big Ben's tower or the Eiffel Tower?",
+   "a": "Big Ben's tower! Finished thirty years before Eiffel's."
+  },
+  {
+   "q": "Ford, or Nintendo?",
+   "a": "Nintendo! It started out selling playing cards in eighteen eighty nine."
+  },
+  {
+   "q": "Harvard, or the United States itself?",
+   "a": "Harvard! A hundred and forty years older than the country."
+  },
+  {
+   "q": "Last one. The Great Pyramid, or a tree that's still alive today?",
+   "a": "The tree! A bristlecone pine in California sprouted before the pyramid. Think you can get all four? Go again!"
+  }
+ ]
+}

@@ -1,0 +1,575 @@
+{
+ "id": "movie-emoji-30-1",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 6.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Guess the Movie by Emoji: 30 Rounds From Easy to Legend 🎬",
+  "description": "Guess the movie from just the emojis – 30 rounds from easy to legend 🎬🍿 Can you get 25/30?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GuessTheMovie #EmojiQuiz #MovieQuiz #FilmQuiz #Quiz #Trivia\n\nAll emoji puzzles are original.\nPhotos via Wikimedia Commons: DeLorean DMC-12 – Berthold Werner (CC BY-SA 4.0)\nMusic: original.",
+  "tags": [
+   "guess the movie by emoji",
+   "guess the movie",
+   "emoji quiz",
+   "movie quiz",
+   "emoji movie quiz",
+   "film trivia",
+   "movie trivia",
+   "disney quiz",
+   "quiz for adults"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 30? 🎬 Which one fooled you – the spiral or the rock hammer? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Movie Emoji Quiz",
+  "header": "GUESS THE MOVIE",
+  "hook": "CAN YOU GET 25/30? 🎬",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 14,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "GUESS THE **MOVIE**",
+   "CAN YOU GET **25/30**?",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🎬",
+  "thumbBadge": "30 ROUNDS · EASY → LEGEND",
+  "cardColors": [
+   "#5B21B6",
+   "#1E0B3B"
+  ],
+  "thumbImage": "bilder/mv-delorean.jpg",
+  "thumbPuzzle": [
+   "🍿",
+   "🎬"
+  ],
+  "questions": [
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Madagascar",
+     "The Lion King",
+     "The Jungle Book",
+     "Tarzan"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🦁 + 👑",
+    "fact": "Released in 1994 – Elton John co-wrote the songs."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Tangled",
+     "Brave",
+     "Frozen",
+     "Moana"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "❄️ + 👸",
+    "fact": "\"Let It Go\" won the Oscar for Best Original Song."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Shark Tale",
+     "Finding Nemo",
+     "The Little Mermaid",
+     "Luca"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🐠 + 🔍",
+    "fact": "Finding Nemo won the Oscar for Best Animated Feature."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Toy Story",
+     "Cars",
+     "Monsters, Inc.",
+     "The Incredibles"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🤠 + 🚀 + 🧸",
+    "fact": "Toy Story (1995) was the first fully computer-animated film."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Kung Fu Panda",
+     "Mulan",
+     "Big Hero 6",
+     "Turning Red"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🐼 + 🥋",
+    "fact": "Jack Black voices Po the panda."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Ant-Man",
+     "Batman",
+     "Spider-Man",
+     "Iron Man"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🕷️ + 🧑 + 🏙️",
+    "fact": "Spider-Man (2002) starred Tobey Maguire as Peter Parker."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "The Hobbit",
+     "Harry Potter",
+     "Percy Jackson",
+     "Merlin"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🧙‍♂️ + ⚡ + 👓",
+    "fact": "In the US, book 1 is called \"the Sorcerer's Stone\"."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Elf",
+     "The Grinch",
+     "Home Alone",
+     "Jingle All the Way"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🏠 + 👦 + 🎄",
+    "fact": "Kevin's family flies to Paris without him."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Treasure Island",
+     "Pirates of the Caribbean",
+     "Hook",
+     "Moana"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏴‍☠️ + 🌊 + ⚓",
+    "fact": "The film series is based on a Disney theme park ride."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "E.T.",
+     "Close Encounters",
+     "Men in Black",
+     "Lilo & Stitch"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "👽 + 🚲 + 🌕",
+    "fact": "E.T. is lured out of hiding with Reese's Pieces."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Sinbad",
+     "Aladdin",
+     "The Jungle Book",
+     "Prince of Persia"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🧞 + 🪔 + 🐒",
+    "fact": "Robin Williams voiced the Genie in 1992."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Ice Age",
+     "Frozen",
+     "Happy Feet",
+     "Over the Hedge"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🧊 + 🦣 + 🐿️",
+    "fact": "Scrat the squirrel spends the whole film chasing an acorn."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Star Trek",
+     "Guardians of the Galaxy",
+     "Star Wars",
+     "Dune"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🚀 + ⭐ + ⚔️",
+    "fact": "The 1977 film was later renamed \"A New Hope\"."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Beauty and the Beast",
+     "Sleeping Beauty",
+     "Shrek",
+     "Cinderella"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🌹 + 👸 + 🐃",
+    "fact": "First animated film nominated for Best Picture."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Matilda",
+     "Chocolat",
+     "Charlie and the Chocolate Factory",
+     "Wonka's Dream"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🍫 + 🏭 + 🎫",
+    "fact": "Johnny Depp played Willy Wonka in 2005."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Planet of the Apes",
+     "King Kong",
+     "Godzilla",
+     "Rampage"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🦍 + 🏙️ + ✈️",
+    "fact": "Kong climbs the Empire State Building."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Dumbo",
+     "Babar",
+     "Horton Hears a Who!",
+     "The Greatest Showman"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🐘 + 👂 + 🎪",
+    "fact": "Dumbo never speaks a single word in the film."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "The Wild",
+     "Zootopia",
+     "Madagascar",
+     "Jumanji"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🦁 + 🦓 + 🗽",
+    "fact": "The animals escape from New York's Central Park Zoo."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "The Matrix",
+     "Alice in Wonderland",
+     "Limitless",
+     "Total Recall"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🕶️ + 💊 + 🐇",
+    "fact": "Neo takes the red pill in The Matrix (1999)."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Big",
+     "Forrest Gump",
+     "Cast Away",
+     "Rain Man"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🏃‍♂️ + 🍫 + 🦐",
+    "fact": "Forrest Gump won 6 Oscars, including Best Picture."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Ted",
+     "Winnie the Pooh",
+     "Paddington",
+     "The Jungle Book"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🐻 + 🧥 + 🍊",
+    "fact": "Paddington comes from \"darkest Peru\"."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Twister",
+     "The Wizard of Oz",
+     "Into the Storm",
+     "Cars"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🌪️ + 🐄 + 🚗",
+    "fact": "Twister (1996) follows storm chasers in Oklahoma."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Corpse Bride",
+     "The Nightmare Before Christmas",
+     "Coco",
+     "Hotel Transylvania"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🎃 + 💀 + 🎄",
+    "fact": "Made with stop-motion animation – frame by frame."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Inside Out",
+     "Soul",
+     "Emoji Movie",
+     "Brainstorm"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🧠 + 😃 + 😢",
+    "fact": "The emotions live inside a girl named Riley's head."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Lost",
+     "Cast Away",
+     "Life of Pi",
+     "The Beach"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🏝️ + 🏐 + ✈️",
+    "fact": "Tom Hanks's volleyball friend is called Wilson."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Interstellar",
+     "Tenet",
+     "Doctor Strange",
+     "Inception"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🌀 + 💤 + 🏙️",
+    "fact": "Directed by Christopher Nolan in 2010."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Escape from Alcatraz",
+     "The Green Mile",
+     "The Shawshank Redemption",
+     "Prison Break"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🔨 + 🧱 + 🌧️",
+    "fact": "Based on a Stephen King novella."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Babe",
+     "Charlotte's Web",
+     "Peppa Pig",
+     "Arachnophobia"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🐷 + 🕸️ + 🕷️",
+    "fact": "Based on E. B. White's 1952 children's book."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Swan Lake",
+     "Black Swan",
+     "Ugly Duckling",
+     "Center Stage"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🦢 + ⚫ + 🩰",
+    "fact": "Natalie Portman won Best Actress for Black Swan."
+   },
+   {
+    "q": "Which **movie** is this?",
+    "answers": [
+     "Mean Girls",
+     "Pretty Woman",
+     "The Devil Wears Prada",
+     "Legally Blonde"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "👠 + 😈 + 📰",
+    "fact": "Meryl Streep plays editor Miranda Priestly."
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Thirty movies in emojis, from easy to legend, and they get harder every round. Keep score! First one: a lion, plus a crown. Which movie is it?",
+   "a": "The Lion King! Nineteen ninety four, with songs by Elton John."
+  },
+  {
+   "q": "Snow, plus a princess.",
+   "a": "Frozen! And yes, now you're singing Let It Go."
+  },
+  {
+   "q": "A little orange fish, plus a magnifying glass.",
+   "a": "Finding Nemo! A clownfish dad crossing the whole ocean."
+  },
+  {
+   "q": "A cowboy, a rocket, and a teddy.",
+   "a": "Toy Story! Woody and Buzz, to infinity and beyond."
+  },
+  {
+   "q": "A panda, plus a martial arts belt.",
+   "a": "Kung Fu Panda! Jack Black is the voice of Po."
+  },
+  {
+   "q": "A spider, a guy, and a big city.",
+   "a": "Spider-Man! Tobey Maguire, two thousand two. Six for six so far? Nice."
+  },
+  {
+   "q": "Round two, medium. A wizard, a lightning bolt, and glasses.",
+   "a": "Harry Potter! In America the first one is the Sorcerer's Stone."
+  },
+  {
+   "q": "A house, a boy, and a Christmas tree.",
+   "a": "Home Alone! His family flew to Paris without him."
+  },
+  {
+   "q": "A pirate flag, waves, and an anchor.",
+   "a": "Pirates of the Caribbean! It started as a theme park ride."
+  },
+  {
+   "q": "An alien, a bike, and the moon.",
+   "a": "E.T.! That bike in front of the moon is movie history."
+  },
+  {
+   "q": "A genie, a lamp, and a monkey.",
+   "a": "Aladdin! Robin Williams was the Genie."
+  },
+  {
+   "q": "Ice, a mammoth, and a squirrel.",
+   "a": "Ice Age! Scrat just wants his acorn. Okay, it gets tougher now."
+  },
+  {
+   "q": "Round three, hard. A rocket, a star, and swords.",
+   "a": "Star Wars! A long time ago, in a galaxy far, far away."
+  },
+  {
+   "q": "A rose, a princess, and a beast.",
+   "a": "Beauty and the Beast! The first cartoon ever nominated for Best Picture."
+  },
+  {
+   "q": "Chocolate, a factory, and a golden ticket.",
+   "a": "Charlie and the Chocolate Factory! Johnny Depp played Wonka. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "A giant ape, a city, and planes.",
+   "a": "King Kong! Up the Empire State Building."
+  },
+  {
+   "q": "An elephant, a big ear, and a circus tent.",
+   "a": "Dumbo! And fun fact, Dumbo never says a single word."
+  },
+  {
+   "q": "A lion, a zebra, and the Statue of Liberty.",
+   "a": "Madagascar! They break out of the Central Park Zoo. Still with me?"
+  },
+  {
+   "q": "Round four, very hard! Sunglasses, a pill, and a rabbit.",
+   "a": "The Matrix! Follow the white rabbit, take the red pill."
+  },
+  {
+   "q": "A runner, chocolate, and a shrimp.",
+   "a": "Forrest Gump! Life is like a box of chocolates."
+  },
+  {
+   "q": "A bear, a coat, and an orange.",
+   "a": "Paddington! That orange is his marmalade."
+  },
+  {
+   "q": "A tornado, a cow, and a car.",
+   "a": "Twister! Yes, the flying cow. Love that scene."
+  },
+  {
+   "q": "A pumpkin, a skull, and a Christmas tree.",
+   "a": "The Nightmare Before Christmas! Jack, the Pumpkin King."
+  },
+  {
+   "q": "A brain, a happy face, and a sad face.",
+   "a": "Inside Out! Joy and Sadness, living in Riley's head. Last round, here we go."
+  },
+  {
+   "q": "Final round, legend! An island, a volleyball, and a plane.",
+   "a": "Cast Away! Nobody forgets Wilson."
+  },
+  {
+   "q": "A spiral, sleep, and a city.",
+   "a": "Inception! Dreams inside dreams inside dreams."
+  },
+  {
+   "q": "A little hammer, a wall, and rain.",
+   "a": "The Shawshank Redemption! That tiny rock hammer did it all."
+  },
+  {
+   "q": "A pig, a web, and a spider.",
+   "a": "Charlotte's Web! The spider writes words to save the pig."
+  },
+  {
+   "q": "Three left, stay with me! A swan, a black dot, and ballet shoes.",
+   "a": "Black Swan! Natalie Portman won the Oscar for it."
+  },
+  {
+   "q": "Final question. A high heel, a devil, and a magazine.",
+   "a": "The Devil Wears Prada! Meryl Streep as the boss from hell."
+  }
+ ]
+}
