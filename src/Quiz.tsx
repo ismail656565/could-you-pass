@@ -4,6 +4,7 @@ import {loadFont} from '@remotion/google-fonts/Montserrat';
 import {NeonScene} from './QuizNeon';
 import {TvScene, CompareScene} from './QuizTV';
 import {QuizMascot, type MascotSetting} from './components/Mascot';
+import {StickScene, StickHostOverlay, StickOutro, K as STICK} from './QuizStick';
 
 // Quiz-Short, Layout B "Knallig & Comic":
 //   gelber Hintergrund mit Punktraster, dicke schwarze Ränder, harte Schatten
@@ -94,7 +95,7 @@ export type QuizStory = {
   /** Gesamtlänge; ist sie gleich outroStart, gibt es keinen Abspann (Video loopt direkt) */
   durationInSeconds?: number;
   /** Layout: "comic" (Standard, gelb), "neon" (dunkel, leuchtend) oder "tvshow" (klassische TV-Quizshow) */
-  layout?: 'comic' | 'neon' | 'tvshow';
+  layout?: 'comic' | 'neon' | 'tvshow' | 'stick';
   /** Foto (public/) für Vorschaubild A im tvshow-Look */
   thumbImage?: string;
   /** "long" = normales Video im Querformat (Komposition QuizLong) */
@@ -700,17 +701,18 @@ export const Quiz: React.FC<QuizStory> = (story) => {
   const total = story.questions.length;
   const hasOutro = (story.durationInSeconds ?? Infinity) - story.outroStart > 0.3;
   return (
-    <AbsoluteFill style={{backgroundColor: story.layout === 'tvshow' ? '#14213D' : story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
+    <AbsoluteFill style={{backgroundColor: story.layout === 'stick' ? STICK.paper : story.layout === 'tvshow' ? '#14213D' : story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
       {story.questions.map((q, i) => (
         <Sequence key={i} from={f(q.start)} durationInFrames={Math.max(1, f(q.end) - f(q.start))} name={`Frage ${i + 1}`}>
-          {q.values && q.answers.length === 2 ? <CompareScene q={q} index={i} total={total} story={story} /> : story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
+          {q.values && q.answers.length === 2 ? <CompareScene q={q} index={i} total={total} story={story} /> : story.layout === 'stick' ? <StickScene q={q} index={i} total={total} story={story} /> : story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
         </Sequence>
       ))}
       {hasOutro ? (
         <Sequence from={f(story.outroStart)} name="Outro">
-          <Outro story={story} />
+          {story.layout === 'stick' ? <StickOutro story={story} /> : <Outro story={story} />}
         </Sequence>
       ) : null}
+      {story.layout === 'stick' ? <StickHostOverlay story={story} x={30} y={1318} width={400} /> : null}
       {story.layout === 'neon' ? <QuizMascot story={story} x={44} y={748} width={228} look={1} /> : null}
       {story.audio ? <Audio src={staticFile(story.audio)} /> : null}
       {story.music ? <Audio src={staticFile(story.music)} volume={story.musicVolume ?? 0.1} loop /> : null}

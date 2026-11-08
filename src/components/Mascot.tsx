@@ -215,7 +215,7 @@ export const QBit: React.FC<{
 };
 
 /** Lautstärke des Voiceovers im aktuellen Frame (0..1). Ohne Audio: 0. */
-const useTalk = (audio: string | undefined, frame: number, fps: number) => {
+export const useTalk = (audio: string | undefined, frame: number, fps: number) => {
   const data = useAudioData(audio ? staticFile(audio) : staticFile('sfx/tick.wav'));
   if (!audio || !data) return 0;
   const bins = visualizeAudio({fps, frame, audioData: data, numberOfSamples: 32});

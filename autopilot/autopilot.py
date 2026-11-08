@@ -868,10 +868,19 @@ def produce_one(p):
         story = item['story']
         story['audio'] = f'audio/{name}.mp3'
         build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
-        try:
-            add_broll_credits(item, fetch_broll(story, name))
-        except Exception as ex:
-            log('B-Roll übersprungen:', str(ex)[:200])
+        if story.get('layout') == 'stick':
+            # 2D-Strichmännchen-Look: KI-Doodle-Clips von LTX statt echter B-Roll-Fotos
+            try:
+                from ltx import fetch_ltx
+                n = fetch_ltx(story, ROOT)
+                log(f'LTX: {n} neue Clip(s)')
+            except Exception as ex:
+                log('LTX übersprungen:', str(ex)[:200])
+        else:
+            try:
+                add_broll_credits(item, fetch_broll(story, name))
+            except Exception as ex:
+                log('B-Roll übersprungen:', str(ex)[:200])
         (ROOT / 'stories' / f'{name}.json').write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf-8')
         r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=ROOT, shell=(os.name == 'nt'), capture_output=True, text=True)
         mp4 = ROOT / 'out' / f'{name}.mp4'

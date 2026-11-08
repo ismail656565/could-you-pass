@@ -50,7 +50,7 @@
  },
  "story": {
   "type": "quiz",
-  "layout": "tvshow",
+  "layout": "stick",
   "title": "Berlin Wall",
   "header": "BERLIN WALL QUIZ",
   "hook": "ONLY GENIUSES GET 6/6 🧠",
@@ -75,7 +75,8 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🧱"
+    "cardText": "🧱",
+    "ltx": "a long grey concrete wall dividing a city, people with hammers cheering on top of it at night, fireworks"
    },
    {
     "q": "Which famous **gate** stood by the Wall?",
@@ -87,7 +88,8 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🏛️"
+    "cardText": "🏛️",
+    "ltx": "a cartoon map of a divided city with a long wall drawn across it, a tiny guard tower"
    },
    {
     "q": "Which **crossing** is the most famous?",
@@ -99,7 +101,8 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🚧"
+    "cardText": "🚧",
+    "ltx": "a striped border barrier pole slowly lifting, a small guard booth beside it"
    },
    {
     "q": "How many **years** did the Wall stand?",
@@ -111,7 +114,8 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "⏳"
+    "cardText": "⏳",
+    "ltx": "pages of a wall calendar flipping quickly in the wind"
    },
    {
     "q": "What is its longest painted **section**?",
@@ -123,7 +127,8 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🎨"
+    "cardText": "🎨",
+    "ltx": "a long concrete wall being painted with colorful murals by an artist with a brush"
    },
    {
     "q": "When did Germany **reunify**?",
@@ -135,7 +140,8 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "📅"
+    "cardText": "📅",
+    "ltx": "two halves of a puzzle shaped like a country sliding together and clicking into place, confetti"
    }
   ]
  }

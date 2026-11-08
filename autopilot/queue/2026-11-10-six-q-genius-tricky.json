@@ -22,7 +22,7 @@
  },
  "story": {
   "type": "quiz",
-  "layout": "tvshow",
+  "layout": "stick",
   "title": "Tricky Trivia",
   "header": "TRICKY TRIVIA",
   "hook": "ONLY GENIUSES GET 6/6 🧠",
@@ -47,7 +47,8 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🦴"
+    "cardText": "🦴",
+    "ltx": "a happy cartoon person sitting on a park bench, a big heart floating above them"
    },
    {
     "q": "What is a baby **frog** called?",
@@ -59,7 +60,8 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🐸"
+    "cardText": "🐸",
+    "ltx": "a calm green pond with lily pads and gentle ripples, a frog sitting on a lily pad"
    },
    {
     "q": "How many **sides** does a stop sign have?",
@@ -71,7 +73,8 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🛑"
+    "cardText": "🛑",
+    "ltx": "a cartoon car rolling slowly through a quiet crossroads, empty street, no signs"
    },
    {
     "q": "Which fruit wears its **seeds** on the outside?",
@@ -83,7 +86,8 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🌱"
+    "cardText": "🌱",
+    "ltx": "a cartoon fruit basket on a kitchen table, a magnifying glass hovering over it"
    },
    {
     "q": "How many **hours** are in two days?",
@@ -95,7 +99,8 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "⏰"
+    "cardText": "⏰",
+    "ltx": "a cartoon clock with hands spinning fast, sun and moon passing in the window"
    },
    {
     "q": "Where was **Hawaiian** pizza invented?",
@@ -107,7 +112,8 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🍕"
+    "cardText": "🍕",
+    "ltx": "a cartoon pizza on a table, a slice being lifted with stretchy cheese, question marks floating"
    }
   ]
  },
