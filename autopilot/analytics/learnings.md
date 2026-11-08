@@ -431,3 +431,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Geography-50 final 3, Well-Educated 1, Emoji-50 1 → Ausspielung weiter tot; E8 #3 Flag Quiz 30 Q mit 8 lizenzierten Flaggenfotos als "Which country's flag is this?" (echtes Genre-Format "guess the flag"), 22 Text-Hinweisfragen, Fangfragen Australien/NZ, Türkei/Tunesien, Tschad/Rumänien (Finale).
 - Thumbnails: Flag-Long A "FLAG QUIZ" + Kanada-Flagge (kommt im Quiz nicht als Frage vor) vs. B "25/30" vs. C "LEGEND LEVEL"; CTR weiter nicht messbar (HttpError 400).
 - Duplikate vermieden: Ahornblatt-Frage (Geo-50), Nepal-Flagge (Quick-Geo), US-Sterne/Streifen, "1961 geteilte Stadt" (Sixties-50) → Berlin-Wall-Q1 = Jahr des Mauerfalls statt Stadt. VS-Gewicht ohne Wiederholung (Grizzly nur aus "Faster"-VS, dort Tempo).
+
+## 2026-11-08 – Research (Research-Agent)
+- Finale Shorts: VS "More People" 1.142 (stayed 62 %), Geo-6-Q 975 → VS-Median 875 ≈ 1,9× Shorts-Median 454; 21:00 VS bleibt.
+- Seit 05.11. alle 4 Shorts unter Median (Snapshot ~1 T: Vocab 115, Gunpowder 0, Science-6-Q 67, VS Taller 271 vs. vorher 769–1.032). Thema erklärt Vocab/Gunpowder/Science; Regressions-Test für Schlüsselwort-Marker (Commit 05.11.) falls 07.11.-Shorts < 300. VS Taller hatte Standbild 6,8 s → Shorts max 3 s Standbild.
+- Gunpowder final-nah 1 View n. ~53 h (public, keine Sperr-Felder) = unterdrückt → Besitzer informiert, nicht neu hochladen.
+- 6-Q gewinnt nur mit LEICHTEN Allgemein-/Geo-Fragen + "Only Geniuses"-Titel; Themen-6-Q (Vocab 144, Science 67, Which-First R2 158) raus. 10.11.: Tricky Trivia 6-Q, VS "Which Is Older?", E8 #4 "Guess the Movie by Emoji" (Konkurrenz Quibby 380k/1.180×, Quiz Bunny 680k).
