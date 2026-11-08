@@ -2,14 +2,14 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (36 Videos)
+## Shorts (37 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 7 | 762 | 981 | 1434 | 53.3 | 48.6 | 3.0 |
-| VS-Vergleich | 3 | 868 | 876 | 1171 | 55.7 | 64.6 | 2.0 |
+| VS-Vergleich | 4 | 746 | 716 | 1171 | 55.7 | 64.6 | 2.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1207 | 38.1 | 145.3 | 0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.5 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
@@ -32,6 +32,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHICH IS FASTER? | 1 | 557 | 557 | 557 | 49.5 | 66.0 | 0 |
 | GENERAL KNOWLEDGE | 4 | 573 | 469 | 1161 | 36.6 | 155.7 | 0 |
 | QUICK QUIZ | 2 | 454 | 454 | 482 | 41.8 | 89.7 | 1.0 |
+| WHICH IS TALLER? | 1 | 380 | 380 | 380 | – | – | 0 |
 | HALLOWEEN TRIVIA | 3 | 344 | 338 | 498 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | HISTORY TRIVIA | 1 | 311 | 311 | 311 | 50.0 | 44.0 | 1.0 |
@@ -49,7 +50,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 23 | 545 | 427 | 1219 | 49.2 | 73.6 | 8.0 |
+| tvshow | 24 | 538 | 404 | 1219 | 49.2 | 73.6 | 8.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.2 | 111.5 | 0 |
 
 ### Shorts nach Musik
@@ -57,7 +58,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 11 | 698 | 622 | 1219 | 47.6 | 84.4 | 4.0 |
-| world-trip.wav | 7 | 520 | 557 | 1171 | 50.3 | 74.0 | 3.0 |
+| world-trip.wav | 8 | 502 | 468 | 1171 | 50.3 | 74.0 | 3.0 |
 | brain-pulse.wav | 18 | 443 | 314 | 1434 | 46.1 | 93.9 | 1.0 |
 
 ### Shorts nach Sendezeit
@@ -67,7 +68,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 966 | 966 | 1434 | 47.1 | 67.3 | 0 |
 | 16:00 | 15 | 523 | 427 | 1219 | 46.0 | 87.2 | 5.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
-| 21:00 | 15 | 496 | 311 | 1171 | 51.3 | 70.8 | 3.0 |
+| 21:00 | 16 | 488 | 319 | 1171 | 51.3 | 70.8 | 3.0 |
 
 ### Top 8 Shorts
 
@@ -88,7 +89,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 2 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (20 Videos)
+## Lange Videos (21 Videos)
 
 ### Lange Videos nach Format
 
@@ -98,7 +99,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 35 Fragen | 3 | 98 | 59 | 186 | 49.0 | 26.2 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
-| 50 Fragen | 10 | 4 | 2 | 14 | 66.8 | 55.1 | 0 |
+| 50 Fragen | 11 | 4 | 2 | 14 | 66.8 | 55.1 | 0 |
 | 15 Fragen | 2 | 1 | 1 | 2 | 100.0 | 6.6 | 0 |
 | 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
@@ -117,7 +118,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | 100.0 | 99.8 | 0 |
-| Sonstiges | 2 | 1 | 1 | 2 | 100.0 | 6.6 | 0 |
+| Sonstiges | 3 | 1 | 0 | 2 | 100.0 | 6.6 | 0 |
 
 ### Lange Videos nach Layout
 
@@ -125,7 +126,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.5 | 52.5 | 1.0 |
-| tvshow | 11 | 4 | 2 | 14 | 68.6 | 39.7 | 0 |
+| tvshow | 12 | 4 | 2 | 14 | 68.6 | 39.7 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -133,7 +134,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | game-show.wav | 8 | 30 | 6 | 186 | 74.0 | 40.4 | 1.0 |
-| world-trip.wav | 5 | 7 | 4 | 14 | 50.2 | 58.8 | 0 |
+| world-trip.wav | 6 | 6 | 4 | 14 | 50.2 | 58.8 | 0 |
 | brain-pulse.wav | 6 | 18 | 2 | 59 | 76.6 | 40.1 | 0 |
 
 ### Lange Videos nach Sendezeit
@@ -142,6 +143,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.1 | 45.7 | 1.0 |
 | 14:00 | 17 | 11 | 3 | 59 | 69.5 | 46.2 | 1.0 |
+| 19:00 | 1 | 0 | 0 | 0 | – | – | 0 |
 
 ### Top 8 Lange Videos
 
@@ -156,8 +158,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Lange Videos
 
-- 1 Views · 50 Fragen · General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent 🧠 | 50 Questions
 - 1 Views · 50 Fragen · True or False Quiz: 50 Facts From Easy to Legend ✅❌
 - 1 Views · 50 Fragen · Emoji Quiz: Guess the Word – 50 Rounds, Easy to Legend 🧩
 - 0 Views · 12 Fragen · General Knowledge Quiz: Can You Score 4/12? 🧠 7-Minute Test
 - 0 Views · 15 Fragen · US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test
+- 0 Views · 50 Fragen · History Quiz: 50 Questions From Easy to Legend 🏛️
