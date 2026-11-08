@@ -187,7 +187,12 @@
     "correct": 1,
     "level": "EASY",
     "cardText": "🌌",
-    "fact": "The Milky Way is about 100,000 light-years across."
+    "fact": "The Milky Way is about 100,000 light-years across.",
+    "start": 0.0,
+    "keywordAt": 7.983,
+    "countdownStart": 8.673,
+    "reveal": 13.673,
+    "end": 17.888
    },
    {
     "q": "How many **planets** are in our solar system?",
@@ -200,7 +205,12 @@
     "correct": 2,
     "level": "EASY",
     "cardText": "🪐",
-    "fact": "Mercury, Venus, Earth and Mars are the four rocky planets."
+    "fact": "Mercury, Venus, Earth and Mars are the four rocky planets.",
+    "start": 17.888,
+    "keywordAt": 18.369,
+    "countdownStart": 20.093,
+    "reveal": 25.093,
+    "end": 28.519
    },
    {
     "q": "Which planet is **third** from the Sun?",
@@ -213,7 +223,12 @@
     "correct": 3,
     "level": "EASY",
     "cardText": "🔭",
-    "fact": "Earth is about 150 million km from the Sun."
+    "fact": "Earth is about 150 million km from the Sun.",
+    "start": 28.519,
+    "keywordAt": 29.388,
+    "countdownStart": 30.626,
+    "reveal": 35.626,
+    "end": 40.05
    },
    {
     "q": "What causes **day and night**?",
@@ -226,7 +241,12 @@
     "correct": 1,
     "level": "EASY",
     "cardText": "🌗",
-    "fact": "At the equator, Earth spins at about 1,670 km/h."
+    "fact": "At the equator, Earth spins at about 1,670 km/h.",
+    "start": 40.05,
+    "keywordAt": 40.75,
+    "countdownStart": 41.774,
+    "reveal": 46.774,
+    "end": 51.173
    },
    {
     "q": "How long does Earth take to **orbit** the Sun?",
@@ -239,7 +259,12 @@
     "correct": 2,
     "level": "EASY",
     "cardText": "📅",
-    "fact": "A year is about 365.25 days – that's why we have leap years."
+    "fact": "A year is about 365.25 days – that's why we have leap years.",
+    "start": 51.173,
+    "keywordAt": 52.569,
+    "countdownStart": 53.527,
+    "reveal": 58.527,
+    "end": 64.474
    },
    {
     "q": "Which planet is called the **Morning Star**?",
@@ -252,7 +277,12 @@
     "correct": 0,
     "level": "EASY",
     "cardText": "✨",
-    "fact": "After the Moon, Venus is the brightest natural object in the night sky."
+    "fact": "After the Moon, Venus is the brightest natural object in the night sky.",
+    "start": 64.474,
+    "keywordAt": 67.052,
+    "countdownStart": 68.001,
+    "reveal": 73.001,
+    "end": 76.676
    },
    {
     "q": "Which planet has a giant **hexagon** storm?",
@@ -265,7 +295,12 @@
     "correct": 2,
     "level": "MEDIUM",
     "cardText": "🌀",
-    "fact": "Each side of the hexagon is wider than Earth."
+    "fact": "Each side of the hexagon is wider than Earth.",
+    "start": 76.676,
+    "keywordAt": 79.901,
+    "countdownStart": 82.392,
+    "reveal": 87.392,
+    "end": 92.28
    },
    {
     "q": "Which planet is **farthest** from the Sun?",
@@ -278,7 +313,12 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "🥶",
-    "fact": "Neptune is about 30 times farther from the Sun than Earth."
+    "fact": "Neptune is about 30 times farther from the Sun than Earth.",
+    "start": 92.28,
+    "keywordAt": 93.137,
+    "countdownStart": 94.506,
+    "reveal": 99.506,
+    "end": 103.921
    },
    {
     "q": "Where is the main **asteroid belt**?",
@@ -291,7 +331,12 @@
     "correct": 3,
     "level": "MEDIUM",
     "cardText": "☄️",
-    "fact": "Asteroids in the belt are usually hundreds of thousands of km apart."
+    "fact": "Asteroids in the belt are usually hundreds of thousands of km apart.",
+    "start": 103.921,
+    "keywordAt": 105.006,
+    "countdownStart": 106.088,
+    "reveal": 111.088,
+    "end": 116.69
    },
    {
     "q": "What is the tallest **volcano** in the solar system?",
@@ -304,7 +349,12 @@
     "correct": 0,
     "level": "MEDIUM",
     "cardText": "🌋",
-    "fact": "Olympus Mons on Mars is about 22 km high."
+    "fact": "Olympus Mons on Mars is about 22 km high.",
+    "start": 116.69,
+    "keywordAt": 117.77,
+    "countdownStart": 119.47,
+    "reveal": 124.47,
+    "end": 130.429
    },
    {
     "q": "What is Saturn's **largest** moon?",
@@ -317,7 +367,12 @@
     "correct": 2,
     "level": "MEDIUM",
     "cardText": "🌕",
-    "fact": "Titan's thick atmosphere is mostly nitrogen, like Earth's."
+    "fact": "Titan's thick atmosphere is mostly nitrogen, like Earth's.",
+    "start": 130.429,
+    "keywordAt": 131.476,
+    "countdownStart": 132.516,
+    "reveal": 137.516,
+    "end": 141.295
    },
    {
     "q": "Which planet's **day** is closest to Earth's?",
@@ -330,7 +385,12 @@
     "correct": 2,
     "level": "MEDIUM",
     "cardText": "⏰",
-    "fact": "A day on Mars is called a sol."
+    "fact": "A day on Mars is called a sol.",
+    "start": 141.295,
+    "keywordAt": 142.313,
+    "countdownStart": 144.095,
+    "reveal": 149.095,
+    "end": 154.344
    },
    {
     "q": "Which planet is the **coldest**?",
@@ -343,7 +403,12 @@
     "correct": 3,
     "level": "HARD",
     "cardText": "🧊",
-    "fact": "Uranus has hit about −224 °C, the coldest planetary atmosphere."
+    "fact": "Uranus has hit about −224 °C, the coldest planetary atmosphere.",
+    "start": 154.344,
+    "keywordAt": 156.877,
+    "countdownStart": 157.562,
+    "reveal": 162.562,
+    "end": 167.163
    },
    {
     "q": "When did Pluto become a **dwarf planet**?",
@@ -356,7 +421,12 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "📉",
-    "fact": "Pluto was discovered in 1930 by Clyde Tombaugh."
+    "fact": "Pluto was discovered in 1930 by Clyde Tombaugh.",
+    "start": 167.163,
+    "keywordAt": 168.893,
+    "countdownStart": 169.843,
+    "reveal": 174.843,
+    "end": 180.027
    },
    {
     "q": "Which planet was found by **maths** first?",
@@ -369,7 +439,12 @@
     "correct": 1,
     "level": "HARD",
     "cardText": "🧮",
-    "fact": "Neptune was first seen in 1846 by Johann Galle."
+    "fact": "Neptune was first seen in 1846 by Johann Galle.",
+    "start": 180.027,
+    "keywordAt": 181.595,
+    "countdownStart": 183.151,
+    "reveal": 188.151,
+    "end": 195.568
    },
    {
     "q": "What is the largest object in the **asteroid belt**?",
@@ -382,7 +457,12 @@
     "correct": 0,
     "level": "HARD",
     "cardText": "🪨",
-    "fact": "Ceres is about 940 km wide."
+    "fact": "Ceres is about 940 km wide.",
+    "start": 195.568,
+    "keywordAt": 197.5,
+    "countdownStart": 198.563,
+    "reveal": 203.563,
+    "end": 208.855
    },
    {
     "q": "Which moon is the most **volcanic**?",
@@ -395,7 +475,12 @@
     "correct": 3,
     "level": "HARD",
     "cardText": "🔥",
-    "fact": "Io has around 400 active volcanoes."
+    "fact": "Io has around 400 active volcanoes.",
+    "start": 208.855,
+    "keywordAt": 210.049,
+    "countdownStart": 211.463,
+    "reveal": 216.463,
+    "end": 221.184
    },
    {
     "q": "How many people have **walked** on the Moon?",
@@ -408,7 +493,12 @@
     "correct": 1,
     "level": "HARD",
     "cardText": "👣",
-    "fact": "The last Moon walk was in December 1972, on Apollo 17."
+    "fact": "The last Moon walk was in December 1972, on Apollo 17.",
+    "start": 221.184,
+    "keywordAt": 222.101,
+    "countdownStart": 223.158,
+    "reveal": 228.158,
+    "end": 231.756
    },
    {
     "q": "How long is one **year** on Neptune?",
@@ -421,7 +511,12 @@
     "correct": 2,
     "level": "VERY HARD",
     "cardText": "⌛",
-    "fact": "Neptune finished its first orbit since discovery in 2011."
+    "fact": "Neptune finished its first orbit since discovery in 2011.",
+    "start": 231.756,
+    "keywordAt": 235.39,
+    "countdownStart": 236.579,
+    "reveal": 241.579,
+    "end": 247.582
    },
    {
     "q": "What are the names of **Mars's** two moons?",
@@ -434,7 +529,12 @@
     "correct": 3,
     "level": "VERY HARD",
     "cardText": "🌑",
-    "fact": "Phobos orbits Mars three times a day."
+    "fact": "Phobos orbits Mars three times a day.",
+    "start": 247.582,
+    "keywordAt": 248.67,
+    "countdownStart": 249.748,
+    "reveal": 254.748,
+    "end": 259.585
    },
    {
     "q": "How hot is the Sun's **surface**?",
@@ -447,7 +547,12 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🌡️",
-    "fact": "The Sun's outer corona can top 1 million °C."
+    "fact": "The Sun's outer corona can top 1 million °C.",
+    "start": 259.585,
+    "keywordAt": 260.829,
+    "countdownStart": 262.091,
+    "reveal": 267.091,
+    "end": 273.778
    },
    {
     "q": "What is the **farthest** human-made object?",
@@ -460,7 +565,12 @@
     "correct": 2,
     "level": "VERY HARD",
     "cardText": "🛰️",
-    "fact": "Voyager 1 entered interstellar space in 2012."
+    "fact": "Voyager 1 entered interstellar space in 2012.",
+    "start": 273.778,
+    "keywordAt": 275.077,
+    "countdownStart": 276.749,
+    "reveal": 281.749,
+    "end": 287.087
    },
    {
     "q": "**Europa**, a moon with a hidden ocean, orbits…?",
@@ -473,7 +583,12 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🌊",
-    "fact": "Europa's ocean may hold twice the water of Earth's oceans."
+    "fact": "Europa's ocean may hold twice the water of Earth's oceans.",
+    "start": 287.087,
+    "keywordAt": 287.167,
+    "countdownStart": 290.451,
+    "reveal": 295.451,
+    "end": 300.139
    },
    {
     "q": "How **old** is our solar system?",
@@ -486,7 +601,12 @@
     "correct": 0,
     "level": "VERY HARD",
     "cardText": "⏳",
-    "fact": "Earth's oldest known minerals are about 4.4 billion years old."
+    "fact": "Earth's oldest known minerals are about 4.4 billion years old.",
+    "start": 300.139,
+    "keywordAt": 300.436,
+    "countdownStart": 302.037,
+    "reveal": 307.037,
+    "end": 312.088
    },
    {
     "q": "What is the icy shell at our solar system's **edge**?",
@@ -499,7 +619,12 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "❄️",
-    "fact": "The Oort Cloud has never been seen directly."
+    "fact": "The Oort Cloud has never been seen directly.",
+    "start": 312.088,
+    "keywordAt": 316.227,
+    "countdownStart": 318.33,
+    "reveal": 323.33,
+    "end": 328.559
    },
    {
     "q": "Which spacecraft flew past **Pluto** in 2015?",
@@ -512,7 +637,12 @@
     "correct": 3,
     "level": "LEGEND",
     "cardText": "🚀",
-    "fact": "New Horizons took about 9.5 years to reach Pluto."
+    "fact": "New Horizons took about 9.5 years to reach Pluto.",
+    "start": 328.559,
+    "keywordAt": 330.044,
+    "countdownStart": 331.592,
+    "reveal": 336.592,
+    "end": 341.382
    },
    {
     "q": "Titan has **lakes**. What are they filled with?",
@@ -525,7 +655,12 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "🏞️",
-    "fact": "Titan is the only other world with stable liquids on its surface."
+    "fact": "Titan is the only other world with stable liquids on its surface.",
+    "start": 341.382,
+    "keywordAt": 341.892,
+    "countdownStart": 343.784,
+    "reveal": 348.784,
+    "end": 353.987
    },
    {
     "q": "How many Earth days is a **year** on Mercury?",
@@ -538,7 +673,12 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "🏃",
-    "fact": "Mercury orbits the Sun at about 47 km per second."
+    "fact": "Mercury orbits the Sun at about 47 km per second.",
+    "start": 353.987,
+    "keywordAt": 355.454,
+    "countdownStart": 356.576,
+    "reveal": 361.576,
+    "end": 366.134
    },
    {
     "q": "Who discovered Jupiter's four biggest **moons**?",
@@ -551,7 +691,12 @@
     "correct": 3,
     "level": "LEGEND",
     "cardText": "🔭",
-    "fact": "They are still called the Galilean moons."
+    "fact": "They are still called the Galilean moons.",
+    "start": 366.134,
+    "keywordAt": 368.102,
+    "countdownStart": 368.7,
+    "reveal": 373.7,
+    "end": 379.122
    },
    {
     "q": "Which planet has the most **volcanoes**?",
@@ -564,8 +709,47 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "🌋",
-    "fact": "Scientists have mapped about 85,000 volcanoes on Venus."
+    "fact": "Scientists have mapped about 85,000 volcanoes on Venus.",
+    "start": 379.122,
+    "keywordAt": 381.646,
+    "countdownStart": 382.528,
+    "reveal": 387.528,
+    "end": 392.019
    }
+  ],
+  "audio": "audio/solar-system-quiz-30-1.mp3",
+  "outroStart": 392.019,
+  "durationInSeconds": 401.807
+ },
+ "qa": {
+  "lufs": -22.0,
+  "truePeak": -2.4,
+  "lra": 7.3,
+  "normalized": true,
+  "frozenShare": 0.798,
+  "longestFreezeSec": 9.6,
+  "frame0Luma": 120.2,
+  "warnings": [
+   "Standbild 9.6 s"
   ]
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/solar-system-quiz-30-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-11-08",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-08T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "5v0J_iB6jjs",
+  "at": "2026-11-08T06:37"
  }
 }

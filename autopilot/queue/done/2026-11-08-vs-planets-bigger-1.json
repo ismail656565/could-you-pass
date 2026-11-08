@@ -74,7 +74,12 @@
     "icons": [
      "🪐",
      "🌀"
-    ]
+    ],
+    "start": 0.0,
+    "keywordAt": 0.548,
+    "countdownStart": 2.201,
+    "reveal": 5.201,
+    "end": 10.726
    },
    {
     "q": "Which is **bigger**?",
@@ -95,7 +100,11 @@
     "icons": [
      "🧊",
      "🔥"
-    ]
+    ],
+    "start": 10.726,
+    "countdownStart": 13.365,
+    "reveal": 16.365,
+    "end": 21.298
    },
    {
     "q": "Which is **bigger**?",
@@ -116,7 +125,11 @@
     "icons": [
      "☁️",
      "🌊"
-    ]
+    ],
+    "start": 21.298,
+    "countdownStart": 22.734,
+    "reveal": 25.734,
+    "end": 31.204
    },
    {
     "q": "Which is **bigger**?",
@@ -137,8 +150,33 @@
     "icons": [
      "🌕",
      "❄️"
-    ]
+    ],
+    "start": 31.204,
+    "countdownStart": 33.029,
+    "reveal": 36.029,
+    "end": 41.753
    }
-  ]
- }
+  ],
+  "audio": "audio/vs-planets-bigger-1.mp3",
+  "outroStart": 41.753,
+  "durationInSeconds": 41.753
+ },
+ "qa": {
+  "lufs": -20.4,
+  "truePeak": -2.6,
+  "lra": 5.9,
+  "normalized": true,
+  "frozenShare": 0.779,
+  "longestFreezeSec": 4.4,
+  "frame0Luma": 82.7,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-08T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "bEXPJkZkZak",
+  "at": "2026-11-08T06:21"
+ },
+ "linkedLong": "5v0J_iB6jjs"
 }

@@ -1,0 +1,123 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Space Quiz",
+ "header": "SPACE QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "In which year did humans first walk on the **Moon**?",
+   "answers": [
+    "1959",
+    "1969",
+    "1979",
+    "1989"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🌕",
+   "start": 0.0,
+   "keywordAt": 1.921,
+   "countdownStart": 2.435,
+   "reveal": 4.935,
+   "end": 8.609
+  },
+  {
+   "q": "What is a **shooting star** really?",
+   "answers": [
+    "A meteor",
+    "A falling star",
+    "A comet",
+    "A satellite"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🌠",
+   "start": 8.609,
+   "keywordAt": 9.127,
+   "countdownStart": 10.346,
+   "reveal": 12.846,
+   "end": 15.997
+  },
+  {
+   "q": "Who was the first **American** in space?",
+   "answers": [
+    "John Glenn",
+    "Neil Armstrong",
+    "Alan Shepard",
+    "Buzz Aldrin"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "👨‍🚀",
+   "start": 15.997,
+   "keywordAt": 16.941,
+   "countdownStart": 18.106,
+   "reveal": 20.606,
+   "end": 23.808
+  },
+  {
+   "q": "What color is the **Sun** really?",
+   "answers": [
+    "Yellow",
+    "Orange",
+    "Red",
+    "White"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🎨",
+   "start": 23.808,
+   "keywordAt": 24.733,
+   "countdownStart": 25.55,
+   "reveal": 28.05,
+   "end": 30.648
+  },
+  {
+   "q": "How long does the **ISS** take to circle Earth?",
+   "answers": [
+    "About 90 minutes",
+    "About 9 hours",
+    "About 1 day",
+    "About 1 week"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🛰️",
+   "start": 30.648,
+   "countdownStart": 33.986,
+   "reveal": 36.486,
+   "end": 40.146
+  },
+  {
+   "q": "What was the first **dog** in orbit called?",
+   "answers": [
+    "Belka",
+    "Laika",
+    "Lassie",
+    "Rex"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🐕",
+   "start": 40.146,
+   "keywordAt": 41.956,
+   "countdownStart": 42.805,
+   "reveal": 45.305,
+   "end": 49.335
+  }
+ ],
+ "audio": "audio/six-q-genius-space.mp3",
+ "outroStart": 49.335,
+ "durationInSeconds": 49.335
+}

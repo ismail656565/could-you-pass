@@ -74,7 +74,12 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🌕"
+    "cardText": "🌕",
+    "start": 0.0,
+    "keywordAt": 1.921,
+    "countdownStart": 2.435,
+    "reveal": 4.935,
+    "end": 8.609
    },
    {
     "q": "What is a **shooting star** really?",
@@ -86,7 +91,12 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🌠"
+    "cardText": "🌠",
+    "start": 8.609,
+    "keywordAt": 9.127,
+    "countdownStart": 10.346,
+    "reveal": 12.846,
+    "end": 15.997
    },
    {
     "q": "Who was the first **American** in space?",
@@ -98,7 +108,12 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "👨‍🚀"
+    "cardText": "👨‍🚀",
+    "start": 15.997,
+    "keywordAt": 16.941,
+    "countdownStart": 18.106,
+    "reveal": 20.606,
+    "end": 23.808
    },
    {
     "q": "What color is the **Sun** really?",
@@ -110,7 +125,12 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🎨"
+    "cardText": "🎨",
+    "start": 23.808,
+    "keywordAt": 24.733,
+    "countdownStart": 25.55,
+    "reveal": 28.05,
+    "end": 30.648
    },
    {
     "q": "How long does the **ISS** take to circle Earth?",
@@ -122,7 +142,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🛰️"
+    "cardText": "🛰️",
+    "start": 30.648,
+    "countdownStart": 33.986,
+    "reveal": 36.486,
+    "end": 40.146
    },
    {
     "q": "What was the first **dog** in orbit called?",
@@ -134,8 +158,34 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🐕"
+    "cardText": "🐕",
+    "start": 40.146,
+    "keywordAt": 41.956,
+    "countdownStart": 42.805,
+    "reveal": 45.305,
+    "end": 49.335
    }
-  ]
- }
+  ],
+  "audio": "audio/six-q-genius-space.mp3",
+  "outroStart": 49.335,
+  "durationInSeconds": 49.335
+ },
+ "qa": {
+  "lufs": -19.3,
+  "truePeak": -3.1,
+  "lra": 5.9,
+  "normalized": true,
+  "frozenShare": 0.63,
+  "longestFreezeSec": 5.2,
+  "frame0Luma": 99.3,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-08T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "PHJPcSxPLA8",
+  "at": "2026-11-08T06:20"
+ },
+ "linkedLong": "5v0J_iB6jjs"
 }

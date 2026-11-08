@@ -1,0 +1,123 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Which Is Bigger?",
+ "header": "WHICH IS BIGGER?",
+ "hook": "90% GET #2 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "BIGGER!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which is **bigger**?",
+   "answers": [
+    "Saturn",
+    "Jupiter"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "values": [
+    116460,
+    139820
+   ],
+   "valueLabels": [
+    "116,460 km",
+    "139,820 km"
+   ],
+   "icons": [
+    "🪐",
+    "🌀"
+   ],
+   "start": 0.0,
+   "keywordAt": 0.548,
+   "countdownStart": 2.201,
+   "reveal": 5.201,
+   "end": 10.726
+  },
+  {
+   "q": "Which is **bigger**?",
+   "answers": [
+    "Ganymede",
+    "Mercury"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "values": [
+    5268,
+    4879
+   ],
+   "valueLabels": [
+    "5,268 km",
+    "4,879 km"
+   ],
+   "icons": [
+    "🧊",
+    "🔥"
+   ],
+   "start": 10.726,
+   "countdownStart": 13.365,
+   "reveal": 16.365,
+   "end": 21.298
+  },
+  {
+   "q": "Which is **bigger**?",
+   "answers": [
+    "Venus",
+    "Earth"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    12104,
+    12742
+   ],
+   "valueLabels": [
+    "12,104 km",
+    "12,742 km"
+   ],
+   "icons": [
+    "☁️",
+    "🌊"
+   ],
+   "start": 21.298,
+   "countdownStart": 22.734,
+   "reveal": 25.734,
+   "end": 31.204
+  },
+  {
+   "q": "Which is **bigger**?",
+   "answers": [
+    "Our Moon",
+    "Pluto"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "values": [
+    3475,
+    2377
+   ],
+   "valueLabels": [
+    "3,475 km",
+    "2,377 km"
+   ],
+   "icons": [
+    "🌕",
+    "❄️"
+   ],
+   "start": 31.204,
+   "countdownStart": 33.029,
+   "reveal": 36.029,
+   "end": 41.753
+  }
+ ],
+ "audio": "audio/vs-planets-bigger-1.mp3",
+ "outroStart": 41.753,
+ "durationInSeconds": 41.753
+}

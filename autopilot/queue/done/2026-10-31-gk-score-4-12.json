@@ -318,8 +318,8 @@
    "B",
    "C"
   ],
-  "current": "B",
-  "since": "2026-11-04",
+  "current": "C",
+  "since": "2026-11-08",
   "results": {
    "A": {
     "views": 0,
@@ -327,6 +327,13 @@
     "metric": "views/day",
     "from": "2026-10-31",
     "to": "2026-11-04"
+   },
+   "B": {
+    "views": 0,
+    "ctr": 0.0,
+    "metric": "views/day",
+    "from": "2026-11-04",
+    "to": "2026-11-08"
    }
   },
   "done": false
