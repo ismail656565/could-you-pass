@@ -456,3 +456,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Experiment E9: stick vs. bisheriger TV-Look bei 6-Q-Shorts. Messen: Views nach 24 h + stayed-to-watch der ersten 4 stick-Shorts gegen den 6-Q-Median vorher (~800–975 bei leichten Fragen).
 - Besitzer (08.11.): Shorts im stick-Look sollen **kostenlos** sein → LTX für Shorts aus (nur mit LTX_FOR_SHORTS=1). Karte zeigt passendes Emoji: bei stick-Shorts immer ein gutes, nicht verratendes cardText-Emoji setzen (nie ❓).
 - 08.11. Nachtrag: Auch **VS-Vergleiche** (values, 2 Antworten) haben jetzt einen stick-Look (StickCompareScene: Doodle-Balken, VS-Stern, Moderator ruft den Gewinner). Regel ab jetzt: **alle Shorts layout "stick"**, nur lange Videos bleiben tvshow.
+
+## 2026-11-09 – Research
+- Marker-Regressionstest bestanden: 6-Q Capitals 819 n. ~20 h, VS More People 2 741 n. ~15 h (Shorts-Median 436) → Einbruch 05.–06.11. war Thema (Vocab 146, Gunpowder 2, Science 157), nicht Technik.
+- VS Taller 380 n. 1,6 T (<500): Bauwerkshöhen schwächer als Länder/Einwohner (1.171/741). Neue VS-Themen eher Natur/Geo (Gewicht, Alter, Kälte).
+- Longs: Capitals-30 (E8 #1) 7 Views n. ~22 h = bestes Long seit 31.10.; History-50 @19:00 (E7) 0 in 3 Snapshots → E7 gestoppt, 14:00 bleibt.
+- Ab 09.11. alle Shorts im Besitzer-Layout stick → als E11 gemessen (stick-Test hieß in der Notiz 08.11. fälschlich "E9"). 11.11.: Country-Emoji-30 (E8 #5), 6-Q Flag, VS Colder.
