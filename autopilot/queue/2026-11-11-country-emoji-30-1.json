@@ -1,0 +1,575 @@
+{
+ "id": "country-emoji-30-1",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 6.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Guess the Country by Emoji: 30 Rounds From Easy to Legend 🌍",
+  "description": "Guess the country from just the emojis – 30 rounds from easy to legend 🌍✈️ Can you get 25/30?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#GuessTheCountry #EmojiQuiz #GeographyQuiz #CountryQuiz #Quiz #Trivia\n\nAll emoji puzzles are original.\nPhotos via Wikimedia Commons: Flag of Kazakhstan (public domain)\nMusic: original.",
+  "tags": [
+   "guess the country by emoji",
+   "guess the country",
+   "emoji quiz",
+   "country quiz",
+   "geography quiz",
+   "emoji challenge",
+   "world quiz",
+   "travel quiz",
+   "quiz for adults"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 30? 🌍 Which one fooled you – Finland or Croatia? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Country Emoji Quiz",
+  "header": "GUESS THE COUNTRY",
+  "hook": "CAN YOU GET 25/30? 🌍",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 14,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "GUESS THE **COUNTRY**",
+   "CAN YOU GET **25/30**?",
+   "**LEGEND** LEVEL"
+  ],
+  "thumbEmoji": "🌍",
+  "thumbBadge": "30 ROUNDS · EASY → LEGEND",
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "thumbImage": "bilder/cap-flag-kazakhstan.jpg",
+  "thumbPuzzle": [
+   "✈️",
+   "🌍"
+  ],
+  "questions": [
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Canada",
+     "United Kingdom",
+     "USA",
+     "Australia"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🗽 + 🍔 + 🦅",
+    "fact": "Lady Liberty was dedicated in New York Harbor in 1886."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "China",
+     "Japan",
+     "South Korea",
+     "Thailand"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🐼 + 🥢 + 🏮",
+    "fact": "Wild giant pandas live only in the mountains of China."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Morocco",
+     "India",
+     "Mexico",
+     "Egypt"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🐫 + 🔺 + ⚱️",
+    "fact": "The Great Pyramid was the tallest building for about 3,800 years."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Spain",
+     "Mexico",
+     "Brazil",
+     "Peru"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌮 + 🌵 + 🪅",
+    "fact": "Mexico City stands on the ruins of the Aztec capital Tenochtitlan."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "United Kingdom",
+     "Ireland",
+     "Canada",
+     "USA"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "💂 + 🫖 + 🚌",
+    "fact": "Big Ben is the name of the bell – not the clock tower."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Greece",
+     "France",
+     "Italy",
+     "Portugal"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🍝 + 🛶 + 🎭",
+    "fact": "Venice is built on more than 100 small islands."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Austria",
+     "Germany",
+     "Belgium",
+     "Switzerland"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🥨 + 🍺 + 🚗",
+    "fact": "BMW, Mercedes-Benz and Volkswagen are all German."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Russia",
+     "Poland",
+     "Ukraine",
+     "Finland"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🪆 + 🩰 + 🐻",
+    "fact": "Russia stretches across 11 time zones."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Mexico",
+     "Portugal",
+     "Argentina",
+     "Spain"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🥘 + 💃 + 🐂",
+    "fact": "Paella comes from Valencia on Spain's east coast."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Thailand",
+     "India",
+     "Indonesia",
+     "Malaysia"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🍛 + 🏏 + 🎬",
+    "fact": "India makes more films each year than any other country."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Greece",
+     "Italy",
+     "Turkey",
+     "Egypt"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🏛️ + 🫒 + 🏺",
+    "fact": "The first Olympic Games were held at Olympia in 776 BC."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Iceland",
+     "Belgium",
+     "Denmark",
+     "Ireland"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🍀 + 🍺 + 🎻",
+    "fact": "Ireland's official emblem is the harp, not the shamrock."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Australia",
+     "New Zealand",
+     "Ireland",
+     "South Africa"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🥝 + 🐑 + 🏉",
+    "fact": "New Zealand still has about 4.5 sheep for every person."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Switzerland",
+     "France",
+     "Belgium",
+     "Netherlands"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🍫 + 🧇 + 🍟",
+    "fact": "Belgians say they invented fries – not the French."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Thailand",
+     "Vietnam",
+     "Philippines",
+     "Malaysia"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🛕 + 🥥 + 🥊",
+    "fact": "Muay Thai is called the art of eight limbs."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Brazil",
+     "Spain",
+     "Colombia",
+     "Argentina"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🧉 + 🥩 + 💃",
+    "fact": "Tango was born in Buenos Aires and Montevideo in the 1800s."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Norway",
+     "Iceland",
+     "Finland",
+     "Sweden"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🌋 + ♨️ + 🐋",
+    "fact": "Iceland sits right on the line where two tectonic plates meet."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Japan",
+     "China",
+     "South Korea",
+     "Vietnam"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🎤 + 🥬 + 📱",
+    "fact": "K-pop band BTS formed in Seoul in 2010."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Spain",
+     "Portugal",
+     "Brazil",
+     "Italy"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🐓 + ⚽ + 🐟",
+    "fact": "The Barcelos rooster is a famous symbol of Portugal."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Norway",
+     "Austria",
+     "Chile",
+     "Canada"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🧌 + 🐟 + 🎿",
+    "fact": "Norway's coast has more than 1,000 fjords."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Sweden",
+     "Norway",
+     "Denmark",
+     "Finland"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🧖 + 🎅 + 📱",
+    "fact": "Finland has about three million saunas."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Cuba",
+     "Jamaica",
+     "Kenya",
+     "Brazil"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🏃 + 🎶 + 🌴",
+    "fact": "Usain Bolt and Bob Marley are both from Jamaica."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Nepal",
+     "Turkey",
+     "Mongolia",
+     "Iran"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🐎 + ⛺ + 🦅",
+    "fact": "Mongolia is the least densely populated country on Earth."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Germany",
+     "Switzerland",
+     "Italy",
+     "Austria"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🎻 + 🎿 + 🍰",
+    "fact": "Mozart was born in Salzburg in 1756."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Madagascar",
+     "Sri Lanka",
+     "Mauritius",
+     "Indonesia"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🐒 + 🌳 + 🏝️",
+    "fact": "Wild lemurs are native only to Madagascar."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Netherlands",
+     "Denmark",
+     "Norway",
+     "Sweden"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🧱 + 🧜‍♀️ + 🚲",
+    "fact": "LEGO comes from Denmark – the name means \"play well\"."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Peru",
+     "Chile",
+     "Bolivia",
+     "Ecuador"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🧂 + 🦙 + 🏔️",
+    "fact": "Salar de Uyuni in Bolivia is the world's largest salt flat."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Colombia",
+     "Peru",
+     "Costa Rica",
+     "Ecuador"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🐢 + 🌐 + 🌹",
+    "fact": "Ecuador is named after the equator, which runs through it."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Peru",
+     "Chile",
+     "Mexico",
+     "New Zealand"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "🗿 + 🌶️ + 🍷",
+    "fact": "Easter Island and its famous moai statues belong to Chile."
+   },
+   {
+    "q": "Which **country** is this?",
+    "answers": [
+     "Croatia",
+     "Greece",
+     "Slovenia",
+     "Italy"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🐕 + 👔 + 🏖️",
+    "fact": "The word \"cravat\" comes from \"Croat\" – the tie's origin."
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Thirty countries in emojis, from easy to legend, and they get harder every round. Keep score! First one: a statue, a burger, and an eagle.",
+   "a": "The USA! Lady Liberty has watched over New York since eighteen eighty six."
+  },
+  {
+   "q": "A panda, chopsticks, and a red lantern.",
+   "a": "China! Wild pandas live nowhere else."
+  },
+  {
+   "q": "A camel, a pyramid, and an ancient urn.",
+   "a": "Egypt! The Great Pyramid held the height record for about three thousand eight hundred years."
+  },
+  {
+   "q": "A taco, a cactus, and a piñata.",
+   "a": "Mexico! The capital sits right on top of the old Aztec city."
+  },
+  {
+   "q": "A royal guard, a teapot, and a big red bus.",
+   "a": "The United Kingdom! Fun fact, Big Ben is actually the bell, not the tower."
+  },
+  {
+   "q": "Pasta, a gondola, and a carnival mask.",
+   "a": "Italy! Venice is built on over a hundred little islands. Six out of six so far? Nice start."
+  },
+  {
+   "q": "Round two, medium. A pretzel, a beer, and a car.",
+   "a": "Germany! Home of BMW, Mercedes and Volkswagen."
+  },
+  {
+   "q": "A nesting doll, ballet shoes, and a bear.",
+   "a": "Russia! It stretches across eleven time zones."
+  },
+  {
+   "q": "A pan of paella, a flamenco dancer, and a bull.",
+   "a": "Spain! Paella was born in Valencia."
+  },
+  {
+   "q": "Curry, a cricket bat, and a movie clapper.",
+   "a": "India! It makes more films than anywhere else on Earth."
+  },
+  {
+   "q": "Ancient columns, olives, and a painted vase.",
+   "a": "Greece! The very first Olympics were held there in seven seventy six BC."
+  },
+  {
+   "q": "A clover, a pint, and a fiddle.",
+   "a": "Ireland! Plot twist, the official symbol is actually the harp. Still with me? Good."
+  },
+  {
+   "q": "Round three, hard. A kiwi, a sheep, and a rugby ball.",
+   "a": "New Zealand! There are still about four and a half sheep per person."
+  },
+  {
+   "q": "Chocolate, waffles, and fries.",
+   "a": "Belgium! And Belgians will tell you fries were never French."
+  },
+  {
+   "q": "A temple, a coconut, and a boxing glove.",
+   "a": "Thailand! Muay Thai is the art of eight limbs. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "A mate cup, a steak, and a tango dancer.",
+   "a": "Argentina! Tango grew up on the streets of Buenos Aires."
+  },
+  {
+   "q": "A volcano, hot springs, and a whale.",
+   "a": "Iceland! The whole island sits where two tectonic plates pull apart."
+  },
+  {
+   "q": "A microphone, cabbage, and a smartphone.",
+   "a": "South Korea! K-pop, kimchi, and Samsung. Halfway done? You're doing great."
+  },
+  {
+   "q": "Round four, very hard. A rooster, a football, and a fish.",
+   "a": "Portugal! The lucky Barcelos rooster, football, and lots of cod."
+  },
+  {
+   "q": "A troll, a salmon, and skis.",
+   "a": "Norway! Trolls, salmon, and more than a thousand fjords."
+  },
+  {
+   "q": "A sauna, Santa Claus, and a mobile phone.",
+   "a": "Finland! Saunas, Santa's home in Lapland, and Nokia. About three million saunas, by the way."
+  },
+  {
+   "q": "A sprinter, music, and a palm tree.",
+   "a": "Jamaica! Usain Bolt and Bob Marley, same island."
+  },
+  {
+   "q": "A horse, a round tent, and an eagle.",
+   "a": "Mongolia! The emptiest country on the planet."
+  },
+  {
+   "q": "A violin, skis, and a slice of chocolate cake.",
+   "a": "Austria! Mozart, the Alps, and Sachertorte. Still standing? Respect."
+  },
+  {
+   "q": "Final round, legend. A monkey-like animal, a fat tree, and an island.",
+   "a": "Madagascar! Lemurs and baobab trees."
+  },
+  {
+   "q": "Toy bricks, a mermaid, and a bicycle.",
+   "a": "Denmark! LEGO means play well, and the Little Mermaid sits in Copenhagen."
+  },
+  {
+   "q": "Salt, a llama, and a mountain.",
+   "a": "Bolivia! Home of the biggest salt flat in the world. Three left, stay with me!"
+  },
+  {
+   "q": "A giant tortoise, a globe line, and roses.",
+   "a": "Ecuador! Named after the equator, and the Galápagos belong to it."
+  },
+  {
+   "q": "A stone head, a chili, and wine.",
+   "a": "Chile! Easter Island is part of Chile, thousands of kilometres offshore."
+  },
+  {
+   "q": "Final question. A spotty dog, a necktie, and a beach.",
+   "a": "Croatia! Dalmatians come from Dalmatia, and the necktie started as the Croatian cravat."
+  }
+ ]
+}

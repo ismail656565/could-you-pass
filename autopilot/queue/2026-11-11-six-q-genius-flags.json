@@ -1,0 +1,140 @@
+{
+ "id": "six-q-genius-flags",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Flag Quiz #shorts",
+  "description": "6 flag questions, easy to hard 🧠 Did #6 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#flagquiz #flags #geography #quiz #trivia #shorts\n\nMusic: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "geography quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did Australia's stars get you? ⭐ How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "stick",
+  "title": "Flag Quiz",
+  "header": "FLAG QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which flag is nicknamed the **Union Jack**?",
+    "answers": [
+     "United States",
+     "United Kingdom",
+     "Australia",
+     "Canada"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🧵"
+   },
+   {
+    "q": "What colour is the circle on **Japan's** flag?",
+    "answers": [
+     "Yellow",
+     "White",
+     "Red",
+     "Black"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🍣"
+   },
+   {
+    "q": "Which colour is NOT on the **French** flag?",
+    "answers": [
+     "Blue",
+     "Green",
+     "White",
+     "Red"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🥐"
+   },
+   {
+    "q": "How many **stars** are on Australia's flag?",
+    "answers": [
+     "Five",
+     "Seven",
+     "Four",
+     "Six"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🦘"
+   },
+   {
+    "q": "How many **stars** are on China's flag?",
+    "answers": [
+     "Five",
+     "One",
+     "Three",
+     "Six"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🐼"
+   },
+   {
+    "q": "Which flag is almost a twin of **Indonesia's**?",
+    "answers": [
+     "Poland",
+     "Austria",
+     "Monaco",
+     "Singapore"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🏝️"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which flag is nicknamed the Union Jack?",
+   "a": "The United Kingdom! It mixes the crosses of England, Scotland and Ireland."
+  },
+  {
+   "q": "What colour is the circle on Japan's flag?",
+   "a": "Red! It stands for the rising sun."
+  },
+  {
+   "q": "Which colour is not on the French flag?",
+   "a": "Green! Just blue, white and red."
+  },
+  {
+   "q": "How many stars are on Australia's flag?",
+   "a": "Six! The Southern Cross has five, plus the big Commonwealth Star."
+  },
+  {
+   "q": "How many stars are on China's flag?",
+   "a": "Five! One big yellow star and four small ones."
+  },
+  {
+   "q": "Last one. Which country's flag is almost a twin of Indonesia's?",
+   "a": "Monaco! Same red over white, just a different shape. Poland is upside down. Got all six? Go again!"
+  }
+ ]
+}

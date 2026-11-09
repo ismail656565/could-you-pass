@@ -462,3 +462,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - VS Taller 380 n. 1,6 T (<500): Bauwerkshöhen schwächer als Länder/Einwohner (1.171/741). Neue VS-Themen eher Natur/Geo (Gewicht, Alter, Kälte).
 - Longs: Capitals-30 (E8 #1) 7 Views n. ~22 h = bestes Long seit 31.10.; History-50 @19:00 (E7) 0 in 3 Snapshots → E7 gestoppt, 14:00 bleibt.
 - Ab 09.11. alle Shorts im Besitzer-Layout stick → als E11 gemessen (stick-Test hieß in der Notiz 08.11. fälschlich "E9"). 11.11.: Country-Emoji-30 (E8 #5), 6-Q Flag, VS Colder.
+
+## 2026-11-09 (Produktions-Agent, Queue 11.11.)
+- Technik: Alle Läufe 08.11. grün (10/10 im Verlauf, Dispatch 06:15 22 min), Soll 08.11. erfüllt (six-q-genius-space 16:00, solar-system-quiz-30-1 14:00, vs-planets-bigger-1 21:00; Kommentare 13:54/15:54/20:57). 09.11. + 10.11. lagen vollständig in der Queue → nur 11.11. angelegt, keine auto-*-Fallbacks in queue/. Kein Code-Fix nötig.
+- Shorts (report.json weiter Stand 08.11. 11:31, 17 Abos): VS More People 2 = 741, 6-Q Capitals 819, VS Taller 380, Science-6-Q 157; Weltraum-Tag-Shorts zum Snapshot noch privat (0). Leader unverändert: VS (21:00) > 6-Q leicht (16:00). Erste stick-Shorts (E11) laufen ab heute 16:00 – Bewertung ab 10.11.-Snapshot.
+- Longs: Capitals-30 7 Views (bestes Long seit 31.10.), Solar-System-30 noch ohne Daten; E8 #5 Country-Emoji-30 als letztes E8-Long angelegt (Emoji-Format = einziges Long-Muster mit Reichweite).
+- Thumbnails: CTR weiter nicht messbar (HttpError 400); Country-Emoji testet A "GUESS THE COUNTRY" + Kasachstan-Flagge (kommt im Quiz nicht vor) vs. B "25/30" vs. C "LEGEND LEVEL".
+- Duplikate vermieden: alle 8 Länder aus stories/countries-1 (Italien/Frankreich/Japan/Australien/Kanada/Brasilien/Schweiz/Türkei) nicht mit gleichen Emojis; Flaggen-6-Q ohne Flag-Long-Fragen (Drache Bhutan, Quadrat Schweiz, Ahorn, Nepal, US-Sterne) → Union Jack, Japan-Kreis, Frankreich ohne Grün, #4 Australien 6 Sterne, China 5 Sterne, Finale Monaco≈Indonesien. VS Colder ohne Uranus (schon im Solar-Long) → R4 Weltraum −270 °C vs. Flüssigstickstoff −196 °C.

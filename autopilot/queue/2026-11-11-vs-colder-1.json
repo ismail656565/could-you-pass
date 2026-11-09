@@ -1,0 +1,145 @@
+{
+ "id": "vs-colder-1",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "youtube": {
+  "title": "Which Is Colder? 4 Rounds 90% Get #2 Wrong 🥶 #shorts",
+  "description": "Guess which is colder – the bars reveal the real temperature 🥶 Did #2 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#whichiscolder #coldest #comparison #quiz #trivia #shorts\n\nData: NASA (pole winter averages, Mars average ≈ −60 °C, cosmic background ≈ 2.7 K), WMO (Vostok −89.2 °C, 1983), January climate normals Yakutsk/Ulaanbaatar (Wikipedia/WMO), liquid nitrogen boiling point −196 °C.\nMusic: original.",
+  "tags": [
+   "which is colder",
+   "coldest place on earth",
+   "comparison quiz",
+   "temperature comparison",
+   "mars",
+   "antarctica",
+   "yakutsk",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did Mars get you? 🔴 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "stick",
+  "title": "Colder?",
+  "header": "WHICH IS COLDER?",
+  "hook": "90% GET #2 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "COLDER!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which is **colder**?",
+    "answers": [
+     "South Pole",
+     "North Pole"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "values": [
+     60,
+     40
+    ],
+    "valueLabels": [
+     "≈ −60 °C",
+     "≈ −40 °C"
+    ],
+    "icons": [
+     "🐧",
+     "🐻‍❄️"
+    ]
+   },
+   {
+    "q": "Which is **colder**?",
+    "answers": [
+     "Average on Mars",
+     "Coldest day on Earth"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "values": [
+     60,
+     89
+    ],
+    "valueLabels": [
+     "≈ −60 °C",
+     "−89 °C"
+    ],
+    "icons": [
+     "🔴",
+     "🌍"
+    ]
+   },
+   {
+    "q": "Which is **colder**?",
+    "answers": [
+     "Yakutsk",
+     "Ulaanbaatar"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "values": [
+     39,
+     22
+    ],
+    "valueLabels": [
+     "≈ −39 °C",
+     "≈ −22 °C"
+    ],
+    "icons": [
+     "🦣",
+     "🐎"
+    ]
+   },
+   {
+    "q": "Which is **colder**?",
+    "answers": [
+     "Liquid nitrogen",
+     "Deep space"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "values": [
+     196,
+     270
+    ],
+    "valueLabels": [
+     "−196 °C",
+     "−270 °C"
+    ],
+    "icons": [
+     "🧪",
+     "🌌"
+    ]
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which is colder in winter, the South Pole or the North Pole?",
+   "a": "The South Pole! It sits on a huge ice sheet, way up high."
+  },
+  {
+   "q": "The average day on Mars, or the coldest day ever on Earth?",
+   "a": "Earth! Antarctica hit minus eighty nine in nineteen eighty three."
+  },
+  {
+   "q": "Yakutsk or Ulaanbaatar, in January?",
+   "a": "Yakutsk! The coldest big city on the planet."
+  },
+  {
+   "q": "Last one. Liquid nitrogen, or deep space?",
+   "a": "Deep space! Just three degrees above absolute zero. Think you can get all four? Go again!"
+  }
+ ]
+}
