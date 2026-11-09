@@ -118,7 +118,7 @@ jobs:
         continue-on-error: true
         run: python autopilot/research.py
 
-      - name: Tagesziel prüfen (2 Shorts + 1 Long)
+      - name: Tagesziel prüfen (2 Shorts, Di/Do/Sa zusätzlich 1 Long)
         if: env.MODE == 'all'
         run: |
           python - <<'PY'
@@ -136,8 +136,9 @@ jobs:
               except Exception:
                   continue
           print(f"Today's completed uploads: Shorts={counts['short']}, long={counts['long']}")
-          if counts["short"] < 2 or counts["long"] < 1:
-              raise SystemExit("DAILY TARGET NOT MET: expected 2 Shorts and 1 long video. Workflow must stay red.")
+          need_long = 1 if datetime.date.today().weekday() in (1, 3, 5) else 0  # lange Videos nur Di/Do/Sa
+          if counts["short"] < 2 or counts["long"] < need_long:
+              raise SystemExit(f"DAILY TARGET NOT MET: expected 2 Shorts and {need_long} long video(s). Workflow must stay red.")
           PY
 
       - name: Ergebnisse zurück ins Repository

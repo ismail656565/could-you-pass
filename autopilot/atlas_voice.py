@@ -37,6 +37,9 @@ def main(path, autopilot_module=None):
     sid = story['id']
     d = ap.ROOT / 'public' / 'audio' / sid
     d.mkdir(parents=True, exist_ok=True)
+    tm = story.get('timing') or {}
+    think, move, tail = tm.get('think', THINK), tm.get('move', MOVE), tm.get('tail', TAIL)
+    long = story.get('format') == 'long'
     t = 0.0
     dur = clip(story['hookLine'], d / 'hook.mp3')
     story['hook'] = {'audio': f'audio/{sid}/hook.mp3', 'start': 0.0, 'end': round(dur + HOOK_PAD, 2)}
@@ -48,12 +51,17 @@ def main(path, autopilot_module=None):
         r['start'] = round(t, 2)
         r['qAudio'], r['aAudio'] = f'audio/{sid}/q{i + 1}.mp3', f'audio/{sid}/a{i + 1}.mp3'
         r['thinkStart'] = round(t + dq + 0.1, 2)
-        r['reveal'] = round(r['thinkStart'] + THINK, 2)
-        r['moveEnd'] = round(r['reveal'] + MOVE, 2)
+        r['reveal'] = round(r['thinkStart'] + think, 2)
+        r['moveEnd'] = round(r['reveal'] + move, 2)
         # Antwort wird gesprochen, sobald die Form unterwegs ist
         r['aStart'] = round(r['reveal'] + 0.55, 2)
-        r['end'] = round(max(r['moveEnd'] + 1.6, r['aStart'] + da) + (OUTRO if last else TAIL), 2)
+        r['end'] = round(max(r['moveEnd'] + 1.6, r['aStart'] + da) + (OUTRO if last and not long else tail), 2)
         t = r['end']
+    if long and story.get('outroLine'):
+        # Abspann: Auswertung + Abo-Zeile, danach Standzeit für die YouTube-Endkarten
+        do = clip(story['outroLine'], d / 'outro.mp3')
+        story['outro'] = {'start': round(t, 2), 'audio': f'audio/{sid}/outro.mp3'}
+        t = t + do + float(story.get('outroHold', 6.0))
     story['durationInSeconds'] = round(t, 2)
     p.write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf8')
     print('Dauer', story['durationInSeconds'], 's')

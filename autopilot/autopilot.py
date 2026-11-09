@@ -377,6 +377,13 @@ def build_audio(item, out_mp3):
 PUBLISH_AT = {'short': '16:00', 'long': '14:00'}  # deutsche Uhrzeit
 SHORT_SLOTS = ['16:00', '21:00']  # bis zu 2 Shorts pro Tag (UK-Nachmittag / US-Nachmittag)
 PER_DAY = {'short': len(SHORT_SLOTS), 'long': 1}
+# Lange Videos nur noch an festen Tagen (0 = Montag): Di, Do, Sa. Grund (09.11.): 20 tägliche Longs seit 22.10.
+# mit 0–14 Views – lieber 3 starke pro Woche als 7 gleichförmige; spart außerdem Action-Minuten.
+LONG_DAYS = {1, 3, 5}
+
+
+def long_day(day=None):
+    return (day or dt.date.today()).weekday() in LONG_DAYS
 
 
 def publish_time(item):
@@ -431,13 +438,15 @@ def with_chapters(item, desc):
         return desc
     fmt = lambda t: f"{int(t // 60)}:{int(t % 60):02d}"
     ch, last = [], None
-    for i, q in enumerate(story.get('questions', [])):
+    unit = 'Round' if story.get('type') == 'truesize' else 'Question'
+    for i, q in enumerate(story.get('questions') or story.get('rounds') or []):
         lv = (q.get('level') or '').strip()
         if lv and lv != last:
-            ch.append((0 if not ch else q.get('start', 0), f"{lv.title()} (Question {i + 1})"))
+            ch.append((0 if not ch else q.get('start', 0), f"{lv.title()} ({unit} {i + 1})"))
             last = lv
-    if story.get('outroStart') and story.get('durationInSeconds', 0) - story['outroStart'] > 10:
-        ch.append((story['outroStart'], 'Your score'))
+    outro_at = story.get('outroStart') or (story.get('outro') or {}).get('start')
+    if outro_at and story.get('durationInSeconds', 0) - outro_at > (5 if story.get('type') == 'truesize' else 10):
+        ch.append((outro_at, 'Your score'))
     ch = [c for j, c in enumerate(ch) if j == 0 or c[0] - ch[j - 1][0] >= 10]
     if len(ch) < 3:
         return desc
@@ -899,7 +908,17 @@ def produce_one(p):
             raise RuntimeError('Rendern fehlgeschlagen: ' + (r.stdout[-1500:] + r.stderr[-1500:]).replace('\n', ' | '))
         log('Gerendert')
         qa_check(mp4, item)
-        if story.get('format') == 'long':
+        if story.get('type') == 'truesize' and story.get('format') == 'long':
+            # Karten-Long: ein festes Vorschaubild (Grönland in echter Größe auf Afrika), kein A/B/C-Test
+            THUMBS.mkdir(exist_ok=True)
+            tf = THUMBS / f'{name}-A.jpg'
+            cmd = ['npx', 'remotion', 'still', 'TrueSizeThumb', str(tf), f'--props=stories/{name}.json', '--jpeg-quality=90']
+            if os.environ.get('BROWSER_EXECUTABLE'):
+                cmd.append(f"--browser-executable={os.environ['BROWSER_EXECUTABLE']}")
+            subprocess.run(cmd, cwd=ROOT, shell=(os.name == 'nt'), capture_output=True, text=True)
+            if tf.exists():
+                item['_thumb'] = str(tf)
+        elif story.get('format') == 'long':
             variants = render_thumbs(name, story)
             if variants:
                 item['_thumb'] = variants[0][1]
@@ -935,7 +954,7 @@ def produce():
                     done_counts[kind] = done_counts.get(kind, 0) + 1
             except Exception:
                 pass
-        if done_counts.get('short', 0) >= PER_DAY['short'] and done_counts.get('long', 0) >= PER_DAY['long']:
+        if done_counts.get('short', 0) >= PER_DAY['short'] and done_counts.get('long', 0) >= (PER_DAY['long'] if long_day() else 0):
             log(f"Daily target already completed (Shorts={done_counts['short']}, long={done_counts['long']}); nothing left to produce.")
             return
         message = (
@@ -960,6 +979,9 @@ def produce():
                 log(f'Kein {f}-Video in der Warteschlange.')
                 break
             n = done_today.get(f, 0)
+            if f == 'long' and not long_day() and not item_force(cand[0]):
+                log('Heute kein Long-Tag (Di/Do/Sa) – langes Video bleibt in der Warteschlange.')
+                break
             if n >= PER_DAY[f] and not item_force(cand[0]):
                 log(f'Heute schon {n} {f}-Video(s) hochgeladen – nächstes morgen.')
                 break

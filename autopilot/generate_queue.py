@@ -146,7 +146,8 @@ def ensure_queue():
 
     missing = {
         "short": max(0, 2 - done_today["short"] - len(queued["short"])),
-        "long": max(0, 1 - done_today["long"] - len(queued["long"])),
+        # lange Videos nur Di/Do/Sa (siehe LONG_DAYS in autopilot.py)
+        "long": max(0, (1 if today.weekday() in (1, 3, 5) else 0) - done_today["long"] - len(queued["long"])),
     }
     if not any(missing.values()):
         print(
