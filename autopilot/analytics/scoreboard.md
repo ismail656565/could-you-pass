@@ -2,13 +2,13 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (37 Videos)
+## Shorts (38 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 6+ Fragen | 7 | 767 | 994 | 1434 | 52.6 | 49.7 | 3.0 |
+| 6+ Fragen | 8 | 782 | 942 | 1434 | 52.6 | 49.7 | 3.0 |
 | VS-Vergleich | 4 | 768 | 716 | 1188 | 54.5 | 61.0 | 2.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1207 | 38.1 | 145.2 | 0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.2 | 101.4 | 2.0 |
@@ -25,6 +25,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | BRAIN QUIZ | 1 | 1207 | 1207 | 1207 | 44.0 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1188 | 1188 | 1188 | 61.5 | 60.2 | 1.0 |
 | QUICK FIRE GEOGRAPHY | 1 | 994 | 994 | 994 | 49.1 | 45.5 | 2.0 |
+| CAPITAL CITIES | 1 | 891 | 891 | 891 | – | – | 0 |
 | WHICH IS BIGGER? | 1 | 876 | 876 | 876 | 56.1 | 67.4 | 1.0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 39.0 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 716 | 716 | 716 | 37.5 | 114.3 | 0 |
@@ -50,14 +51,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 24 | 543 | 438 | 1219 | 51.4 | 69.6 | 8.0 |
+| tvshow | 25 | 557 | 450 | 1219 | 51.4 | 69.6 | 8.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.2 | 111.5 | 0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 11 | 701 | 622 | 1219 | 47.5 | 81.8 | 4.0 |
+| game-show.wav | 12 | 717 | 756 | 1219 | 47.5 | 81.8 | 4.0 |
 | world-trip.wav | 8 | 513 | 504 | 1188 | 56.6 | 64.2 | 3.0 |
 | brain-pulse.wav | 18 | 443 | 314 | 1434 | 46.3 | 93.9 | 1.0 |
 
@@ -66,7 +67,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.1 | 67.3 | 0 |
-| 16:00 | 15 | 526 | 427 | 1219 | 46.1 | 85.1 | 5.0 |
+| 16:00 | 16 | 548 | 454 | 1219 | 46.1 | 85.1 | 5.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
 | 21:00 | 16 | 494 | 319 | 1188 | 54.5 | 66.0 | 3.0 |
 
