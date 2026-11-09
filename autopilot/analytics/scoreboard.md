@@ -89,7 +89,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 2 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (21 Videos)
+## Lange Videos (22 Videos)
 
 ### Lange Videos nach Format
 
@@ -98,6 +98,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 0 Fragen | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 49.0 | 26.2 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
+| 30 Fragen | 1 | 12 | 12 | 12 | – | – | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 11 | 4 | 2 | 14 | 66.8 | 55.1 | 0 |
 | 15 Fragen | 2 | 1 | 1 | 2 | 50.0 | 6.6 | 0 |
@@ -118,7 +119,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | 100.0 | 99.8 | 0 |
-| Sonstiges | 3 | 1 | 0 | 2 | 50.0 | 6.6 | 0 |
+| Sonstiges | 4 | 4 | 1 | 12 | 50.0 | 6.6 | 0 |
 
 ### Lange Videos nach Layout
 
@@ -126,7 +127,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.5 | 52.5 | 1.0 |
-| tvshow | 12 | 4 | 2 | 14 | 63.1 | 39.7 | 0 |
+| tvshow | 13 | 4 | 2 | 14 | 63.1 | 39.7 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -134,7 +135,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | game-show.wav | 8 | 30 | 6 | 186 | 74.0 | 40.4 | 1.0 |
-| world-trip.wav | 6 | 6 | 4 | 14 | 50.2 | 58.8 | 0 |
+| world-trip.wav | 7 | 7 | 4 | 14 | 50.2 | 58.8 | 0 |
 | brain-pulse.wav | 6 | 18 | 2 | 60 | 64.1 | 40.1 | 0 |
 
 ### Lange Videos nach Sendezeit
@@ -142,7 +143,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.1 | 45.7 | 1.0 |
-| 14:00 | 17 | 11 | 3 | 60 | 66.2 | 46.2 | 1.0 |
+| 14:00 | 18 | 11 | 4 | 60 | 66.2 | 46.2 | 1.0 |
 | 19:00 | 1 | 0 | 0 | 0 | – | – | 0 |
 
 ### Top 8 Lange Videos
@@ -154,7 +155,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 26 Views · stayed 0.808 · 40 Fragen · neon · game-show.wav · General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions
 - 14 Views · stayed 0.571 · 50 Fragen · tvshow · world-trip.wav · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
 - 12 Views · stayed 0.273 · 50 Fragen · tvshow · world-trip.wav · Can You Pass the U.S. Citizenship Test? 🗽 50 Real Civics Questions | Easy to Legend
-- 8 Views · stayed 0.875 · 20 Fragen · neon · game-show.wav · Premier League Quiz: Only REAL Fans Get 20/20 ⚽🏆
+- 12 Views · stayed – · 30 Fragen · tvshow · world-trip.wav · Capital Cities Quiz: 30 Questions From Easy to Legend 🌍
 
 ### Flop 5 Lange Videos
 
