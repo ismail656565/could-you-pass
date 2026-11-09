@@ -22,7 +22,7 @@
  },
  "story": {
   "type": "quiz",
-  "layout": "stick",
+  "layout": "atlas",
   "title": "Flag Quiz",
   "header": "FLAG QUIZ",
   "hook": "ONLY GENIUSES GET 6/6 🧠",

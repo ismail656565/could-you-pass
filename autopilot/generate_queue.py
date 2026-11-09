@@ -288,7 +288,8 @@ def ensure_queue():
         n_auto = sum(1 for p in DONE.glob("auto-*.json") if fmt_of_path(p) == fmt) + 1
         story = item["story"]
         # Shorts: 2D-Strichmännchen-Moderator (Layout "stick"); lange Videos bleiben im TV-Look (16:9)
-        story["layout"] = "stick" if fmt == "short" else "tvshow"
+        # Shorts ab 10.11.: Druck-/Atlas-Look (Layout "atlas", ohne Emoji/Maskottchen); lange Videos bleiben im TV-Look (16:9)
+        story["layout"] = "atlas" if fmt == "short" else "tvshow"
         for key in ("thumbImage", "thumbPuzzle"):
             story.pop(key, None)
         first_q = str(rows[0]["question"].get("q", "")).replace("**", "").strip()

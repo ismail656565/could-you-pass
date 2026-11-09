@@ -22,7 +22,7 @@
  },
  "story": {
   "type": "quiz",
-  "layout": "stick",
+  "layout": "atlas",
   "title": "Tricky Trivia",
   "header": "TRICKY TRIVIA",
   "hook": "ONLY GENIUSES GET 6/6 🧠",
@@ -48,7 +48,8 @@
     "correct": 2,
     "level": "EASY",
     "cardText": "🦴",
-    "ltx": "a happy cartoon person sitting on a park bench, a big heart floating above them"
+    "ltx": "a happy cartoon person sitting on a park bench, a big heart floating above them",
+    "broll": "people walking in a park"
    },
    {
     "q": "What is a baby **frog** called?",
@@ -61,7 +62,8 @@
     "correct": 0,
     "level": "EASY",
     "cardText": "🐸",
-    "ltx": "a calm green pond with lily pads and gentle ripples, a frog sitting on a lily pad"
+    "ltx": "a calm green pond with lily pads and gentle ripples, a frog sitting on a lily pad",
+    "broll": "pond water surface"
    },
    {
     "q": "How many **sides** does a stop sign have?",
@@ -74,7 +76,8 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "🚗",
-    "ltx": "a cartoon car rolling slowly through a quiet crossroads, empty street, no signs"
+    "ltx": "a cartoon car rolling slowly through a quiet crossroads, empty street, no signs",
+    "broll": "city street traffic"
    },
    {
     "q": "Which fruit wears its **seeds** on the outside?",
@@ -87,7 +90,8 @@
     "correct": 3,
     "level": "HARD",
     "cardText": "🌱",
-    "ltx": "a cartoon fruit basket on a kitchen table, a magnifying glass hovering over it"
+    "ltx": "a cartoon fruit basket on a kitchen table, a magnifying glass hovering over it",
+    "broll": "fruit market stall"
    },
    {
     "q": "How many **hours** are in two days?",
@@ -100,7 +104,8 @@
     "correct": 0,
     "level": "MEDIUM",
     "cardText": "⏰",
-    "ltx": "a cartoon clock with hands spinning fast, sun and moon passing in the window"
+    "ltx": "a cartoon clock with hands spinning fast, sun and moon passing in the window",
+    "broll": "clock mechanism"
    },
    {
     "q": "Where was **Hawaiian** pizza invented?",
@@ -113,7 +118,8 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🍕",
-    "ltx": "a cartoon pizza on a table, a slice being lifted with stretchy cheese, question marks floating"
+    "ltx": "a cartoon pizza on a table, a slice being lifted with stretchy cheese, question marks floating",
+    "broll": "pizza oven fire"
    }
   ]
  },

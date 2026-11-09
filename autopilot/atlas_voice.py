@@ -5,8 +5,7 @@ legt die Clips in public/audio/<id>/ ab und schreibt die Zeiten (Sekunden) zurü
 import json, subprocess, sys
 from pathlib import Path
 import imageio_ffmpeg
-sys.path.insert(0, str(Path(__file__).parent))
-import autopilot as ap
+ap = None  # Modul autopilot (wird von produce_one übergeben; beim direkten Aufruf importiert)
 
 FF = imageio_ffmpeg.get_ffmpeg_exe()
 THINK, MOVE, TAIL, HOOK_PAD, OUTRO = 2.4, 1.5, 0.55, 0.25, 2.2
@@ -25,7 +24,14 @@ def clip(text, out):
     return int(h) * 3600 + int(m) * 60 + float(s)
 
 
-def main(path):
+def main(path, autopilot_module=None):
+    global ap
+    if autopilot_module is not None:
+        ap = autopilot_module
+    elif ap is None:
+        sys.path.insert(0, str(Path(__file__).parent))
+        import autopilot as ap_mod
+        ap = ap_mod
     p = Path(path)
     story = json.loads(p.read_text(encoding='utf8'))
     sid = story['id']

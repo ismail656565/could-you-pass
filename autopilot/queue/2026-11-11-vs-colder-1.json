@@ -23,7 +23,7 @@
  },
  "story": {
   "type": "quiz",
-  "layout": "stick",
+  "layout": "atlas",
   "title": "Colder?",
   "header": "WHICH IS COLDER?",
   "hook": "90% GET #2 WRONG 😏",

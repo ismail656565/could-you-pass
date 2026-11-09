@@ -24,7 +24,7 @@
  },
  "story": {
   "type": "quiz",
-  "layout": "stick",
+  "layout": "atlas",
   "title": "Older?",
   "header": "WHICH IS OLDER?",
   "hook": "90% GET #2 WRONG 😏",

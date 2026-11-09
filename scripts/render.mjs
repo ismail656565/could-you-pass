@@ -60,6 +60,8 @@ const result = spawnSync('npx', [
   `--concurrency=${process.env.RENDER_CONCURRENCY || 2}`,
   '--offthreadvideo-cache-size-in-bytes=536870912',
   '--offthreadvideo-threads=2',
+  // optional: eigener Browser (z. B. in Umgebungen, in denen der mitgelieferte keine Schriften laden darf)
+  ...(process.env.BROWSER_EXECUTABLE ? [`--browser-executable=${process.env.BROWSER_EXECUTABLE}`] : []),
 ], {
   stdio: 'inherit',
   shell: process.platform === 'win32',
