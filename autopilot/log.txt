@@ -1376,3 +1376,44 @@
 [2026-11-08 15:54:46] six-q-genius-space: Kommentar gepostet (mit Long-Link)
 [2026-11-08 15:54:46] vs-planets-bigger-1: noch nicht öffentlich – Kommentar später
 [2026-11-08 20:57:19] vs-planets-bigger-1: Kommentar gepostet (mit Long-Link)
+[2026-11-09 06:25:46] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-09 06:25:46] Analytics gespeichert (74 Videos)
+[2026-11-09 06:25:46] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-09 06:25:46] Thumbnail-Test true-false-50-1: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-09 06:25:50] Thumbnail-Test true-false-50-1: jetzt Variante C
+[2026-11-09 06:25:50] Thumbnail-Test emoji-word-50-1: Variante A → {'views': 1, 'ctr': 0.25, 'metric': 'views/day'}
+[2026-11-09 06:25:53] Thumbnail-Test emoji-word-50-1: jetzt Variante B
+[2026-11-09 06:25:53] Thumbnail-Test auto-2026-10-28-long: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-09 06:25:55] Thumbnail-Test auto-2026-10-28-long: jetzt Variante A (Gewinner)
+[2026-11-09 06:25:55] Produziere six-q-genius-berlin-wall (short)
+[2026-11-09 06:25:55] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-09 06:26:21] Ton fertig: 47.9 s
+[2026-11-09 06:26:21] LTX: 0 neue Clip(s)
+[2026-11-09 06:28:27] Gerendert
+[2026-11-09 06:28:39] QA: -20.7 LUFS, TP -3.4 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 234.9
+[2026-11-09 06:28:41] Hochgeladen: https://youtube.com/watch?v=FEetYAXUNZk (private)
+[2026-11-09 06:28:42] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-09 06:28:42] Geplant für 09.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-09 06:28:42] Produziere vs-heavier-1 (short)
+[2026-11-09 06:28:42] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-09 06:29:00] Ton fertig: 37.2 s
+[2026-11-09 06:29:00] LTX: 0 neue Clip(s)
+[2026-11-09 06:30:31] Gerendert
+[2026-11-09 06:30:39] QA: -20.9 LUFS, TP -3.1 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 234.1
+[2026-11-09 06:30:41] Hochgeladen: https://youtube.com/watch?v=J8DUFZhFHXw (private)
+[2026-11-09 06:30:41] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-09 06:30:41] Geplant für 09.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-09 06:30:42] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-09 06:30:42] Produziere flag-quiz-30-1 (long)
+[2026-11-09 06:30:42] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-09 06:33:13] Ton fertig: 379.1 s
+[2026-11-09 06:47:54] Gerendert
+[2026-11-09 06:48:44] QA: -21.6 LUFS, TP -2.0 dBTP → normalisiert auf −14, Standbild max 8.8 s, Frame0-Luma 93.5 | WARNUNG: Standbild 8.8 s
+[2026-11-09 06:48:56] Hochgeladen: https://youtube.com/watch?v=K6BAQbHRIqM (private)
+[2026-11-09 06:48:58] Vorschaubild gesetzt
+[2026-11-09 06:48:59] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-11-09 06:48:59] Geplant für 09.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-09 06:48:59] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-09 06:49:00] Short-Beschreibung (six-q-genius-berlin-wall) verlinkt auf langes Video K6BAQbHRIqM
+[2026-11-09 06:49:01] Short-Beschreibung (vs-heavier-1) verlinkt auf langes Video K6BAQbHRIqM
+[2026-11-09 06:49:08] Konkurrenz: 25 Kanäle, 135 Gewinner-Videos

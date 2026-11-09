@@ -75,7 +75,12 @@
     "icons": [
      "🐘",
      "🦛"
-    ]
+    ],
+    "start": 0.0,
+    "keywordAt": 0.49,
+    "countdownStart": 2.614,
+    "reveal": 5.614,
+    "end": 9.5
    },
    {
     "q": "Which is **heavier**?",
@@ -96,7 +101,11 @@
     "icons": [
      "☁️",
      "🐋"
-    ]
+    ],
+    "start": 9.5,
+    "countdownStart": 11.462,
+    "reveal": 14.462,
+    "end": 18.801
    },
    {
     "q": "Which is **heavier**?",
@@ -117,7 +126,11 @@
     "icons": [
      "🫎",
      "🦒"
-    ]
+    ],
+    "start": 18.801,
+    "countdownStart": 20.325,
+    "reveal": 23.325,
+    "end": 26.975
    },
    {
     "q": "Which is **heavier**?",
@@ -138,8 +151,33 @@
     "icons": [
      "🐻",
      "🐻‍❄️"
-    ]
+    ],
+    "start": 26.975,
+    "countdownStart": 29.188,
+    "reveal": 32.188,
+    "end": 37.219
    }
-  ]
- }
+  ],
+  "audio": "audio/vs-heavier-1.mp3",
+  "outroStart": 37.219,
+  "durationInSeconds": 37.219
+ },
+ "qa": {
+  "lufs": -20.9,
+  "truePeak": -3.1,
+  "lra": 6.0,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 234.1,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-09T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "J8DUFZhFHXw",
+  "at": "2026-11-09T06:30"
+ },
+ "linkedLong": "K6BAQbHRIqM"
 }

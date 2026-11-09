@@ -1,0 +1,130 @@
+{
+ "type": "quiz",
+ "layout": "stick",
+ "title": "Berlin Wall",
+ "header": "BERLIN WALL QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "In what year did the **Berlin Wall** fall?",
+   "answers": [
+    "1979",
+    "1985",
+    "1989",
+    "1991"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🧱",
+   "ltx": "a long grey concrete wall dividing a city, people with hammers cheering on top of it at night, fireworks",
+   "start": 0.0,
+   "keywordAt": 1.02,
+   "countdownStart": 2.081,
+   "reveal": 4.581,
+   "end": 7.855
+  },
+  {
+   "q": "Which famous **gate** stood by the Wall?",
+   "answers": [
+    "Brandenburg Gate",
+    "Arc de Triomphe",
+    "Golden Gate",
+    "Victory Gate"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🏛️",
+   "ltx": "a cartoon map of a divided city with a long wall drawn across it, a tiny guard tower",
+   "start": 7.855,
+   "keywordAt": 8.501,
+   "countdownStart": 10.064,
+   "reveal": 12.564,
+   "end": 15.604
+  },
+  {
+   "q": "Which **crossing** is the most famous?",
+   "answers": [
+    "Gate Seven",
+    "Checkpoint Charlie",
+    "Point Alpha",
+    "Bridge Zero"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🚧",
+   "ltx": "a striped border barrier pole slowly lifting, a small guard booth beside it",
+   "start": 15.604,
+   "keywordAt": 16.72,
+   "countdownStart": 17.932,
+   "reveal": 20.432,
+   "end": 23.619
+  },
+  {
+   "q": "How many **years** did the Wall stand?",
+   "answers": [
+    "Eighteen",
+    "Thirty-eight",
+    "Forty-five",
+    "Twenty-eight"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "⏳",
+   "ltx": "pages of a wall calendar flipping quickly in the wind",
+   "start": 23.619,
+   "keywordAt": 24.107,
+   "countdownStart": 25.858,
+   "reveal": 28.358,
+   "end": 30.938
+  },
+  {
+   "q": "What is its longest painted **section**?",
+   "answers": [
+    "Wall Park",
+    "Red Mile",
+    "East Side Gallery",
+    "Mural Road"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🎨",
+   "ltx": "a long concrete wall being painted with colorful murals by an artist with a brush",
+   "start": 30.938,
+   "keywordAt": 32.626,
+   "countdownStart": 33.577,
+   "reveal": 36.077,
+   "end": 39.471
+  },
+  {
+   "q": "When did Germany **reunify**?",
+   "answers": [
+    "October 1990",
+    "November 1989",
+    "January 1991",
+    "June 1990"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "📅",
+   "ltx": "two halves of a puzzle shaped like a country sliding together and clicking into place, confetti",
+   "start": 39.471,
+   "keywordAt": 41.052,
+   "countdownStart": 41.797,
+   "reveal": 44.297,
+   "end": 47.855
+  }
+ ],
+ "audio": "audio/six-q-genius-berlin-wall.mp3",
+ "outroStart": 47.855,
+ "durationInSeconds": 47.855
+}

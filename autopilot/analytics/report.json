@@ -1,13 +1,13 @@
 {
- "fetched": "2026-11-08T11:31",
+ "fetched": "2026-11-09T06:25",
  "channel": "COULD YOU PASS?",
  "subscribers": "17",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 14455,
-    "engagedViews": 7123
+    "views": 14768,
+    "engagedViews": 7284
    },
    {
     "country": "DE",
@@ -16,8 +16,8 @@
    },
    {
     "country": "PH",
-    "views": 1426,
-    "engagedViews": 710
+    "views": 1452,
+    "engagedViews": 725
    },
    {
     "country": "GB",
@@ -83,29 +83,29 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 18055,
-    "engagedViews": 7950
+    "views": 18376,
+    "engagedViews": 8097
    },
    {
     "deviceType": "TABLET",
-    "views": 4693,
-    "engagedViews": 2419
+    "views": 4773,
+    "engagedViews": 2464
    },
    {
     "deviceType": "TV",
-    "views": 2295,
-    "engagedViews": 1826
+    "views": 2311,
+    "engagedViews": 1837
    },
    {
     "deviceType": "DESKTOP",
-    "views": 1487,
-    "engagedViews": 789
+    "views": 1507,
+    "engagedViews": 806
    }
   ],
   "ageGroups": [
    {
     "ageGroup": "age13-17",
-    "viewerPercentage": 13.3
+    "viewerPercentage": 13.1
    },
    {
     "ageGroup": "age18-24",
@@ -113,15 +113,15 @@
    },
    {
     "ageGroup": "age25-34",
-    "viewerPercentage": 13.3
+    "viewerPercentage": 13.2
    },
    {
     "ageGroup": "age35-44",
-    "viewerPercentage": 21.3
+    "viewerPercentage": 21.1
    },
    {
     "ageGroup": "age45-54",
-    "viewerPercentage": 8.8
+    "viewerPercentage": 8.7
    },
    {
     "ageGroup": "age55-64",
@@ -129,45 +129,21 @@
    },
    {
     "ageGroup": "age65-",
-    "viewerPercentage": 37
+    "viewerPercentage": 37.7
    }
   ]
  },
  "videos": [
   {
-   "id": "5v0J_iB6jjs",
-   "title": "Solar System Quiz: 30 Questions From Easy to Legend 🪐",
-   "published": "2026-11-08T06:37:01Z",
-   "retention": [],
-   "trafficSources": {},
-   "durationSec": 402,
-   "publicViews": "0",
-   "status": {
-    "privacyStatus": "private",
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false,
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "uploadStatus": "processed",
-    "ytRating": null,
-    "regionRestriction": null,
-    "contentRating": null,
-    "licensedContent": false,
-    "rejectionReason": null,
-    "failureReason": null,
-    "license": "youtube"
-   }
-  },
-  {
    "id": "bEXPJkZkZak",
    "title": "Which Is Bigger? Planets & Moons – 90% Get #2 Wrong 🪐 #shorts",
-   "published": "2026-11-08T06:21:44Z",
+   "published": "2026-11-08T20:00:09Z",
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "0",
+   "publicViews": "71",
    "status": {
-    "privacyStatus": "private",
+    "privacyStatus": "public",
     "madeForKids": false,
     "selfDeclaredMadeForKids": false,
     "embeddable": true,
@@ -185,13 +161,37 @@
   {
    "id": "PHJPcSxPLA8",
    "title": "Only Geniuses Get 6/6 🧠 Space Quiz #shorts",
-   "published": "2026-11-08T06:20:02Z",
+   "published": "2026-11-08T15:00:23Z",
    "retention": [],
    "trafficSources": {},
    "durationSec": 50,
-   "publicViews": "0",
+   "publicViews": "156",
    "status": {
-    "privacyStatus": "private",
+    "privacyStatus": "public",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
+  },
+  {
+   "id": "5v0J_iB6jjs",
+   "title": "Solar System Quiz: 30 Questions From Easy to Legend 🪐",
+   "published": "2026-11-08T13:00:20Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 402,
+   "publicViews": "3",
+   "status": {
+    "privacyStatus": "public",
     "madeForKids": false,
     "selfDeclaredMadeForKids": false,
     "embeddable": true,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "741",
+   "publicViews": "937",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 44,
-   "publicViews": "819",
+   "publicViews": "882",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -261,7 +261,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 385,
-   "publicViews": "7",
+   "publicViews": "10",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -282,10 +282,523 @@
    "id": "p1ro50dHVio",
    "title": "Which Is Taller? 4 Rounds 90% Get Wrong 🏙️ #shorts",
    "published": "2026-11-06T20:00:28Z",
-   "retention": [],
-   "trafficSources": {},
+   "views": 264,
+   "engagedViews": 134,
+   "averageViewDuration": 23,
+   "averageViewPercentage": 50.54,
+   "likes": 17,
+   "comments": 0,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     1.134,
+     0.428
+    ],
+    [
+     0.02,
+     1.112,
+     0.383
+    ],
+    [
+     0.03,
+     1.082,
+     0.338
+    ],
+    [
+     0.04,
+     1.075,
+     0.297
+    ],
+    [
+     0.05,
+     1.067,
+     0.262
+    ],
+    [
+     0.06,
+     1.06,
+     0.235
+    ],
+    [
+     0.07,
+     1.052,
+     0.213
+    ],
+    [
+     0.08,
+     1.045,
+     0.195
+    ],
+    [
+     0.09,
+     1.03,
+     0.181
+    ],
+    [
+     0.1,
+     0.993,
+     0.171
+    ],
+    [
+     0.11,
+     1,
+     0.163
+    ],
+    [
+     0.12,
+     0.955,
+     0.157
+    ],
+    [
+     0.13,
+     0.933,
+     0.153
+    ],
+    [
+     0.14,
+     0.918,
+     0.151
+    ],
+    [
+     0.15,
+     0.925,
+     0.149
+    ],
+    [
+     0.16,
+     0.858,
+     0.148
+    ],
+    [
+     0.17,
+     0.821,
+     0.147
+    ],
+    [
+     0.18,
+     0.776,
+     0.147
+    ],
+    [
+     0.19,
+     0.709,
+     0.147
+    ],
+    [
+     0.2,
+     0.687,
+     0.147
+    ],
+    [
+     0.21,
+     0.664,
+     0.147
+    ],
+    [
+     0.22,
+     0.634,
+     0.148
+    ],
+    [
+     0.23,
+     0.59,
+     0.148
+    ],
+    [
+     0.24,
+     0.582,
+     0.149
+    ],
+    [
+     0.25,
+     0.567,
+     0.15
+    ],
+    [
+     0.26,
+     0.552,
+     0.152
+    ],
+    [
+     0.27,
+     0.545,
+     0.154
+    ],
+    [
+     0.28,
+     0.545,
+     0.155
+    ],
+    [
+     0.29,
+     0.545,
+     0.156
+    ],
+    [
+     0.3,
+     0.545,
+     0.158
+    ],
+    [
+     0.31,
+     0.537,
+     0.158
+    ],
+    [
+     0.32,
+     0.522,
+     0.159
+    ],
+    [
+     0.33,
+     0.522,
+     0.159
+    ],
+    [
+     0.34,
+     0.515,
+     0.159
+    ],
+    [
+     0.35,
+     0.515,
+     0.159
+    ],
+    [
+     0.36,
+     0.507,
+     0.16
+    ],
+    [
+     0.37,
+     0.507,
+     0.16
+    ],
+    [
+     0.38,
+     0.507,
+     0.16
+    ],
+    [
+     0.39,
+     0.507,
+     0.16
+    ],
+    [
+     0.4,
+     0.507,
+     0.161
+    ],
+    [
+     0.41,
+     0.5,
+     0.162
+    ],
+    [
+     0.42,
+     0.492,
+     0.163
+    ],
+    [
+     0.43,
+     0.485,
+     0.164
+    ],
+    [
+     0.44,
+     0.47,
+     0.166
+    ],
+    [
+     0.45,
+     0.47,
+     0.168
+    ],
+    [
+     0.46,
+     0.463,
+     0.17
+    ],
+    [
+     0.47,
+     0.448,
+     0.172
+    ],
+    [
+     0.48,
+     0.44,
+     0.174
+    ],
+    [
+     0.49,
+     0.433,
+     0.176
+    ],
+    [
+     0.5,
+     0.433,
+     0.178
+    ],
+    [
+     0.51,
+     0.425,
+     0.181
+    ],
+    [
+     0.52,
+     0.418,
+     0.184
+    ],
+    [
+     0.53,
+     0.418,
+     0.187
+    ],
+    [
+     0.54,
+     0.41,
+     0.191
+    ],
+    [
+     0.55,
+     0.403,
+     0.195
+    ],
+    [
+     0.56,
+     0.395,
+     0.2
+    ],
+    [
+     0.57,
+     0.388,
+     0.205
+    ],
+    [
+     0.58,
+     0.388,
+     0.211
+    ],
+    [
+     0.59,
+     0.388,
+     0.217
+    ],
+    [
+     0.6,
+     0.373,
+     0.223
+    ],
+    [
+     0.61,
+     0.373,
+     0.229
+    ],
+    [
+     0.62,
+     0.366,
+     0.236
+    ],
+    [
+     0.63,
+     0.358,
+     0.242
+    ],
+    [
+     0.64,
+     0.358,
+     0.248
+    ],
+    [
+     0.65,
+     0.358,
+     0.255
+    ],
+    [
+     0.66,
+     0.358,
+     0.261
+    ],
+    [
+     0.67,
+     0.351,
+     0.268
+    ],
+    [
+     0.68,
+     0.351,
+     0.274
+    ],
+    [
+     0.69,
+     0.351,
+     0.28
+    ],
+    [
+     0.7,
+     0.351,
+     0.286
+    ],
+    [
+     0.71,
+     0.351,
+     0.291
+    ],
+    [
+     0.72,
+     0.351,
+     0.295
+    ],
+    [
+     0.73,
+     0.351,
+     0.299
+    ],
+    [
+     0.74,
+     0.351,
+     0.303
+    ],
+    [
+     0.75,
+     0.351,
+     0.307
+    ],
+    [
+     0.76,
+     0.351,
+     0.31
+    ],
+    [
+     0.77,
+     0.351,
+     0.313
+    ],
+    [
+     0.78,
+     0.351,
+     0.316
+    ],
+    [
+     0.79,
+     0.343,
+     0.318
+    ],
+    [
+     0.8,
+     0.343,
+     0.32
+    ],
+    [
+     0.81,
+     0.343,
+     0.32
+    ],
+    [
+     0.82,
+     0.328,
+     0.321
+    ],
+    [
+     0.83,
+     0.321,
+     0.32
+    ],
+    [
+     0.84,
+     0.321,
+     0.318
+    ],
+    [
+     0.85,
+     0.321,
+     0.314
+    ],
+    [
+     0.86,
+     0.321,
+     0.309
+    ],
+    [
+     0.87,
+     0.306,
+     0.303
+    ],
+    [
+     0.88,
+     0.306,
+     0.295
+    ],
+    [
+     0.89,
+     0.298,
+     0.288
+    ],
+    [
+     0.9,
+     0.298,
+     0.282
+    ],
+    [
+     0.91,
+     0.284,
+     0.278
+    ],
+    [
+     0.92,
+     0.261,
+     0.274
+    ],
+    [
+     0.93,
+     0.261,
+     0.271
+    ],
+    [
+     0.94,
+     0.254,
+     0.269
+    ],
+    [
+     0.95,
+     0.239,
+     0.267
+    ],
+    [
+     0.96,
+     0.216,
+     0.265
+    ],
+    [
+     0.97,
+     0.194,
+     0.263
+    ],
+    [
+     0.98,
+     0.179,
+     0.261
+    ],
+    [
+     0.99,
+     0.172,
+     0.259
+    ],
+    [
+     1,
+     0.172,
+     0.258
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 259,
+    "YT_SEARCH": 4,
+    "YT_OTHER_PAGE": 1,
+    "NO_LINK_OTHER": 0
+   },
    "durationSec": 47,
-   "publicViews": "380",
+   "publicViews": "450",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -300,7 +813,8 @@
     "rejectionReason": null,
     "failureReason": null,
     "license": "youtube"
-   }
+   },
+   "engagedShare": 0.508
   },
   {
    "id": "WVM3ZgBC3Kk",
@@ -330,10 +844,523 @@
    "id": "FtEYLT1m00I",
    "title": "Quick Fire Science Quiz – Can You Get 6/6? 🔬 #shorts",
    "published": "2026-11-06T15:00:19Z",
-   "retention": [],
-   "trafficSources": {},
+   "views": 62,
+   "engagedViews": 29,
+   "averageViewDuration": 29,
+   "averageViewPercentage": 56.269999999999996,
+   "likes": 8,
+   "comments": 0,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     1.276,
+     0.583
+    ],
+    [
+     0.02,
+     1.207,
+     0.531
+    ],
+    [
+     0.03,
+     1.207,
+     0.478
+    ],
+    [
+     0.04,
+     1.138,
+     0.429
+    ],
+    [
+     0.05,
+     1.103,
+     0.387
+    ],
+    [
+     0.06,
+     1.069,
+     0.351
+    ],
+    [
+     0.07,
+     1.034,
+     0.318
+    ],
+    [
+     0.08,
+     1.034,
+     0.289
+    ],
+    [
+     0.09,
+     1,
+     0.265
+    ],
+    [
+     0.1,
+     0.931,
+     0.246
+    ],
+    [
+     0.11,
+     0.862,
+     0.233
+    ],
+    [
+     0.12,
+     0.759,
+     0.224
+    ],
+    [
+     0.13,
+     0.759,
+     0.22
+    ],
+    [
+     0.14,
+     0.655,
+     0.218
+    ],
+    [
+     0.15,
+     0.655,
+     0.219
+    ],
+    [
+     0.16,
+     0.655,
+     0.222
+    ],
+    [
+     0.17,
+     0.655,
+     0.227
+    ],
+    [
+     0.18,
+     0.586,
+     0.233
+    ],
+    [
+     0.19,
+     0.586,
+     0.241
+    ],
+    [
+     0.2,
+     0.586,
+     0.25
+    ],
+    [
+     0.21,
+     0.586,
+     0.262
+    ],
+    [
+     0.22,
+     0.586,
+     0.276
+    ],
+    [
+     0.23,
+     0.586,
+     0.293
+    ],
+    [
+     0.24,
+     0.621,
+     0.313
+    ],
+    [
+     0.25,
+     0.621,
+     0.335
+    ],
+    [
+     0.26,
+     0.655,
+     0.358
+    ],
+    [
+     0.27,
+     0.655,
+     0.38
+    ],
+    [
+     0.28,
+     0.655,
+     0.402
+    ],
+    [
+     0.29,
+     0.655,
+     0.421
+    ],
+    [
+     0.3,
+     0.655,
+     0.439
+    ],
+    [
+     0.31,
+     0.655,
+     0.453
+    ],
+    [
+     0.32,
+     0.621,
+     0.466
+    ],
+    [
+     0.33,
+     0.621,
+     0.476
+    ],
+    [
+     0.34,
+     0.621,
+     0.483
+    ],
+    [
+     0.35,
+     0.621,
+     0.487
+    ],
+    [
+     0.36,
+     0.621,
+     0.488
+    ],
+    [
+     0.37,
+     0.621,
+     0.486
+    ],
+    [
+     0.38,
+     0.621,
+     0.48
+    ],
+    [
+     0.39,
+     0.586,
+     0.473
+    ],
+    [
+     0.4,
+     0.552,
+     0.464
+    ],
+    [
+     0.41,
+     0.552,
+     0.455
+    ],
+    [
+     0.42,
+     0.552,
+     0.447
+    ],
+    [
+     0.43,
+     0.552,
+     0.441
+    ],
+    [
+     0.44,
+     0.552,
+     0.435
+    ],
+    [
+     0.45,
+     0.552,
+     0.431
+    ],
+    [
+     0.46,
+     0.552,
+     0.427
+    ],
+    [
+     0.47,
+     0.552,
+     0.423
+    ],
+    [
+     0.48,
+     0.586,
+     0.42
+    ],
+    [
+     0.49,
+     0.586,
+     0.417
+    ],
+    [
+     0.5,
+     0.586,
+     0.414
+    ],
+    [
+     0.51,
+     0.586,
+     0.411
+    ],
+    [
+     0.52,
+     0.586,
+     0.408
+    ],
+    [
+     0.53,
+     0.586,
+     0.406
+    ],
+    [
+     0.54,
+     0.552,
+     0.405
+    ],
+    [
+     0.55,
+     0.552,
+     0.405
+    ],
+    [
+     0.56,
+     0.552,
+     0.405
+    ],
+    [
+     0.57,
+     0.552,
+     0.406
+    ],
+    [
+     0.58,
+     0.552,
+     0.409
+    ],
+    [
+     0.59,
+     0.552,
+     0.412
+    ],
+    [
+     0.6,
+     0.517,
+     0.416
+    ],
+    [
+     0.61,
+     0.517,
+     0.421
+    ],
+    [
+     0.62,
+     0.483,
+     0.427
+    ],
+    [
+     0.63,
+     0.517,
+     0.435
+    ],
+    [
+     0.64,
+     0.483,
+     0.444
+    ],
+    [
+     0.65,
+     0.448,
+     0.454
+    ],
+    [
+     0.66,
+     0.448,
+     0.466
+    ],
+    [
+     0.67,
+     0.448,
+     0.478
+    ],
+    [
+     0.68,
+     0.448,
+     0.493
+    ],
+    [
+     0.69,
+     0.414,
+     0.509
+    ],
+    [
+     0.7,
+     0.414,
+     0.526
+    ],
+    [
+     0.71,
+     0.379,
+     0.544
+    ],
+    [
+     0.72,
+     0.379,
+     0.564
+    ],
+    [
+     0.73,
+     0.379,
+     0.584
+    ],
+    [
+     0.74,
+     0.379,
+     0.605
+    ],
+    [
+     0.75,
+     0.379,
+     0.625
+    ],
+    [
+     0.76,
+     0.379,
+     0.644
+    ],
+    [
+     0.77,
+     0.379,
+     0.662
+    ],
+    [
+     0.78,
+     0.379,
+     0.678
+    ],
+    [
+     0.79,
+     0.414,
+     0.693
+    ],
+    [
+     0.8,
+     0.414,
+     0.705
+    ],
+    [
+     0.81,
+     0.414,
+     0.715
+    ],
+    [
+     0.82,
+     0.414,
+     0.723
+    ],
+    [
+     0.83,
+     0.414,
+     0.731
+    ],
+    [
+     0.84,
+     0.414,
+     0.737
+    ],
+    [
+     0.85,
+     0.414,
+     0.742
+    ],
+    [
+     0.86,
+     0.414,
+     0.746
+    ],
+    [
+     0.87,
+     0.414,
+     0.749
+    ],
+    [
+     0.88,
+     0.379,
+     0.752
+    ],
+    [
+     0.89,
+     0.379,
+     0.754
+    ],
+    [
+     0.9,
+     0.379,
+     0.756
+    ],
+    [
+     0.91,
+     0.379,
+     0.758
+    ],
+    [
+     0.92,
+     0.379,
+     0.761
+    ],
+    [
+     0.93,
+     0.379,
+     0.764
+    ],
+    [
+     0.94,
+     0.379,
+     0.769
+    ],
+    [
+     0.95,
+     0.379,
+     0.776
+    ],
+    [
+     0.96,
+     0.379,
+     0.786
+    ],
+    [
+     0.97,
+     0.379,
+     0.797
+    ],
+    [
+     0.98,
+     0.379,
+     0.809
+    ],
+    [
+     0.99,
+     0.345,
+     0.82
+    ],
+    [
+     1,
+     0.345,
+     0.829
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 47,
+    "YT_SEARCH": 14,
+    "YT_OTHER_PAGE": 1,
+    "NO_LINK_OTHER": 0
+   },
    "durationSec": 53,
-   "publicViews": "157",
+   "publicViews": "179",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -348,14 +1375,25 @@
     "rejectionReason": null,
     "failureReason": null,
     "license": "youtube"
-   }
+   },
+   "engagedShare": 0.468
   },
   {
    "id": "Jmhx1u4Cv-M",
    "title": "4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts",
    "published": "2026-11-05T20:00:26Z",
+   "views": 1,
+   "engagedViews": 1,
+   "averageViewDuration": 7,
+   "averageViewPercentage": 19.74,
+   "likes": 1,
+   "comments": 0,
+   "subscribersGained": 0,
    "retention": [],
-   "trafficSources": {},
+   "trafficSources": {
+    "SHORTS": 1,
+    "NO_LINK_OTHER": 0
+   },
    "durationSec": 38,
    "publicViews": "2",
    "status": {
@@ -372,26 +1410,27 @@
     "rejectionReason": null,
     "failureReason": null,
     "license": "youtube"
-   }
+   },
+   "engagedShare": 1.0
   },
   {
    "id": "I_OcWXkLB7M",
    "title": "Vocabulary Quiz – Can You Get 6/6? 📚 #shorts",
    "published": "2026-11-05T15:00:48Z",
-   "views": 115,
-   "engagedViews": 41,
+   "views": 142,
+   "engagedViews": 52,
    "averageViewDuration": 20,
-   "averageViewPercentage": 38.69,
+   "averageViewPercentage": 38.83,
    "likes": 3,
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 114,
+    "SHORTS": 141,
     "YT_SEARCH": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 52,
-   "publicViews": "146",
+   "publicViews": "147",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -407,7 +1446,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.357
+   "engagedShare": 0.366
   },
   {
    "id": "G6JJ4HGXJ9g",
@@ -446,23 +1485,23 @@
    "id": "wbX6CNPI1v0",
    "title": "Which Has More People? 4 Rounds 90% Get Wrong 👥 #shorts",
    "published": "2026-11-04T20:00:34Z",
-   "views": 1103,
-   "engagedViews": 679,
+   "views": 1137,
+   "engagedViews": 699,
    "averageViewDuration": 24,
-   "averageViewPercentage": 60.480000000000004,
+   "averageViewPercentage": 60.17,
    "likes": 26,
    "comments": 2,
    "subscribersGained": 1,
    "trafficSources": {
-    "SHORTS": 1070,
-    "YT_SEARCH": 22,
+    "SHORTS": 1102,
+    "YT_SEARCH": 26,
     "YT_OTHER_PAGE": 5,
     "YT_CHANNEL": 2,
     "EXT_URL": 2,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 41,
-   "publicViews": "1171",
+   "publicViews": "1188",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -478,27 +1517,28 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.616
+   "engagedShare": 0.615
   },
   {
    "id": "8kff4Swo7MM",
    "title": "Quick Fire Geography Quiz – Can You Get 6/6? 🌍 #shorts",
    "published": "2026-11-04T15:00:29Z",
-   "views": 968,
-   "engagedViews": 475,
+   "views": 975,
+   "engagedViews": 479,
    "averageViewDuration": 23,
-   "averageViewPercentage": 45.46,
-   "likes": 15,
+   "averageViewPercentage": 45.47,
+   "likes": 17,
    "comments": 0,
    "subscribersGained": 2,
    "trafficSources": {
-    "SHORTS": 926,
+    "SHORTS": 947,
     "YT_SEARCH": 28,
-    "YT_OTHER_PAGE": 14,
+    "YT_OTHER_PAGE": 12,
+    "YT_CHANNEL": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 51,
-   "publicViews": "981",
+   "publicViews": "994",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -520,7 +1560,7 @@
    "id": "ifkBW33NomU",
    "title": "Are You Well Educated? Hard Quiz – Score 5/15 to Pass 🎓",
    "published": "2026-11-04T13:00:01Z",
-   "views": 1,
+   "views": 2,
    "engagedViews": 1,
    "averageViewDuration": 25,
    "averageViewPercentage": 6.6000000000000005,
@@ -528,7 +1568,8 @@
    "comments": 0,
    "subscribersGained": 0,
    "trafficSources": {
-    "NO_LINK_OTHER": 1
+    "NO_LINK_OTHER": 1,
+    "YT_SEARCH": 1
    },
    "durationSec": 388,
    "publicViews": "2",
@@ -547,16 +1588,16 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 1.0
+   "engagedShare": 0.5
   },
   {
    "id": "-5vGx-rtRTw",
    "title": "4 History Questions – The Last One Will Humble You 😏 #shorts",
    "published": "2026-11-03T20:00:37Z",
-   "views": 310,
-   "engagedViews": 155,
+   "views": 311,
+   "engagedViews": 156,
    "averageViewDuration": 17,
-   "averageViewPercentage": 43.99,
+   "averageViewPercentage": 44.27,
    "likes": 9,
    "comments": 0,
    "subscribersGained": 1,
@@ -577,16 +1618,16 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.5
+   "engagedShare": 0.502
   },
   {
    "id": "Nz7lPovZA10",
    "title": "Which Came First? Round 2 – 6 Questions 🤯 #shorts",
    "published": "2026-11-03T15:00:03Z",
    "views": 158,
-   "engagedViews": 110,
+   "engagedViews": 111,
    "averageViewDuration": 27,
-   "averageViewPercentage": 48.75,
+   "averageViewPercentage": 48.82,
    "likes": 10,
    "comments": 0,
    "subscribersGained": 0,
@@ -607,7 +1648,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.696
+   "engagedShare": 0.703
   },
   {
    "id": "rwbfV7G7Vpo",
@@ -643,10 +1684,10 @@
    "id": "vVlz3ctkWZo",
    "title": "Which Is Faster? 4 Races 90% Get Wrong 🐆 #shorts",
    "published": "2026-11-02T20:00:36Z",
-   "views": 555,
-   "engagedViews": 275,
+   "views": 556,
+   "engagedViews": 276,
    "averageViewDuration": 29,
-   "averageViewPercentage": 66.02,
+   "averageViewPercentage": 66.1,
    "likes": 7,
    "comments": 0,
    "subscribersGained": 0,
@@ -667,17 +1708,17 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.495
+   "engagedShare": 0.496
   },
   {
    "id": "ZVUz-EjQsI8",
    "title": "Can You Answer: Which Planet Is Closest to the Sun? ☀️🤯 #shorts",
    "published": "2026-11-02T15:00:09Z",
-   "views": 425,
-   "engagedViews": 174,
+   "views": 427,
+   "engagedViews": 175,
    "averageViewDuration": 12,
-   "averageViewPercentage": 90.91,
-   "likes": 31,
+   "averageViewPercentage": 91.03,
+   "likes": 32,
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 14,
@@ -697,7 +1738,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.409
+   "engagedShare": 0.41
   },
   {
    "id": "GZnsjhdoEys",
@@ -725,10 +1766,10 @@
    "id": "8ZxEi5hhL0c",
    "title": "True or False? 4 Facts 90% Get Wrong ✅❌ #shorts",
    "published": "2026-11-01T20:00:11Z",
-   "views": 142,
-   "engagedViews": 67,
+   "views": 143,
+   "engagedViews": 68,
    "averageViewDuration": 37,
-   "averageViewPercentage": 92.78,
+   "averageViewPercentage": 92.81,
    "likes": 6,
    "comments": 0,
    "subscribersGained": 0,
@@ -749,17 +1790,17 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.472
+   "engagedShare": 0.476
   },
   {
    "id": "Tx5xmZvvjcA",
    "title": "Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts",
    "published": "2026-11-01T15:00:16Z",
-   "views": 1217,
-   "engagedViews": 651,
+   "views": 1218,
+   "engagedViews": 652,
    "averageViewDuration": 23,
-   "averageViewPercentage": 51.27,
-   "likes": 41,
+   "averageViewPercentage": 51.33,
+   "likes": 42,
    "comments": 1,
    "subscribersGained": 1,
    "durationSec": 45,
@@ -815,10 +1856,10 @@
    "id": "S-rX4Xh6B78",
    "title": "Which Country Is Bigger? 4 Rounds 90% Get Wrong 🌍 #shorts",
    "published": "2026-10-31T20:00:34Z",
-   "views": 873,
-   "engagedViews": 490,
+   "views": 875,
+   "engagedViews": 491,
    "averageViewDuration": 26,
-   "averageViewPercentage": 67.33,
+   "averageViewPercentage": 67.37,
    "likes": 37,
    "comments": 1,
    "subscribersGained": 1,
@@ -845,10 +1886,10 @@
    "id": "ytdL31Bpx_A",
    "title": "Can You Answer: How Many Hours Are in a Week? 🤯 #shorts",
    "published": "2026-10-31T15:00:18Z",
-   "views": 480,
-   "engagedViews": 205,
+   "views": 482,
+   "engagedViews": 206,
    "averageViewDuration": 11,
-   "averageViewPercentage": 88.56,
+   "averageViewPercentage": 88.17,
    "likes": 18,
    "comments": 0,
    "subscribersGained": 0,
@@ -897,7 +1938,7 @@
    "id": "-FHIjux26Rg",
    "title": "4 Food Questions Almost Everyone Gets Wrong 🍍 #shorts",
    "published": "2026-10-30T20:00:25Z",
-   "views": 184,
+   "views": 185,
    "engagedViews": 120,
    "averageViewDuration": 34,
    "averageViewPercentage": 80.56,
@@ -921,16 +1962,16 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.652
+   "engagedShare": 0.649
   },
   {
    "id": "0Lqj4vVUHyM",
    "title": "How Long Does a Sloth Take to Digest One Meal? 🦥🤯 #shorts",
    "published": "2026-10-30T15:00:10Z",
-   "views": 167,
-   "engagedViews": 73,
+   "views": 177,
+   "engagedViews": 78,
    "averageViewDuration": 10,
-   "averageViewPercentage": 77.71,
+   "averageViewPercentage": 77.03,
    "likes": 9,
    "comments": 0,
    "subscribersGained": 1,
@@ -951,7 +1992,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.437
+   "engagedShare": 0.441
   },
   {
    "id": "brCR2MyeQr0",
@@ -1077,10 +2118,10 @@
    "id": "ncpoW2HLpI0",
    "title": "Can You Answer This Quiz Question? 🤯 #1 #shorts",
    "published": "2026-10-28T15:00:25Z",
-   "views": 616,
-   "engagedViews": 236,
+   "views": 620,
+   "engagedViews": 237,
    "averageViewDuration": 9,
-   "averageViewPercentage": 121.55,
+   "averageViewPercentage": 121.33,
    "likes": 28,
    "comments": 0,
    "subscribersGained": 0,
@@ -1101,7 +2142,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.383
+   "engagedShare": 0.382
   },
   {
    "id": "zZDclzxCTSg",
@@ -1265,7 +2306,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 724,
-   "publicViews": "11",
+   "publicViews": "12",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1737,7 +2778,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 367,
-   "publicViews": "59",
+   "publicViews": "60",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
