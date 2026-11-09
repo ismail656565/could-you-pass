@@ -21,7 +21,10 @@ const story = JSON.parse(readFileSync(path, 'utf8'));
 const problems = [];
 if (!story.durationInSeconds) problems.push('durationInSeconds fehlt');
 const isQuiz = story.type === 'quiz';
-if (isQuiz) {
+const isAtlas = story.type === 'truesize';
+if (isAtlas) {
+  if (!Array.isArray(story.rounds) || story.rounds.length === 0) problems.push('keine Runden');
+} else if (isQuiz) {
   if (!Array.isArray(story.questions) || story.questions.length === 0) problems.push('keine Fragen');
 } else if (!Array.isArray(story.scenes) || story.scenes.length === 0) problems.push('keine Szenen');
 if (story.audio && !existsSync(resolve('public', story.audio))) problems.push(`Audio fehlt in public/: ${story.audio}`);
@@ -42,7 +45,7 @@ if (missing.length) {
   console.warn(`Hinweis: ${missing.length} Datei(en) fehlen noch, dort erscheint ein Platzhalter:`);
   for (const m of missing) console.warn(`  - public/${m}`);
 }
-if (!isQuiz && !story.captions?.length) console.warn('Hinweis: keine Whisper-Wörter – Untertitel-Timing wird nur geschätzt.');
+if (!isQuiz && !isAtlas && !story.captions?.length) console.warn('Hinweis: keine Whisper-Wörter – Untertitel-Timing wird nur geschätzt.');
 
 mkdirSync('out', {recursive: true});
 const name = basename(path, extname(path));
@@ -52,11 +55,13 @@ const propsFile = `out/.props-${name}.json`;
 writeFileSync(propsFile, JSON.stringify(story));
 
 const result = spawnSync('npx', [
-  'remotion', 'render', isQuiz ? (story.format === 'long' ? 'QuizLong' : 'Quiz') : 'WildlyTrue', out, `--props=${propsFile}`,
+  'remotion', 'render', isAtlas ? 'TrueSize' : isQuiz ? (story.format === 'long' ? 'QuizLong' : 'Quiz') : 'WildlyTrue', out, `--props=${propsFile}`,
   // Speicher sparen: weniger parallele Frames und kleiner Video-Cache (sonst "memory allocation failed")
   `--concurrency=${process.env.RENDER_CONCURRENCY || 2}`,
   '--offthreadvideo-cache-size-in-bytes=536870912',
   '--offthreadvideo-threads=2',
+  // optional: eigener Browser (z. B. in Umgebungen, in denen der mitgelieferte keine Schriften laden darf)
+  ...(process.env.BROWSER_EXECUTABLE ? [`--browser-executable=${process.env.BROWSER_EXECUTABLE}`] : []),
 ], {
   stdio: 'inherit',
   shell: process.platform === 'win32',

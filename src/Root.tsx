@@ -6,6 +6,8 @@ import beispiel from '../stories/beispiel.json';
 import {Quiz, type QuizStory} from './Quiz';
 import {QuizLong, QuizThumb} from './QuizLong';
 import quizDemo from '../stories/quiz-demo.json';
+import {TrueSize, type TrueSizeStory} from './TrueSize';
+import mapLie from '../stories/map-lie-1.json';
 
 export const FPS = 30;
 
@@ -49,6 +51,18 @@ export const RemotionRoot: React.FC = () => {
       })}
     />
     <Composition id="QuizThumb" component={QuizThumb} width={1280} height={720} fps={FPS} durationInFrames={1} defaultProps={quizDemo as QuizStory} />
+    <Composition
+      id="TrueSize"
+      component={TrueSize}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={Math.ceil((mapLie as unknown as TrueSizeStory).durationInSeconds * FPS)}
+      defaultProps={mapLie as unknown as TrueSizeStory}
+      calculateMetadata={({props}) => ({
+        durationInFrames: Math.ceil(props.durationInSeconds * FPS),
+      })}
+    />
     </>
   );
 };

@@ -30,6 +30,8 @@ def short_format(item_id, n):
         return "Ersatz-Generator (1 Frage)"
     if "one-q" in item_id:
         return "1-Frage-Ego-Hook"
+    if item_id.startswith("map-") or "-map-" in item_id:
+        return "Karten-VS (TrueSize)"
     if item_id.startswith("vs-") or "-vs-" in item_id:
         return "VS-Vergleich"
     if "tf-" in item_id or "true-false" in item_id:

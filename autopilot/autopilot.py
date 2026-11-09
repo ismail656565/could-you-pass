@@ -866,9 +866,20 @@ def produce_one(p):
     log(f'Produziere {name} ({fmt_of(item)})')
     try:
         story = item['story']
-        story['audio'] = f'audio/{name}.mp3'
-        build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
-        if story.get('layout') == 'stick':
+        if story.get('type') == 'truesize':
+            # Karten-Short "The map is lying" (Komposition TrueSize): eigene Stimme/Zeitplan, keine Fragenliste
+            import atlas_voice
+            story['id'] = name
+            sp = ROOT / 'stories' / f'{name}.json'
+            sp.write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf-8')
+            atlas_voice.main(sp, sys.modules[__name__])
+            story = item['story'] = json.loads(sp.read_text(encoding='utf-8'))
+        else:
+            story['audio'] = f'audio/{name}.mp3'
+            build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
+        if story.get('type') == 'truesize':
+            pass
+        elif story.get('layout') == 'stick':
             # 2D-Strichmännchen-Look: KI-Doodle-Clips von LTX statt echter B-Roll-Fotos
             try:
                 from ltx import fetch_ltx
