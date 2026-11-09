@@ -9,21 +9,21 @@
    "quiz blitz",
    "quiz for kids",
    "quizas si quizas no",
-   "quiz game for kids",
    "quiz show",
-   "quiz rainbow"
+   "quiz game for kids",
+   "quizas quizas quizas"
   ],
   "trivia": [
    "trivia",
    "trivia questions",
    "trivia games",
    "trivia for seniors",
-   "trivia for kids",
    "trivia quiz",
+   "trivia for kids",
    "trivia music",
    "trivial pursuit",
-   "trivia song",
-   "trivia movie"
+   "trivia movie",
+   "trivia song"
   ],
   "general knowledge quiz": [
    "general knowledge quiz",
@@ -106,8 +106,8 @@
    "guess the emoji",
    "guess the animal",
    "guess the food",
-   "guess the restaurant",
-   "guess the rapper"
+   "guess the kid",
+   "guess the restaurant"
   ],
   "can you pass": [
    "can you pass a driving test roblox",
@@ -387,6 +387,11 @@
    "hits": 2
   },
   {
+   "keyword": "general knowledge quiz gen z",
+   "score": 1.9,
+   "hits": 2
+  },
+  {
    "keyword": "animal quiz for kids",
    "score": 1.9,
    "hits": 2
@@ -453,11 +458,6 @@
   },
   {
    "keyword": "general knowledge quiz for adults",
-   "score": 1.8,
-   "hits": 2
-  },
-  {
-   "keyword": "general knowledge quiz gen z",
    "score": 1.8,
    "hits": 2
   },
@@ -707,7 +707,7 @@
    "hits": 2
   },
   {
-   "keyword": "trivia for kids",
+   "keyword": "trivia quiz",
    "score": 1.5,
    "hits": 2
   },
@@ -781,11 +781,11 @@
     ],
     [
      "trivia",
-     "42"
+     "43"
     ],
     [
      "trivia quiz",
-     "41"
+     "42"
     ],
     [
      "song quiz",
@@ -793,11 +793,11 @@
     ],
     [
      "kids quiz",
-     "25"
+     "26"
     ],
     [
      "hero quiz",
-     "24"
+     "25"
     ],
     [
      "quiz questions",
@@ -808,16 +808,16 @@
      "21"
     ],
     [
-     "math",
-     "20"
-    ],
-    [
      "math quiz",
      "20"
     ],
     [
+     "math",
+     "20"
+    ],
+    [
      "kpop quiz",
-     "19"
+     "20"
     ],
     [
      "general knowledge quiz",
@@ -839,7 +839,7 @@
    "rising": [
     [
      "kerala piravi quiz",
-     "+4,950%"
+     "+5,000%"
     ],
     [
      "halloween quiz",
@@ -851,11 +851,15 @@
     ],
     [
      "trivia quiz",
-     "+190%"
+     "+200%"
     ],
     [
      "quiz storm",
      "+50%"
+    ],
+    [
+     "héros quiz",
+     "+40%"
     ],
     [
      "quiz drapeau",
@@ -871,18 +875,18 @@
     ],
     [
      "quiz",
-     "93"
+     "94"
     ],
     [
      "trivia questions",
-     "20"
+     "21"
     ],
     [
      "trivia movie",
      "17"
     ],
     [
-     "trivia music",
+     "music trivia",
      "12"
     ],
     [
@@ -894,15 +898,15 @@
      "8"
     ],
     [
-     "trivia song",
+     "song trivia",
      "8"
     ],
     [
-     "kids trivia",
-     "7"
+     "trivia kids",
+     "8"
     ],
     [
-     "trivia halloween",
+     "halloween trivia",
      "7"
     ],
     [
@@ -910,11 +914,11 @@
      "6"
     ],
     [
-     "trivia games",
+     "trivia general knowledge",
      "5"
     ],
     [
-     "general knowledge trivia",
+     "trivia games",
      "5"
     ],
     [
@@ -922,7 +926,7 @@
      "4"
     ],
     [
-     "trivia disney",
+     "disney trivia",
      "4"
     ]
    ],
@@ -944,7 +948,7 @@
      "+200%"
     ],
     [
-     "trivia halloween",
+     "halloween trivia",
      "+200%"
     ],
     [
@@ -953,7 +957,7 @@
     ],
     [
      "trivia quiz",
-     "+150%"
+     "+140%"
     ],
     [
      "pop music trivia",
@@ -961,7 +965,7 @@
     ],
     [
      "quiz",
-     "+120%"
+     "+110%"
     ],
     [
      "trivia movie",
@@ -980,47 +984,51 @@
   "general knowledge quiz": {
    "top": [
     [
-     "general knowledge quiz game",
+     "general knowledge questions",
      "100"
     ],
     [
-     "general knowledge questions",
-     "34"
-    ],
-    [
      "hard general knowledge quiz",
-     "21"
+     "63"
     ],
     [
      "general knowledge quiz for kids",
-     "21"
+     "61"
     ],
     [
      "general knowledge trivia",
-     "20"
+     "57"
     ],
     [
      "music quiz",
-     "8"
+     "23"
     ],
     [
      "general knowledge quiz multiple choice",
-     "6"
+     "19"
     ],
     [
      "general knowledge quiz uk",
-     "4"
+     "12"
     ],
     [
      "islamic general knowledge quiz",
-     "4"
+     "10"
     ],
     [
      "british general knowledge quiz",
-     "1"
+     "3"
+    ],
+    [
+     "general knowledge quiz hard with answers",
+     "2"
     ]
    ],
    "rising": [
+    [
+     "general knowledge quiz hard with answers",
+     "Breakout"
+    ],
     [
      "british general knowledge quiz",
      "+100%"
@@ -1062,16 +1070,16 @@
      "14"
     ],
     [
-     "guess the quiz",
-     "12"
-    ],
-    [
      "quiz",
      "12"
     ],
     [
+     "guess the quiz",
+     "12"
+    ],
+    [
      "guess the songs",
-     "11"
+     "12"
     ],
     [
      "guess the animal",
@@ -1097,23 +1105,19 @@
     ],
     [
      "guess the animal challenge",
-     "+130%"
+     "+140%"
     ]
    ]
   },
   "which is bigger": {
    "top": [
     [
-     "which is bigger moon or earth",
+     "9.9 or 9.11 which is bigger",
      "100"
     ],
     [
-     "9.9 or 9.11 which is bigger",
-     "75"
-    ],
-    [
      "9.11 and 9.9 which is bigger",
-     "61"
+     "59"
     ]
    ],
    "rising": [

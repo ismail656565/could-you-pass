@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-09T06:25",
+ "fetched": "2026-11-09T08:38",
  "groups": {
   "short.format": {
    "6+ Fragen": {
@@ -688,7 +688,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 21.6,
+   "ageDays": 21.7,
    "search": null
   },
   {
@@ -707,7 +707,7 @@
    "avgPct": 61.12,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 21.6,
+   "ageDays": 21.7,
    "search": null
   },
   {
@@ -726,7 +726,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 20.5,
+   "ageDays": 20.6,
    "search": null
   },
   {
@@ -745,7 +745,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 20.5,
+   "ageDays": 20.6,
    "search": null
   },
   {
@@ -764,7 +764,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 20.8,
+   "ageDays": 20.9,
    "search": null
   },
   {
@@ -821,7 +821,7 @@
    "avgPct": 29.69,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 19.8,
+   "ageDays": 19.9,
    "search": null
   },
   {
@@ -840,7 +840,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 18.8,
+   "ageDays": 18.9,
    "search": null
   },
   {
@@ -878,7 +878,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 17.8,
+   "ageDays": 17.9,
    "search": null
   },
   {
@@ -897,7 +897,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 17.7,
+   "ageDays": 17.8,
    "search": null
   },
   {
@@ -916,7 +916,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 17.5,
+   "ageDays": 17.6,
    "search": null
   },
   {
@@ -935,7 +935,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 16.7,
+   "ageDays": 16.8,
    "search": null
   },
   {
@@ -954,7 +954,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 16.8,
+   "ageDays": 16.9,
    "search": null
   },
   {
@@ -973,7 +973,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 16.5,
+   "ageDays": 16.6,
    "search": null
   },
   {
@@ -992,7 +992,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 15.8,
+   "ageDays": 15.9,
    "search": null
   },
   {
@@ -1011,7 +1011,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 15.7,
+   "ageDays": 15.8,
    "search": null
   },
   {
@@ -1030,7 +1030,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 15.5,
+   "ageDays": 15.6,
    "search": null
   },
   {
@@ -1087,7 +1087,7 @@
    "avgPct": 54.63,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 14.7,
+   "ageDays": 14.8,
    "search": null
   },
   {
@@ -1125,7 +1125,7 @@
    "avgPct": 37.07,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 13.7,
+   "ageDays": 13.8,
    "search": null
   },
   {
@@ -1182,7 +1182,7 @@
    "avgPct": 0.0,
    "subs": 0.0,
    "durationSec": 628,
-   "ageDays": 9.7,
+   "ageDays": 9.8,
    "search": null
   },
   {
@@ -1239,7 +1239,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 278,
-   "ageDays": 8.7,
+   "ageDays": 8.8,
    "search": null
   },
   {
@@ -1334,7 +1334,7 @@
    "avgPct": 99.76,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 7.7,
+   "ageDays": 7.8,
    "search": null
   },
   {
@@ -1372,7 +1372,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 381,
-   "ageDays": 6.7,
+   "ageDays": 6.8,
    "search": null
   },
   {
@@ -1410,7 +1410,7 @@
    "avgPct": 53.53,
    "subs": 0.0,
    "durationSec": 649,
-   "ageDays": 5.7,
+   "ageDays": 5.8,
    "search": null
   },
   {
@@ -1467,8 +1467,8 @@
    "avgPct": 6.6000000000000005,
    "subs": 0.0,
    "durationSec": 388,
-   "ageDays": 4.7,
-   "search": 1
+   "ageDays": 4.8,
+   "search": null
   },
   {
    "file": "2026-11-04-six-q-quick-geo.json",
@@ -1487,7 +1487,7 @@
    "subs": 2.0,
    "durationSec": 51,
    "ageDays": 4.7,
-   "search": 28
+   "search": null
   },
   {
    "file": "2026-11-04-vs-population-1.json",
@@ -1506,7 +1506,7 @@
    "subs": 1.0,
    "durationSec": 41,
    "ageDays": 4.5,
-   "search": 26
+   "search": null
   },
   {
    "file": "2026-11-05-emoji-word-50-1.json",
@@ -1524,7 +1524,7 @@
    "avgPct": 2.23,
    "subs": 0.0,
    "durationSec": 646,
-   "ageDays": 3.7,
+   "ageDays": 3.8,
    "search": 1
   },
   {
@@ -1581,7 +1581,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 683,
-   "ageDays": 2.5,
+   "ageDays": 2.6,
    "search": null
   },
   {
@@ -1638,7 +1638,7 @@
    "avgPct": 3.5000000000000004,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 12.4,
+   "ageDays": 12.5,
    "search": null
   },
   {
@@ -1657,7 +1657,7 @@
    "avgPct": 116.53999999999999,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 12.4,
+   "ageDays": 12.5,
    "search": null
   },
   {
@@ -1676,7 +1676,7 @@
    "avgPct": 103.39,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 12.4,
+   "ageDays": 12.5,
    "search": null
   },
   {
@@ -1714,7 +1714,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 10.5,
+   "ageDays": 10.6,
    "search": null
   },
   {
@@ -1733,7 +1733,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 10.5,
+   "ageDays": 10.6,
    "search": null
   },
   {
