@@ -1,0 +1,141 @@
+{
+ "id": "map-lie-1",
+ "type": "truesize",
+ "title": "This Map Is Lying To You",
+ "kicker": "MAP TEST",
+ "hookText": [
+  "THIS MAP",
+  "IS LYING",
+  "TO YOU"
+ ],
+ "hookLine": "This map is lying to you. Which is really bigger?",
+ "question": "Which is really bigger?",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "a": {
+    "shape": "greenland",
+    "name": "Greenland",
+    "km2": 2166086
+   },
+   "b": {
+    "shape": "australia",
+    "name": "Australia",
+    "km2": 7692024
+   },
+   "mover": "a",
+   "verdict": "3.5× bigger",
+   "lines": {
+    "q": "Greenland, or Australia?",
+    "a": "Australia! More than three times the size."
+   },
+   "start": 2.89,
+   "qAudio": "audio/map-lie-1/q1.mp3",
+   "aAudio": "audio/map-lie-1/a1.mp3",
+   "thinkStart": 4.48,
+   "reveal": 6.88,
+   "moveEnd": 8.38,
+   "aStart": 7.43,
+   "end": 10.53,
+   "winner": "b"
+  },
+  {
+   "level": "MEDIUM",
+   "a": {
+    "shape": "africa",
+    "name": "Africa",
+    "km2": 30370000
+   },
+   "b": {
+    "shape": "russia",
+    "name": "Russia",
+    "km2": 17098246
+   },
+   "mover": "b",
+   "verdict": "1.8× bigger",
+   "lines": {
+    "q": "All of Africa, or Russia?",
+    "a": "Africa! Nearly twice as big as Russia."
+   },
+   "start": 10.53,
+   "qAudio": "audio/map-lie-1/q2.mp3",
+   "aAudio": "audio/map-lie-1/a2.mp3",
+   "thinkStart": 12.15,
+   "reveal": 14.55,
+   "moveEnd": 16.05,
+   "aStart": 15.1,
+   "end": 18.2,
+   "winner": "a"
+  },
+  {
+   "level": "HARD",
+   "a": {
+    "shape": "madagascar",
+    "name": "Madagascar",
+    "km2": 587041
+   },
+   "b": {
+    "shape": "sweden",
+    "name": "Sweden",
+    "km2": 450295
+   },
+   "mover": "b",
+   "verdict": "30% bigger",
+   "lines": {
+    "q": "Madagascar, or Sweden?",
+    "a": "Madagascar! About a third bigger."
+   },
+   "start": 18.2,
+   "qAudio": "audio/map-lie-1/q3.mp3",
+   "aAudio": "audio/map-lie-1/a3.mp3",
+   "thinkStart": 19.82,
+   "reveal": 22.22,
+   "moveEnd": 23.72,
+   "aStart": 22.77,
+   "end": 25.87,
+   "winner": "a"
+  },
+  {
+   "level": "LEGEND",
+   "a": {
+    "shape": "greenland",
+    "name": "Greenland",
+    "km2": 2166086
+   },
+   "b": {
+    "shape": "congo",
+    "name": "DR Congo",
+    "km2": 2344858
+   },
+   "mover": "a",
+   "verdict": "8% bigger",
+   "lines": {
+    "q": "Last one. Greenland, or the Congo?",
+    "a": "The Congo! Flat maps stretch everything near the poles. So, how many did you get?"
+   },
+   "start": 25.87,
+   "qAudio": "audio/map-lie-1/q4.mp3",
+   "aAudio": "audio/map-lie-1/a4.mp3",
+   "thinkStart": 27.96,
+   "reveal": 30.36,
+   "moveEnd": 31.86,
+   "aStart": 30.91,
+   "end": 37.26,
+   "winner": "b"
+  }
+ ],
+ "sources": [
+  "Areas: CIA World Factbook / UN Statistics Division (Greenland 2,166,086 km²; Australia 7,692,024; Russia 17,098,246; Africa ≈30.37 million; Sweden 450,295; Madagascar 587,041; DR Congo 2,344,858)",
+  "Outlines: Natural Earth (public domain)"
+ ],
+ "hook": {
+  "audio": "audio/map-lie-1/hook.mp3",
+  "start": 0.0,
+  "end": 2.89
+ },
+ "durationInSeconds": 37.26
+}
