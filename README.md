@@ -1,6 +1,6 @@
 # COULD YOU PASS? – Quiz-Shorts
 
-Remotion-Vorlagen (Layouts `comic`, `neon`, `tvshow` und `stick` = 2D-Strichmännchen-Moderator) + Autopilot.
+Remotion-Vorlagen (Layouts `comic`, `neon`, `tvshow`, `stick` = 2D-Strichmännchen und `atlas` = Druck-/Atlas-Look, Standard für Shorts; dazu das Karten-Short `TrueSize`) + Autopilot.
 
 ## Ablauf (vollautomatisch)
 1. **09:45 (Claude):** wertet `autopilot/analytics/report.json` aus, schreibt Erkenntnisse in `autopilot/analytics/learnings.md` und legt ein neues Quiz als JSON in `autopilot/queue/`.
