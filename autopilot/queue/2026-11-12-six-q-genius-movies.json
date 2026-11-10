@@ -1,0 +1,140 @@
+{
+ "id": "six-q-genius-movies",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Movie Quiz #shorts",
+  "description": "6 movie trivia questions, easy to hard 🎬 Did #4 trick you? 👠\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#moviequiz #movietrivia #quiz #trivia #onlygeniuses #shorts\n\nMusic: original.",
+  "tags": [
+   "movie quiz",
+   "movie trivia",
+   "film quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "trivia quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did Dorothy's slippers get you? 👠 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "atlas",
+  "title": "Movie Quiz",
+  "header": "MOVIE QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which film stars a race car named **Lightning McQueen**?",
+    "answers": [
+     "Turbo",
+     "Cars",
+     "Planes",
+     "Speed Racer"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "broll": "race track"
+   },
+   {
+    "q": "Which superhero is called **The Dark Knight**?",
+    "answers": [
+     "Superman",
+     "Iron Man",
+     "Batman",
+     "Black Panther"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "broll": "city skyline at night"
+   },
+   {
+    "q": "In Jurassic Park, where was the dinosaur **DNA** found?",
+    "answers": [
+     "A frozen egg",
+     "A fossil bone",
+     "A dino tooth",
+     "A mosquito in amber"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "broll": "fossil museum"
+   },
+   {
+    "q": "What colour are Dorothy's **slippers** in the 1939 film?",
+    "answers": [
+     "Red",
+     "Silver",
+     "Gold",
+     "Blue"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "broll": "old film projector"
+   },
+   {
+    "q": "Which film won the first Oscar for Best **Animated** Feature?",
+    "answers": [
+     "Toy Story",
+     "Shrek",
+     "Monsters, Inc.",
+     "Spirited Away"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "broll": "cinema seats"
+   },
+   {
+    "q": "How many **Oscars** did Titanic win?",
+    "answers": [
+     "Seven",
+     "Nine",
+     "Eleven",
+     "Fourteen"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "broll": "golden statue"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which film stars a race car named Lightning McQueen?",
+   "a": "Cars! Ka-chow, two thousand and six."
+  },
+  {
+   "q": "Which superhero is called The Dark Knight?",
+   "a": "Batman! Gotham's very own night shift."
+  },
+  {
+   "q": "In Jurassic Park, where was the dinosaur DNA found?",
+   "a": "In a mosquito trapped in amber! Clever, right?"
+  },
+  {
+   "q": "What colour are Dorothy's slippers in the nineteen thirty nine film?",
+   "a": "Ruby red! In the book they were silver, but red popped in Technicolor."
+  },
+  {
+   "q": "Which film won the first Oscar for Best Animated Feature?",
+   "a": "Shrek! It beat Monsters Inc back in two thousand and two."
+  },
+  {
+   "q": "Last one. How many Oscars did Titanic win?",
+   "a": "Eleven! Tied for the all-time record. Six out of six? Follow if you got it!"
+  }
+ ]
+}

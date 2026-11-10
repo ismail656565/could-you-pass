@@ -504,3 +504,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Weltraum floppt in allen Formaten: 6-Q Space 162 n. ~21 h, VS Planets 79 n. ~16 h, Solar-Long 3 → Weltraum aus der Rotation.
 - E11 stick nach 2 Videos durch atlas (E12) abgelöst, ohne Daten. E8 geht in E13 (Longs 2.0) auf: Capitals-30 12, Solar-30 3.
 - 12.11.: vs-older auf 16:00, neues 6-Q "Movie Quiz" 21:00 als Paar zum Movie-Emoji-Long (Themen-Experiment Filme, Quibby 389k / Quiz Bunny 693k). Nächste Suchspitzen: GTA VI 19.11., Hunger Games 20.11.
+
+## 2026-11-10 (Produktions-Agent, Queue 12.11.)
+- Technik: Alle Läufe 09.11. grün (8/8 im Verlauf), Soll 09.11. erfüllt (flag-quiz-30-1 14:00, six-q-genius-berlin-wall 16:00, vs-heavier-1 21:00; Kommentare 13:17/16:22/21:12 mit Long-Link). Einziger QA-Hinweis: Flag-Long Standbild 8,8 s (Long, unkritisch). Kein Code-Fix nötig.
+- Queue: 10.11. komplett (map-true-size-20-1 Long, six-q-genius-tricky 16:00, map-lie-1 21:00), 11.11. komplett (2 Shorts, kein Long-Tag). 12.11.: vs-older-1 auf publishAt 16:00 umgestellt, neu six-q-genius-movies 21:00 (atlas, gepaart mit movie-emoji-30-1). Keine auto-*-Fallbacks in queue/.
+- Shorts (report.json Stand 09.11. 11:55, 17 Abos): Geo führt – VS More People 1.037, 6-Q Capitals 891; Weltraum 162 / 79. Shorts-Median ~466. Leader: VS (21:00) und leichte Geo-6-Q.
+- Longs: Capitals-30 12, Solar-30 3, Flag-30 noch privat beim Snapshot → E13 (Karten-/Emoji-Longs ab heute) ist der nächste echte Test.
+- Thumbnails: CTR weiter nicht messbar (HttpError 400); keine neuen Long-Thumbnails angelegt (Movie-Long liegt mit A/B/C bereit).
+- Duplikate vermieden: Movie-6-Q ohne Filme aus movie-emoji-30-1; Titanic nur als Oscar-Anzahl (Sinkjahr/-dauer/Bauort schon benutzt), "erster Best-Picture-Oscar" schon benutzt → Best Animated Feature (Shrek).
