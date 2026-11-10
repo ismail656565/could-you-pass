@@ -498,3 +498,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 5. **Experiment E13:** Longs 2.0. Erfolg = Median der ersten 4 Longs ab 10.11. ≥ 30 Views nach 3 Tagen (vorher Median ~2) und mindestens eines ≥ 100. Verdict 21.11. Verfehlt → Longs auf 1×/Woche (nur Karten-/Emoji-Format) und Kapazität in Shorts.
 6. **Plan:** Di 10.11. map-true-size-20-1 (Karten-Long, gepaart mit Short map-lie-1 21:00) · Do 12.11. movie-emoji-30-1 · Sa 14.11. country-emoji-30-1 · danach Sa = Karten-Long Folge 2 (z. B. US-Staaten gegen Länder: Texas/Alaska/California – California fehlt noch in den Formen).
 - Probelauf 09.11. (echte Pipeline ohne Upload): map-true-size-20-1 gerendert in 28 min (2 Kerne), 3:40 min, Kapitel + Vorschaubild ok. QA meldet "Standbild 11,6 s" = Abspann-Standzeit für Endkarten (gewollt).
+
+## 2026-11-10 – Research
+- Geo bleibt König: VS More People 1.037 (2,2 T), 6-Q Capitals 891 (2,2 T) vs. Shorts-Median 466.
+- Weltraum floppt in allen Formaten: 6-Q Space 162 n. ~21 h, VS Planets 79 n. ~16 h, Solar-Long 3 → Weltraum aus der Rotation.
+- E11 stick nach 2 Videos durch atlas (E12) abgelöst, ohne Daten. E8 geht in E13 (Longs 2.0) auf: Capitals-30 12, Solar-30 3.
+- 12.11.: vs-older auf 16:00, neues 6-Q "Movie Quiz" 21:00 als Paar zum Movie-Emoji-Long (Themen-Experiment Filme, Quibby 389k / Quiz Bunny 693k). Nächste Suchspitzen: GTA VI 19.11., Hunger Games 20.11.
