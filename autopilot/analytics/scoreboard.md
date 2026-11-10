@@ -91,7 +91,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 1 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (22 Videos)
+## Lange Videos (23 Videos)
 
 ### Lange Videos nach Format
 
@@ -100,7 +100,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 0 Fragen | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 48.9 | 26.2 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
-| 30 Fragen | 1 | 16 | 16 | 16 | 85.7 | 18.9 | 0 |
+| 30 Fragen | 2 | 10 | 10 | 16 | 85.7 | 18.9 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 11 | 4 | 2 | 14 | 66.8 | 55.1 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 50.0 | 6.6 | 0 |
@@ -117,10 +117,10 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 22 | 6 | 60 | 67.4 | 61.4 | 0 |
 | Jahrzehnt | 1 | 4 | 4 | 4 | 50.0 | 100.0 | 0 |
+| Sonstiges | 5 | 5 | 3 | 16 | 67.8 | 12.7 | 0 |
 | Geografie | 1 | 3 | 3 | 3 | 66.7 | 53.5 | 0 |
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
-| Sonstiges | 4 | 5 | 2 | 16 | 67.8 | 12.7 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | 100.0 | 99.8 | 0 |
 
 ### Lange Videos nach Layout
@@ -129,7 +129,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.5 | 52.5 | 1.0 |
-| tvshow | 13 | 5 | 2 | 16 | 65.3 | 37.6 | 0 |
+| tvshow | 14 | 5 | 2 | 16 | 65.3 | 37.6 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -138,14 +138,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | game-show.wav | 8 | 30 | 6 | 186 | 74.0 | 40.4 | 1.0 |
 | world-trip.wav | 7 | 8 | 4 | 16 | 56.1 | 52.1 | 0 |
-| brain-pulse.wav | 6 | 19 | 2 | 60 | 64.1 | 40.1 | 0 |
+| brain-pulse.wav | 7 | 17 | 3 | 60 | 64.1 | 40.1 | 0 |
 
 ### Lange Videos nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 18 | 12 | 4 | 60 | 67.4 | 44.5 | 1.0 |
+| 14:00 | 19 | 11 | 4 | 60 | 67.4 | 44.5 | 1.0 |
 | 19:00 | 1 | 2 | 2 | 2 | – | – | 0 |
 
 ### Top 8 Lange Videos
