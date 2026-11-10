@@ -2,14 +2,14 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (40 Videos)
+## Shorts (41 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 9 | 735 | 994 | 1434 | 54.2 | 49.8 | 3.0 |
-| VS-Vergleich | 5 | 828 | 876 | 1188 | 55.5 | 64.7 | 4.0 |
+| VS-Vergleich | 6 | 712 | 716 | 1188 | 55.5 | 64.7 | 4.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1207 | 38.2 | 145.1 | 0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
@@ -27,11 +27,11 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHICH HAS MORE PEOPLE? | 1 | 1072 | 1072 | 1072 | 52.9 | 75.4 | 1.0 |
 | CAPITAL CITIES | 1 | 1019 | 1019 | 1019 | 58.4 | 51.3 | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 994 | 994 | 994 | 49.1 | 45.5 | 2.0 |
-| WHICH IS BIGGER? | 1 | 876 | 876 | 876 | 56.2 | 67.3 | 1.0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 716 | 716 | 716 | 37.4 | 114.3 | 0 |
 | WHICH CAME FIRST? | 2 | 697 | 697 | 1235 | 62.5 | 47.5 | 0 |
 | WHICH IS FASTER? | 1 | 557 | 557 | 557 | 49.7 | 66.2 | 0 |
+| WHICH IS BIGGER? | 2 | 502 | 502 | 876 | 56.2 | 67.3 | 1.0 |
 | GENERAL KNOWLEDGE | 4 | 573 | 469 | 1161 | 36.7 | 155.5 | 0 |
 | QUICK QUIZ | 2 | 454 | 454 | 482 | 41.9 | 89.6 | 1.0 |
 | WHICH IS TALLER? | 1 | 449 | 449 | 449 | 57.1 | 53.8 | 0 |
@@ -52,7 +52,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 27 | 568 | 449 | 1219 | 52.2 | 69.2 | 10.0 |
+| tvshow | 28 | 553 | 438 | 1219 | 52.2 | 69.2 | 10.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.1 | 111.5 | 0 |
 
 ### Shorts nach Musik
@@ -60,7 +60,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 13 | 689 | 622 | 1219 | 49.0 | 79.2 | 4.0 |
-| world-trip.wav | 8 | 513 | 503 | 1188 | 57.4 | 64.6 | 4.0 |
+| world-trip.wav | 9 | 470 | 449 | 1188 | 57.4 | 64.6 | 4.0 |
 | brain-pulse.wav | 19 | 476 | 316 | 1434 | 46.7 | 92.8 | 2.0 |
 
 ### Shorts nach Sendezeit
@@ -70,7 +70,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
 | 16:00 | 17 | 537 | 427 | 1219 | 47.3 | 82.9 | 5.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
-| 21:00 | 17 | 528 | 327 | 1188 | 54.8 | 66.9 | 5.0 |
+| 21:00 | 18 | 505 | 319 | 1188 | 54.8 | 66.9 | 5.0 |
 
 ### Top 8 Shorts
 
@@ -85,9 +85,9 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Shorts
 
-- 147 Views · 6+ Fragen · Vocabulary Quiz – Can You Get 6/6? 📚 #shorts
 - 143 Views · Wahr/Falsch · True or False? 4 Facts 90% Get Wrong ✅❌ #shorts
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
+- 127 Views · VS-Vergleich · Which Is Bigger? Planets & Moons – 90% Get #2 Wrong 🪐 #shorts
 - 1 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
