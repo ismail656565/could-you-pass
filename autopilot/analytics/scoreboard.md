@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-10T06:24 (18 Abos)
+# Scoreboard – Stand 2026-11-10T08:24 (18 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -8,7 +8,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 6+ Fragen | 8 | 798 | 1004 | 1434 | 54.2 | 49.8 | 3.0 |
+| 6+ Fragen | 8 | 798 | 1006 | 1434 | 54.2 | 49.8 | 3.0 |
 | VS-Vergleich | 5 | 828 | 876 | 1188 | 55.5 | 64.7 | 4.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1207 | 38.2 | 145.1 | 0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.4 | 2.0 |
@@ -24,8 +24,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | TRIVIA CHALLENGE | 1 | 1219 | 1219 | 1219 | 53.5 | 51.3 | 1.0 |
 | BRAIN QUIZ | 1 | 1207 | 1207 | 1207 | 44.1 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1188 | 1188 | 1188 | 61.4 | 60.6 | 2.0 |
-| WHICH HAS MORE PEOPLE? | 1 | 1071 | 1071 | 1071 | 52.9 | 75.4 | 1.0 |
-| CAPITAL CITIES | 1 | 1015 | 1015 | 1015 | 58.4 | 51.3 | 0 |
+| WHICH HAS MORE PEOPLE? | 1 | 1072 | 1072 | 1072 | 52.9 | 75.4 | 1.0 |
+| CAPITAL CITIES | 1 | 1017 | 1017 | 1017 | 58.4 | 51.3 | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 994 | 994 | 994 | 49.1 | 45.5 | 2.0 |
 | WHICH IS BIGGER? | 1 | 876 | 876 | 876 | 56.2 | 67.3 | 1.0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
@@ -59,7 +59,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 12 | 727 | 808 | 1219 | 49.0 | 79.2 | 4.0 |
+| game-show.wav | 12 | 728 | 808 | 1219 | 49.0 | 79.2 | 4.0 |
 | world-trip.wav | 8 | 513 | 503 | 1188 | 57.4 | 64.6 | 4.0 |
 | brain-pulse.wav | 19 | 476 | 316 | 1434 | 46.7 | 92.8 | 2.0 |
 
@@ -81,7 +81,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 1188 Views · stayed 0.614 · VS-Vergleich · tvshow · world-trip.wav · Which Has More People? 4 Rounds 90% Get Wrong 👥 #shorts
 - 1161 Views · stayed 0.382 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
 - 1082 Views · stayed 0.487 · 4-Fragen-Trap · tvshow · brain-pulse.wav · 4 History Questions Almost Everyone Gets Wrong 🦖 #shorts
-- 1071 Views · stayed 0.529 · VS-Vergleich · tvshow · brain-pulse.wav · Which Country Has More People? 4 Rounds 90% Fail 👥 #shorts
+- 1072 Views · stayed 0.529 · VS-Vergleich · tvshow · brain-pulse.wav · Which Country Has More People? 4 Rounds 90% Fail 👥 #shorts
 
 ### Flop 5 Shorts
 

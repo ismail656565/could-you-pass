@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-10T06:24",
+ "fetched": "2026-11-10T08:24",
  "groups": {
   "short.format": {
    "6+ Fragen": {
     "n": 8,
     "avgViews": 798,
-    "medianViews": 1004,
+    "medianViews": 1006,
     "bestViews": 1434,
     "stayed": 54.2,
     "avgPct": 49.8,
@@ -276,18 +276,18 @@
    },
    "CAPITAL CITIES": {
     "n": 1,
-    "avgViews": 1015,
-    "medianViews": 1015,
-    "bestViews": 1015,
+    "avgViews": 1017,
+    "medianViews": 1017,
+    "bestViews": 1017,
     "stayed": 58.4,
     "avgPct": 51.3,
     "subs": 0
    },
    "WHICH HAS MORE PEOPLE?": {
     "n": 1,
-    "avgViews": 1071,
-    "medianViews": 1071,
-    "bestViews": 1071,
+    "avgViews": 1072,
+    "medianViews": 1072,
+    "bestViews": 1072,
     "stayed": 52.9,
     "avgPct": 75.4,
     "subs": 1.0
@@ -343,7 +343,7 @@
    },
    "game-show.wav": {
     "n": 12,
-    "avgViews": 727,
+    "avgViews": 728,
     "medianViews": 808,
     "bestViews": 1219,
     "stayed": 49.0,
@@ -715,7 +715,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 22.6,
+   "ageDays": 22.7,
    "search": null
   },
   {
@@ -753,7 +753,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 21.5,
+   "ageDays": 21.6,
    "search": null
   },
   {
@@ -772,7 +772,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 21.5,
+   "ageDays": 21.6,
    "search": null
   },
   {
@@ -791,7 +791,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 21.8,
+   "ageDays": 21.9,
    "search": null
   },
   {
@@ -848,7 +848,7 @@
    "avgPct": 29.69,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 20.8,
+   "ageDays": 20.9,
    "search": null
   },
   {
@@ -867,7 +867,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 19.8,
+   "ageDays": 19.9,
    "search": null
   },
   {
@@ -905,7 +905,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 18.8,
+   "ageDays": 18.9,
    "search": null
   },
   {
@@ -924,7 +924,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 18.7,
+   "ageDays": 18.8,
    "search": null
   },
   {
@@ -943,7 +943,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 18.5,
+   "ageDays": 18.6,
    "search": null
   },
   {
@@ -962,7 +962,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 17.7,
+   "ageDays": 17.8,
    "search": null
   },
   {
@@ -1000,7 +1000,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 17.5,
+   "ageDays": 17.6,
    "search": null
   },
   {
@@ -1038,7 +1038,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 16.7,
+   "ageDays": 16.8,
    "search": null
   },
   {
@@ -1057,7 +1057,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 16.5,
+   "ageDays": 16.6,
    "search": null
   },
   {
@@ -1552,7 +1552,7 @@
    "subs": 0.0,
    "durationSec": 646,
    "ageDays": 4.8,
-   "search": 1
+   "search": null
   },
   {
    "file": "2026-11-05-six-q-vocabulary-1.json",
@@ -1571,7 +1571,7 @@
    "subs": 0.0,
    "durationSec": 52,
    "ageDays": 4.7,
-   "search": 1
+   "search": null
   },
   {
    "file": "2026-11-05-trap-4-gunpowder.json",
@@ -1679,7 +1679,7 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1015.0,
+   "publicViews": 1017.0,
    "engagedShare": 0.584,
    "avgPct": 51.300000000000004,
    "subs": 0.0,
@@ -1698,7 +1698,7 @@
    "layout": "tvshow",
    "music": "brain-pulse.wav",
    "slot": "21:00",
-   "publicViews": 1071.0,
+   "publicViews": 1072.0,
    "engagedShare": 0.529,
    "avgPct": 75.4,
    "subs": 1.0,
@@ -1798,7 +1798,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 11.5,
+   "ageDays": 11.6,
    "search": null
   },
   {
