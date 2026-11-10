@@ -69,7 +69,15 @@
     "lines": {
      "q": "Round one, easy. Greenland, or Australia?",
      "a": "Australia! It's more than three times the size of Greenland."
-    }
+    },
+    "start": 4.06,
+    "qAudio": "audio/map-true-size-20-1/q1.mp3",
+    "aAudio": "audio/map-true-size-20-1/a1.mp3",
+    "thinkStart": 6.73,
+    "reveal": 10.13,
+    "moveEnd": 11.83,
+    "aStart": 10.68,
+    "end": 14.73
    },
    {
     "level": "EASY",
@@ -89,7 +97,15 @@
     "lines": {
      "q": "Russia, or China?",
      "a": "Russia! Almost twice the size of China. So the map exaggerates, but it isn't wrong."
-    }
+    },
+    "start": 14.73,
+    "qAudio": "audio/map-true-size-20-1/q2.mp3",
+    "aAudio": "audio/map-true-size-20-1/a2.mp3",
+    "thinkStart": 15.99,
+    "reveal": 19.39,
+    "moveEnd": 21.09,
+    "aStart": 19.94,
+    "end": 25.55
    },
    {
     "level": "EASY",
@@ -109,7 +125,15 @@
     "lines": {
      "q": "Alaska, or Texas?",
      "a": "Alaska! You could fit Texas inside it twice, with room to spare."
-    }
+    },
+    "start": 25.55,
+    "qAudio": "audio/map-true-size-20-1/q3.mp3",
+    "aAudio": "audio/map-true-size-20-1/a3.mp3",
+    "thinkStart": 26.93,
+    "reveal": 30.33,
+    "moveEnd": 32.03,
+    "aStart": 30.88,
+    "end": 35.22
    },
    {
     "level": "EASY",
@@ -129,7 +153,15 @@
     "lines": {
      "q": "The United Kingdom, or the Philippines?",
      "a": "The Philippines! More than seven thousand islands, and more land than the U K."
-    }
+    },
+    "start": 35.22,
+    "qAudio": "audio/map-true-size-20-1/q4.mp3",
+    "aAudio": "audio/map-true-size-20-1/a4.mp3",
+    "thinkStart": 37.33,
+    "reveal": 40.73,
+    "moveEnd": 42.43,
+    "aStart": 41.28,
+    "end": 46.18
    },
    {
     "level": "EASY",
@@ -149,7 +181,15 @@
     "lines": {
      "q": "Canada, or Brazil?",
      "a": "Canada! But only by about a sixth. On the map it looks three times bigger."
-    }
+    },
+    "start": 46.18,
+    "qAudio": "audio/map-true-size-20-1/q5.mp3",
+    "aAudio": "audio/map-true-size-20-1/a5.mp3",
+    "thinkStart": 47.54,
+    "reveal": 50.94,
+    "moveEnd": 52.64,
+    "aStart": 51.49,
+    "end": 56.43
    },
    {
     "level": "MEDIUM",
@@ -169,7 +209,15 @@
     "lines": {
      "q": "Round two, medium. Iceland, or Cuba?",
      "a": "Cuba! Just slightly bigger than Iceland."
-    }
+    },
+    "start": 56.43,
+    "qAudio": "audio/map-true-size-20-1/q6.mp3",
+    "aAudio": "audio/map-true-size-20-1/a6.mp3",
+    "thinkStart": 58.73,
+    "reveal": 62.13,
+    "moveEnd": 63.83,
+    "aStart": 62.68,
+    "end": 66.43
    },
    {
     "level": "MEDIUM",
@@ -189,7 +237,15 @@
     "lines": {
      "q": "Sweden, or Spain?",
      "a": "Spain! Sweden gets stretched because it sits so far north."
-    }
+    },
+    "start": 66.43,
+    "qAudio": "audio/map-true-size-20-1/q7.mp3",
+    "aAudio": "audio/map-true-size-20-1/a7.mp3",
+    "thinkStart": 67.79,
+    "reveal": 71.19,
+    "moveEnd": 72.89,
+    "aStart": 71.74,
+    "end": 75.64
    },
    {
     "level": "MEDIUM",
@@ -209,7 +265,15 @@
     "lines": {
      "q": "Finland, or Italy?",
      "a": "Finland! This time the northern country really is bigger."
-    }
+    },
+    "start": 75.64,
+    "qAudio": "audio/map-true-size-20-1/q8.mp3",
+    "aAudio": "audio/map-true-size-20-1/a8.mp3",
+    "thinkStart": 76.96,
+    "reveal": 80.36,
+    "moveEnd": 82.06,
+    "aStart": 80.91,
+    "end": 84.68
    },
    {
     "level": "MEDIUM",
@@ -229,7 +293,15 @@
     "lines": {
      "q": "Russia, or all of Africa?",
      "a": "Africa! Nearly twice as big as Russia. How's your score so far?"
-    }
+    },
+    "start": 84.68,
+    "qAudio": "audio/map-true-size-20-1/q9.mp3",
+    "aAudio": "audio/map-true-size-20-1/a9.mp3",
+    "thinkStart": 86.3,
+    "reveal": 89.7,
+    "moveEnd": 91.4,
+    "aStart": 90.25,
+    "end": 94.7
    },
    {
     "level": "MEDIUM",
@@ -249,7 +321,15 @@
     "lines": {
      "q": "Alaska, or Mexico?",
      "a": "Mexico! Alaska looks enormous, but Mexico is bigger. If you're enjoying this, subscribe for a new quiz every day."
-    }
+    },
+    "start": 94.7,
+    "qAudio": "audio/map-true-size-20-1/q10.mp3",
+    "aAudio": "audio/map-true-size-20-1/a10.mp3",
+    "thinkStart": 96.11,
+    "reveal": 99.51,
+    "moveEnd": 101.21,
+    "aStart": 100.06,
+    "end": 107.32
    },
    {
     "level": "HARD",
@@ -269,7 +349,15 @@
     "lines": {
      "q": "Round three, hard. Greenland, or India?",
      "a": "India! One and a half times the size of Greenland."
-    }
+    },
+    "start": 107.32,
+    "qAudio": "audio/map-true-size-20-1/q11.mp3",
+    "aAudio": "audio/map-true-size-20-1/a11.mp3",
+    "thinkStart": 109.44,
+    "reveal": 112.84,
+    "moveEnd": 114.54,
+    "aStart": 113.39,
+    "end": 117.14
    },
    {
     "level": "HARD",
@@ -289,7 +377,15 @@
     "lines": {
      "q": "France, or Madagascar?",
      "a": "Madagascar! The island is bigger than mainland France."
-    }
+    },
+    "start": 117.14,
+    "qAudio": "audio/map-true-size-20-1/q12.mp3",
+    "aAudio": "audio/map-true-size-20-1/a12.mp3",
+    "thinkStart": 118.6,
+    "reveal": 122.0,
+    "moveEnd": 123.7,
+    "aStart": 122.55,
+    "end": 126.52
    },
    {
     "level": "HARD",
@@ -309,7 +405,15 @@
     "lines": {
      "q": "The United Kingdom, or New Zealand?",
      "a": "New Zealand! Bigger than the whole U K."
-    }
+    },
+    "start": 126.52,
+    "qAudio": "audio/map-true-size-20-1/q13.mp3",
+    "aAudio": "audio/map-true-size-20-1/a13.mp3",
+    "thinkStart": 128.52,
+    "reveal": 131.92,
+    "moveEnd": 133.62,
+    "aStart": 132.47,
+    "end": 136.22
    },
    {
     "level": "HARD",
@@ -329,7 +433,15 @@
     "lines": {
      "q": "Texas, or Ukraine?",
      "a": "Texas! Bigger than the largest country that lies entirely in Europe."
-    }
+    },
+    "start": 136.22,
+    "qAudio": "audio/map-true-size-20-1/q14.mp3",
+    "aAudio": "audio/map-true-size-20-1/a14.mp3",
+    "thinkStart": 137.58,
+    "reveal": 140.98,
+    "moveEnd": 142.68,
+    "aStart": 141.53,
+    "end": 146.08
    },
    {
     "level": "HARD",
@@ -349,7 +461,15 @@
     "lines": {
      "q": "Germany, or Japan?",
      "a": "Japan! Most people guess Germany, but Japan is a little bigger."
-    }
+    },
+    "start": 146.08,
+    "qAudio": "audio/map-true-size-20-1/q15.mp3",
+    "aAudio": "audio/map-true-size-20-1/a15.mp3",
+    "thinkStart": 147.44,
+    "reveal": 150.84,
+    "moveEnd": 152.54,
+    "aStart": 151.39,
+    "end": 155.62
    },
    {
     "level": "LEGEND",
@@ -369,7 +489,15 @@
     "lines": {
      "q": "Final round, legend. Kazakhstan, or Algeria?",
      "a": "Kazakhstan! The largest landlocked country on Earth."
-    }
+    },
+    "start": 155.62,
+    "qAudio": "audio/map-true-size-20-1/q16.mp3",
+    "aAudio": "audio/map-true-size-20-1/a16.mp3",
+    "thinkStart": 158.71,
+    "reveal": 162.11,
+    "moveEnd": 163.81,
+    "aStart": 162.66,
+    "end": 166.46
    },
    {
     "level": "LEGEND",
@@ -389,7 +517,15 @@
     "lines": {
      "q": "Mongolia, or Iran?",
      "a": "Iran! Just a little bigger than Mongolia."
-    }
+    },
+    "start": 166.46,
+    "qAudio": "audio/map-true-size-20-1/q17.mp3",
+    "aAudio": "audio/map-true-size-20-1/a17.mp3",
+    "thinkStart": 167.89,
+    "reveal": 171.29,
+    "moveEnd": 172.99,
+    "aStart": 171.84,
+    "end": 175.59
    },
    {
     "level": "LEGEND",
@@ -409,7 +545,15 @@
     "lines": {
      "q": "Alaska, or Peru?",
      "a": "Alaska! Even at its real size, it's a third bigger than Peru."
-    }
+    },
+    "start": 175.59,
+    "qAudio": "audio/map-true-size-20-1/q18.mp3",
+    "aAudio": "audio/map-true-size-20-1/a18.mp3",
+    "thinkStart": 176.83,
+    "reveal": 180.23,
+    "moveEnd": 181.93,
+    "aStart": 180.78,
+    "end": 185.08
    },
    {
     "level": "LEGEND",
@@ -429,7 +573,15 @@
     "lines": {
      "q": "Two left. Greenland, or Mexico?",
      "a": "Greenland! So the giant on the map is real. Just not that giant."
-    }
+    },
+    "start": 185.08,
+    "qAudio": "audio/map-true-size-20-1/q19.mp3",
+    "aAudio": "audio/map-true-size-20-1/a19.mp3",
+    "thinkStart": 187.13,
+    "reveal": 190.53,
+    "moveEnd": 192.23,
+    "aStart": 191.08,
+    "end": 195.73
    },
    {
     "level": "LEGEND",
@@ -449,12 +601,51 @@
     "lines": {
      "q": "Last one. Greenland, or the Congo?",
      "a": "The Congo! The Democratic Republic of the Congo is bigger than Greenland."
-    }
+    },
+    "start": 195.73,
+    "qAudio": "audio/map-true-size-20-1/q20.mp3",
+    "aAudio": "audio/map-true-size-20-1/a20.mp3",
+    "thinkStart": 197.78,
+    "reveal": 201.18,
+    "moveEnd": 202.88,
+    "aStart": 201.73,
+    "end": 206.47
    }
   ],
   "sources": [
    "Areas (total area): CIA World Factbook / UN Statistics Division; Alaska and Texas: U.S. Census Bureau",
    "Outlines: Natural Earth (public domain); US states: U.S. Census Bureau via us-atlas"
+  ],
+  "id": "map-true-size-20-1",
+  "hook": {
+   "audio": "audio/map-true-size-20-1/hook.mp3",
+   "start": 0.0,
+   "end": 4.06
+  },
+  "outro": {
+   "start": 206.47,
+   "audio": "audio/map-true-size-20-1/outro.mp3"
+  },
+  "durationInSeconds": 218.36
+ },
+ "qa": {
+  "lufs": -18.6,
+  "truePeak": -3.4,
+  "lra": 12.2,
+  "normalized": true,
+  "frozenShare": 0.707,
+  "longestFreezeSec": 11.4,
+  "frame0Luma": 200.6,
+  "warnings": [
+   "Standbild 11.4 s"
   ]
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/map-true-size-20-1-A.jpg",
+ "scheduledFor": "2026-11-10T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "pgaClOjxsBw",
+  "at": "2026-11-10T07:31"
  }
 }

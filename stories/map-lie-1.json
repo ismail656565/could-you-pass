@@ -33,15 +33,15 @@
     "q": "Greenland, or Australia?",
     "a": "Australia! More than three times the size."
    },
-   "start": 2.89,
+   "winner": "b",
+   "start": 2.84,
    "qAudio": "audio/map-lie-1/q1.mp3",
    "aAudio": "audio/map-lie-1/a1.mp3",
-   "thinkStart": 4.48,
-   "reveal": 6.88,
-   "moveEnd": 8.38,
-   "aStart": 7.43,
-   "end": 10.53,
-   "winner": "b"
+   "thinkStart": 4.38,
+   "reveal": 6.78,
+   "moveEnd": 8.28,
+   "aStart": 7.33,
+   "end": 10.43
   },
   {
    "level": "MEDIUM",
@@ -61,15 +61,15 @@
     "q": "All of Africa, or Russia?",
     "a": "Africa! Nearly twice as big as Russia."
    },
-   "start": 10.53,
+   "winner": "a",
+   "start": 10.43,
    "qAudio": "audio/map-lie-1/q2.mp3",
    "aAudio": "audio/map-lie-1/a2.mp3",
-   "thinkStart": 12.15,
-   "reveal": 14.55,
-   "moveEnd": 16.05,
-   "aStart": 15.1,
-   "end": 18.2,
-   "winner": "a"
+   "thinkStart": 12.01,
+   "reveal": 14.41,
+   "moveEnd": 15.91,
+   "aStart": 14.96,
+   "end": 18.06
   },
   {
    "level": "HARD",
@@ -89,15 +89,15 @@
     "q": "Madagascar, or Sweden?",
     "a": "Madagascar! About a third bigger."
    },
-   "start": 18.2,
+   "winner": "a",
+   "start": 18.06,
    "qAudio": "audio/map-lie-1/q3.mp3",
    "aAudio": "audio/map-lie-1/a3.mp3",
-   "thinkStart": 19.82,
-   "reveal": 22.22,
-   "moveEnd": 23.72,
-   "aStart": 22.77,
-   "end": 25.87,
-   "winner": "a"
+   "thinkStart": 19.64,
+   "reveal": 22.04,
+   "moveEnd": 23.54,
+   "aStart": 22.59,
+   "end": 25.69
   },
   {
    "level": "LEGEND",
@@ -117,15 +117,15 @@
     "q": "Last one. Greenland, or the Congo?",
     "a": "The Congo! Flat maps stretch everything near the poles. So, how many did you get?"
    },
-   "start": 25.87,
+   "winner": "b",
+   "start": 25.69,
    "qAudio": "audio/map-lie-1/q4.mp3",
    "aAudio": "audio/map-lie-1/a4.mp3",
-   "thinkStart": 27.96,
-   "reveal": 30.36,
-   "moveEnd": 31.86,
-   "aStart": 30.91,
-   "end": 37.26,
-   "winner": "b"
+   "thinkStart": 27.74,
+   "reveal": 30.14,
+   "moveEnd": 31.64,
+   "aStart": 30.69,
+   "end": 37.0
   }
  ],
  "sources": [
@@ -135,7 +135,7 @@
  "hook": {
   "audio": "audio/map-lie-1/hook.mp3",
   "start": 0.0,
-  "end": 2.89
+  "end": 2.84
  },
- "durationInSeconds": 37.26
+ "durationInSeconds": 37.0
 }

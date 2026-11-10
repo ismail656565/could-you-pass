@@ -1067,8 +1067,8 @@
    "B",
    "C"
   ],
-  "current": "C",
-  "since": "2026-11-06",
+  "current": "A",
+  "since": "2026-11-10",
   "results": {
    "A": {
     "views": 2,
@@ -1083,9 +1083,17 @@
     "metric": "views/day",
     "from": "2026-11-02",
     "to": "2026-11-06"
+   },
+   "C": {
+    "views": 0,
+    "ctr": 0.0,
+    "metric": "views/day",
+    "from": "2026-11-06",
+    "to": "2026-11-10"
    }
   },
-  "done": false
+  "done": true,
+  "winner": "A"
  },
  "playlistAdded": true,
  "uploaded": {

@@ -1447,3 +1447,44 @@
 [2026-11-09 16:22:57] six-q-genius-berlin-wall: Kommentar gepostet (mit Long-Link)
 [2026-11-09 16:22:57] vs-heavier-1: noch nicht öffentlich – Kommentar später
 [2026-11-09 21:12:15] vs-heavier-1: Kommentar gepostet (mit Long-Link)
+[2026-11-10 06:24:10] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-10 06:24:10] Analytics gespeichert (77 Videos)
+[2026-11-10 06:24:11] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-10 06:24:11] Thumbnail-Test us-presidents-5-15: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-10 06:24:16] Thumbnail-Test us-presidents-5-15: jetzt Variante C
+[2026-11-10 06:24:17] Thumbnail-Test history-quiz-50-1: Variante A → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-10 06:24:21] Thumbnail-Test history-quiz-50-1: jetzt Variante B
+[2026-11-10 06:24:22] Thumbnail-Test auto-2026-10-29-long: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-10 06:24:27] Thumbnail-Test auto-2026-10-29-long: jetzt Variante A (Gewinner)
+[2026-11-10 06:24:27] Produziere map-lie-1 (short)
+[2026-11-10 06:31:42] Gerendert
+[2026-11-10 06:31:55] QA: -19.8 LUFS, TP -4.2 dBTP → normalisiert auf −14, Standbild max 3.2 s, Frame0-Luma 205.4
+[2026-11-10 06:31:58] Hochgeladen: https://youtube.com/watch?v=cuQa-J5Y1-0 (private)
+[2026-11-10 06:31:59] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-10 06:31:59] Geplant für 10.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-10 06:31:59] Produziere six-q-genius-tricky (short)
+[2026-11-10 06:31:59] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-10 06:32:28] Ton fertig: 47.8 s
+[2026-11-10 06:32:35] B-Roll Frage 1 ("people walking in a park"): Lion (Panthera leo) walking on the road.webm
+[2026-11-10 06:32:41] B-Roll Frage 2 ("pond water surface"): Play of Color on water surface of a pond.webm
+[2026-11-10 06:32:49] B-Roll Frage 3 ("city street traffic"): Traffic situation in Mango Avenue Cebu City.webm
+[2026-11-10 06:32:49] B-Roll Frage 4 ("fruit market stall"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-10 06:32:55] B-Roll Frage 5 ("clock mechanism"): Montreal Clock Tower clock mechanism.ogv
+[2026-11-10 06:32:55] B-Roll Frage 6 ("pizza oven fire"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-10 06:37:20] Gerendert
+[2026-11-10 06:37:32] QA: -20.4 LUFS, TP -3.4 dBTP → normalisiert auf −14, Standbild max 2.4 s, Frame0-Luma 186.4
+[2026-11-10 06:37:34] Hochgeladen: https://youtube.com/watch?v=HzlLhpTPsbk (private)
+[2026-11-10 06:37:35] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-10 06:37:35] Geplant für 10.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-10 06:37:35] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-10 06:37:35] Produziere map-true-size-20-1 (long)
+[2026-11-10 07:30:45] Gerendert
+[2026-11-10 07:31:37] QA: -18.6 LUFS, TP -3.4 dBTP → normalisiert auf −14, Standbild max 11.4 s, Frame0-Luma 200.6 | WARNUNG: Standbild 11.4 s
+[2026-11-10 07:31:45] Hochgeladen: https://youtube.com/watch?v=pgaClOjxsBw (private)
+[2026-11-10 07:31:49] Vorschaubild gesetzt
+[2026-11-10 07:31:50] Playlist angelegt: Map & Geography Quizzes 🌍
+[2026-11-10 07:31:50] In Playlist "Map & Geography Quizzes 🌍"
+[2026-11-10 07:31:50] Geplant für 10.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-10 07:31:50] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-10 07:31:51] Verlinkung Short → langes Video fehlgeschlagen: 'questions'
+[2026-11-10 07:31:59] Konkurrenz: 25 Kanäle, 139 Gewinner-Videos

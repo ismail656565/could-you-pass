@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz #shorts",
-  "description": "6 tricky trivia questions, easy to hard 🧠 Did #6 get you? 🍕\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trivia #quiz #generalknowledge #brainteaser #onlygeniuses #shorts\n\nMusic: original.",
+  "description": "6 tricky trivia questions, easy to hard 🧠 Did #6 get you? 🍕\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trivia #quiz #generalknowledge #brainteaser #onlygeniuses #shorts\n\nFootage via Wikimedia Commons: Lion (Panthera leo) walking on the road – Bernard DUPONT (CC BY-SA 2.0); Play of Color on water surface of a pond – Sumita Roy Dutta (CC BY-SA 3.0); Traffic situation in Mango Avenue Cebu City – Lady01v (CC BY-SA 4.0); Montreal Clock Tower clock mechanism – Andy Mabbett (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "tricky trivia",
    "trivia quiz",
@@ -49,7 +49,13 @@
     "level": "EASY",
     "cardText": "🦴",
     "ltx": "a happy cartoon person sitting on a park bench, a big heart floating above them",
-    "broll": "people walking in a park"
+    "broll": "people walking in a park",
+    "start": 0.0,
+    "keywordAt": 1.459,
+    "countdownStart": 2.329,
+    "reveal": 4.829,
+    "end": 8.17,
+    "video": "broll/six-q-genius-tricky-0.mp4"
    },
    {
     "q": "What is a baby **frog** called?",
@@ -63,7 +69,13 @@
     "level": "EASY",
     "cardText": "🐸",
     "ltx": "a calm green pond with lily pads and gentle ripples, a frog sitting on a lily pad",
-    "broll": "pond water surface"
+    "broll": "pond water surface",
+    "start": 8.17,
+    "keywordAt": 9.027,
+    "countdownStart": 9.947,
+    "reveal": 12.447,
+    "end": 15.457,
+    "video": "broll/six-q-genius-tricky-1.mp4"
    },
    {
     "q": "How many **sides** does a stop sign have?",
@@ -77,7 +89,13 @@
     "level": "MEDIUM",
     "cardText": "🚗",
     "ltx": "a cartoon car rolling slowly through a quiet crossroads, empty street, no signs",
-    "broll": "city street traffic"
+    "broll": "city street traffic",
+    "start": 15.457,
+    "keywordAt": 15.968,
+    "countdownStart": 17.609,
+    "reveal": 20.109,
+    "end": 22.273,
+    "video": "broll/six-q-genius-tricky-2.mp4"
    },
    {
     "q": "Which fruit wears its **seeds** on the outside?",
@@ -91,7 +109,12 @@
     "level": "HARD",
     "cardText": "🌱",
     "ltx": "a cartoon fruit basket on a kitchen table, a magnifying glass hovering over it",
-    "broll": "fruit market stall"
+    "broll": "fruit market stall",
+    "start": 22.273,
+    "keywordAt": 23.378,
+    "countdownStart": 24.657,
+    "reveal": 27.157,
+    "end": 30.358
    },
    {
     "q": "How many **hours** are in two days?",
@@ -105,7 +128,13 @@
     "level": "MEDIUM",
     "cardText": "⏰",
     "ltx": "a cartoon clock with hands spinning fast, sun and moon passing in the window",
-    "broll": "clock mechanism"
+    "broll": "clock mechanism",
+    "start": 30.358,
+    "keywordAt": 30.883,
+    "countdownStart": 32.269,
+    "reveal": 34.769,
+    "end": 37.866,
+    "video": "broll/six-q-genius-tricky-4.mp4"
    },
    {
     "q": "Where was **Hawaiian** pizza invented?",
@@ -119,9 +148,17 @@
     "level": "HARD",
     "cardText": "🍕",
     "ltx": "a cartoon pizza on a table, a slice being lifted with stretchy cheese, question marks floating",
-    "broll": "pizza oven fire"
+    "broll": "pizza oven fire",
+    "start": 37.866,
+    "keywordAt": 38.921,
+    "countdownStart": 40.391,
+    "reveal": 42.891,
+    "end": 47.781
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-tricky.mp3",
+  "outroStart": 47.781,
+  "durationInSeconds": 47.781
  },
  "lines": [
   {
@@ -148,5 +185,22 @@
    "q": "Last one. Where was Hawaiian pizza invented?",
    "a": "Canada! In Ontario, back in nineteen sixty two. Got all six? Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.4,
+  "truePeak": -3.4,
+  "lra": 5.6,
+  "normalized": true,
+  "frozenShare": 0.29,
+  "longestFreezeSec": 2.4,
+  "frame0Luma": 186.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-10T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "HzlLhpTPsbk",
+  "at": "2026-11-10T06:37"
+ }
 }

@@ -53,7 +53,15 @@
      "q": "Greenland, or Australia?",
      "a": "Australia! More than three times the size."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 2.84,
+    "qAudio": "audio/map-lie-1/q1.mp3",
+    "aAudio": "audio/map-lie-1/a1.mp3",
+    "thinkStart": 4.38,
+    "reveal": 6.78,
+    "moveEnd": 8.28,
+    "aStart": 7.33,
+    "end": 10.43
    },
    {
     "level": "MEDIUM",
@@ -73,7 +81,15 @@
      "q": "All of Africa, or Russia?",
      "a": "Africa! Nearly twice as big as Russia."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 10.43,
+    "qAudio": "audio/map-lie-1/q2.mp3",
+    "aAudio": "audio/map-lie-1/a2.mp3",
+    "thinkStart": 12.01,
+    "reveal": 14.41,
+    "moveEnd": 15.91,
+    "aStart": 14.96,
+    "end": 18.06
    },
    {
     "level": "HARD",
@@ -93,7 +109,15 @@
      "q": "Madagascar, or Sweden?",
      "a": "Madagascar! About a third bigger."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 18.06,
+    "qAudio": "audio/map-lie-1/q3.mp3",
+    "aAudio": "audio/map-lie-1/a3.mp3",
+    "thinkStart": 19.64,
+    "reveal": 22.04,
+    "moveEnd": 23.54,
+    "aStart": 22.59,
+    "end": 25.69
    },
    {
     "level": "LEGEND",
@@ -113,12 +137,43 @@
      "q": "Last one. Greenland, or the Congo?",
      "a": "The Congo! Flat maps stretch everything near the poles. So, how many did you get?"
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 25.69,
+    "qAudio": "audio/map-lie-1/q4.mp3",
+    "aAudio": "audio/map-lie-1/a4.mp3",
+    "thinkStart": 27.74,
+    "reveal": 30.14,
+    "moveEnd": 31.64,
+    "aStart": 30.69,
+    "end": 37.0
    }
   ],
   "sources": [
    "Areas: CIA World Factbook / UN Statistics Division (Greenland 2,166,086 km²; Australia 7,692,024; Russia 17,098,246; Africa ≈30.37 million; Sweden 450,295; Madagascar 587,041; DR Congo 2,344,858)",
    "Outlines: Natural Earth (public domain)"
-  ]
+  ],
+  "hook": {
+   "audio": "audio/map-lie-1/hook.mp3",
+   "start": 0.0,
+   "end": 2.84
+  },
+  "durationInSeconds": 37.0
+ },
+ "qa": {
+  "lufs": -19.8,
+  "truePeak": -4.2,
+  "lra": 8.3,
+  "normalized": true,
+  "frozenShare": 0.484,
+  "longestFreezeSec": 3.2,
+  "frame0Luma": 205.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-10T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "cuQa-J5Y1-0",
+  "at": "2026-11-10T06:31"
  }
 }
