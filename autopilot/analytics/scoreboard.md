@@ -2,13 +2,13 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (39 Videos)
+## Shorts (40 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 6+ Fragen | 8 | 798 | 1006 | 1434 | 54.2 | 49.8 | 3.0 |
+| 6+ Fragen | 9 | 735 | 994 | 1434 | 54.2 | 49.8 | 3.0 |
 | VS-Vergleich | 5 | 828 | 876 | 1188 | 55.5 | 64.7 | 4.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1207 | 38.2 | 145.1 | 0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.4 | 2.0 |
@@ -39,7 +39,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | HISTORY TRIVIA | 1 | 311 | 311 | 311 | 50.2 | 44.5 | 1.0 |
 | TRIVIA | 6 | 472 | 289 | 1082 | 52.7 | 59.6 | 0 |
-| SPACE QUIZ | 1 | 204 | 204 | 204 | 50.0 | 95.5 | 0 |
+| SPACE QUIZ | 2 | 216 | 216 | 229 | 50.0 | 95.5 | 0 |
 | FOOD QUIZ | 1 | 185 | 185 | 185 | 64.9 | 80.6 | 0 |
 | QUICK FIRE SCIENCE | 1 | 179 | 179 | 179 | 53.3 | 56.7 | 0 |
 | ANIMAL QUIZ | 1 | 178 | 178 | 178 | 43.8 | 77.0 | 1.0 |
@@ -52,14 +52,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 26 | 582 | 466 | 1219 | 52.2 | 69.2 | 10.0 |
+| tvshow | 27 | 568 | 449 | 1219 | 52.2 | 69.2 | 10.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.1 | 111.5 | 0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 12 | 728 | 808 | 1219 | 49.0 | 79.2 | 4.0 |
+| game-show.wav | 13 | 689 | 622 | 1219 | 49.0 | 79.2 | 4.0 |
 | world-trip.wav | 8 | 513 | 503 | 1188 | 57.4 | 64.6 | 4.0 |
 | brain-pulse.wav | 19 | 476 | 316 | 1434 | 46.7 | 92.8 | 2.0 |
 
@@ -68,7 +68,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
-| 16:00 | 16 | 556 | 454 | 1219 | 47.3 | 82.9 | 5.0 |
+| 16:00 | 17 | 537 | 427 | 1219 | 47.3 | 82.9 | 5.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
 | 21:00 | 17 | 528 | 327 | 1188 | 54.8 | 66.9 | 5.0 |
 
