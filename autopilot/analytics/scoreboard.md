@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-10T08:24 (18 Abos)
+# Scoreboard – Stand 2026-11-10T11:46 (18 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -25,7 +25,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | BRAIN QUIZ | 1 | 1207 | 1207 | 1207 | 44.1 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1188 | 1188 | 1188 | 61.4 | 60.6 | 2.0 |
 | WHICH HAS MORE PEOPLE? | 1 | 1072 | 1072 | 1072 | 52.9 | 75.4 | 1.0 |
-| CAPITAL CITIES | 1 | 1017 | 1017 | 1017 | 58.4 | 51.3 | 0 |
+| CAPITAL CITIES | 1 | 1019 | 1019 | 1019 | 58.4 | 51.3 | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 994 | 994 | 994 | 49.1 | 45.5 | 2.0 |
 | WHICH IS BIGGER? | 1 | 876 | 876 | 876 | 56.2 | 67.3 | 1.0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
@@ -52,7 +52,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 26 | 581 | 466 | 1219 | 52.2 | 69.2 | 10.0 |
+| tvshow | 26 | 582 | 466 | 1219 | 52.2 | 69.2 | 10.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.1 | 111.5 | 0 |
 
 ### Shorts nach Musik
@@ -100,7 +100,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 0 Fragen | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 48.9 | 26.2 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
-| 30 Fragen | 1 | 15 | 15 | 15 | 85.7 | 18.9 | 0 |
+| 30 Fragen | 1 | 16 | 16 | 16 | 85.7 | 18.9 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 11 | 4 | 2 | 14 | 66.8 | 55.1 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 50.0 | 6.6 | 0 |
@@ -120,7 +120,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Geografie | 1 | 3 | 3 | 3 | 66.7 | 53.5 | 0 |
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
-| Sonstiges | 4 | 5 | 2 | 15 | 67.8 | 12.7 | 0 |
+| Sonstiges | 4 | 5 | 2 | 16 | 67.8 | 12.7 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | 100.0 | 99.8 | 0 |
 
 ### Lange Videos nach Layout
@@ -129,7 +129,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.5 | 52.5 | 1.0 |
-| tvshow | 13 | 5 | 2 | 15 | 65.3 | 37.6 | 0 |
+| tvshow | 13 | 5 | 2 | 16 | 65.3 | 37.6 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -137,7 +137,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | game-show.wav | 8 | 30 | 6 | 186 | 74.0 | 40.4 | 1.0 |
-| world-trip.wav | 7 | 7 | 4 | 15 | 56.1 | 52.1 | 0 |
+| world-trip.wav | 7 | 8 | 4 | 16 | 56.1 | 52.1 | 0 |
 | brain-pulse.wav | 6 | 19 | 2 | 60 | 64.1 | 40.1 | 0 |
 
 ### Lange Videos nach Sendezeit
@@ -145,7 +145,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 18 | 11 | 4 | 60 | 67.4 | 44.5 | 1.0 |
+| 14:00 | 18 | 12 | 4 | 60 | 67.4 | 44.5 | 1.0 |
 | 19:00 | 1 | 2 | 2 | 2 | – | – | 0 |
 
 ### Top 8 Lange Videos
@@ -155,7 +155,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 60 Views · stayed 0.356 · 35 Fragen · neon · brain-pulse.wav · Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz
 - 48 Views · stayed 0.708 · 35 Fragen · neon · brain-pulse.wav · Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions
 - 26 Views · stayed 0.808 · 40 Fragen · neon · game-show.wav · General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions
-- 15 Views · stayed 0.857 · 30 Fragen · tvshow · world-trip.wav · Capital Cities Quiz: 30 Questions From Easy to Legend 🌍
+- 16 Views · stayed 0.857 · 30 Fragen · tvshow · world-trip.wav · Capital Cities Quiz: 30 Questions From Easy to Legend 🌍
 - 14 Views · stayed 0.571 · 50 Fragen · tvshow · world-trip.wav · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
 - 12 Views · stayed 0.273 · 50 Fragen · tvshow · world-trip.wav · Can You Pass the U.S. Citizenship Test? 🗽 50 Real Civics Questions | Easy to Legend
 

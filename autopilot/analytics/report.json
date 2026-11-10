@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-10T08:24",
+ "fetched": "2026-11-10T11:46",
  "channel": "COULD YOU PASS?",
  "subscribers": "18",
  "audience": {
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 38,
-   "publicViews": "67",
+   "publicViews": "79",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 48,
-   "publicViews": "93",
+   "publicViews": "96",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -285,7 +285,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "118",
+   "publicViews": "127",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -309,7 +309,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 50,
-   "publicViews": "215",
+   "publicViews": "229",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -907,7 +907,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 44,
-   "publicViews": "1017",
+   "publicViews": "1019",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -940,7 +940,7 @@
     "RELATED_VIDEO": 7
    },
    "durationSec": 385,
-   "publicViews": "15",
+   "publicViews": "16",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
