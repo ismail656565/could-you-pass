@@ -518,3 +518,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Format-Median Shorts: 6-Q 994 · VS 716 · 4-Trap 251 · T/F 143; Musik game-show 622 > world-trip 449 > brain-pulse 316. Text-Longs: Flag-30 10, Solar-30 4.
 - Bug: Short→Long-Verlinkung scheitert am Karten-Long (`story.rounds` statt `questions`) – Fix im Plan.
 - Neu geplant 13.11.: 6-Q Europe (Chauncey 909k) + VS More People R3 (bestes VS-Muster); 14.11.: Tiere-6-Q (Experiment), Karten-VS #2 bedingt. Konkurrenz-Signal: niedrige Punkt-Hürde (QuizNova 425k) → später am Emoji-Long testen.
+
+## 2026-11-11 (Produktions-Agent, Queue 13.11.)
+- Technik: Läufe 10.11. alle grün, Soll 10.11. erfüllt (map-true-size-20-1 14:00, six-q-genius-tricky 16:00, map-lie-1 21:00, alle 3 Kommentare gepostet). **Fix:** `link_short_to_long` scheiterte am Karten-Long (`story.rounds`) → liest jetzt questions ODER rounds („▶ Full 20-round map challenge“) und holt den Vortag nach → 10.11.-Shorts werden beim heutigen Lauf mit pgaClOjxsBw verlinkt.
+- Shorts: kein neuer Snapshot seit 10.11. 11:46 (10.11.-atlas-Shorts dort noch privat) → E12 noch offen. Stand: Geo-Paar 07.11. 1.072 / 1.019, Weltraum 229 / 127, stick 96 / 79.
+- Longs: Flag-30 10, Solar-30 4, Capitals-30 16 – Text-Longs bleiben tot; E13 hängt an Karten-Long 10.11. + Movie-Emoji 12.11. + Country-Emoji 14.11.
+- Thumbnails: CTR weiter nicht messbar (HttpError 400).
+- Queue 13.11. angelegt: six-q-genius-europe (16:00) + vs-more-people-3 (21:00), kein Long (Fr). Duplikat-Check ersetzte Stiefel-Italien, Vatikan, Reykjavik, Türkei-zwei-Kontinente und Nigeria/Brasilien.

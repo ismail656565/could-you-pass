@@ -1001,7 +1001,26 @@ def produce():
 
 
 def link_short_to_long(today):
-    """Beschreibung der heutigen Shorts um den Link zum heutigen langen Video ergänzen (Shorts-Zuschauer → lange Videos → Abos)"""
+    """Beschreibung der Shorts von heute + gestern (Nachholen) um den Link zum langen Video desselben Tages ergänzen"""
+    try:
+        yday = (dt.date.fromisoformat(today[:10]) - dt.timedelta(days=1)).isoformat()
+    except Exception:
+        yday = None
+    for day in [yday, today]:
+        if day:
+            _link_day(day)
+
+
+def _long_label(long_item):
+    st = long_item.get('story', {})
+    if st.get('questions'):
+        return f"▶ Full {len(st['questions'])}-question quiz"
+    if st.get('rounds'):
+        return f"▶ Full {len(st['rounds'])}-round map challenge"
+    return "▶ Full video"
+
+
+def _link_day(today):
     shorts, long_item = [], None
     for d in DONE.glob('*.json'):
         it = json.loads(d.read_text(encoding='utf-8'))
@@ -1017,7 +1036,7 @@ def link_short_to_long(today):
     for d, short in shorts:
         v = y.videos().list(part='snippet', id=short['uploaded']['videoId']).execute()['items'][0]
         sn = v['snippet']
-        sn['description'] = f"▶ Full {len(long_item['story']['questions'])}-question quiz: https://youtu.be/{long_id}\n\n" + sn.get('description', '')
+        sn['description'] = f"{_long_label(long_item)}: https://youtu.be/{long_id}\n\n" + sn.get('description', '')
         y.videos().update(part='snippet', body={'id': v['id'], 'snippet': {k: sn[k] for k in ('title', 'description', 'tags', 'categoryId') if k in sn}}).execute()
         short['linkedLong'] = long_id
         d.write_text(json.dumps(short, indent=1, ensure_ascii=False), encoding='utf-8')

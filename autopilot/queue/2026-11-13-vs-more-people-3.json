@@ -1,0 +1,144 @@
+{
+ "id": "vs-more-people-3",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 3.0,
+  "tail": 1.2
+ },
+ "lines": [
+  {
+   "q": "Which has more people, Egypt or Germany?",
+   "a": "Egypt! Around one hundred eighteen million, over thirty million more."
+  },
+  {
+   "q": "Bangladesh or Russia?",
+   "a": "Bangladesh! About one hundred seventy six million, in a country about the size of Iowa."
+  },
+  {
+   "q": "Canada or Poland?",
+   "a": "Canada! About forty million. Just two million more than Poland."
+  },
+  {
+   "q": "Last one. Brazil or Pakistan?",
+   "a": "Pakistan! About two hundred fifty five million, the fifth biggest in the world. Think you can get all four? Go again!"
+  }
+ ],
+ "youtube": {
+  "title": "Which Country Has More People? Round 3 – 90% Fail 👥 #shorts",
+  "description": "Guess which country has more people – the bars reveal the real population 👥 Did #2 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #population #countries #quiz #comparison #shorts\n\nPopulation data: UN World Population Prospects 2024 (2025 estimates, rounded).\nMusic: original.",
+  "tags": [
+   "which has more people",
+   "population comparison",
+   "country comparison",
+   "geography quiz",
+   "population quiz",
+   "comparison quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did Bangladesh vs Russia get you? 🤯 Comment your score /4 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "atlas",
+  "title": "More People?",
+  "header": "WHICH HAS MORE PEOPLE?",
+  "hook": "90% GET #2 WRONG 😏",
+  "teaser": "WAIT FOR #4 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "MORE!",
+  "revealIcon": "",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Egypt",
+     "Germany"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "values": [
+     118365995,
+     84075075
+    ],
+    "valueLabels": [
+     "118M",
+     "84M"
+    ],
+    "icons": [
+     "🐪",
+     "🥨"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Russia",
+     "Bangladesh"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "values": [
+     143997393,
+     175686899
+    ],
+    "valueLabels": [
+     "144M",
+     "176M"
+    ],
+    "icons": [
+     "🪆",
+     "🐅"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Canada",
+     "Poland"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "values": [
+     40126723,
+     38140910
+    ],
+    "valueLabels": [
+     "40M",
+     "38M"
+    ],
+    "icons": [
+     "🍁",
+     "🥟"
+    ]
+   },
+   {
+    "q": "Which has more **people**?",
+    "answers": [
+     "Brazil",
+     "Pakistan"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "values": [
+     212812405,
+     255219554
+    ],
+    "valueLabels": [
+     "213M",
+     "255M"
+    ],
+    "icons": [
+     "⚽",
+     "🏏"
+    ]
+   }
+  ]
+ }
+}

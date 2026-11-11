@@ -1,0 +1,140 @@
+{
+ "id": "six-q-genius-europe",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Europe Quiz #shorts",
+  "description": "6 Europe geography questions, easy to hard 🌍 Did #4 trick you? 🏔️\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#europe #geographyquiz #geography #quiz #onlygeniuses #shorts\n\nMusic: original.",
+  "tags": [
+   "europe quiz",
+   "geography quiz",
+   "european geography",
+   "countries of europe",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did the Matterhorn trick you on #4? 🏔️ How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "atlas",
+  "title": "Europe Quiz",
+  "header": "EUROPE QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which river flows through **Vienna** and Budapest?",
+    "answers": [
+     "Rhine",
+     "Danube",
+     "Elbe",
+     "Seine"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "broll": "river cruise boat"
+   },
+   {
+    "q": "Which country does NOT border **Germany**?",
+    "answers": [
+     "Austria",
+     "Poland",
+     "Hungary",
+     "Denmark"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "broll": "highway road sign"
+   },
+   {
+    "q": "What money do they use in **Switzerland**?",
+    "answers": [
+     "Euro",
+     "Swiss franc",
+     "Krone",
+     "Pound"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "broll": "mountain village"
+   },
+   {
+    "q": "What is the highest mountain in the **Alps**?",
+    "answers": [
+     "Matterhorn",
+     "Eiger",
+     "Mont Blanc",
+     "Zugspitze"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "broll": "snowy mountain peaks"
+   },
+   {
+    "q": "Which **strait** separates Spain from Morocco?",
+    "answers": [
+     "Gibraltar",
+     "Bosporus",
+     "Dover",
+     "Messina"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "broll": "ferry at sea"
+   },
+   {
+    "q": "**Liechtenstein** lies between which two countries?",
+    "answers": [
+     "France, Italy",
+     "Germany, Austria",
+     "Italy, Slovenia",
+     "Switzerland, Austria"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "alpine meadow cows"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which river flows through Vienna and Budapest?",
+   "a": "The Danube! It runs through four capital cities, more than any other river."
+  },
+  {
+   "q": "Which country does not border Germany?",
+   "a": "Hungary! Germany has nine neighbours, but Hungary is not one of them."
+  },
+  {
+   "q": "What money do they use in Switzerland?",
+   "a": "The Swiss franc! Right in the middle of Europe, and still no euro."
+  },
+  {
+   "q": "What is the highest mountain in the Alps?",
+   "a": "Mont Blanc! Almost four thousand eight hundred metres. The famous Matterhorn is shorter."
+  },
+  {
+   "q": "Which strait separates Spain from Morocco?",
+   "a": "Gibraltar! At its narrowest, Africa is only about fourteen kilometres away."
+  },
+  {
+   "q": "Last one. Liechtenstein lies between which two countries?",
+   "a": "Switzerland and Austria! And it has no coast at all. Got all six? Go again!"
+  }
+ ]
+}
