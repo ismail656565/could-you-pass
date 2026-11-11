@@ -2,14 +2,14 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (41 Videos)
+## Shorts (42 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 6+ Fragen | 9 | 742 | 994 | 1434 | 54.1 | 51.1 | 3.0 |
 | VS-Vergleich | 6 | 720 | 716 | 1188 | 53.4 | 68.0 | 5.0 |
+| 6+ Fragen | 10 | 690 | 623 | 1434 | 54.1 | 51.1 | 3.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1207 | 38.2 | 145.1 | 0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
@@ -40,6 +40,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | HISTORY TRIVIA | 1 | 311 | 311 | 311 | 50.2 | 44.5 | 1.0 |
 | TRIVIA | 6 | 472 | 289 | 1082 | 52.7 | 59.6 | 0 |
 | SPACE QUIZ | 2 | 228 | 228 | 252 | 52.0 | 76.7 | 0 |
+| BERLIN WALL QUIZ | 1 | 221 | 221 | 221 | – | – | 0 |
 | FOOD QUIZ | 1 | 185 | 185 | 185 | 64.9 | 80.6 | 0 |
 | ANIMAL QUIZ | 1 | 179 | 179 | 179 | 43.8 | 77.0 | 1.0 |
 | QUICK FIRE SCIENCE | 1 | 179 | 179 | 179 | 52.8 | 58.0 | 0 |
@@ -54,12 +55,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | tvshow | 28 | 557 | 439 | 1219 | 51.9 | 69.5 | 11.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.1 | 111.5 | 0 |
+| stick | 1 | 221 | 221 | 221 | – | – | 0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 13 | 694 | 622 | 1219 | 49.3 | 77.7 | 4.0 |
+| game-show.wav | 14 | 660 | 552 | 1219 | 49.3 | 77.7 | 4.0 |
 | world-trip.wav | 9 | 475 | 451 | 1188 | 55.6 | 65.9 | 4.0 |
 | brain-pulse.wav | 19 | 477 | 316 | 1434 | 46.8 | 93.4 | 3.0 |
 
@@ -68,7 +70,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
-| 16:00 | 17 | 541 | 427 | 1219 | 47.7 | 81.6 | 5.0 |
+| 16:00 | 18 | 523 | 378 | 1219 | 47.7 | 81.6 | 5.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
 | 21:00 | 18 | 508 | 319 | 1188 | 54.1 | 67.9 | 6.0 |
 

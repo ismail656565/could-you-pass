@@ -3,9 +3,9 @@
  "groups": {
   "short.format": {
    "6+ Fragen": {
-    "n": 9,
-    "avgViews": 742,
-    "medianViews": 994,
+    "n": 10,
+    "avgViews": 690,
+    "medianViews": 623,
     "bestViews": 1434,
     "stayed": 54.1,
     "avgPct": 51.1,
@@ -292,6 +292,15 @@
     "avgPct": 84.2,
     "subs": 2.0
    },
+   "BERLIN WALL QUIZ": {
+    "n": 1,
+    "avgViews": 221,
+    "medianViews": 221,
+    "bestViews": 221,
+    "stayed": null,
+    "avgPct": null,
+    "subs": 0
+   },
    "GENERAL KNOWLEDGE": {
     "n": 4,
     "avgViews": 573,
@@ -329,6 +338,15 @@
     "stayed": 51.9,
     "avgPct": 69.5,
     "subs": 11.0
+   },
+   "stick": {
+    "n": 1,
+    "avgViews": 221,
+    "medianViews": 221,
+    "bestViews": 221,
+    "stayed": null,
+    "avgPct": null,
+    "subs": 0
    }
   },
   "short.music": {
@@ -342,9 +360,9 @@
     "subs": 3.0
    },
    "game-show.wav": {
-    "n": 13,
-    "avgViews": 694,
-    "medianViews": 622,
+    "n": 14,
+    "avgViews": 660,
+    "medianViews": 552,
     "bestViews": 1219,
     "stayed": 49.3,
     "avgPct": 77.7,
@@ -380,9 +398,9 @@
     "subs": 0
    },
    "16:00": {
-    "n": 17,
-    "avgViews": 541,
-    "medianViews": 427,
+    "n": 18,
+    "avgViews": 523,
+    "medianViews": 378,
     "bestViews": 1219,
     "stayed": 47.7,
     "avgPct": 81.6,
@@ -715,7 +733,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 23.9,
+   "ageDays": 24.0,
    "search": null
   },
   {
@@ -734,7 +752,7 @@
    "avgPct": 61.11,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 23.9,
+   "ageDays": 24.0,
    "search": null
   },
   {
@@ -753,7 +771,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 22.8,
+   "ageDays": 22.9,
    "search": null
   },
   {
@@ -772,7 +790,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 22.8,
+   "ageDays": 22.9,
    "search": null
   },
   {
@@ -791,7 +809,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 23.1,
+   "ageDays": 23.2,
    "search": null
   },
   {
@@ -848,7 +866,7 @@
    "avgPct": 28.499999999999996,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 22.1,
+   "ageDays": 22.2,
    "search": null
   },
   {
@@ -867,7 +885,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 21.1,
+   "ageDays": 21.2,
    "search": null
   },
   {
@@ -905,7 +923,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 20.1,
+   "ageDays": 20.2,
    "search": null
   },
   {
@@ -924,7 +942,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 20.0,
+   "ageDays": 20.1,
    "search": null
   },
   {
@@ -943,7 +961,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 19.8,
+   "ageDays": 19.9,
    "search": null
   },
   {
@@ -962,7 +980,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 19.0,
+   "ageDays": 19.1,
    "search": null
   },
   {
@@ -981,7 +999,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 19.1,
+   "ageDays": 19.2,
    "search": null
   },
   {
@@ -1000,7 +1018,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 18.8,
+   "ageDays": 18.9,
    "search": null
   },
   {
@@ -1019,7 +1037,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 18.1,
+   "ageDays": 18.2,
    "search": null
   },
   {
@@ -1038,7 +1056,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 18.0,
+   "ageDays": 18.1,
    "search": null
   },
   {
@@ -1057,7 +1075,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 17.8,
+   "ageDays": 17.9,
    "search": null
   },
   {
@@ -1076,7 +1094,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 18.4,
+   "ageDays": 18.5,
    "search": null
   },
   {
@@ -1608,7 +1626,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 683,
-   "ageDays": 4.8,
+   "ageDays": 4.9,
    "search": null
   },
   {
@@ -1783,6 +1801,25 @@
    "search": null
   },
   {
+   "file": "2026-11-09-six-q-genius-berlin-wall.json",
+   "id": "six-q-genius-berlin-wall",
+   "videoId": "FEetYAXUNZk",
+   "kind": "short",
+   "title": "Only Geniuses Get 6/6 🧠 Berlin Wall Quiz #shorts",
+   "format": "6+ Fragen",
+   "topic": "BERLIN WALL QUIZ",
+   "layout": "stick",
+   "music": "game-show.wav",
+   "slot": "16:00",
+   "publicViews": 221.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 48,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-28-long.json",
    "id": "auto-2026-10-28-long",
    "videoId": "zZDclzxCTSg",
@@ -1798,7 +1835,7 @@
    "avgPct": 3.5000000000000004,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 14.7,
+   "ageDays": 14.8,
    "search": null
   },
   {
@@ -1817,7 +1854,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 14.7,
+   "ageDays": 14.8,
    "search": null
   },
   {
@@ -1874,7 +1911,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 12.8,
+   "ageDays": 12.9,
    "search": null
   },
   {
@@ -1893,7 +1930,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 12.8,
+   "ageDays": 12.9,
    "search": null
   },
   {
