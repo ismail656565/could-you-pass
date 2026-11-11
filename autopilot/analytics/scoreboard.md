@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-11T08:24 (21 Abos)
+# Scoreboard – Stand 2026-11-11T11:50 (21 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -9,7 +9,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 9 | 742 | 994 | 1434 | 54.1 | 51.1 | 3.0 |
-| VS-Vergleich | 6 | 719 | 716 | 1188 | 53.4 | 68.0 | 5.0 |
+| VS-Vergleich | 6 | 720 | 716 | 1188 | 53.4 | 68.0 | 5.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1207 | 38.2 | 145.1 | 0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
@@ -24,8 +24,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | TRIVIA CHALLENGE | 1 | 1219 | 1219 | 1219 | 53.5 | 51.3 | 1.0 |
 | BRAIN QUIZ | 1 | 1207 | 1207 | 1207 | 44.1 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1188 | 1188 | 1188 | 61.3 | 60.5 | 2.0 |
-| WHICH HAS MORE PEOPLE? | 1 | 1078 | 1078 | 1078 | 54.5 | 84.2 | 2.0 |
-| CAPITAL CITIES | 1 | 1060 | 1060 | 1060 | 57.7 | 51.9 | 0 |
+| WHICH HAS MORE PEOPLE? | 1 | 1080 | 1080 | 1080 | 54.5 | 84.2 | 2.0 |
+| CAPITAL CITIES | 1 | 1061 | 1061 | 1061 | 57.7 | 51.9 | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 994 | 994 | 994 | 49.1 | 45.5 | 2.0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 716 | 716 | 716 | 37.4 | 114.3 | 0 |
@@ -41,8 +41,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | TRIVIA | 6 | 472 | 289 | 1082 | 52.7 | 59.6 | 0 |
 | SPACE QUIZ | 2 | 228 | 228 | 252 | 52.0 | 76.7 | 0 |
 | FOOD QUIZ | 1 | 185 | 185 | 185 | 64.9 | 80.6 | 0 |
+| ANIMAL QUIZ | 1 | 179 | 179 | 179 | 43.8 | 77.0 | 1.0 |
 | QUICK FIRE SCIENCE | 1 | 179 | 179 | 179 | 52.8 | 58.0 | 0 |
-| ANIMAL QUIZ | 1 | 178 | 178 | 178 | 43.8 | 77.0 | 1.0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
 | VOCABULARY QUIZ | 1 | 147 | 147 | 147 | 38.1 | 38.7 | 0 |
 | TRUE OR FALSE? | 1 | 143 | 143 | 143 | 47.6 | 92.8 | 0 |
@@ -81,7 +81,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 1188 Views · stayed 0.613 · VS-Vergleich · tvshow · world-trip.wav · Which Has More People? 4 Rounds 90% Get Wrong 👥 #shorts
 - 1161 Views · stayed 0.382 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
 - 1082 Views · stayed 0.487 · 4-Fragen-Trap · tvshow · brain-pulse.wav · 4 History Questions Almost Everyone Gets Wrong 🦖 #shorts
-- 1078 Views · stayed 0.545 · VS-Vergleich · tvshow · brain-pulse.wav · Which Country Has More People? 4 Rounds 90% Fail 👥 #shorts
+- 1080 Views · stayed 0.545 · VS-Vergleich · tvshow · brain-pulse.wav · Which Country Has More People? 4 Rounds 90% Fail 👥 #shorts
 
 ### Flop 5 Shorts
 
@@ -100,7 +100,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 0 Fragen | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 49.3 | 25.8 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
-| 30 Fragen | 2 | 10 | 10 | 17 | 91.6 | 16.4 | 0 |
+| 30 Fragen | 2 | 12 | 12 | 19 | 91.6 | 16.4 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 11 | 4 | 2 | 14 | 67.4 | 54.5 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 50.0 | 6.6 | 0 |
@@ -117,7 +117,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 22 | 6 | 60 | 67.8 | 61.0 | 0 |
 | Jahrzehnt | 1 | 4 | 4 | 4 | 50.0 | 100.0 | 0 |
-| Sonstiges | 5 | 5 | 3 | 17 | 77.8 | 13.1 | 0 |
+| Sonstiges | 5 | 6 | 3 | 19 | 77.8 | 13.1 | 0 |
 | Geografie | 1 | 3 | 3 | 3 | 66.7 | 53.5 | 0 |
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
@@ -129,7 +129,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
-| tvshow | 14 | 5 | 2 | 17 | 68.8 | 35.0 | 0 |
+| tvshow | 14 | 5 | 2 | 19 | 68.8 | 35.0 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -137,7 +137,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | game-show.wav | 8 | 30 | 6 | 186 | 74.0 | 40.4 | 1.0 |
-| world-trip.wav | 7 | 8 | 4 | 17 | 56.7 | 52.5 | 0 |
+| world-trip.wav | 7 | 8 | 4 | 19 | 56.7 | 52.5 | 0 |
 | brain-pulse.wav | 7 | 17 | 3 | 60 | 71.5 | 33.1 | 0 |
 
 ### Lange Videos nach Sendezeit
@@ -155,7 +155,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 60 Views · stayed 0.367 · 35 Fragen · neon · brain-pulse.wav · Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz
 - 48 Views · stayed 0.708 · 35 Fragen · neon · brain-pulse.wav · Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions
 - 26 Views · stayed 0.808 · 40 Fragen · neon · game-show.wav · General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions
-- 17 Views · stayed 0.833 · 30 Fragen · tvshow · world-trip.wav · Capital Cities Quiz: 30 Questions From Easy to Legend 🌍
+- 19 Views · stayed 0.833 · 30 Fragen · tvshow · world-trip.wav · Capital Cities Quiz: 30 Questions From Easy to Legend 🌍
 - 14 Views · stayed 0.571 · 50 Fragen · tvshow · world-trip.wav · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
 - 12 Views · stayed 0.333 · 50 Fragen · tvshow · world-trip.wav · Can You Pass the U.S. Citizenship Test? 🗽 50 Real Civics Questions | Easy to Legend
 

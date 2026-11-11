@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-11T08:24",
+ "fetched": "2026-11-11T11:50",
  "channel": "COULD YOU PASS?",
  "subscribers": "21",
  "audience": {
@@ -189,7 +189,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 38,
-   "publicViews": "931",
+   "publicViews": "934",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 48,
-   "publicViews": "578",
+   "publicViews": "975",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 219,
-   "publicViews": "20",
+   "publicViews": "22",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -261,7 +261,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 38,
-   "publicViews": "273",
+   "publicViews": "325",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -285,7 +285,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 48,
-   "publicViews": "210",
+   "publicViews": "221",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1454,7 +1454,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 42,
-   "publicViews": "1078",
+   "publicViews": "1080",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1491,7 +1491,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 44,
-   "publicViews": "1060",
+   "publicViews": "1061",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1527,7 +1527,7 @@
     "YT_SEARCH": 1
    },
    "durationSec": 385,
-   "publicViews": "17",
+   "publicViews": "19",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2201,7 +2201,7 @@
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 14,
-   "publicViews": "178",
+   "publicViews": "179",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
