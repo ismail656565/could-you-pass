@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-11T06:18 (20 Abos)
+# Scoreboard – Stand 2026-11-11T08:24 (21 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -25,7 +25,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | BRAIN QUIZ | 1 | 1207 | 1207 | 1207 | 44.1 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1188 | 1188 | 1188 | 61.3 | 60.5 | 2.0 |
 | WHICH HAS MORE PEOPLE? | 1 | 1078 | 1078 | 1078 | 54.5 | 84.2 | 2.0 |
-| CAPITAL CITIES | 1 | 1056 | 1056 | 1056 | 57.7 | 51.9 | 0 |
+| CAPITAL CITIES | 1 | 1060 | 1060 | 1060 | 57.7 | 51.9 | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 994 | 994 | 994 | 49.1 | 45.5 | 2.0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 716 | 716 | 716 | 37.4 | 114.3 | 0 |
@@ -52,7 +52,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| tvshow | 28 | 556 | 439 | 1219 | 51.9 | 69.5 | 11.0 |
+| tvshow | 28 | 557 | 439 | 1219 | 51.9 | 69.5 | 11.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.1 | 111.5 | 0 |
 
 ### Shorts nach Musik

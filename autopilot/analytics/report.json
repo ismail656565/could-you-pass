@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-11T06:18",
+ "fetched": "2026-11-11T08:24",
  "channel": "COULD YOU PASS?",
- "subscribers": "20",
+ "subscribers": "21",
  "audience": {
   "countries": [
    {
@@ -135,6 +135,54 @@
  },
  "videos": [
   {
+   "id": "3wLEhlCaZjw",
+   "title": "Which Is Colder? 4 Rounds 90% Get #2 Wrong 🥶 #shorts",
+   "published": "2026-11-11T06:24:51Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 42,
+   "publicViews": "0",
+   "status": {
+    "privacyStatus": "private",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
+  },
+  {
+   "id": "QUt5IgIf6nY",
+   "title": "Only Geniuses Get 6/6 🧠 Flag Quiz #shorts",
+   "published": "2026-11-11T06:22:17Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 54,
+   "publicViews": "0",
+   "status": {
+    "privacyStatus": "private",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
+  },
+  {
    "id": "cuQa-J5Y1-0",
    "title": "This Map Is Lying To You 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-10T20:00:30Z",
@@ -165,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 48,
-   "publicViews": "540",
+   "publicViews": "578",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -189,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 219,
-   "publicViews": "9",
+   "publicViews": "20",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +261,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 38,
-   "publicViews": "244",
+   "publicViews": "273",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +285,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 48,
-   "publicViews": "207",
+   "publicViews": "210",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1365,7 +1413,6 @@
    "likes": 0,
    "comments": 0,
    "subscribersGained": 0,
-   "retention": [],
    "trafficSources": {
     "RELATED_VIDEO": 3
    },
@@ -1399,508 +1446,6 @@
    "likes": 25,
    "comments": 1,
    "subscribersGained": 2,
-   "retention": [
-    [
-     0.01,
-     1.393,
-     0.65
-    ],
-    [
-     0.02,
-     1.389,
-     0.625
-    ],
-    [
-     0.03,
-     1.357,
-     0.601
-    ],
-    [
-     0.04,
-     1.336,
-     0.581
-    ],
-    [
-     0.05,
-     1.326,
-     0.567
-    ],
-    [
-     0.06,
-     1.312,
-     0.557
-    ],
-    [
-     0.07,
-     1.303,
-     0.55
-    ],
-    [
-     0.08,
-     1.288,
-     0.546
-    ],
-    [
-     0.09,
-     1.283,
-     0.542
-    ],
-    [
-     0.1,
-     1.281,
-     0.539
-    ],
-    [
-     0.11,
-     1.26,
-     0.537
-    ],
-    [
-     0.12,
-     1.237,
-     0.535
-    ],
-    [
-     0.13,
-     1.214,
-     0.533
-    ],
-    [
-     0.14,
-     1.197,
-     0.532
-    ],
-    [
-     0.15,
-     1.186,
-     0.531
-    ],
-    [
-     0.16,
-     1.173,
-     0.53
-    ],
-    [
-     0.17,
-     1.165,
-     0.529
-    ],
-    [
-     0.18,
-     1.136,
-     0.529
-    ],
-    [
-     0.19,
-     1.103,
-     0.529
-    ],
-    [
-     0.2,
-     1.073,
-     0.529
-    ],
-    [
-     0.21,
-     1.044,
-     0.529
-    ],
-    [
-     0.22,
-     1.021,
-     0.529
-    ],
-    [
-     0.23,
-     1.002,
-     0.529
-    ],
-    [
-     0.24,
-     0.982,
-     0.53
-    ],
-    [
-     0.25,
-     0.968,
-     0.53
-    ],
-    [
-     0.26,
-     0.963,
-     0.53
-    ],
-    [
-     0.27,
-     0.958,
-     0.531
-    ],
-    [
-     0.28,
-     0.947,
-     0.531
-    ],
-    [
-     0.29,
-     0.942,
-     0.532
-    ],
-    [
-     0.3,
-     0.938,
-     0.532
-    ],
-    [
-     0.31,
-     0.931,
-     0.533
-    ],
-    [
-     0.32,
-     0.922,
-     0.534
-    ],
-    [
-     0.33,
-     0.904,
-     0.535
-    ],
-    [
-     0.34,
-     0.903,
-     0.537
-    ],
-    [
-     0.35,
-     0.887,
-     0.538
-    ],
-    [
-     0.36,
-     0.881,
-     0.54
-    ],
-    [
-     0.37,
-     0.871,
-     0.542
-    ],
-    [
-     0.38,
-     0.867,
-     0.544
-    ],
-    [
-     0.39,
-     0.867,
-     0.546
-    ],
-    [
-     0.4,
-     0.862,
-     0.549
-    ],
-    [
-     0.41,
-     0.862,
-     0.552
-    ],
-    [
-     0.42,
-     0.853,
-     0.555
-    ],
-    [
-     0.43,
-     0.832,
-     0.558
-    ],
-    [
-     0.44,
-     0.812,
-     0.561
-    ],
-    [
-     0.45,
-     0.8,
-     0.565
-    ],
-    [
-     0.46,
-     0.791,
-     0.569
-    ],
-    [
-     0.47,
-     0.782,
-     0.574
-    ],
-    [
-     0.48,
-     0.782,
-     0.578
-    ],
-    [
-     0.49,
-     0.78,
-     0.583
-    ],
-    [
-     0.5,
-     0.772,
-     0.589
-    ],
-    [
-     0.51,
-     0.768,
-     0.594
-    ],
-    [
-     0.52,
-     0.759,
-     0.6
-    ],
-    [
-     0.53,
-     0.756,
-     0.606
-    ],
-    [
-     0.54,
-     0.754,
-     0.612
-    ],
-    [
-     0.55,
-     0.754,
-     0.619
-    ],
-    [
-     0.56,
-     0.749,
-     0.626
-    ],
-    [
-     0.57,
-     0.749,
-     0.633
-    ],
-    [
-     0.58,
-     0.745,
-     0.64
-    ],
-    [
-     0.59,
-     0.74,
-     0.648
-    ],
-    [
-     0.6,
-     0.738,
-     0.655
-    ],
-    [
-     0.61,
-     0.736,
-     0.663
-    ],
-    [
-     0.62,
-     0.736,
-     0.671
-    ],
-    [
-     0.63,
-     0.735,
-     0.679
-    ],
-    [
-     0.64,
-     0.735,
-     0.687
-    ],
-    [
-     0.65,
-     0.736,
-     0.695
-    ],
-    [
-     0.66,
-     0.729,
-     0.703
-    ],
-    [
-     0.67,
-     0.722,
-     0.71
-    ],
-    [
-     0.68,
-     0.712,
-     0.718
-    ],
-    [
-     0.69,
-     0.71,
-     0.725
-    ],
-    [
-     0.7,
-     0.706,
-     0.732
-    ],
-    [
-     0.71,
-     0.701,
-     0.739
-    ],
-    [
-     0.72,
-     0.699,
-     0.744
-    ],
-    [
-     0.73,
-     0.696,
-     0.749
-    ],
-    [
-     0.74,
-     0.697,
-     0.753
-    ],
-    [
-     0.75,
-     0.69,
-     0.756
-    ],
-    [
-     0.76,
-     0.688,
-     0.758
-    ],
-    [
-     0.77,
-     0.687,
-     0.759
-    ],
-    [
-     0.78,
-     0.687,
-     0.76
-    ],
-    [
-     0.79,
-     0.687,
-     0.759
-    ],
-    [
-     0.8,
-     0.687,
-     0.758
-    ],
-    [
-     0.81,
-     0.685,
-     0.757
-    ],
-    [
-     0.82,
-     0.683,
-     0.755
-    ],
-    [
-     0.83,
-     0.678,
-     0.753
-    ],
-    [
-     0.84,
-     0.676,
-     0.75
-    ],
-    [
-     0.85,
-     0.674,
-     0.748
-    ],
-    [
-     0.86,
-     0.674,
-     0.745
-    ],
-    [
-     0.87,
-     0.674,
-     0.742
-    ],
-    [
-     0.88,
-     0.674,
-     0.738
-    ],
-    [
-     0.89,
-     0.674,
-     0.735
-    ],
-    [
-     0.9,
-     0.674,
-     0.732
-    ],
-    [
-     0.91,
-     0.662,
-     0.729
-    ],
-    [
-     0.92,
-     0.641,
-     0.725
-    ],
-    [
-     0.93,
-     0.612,
-     0.722
-    ],
-    [
-     0.94,
-     0.575,
-     0.719
-    ],
-    [
-     0.95,
-     0.552,
-     0.716
-    ],
-    [
-     0.96,
-     0.536,
-     0.713
-    ],
-    [
-     0.97,
-     0.51,
-     0.71
-    ],
-    [
-     0.98,
-     0.485,
-     0.707
-    ],
-    [
-     0.99,
-     0.467,
-     0.705
-    ],
-    [
-     1,
-     0.467,
-     0.703
-    ]
-   ],
    "trafficSources": {
     "SHORTS": 988,
     "YT_SEARCH": 27,
@@ -1946,7 +1491,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 44,
-   "publicViews": "1056",
+   "publicViews": "1060",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2042,7 +1587,6 @@
    "id": "WVM3ZgBC3Kk",
    "title": "History Quiz: 50 Questions From Easy to Legend 🏛️",
    "published": "2026-11-06T18:00:18Z",
-   "trafficSources": {},
    "durationSec": 683,
    "publicViews": "2",
    "status": {
@@ -2072,13 +1616,6 @@
    "likes": 15,
    "comments": 0,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 159,
-    "YT_SEARCH": 19,
-    "YT_OTHER_PAGE": 2,
-    "NO_LINK_OTHER": 0,
-    "YT_CHANNEL": 0
-   },
    "durationSec": 53,
    "publicViews": "179",
    "status": {
