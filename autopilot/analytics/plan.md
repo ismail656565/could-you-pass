@@ -1,68 +1,67 @@
-# Plan – 2026-11-10
+# Plan – 2026-11-11
 
 ## TECHNIK-PROBLEM
-1. **Kein Lauf-Fehler** im Log (09.11.: Uploads 06:28–06:48, Kommentare 13:17 / 16:22 / 21:12 mit Long-Link, Konkurrenz 25 Kanäle / 135 Gewinner). Analytics-Stand **09.11. 11:55** (17 Abos) – die 09.11.-Videos waren beim Snapshot noch privat → heute neuer Snapshot nötig.
-2. **Heute erste echte Uploads der neuen Formate** (Karten-Long TrueSizeLong 14:00, Karten-Short map-lie-1 21:00, atlas-6-Q 16:00). Nach dem Rendern QA prüfen: Standbild Shorts ≤ 3 s (> 4 s → neu rendern), Long-Standbild nur im Abspann erlaubt (Probelauf 11,6 s = Endkarten-Standzeit, ok). Vorschaubild TrueSizeThumb + Kapitel prüfen.
-3. **Queue-Zuordnung Longs (geprüft, ok):** autopilot.py nimmt `sorted(QUEUE.glob('*.json'))` → heute `2026-11-10-map-true-size-20-1` vor `2026-11-10-movie-emoji-30-1` (alphabetisch map < movie), Do 12.11. movie-emoji, Sa 14.11. country-emoji. Nichts umbenennen – nur im Log bestätigen, dass heute das Karten-Long lief.
-4. **experiments.md** enthält die Zeile E8 #5 country-emoji doppelt (11.11.) → beim nächsten Eintrag eine löschen; sie läuft jetzt am 14.11.
-5. Hinweis Prompt-Konflikt: Der Agenten-Prompt sagt noch „tvshow für alles“, die neueste Besitzer-STRATEGIE (09.11., learnings.md) sagt **Shorts = atlas, Longs = tvshow/TrueSizeLong**. Es gilt die neueste Besitzer-Regel.
+1. **Bug Short→Long-Verlinkung (seit 10.11., 3× im Log):** `Verlinkung Short → langes Video fehlgeschlagen: 'questions'`. Ursache: `link_short_to_long()` in autopilot.py (Zeile ~1020) liest `long_item['story']['questions']` – das Karten-Long (story.type "truesize") hat `story.rounds`. Fix: `n = len(long_item['story'].get('questions') or long_item['story'].get('rounds') or [])` und Text je nach Typ: Quiz → `▶ Full {n}-question quiz:`, truesize → `▶ Full {n}-round map challenge:`. Danach einmal manuell für 10.11. nachholen (map-lie-1 + six-q-genius-tricky → pgaClOjxsBw verlinken), sonst bleibt das Karten-Paar ohne Beschreibungs-Link. Der Kommentar-Link lief (map-lie-1 21:06 gepostet).
+2. **Analytics-Stand 10.11. 11:46 (18 Abos):** die drei 10.11.-Videos (erste atlas-/Karten-Videos) waren beim Snapshot noch privat → E12/E13 heute noch nicht bewertbar. Heute nach dem Snapshot die 24-h-Werte von map-lie-1, six-q-genius-tricky und pgaClOjxsBw in experiments.md eintragen.
+3. **experiments.md:** Doppelzeile E8 #5 country-emoji ist bereits bereinigt (nur noch 1 Zeile; läuft Sa 14.11.) – erledigt.
+4. Layout-Regel bleibt: **Shorts = atlas, Longs = tvshow/TrueSizeLong** (Besitzer-STRATEGIE 09.11., neuer als der Agenten-Prompt „tvshow für alles“).
 
 ## Zusammenfassung (Deutsch)
-- **Geografie/Länder bleiben König:** VS „Which Country Has More People?“ 1.037 Views (2,2 T), 6-Q Capital Cities 891 (2,2 T) – Shorts-Median 466 (tvshow). 
-- **Weltraum floppt formatübergreifend:** 6-Q Space 162 n. ~21 h, VS Planets & Moons 79 n. ~16 h, Solar-System-Long 3. → Weltraum raus aus allen Slots (E9 vorläufig ✗).
-- **Longs:** Capitals-30 12 Views (bestes 30er-Long), Rest 0–3. Ab heute Longs 2.0 (E13): nur Di/Do/Sa, Karten-/Emoji-Format. E8 geht in E13 auf.
-- **Look-Wechsel:** stick (E11) nach nur 2 Videos vom Besitzer durch **atlas** (E12) ersetzt – E11 ohne Daten abgelöst. Heute die ersten 3 atlas-/Karten-Videos.
-- **Konkurrenz:** Rätsel/IQ in ~7 min dominiert weiter (Quiz World 519k, Clear Think 246k, Quiz Guy 84k). Kommende Suchspitzen: **GTA VI 19.11.** (Take-Two bestätigt), **Hunger Games: Sunrise on the Reaping 20.11.**, Thanksgiving 26.11.
+- **Shorts-Delle am 08./09.11.:** Space-6-Q 229 / VS Planets 127 (≈2,7 T, Weltraum ✗ endgültig), stick-Shorts Berlin Wall 96 / Heavier 79 nach ~0,8 T – weit unter dem 24-h-Median (~436). Gegenbeweis 07.11.: Geo-Paar 1.072 / 1.019. → Themen sind der Hebel: **nur Geo / Allgemeinwissen-leicht / Länder-VS** bis atlas bewertet ist.
+- **Shorts-Format-Ranking bleibt:** 6+ Fragen Median 994 · VS 716 · 4-Trap 251 · Wahr/Falsch 143. Musik: game-show Median 622 > world-trip 449 > brain-pulse 316.
+- **Longs:** Flag-30 10 Views n. 0,9 T, Solar-30 4, Capitals-30 16 → 30-Fragen-Text-Longs bleiben tot; E13 (Karten-/Emoji-Long) hängt an pgaClOjxsBw (10.11.), movie-emoji (12.11.), country-emoji (14.11.).
+- **Konkurrenz:** stärkstes neues Signal = **niedrige Punkt-Hürde** („Can You Score More Than 2?“ QuizNova 425k/72k, „Score Above 5“ Golden Memory 242k) + Rätsel-Longs (Quiz World 519k). Termine: **Fr 13.11. = Freitag der 13.** (bewusst nicht gruselig bespielt), **GTA VI 19.11.** (Take-Two bestätigt), Hunger Games 20.11., Thanksgiving 26.11.
 
-## Konkurrenz-Gewinner heute (competitors.md 09.11., letzte 30 Tage)
+## Konkurrenz-Gewinner heute (competitors.md 10.11. + outliers.md, letzte 30 Tage)
 
 | # | Video (Kanal, Abos) | Views | × Median | Länge | Titel-Muster | Was wir übernehmen → Slot |
 |---|---|---|---|---|---|---|
-| 1 | "10 Tricky IQ Riddles / Test Your Intelligence!" (Quiz World, 1.090) – 22.10. | 518.943 | 277× | 6:48 | Zahl + „Tricky“ + IQ-Versprechen, kein Emoji | „Tricky“ im 6-Q heute 16:00. Long-Version nur als **visuelles** Rätsel-Long (Zahlenfolgen/Muster als cardText) → Backlog #3, frühestens nach E13-Verdict 21.11. |
-| 2 | "Test Your IQ Level in just 8 Min (Part 2)" (Clear Think, 6.790) – 13.10. | 246.008 | 257× | 8:09 | IQ + Zeitversprechen | Zeitversprechen als Long-Titelvariable („in 7 Minutes“) → Backlog #4 |
-| 3 | "You're Not Smart Enough to Solve These 12 Puzzles!" (Quiz Guy, 492) – 15.10. | 84.459 | 73× | 8:15 | Provokation („Not Smart Enough“) + kleine Zahl | Bestätigt Rätsel-Long mit ~12 Runden; Provokations-Titel für 6-Q als späterer Titeltest |
-| 4 | "Name a European city that starts with..." (Chauncey Asks, 5.240) – Short 15.10. | 896.039 | 25× | 1:55 | Geo-Wortspiel, offene Frage | Geo = unser Bestes → 11.11. Flaggen-6-Q, Backlog #5 „Europe Quiz“. Interview-Format nicht renderbar |
-| 5 | "🧠 Your Brain Is Ageless! Take This 10-Question IQ Quiz" (GK STUDIO PRO, 1.880) – 27.10. | 44.643 | 48× | 7:14 | Kompliment-Hook + 10 Fragen | Struktur = E1 (bei uns 0/0/1, gestoppt) → nicht übernehmen, nur Kompliment-Hook als Idee für Short-Hooktext |
+| 1 | "10 Tricky IQ Riddles / Test Your Intelligence!" (Quiz World, 1.080) – 22.10. | 519.172 | 277× | 6:48 | Zahl + „Tricky“ + IQ, kein Emoji | „Tricky“ lief 10.11. im 6-Q; Rätsel-Long mit cardText-Zahlenfolgen bleibt Backlog #2 (nach E13-Verdict 21.11.) |
+| 2 | "Can You Score More Than 2? Test For Ages 70-95!" (QuizNova, 1.380) – Okt. | 425.160 | 308× (Outlier) / 35× (60-90er-Version 72k) | 6:42 | **Extrem niedrige Punkt-Hürde** + Alter | Alter ist bei uns verboten → nur die Hürde übernehmen: erlaubtes 7-Min-Experiment „Can You Score 3/12?“ – unsere 2 Versuche (4/12, 5/15) hatten 0 Views, aber als Text-Allgemeinwissen. Neu: Hürde am **visuellen** Format (Emoji/Karten) → Backlog #3 |
+| 3 | "You're Not Smart Enough to Solve These 12 Puzzles!" (Quiz Guy, 491) – 15.10. | 84.710 | 73× | 8:15 | Provokation + 12 | Provokations-Titel als späterer 6-Q-Titeltest (eine Variable) → Backlog #6 |
+| 4 | "Name a European city that starts with..." (Chauncey Asks, 5.400) – Short 15.10. | 908.783 | 25× | 1:55 | Europa-Geo, offene Frage | Geo = unser Bestes → **13.11. 16:00 6-Q „Europe Quiz“** (unsere Fragen, Multiple Choice) |
+| 5 | "English QuizZ iq test time" (Math Quiz, 2.160) – Short 02.11. | 108.561 | 27× | 1:20 | IQ-Etikett auf Wortquiz, Serie | Wortschatz floppte bei uns (147) → nicht übernehmen; Lehre: Serien-Titel mit gleichem Muster funktionieren (wie unser „Only Geniuses Get 6/6“) |
 
-Zusätzlich beobachtet: Quibby „Name the Movie By The Car“ 389k (1.222×) + Quiz Bunny „Guess the Movie by Emoji“ 693k → stützt **12.11. Movie-Paar** (Emoji-Long + Movie-6-Q 21:00). Nicht übernommen: Playbill/Airline-Livery (Marken), F1 Google Earth (Satellitenbilder nicht lizenziert), Disney-Songs (Musikrechte), comicnutz (Comic-Figuren).
+Nicht übernommen: Playbill/Airline-Livery (Marken), F1 Google Earth (Satellitenbilder unlizenziert), Disney-Songs/Gabby (Rechte), Anime-Zeichnungen, Would-You-Rather (kein Quiz, nicht renderbar).
 
 ## 3-Tage-Plan
 
-Layout: **Shorts = atlas** (Besitzer 09.11., keine Emojis/Maskottchen/KI-Clips im Bild, Bild nur `broll`/`image`), **Longs = tvshow bzw. TrueSizeLong**. Fakten vor dem Schreiben prüfen. Gegen `queue/done/*` greppen.
+Layout: **Shorts = atlas** (keine Emojis/Maskottchen/KI-Clips im Bild, Bild nur `broll` – darf Antwort nicht verraten – oder `image` aus image-credits.json), **Longs = tvshow bzw. TrueSizeLong**. Fakten vor dem Schreiben prüfen. Gegen `queue/done/*` greppen (keine Wiederholung von Fragen/VS-Paaren).
 
 | Datum / Slot | Format | Thema | Arbeitstitel (YouTube) | Fragen + timing | Hook / Frage 1 | Musik | cardColors | Thumbnail A/B/C + Foto | Warum | Erfolgskriterium |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 10.11. Long 14:00 | Karten-Long TrueSizeLong (Queue) | Wahre Größe der Länder | The True Size of Countries (Queue-Titel) | 20 Runden, think 3.4/move 1.7/tail 1.0 | Queue | Queue | – | TrueSizeThumb (Grönland auf Afrika) | E13 Longs 2.0, Outlier „Provinces“ 169k / Karten-Erkennung | E13: ≥30 Views n. 3 T |
-| 10.11. Short 16:00 | 6-Q atlas (Queue) | Allgemeinwissen leicht | Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz | 6 (Queue) | Queue | game-show | – | – | Exploit 6-Q (Median 942) + Quiz World „Tricky“; E12 #1 | ≥800 n. 3 T; E12: ≥436 n. 24 h |
-| 10.11. Short 21:00 | Karten-VS truesize (Queue), gepaart mit Long | Kartenlüge | This Map Is Lying To You (Queue) | Queue | Queue | Queue | – | – | E12 Karten-VS (Besitzer-Abnahme) | ≥ VS-Median 876 n. 3 T |
-| 11.11. Short 16:00 | 6-Q atlas (Queue) | Flaggen | Only Geniuses Get 6/6 🧠 Flag Quiz | 6 (Queue) | Queue | game-show | – | – | Exploit Geo + 6-Q | ≥800 n. 3 T |
-| 11.11. Short 21:00 | VS atlas (Queue) | Kälte | Which Is Colder? 4 Rounds 90% Get #2 Wrong 🥶 | 4 (Queue) | Queue | world-trip | – | – | Exploit VS (Median 876, stayed 54,5 %) | ≥700 n. 3 T |
-| 11.11. Long | **kein Long** (Mi ist kein Long-Tag) | – | – | – | – | – | – | – | Regel Longs 2.0 | – |
-| 12.11. Long 14:00 | Emoji-Long QuizLong tvshow (Queue `2026-11-10-movie-emoji-30-1`) | Filme per Emoji | Guess the Movie by Emoji: 30 Rounds From Easy to Legend 🎬 | 30 (Queue) | Queue | game-show | violett/gold (Queue) | A "GUESS THE MOVIE" + DeLorean / B "25/30" / C "LEGEND LEVEL" | E13 + Emoji = einziges eigenes Long-Muster mit Reichweite (141) + Quiz Bunny 693k | E13: ≥30 n. 3 T |
-| **12.11. Short 16:00** | VS atlas (Queue `2026-11-12-vs-older-1`) – **publishAt von 21:00 auf 16:00 ändern** | Alter | Which Is Older? 4 Rounds 90% Get #2 Wrong 🏛️ | 4 (Queue), count 3.0 / tail 1.2 | Queue | world-trip | – | – | Exploit VS; 21:00 wird für das Long-Paar gebraucht | ≥700 n. 3 T |
-| **12.11. Short 21:00 (NEU)** | 6-Q atlas, ≤50 s, gepaart mit Movie-Emoji-Long | Filme (Text-Fragen) | **Only Geniuses Get 6/6 🧠 Movie Quiz** (+ #shorts, 35 Z.) | 6, count 2.5 / tail 0.8, 4 Optionen, Antworten ≤ 4 Wörter | Q1 leicht: "Which animated film stars a race car named Lightning McQueen?" → Cars. Q2: "Which superhero is called 'The Dark Knight'?" → Batman. Q3: "In 'Jurassic Park', where do scientists find dinosaur DNA?" → Mosquito in amber. **#4 Trick: "What colour are Dorothy's slippers in the 1939 'Wizard of Oz' film?" → Red/Ruby** (Falle Silver – im Buch von 1900 silbern, Film machte sie rot für Technicolor). Q5: "Which film won the very first Oscar for Best Animated Feature?" → Shrek (2002). Finale: "How many Oscars did 'Titanic' (1997) win?" → 11 (Optionen 7/9/11/14). **Keine Filme aus dem Emoji-Long als Antwort** (Liste im Queue-File) | game-show | – (atlas) | – (Short); `broll` je Frage, darf Antwort nicht verraten: Q1 "race track", Q2 "city skyline at night", Q3 "fossil museum", Q4 "old film projector" (NICHT rote Schuhe), Q5 "cinema seats", Q6 "golden statue" (NICHT Ozeandampfer) | **Experiment Thema Filme** (eine Variable: Thema; Titel/Format = bewährtes 6-Q) + Paarung mit Long + Quibby 389k / Quiz Bunny 693k | ≥600 n. 3 T; <400 → Filme nicht mehr in 6-Q, nur als Long |
+| 11.11. Long | **kein Long** (Mi) | – | – | – | – | – | – | – | Longs 2.0 nur Di/Do/Sa | – |
+| 11.11. Short 16:00 | 6-Q atlas (Queue) | Flaggen | Only Geniuses Get 6/6 🧠 Flag Quiz | 6 (Queue) | Queue | game-show | – | – | Exploit Geo + 6-Q (Median 994) | ≥800 n. 3 T |
+| 11.11. Short 21:00 | VS atlas (Queue) | Kälte | Which Is Colder? 4 Rounds 90% Get #2 Wrong 🥶 | 4 (Queue) | Queue | world-trip | – | – | Exploit VS (Median 716) | ≥700 n. 3 T |
+| 12.11. Long 14:00 | Emoji-Long QuizLong tvshow (Queue) | Filme per Emoji | Guess the Movie by Emoji: 30 Rounds From Easy to Legend 🎬 | 30 (Queue) | Queue | game-show | violett/gold | A "GUESS THE MOVIE" + DeLorean / B "25/30" / C "LEGEND LEVEL" | E13 + Quiz Bunny 694k (119×), Quibby 391k (1.228×) | E13: ≥30 n. 3 T |
+| 12.11. Short 16:00 | VS atlas (Queue) | Alter | Which Is Older? 4 Rounds 90% Get #2 Wrong 🏛️ | 4 (Queue) | Queue | world-trip | – | – | Exploit VS | ≥700 n. 3 T |
+| 12.11. Short 21:00 | 6-Q atlas (Queue), gepaart mit Movie-Long | Filme | Only Geniuses Get 6/6 🧠 Movie Quiz | 6 (Queue) | Queue | game-show | – | – | **Experiment Thema Filme** | ≥600 n. 3 T; <400 → Filme nur als Long |
+| **13.11. Long** | **kein Long** (Fr) | – | – | – | – | – | – | – | Regel Longs 2.0 | – |
+| **13.11. Short 16:00 (NEU)** | 6-Q atlas | Europa-Geografie (leicht → Falle) | **Only Geniuses Get 6/6 🧠 Europe Quiz** (+ #shorts) | 6, count 2.5 / tail 0.8, 4 Optionen, Antworten ≤ 3 Wörter | Q1 "Which country is shaped like a boot?" → Italy. Q2 "Which river flows through Vienna, Budapest and Belgrade?" → Danube. Q3 "Which of these countries does NOT border Germany?" (Austria/Poland/Hungary/Denmark) → Hungary. **#4 Falle: "What is the smallest country in Europe?" → Vatican City** (Falle Monaco). Q5 "Which is the northernmost capital of a sovereign country?" (Helsinki/Oslo/Reykjavik/Stockholm) → Reykjavik. Finale: "Which country has the most people in the EU?" (France/Italy/Germany/Spain) → Germany. Doppelte gegen six-q-genius-capitals / six-q-quick-geo prüfen und ggf. ersetzen | game-show | – (atlas) | – (Short); broll: Q1 "Mediterranean coastline", Q2 "river bridge city", Q3 "European border sign", Q4 "St Peter's Square" ✗ (verrät) → "small European old town", Q5 "snowy harbour", Q6 "European parliament flags" | **Exploit** Geo-6-Q (Capitals 1.019, Quick Fire Geo 994) + **Konkurrenz #4** Chauncey 909k | ≥800 n. 3 T |
+| **13.11. Short 21:00 (NEU)** | VS atlas (AtlasCompareScene, Balken mit echten Werten) | Bevölkerung Runde 3 | **Which Country Has More People? Round 3 – 90% Fail 👥** (+ #shorts) | 4 Runden, count 3.0 / tail 1.2 | R1 Egypt (~116 Mio.) vs Germany (~84 Mio.) → Egypt. **R2 Falle: Bangladesh (~173 Mio.) vs Russia (~144 Mio.) → Bangladesh.** R3 Canada (~41 Mio.) vs Poland (~37 Mio.) → Canada. Finale: Nigeria (~230 Mio.) vs Brazil (~212 Mio.) → Nigeria. Werte = UN WPP 2024 Schätzung 2025, in Beschreibung als Quelle; Gewinnerseite abwechseln; Paare gegen vs-population-1 / vs-more-people-2 greppen | world-trip | – | – | **Exploit stärkstes VS** (More People 1.188 + 1.072, stayed 61 %/53 %) – Serie mit „Round 3“ wie Konkurrenz-Serien | ≥800 n. 3 T |
 
-Bandit 10.–12.11.: Exploit 5 (6-Q Tricky, 6-Q Flags, VS Colder, VS Older, Emoji-Long) / Experiment 3 (Karten-Long E13, Karten-VS E12, Movie-6-Q) ≈ 63/37 – plus Querschnitts-Experiment atlas-Look (Besitzer-Vorgabe).
+Vorschau Sa 14.11. (Long-Tag, damit morgen nichts fehlt): Long 14:00 country-emoji-30-1 (Queue). Short 16:00 **Experiment Thema Tiere**: „Only Geniuses Get 6/6 🧠 Animal Quiz“ (Blauwal größtes Tier, Spinne 8 Beine, Kolibri fliegt rückwärts, **#4 Falle Eisbär-Haut = schwarz**, Oktopus 3 Herzen, Fledermaus einziges echt fliegendes Säugetier; game-show) – Konkurrenz Quiz Dolphy Animal 177k (110×), Nature-Quiz 866; Kriterium ≥600 n. 3 T. Short 21:00 gepaart mit Country-Emoji-Long: **Karten-VS „This Map Is Lying To You #2“**, falls map-lie-1 im heutigen Snapshot ≥436 Views n. 24 h hat, sonst 6-Q „Only Geniuses Get 6/6 🧠 Capital Cities Quiz #2“.
+
+Bandit 11.–13.11.: Exploit 6 (Flags, Colder, Older, Emoji-Long, Europe-6-Q, VS People R3) / Experiment 1 (Movie-6-Q) + Querschnitt atlas (E12) und Longs 2.0 (E13) → bewusst exploitlastig nach der 08./09.11.-Delle; Sa 14.11. wieder 2 Experimente (Tiere, Karten-VS #2).
 
 ## Ideen-Backlog (nach erwartetem Potenzial)
-1. **GTA VI (Release 19.11., Take-Two bestätigt): 6-Q "Only Real Fans Get 6/6 🎮 GTA Quiz" am Do 19.11. 21:00** (gepaart mit Long des Tages) – größte Gaming-Suchspitze des Jahres; nur Textfakten (Vice City = Miami-Vorbild, Erscheinungsjahre GTA III 2001 / V 2013), keine Spielbilder/Logos, keine Gewalt-/Waffenfragen.
-2. **Hunger Games: Sunrise on the Reaping (Kinostart 20.11.): 6-Q "Only Real Fans Get 6/6 🏹 Hunger Games Quiz" Fr 20.11.** – Buchfakten (Haymitch, 50. Spiele = 2. Quarter Quell), keine Filmstills.
-3. **Long "Can You Solve These 10 Tricky Riddles?" (~7 min, Rätsel als cardText-Muster/Zahlenfolgen = visuell)** – Quiz World 519k (277×), Quiz Guy 84k/41k/38k, Puzzle Code 66k; erst nach E13-Verdict 21.11.
-4. **Long-Titeltest „… in Just 7 Minutes“** – Clear Think 1,73 Mio + 246k; eine Variable am Emoji-/Karten-Long.
-5. **6-Q "Only Geniuses Get 6/6 🧠 Europe Quiz"** – Chauncey Asks 896k, Geo-Shorts 891–1.188.
-6. **Karten-Long Folge 2 Sa 21.11.: "The True Size of US States vs Countries"** (Texas/Alaska vorhanden, California nachtragen) – Karten = Owner-Format, „guess the country“ Autocomplete 4,2.
-7. **VS "Which Country Is Bigger? Round 2" (atlas)** – „which is bigger“ Trends-Breakout, VS Bigger 876.
-8. **Thanksgiving Do 26.11.: Long "Guess the Thanksgiving Food by Emoji" + 6-Q 21:00** – Trends „thanksgiving trivia“ +350 %; Halloween-35 war bestes Fragen-Long (186).
-9. **Long "Guess the Animal by Emoji: 30 Rounds"** – Trends „guess the animal challenge“ +130 %, Emoji-Format.
-10. **VS "Which Is Longer?" (Flüsse/Grenzen, atlas)** – VS-Format, nur unstrittige Paare (nicht Nil vs Amazonas).
+1. **GTA VI (19.11., Take-Two bestätigt): 6-Q „Only Real Fans Get 6/6 🎮 GTA Quiz“ Do 19.11. 21:00** – größte Gaming-Suchspitze des Jahres; nur Textfakten (Vice City = Miami-Vorbild, GTA III 2001 / GTA V 2013), keine Spielbilder/Logos/Gewaltfragen.
+2. **Long „Can You Solve These 10 Tricky Riddles?“ (~7 min, Zahlenfolgen/Muster als cardText)** – Quiz World 519k (277×), Quiz Guy 85k, Puzzle Code 66k; nach E13-Verdict 21.11.
+3. **Low-Hurdle am visuellen Long: „Guess the Country by Emoji – Can You Get 5/20?“** – QuizNova 425k / Golden Memory 242k („Score Above 5“); eine Variable (Titel) gegen das Emoji-Long vom 14.11.
+4. **Hunger Games: Sunrise on the Reaping (20.11.): 6-Q „Only Real Fans Get 6/6 🏹 Hunger Games Quiz“** – Buchfakten, keine Filmstills.
+5. **Thanksgiving Do 26.11.: Long „Guess the Thanksgiving Food by Emoji“ + 6-Q 21:00** – Trends „thanksgiving trivia“ +350 %; bestes Fragen-Long war ein Event (186).
+6. **6-Q-Titeltest „You're Not Smart Enough to Get 6/6 🧠 …“** – Quiz Guy 85k/41k/38k; eine Variable gegen „Only Geniuses“.
+7. **Karten-Long Folge 2 Sa 21.11.: „The True Size of US States vs Countries“** (California nachtragen) – „country guess the country“ Autocomplete 4,2.
+8. **VS „Which Country Is Bigger? Round 2“ (atlas)** – VS Bigger 876, Trends-Breakout „which is bigger“.
+9. **Long „Guess the Animal by Emoji: 30 Rounds“** – „animal quiz on youtube“ 2,6, Trends +130 %; nach Animal-6-Q-Ergebnis.
+10. **True/False-6-Q „True or False? 6 Geography Facts 90% Get Wrong“** – Keyword #1 „true or false quiz“ (17,7), aber eigener T/F-Short 143 → nur als Geo-Version, niedrige Priorität.
 
-Gestrichen: Weltraum (6-Q 162, VS 79, Long 3), Wissenschaft, Wortschatz, Bauwerkshöhen, Kriegs-/Sprengstoffthemen (Veterans Day 11.11. bewusst ausgelassen), Halloween.
+Gestrichen: Weltraum (6-Q 229, VS 127, Long 4 – endgültig), Wissenschaft, Wortschatz, Bauwerkshöhen, Krieg/Sprengstoff, Halloween, Freitag-der-13.-Grusel.
 
 ## Für den Produktions-Agenten (gilt heute, überschreibt ältere Defaults)
-- **Heute produzieren:** map-true-size-20-1 (Long, Di = Long-Tag), six-q-genius-tricky 16:00, map-lie-1 21:00. movie-emoji-30-1 erst Do 12.11. (Sortierung passt, siehe TECHNIK 3).
-- **Für 12.11. anlegen:** `2026-11-12-six-q-genius-movies.json` (publishAt "21:00", layout atlas, Musik game-show, Fragen wie in der Tabelle, Fakten prüfen, gegen movie-emoji-30-1 und queue/done greppen). In `2026-11-12-vs-older-1.json` **publishAt "16:00"** setzen. Kommentar des 21:00-Shorts verlinkt das Movie-Emoji-Long.
-- Für 11.11. nichts neu (kein Long-Tag, beide Shorts liegen bereit).
-- **Kein Weltraum-Thema** mehr in Shorts oder Longs (auch nicht als Runde in neuen VS). vs-colder-1 bleibt wie angelegt.
-- atlas-Regeln: keine Emojis im Bild, `q["ltx"]` nie setzen, Bild nur `broll` (verrät Antwort nicht) oder `image` aus image-credits.json.
-- E12-Bewertung ab Snapshot 11.11.: atlas-Shorts gegen Shorts-Median 466 (24 h) und stayed 51 %.
-- Weiter verboten: Halloween, Politik, Krieg/Waffen/Sprengstoff, 💥, Alters-Titel, E1-Longs, 50-Fragen-Text-Longs, Longs an Mo/Mi/Fr/So.
+- **Zuerst TECHNIK 1 fixen** (`link_short_to_long` für story.rounds) und 10.11. nachverlinken.
+- **Heute produzieren:** six-q-genius-flags 16:00, vs-colder-1 21:00, **kein Long** (Mi).
+- **Für 13.11. anlegen:** `2026-11-13-six-q-genius-europe.json` (publishAt "16:00", atlas, game-show) und `2026-11-13-vs-more-people-3.json` (publishAt "21:00", atlas, world-trip) wie in der Tabelle; Werte/Fakten prüfen, Duplikate gegen queue/done greppen. **Kein Long** am Fr.
+- Für 14.11. vorbereiten, falls Zeit: `2026-11-14-six-q-genius-animals.json` (16:00) + 21:00-Short nach der Bedingung oben (map-lie-1 ≥436 n. 24 h → Karten-VS #2, sonst Capitals #2).
+- Kein Weltraum, kein Halloween/Grusel (auch nicht „Friday the 13th“), Politik, Krieg/Waffen/Sprengstoff, 💥, Alters-Titel, 50-Fragen-Text-Longs, Longs an Mo/Mi/Fr/So.
+- E12 (atlas) nach heutigem Snapshot gegen Shorts-24-h-Median ~436 und stayed ~51 % eintragen; wenn beide 10.11.-atlas-Shorts <200 n. 24 h → in learnings.md als Warnsignal notieren (Verdict erst nach 4 Videos).

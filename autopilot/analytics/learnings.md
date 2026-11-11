@@ -512,3 +512,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Capitals-30 12, Solar-30 3, Flag-30 noch privat beim Snapshot → E13 (Karten-/Emoji-Longs ab heute) ist der nächste echte Test.
 - Thumbnails: CTR weiter nicht messbar (HttpError 400); keine neuen Long-Thumbnails angelegt (Movie-Long liegt mit A/B/C bereit).
 - Duplikate vermieden: Movie-6-Q ohne Filme aus movie-emoji-30-1; Titanic nur als Oscar-Anzahl (Sinkjahr/-dauer/Bauort schon benutzt), "erster Best-Picture-Oscar" schon benutzt → Best Animated Feature (Shrek).
+
+## 2026-11-11 – Research
+- Shorts-Delle 08./09.11.: Space 229 / Planets 127 (≈2,7 T → Weltraum endgültig ✗), stick-Shorts Berlin Wall 96 / Heavier 79 (≈0,8 T) vs. Geo-Paar 07.11. 1.072 / 1.019 → nur Geo/leichtes Allgemeinwissen/Länder-VS bis atlas bewertet ist.
+- Format-Median Shorts: 6-Q 994 · VS 716 · 4-Trap 251 · T/F 143; Musik game-show 622 > world-trip 449 > brain-pulse 316. Text-Longs: Flag-30 10, Solar-30 4.
+- Bug: Short→Long-Verlinkung scheitert am Karten-Long (`story.rounds` statt `questions`) – Fix im Plan.
+- Neu geplant 13.11.: 6-Q Europe (Chauncey 909k) + VS More People R3 (bestes VS-Muster); 14.11.: Tiere-6-Q (Experiment), Karten-VS #2 bedingt. Konkurrenz-Signal: niedrige Punkt-Hürde (QuizNova 425k) → später am Emoji-Long testen.
