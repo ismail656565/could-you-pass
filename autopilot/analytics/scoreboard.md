@@ -91,7 +91,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 1 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (23 Videos)
+## Lange Videos (24 Videos)
 
 ### Lange Videos nach Format
 
@@ -100,7 +100,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 0 Fragen | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 49.3 | 25.8 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
-| 30 Fragen | 2 | 12 | 12 | 19 | 91.6 | 16.4 | 0 |
+| 30 Fragen | 3 | 12 | 13 | 19 | 91.6 | 16.4 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 11 | 4 | 2 | 14 | 67.4 | 54.5 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 50.0 | 6.6 | 0 |
@@ -114,11 +114,11 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Emoji-Raten | 2 | 71 | 71 | 141 | 86.5 | 27.2 | 1.0 |
 | IQ-Titel | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | Can-You-Pass-Test | 1 | 12 | 12 | 12 | 33.3 | 31.6 | 0 |
+| Geografie | 2 | 8 | 8 | 13 | 66.7 | 53.5 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 22 | 6 | 60 | 67.8 | 61.0 | 0 |
 | Jahrzehnt | 1 | 4 | 4 | 4 | 50.0 | 100.0 | 0 |
 | Sonstiges | 5 | 6 | 3 | 19 | 77.8 | 13.1 | 0 |
-| Geografie | 1 | 3 | 3 | 3 | 66.7 | 53.5 | 0 |
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | 100.0 | 99.8 | 0 |
@@ -129,15 +129,15 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
-| tvshow | 14 | 5 | 2 | 19 | 68.8 | 35.0 | 0 |
+| tvshow | 15 | 5 | 3 | 19 | 68.8 | 35.0 | 0 |
 
 ### Lange Videos nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
+| world-trip.wav | 8 | 9 | 8 | 19 | 56.7 | 52.5 | 0 |
 | game-show.wav | 8 | 30 | 6 | 186 | 74.0 | 40.4 | 1.0 |
-| world-trip.wav | 7 | 8 | 4 | 19 | 56.7 | 52.5 | 0 |
 | brain-pulse.wav | 7 | 17 | 3 | 60 | 71.5 | 33.1 | 0 |
 
 ### Lange Videos nach Sendezeit
@@ -145,7 +145,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 19 | 11 | 4 | 60 | 69.6 | 42.3 | 1.0 |
+| 14:00 | 20 | 11 | 4 | 60 | 69.6 | 42.3 | 1.0 |
 | 19:00 | 1 | 2 | 2 | 2 | – | – | 0 |
 
 ### Top 8 Lange Videos
@@ -157,7 +157,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 26 Views · stayed 0.808 · 40 Fragen · neon · game-show.wav · General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions
 - 19 Views · stayed 0.833 · 30 Fragen · tvshow · world-trip.wav · Capital Cities Quiz: 30 Questions From Easy to Legend 🌍
 - 14 Views · stayed 0.571 · 50 Fragen · tvshow · world-trip.wav · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
-- 12 Views · stayed 0.333 · 50 Fragen · tvshow · world-trip.wav · Can You Pass the U.S. Citizenship Test? 🗽 50 Real Civics Questions | Easy to Legend
+- 13 Views · stayed – · 30 Fragen · tvshow · world-trip.wav · Flag Quiz: 30 Questions From Easy to Legend 🚩
 
 ### Flop 5 Lange Videos
 

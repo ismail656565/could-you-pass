@@ -463,9 +463,9 @@
     "subs": 0
    },
    "30 Fragen": {
-    "n": 2,
+    "n": 3,
     "avgViews": 12,
-    "medianViews": 12,
+    "medianViews": 13,
     "bestViews": 19,
     "stayed": 91.6,
     "avgPct": 16.4,
@@ -573,10 +573,10 @@
     "subs": 0
    },
    "Geografie": {
-    "n": 1,
-    "avgViews": 3,
-    "medianViews": 3,
-    "bestViews": 3,
+    "n": 2,
+    "avgViews": 8,
+    "medianViews": 8,
+    "bestViews": 13,
     "stayed": 66.7,
     "avgPct": 53.5,
     "subs": 0
@@ -602,9 +602,9 @@
     "subs": 1.0
    },
    "tvshow": {
-    "n": 14,
+    "n": 15,
     "avgViews": 5,
-    "medianViews": 2,
+    "medianViews": 3,
     "bestViews": 19,
     "stayed": 68.8,
     "avgPct": 35.0,
@@ -640,9 +640,9 @@
     "subs": 0
    },
    "world-trip.wav": {
-    "n": 7,
-    "avgViews": 8,
-    "medianViews": 4,
+    "n": 8,
+    "avgViews": 9,
+    "medianViews": 8,
     "bestViews": 19,
     "stayed": 56.7,
     "avgPct": 52.5,
@@ -660,7 +660,7 @@
     "subs": 1.0
    },
    "14:00": {
-    "n": 19,
+    "n": 20,
     "avgViews": 11,
     "medianViews": 4,
     "bestViews": 60,
@@ -715,7 +715,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 23.8,
+   "ageDays": 23.9,
    "search": null
   },
   {
@@ -734,7 +734,7 @@
    "avgPct": 61.11,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 23.8,
+   "ageDays": 23.9,
    "search": null
   },
   {
@@ -753,7 +753,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 22.7,
+   "ageDays": 22.8,
    "search": null
   },
   {
@@ -772,7 +772,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 22.7,
+   "ageDays": 22.8,
    "search": null
   },
   {
@@ -791,7 +791,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 23.0,
+   "ageDays": 23.1,
    "search": null
   },
   {
@@ -848,7 +848,7 @@
    "avgPct": 28.499999999999996,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 22.0,
+   "ageDays": 22.1,
    "search": null
   },
   {
@@ -867,7 +867,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 21.0,
+   "ageDays": 21.1,
    "search": null
   },
   {
@@ -905,7 +905,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 20.0,
+   "ageDays": 20.1,
    "search": null
   },
   {
@@ -924,7 +924,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 19.9,
+   "ageDays": 20.0,
    "search": null
   },
   {
@@ -943,7 +943,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 19.7,
+   "ageDays": 19.8,
    "search": null
   },
   {
@@ -962,7 +962,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 18.9,
+   "ageDays": 19.0,
    "search": null
   },
   {
@@ -981,7 +981,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 19.0,
+   "ageDays": 19.1,
    "search": null
   },
   {
@@ -1000,7 +1000,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 18.7,
+   "ageDays": 18.8,
    "search": null
   },
   {
@@ -1019,7 +1019,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 18.0,
+   "ageDays": 18.1,
    "search": null
   },
   {
@@ -1038,7 +1038,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 17.9,
+   "ageDays": 18.0,
    "search": null
   },
   {
@@ -1057,7 +1057,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 17.7,
+   "ageDays": 17.8,
    "search": null
   },
   {
@@ -1608,7 +1608,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 683,
-   "ageDays": 4.7,
+   "ageDays": 4.8,
    "search": null
   },
   {
@@ -1764,6 +1764,25 @@
    "search": 5
   },
   {
+   "file": "2026-11-09-flag-quiz-30-1.json",
+   "id": "flag-quiz-30-1",
+   "videoId": "K6BAQbHRIqM",
+   "kind": "long",
+   "title": "Flag Quiz: 30 Questions From Easy to Legend 🚩",
+   "format": "30 Fragen",
+   "topic": "Geografie",
+   "layout": "tvshow",
+   "music": "world-trip.wav",
+   "slot": "14:00",
+   "publicViews": 13.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 380,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-28-long.json",
    "id": "auto-2026-10-28-long",
    "videoId": "zZDclzxCTSg",
@@ -1798,7 +1817,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 14.6,
+   "ageDays": 14.7,
    "search": null
   },
   {
@@ -1817,7 +1836,7 @@
    "avgPct": 103.37,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 14.6,
+   "ageDays": 14.7,
    "search": null
   },
   {
@@ -1855,7 +1874,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 12.7,
+   "ageDays": 12.8,
    "search": null
   },
   {
@@ -1874,7 +1893,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 12.7,
+   "ageDays": 12.8,
    "search": null
   },
   {
