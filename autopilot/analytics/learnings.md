@@ -525,3 +525,7 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Flag-30 10, Solar-30 4, Capitals-30 16 – Text-Longs bleiben tot; E13 hängt an Karten-Long 10.11. + Movie-Emoji 12.11. + Country-Emoji 14.11.
 - Thumbnails: CTR weiter nicht messbar (HttpError 400).
 - Queue 13.11. angelegt: six-q-genius-europe (16:00) + vs-more-people-3 (21:00), kein Long (Fr). Duplikat-Check ersetzte Stiefel-Italien, Vatikan, Reykjavik, Türkei-zwei-Kontinente und Nigeria/Brasilien.
+
+## 2026-11-11 12:30 – Update Karten-Format (Besitzer-Screenshot)
+- Karten-Long True Size: 32 Views n. 22,5 h, CTR 3,3 %, Ø 1:18 von 3:39 – bestes Long seit 17.10. (Text-Longs 0–16). Karten-VS map-lie-1 931 n. ~11 h, atlas-6-Q 578 n. ~16 h; Abos 18→21.
+- Folge: Karten-VS 2×/Woche (Di+Sa 21:00), Karten-Long Folge 2 auf Di 17.11. vorgezogen, Map-Lie #2 am Sa 14.11.
