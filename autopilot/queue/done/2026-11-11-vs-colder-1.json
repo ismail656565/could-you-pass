@@ -57,7 +57,12 @@
     "icons": [
      "🐧",
      "🐻‍❄️"
-    ]
+    ],
+    "start": 0.0,
+    "keywordAt": 0.493,
+    "countdownStart": 3.133,
+    "reveal": 6.133,
+    "end": 10.377
    },
    {
     "q": "Which is **colder**?",
@@ -78,7 +83,11 @@
     "icons": [
      "🔴",
      "🌍"
-    ]
+    ],
+    "start": 10.377,
+    "countdownStart": 13.52,
+    "reveal": 16.52,
+    "end": 20.932
    },
    {
     "q": "Which is **colder**?",
@@ -99,7 +108,11 @@
     "icons": [
      "🦣",
      "🐎"
-    ]
+    ],
+    "start": 20.932,
+    "countdownStart": 23.242,
+    "reveal": 26.242,
+    "end": 29.827
    },
    {
     "q": "Which is **colder**?",
@@ -120,9 +133,16 @@
     "icons": [
      "🧪",
      "🌌"
-    ]
+    ],
+    "start": 29.827,
+    "countdownStart": 32.453,
+    "reveal": 35.453,
+    "end": 41.255
    }
-  ]
+  ],
+  "audio": "audio/vs-colder-1.mp3",
+  "outroStart": 41.255,
+  "durationInSeconds": 41.255
  },
  "lines": [
   {
@@ -141,5 +161,22 @@
    "q": "Last one. Liquid nitrogen, or deep space?",
    "a": "Deep space! Just three degrees above absolute zero. Think you can get all four? Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -21.0,
+  "truePeak": -2.6,
+  "lra": 5.4,
+  "normalized": true,
+  "frozenShare": 0.483,
+  "longestFreezeSec": 3.0,
+  "frame0Luma": 213.5,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-11T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "3wLEhlCaZjw",
+  "at": "2026-11-11T06:24"
+ }
 }

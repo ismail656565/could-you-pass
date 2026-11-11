@@ -47,7 +47,12 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🧵"
+    "cardText": "🧵",
+    "start": 0.0,
+    "keywordAt": 1.344,
+    "countdownStart": 2.14,
+    "reveal": 4.64,
+    "end": 9.463
    },
    {
     "q": "What colour is the circle on **Japan's** flag?",
@@ -59,7 +64,12 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🍣"
+    "cardText": "🍣",
+    "start": 9.463,
+    "keywordAt": 10.871,
+    "countdownStart": 11.767,
+    "reveal": 14.267,
+    "end": 16.981
    },
    {
     "q": "Which colour is NOT on the **French** flag?",
@@ -71,7 +81,12 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🥐"
+    "cardText": "🥐",
+    "start": 16.981,
+    "keywordAt": 18.238,
+    "countdownStart": 19.061,
+    "reveal": 21.561,
+    "end": 24.217
    },
    {
     "q": "How many **stars** are on Australia's flag?",
@@ -83,7 +98,12 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🦘"
+    "cardText": "🦘",
+    "start": 24.217,
+    "keywordAt": 24.722,
+    "countdownStart": 26.439,
+    "reveal": 28.939,
+    "end": 32.971
    },
    {
     "q": "How many **stars** are on China's flag?",
@@ -95,7 +115,12 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🐼"
+    "cardText": "🐼",
+    "start": 32.971,
+    "keywordAt": 33.487,
+    "countdownStart": 35.047,
+    "reveal": 37.547,
+    "end": 40.954
    },
    {
     "q": "Which flag is almost a twin of **Indonesia's**?",
@@ -107,9 +132,17 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🏝️"
+    "cardText": "🏝️",
+    "start": 40.954,
+    "keywordAt": 43.481,
+    "countdownStart": 44.357,
+    "reveal": 46.857,
+    "end": 53.172
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-flags.mp3",
+  "outroStart": 53.172,
+  "durationInSeconds": 53.172
  },
  "lines": [
   {
@@ -136,5 +169,22 @@
    "q": "Last one. Which country's flag is almost a twin of Indonesia's?",
    "a": "Monaco! Same red over white, just a different shape. Poland is upside down. Got all six? Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.1,
+  "truePeak": -3.4,
+  "lra": 5.4,
+  "normalized": true,
+  "frozenShare": 0.789,
+  "longestFreezeSec": 4.0,
+  "frame0Luma": 205.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-11T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "QUt5IgIf6nY",
+  "at": "2026-11-11T06:22"
+ }
 }

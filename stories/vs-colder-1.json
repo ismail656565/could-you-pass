@@ -1,0 +1,123 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "Colder?",
+ "header": "WHICH IS COLDER?",
+ "hook": "90% GET #2 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "COLDER!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which is **colder**?",
+   "answers": [
+    "South Pole",
+    "North Pole"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "values": [
+    60,
+    40
+   ],
+   "valueLabels": [
+    "≈ −60 °C",
+    "≈ −40 °C"
+   ],
+   "icons": [
+    "🐧",
+    "🐻‍❄️"
+   ],
+   "start": 0.0,
+   "keywordAt": 0.493,
+   "countdownStart": 3.133,
+   "reveal": 6.133,
+   "end": 10.377
+  },
+  {
+   "q": "Which is **colder**?",
+   "answers": [
+    "Average on Mars",
+    "Coldest day on Earth"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "values": [
+    60,
+    89
+   ],
+   "valueLabels": [
+    "≈ −60 °C",
+    "−89 °C"
+   ],
+   "icons": [
+    "🔴",
+    "🌍"
+   ],
+   "start": 10.377,
+   "countdownStart": 13.52,
+   "reveal": 16.52,
+   "end": 20.932
+  },
+  {
+   "q": "Which is **colder**?",
+   "answers": [
+    "Yakutsk",
+    "Ulaanbaatar"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "values": [
+    39,
+    22
+   ],
+   "valueLabels": [
+    "≈ −39 °C",
+    "≈ −22 °C"
+   ],
+   "icons": [
+    "🦣",
+    "🐎"
+   ],
+   "start": 20.932,
+   "countdownStart": 23.242,
+   "reveal": 26.242,
+   "end": 29.827
+  },
+  {
+   "q": "Which is **colder**?",
+   "answers": [
+    "Liquid nitrogen",
+    "Deep space"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "values": [
+    196,
+    270
+   ],
+   "valueLabels": [
+    "−196 °C",
+    "−270 °C"
+   ],
+   "icons": [
+    "🧪",
+    "🌌"
+   ],
+   "start": 29.827,
+   "countdownStart": 32.453,
+   "reveal": 35.453,
+   "end": 41.255
+  }
+ ],
+ "audio": "audio/vs-colder-1.mp3",
+ "outroStart": 41.255,
+ "durationInSeconds": 41.255
+}

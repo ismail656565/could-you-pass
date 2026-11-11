@@ -1,0 +1,124 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "Flag Quiz",
+ "header": "FLAG QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which flag is nicknamed the **Union Jack**?",
+   "answers": [
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "Canada"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🧵",
+   "start": 0.0,
+   "keywordAt": 1.344,
+   "countdownStart": 2.14,
+   "reveal": 4.64,
+   "end": 9.463
+  },
+  {
+   "q": "What colour is the circle on **Japan's** flag?",
+   "answers": [
+    "Yellow",
+    "White",
+    "Red",
+    "Black"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🍣",
+   "start": 9.463,
+   "keywordAt": 10.871,
+   "countdownStart": 11.767,
+   "reveal": 14.267,
+   "end": 16.981
+  },
+  {
+   "q": "Which colour is NOT on the **French** flag?",
+   "answers": [
+    "Blue",
+    "Green",
+    "White",
+    "Red"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🥐",
+   "start": 16.981,
+   "keywordAt": 18.238,
+   "countdownStart": 19.061,
+   "reveal": 21.561,
+   "end": 24.217
+  },
+  {
+   "q": "How many **stars** are on Australia's flag?",
+   "answers": [
+    "Five",
+    "Seven",
+    "Four",
+    "Six"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🦘",
+   "start": 24.217,
+   "keywordAt": 24.722,
+   "countdownStart": 26.439,
+   "reveal": 28.939,
+   "end": 32.971
+  },
+  {
+   "q": "How many **stars** are on China's flag?",
+   "answers": [
+    "Five",
+    "One",
+    "Three",
+    "Six"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "🐼",
+   "start": 32.971,
+   "keywordAt": 33.487,
+   "countdownStart": 35.047,
+   "reveal": 37.547,
+   "end": 40.954
+  },
+  {
+   "q": "Which flag is almost a twin of **Indonesia's**?",
+   "answers": [
+    "Poland",
+    "Austria",
+    "Monaco",
+    "Singapore"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🏝️",
+   "start": 40.954,
+   "keywordAt": 43.481,
+   "countdownStart": 44.357,
+   "reveal": 46.857,
+   "end": 53.172
+  }
+ ],
+ "audio": "audio/six-q-genius-flags.mp3",
+ "outroStart": 53.172,
+ "durationInSeconds": 53.172
+}
