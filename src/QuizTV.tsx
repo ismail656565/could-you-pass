@@ -491,7 +491,7 @@ const ThumbPuzzle: React.FC<{tiles: string[]; size: number}> = ({tiles, size}) =
   </div>
 );
 
-export const TvThumb: React.FC<{story: QuizStory & {thumbImage?: string; thumbBadge?: string; thumbEmoji?: string; thumbPuzzle?: string[]}; text: string; badge: string; variant?: 'A' | 'B' | 'C'}> = ({story, text, badge, variant = 'A'}) => {
+export const TvThumbV1: React.FC<{story: QuizStory & {thumbImage?: string; thumbBadge?: string; thumbEmoji?: string; thumbPuzzle?: string[]}; text: string; badge: string; variant?: 'A' | 'B' | 'C'}> = ({story, text, badge, variant = 'A'}) => {
   const plain = text.replace(/\*\*/g, '');
   const size = plain.length > 22 ? 104 : plain.length > 14 ? 120 : 136;
   const n = story.questions.length;
@@ -651,6 +651,104 @@ export const CompareScene: React.FC<{q: QuizQuestion; index: number; total: numb
           <div style={{width: '100%', textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: 42, color: '#040A2C'}}>{story.ctaText}</div>
         </Lozenge>
       ) : null}
+    </AbsoluteFill>
+  );
+};
+
+// ---------------------------------------------------------------- Vorschaubild v2 (ab 12.11.): Klick-Optimiert
+// Regeln (Konkurrenz-Gewinner): EIN großes Motiv = das echte Rätsel (Emoji-Reihe "= ?" oder großes Foto mit "?"),
+// höchstens 4 Wörter in riesiger Schrift mit dicker Kontur, knallige Fläche statt Dunkelblau, runder Zahlen-Stempel,
+// kein Füll-Balken unten. Lesbar auch in Handy-Größe (≈170 px breit).
+type ThumbStory = QuizStory & {thumbImage?: string; thumbBadge?: string; thumbEmoji?: string; thumbPuzzle?: string[]; thumbStyle?: string; thumbStamp?: string};
+
+const outline = (c: string, w: number) => {
+  const d: string[] = [];
+  for (let a = 0; a < 16; a++) d.push(`${(Math.cos((a / 16) * 2 * Math.PI) * w).toFixed(1)}px ${(Math.sin((a / 16) * 2 * Math.PI) * w).toFixed(1)}px 0 ${c}`);
+  return d.join(', ');
+};
+
+const ThumbWords: React.FC<{text: string; size: number; color: string; accent: string; stroke: string; width: number}> = ({text, size, color, accent, stroke, width}) => (
+  <div style={{width, fontFamily: FONT, fontWeight: 900, fontSize: size, lineHeight: 0.92, letterSpacing: -2, color, textTransform: 'uppercase', textShadow: `${outline(stroke, size * 0.06)}, 0 ${size * 0.11}px 0 ${stroke}`}}>
+    {text.split(/(\*\*[^*]+\*\*)/).map((p, i) => (p.startsWith('**') ? <span key={i} style={{color: accent}}>{p.slice(2, -2)}</span> : <span key={i}>{p}</span>))}
+  </div>
+);
+
+const BigPuzzle: React.FC<{tiles: string[]; size: number}> = ({tiles, size}) => (
+  <div style={{display: 'flex', alignItems: 'center', gap: size * 0.06}}>
+    {tiles.map((p, i) => (
+      <React.Fragment key={i}>
+        {i > 0 ? <div style={{fontFamily: FONT, fontWeight: 900, fontSize: size * 0.42, color: '#fff', textShadow: outline('#000', 6)}}>+</div> : null}
+        <div style={{width: size, height: size, borderRadius: size * 0.16, background: '#fff', border: '8px solid #000', boxShadow: '0 12px 0 #000', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: '"Noto Color Emoji", "Apple Color Emoji", sans-serif', fontSize: size * 0.66}}>{p}</div>
+      </React.Fragment>
+    ))}
+    <div style={{fontFamily: FONT, fontWeight: 900, fontSize: size * 0.42, color: '#fff', textShadow: outline('#000', 6)}}>=</div>
+    <div style={{width: size, height: size, borderRadius: size * 0.16, background: '#E11D2E', border: '8px solid #000', boxShadow: '0 12px 0 #000', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: FONT, fontWeight: 900, fontSize: size * 0.8, color: '#fff', transform: 'rotate(6deg)'}}>?</div>
+  </div>
+);
+
+const BigPhoto: React.FC<{src: string; size: number}> = ({src, size}) => (
+  <div style={{position: 'relative', width: size, height: size, transform: 'rotate(3deg)'}}>
+    <div style={{position: 'absolute', inset: 0, background: '#fff', border: '6px solid #000', boxShadow: '0 16px 0 #000', padding: 14, boxSizing: 'border-box'}}>
+      <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+    </div>
+    <div style={{position: 'absolute', left: -56, top: -46, width: 170, height: 170, borderRadius: '50%', background: '#E11D2E', border: '8px solid #000', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: FONT, fontWeight: 900, fontSize: 130, color: '#fff', transform: 'rotate(-10deg)'}}>?</div>
+  </div>
+);
+
+const Stamp: React.FC<{top: string; bottom: string; bg: string; fg: string; style?: React.CSSProperties}> = ({top, bottom, bg, fg, style}) => (
+  <div style={{position: 'absolute', width: 200, height: 200, borderRadius: '50%', background: bg, border: '7px solid #000', boxShadow: '0 10px 0 #000', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', color: fg, transform: 'rotate(-8deg)', ...style}}>
+    <div style={{fontFamily: FONT, fontWeight: 900, fontSize: top.length > 3 ? 64 : 88, lineHeight: 0.9}}>{top}</div>
+    <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 24, letterSpacing: 1}}>{bottom}</div>
+  </div>
+);
+
+const Rays: React.FC<{a: string; b: string}> = ({a, b}) => (
+  <AbsoluteFill style={{overflow: 'hidden'}}>
+    <div style={{position: 'absolute', left: -660, top: -940, width: 2600, height: 2600, background: `repeating-conic-gradient(from 0deg at 50% 50%, ${a} 0 9deg, ${b} 9deg 18deg)`}} />
+    <AbsoluteFill style={{background: 'radial-gradient(circle at 50% 50%, transparent 45%, rgba(0,0,0,0.28) 100%)'}} />
+  </AbsoluteFill>
+);
+
+export const TvThumb: React.FC<{story: ThumbStory; text: string; badge: string; variant?: 'A' | 'B' | 'C'}> = ({story, text, badge, variant = 'A'}) => {
+  if (story.thumbStyle === 'v1') return <TvThumbV1 story={story} text={text} badge={badge} variant={variant} />;
+  const n = story.questions.length;
+  const plain = text.replace(/\*\*/g, '');
+  const puzzle = story.thumbPuzzle && story.thumbPuzzle.length > 1 ? story.thumbPuzzle : null;
+  const photo = !puzzle && story.thumbImage ? story.thumbImage : null;
+  const unit = /emoji|guess|round/i.test(`${story.header ?? ''} ${story.title ?? ''}`) ? 'ROUNDS' : 'QUESTIONS';
+  const stamp = story.thumbStamp ?? `${n}`;
+  const hero = puzzle ? <BigPuzzle tiles={puzzle} size={puzzle.length > 2 ? 225 : 270} /> : photo ? <BigPhoto src={photo} size={470} /> : (
+    <div style={{fontFamily: '"Noto Color Emoji", sans-serif', fontSize: 380, lineHeight: 1, filter: 'drop-shadow(0 14px 0 #000)'}}>{story.thumbEmoji ?? '❓'}</div>
+  );
+  const pal = variant === 'B'
+    ? {a: '#7C3AED', b: '#6D28D9', fg: '#fff', acc: '#FFD60A', st: '#000', sb: '#FFD60A', sf: '#000'}
+    : variant === 'C'
+      ? {a: '#E11D2E', b: '#C8102E', fg: '#fff', acc: '#FFD60A', st: '#000', sb: '#fff', sf: '#000'}
+      : {a: '#FFD60A', b: '#FFC300', fg: '#fff', acc: '#E11D2E', st: '#000', sb: '#E11D2E', sf: '#fff'};
+  const cc = null as null | {a: string; b: string}; // bewusst feste Knallfarben statt dunkler cardColors
+  if (photo) {
+    // Text links (max. 2–3 Zeilen), Foto rechts groß
+    const size = plain.length > 18 ? 118 : plain.length > 11 ? 138 : 160;
+    return (
+      <AbsoluteFill style={{overflow: 'hidden'}}>
+        <Rays a={cc?.a ?? pal.a} b={cc?.b ?? pal.b} />
+        <div style={{position: 'absolute', left: 48, top: 0, bottom: 0, display: 'flex', alignItems: 'center'}}>
+          <ThumbWords text={text} size={size} color={pal.fg} accent={pal.acc} stroke={pal.st} width={610} />
+        </div>
+        <div style={{position: 'absolute', right: 70, top: 110}}>{hero}</div>
+        <Stamp top={stamp} bottom={unit} bg={pal.sb} fg={pal.sf} style={{right: 30, bottom: 24}} />
+      </AbsoluteFill>
+    );
+  }
+  // Rätsel/Emoji: Text oben über volle Breite, Motiv groß in der Mitte
+  const size = plain.length > 18 ? 128 : 150;
+  return (
+    <AbsoluteFill style={{overflow: 'hidden'}}>
+      <Rays a={cc?.a ?? pal.a} b={cc?.b ?? pal.b} />
+      <div style={{position: 'absolute', left: 40, right: 40, top: 26, display: 'flex', justifyContent: 'center', textAlign: 'center'}}>
+        <ThumbWords text={text} size={size} color={pal.fg} accent={pal.acc} stroke={pal.st} width={1200} />
+      </div>
+      <div style={{position: 'absolute', left: 0, right: 0, top: plain.length > 16 ? 300 : 210, bottom: 30, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>{hero}</div>
     </AbsoluteFill>
   );
 };

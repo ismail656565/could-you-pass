@@ -56,6 +56,7 @@ Bandit 12.–14.11.: Exploit 7 (Movie-Long, Older-VS, Europe-6-Q, People-VS R3, 
 Gestrichen: Weltraum, Wissenschaft, Wortschatz (außer Test #6), Bauwerkshöhen (Taller 451 ✗), Krieg/Sprengstoff, Halloween/Grusel, Alters-Titel, 50-Fragen-Text-Longs.
 
 ## Für den Produktions-Agenten (gilt heute, überschreibt ältere Defaults)
+- **NEU 20:30 – Thumbnails v2 (Besitzer-Wunsch):** Für jedes neue Long `thumbTexts` = [Suchphrase, „CAN YOU GET **25/30**?“, „ONLY 1% GET **30/30**“] und bei Emoji-/Rätsel-Longs `thumbPuzzle` (2–3 Emojis einer echten mittelschweren Frage) setzen; kein `thumbBadge`-Füllbalken mehr nötig. Beim nächsten Lauf startet `thumb_rotate` den Test für movie-emoji/flag/capitals neu (refresh "v2") – Log auf „Thumbnail-Neustart“ prüfen; schlägt es fehl, als TECHNIK-PROBLEM melden.
 - **Heute produzieren (Do = Long-Tag):** movie-emoji-30-1 14:00, vs-older-1 16:00, six-q-genius-movies 21:00 (alles in Queue).
 - **Für 14.11. anlegen:** `2026-11-14-six-q-genius-animals.json` (publishAt "16:00", atlas, game-show) und `2026-11-14-map-lie-2.json` (publishAt "21:00", story.type "truesize", Muster map-lie-1) exakt wie in der Tabelle. country-emoji-30-1 liegt schon als Long für 14.11. bereit.
 - Karten-VS #2: nur Formen aus truesize.json (uk, italy, finland, japan, spain, madagascar, greenland, algeria – alle vorhanden), kein neues Build-Skript nötig. Wenn Kontrollspalte eine Runde nicht sichtbar stützt → Runde durch Germany 357.022 vs Japan 377.975 ersetzen.

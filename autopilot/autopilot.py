@@ -588,7 +588,7 @@ THUMBS = AP / 'thumbs'
 
 
 def render_thumbs(name, story):
-    """3 Vorschaubild-Varianten (A neon, B gelb-comic, C rot-challenge) für den automatischen Thumbnail-Test"""
+    """3 Vorschaubild-Varianten für den automatischen Thumbnail-Test (tvshow: Design v2 ab 12.11. – A gelb/Suchphrase, B lila/Punkt-Hürde, C rot/\"Only 1%\")"""
     THUMBS.mkdir(parents=True, exist_ok=True)
     out = []
     for v in ('A', 'B', 'C'):
@@ -643,6 +643,20 @@ def thumb_rotate():
         st_file = ROOT / 'stories' / f"{item['id']}.json"
         if any(not (THUMBS / f"{item['id']}-{v}.jpg").exists() for v in t['order'] if v != 'O') and st_file.exists():
             render_thumbs(item['id'], json.loads(st_file.read_text(encoding='utf-8')))
+        if t.get('refresh') and st_file.exists():
+            # Vorschaubild-Neustart (z. B. neues Design v2): alle Varianten neu rendern, Test von vorn, Variante A sofort setzen
+            variants = render_thumbs(item['id'], json.loads(st_file.read_text(encoding='utf-8')))
+            if variants:
+                y = y or yt()
+                try:
+                    y.thumbnails().set(videoId=vid, media_body=MediaFileUpload(variants[0][1])).execute()
+                    t = {'order': [v for v, _ in variants], 'current': variants[0][0], 'since': today.isoformat(), 'results': {}, 'done': False, 'design': t.get('refresh')}
+                    item['thumbTest'] = t
+                    d.write_text(json.dumps(item, indent=1, ensure_ascii=False), encoding='utf-8')
+                    log(f"Thumbnail-Neustart {item['id']}: Design {t['design']}, jetzt Variante {t['current']}")
+                except Exception as ex:
+                    log('Thumbnail-Neustart fehlgeschlagen:', str(ex)[:200])
+            continue
         since = dt.date.fromisoformat(t['since'])
         age = (today - since).days
         if age < TEST_DAYS:

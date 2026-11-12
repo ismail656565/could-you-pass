@@ -718,7 +718,8 @@
   "current": "A",
   "since": "2026-11-12",
   "results": {},
-  "done": false
+  "done": false,
+  "refresh": "v2"
  },
  "scheduledFor": "2026-11-12T14:00+01:00",
  "playlistAdded": true,

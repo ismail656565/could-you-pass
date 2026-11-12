@@ -751,7 +751,8 @@
     "to": "2026-11-11"
    }
   },
-  "done": false
+  "done": false,
+  "refresh": "v2"
  },
  "scheduledFor": "2026-11-07T14:00+01:00",
  "playlistAdded": true,

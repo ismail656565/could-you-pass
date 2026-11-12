@@ -18,7 +18,7 @@
  "thumbTexts": [
   "GUESS THE **MOVIE**",
   "CAN YOU GET **25/30**?",
-  "**LEGEND** LEVEL"
+  "ONLY 1% GET **30/30**"
  ],
  "thumbEmoji": "🎬",
  "thumbBadge": "30 ROUNDS · EASY → LEGEND",
@@ -28,8 +28,9 @@
  ],
  "thumbImage": "bilder/mv-delorean.jpg",
  "thumbPuzzle": [
-  "🍿",
-  "🎬"
+  "🕶️",
+  "💊",
+  "🐇"
  ],
  "questions": [
   {

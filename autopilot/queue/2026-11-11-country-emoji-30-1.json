@@ -44,7 +44,7 @@
   "thumbTexts": [
    "GUESS THE **COUNTRY**",
    "CAN YOU GET **25/30**?",
-   "**LEGEND** LEVEL"
+   "ONLY 1% GET **30/30**"
   ],
   "thumbEmoji": "🌍",
   "thumbBadge": "30 ROUNDS · EASY → LEGEND",
@@ -54,8 +54,9 @@
   ],
   "thumbImage": "bilder/cap-flag-kazakhstan.jpg",
   "thumbPuzzle": [
-   "✈️",
-   "🌍"
+   "🌋",
+   "♨️",
+   "🐋"
   ],
   "questions": [
    {
