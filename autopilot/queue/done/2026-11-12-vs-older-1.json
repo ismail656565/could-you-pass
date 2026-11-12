@@ -58,7 +58,12 @@
     "icons": [
      "🕰️",
      "🗼"
-    ]
+    ],
+    "start": 0.0,
+    "keywordAt": 0.503,
+    "countdownStart": 2.825,
+    "reveal": 5.825,
+    "end": 9.842
    },
    {
     "q": "Which is **older**?",
@@ -79,7 +84,11 @@
     "icons": [
      "🚗",
      "🎮"
-    ]
+    ],
+    "start": 9.842,
+    "countdownStart": 11.358,
+    "reveal": 14.358,
+    "end": 19.167
    },
    {
     "q": "Which is **older**?",
@@ -100,7 +109,11 @@
     "icons": [
      "🎓",
      "🦅"
-    ]
+    ],
+    "start": 19.167,
+    "countdownStart": 21.485,
+    "reveal": 24.485,
+    "end": 28.534
    },
    {
     "q": "Which is **older**?",
@@ -125,9 +138,16 @@
     "icons": [
      null,
      "🌲"
-    ]
+    ],
+    "start": 28.534,
+    "countdownStart": 31.696,
+    "reveal": 34.696,
+    "end": 41.558
    }
-  ]
+  ],
+  "audio": "audio/vs-older-1.mp3",
+  "outroStart": 41.558,
+  "durationInSeconds": 41.558
  },
  "lines": [
   {
@@ -146,5 +166,23 @@
    "q": "Last one. The Great Pyramid, or a tree that's still alive today?",
    "a": "The tree! A bristlecone pine in California sprouted before the pyramid. Think you can get all four? Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.8,
+  "truePeak": -3.3,
+  "lra": 6.0,
+  "normalized": true,
+  "frozenShare": 0.449,
+  "longestFreezeSec": 3.0,
+  "frame0Luma": 213.3,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-12T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "J6jjv5NyyKo",
+  "at": "2026-11-12T06:25"
+ },
+ "linkedLong": "joIuNzRQnwk"
 }

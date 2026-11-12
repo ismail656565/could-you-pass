@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Movie Quiz #shorts",
-  "description": "6 movie trivia questions, easy to hard 🎬 Did #4 trick you? 👠\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#moviequiz #movietrivia #quiz #trivia #onlygeniuses #shorts\n\nMusic: original.",
+  "description": "6 movie trivia questions, easy to hard 🎬 Did #4 trick you? 👠\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#moviequiz #movietrivia #quiz #trivia #onlygeniuses #shorts\n\nFootage via Wikimedia Commons: Figure 8 Racing at Raceway Park – Theflyer (CC BY-SA 4.0); Explore Shanghai's Most Famous Shopping Street at Night on Foot - Chin – AmbienceX (CC BY 3.0); 3D MRI of fossil left periotic (MNU 071-18) of Atocetus sp. from Groß  – Daniel Mietchen (CC BY 3.0); Double Whoopee (1929) - 16mm - Flat - Silent - UHD – The Scan Man Gallery (Public domain); DGB (large feed reels) - Cinema projector – La Fonderie (CC BY 3.0); Statue of Buddha – https://www.youtube.com/user/Editor (CC BY 3.0)\nMusic: original.",
   "tags": [
    "movie quiz",
    "movie trivia",
@@ -47,7 +47,13 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "broll": "race track"
+    "broll": "race track",
+    "start": 0.0,
+    "keywordAt": 1.663,
+    "countdownStart": 2.801,
+    "reveal": 5.301,
+    "end": 8.321,
+    "video": "broll/six-q-genius-movies-0.mp4"
    },
    {
     "q": "Which superhero is called **The Dark Knight**?",
@@ -59,7 +65,13 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "broll": "city skyline at night"
+    "broll": "city skyline at night",
+    "start": 8.321,
+    "keywordAt": 9.569,
+    "countdownStart": 10.588,
+    "reveal": 13.088,
+    "end": 15.994,
+    "video": "broll/six-q-genius-movies-1.mp4"
    },
    {
     "q": "In Jurassic Park, where was the dinosaur **DNA** found?",
@@ -71,7 +83,13 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "broll": "fossil museum"
+    "broll": "fossil museum",
+    "start": 15.994,
+    "keywordAt": 18.35,
+    "countdownStart": 19.205,
+    "reveal": 21.705,
+    "end": 25.136,
+    "video": "broll/six-q-genius-movies-2.mp4"
    },
    {
     "q": "What colour are Dorothy's **slippers** in the 1939 film?",
@@ -83,7 +101,13 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "broll": "old film projector"
+    "broll": "old film projector",
+    "start": 25.136,
+    "keywordAt": 26.289,
+    "countdownStart": 28.321,
+    "reveal": 30.821,
+    "end": 35.133,
+    "video": "broll/six-q-genius-movies-3.mp4"
    },
    {
     "q": "Which film won the first Oscar for Best **Animated** Feature?",
@@ -95,7 +119,13 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "broll": "cinema seats"
+    "broll": "cinema seats",
+    "start": 35.133,
+    "keywordAt": 37.091,
+    "countdownStart": 38.189,
+    "reveal": 40.689,
+    "end": 44.375,
+    "video": "broll/six-q-genius-movies-4.mp4"
    },
    {
     "q": "How many **Oscars** did Titanic win?",
@@ -107,9 +137,18 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "broll": "golden statue"
+    "broll": "golden statue",
+    "start": 44.375,
+    "keywordAt": 45.429,
+    "countdownStart": 46.908,
+    "reveal": 49.408,
+    "end": 54.492,
+    "video": "broll/six-q-genius-movies-5.mp4"
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-movies.mp3",
+  "outroStart": 54.492,
+  "durationInSeconds": 54.492
  },
  "lines": [
   {
@@ -136,5 +175,23 @@
    "q": "Last one. How many Oscars did Titanic win?",
    "a": "Eleven! Tied for the all-time record. Six out of six? Follow if you got it!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -19.6,
+  "truePeak": -2.8,
+  "lra": 6.0,
+  "normalized": true,
+  "frozenShare": 0.114,
+  "longestFreezeSec": 2.0,
+  "frame0Luma": 188.8,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-12T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "pcgOCR5xIhM",
+  "at": "2026-11-12T06:22"
+ },
+ "linkedLong": "joIuNzRQnwk"
 }

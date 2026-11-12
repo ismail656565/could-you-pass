@@ -1,0 +1,130 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "Movie Quiz",
+ "header": "MOVIE QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which film stars a race car named **Lightning McQueen**?",
+   "answers": [
+    "Turbo",
+    "Cars",
+    "Planes",
+    "Speed Racer"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "broll": "race track",
+   "start": 0.0,
+   "keywordAt": 1.663,
+   "countdownStart": 2.801,
+   "reveal": 5.301,
+   "end": 8.321,
+   "video": "broll/six-q-genius-movies-0.mp4"
+  },
+  {
+   "q": "Which superhero is called **The Dark Knight**?",
+   "answers": [
+    "Superman",
+    "Iron Man",
+    "Batman",
+    "Black Panther"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "broll": "city skyline at night",
+   "start": 8.321,
+   "keywordAt": 9.569,
+   "countdownStart": 10.588,
+   "reveal": 13.088,
+   "end": 15.994,
+   "video": "broll/six-q-genius-movies-1.mp4"
+  },
+  {
+   "q": "In Jurassic Park, where was the dinosaur **DNA** found?",
+   "answers": [
+    "A frozen egg",
+    "A fossil bone",
+    "A dino tooth",
+    "A mosquito in amber"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "broll": "fossil museum",
+   "start": 15.994,
+   "keywordAt": 18.35,
+   "countdownStart": 19.205,
+   "reveal": 21.705,
+   "end": 25.136,
+   "video": "broll/six-q-genius-movies-2.mp4"
+  },
+  {
+   "q": "What colour are Dorothy's **slippers** in the 1939 film?",
+   "answers": [
+    "Red",
+    "Silver",
+    "Gold",
+    "Blue"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "broll": "old film projector",
+   "start": 25.136,
+   "keywordAt": 26.289,
+   "countdownStart": 28.321,
+   "reveal": 30.821,
+   "end": 35.133,
+   "video": "broll/six-q-genius-movies-3.mp4"
+  },
+  {
+   "q": "Which film won the first Oscar for Best **Animated** Feature?",
+   "answers": [
+    "Toy Story",
+    "Shrek",
+    "Monsters, Inc.",
+    "Spirited Away"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "broll": "cinema seats",
+   "start": 35.133,
+   "keywordAt": 37.091,
+   "countdownStart": 38.189,
+   "reveal": 40.689,
+   "end": 44.375,
+   "video": "broll/six-q-genius-movies-4.mp4"
+  },
+  {
+   "q": "How many **Oscars** did Titanic win?",
+   "answers": [
+    "Seven",
+    "Nine",
+    "Eleven",
+    "Fourteen"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "broll": "golden statue",
+   "start": 44.375,
+   "keywordAt": 45.429,
+   "countdownStart": 46.908,
+   "reveal": 49.408,
+   "end": 54.492,
+   "video": "broll/six-q-genius-movies-5.mp4"
+  }
+ ],
+ "audio": "audio/six-q-genius-movies.mp3",
+ "outroStart": 54.492,
+ "durationInSeconds": 54.492
+}

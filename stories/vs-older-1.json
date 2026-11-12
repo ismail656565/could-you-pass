@@ -1,0 +1,127 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "Older?",
+ "header": "WHICH IS OLDER?",
+ "hook": "90% GET #2 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "OLDER!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which is **older**?",
+   "answers": [
+    "Big Ben's tower",
+    "Eiffel Tower"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "values": [
+    167,
+    137
+   ],
+   "valueLabels": [
+    "167 years",
+    "137 years"
+   ],
+   "icons": [
+    "🕰️",
+    "🗼"
+   ],
+   "start": 0.0,
+   "keywordAt": 0.503,
+   "countdownStart": 2.825,
+   "reveal": 5.825,
+   "end": 9.842
+  },
+  {
+   "q": "Which is **older**?",
+   "answers": [
+    "Ford",
+    "Nintendo"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "values": [
+    123,
+    137
+   ],
+   "valueLabels": [
+    "123 years",
+    "137 years"
+   ],
+   "icons": [
+    "🚗",
+    "🎮"
+   ],
+   "start": 9.842,
+   "countdownStart": 11.358,
+   "reveal": 14.358,
+   "end": 19.167
+  },
+  {
+   "q": "Which is **older**?",
+   "answers": [
+    "Harvard",
+    "The USA"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "values": [
+    390,
+    250
+   ],
+   "valueLabels": [
+    "390 years",
+    "250 years"
+   ],
+   "icons": [
+    "🎓",
+    "🦅"
+   ],
+   "start": 19.167,
+   "countdownStart": 21.485,
+   "reveal": 24.485,
+   "end": 28.534
+  },
+  {
+   "q": "Which is **older**?",
+   "answers": [
+    "Great Pyramid",
+    "A living tree"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "values": [
+    4580,
+    4850
+   ],
+   "valueLabels": [
+    "≈ 4,580 years",
+    "≈ 4,850 years"
+   ],
+   "images": [
+    "bilder/q2-pyramid.jpg",
+    null
+   ],
+   "icons": [
+    null,
+    "🌲"
+   ],
+   "start": 28.534,
+   "countdownStart": 31.696,
+   "reveal": 34.696,
+   "end": 41.558
+  }
+ ],
+ "audio": "audio/vs-older-1.mp3",
+ "outroStart": 41.558,
+ "durationInSeconds": 41.558
+}

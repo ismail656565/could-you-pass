@@ -69,7 +69,12 @@
     "correct": 1,
     "level": "EASY",
     "cardText": "🦁 + 👑",
-    "fact": "Released in 1994 – Elton John co-wrote the songs."
+    "fact": "Released in 1994 – Elton John co-wrote the songs.",
+    "start": 0.0,
+    "keywordAt": 0.482,
+    "countdownStart": 8.531,
+    "reveal": 14.531,
+    "end": 19.536
    },
    {
     "q": "Which **movie** is this?",
@@ -82,7 +87,11 @@
     "correct": 2,
     "level": "EASY",
     "cardText": "❄️ + 👸",
-    "fact": "\"Let It Go\" won the Oscar for Best Original Song."
+    "fact": "\"Let It Go\" won the Oscar for Best Original Song.",
+    "start": 19.536,
+    "countdownStart": 21.23,
+    "reveal": 27.23,
+    "end": 30.94
    },
    {
     "q": "Which **movie** is this?",
@@ -95,7 +104,11 @@
     "correct": 1,
     "level": "EASY",
     "cardText": "🐠 + 🔍",
-    "fact": "Finding Nemo won the Oscar for Best Animated Feature."
+    "fact": "Finding Nemo won the Oscar for Best Animated Feature.",
+    "start": 30.94,
+    "countdownStart": 33.883,
+    "reveal": 39.883,
+    "end": 44.481
    },
    {
     "q": "Which **movie** is this?",
@@ -108,7 +121,11 @@
     "correct": 0,
     "level": "EASY",
     "cardText": "🤠 + 🚀 + 🧸",
-    "fact": "Toy Story (1995) was the first fully computer-animated film."
+    "fact": "Toy Story (1995) was the first fully computer-animated film.",
+    "start": 44.481,
+    "countdownStart": 46.548,
+    "reveal": 52.548,
+    "end": 56.783
    },
    {
     "q": "Which **movie** is this?",
@@ -121,7 +138,11 @@
     "correct": 0,
     "level": "EASY",
     "cardText": "🐼 + 🥋",
-    "fact": "Jack Black voices Po the panda."
+    "fact": "Jack Black voices Po the panda.",
+    "start": 56.783,
+    "countdownStart": 59.123,
+    "reveal": 65.123,
+    "end": 69.062
    },
    {
     "q": "Which **movie** is this?",
@@ -134,7 +155,11 @@
     "correct": 2,
     "level": "EASY",
     "cardText": "🕷️ + 🧑 + 🏙️",
-    "fact": "Spider-Man (2002) starred Tobey Maguire as Peter Parker."
+    "fact": "Spider-Man (2002) starred Tobey Maguire as Peter Parker.",
+    "start": 69.062,
+    "countdownStart": 71.33,
+    "reveal": 77.33,
+    "end": 83.111
    },
    {
     "q": "Which **movie** is this?",
@@ -147,7 +172,11 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "🧙‍♂️ + ⚡ + 👓",
-    "fact": "In the US, book 1 is called \"the Sorcerer's Stone\"."
+    "fact": "In the US, book 1 is called \"the Sorcerer's Stone\".",
+    "start": 83.111,
+    "countdownStart": 86.822,
+    "reveal": 92.822,
+    "end": 97.496
    },
    {
     "q": "Which **movie** is this?",
@@ -160,7 +189,11 @@
     "correct": 2,
     "level": "MEDIUM",
     "cardText": "🏠 + 👦 + 🎄",
-    "fact": "Kevin's family flies to Paris without him."
+    "fact": "Kevin's family flies to Paris without him.",
+    "start": 97.496,
+    "countdownStart": 99.68,
+    "reveal": 105.68,
+    "end": 109.707
    },
    {
     "q": "Which **movie** is this?",
@@ -173,7 +206,11 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "🏴‍☠️ + 🌊 + ⚓",
-    "fact": "The film series is based on a Disney theme park ride."
+    "fact": "The film series is based on a Disney theme park ride.",
+    "start": 109.707,
+    "countdownStart": 112.051,
+    "reveal": 118.051,
+    "end": 122.809
    },
    {
     "q": "Which **movie** is this?",
@@ -186,7 +223,11 @@
     "correct": 0,
     "level": "MEDIUM",
     "cardText": "👽 + 🚲 + 🌕",
-    "fact": "E.T. is lured out of hiding with Reese's Pieces."
+    "fact": "E.T. is lured out of hiding with Reese's Pieces.",
+    "start": 122.809,
+    "countdownStart": 124.747,
+    "reveal": 130.747,
+    "end": 134.868
    },
    {
     "q": "Which **movie** is this?",
@@ -199,7 +240,11 @@
     "correct": 1,
     "level": "MEDIUM",
     "cardText": "🧞 + 🪔 + 🐒",
-    "fact": "Robin Williams voiced the Genie in 1992."
+    "fact": "Robin Williams voiced the Genie in 1992.",
+    "start": 134.868,
+    "countdownStart": 136.882,
+    "reveal": 142.882,
+    "end": 146.363
    },
    {
     "q": "Which **movie** is this?",
@@ -212,7 +257,11 @@
     "correct": 0,
     "level": "MEDIUM",
     "cardText": "🧊 + 🦣 + 🐿️",
-    "fact": "Scrat the squirrel spends the whole film chasing an acorn."
+    "fact": "Scrat the squirrel spends the whole film chasing an acorn.",
+    "start": 146.363,
+    "countdownStart": 148.128,
+    "reveal": 154.128,
+    "end": 159.309
    },
    {
     "q": "Which **movie** is this?",
@@ -225,7 +274,11 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🚀 + ⭐ + ⚔️",
-    "fact": "The 1977 film was later renamed \"A New Hope\"."
+    "fact": "The 1977 film was later renamed \"A New Hope\".",
+    "start": 159.309,
+    "countdownStart": 162.136,
+    "reveal": 168.136,
+    "end": 172.703
    },
    {
     "q": "Which **movie** is this?",
@@ -238,7 +291,11 @@
     "correct": 0,
     "level": "HARD",
     "cardText": "🌹 + 👸 + 🐃",
-    "fact": "First animated film nominated for Best Picture."
+    "fact": "First animated film nominated for Best Picture.",
+    "start": 172.703,
+    "countdownStart": 174.768,
+    "reveal": 180.768,
+    "end": 186.063
    },
    {
     "q": "Which **movie** is this?",
@@ -251,7 +308,11 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🍫 + 🏭 + 🎫",
-    "fact": "Johnny Depp played Willy Wonka in 2005."
+    "fact": "Johnny Depp played Willy Wonka in 2005.",
+    "start": 186.063,
+    "countdownStart": 188.636,
+    "reveal": 194.636,
+    "end": 202.007
    },
    {
     "q": "Which **movie** is this?",
@@ -264,7 +325,11 @@
     "correct": 1,
     "level": "HARD",
     "cardText": "🦍 + 🏙️ + ✈️",
-    "fact": "Kong climbs the Empire State Building."
+    "fact": "Kong climbs the Empire State Building.",
+    "start": 202.007,
+    "countdownStart": 204.159,
+    "reveal": 210.159,
+    "end": 213.71
    },
    {
     "q": "Which **movie** is this?",
@@ -277,7 +342,11 @@
     "correct": 0,
     "level": "HARD",
     "cardText": "🐘 + 👂 + 🎪",
-    "fact": "Dumbo never speaks a single word in the film."
+    "fact": "Dumbo never speaks a single word in the film.",
+    "start": 213.71,
+    "countdownStart": 216.289,
+    "reveal": 222.289,
+    "end": 226.576
    },
    {
     "q": "Which **movie** is this?",
@@ -290,7 +359,11 @@
     "correct": 2,
     "level": "HARD",
     "cardText": "🦁 + 🦓 + 🗽",
-    "fact": "The animals escape from New York's Central Park Zoo."
+    "fact": "The animals escape from New York's Central Park Zoo.",
+    "start": 226.576,
+    "countdownStart": 229.342,
+    "reveal": 235.342,
+    "end": 240.125
    },
    {
     "q": "Which **movie** is this?",
@@ -303,7 +376,11 @@
     "correct": 0,
     "level": "VERY HARD",
     "cardText": "🕶️ + 💊 + 🐇",
-    "fact": "Neo takes the red pill in The Matrix (1999)."
+    "fact": "Neo takes the red pill in The Matrix (1999).",
+    "start": 240.125,
+    "countdownStart": 243.665,
+    "reveal": 249.665,
+    "end": 253.721
    },
    {
     "q": "Which **movie** is this?",
@@ -316,7 +393,11 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🏃‍♂️ + 🍫 + 🦐",
-    "fact": "Forrest Gump won 6 Oscars, including Best Picture."
+    "fact": "Forrest Gump won 6 Oscars, including Best Picture.",
+    "start": 253.721,
+    "countdownStart": 255.633,
+    "reveal": 261.633,
+    "end": 265.513
    },
    {
     "q": "Which **movie** is this?",
@@ -329,7 +410,11 @@
     "correct": 2,
     "level": "VERY HARD",
     "cardText": "🐻 + 🧥 + 🍊",
-    "fact": "Paddington comes from \"darkest Peru\"."
+    "fact": "Paddington comes from \"darkest Peru\".",
+    "start": 265.513,
+    "countdownStart": 267.43,
+    "reveal": 273.43,
+    "end": 276.902
    },
    {
     "q": "Which **movie** is this?",
@@ -342,7 +427,11 @@
     "correct": 0,
     "level": "VERY HARD",
     "cardText": "🌪️ + 🐄 + 🚗",
-    "fact": "Twister (1996) follows storm chasers in Oklahoma."
+    "fact": "Twister (1996) follows storm chasers in Oklahoma.",
+    "start": 276.902,
+    "countdownStart": 278.922,
+    "reveal": 284.922,
+    "end": 288.874
    },
    {
     "q": "Which **movie** is this?",
@@ -355,7 +444,11 @@
     "correct": 1,
     "level": "VERY HARD",
     "cardText": "🎃 + 💀 + 🎄",
-    "fact": "Made with stop-motion animation – frame by frame."
+    "fact": "Made with stop-motion animation – frame by frame.",
+    "start": 288.874,
+    "countdownStart": 291.351,
+    "reveal": 297.351,
+    "end": 301.672
    },
    {
     "q": "Which **movie** is this?",
@@ -368,7 +461,11 @@
     "correct": 0,
     "level": "VERY HARD",
     "cardText": "🧠 + 😃 + 😢",
-    "fact": "The emotions live inside a girl named Riley's head."
+    "fact": "The emotions live inside a girl named Riley's head.",
+    "start": 301.672,
+    "countdownStart": 304.117,
+    "reveal": 310.117,
+    "end": 315.86
    },
    {
     "q": "Which **movie** is this?",
@@ -381,7 +478,11 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "🏝️ + 🏐 + ✈️",
-    "fact": "Tom Hanks's volleyball friend is called Wilson."
+    "fact": "Tom Hanks's volleyball friend is called Wilson.",
+    "start": 315.86,
+    "countdownStart": 319.516,
+    "reveal": 325.516,
+    "end": 328.87
    },
    {
     "q": "Which **movie** is this?",
@@ -394,7 +495,11 @@
     "correct": 3,
     "level": "LEGEND",
     "cardText": "🌀 + 💤 + 🏙️",
-    "fact": "Directed by Christopher Nolan in 2010."
+    "fact": "Directed by Christopher Nolan in 2010.",
+    "start": 328.87,
+    "countdownStart": 330.895,
+    "reveal": 336.895,
+    "end": 341.097
    },
    {
     "q": "Which **movie** is this?",
@@ -407,7 +512,11 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "🔨 + 🧱 + 🌧️",
-    "fact": "Based on a Stephen King novella."
+    "fact": "Based on a Stephen King novella.",
+    "start": 341.097,
+    "countdownStart": 343.221,
+    "reveal": 349.221,
+    "end": 353.689
    },
    {
     "q": "Which **movie** is this?",
@@ -420,7 +529,11 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "🐷 + 🕸️ + 🕷️",
-    "fact": "Based on E. B. White's 1952 children's book."
+    "fact": "Based on E. B. White's 1952 children's book.",
+    "start": 353.689,
+    "countdownStart": 355.623,
+    "reveal": 361.623,
+    "end": 365.91
    },
    {
     "q": "Which **movie** is this?",
@@ -433,7 +546,11 @@
     "correct": 1,
     "level": "LEGEND",
     "cardText": "🦢 + ⚫ + 🩰",
-    "fact": "Natalie Portman won Best Actress for Black Swan."
+    "fact": "Natalie Portman won Best Actress for Black Swan.",
+    "start": 365.91,
+    "countdownStart": 369.704,
+    "reveal": 375.704,
+    "end": 379.558
    },
    {
     "q": "Which **movie** is this?",
@@ -446,9 +563,16 @@
     "correct": 2,
     "level": "LEGEND",
     "cardText": "👠 + 😈 + 📰",
-    "fact": "Meryl Streep plays editor Miranda Priestly."
+    "fact": "Meryl Streep plays editor Miranda Priestly.",
+    "start": 379.558,
+    "countdownStart": 383.034,
+    "reveal": 389.034,
+    "end": 393.591
    }
-  ]
+  ],
+  "audio": "audio/movie-emoji-30-1.mp3",
+  "outroStart": 393.591,
+  "durationInSeconds": 403.379
  },
  "lines": [
   {
@@ -571,5 +695,36 @@
    "q": "Final question. A high heel, a devil, and a magazine.",
    "a": "The Devil Wears Prada! Meryl Streep as the boss from hell."
   }
- ]
+ ],
+ "qa": {
+  "lufs": -22.0,
+  "truePeak": -2.7,
+  "lra": 9.3,
+  "normalized": true,
+  "frozenShare": 0.798,
+  "longestFreezeSec": 9.0,
+  "frame0Luma": 121.8,
+  "warnings": [
+   "Standbild 9.0 s"
+  ]
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/movie-emoji-30-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-11-12",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-12T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "joIuNzRQnwk",
+  "at": "2026-11-12T06:47"
+ }
 }
