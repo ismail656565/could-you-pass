@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-12T06:14 (21 Abos)
+# Scoreboard – Stand 2026-11-12T08:25 (21 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -94,7 +94,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 1 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (24 Videos)
+## Lange Videos (23 Videos)
 
 ### Lange Videos nach Format
 
@@ -105,7 +105,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 30 Fragen | 3 | 12 | 13 | 19 | 76.1 | 13.7 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
-| 50 Fragen | 11 | 5 | 3 | 14 | 70.3 | 49.9 | 0 |
+| 50 Fragen | 10 | 4 | 2 | 14 | 74.1 | 51.7 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 66.7 | 43.5 | 0 |
 | 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
@@ -116,7 +116,6 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Halloween | 2 | 117 | 117 | 186 | 55.5 | 24.4 | 0 |
 | Emoji-Raten | 2 | 71 | 71 | 141 | 86.5 | 27.2 | 1.0 |
 | IQ-Titel | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
-| Can-You-Pass-Test | 1 | 12 | 12 | 12 | 33.3 | 31.6 | 0 |
 | Geografie | 2 | 8 | 8 | 13 | 73.4 | 30.3 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 22 | 6 | 60 | 67.8 | 61.0 | 0 |
@@ -132,15 +131,15 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
-| tvshow | 15 | 6 | 3 | 19 | 70.7 | 33.3 | 0 |
+| tvshow | 14 | 5 | 3 | 19 | 73.8 | 33.5 | 0 |
 
 ### Lange Videos nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| world-trip.wav | 8 | 9 | 8 | 19 | 63.8 | 40.8 | 0 |
 | game-show.wav | 8 | 30 | 6 | 186 | 74.0 | 40.4 | 1.0 |
+| world-trip.wav | 7 | 8 | 4 | 19 | 68.2 | 42.1 | 0 |
 | brain-pulse.wav | 7 | 17 | 3 | 60 | 69.8 | 40.5 | 0 |
 
 ### Lange Videos nach Sendezeit
@@ -148,7 +147,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 20 | 11 | 4 | 60 | 69.1 | 42.4 | 1.0 |
+| 14:00 | 19 | 11 | 4 | 60 | 71.3 | 43.1 | 1.0 |
 | 19:00 | 1 | 3 | 3 | 3 | 100.0 | 3.3 | 0 |
 
 ### Top 8 Lange Videos
