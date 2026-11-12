@@ -2,13 +2,14 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (44 Videos)
+## Shorts (45 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 11 | 723 | 994 | 1434 | 54.5 | 50.7 | 4.0 |
+| Karten-VS (TrueSize) | 1 | 940 | 940 | 940 | – | – | 0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.2 | 145.1 | 0 |
 | VS-Vergleich | 7 | 673 | 557 | 1188 | 53.8 | 63.6 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.4 | 2.0 |
@@ -28,6 +29,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | CAPITAL CITIES | 1 | 1065 | 1065 | 1065 | 57.1 | 52.0 | 1.0 |
 | TRICKY TRIVIA | 1 | 1045 | 1045 | 1045 | – | – | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 994 | 994 | 994 | 49.1 | 45.5 | 2.0 |
+| – | 1 | 940 | 940 | 940 | – | – | 0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 716 | 716 | 716 | 37.4 | 114.3 | 0 |
 | WHICH CAME FIRST? | 2 | 697 | 697 | 1235 | 62.5 | 47.5 | 0 |
@@ -56,6 +58,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | atlas | 1 | 1045 | 1045 | 1045 | – | – | 0 |
+| comic | 1 | 940 | 940 | 940 | – | – | 0 |
 | tvshow | 28 | 557 | 439 | 1219 | 52.2 | 69.1 | 12.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 308 | 308 | 388 | 52.4 | 48.1 | 0 |
@@ -65,7 +68,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 15 | 687 | 622 | 1219 | 49.9 | 75.6 | 5.0 |
-| world-trip.wav | 9 | 475 | 451 | 1188 | 56.3 | 64.9 | 4.0 |
+| world-trip.wav | 10 | 521 | 504 | 1188 | 56.3 | 64.9 | 4.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 46.9 | 90.9 | 3.0 |
 
 ### Shorts nach Sendezeit
@@ -74,8 +77,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
 | 16:00 | 19 | 551 | 427 | 1219 | 48.2 | 79.7 | 6.0 |
+| 21:00 | 20 | 524 | 358 | 1188 | 54.2 | 66.2 | 6.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
-| 21:00 | 19 | 502 | 327 | 1188 | 54.2 | 66.2 | 6.0 |
 
 ### Top 8 Shorts
 
