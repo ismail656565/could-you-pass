@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-12T08:25 (21 Abos)
+# Scoreboard – Stand 2026-11-12T11:52 (21 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -10,7 +10,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | 6+ Fragen | 10 | 691 | 623 | 1434 | 54.5 | 50.7 | 4.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.2 | 145.1 | 0 |
-| VS-Vergleich | 7 | 672 | 557 | 1188 | 53.8 | 63.6 | 5.0 |
+| VS-Vergleich | 7 | 673 | 557 | 1188 | 53.8 | 63.6 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 9 | 371 | 251 | 1082 | 58.2 | 74.1 | 1.0 |
@@ -35,7 +35,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | GENERAL KNOWLEDGE | 4 | 573 | 469 | 1161 | 36.7 | 155.5 | 0 |
 | QUICK QUIZ | 2 | 454 | 454 | 482 | 41.9 | 89.6 | 1.0 |
 | WHICH IS TALLER? | 1 | 451 | 451 | 451 | 59.5 | 55.8 | 0 |
-| WHICH IS HEAVIER? | 1 | 384 | 384 | 384 | 48.9 | 47.2 | 0 |
+| WHICH IS HEAVIER? | 1 | 388 | 388 | 388 | 48.9 | 47.2 | 0 |
 | HALLOWEEN TRIVIA | 3 | 344 | 338 | 498 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | HISTORY TRIVIA | 1 | 311 | 311 | 311 | 50.2 | 44.5 | 1.0 |
@@ -56,7 +56,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | tvshow | 28 | 557 | 439 | 1219 | 52.2 | 69.1 | 12.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.1 | 111.5 | 0 |
-| stick | 2 | 306 | 306 | 384 | 52.4 | 48.1 | 0 |
+| stick | 2 | 308 | 308 | 388 | 52.4 | 48.1 | 0 |
 
 ### Shorts nach Musik
 
@@ -64,7 +64,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 14 | 661 | 552 | 1219 | 49.9 | 75.6 | 5.0 |
 | world-trip.wav | 9 | 475 | 451 | 1188 | 56.3 | 64.9 | 4.0 |
-| brain-pulse.wav | 20 | 472 | 322 | 1434 | 46.9 | 90.9 | 3.0 |
+| brain-pulse.wav | 20 | 473 | 322 | 1434 | 46.9 | 90.9 | 3.0 |
 
 ### Shorts nach Sendezeit
 
