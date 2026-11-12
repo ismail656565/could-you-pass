@@ -529,3 +529,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 ## 2026-11-11 12:30 – Update Karten-Format (Besitzer-Screenshot)
 - Karten-Long True Size: 32 Views n. 22,5 h, CTR 3,3 %, Ø 1:18 von 3:39 – bestes Long seit 17.10. (Text-Longs 0–16). Karten-VS map-lie-1 931 n. ~11 h, atlas-6-Q 578 n. ~16 h; Abos 18→21.
 - Folge: Karten-VS 2×/Woche (Di+Sa 21:00), Karten-Long Folge 2 auf Di 17.11. vorgezogen, Map-Lie #2 am Sa 14.11.
+
+## 2026-11-12 – Research
+- atlas-Shorts vorläufig klar vorn: six-q-genius-tricky 975 (~0,8 T), Karten-VS map-lie-1 934 (~0,6 T) vs. Shorts-24-h-Median ~436 und stick 221/325.
+- Verdicts ≥3 T: 6-Q Capitals 1.061 ✓, VS More People 2 1.080 ✓, VS Taller 451 ✗ → Geo-6-Q + Bevölkerungs-VS bleiben Exploit #1/#2.
+- Konkurrenz: 3 der 5 stärksten Gewinner sind ~7-min-IQ/Rätsel-Longs mit 10–12 Fragen (Clear Think 1,77 Mio/255k, Quiz World 519k, GK Studio 45k) → E14 Rätsel-Long mit sichtbaren cardText-Rätseln + Hürde „4/12“ am Do 19.11.
+- 14.11.: Animal-6-Q (Experiment) + Karten-VS #2 (UK/Italien, Finnland/Japan, Spanien/Madagaskar, Grönland/Algerien). GTA VI 19.11. bestätigt.
