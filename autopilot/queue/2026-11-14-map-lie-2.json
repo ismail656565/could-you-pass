@@ -1,0 +1,124 @@
+{
+ "id": "map-lie-2",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "This Map Is Lying To You #2 🌍 Which Is REALLY Bigger? #shorts",
+  "description": "Flat maps stretch everything near the poles. Watch each country slide to its real size 🌍 Did Greenland fool you again?\nComment your score out of 4 👇\n\nFollow for a new quiz every day! 🧠\n\n#map #geography #truesize #whichisbigger #quiz #shorts\n\nData: CIA World Factbook (United Kingdom 243,610 km²; Italy 301,340; Finland 338,455; Japan 377,915; Spain 505,370; Madagascar 587,041; Greenland 2,166,086; Algeria 2,381,740).\nOutlines: Natural Earth (public domain). The shapes are moved on the globe and re-projected (Mercator) – no resizing by hand.\nMusic: original.",
+  "tags": [
+   "true size of countries",
+   "mercator map",
+   "which is bigger",
+   "map quiz",
+   "geography quiz",
+   "greenland",
+   "algeria",
+   "comparison quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Greenland vs Algeria – did the map fool you? 🌍 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "map-lie-2",
+  "type": "truesize",
+  "title": "This Map Is Lying To You #2",
+  "kicker": "MAP TEST #2",
+  "hookText": [
+   "THIS MAP",
+   "IS STILL",
+   "LYING"
+  ],
+  "hookLine": "This map is still lying to you. Which is really bigger?",
+  "question": "Which is really bigger?",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "uk",
+     "name": "United Kingdom",
+     "km2": 243610
+    },
+    "b": {
+     "shape": "italy",
+     "name": "Italy",
+     "km2": 301340
+    },
+    "mover": "a",
+    "verdict": "24% bigger",
+    "lines": {
+     "q": "The UK, or Italy?",
+     "a": "Italy! About a quarter bigger than the whole UK."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "japan",
+     "name": "Japan",
+     "km2": 377915
+    },
+    "b": {
+     "shape": "finland",
+     "name": "Finland",
+     "km2": 338455
+    },
+    "mover": "b",
+    "verdict": "12% bigger",
+    "lines": {
+     "q": "Japan, or Finland?",
+     "a": "Japan! Finland only looks bigger because it sits so far north."
+    },
+    "winner": "a"
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "spain",
+     "name": "Spain",
+     "km2": 505370
+    },
+    "b": {
+     "shape": "madagascar",
+     "name": "Madagascar",
+     "km2": 587041
+    },
+    "mover": "a",
+    "verdict": "16% bigger",
+    "lines": {
+     "q": "Spain, or Madagascar?",
+     "a": "Madagascar! The island beats all of Spain."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "algeria",
+     "name": "Algeria",
+     "km2": 2381740
+    },
+    "b": {
+     "shape": "greenland",
+     "name": "Greenland",
+     "km2": 2166086
+    },
+    "mover": "b",
+    "verdict": "10% bigger",
+    "lines": {
+     "q": "Last one. Algeria, or Greenland?",
+     "a": "Algeria! The biggest country in Africa. Think you got all four? Go again!"
+    },
+    "winner": "a"
+   }
+  ],
+  "sources": [
+   "Areas: CIA World Factbook (United Kingdom 243,610 km²; Italy 301,340; Finland 338,455; Japan 377,915; Spain 505,370; Madagascar 587,041; Greenland 2,166,086; Algeria 2,381,740)",
+   "Outlines: Natural Earth (public domain)"
+  ]
+ }
+}

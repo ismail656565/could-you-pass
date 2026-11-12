@@ -535,3 +535,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Verdicts ≥3 T: 6-Q Capitals 1.061 ✓, VS More People 2 1.080 ✓, VS Taller 451 ✗ → Geo-6-Q + Bevölkerungs-VS bleiben Exploit #1/#2.
 - Konkurrenz: 3 der 5 stärksten Gewinner sind ~7-min-IQ/Rätsel-Longs mit 10–12 Fragen (Clear Think 1,77 Mio/255k, Quiz World 519k, GK Studio 45k) → E14 Rätsel-Long mit sichtbaren cardText-Rätseln + Hürde „4/12“ am Do 19.11.
 - 14.11.: Animal-6-Q (Experiment) + Karten-VS #2 (UK/Italien, Finnland/Japan, Spanien/Madagaskar, Grönland/Algerien). GTA VI 19.11. bestätigt.
+
+## 2026-11-12 (Produktions-Agent, Queue 14.11.)
+- Technik: Läufe 11.11. alle grün (10/10), Soll 11.11. erfüllt (six-q-genius-flags 16:00, vs-colder-1 21:00, kein Long-Tag; beide Kommentare gepostet, 16:11/21:54). Kein Code-Fix nötig.
+- Shorts: kein neuer Snapshot seit 11.11. 11:50 (21 Abos). atlas vorläufig vorn: six-q-genius-tricky 975, map-lie-1 934 (≈2,2× Median ~436); flags/colder dort noch privat → 24-h-Werte nach heutigem Lauf.
+- Longs: Karten-Long True Size 22 öffentl. (Studio 32, CTR 3,3 %); Movie-Emoji-Long läuft heute 14:00 (E13 #2).
+- Thumbnails: CTR per API weiter nicht messbar (HttpError 400); Thumb-Test capital-cities-30 A = 12 Views/Tag, jetzt B.
+- Queue 14.11. angelegt: six-q-genius-animals 16:00 + map-lie-2 21:00. Duplikat-Check ersetzte 5 von 6 Plan-Tierfragen (Kolibri rückwärts, Oktopus-Herzen, Spinnenbeine, Eisbärhaut, Fledermaus – alle schon benutzt) → Babyziege, Strauß-Ei, Flamingo grau, Gepard brüllt nicht, Flusspferd ↔ Wale. Karten-Kontrollspalte stützt alle 4 Runden (UK 237.691 < Italien 299.761, Finnland 329.579 < Japan 363.605, Spanien 498.283 < Madagaskar 594.688, Grönland 2.146.782 < Algerien 2.322.864).

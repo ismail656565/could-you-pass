@@ -1,0 +1,140 @@
+{
+ "id": "six-q-genius-animals",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Animal Quiz #shorts",
+  "description": "6 animal questions, easy to hard 🐾 Did #4 trick you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#animalquiz #animals #wildlife #quiz #onlygeniuses #shorts\n\nMusic: original.",
+  "tags": [
+   "animal quiz",
+   "animal trivia",
+   "wildlife quiz",
+   "nature quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did the baby flamingo trick you on #4? 🦩 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "atlas",
+  "title": "Animal Quiz",
+  "header": "ANIMAL QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "What is the **largest** animal ever known?",
+    "answers": [
+     "African elephant",
+     "Blue whale",
+     "Megalodon",
+     "Giraffe"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "broll": "ocean waves open sea"
+   },
+   {
+    "q": "What is a baby **goat** called?",
+    "answers": [
+     "Calf",
+     "Foal",
+     "Kid",
+     "Cub"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "broll": "green farm meadow"
+   },
+   {
+    "q": "Which bird lays the **biggest** eggs?",
+    "answers": [
+     "Ostrich",
+     "Emu",
+     "Eagle",
+     "Penguin"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "broll": "savanna grassland"
+   },
+   {
+    "q": "What colour is a **flamingo** when it hatches?",
+    "answers": [
+     "Pink",
+     "Yellow",
+     "Orange",
+     "Grey"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "salt lake shore"
+   },
+   {
+    "q": "Which big cat can NOT **roar**?",
+    "answers": [
+     "Lion",
+     "Cheetah",
+     "Tiger",
+     "Jaguar"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "broll": "tall dry grass wind"
+   },
+   {
+    "q": "The **hippo's** closest living relatives are…?",
+    "answers": [
+     "Pigs",
+     "Rhinos",
+     "Whales",
+     "Elephants"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "broll": "african river"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "What is the largest animal ever known?",
+   "a": "The blue whale! Bigger than any dinosaur we have found."
+  },
+  {
+   "q": "What is a baby goat called?",
+   "a": "A kid! That is where the word comes from."
+  },
+  {
+   "q": "Which bird lays the biggest eggs?",
+   "a": "The ostrich! One egg weighs as much as about twenty chicken eggs."
+  },
+  {
+   "q": "What colour is a flamingo when it hatches?",
+   "a": "Grey! The pink only comes later, from the food they eat."
+  },
+  {
+   "q": "Which big cat can not roar?",
+   "a": "The cheetah! It purrs and chirps like a house cat instead."
+  },
+  {
+   "q": "Last one. What are the hippo's closest living relatives?",
+   "a": "Whales and dolphins! Not pigs at all. Got all six? Go again!"
+  }
+ ]
+}
