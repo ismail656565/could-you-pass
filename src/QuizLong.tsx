@@ -4,6 +4,7 @@ import {loadFont} from '@remotion/google-fonts/Montserrat';
 import type {QuizQuestion, QuizStory} from './Quiz';
 import {QuizMascot} from './components/Mascot';
 import {TvLongScene, TvLongOutro, TvThumb} from './QuizTV';
+import {PopLongScene} from './QuizPop';
 
 // Langes Quiz-Video im Querformat (1920x1080), Neon-Look.
 //   oben: Fortschrittsbalken + "TITEL · 7/20" + Level
@@ -440,15 +441,15 @@ export const QuizLong: React.FC<QuizStory> = (story) => {
     <AbsoluteFill style={{backgroundColor: N.bg, overflow: 'hidden'}}>
       {story.questions.map((q, i) => (
         <Sequence key={i} from={f(q.start)} durationInFrames={Math.max(1, f(q.end) - f(q.start))} name={`Frage ${i + 1}`}>
-          {story.layout === 'tvshow' ? <TvLongScene q={q} index={i} story={story} /> : <LongScene q={q} index={i} story={story} />}
+          {story.layout === 'pop' ? <PopLongScene q={q} index={i} story={story} /> : story.layout === 'tvshow' ? <TvLongScene q={q} index={i} story={story} /> : <LongScene q={q} index={i} story={story} />}
         </Sequence>
       ))}
       {(story.durationInSeconds ?? 0) - story.outroStart > 0.5 ? (
         <Sequence from={f(story.outroStart)} name="Abspann">
-          {story.layout === 'tvshow' ? <TvLongOutro story={story} /> : <LongOutro story={story} />}
+          {story.layout === 'tvshow' || story.layout === 'pop' ? <TvLongOutro story={story} /> : <LongOutro story={story} />}
         </Sequence>
       ) : null}
-      {story.layout === 'tvshow' ? null : <QuizMascot story={story} x={1606} y={80} width={236} look={-1} />}
+      {story.layout === 'tvshow' || story.layout === 'pop' ? null : <QuizMascot story={story} x={1606} y={80} width={236} look={-1} />}
       {story.audio ? <Audio src={staticFile(story.audio)} /> : null}
       {story.music ? <Audio src={staticFile(story.music)} volume={story.musicVolume ?? 0.1} loop /> : null}
       {story.questions.map((q, i) => (
@@ -497,7 +498,7 @@ export const QuizThumb: React.FC<ThumbProps> = (story) => {
   const emoji = story.thumbEmoji ?? '🏆';
   const puzzle = story.thumbPuzzle && story.thumbPuzzle.length ? story.thumbPuzzle : null;
   const badge = story.thumbBadge ?? story.hook ?? `${story.questions.length} QUESTIONS`;
-  if (story.layout === 'tvshow') return <TvThumb story={story} text={text} badge={badge} variant={v} />;
+  if (story.layout === 'tvshow' || story.layout === 'pop') return <TvThumb story={story} text={text} badge={badge} variant={v} />;
   if (v === 'B') {
     return (
       <AbsoluteFill style={{background: '#FFD400', overflow: 'hidden'}}>
