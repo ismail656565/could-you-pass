@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Europe Quiz #shorts",
-  "description": "6 Europe geography questions, easy to hard 🌍 Did #4 trick you? 🏔️\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#europe #geographyquiz #geography #quiz #onlygeniuses #shorts\n\nMusic: original.",
+  "description": "6 Europe geography questions, easy to hard 🌍 Did #4 trick you? 🏔️\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#europe #geographyquiz #geography #quiz #onlygeniuses #shorts\n\nFootage via Wikimedia Commons: Omroep Brabant op pad met de Zonnebloem in Dierenrijk Nuenen – Omroep Brabant (CC BY 3.0); Old Coast Road northbound to Forrest Highway (E37@WTW2013) – Evad37 (CC0); Snowy mountains view in Bidakhavid village – Z110 (CC BY-SA 4.0); Lake Bled Slovenia Castle – Design....# ArchitecT #.... Soundtrack: Music without copyri (CC BY 3.0); Sur le ferry - Tour d'Horizon (Corse) – Gzen92 (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "europe quiz",
    "geography quiz",
@@ -47,7 +47,13 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "broll": "river cruise boat"
+    "broll": "river cruise boat",
+    "start": 0.0,
+    "keywordAt": 1.324,
+    "countdownStart": 2.58,
+    "reveal": 5.08,
+    "end": 9.568,
+    "video": "broll/six-q-genius-europe-0.mp4"
    },
    {
     "q": "Which country does NOT border **Germany**?",
@@ -59,7 +65,13 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "broll": "highway road sign"
+    "broll": "highway road sign",
+    "start": 9.568,
+    "keywordAt": 11.015,
+    "countdownStart": 11.679,
+    "reveal": 14.179,
+    "end": 18.484,
+    "video": "broll/six-q-genius-europe-1.mp4"
    },
    {
     "q": "What money do they use in **Switzerland**?",
@@ -71,7 +83,13 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "broll": "mountain village"
+    "broll": "mountain village",
+    "start": 18.484,
+    "keywordAt": 19.684,
+    "countdownStart": 20.501,
+    "reveal": 23.001,
+    "end": 26.78,
+    "video": "broll/six-q-genius-europe-2.mp4"
    },
    {
     "q": "What is the highest mountain in the **Alps**?",
@@ -83,7 +101,13 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "broll": "snowy mountain peaks"
+    "broll": "snowy mountain peaks",
+    "start": 26.78,
+    "keywordAt": 28.403,
+    "countdownStart": 28.918,
+    "reveal": 31.418,
+    "end": 36.87,
+    "video": "broll/six-q-genius-europe-3.mp4"
    },
    {
     "q": "Which **strait** separates Spain from Morocco?",
@@ -95,7 +119,13 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "broll": "ferry at sea"
+    "broll": "ferry at sea",
+    "start": 36.87,
+    "keywordAt": 37.218,
+    "countdownStart": 39.128,
+    "reveal": 41.628,
+    "end": 46.75,
+    "video": "broll/six-q-genius-europe-4.mp4"
    },
    {
     "q": "**Liechtenstein** lies between which two countries?",
@@ -107,9 +137,17 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "broll": "alpine meadow cows"
+    "broll": "alpine meadow cows",
+    "start": 46.75,
+    "keywordAt": 47.314,
+    "countdownStart": 49.889,
+    "reveal": 52.389,
+    "end": 57.107
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-europe.mp3",
+  "outroStart": 57.107,
+  "durationInSeconds": 57.107
  },
  "lines": [
   {
@@ -136,5 +174,22 @@
    "q": "Last one. Liechtenstein lies between which two countries?",
    "a": "Switzerland and Austria! And it has no coast at all. Got all six? Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -19.6,
+  "truePeak": -2.7,
+  "lra": 5.5,
+  "normalized": true,
+  "frozenShare": 0.151,
+  "longestFreezeSec": 4.0,
+  "frame0Luma": 181.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-13T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "L65ciJxD4Xc",
+  "at": "2026-11-13T06:24"
+ }
 }

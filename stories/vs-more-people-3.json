@@ -1,0 +1,123 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "More People?",
+ "header": "WHICH HAS MORE PEOPLE?",
+ "hook": "90% GET #2 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "MORE!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which has more **people**?",
+   "answers": [
+    "Egypt",
+    "Germany"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "values": [
+    118365995,
+    84075075
+   ],
+   "valueLabels": [
+    "118M",
+    "84M"
+   ],
+   "icons": [
+    "🐪",
+    "🥨"
+   ],
+   "start": 0.0,
+   "keywordAt": 0.801,
+   "countdownStart": 2.303,
+   "reveal": 5.303,
+   "end": 9.988
+  },
+  {
+   "q": "Which has more **people**?",
+   "answers": [
+    "Russia",
+    "Bangladesh"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "values": [
+    143997393,
+    175686899
+   ],
+   "valueLabels": [
+    "144M",
+    "176M"
+   ],
+   "icons": [
+    "🪆",
+    "🐅"
+   ],
+   "start": 9.988,
+   "countdownStart": 11.525,
+   "reveal": 14.525,
+   "end": 20.17
+  },
+  {
+   "q": "Which has more **people**?",
+   "answers": [
+    "Canada",
+    "Poland"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "values": [
+    40126723,
+    38140910
+   ],
+   "valueLabels": [
+    "40M",
+    "38M"
+   ],
+   "icons": [
+    "🍁",
+    "🥟"
+   ],
+   "start": 20.17,
+   "countdownStart": 21.705,
+   "reveal": 24.705,
+   "end": 29.286
+  },
+  {
+   "q": "Which has more **people**?",
+   "answers": [
+    "Brazil",
+    "Pakistan"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    212812405,
+    255219554
+   ],
+   "valueLabels": [
+    "213M",
+    "255M"
+   ],
+   "icons": [
+    "⚽",
+    "🏏"
+   ],
+   "start": 29.286,
+   "countdownStart": 31.342,
+   "reveal": 34.342,
+   "end": 41.455
+  }
+ ],
+ "audio": "audio/vs-more-people-3.mp3",
+ "outroStart": 41.455,
+ "durationInSeconds": 41.455
+}

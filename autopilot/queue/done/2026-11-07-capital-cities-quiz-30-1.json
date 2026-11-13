@@ -740,19 +740,11 @@
    "B",
    "C"
   ],
-  "current": "B",
-  "since": "2026-11-11",
-  "results": {
-   "A": {
-    "views": 12,
-    "ctr": 3.0,
-    "metric": "views/day",
-    "from": "2026-11-07",
-    "to": "2026-11-11"
-   }
-  },
+  "current": "A",
+  "since": "2026-11-13",
+  "results": {},
   "done": false,
-  "refresh": "v2"
+  "design": "v2"
  },
  "scheduledFor": "2026-11-07T14:00+01:00",
  "playlistAdded": true,
