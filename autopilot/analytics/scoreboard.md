@@ -2,14 +2,14 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (45 Videos)
+## Shorts (46 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | Karten-VS (TrueSize) | 1 | 1015 | 1015 | 1015 | 53.0 | 81.4 | 0 |
-| 6+ Fragen | 11 | 746 | 994 | 1434 | 54.1 | 50.7 | 7.0 |
+| 6+ Fragen | 12 | 708 | 640 | 1434 | 54.1 | 50.7 | 7.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.2 | 145.1 | 0 |
 | VS-Vergleich | 7 | 673 | 557 | 1188 | 54.8 | 65.4 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 378 | 866 | 44.1 | 101.4 | 2.0 |
@@ -43,6 +43,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | HISTORY QUIZ | 1 | 330 | 330 | 330 | 48.8 | 94.3 | 0 |
 | HISTORY TRIVIA | 1 | 311 | 311 | 311 | 50.2 | 44.5 | 1.0 |
 | TRIVIA | 6 | 472 | 289 | 1082 | 52.7 | 59.6 | 0 |
+| FLAG QUIZ | 1 | 286 | 286 | 286 | – | – | 0 |
 | BERLIN WALL QUIZ | 1 | 230 | 230 | 230 | 60.7 | 46.2 | 0 |
 | SPACE QUIZ | 2 | 228 | 228 | 252 | 53.2 | 76.1 | 0 |
 | FOOD QUIZ | 1 | 185 | 185 | 185 | 64.9 | 80.6 | 0 |
@@ -57,8 +58,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| atlas | 1 | 1297 | 1297 | 1297 | 45.7 | 51.5 | 3.0 |
 | comic | 1 | 1015 | 1015 | 1015 | 53.0 | 81.4 | 0 |
+| atlas | 2 | 792 | 792 | 1297 | 45.7 | 51.5 | 3.0 |
 | tvshow | 28 | 557 | 439 | 1219 | 52.4 | 69.1 | 12.0 |
 | neon | 13 | 521 | 330 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 310 | 310 | 390 | 56.1 | 54.3 | 0 |
@@ -67,7 +68,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 15 | 704 | 622 | 1297 | 49.9 | 73.9 | 8.0 |
+| game-show.wav | 16 | 678 | 552 | 1297 | 49.9 | 73.9 | 8.0 |
 | world-trip.wav | 10 | 529 | 504 | 1188 | 56.4 | 66.3 | 4.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.6 | 3.0 |
 
@@ -76,7 +77,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
-| 16:00 | 19 | 565 | 427 | 1297 | 48.3 | 78.2 | 9.0 |
+| 16:00 | 20 | 551 | 378 | 1297 | 48.3 | 78.2 | 9.0 |
 | 21:00 | 20 | 528 | 358 | 1188 | 54.5 | 67.7 | 6.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
 
