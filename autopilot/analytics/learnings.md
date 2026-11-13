@@ -562,3 +562,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Karten-Long True Size 84 öffentl. (bestes seit Okt.), Flag-30 13 ✗ → E13 hängt an Movie-Emoji (12.11.) + Country-Emoji (14.11.).
 - Thumbnails: CTR per API weiter nicht messbar (HttpError 400); v2-Neustart für movie/flag/capitals läuft ab heute.
 - Queue 15.11. angelegt: six-q-genius-world-geo 16:00 + vs-countries-bigger-2 21:00. Duplikat-Check strich 5 von 6 Plan-Fragen (Thames, Angel Falls, meiste Zeitzonen, meiste Inseln, größtes Land Afrikas – alle schon benutzt; Chile-Streifen ersetzt) → neu: Great Barrier Reef, Nil→Mittelmeer, Amazonas ~60 % Brasilien, #4 Falle Ukraine größtes Land ganz in Europa, Galápagos=Ecuador, Osterinsel=Chile. VS Libyen/Iran, Bolivien/Ägypten, Südafrika/Kolumbien, Indien/Argentinien (CIA), Gewinnerseite a/b/b/b, Icons (keine Flaggenfotos für diese Länder in image-credits.json).
+
+## 2026-11-13 20:15 – Retention-Analyse (Besitzer: „Retention erhöhen“)
+- Stayed-to-watch Shorts 48,6 % (28 T). Nach Format: 1-Frage-Shorts 35–41 %, 4–6-Fragen-Shorts 53–57 %. In unseren 50 Shorts hängt stayed NICHT mit Views zusammen (r ≈ 0), das Thema entscheidet stärker.
+- Größtes Loch: direkt nach der 1. Auflösung. Median: von 100 Zuschauern bei Auflösung Q1 sind 1,5 s nach Start von Q2 noch 62 da, bei der letzten Auflösung 40. Ausnahmen: Karten-VS map-lie-1 (−13 %, Ø angesehen 81 %) und True/False (−15 %).
+- E15: Antwortzeile von Frage 1 nur noch die Antwort (1–3 Wörter, kein Fakt) → nächste Frage kommt ~2 s früher. Erstes Video: six-q-genius-world-geo (15.11.). Eine Variable, 3 Videos, dann Verdict.

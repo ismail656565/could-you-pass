@@ -62,3 +62,5 @@ Gestrichen: Weltraum, Wissenschaft, Wortschatz, Bauwerkshöhen, Gewicht-VS (388 
 - Nach dem heutigen Snapshot: 24-h-Werte von six-q-genius-movies und vs-older-1 und die ≥3-T-Werte von tricky/map-lie-1 in experiments.md eintragen. **E12-Regel:** wenn von den 6 atlas-Shorts 10.–12.11. höchstens 2 über dem 24-h-Median (~436) liegen → als TECHNIK/STRATEGIE-Hinweis in learnings.md notieren (Besitzer entscheidet über Look, nicht wir).
 - Scoreboard-Gruppierung: TrueSize-Videos als Format „Karten“ / Layout „atlas“ führen (siehe TECHNIK-PROBLEM 2), wenn ohne Risiko machbar.
 - Weiter: kein Weltraum, Halloween/Grusel, Politik, Krieg/Waffen, 💥, Alters-Titel; keine Longs an Mo/Mi/Fr/So.
+- **NEU 13.11. 20:15 – E15 Retention (Besitzer-Auftrag):** Bei allen NEUEN 6-Fragen-Shorts ab 16.11. ist `lines[0].a` nur die Antwort mit Ausrufezeichen (1–3 Wörter, kein Fakt-Satz); Fragen 2–6 unverändert. six-q-genius-world-geo (15.11.) ist schon umgestellt. VS-/Karten-Shorts NICHT ändern (Kontrollgruppe). Nach jedem Snapshot in experiments.md eintragen: Kurvenwert 1,5 s nach Start Q2 ÷ Kurvenwert bei Auflösung Q1 (Ziel ≥ 0,75, Basis 0,62) und Ø angesehen.
+
