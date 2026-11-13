@@ -549,3 +549,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Pflicht-Texte Longs: A = Suchphrase („GUESS THE **MOVIE**“), B = Hürde („CAN YOU GET **25/30**?“), C = „ONLY 1% GET **30/30**“. Bei Emoji-Longs IMMER `thumbPuzzle` aus einer echten Frage (nicht die erste, nicht das Finale) setzen; `thumbImage` nur für Foto-Quiz.
 - Neustart per `thumbTest.refresh = "v2"` in queue/done: Lauf rendert A/B/C neu, setzt A sofort, Test beginnt von vorn. Gesetzt für movie-emoji-30-1, flag-quiz-30-1, capital-cities-quiz-30-1; country-emoji-30-1 (14.11.) hat schon v2-Daten (🌋 + ♨️ + 🐋).
 - Erfolg: Movie-/Flag-/Capitals-Long Views/Tag in den 4 Tagen nach Neustart ≥2× gegenüber vorher. Shorts betrifft das kaum (Feed zeigt das Video, nicht das Thumbnail).
+
+## 2026-11-13 – Research
+- atlas gemischt: tricky 1.045 / map-lie-1 940 (~1,8 T) stark, aber flags 165 (~0,9 T) / colder 72 (~0,7 T) weit unter 24-h-Median ~436 → E12 offen (2/4), Verdict nach 12./13.11.-Paaren.
+- Karten-Long True Size 84 öffentl. Views n. ~2 T (Text-Longs 4–13) → E13 auf Kurs; Verdicts ✗: VS Heavier 388, Berlin-Wall-6-Q 229 (Jahrestage raus aus 16:00), Flag-30 13.
+- Konkurrenz: „15 Mystery Riddles … 99% Fail“ 517k (106k/Tag) + Quiz World 519k → E14 Rätsel-Long 19.11. bestätigt („12 Tricky IQ Riddles – Only Geniuses Solve 4 🧠“).
+- 15.11. neu: World-Geo-6-Q 16:00 + Bigger-VS (Libyen/Iran, Bolivien/Ägypten, Südafrika/Kolumbien, Indien/Argentinien) 21:00; keine „Round 2“-Titel bei 6-Q.

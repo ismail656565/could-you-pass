@@ -116,3 +116,10 @@ Formate: (a) Trap-Trivia, (b) Emoji, (c) Which is bigger/older, (d) IQ/Logik, (e
 | 2026-11-11 | (Zwischenstand) E12 atlas: map-lie-1 / six-q-genius-tricky | short | Layout atlas + Karten-VS | – | atlas | – | | | 931 (~11 h) / 578 (~16 h) | +3 Abos gesamt | **✓ vorläufig** – beide > 24-h-Median 436; Karten-VS 2×/Woche |
 | 2026-11-12 | (Zwischenstand) E12 atlas | short | Layout atlas | six-q-genius-tricky / map-lie-1 | atlas | – | | | 975 (~0,8 T) / 934 (~0,6 T) | – | **✓ vorläufig** – beide 2,2× über Shorts-24-h-Median ~436; Verdict nach flags/colder (11.11.) + 12.11.-Paar |
 | 2026-11-14 | map-lie-2 | short | Karten-VS #2 (Exploit) | UK/Italien, Japan/Finnland, Spanien/Madagaskar, Algerien/Grönland (CIA Factbook) | atlas truesize, world-trip | "This Map Is Lying To You #2 🌍 Which Is REALLY Bigger?" | | | | | angelegt 12.11. – Ziel ≥800 Views n. 3 T; Gewinnerseite b/a/b/a |
+| 2026-11-13 | (Verdict) E2 vs-heavier-1 | short | VS Gewicht | – | stick | – | | | 388 (≈2,6 T, Stand 12.11.) | – | **✗** – Ziel 700 verfehlt; Gewicht-VS gestrichen |
+| 2026-11-13 | (Verdict) E10 six-q-genius-berlin-wall | short | Thema Jahrestag | – | stick | – | | | 229 (≈2,8 T) | – | **✗** – <400 → Jahrestage nicht mehr im 16:00-Slot |
+| 2026-11-13 | (Verdict) flag-quiz-30-1 | long | 30-Q-Text-Long | – | tvshow | – | | | 13 (≈2,9 T) | – | **✗** – Text-Long tot (bestätigt) |
+| 2026-11-13 | (Zwischenstand) E12 atlas | short | Layout atlas | tricky / map-lie-1 / flags / colder | atlas | – | | | 1.045 (1,9 T) / 940 (1,7 T) / 165 (0,9 T) / 72 (0,7 T) | – | **offen** – 2/4 über 24-h-Median ~436; Verdict nach movies/older + 13.11. |
+| 2026-11-13 | (Zwischenstand) E13 map-true-size-20-1 | long | Karten-Long | – | TrueSizeLong | – | | | 84 öffentl. (≈1,95 T) | – | **✓ auf Kurs** (Ziel ≥30) |
+| 2026-11-15 | six-q-genius-world-geo | short | 6-Q (Exploit Geo) | Welt-Geografie | atlas, game-show | "Only Geniuses Get 6/6 🧠 World Geography Quiz" | | | | | geplant 13.11. – ≥800 n. 3 T |
+| 2026-11-15 | E2 vs-countries-bigger-2 | short | VS (Exploit) | Ländergröße (CIA) | atlas, world-trip | "Which Country Is Bigger? 90% Get #4 Wrong 🌍" | | | | | geplant 13.11. – ≥700 n. 3 T |
