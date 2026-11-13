@@ -555,3 +555,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Karten-Long True Size 84 öffentl. Views n. ~2 T (Text-Longs 4–13) → E13 auf Kurs; Verdicts ✗: VS Heavier 388, Berlin-Wall-6-Q 229 (Jahrestage raus aus 16:00), Flag-30 13.
 - Konkurrenz: „15 Mystery Riddles … 99% Fail“ 517k (106k/Tag) + Quiz World 519k → E14 Rätsel-Long 19.11. bestätigt („12 Tricky IQ Riddles – Only Geniuses Solve 4 🧠“).
 - 15.11. neu: World-Geo-6-Q 16:00 + Bigger-VS (Libyen/Iran, Bolivien/Ägypten, Südafrika/Kolumbien, Indien/Argentinien) 21:00; keine „Round 2“-Titel bei 6-Q.
+
+## 2026-11-13 (Produktions-Agent, Queue 15.11.)
+- Technik: Läufe 12.11. alle grün (10/10), Soll 12.11. erfüllt (movie-emoji-30-1 14:00, vs-older-1 16:00, six-q-genius-movies 21:00, alle 3 Kommentare gepostet 13:16/16:22/21:10). Kein Code-Fix nötig. Analytics-Snapshot weiter vom 12.11. 11:52 (12.11.-Videos dort noch privat) → 24-h-Werte movies/older kommen mit dem heutigen 08:15-Lauf.
+- Shorts (Snapshot 12.11., 21 Abos): tricky 1.045 / map-lie-1 940 vs. flags 165 / colder 72 → E12 atlas 2/4 über Median ~436, weiter offen.
+- Longs: Karten-Long True Size 84 öffentl. (bestes seit Okt.), Flag-30 13 ✗ → E13 hängt an Movie-Emoji (12.11.) + Country-Emoji (14.11.).
+- Thumbnails: CTR per API weiter nicht messbar (HttpError 400); v2-Neustart für movie/flag/capitals läuft ab heute.
+- Queue 15.11. angelegt: six-q-genius-world-geo 16:00 + vs-countries-bigger-2 21:00. Duplikat-Check strich 5 von 6 Plan-Fragen (Thames, Angel Falls, meiste Zeitzonen, meiste Inseln, größtes Land Afrikas – alle schon benutzt; Chile-Streifen ersetzt) → neu: Great Barrier Reef, Nil→Mittelmeer, Amazonas ~60 % Brasilien, #4 Falle Ukraine größtes Land ganz in Europa, Galápagos=Ecuador, Osterinsel=Chile. VS Libyen/Iran, Bolivien/Ägypten, Südafrika/Kolumbien, Indien/Argentinien (CIA), Gewinnerseite a/b/b/b, Icons (keine Flaggenfotos für diese Länder in image-credits.json).
