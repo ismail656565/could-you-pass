@@ -1,12 +1,12 @@
 {
- "fetched": "2026-11-14T08:11",
+ "fetched": "2026-11-14T11:31",
  "groups": {
   "short.format": {
    "6+ Fragen": {
     "n": 12,
     "avgViews": 731,
     "medianViews": 650,
-    "bestViews": 1536,
+    "bestViews": 1541,
     "stayed": 54.7,
     "avgPct": 50.6,
     "subs": 7.0
@@ -58,9 +58,9 @@
    },
    "Karten-VS (TrueSize)": {
     "n": 1,
-    "avgViews": 1020,
-    "medianViews": 1020,
-    "bestViews": 1020,
+    "avgViews": 1021,
+    "medianViews": 1021,
+    "bestViews": 1021,
     "stayed": 52.9,
     "avgPct": 81.4,
     "subs": 0
@@ -321,18 +321,18 @@
    },
    "–": {
     "n": 1,
-    "avgViews": 1020,
-    "medianViews": 1020,
-    "bestViews": 1020,
+    "avgViews": 1021,
+    "medianViews": 1021,
+    "bestViews": 1021,
     "stayed": 52.9,
     "avgPct": 81.4,
     "subs": 0
    },
    "TRICKY TRIVIA": {
     "n": 1,
-    "avgViews": 1536,
-    "medianViews": 1536,
-    "bestViews": 1536,
+    "avgViews": 1541,
+    "medianViews": 1541,
+    "bestViews": 1541,
     "stayed": 45.7,
     "avgPct": 50.8,
     "subs": 3.0
@@ -348,9 +348,9 @@
    },
    "WHICH IS COLDER?": {
     "n": 1,
-    "avgViews": 145,
-    "medianViews": 145,
-    "bestViews": 145,
+    "avgViews": 147,
+    "medianViews": 147,
+    "bestViews": 147,
     "stayed": 33.3,
     "avgPct": 51.1,
     "subs": 0
@@ -404,18 +404,18 @@
    },
    "comic": {
     "n": 1,
-    "avgViews": 1020,
-    "medianViews": 1020,
-    "bestViews": 1020,
+    "avgViews": 1021,
+    "medianViews": 1021,
+    "bestViews": 1021,
     "stayed": 52.9,
     "avgPct": 81.4,
     "subs": 0
    },
    "atlas": {
     "n": 3,
-    "avgViews": 661,
+    "avgViews": 664,
     "medianViews": 303,
-    "bestViews": 1536,
+    "bestViews": 1541,
     "stayed": 46.7,
     "avgPct": 50.7,
     "subs": 3.0
@@ -435,14 +435,14 @@
     "n": 16,
     "avgViews": 695,
     "medianViews": 553,
-    "bestViews": 1536,
+    "bestViews": 1541,
     "stayed": 50.6,
     "avgPct": 72.4,
     "subs": 8.0
    },
    "world-trip.wav": {
     "n": 11,
-    "avgViews": 495,
+    "avgViews": 496,
     "medianViews": 454,
     "bestViews": 1189,
     "stayed": 54.3,
@@ -473,7 +473,7 @@
     "n": 20,
     "avgViews": 565,
     "medianViews": 380,
-    "bestViews": 1536,
+    "bestViews": 1541,
     "stayed": 49.0,
     "avgPct": 76.8,
     "subs": 9.0
@@ -554,8 +554,8 @@
    },
    "30 Fragen": {
     "n": 3,
-    "avgViews": 14,
-    "medianViews": 19,
+    "avgViews": 15,
+    "medianViews": 20,
     "bestViews": 21,
     "stayed": 73.4,
     "avgPct": 13.3,
@@ -786,7 +786,7 @@
    "avgPct": 52.1,
    "subs": 1.0,
    "durationSec": 182,
-   "ageDays": 27.6,
+   "ageDays": 27.7,
    "search": null
   },
   {
@@ -805,7 +805,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 26.7,
+   "ageDays": 26.8,
    "search": null
   },
   {
@@ -843,7 +843,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 25.6,
+   "ageDays": 25.7,
    "search": null
   },
   {
@@ -862,7 +862,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 25.6,
+   "ageDays": 25.7,
    "search": null
   },
   {
@@ -881,7 +881,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 25.9,
+   "ageDays": 26.0,
    "search": null
   },
   {
@@ -938,7 +938,7 @@
    "avgPct": 28.499999999999996,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 24.9,
+   "ageDays": 25.0,
    "search": null
   },
   {
@@ -957,7 +957,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 23.9,
+   "ageDays": 24.0,
    "search": null
   },
   {
@@ -995,7 +995,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 22.9,
+   "ageDays": 23.0,
    "search": null
   },
   {
@@ -1014,7 +1014,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 22.8,
+   "ageDays": 22.9,
    "search": null
   },
   {
@@ -1033,7 +1033,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 22.6,
+   "ageDays": 22.7,
    "search": null
   },
   {
@@ -1052,7 +1052,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 21.8,
+   "ageDays": 21.9,
    "search": null
   },
   {
@@ -1071,7 +1071,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 21.9,
+   "ageDays": 22.0,
    "search": null
   },
   {
@@ -1090,7 +1090,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 21.6,
+   "ageDays": 21.7,
    "search": null
   },
   {
@@ -1109,7 +1109,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 20.9,
+   "ageDays": 21.0,
    "search": null
   },
   {
@@ -1128,7 +1128,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 20.8,
+   "ageDays": 20.9,
    "search": null
   },
   {
@@ -1147,7 +1147,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 20.6,
+   "ageDays": 20.7,
    "search": null
   },
   {
@@ -1166,7 +1166,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 21.2,
+   "ageDays": 21.3,
    "search": null
   },
   {
@@ -1185,7 +1185,7 @@
    "avgPct": 95.46,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 19.8,
+   "ageDays": 19.9,
    "search": null
   },
   {
@@ -1261,7 +1261,7 @@
    "avgPct": 71.99,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 18.8,
+   "ageDays": 18.9,
    "search": null
   },
   {
@@ -1318,7 +1318,7 @@
    "avgPct": 77.11,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 14.8,
+   "ageDays": 14.9,
    "search": null
   },
   {
@@ -1375,7 +1375,7 @@
    "avgPct": 88.17,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 13.8,
+   "ageDays": 13.9,
    "search": null
   },
   {
@@ -1413,7 +1413,7 @@
    "avgPct": 51.33,
    "subs": 1.0,
    "durationSec": 45,
-   "ageDays": 12.8,
+   "ageDays": 12.9,
    "search": null
   },
   {
@@ -1470,7 +1470,7 @@
    "avgPct": 91.03,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 11.8,
+   "ageDays": 11.9,
    "search": null
   },
   {
@@ -1546,7 +1546,7 @@
    "avgPct": 48.82,
    "subs": 0.0,
    "durationSec": 57,
-   "ageDays": 10.8,
+   "ageDays": 10.9,
    "search": null
   },
   {
@@ -1603,7 +1603,7 @@
    "avgPct": 45.53,
    "subs": 2.0,
    "durationSec": 51,
-   "ageDays": 9.8,
+   "ageDays": 9.9,
    "search": null
   },
   {
@@ -1660,7 +1660,7 @@
    "avgPct": 38.67,
    "subs": 0.0,
    "durationSec": 52,
-   "ageDays": 8.8,
+   "ageDays": 8.9,
    "search": null
   },
   {
@@ -1717,7 +1717,7 @@
    "avgPct": 57.95,
    "subs": 0.0,
    "durationSec": 53,
-   "ageDays": 7.8,
+   "ageDays": 7.9,
    "search": null
   },
   {
@@ -1750,7 +1750,7 @@
    "layout": "tvshow",
    "music": "world-trip.wav",
    "slot": "14:00",
-   "publicViews": 19.0,
+   "publicViews": 20.0,
    "engagedShare": 0.684,
    "avgPct": 23.81,
    "subs": 0.0,
@@ -1774,7 +1774,7 @@
    "avgPct": 53.92,
    "subs": 1.0,
    "durationSec": 44,
-   "ageDays": 6.8,
+   "ageDays": 6.9,
    "search": null
   },
   {
@@ -1812,7 +1812,7 @@
    "avgPct": 56.8,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 5.8,
+   "ageDays": 5.9,
    "search": null
   },
   {
@@ -1888,7 +1888,7 @@
    "avgPct": 45.84,
    "subs": 0.0,
    "durationSec": 48,
-   "ageDays": 4.8,
+   "ageDays": 4.9,
    "search": 6
   },
   {
@@ -1921,7 +1921,7 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 1020.0,
+   "publicViews": 1021.0,
    "engagedShare": 0.529,
    "avgPct": 81.41,
    "subs": 0.0,
@@ -1959,12 +1959,12 @@
    "layout": "atlas",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1536.0,
+   "publicViews": 1541.0,
    "engagedShare": 0.457,
    "avgPct": 50.8,
    "subs": 3.0,
    "durationSec": 48,
-   "ageDays": 3.8,
+   "ageDays": 3.9,
    "search": 27
   },
   {
@@ -1983,7 +1983,7 @@
    "avgPct": 50.2,
    "subs": 0.0,
    "durationSec": 54,
-   "ageDays": 2.8,
+   "ageDays": 2.9,
    "search": 3
   },
   {
@@ -1997,7 +1997,7 @@
    "layout": "atlas",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 145.0,
+   "publicViews": 147.0,
    "engagedShare": 0.333,
    "avgPct": 51.09,
    "subs": 0.0,
@@ -2021,7 +2021,7 @@
    "avgPct": 3.5000000000000004,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 17.5,
+   "ageDays": 17.6,
    "search": null
   },
   {
@@ -2040,7 +2040,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 17.5,
+   "ageDays": 17.6,
    "search": null
   },
   {
@@ -2078,7 +2078,7 @@
    "avgPct": 120.85,
    "subs": 0.0,
    "durationSec": 8,
-   "ageDays": 16.8,
+   "ageDays": 16.9,
    "search": null
   },
   {
@@ -2097,7 +2097,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 15.6,
+   "ageDays": 15.7,
    "search": null
   },
   {

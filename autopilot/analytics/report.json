@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-14T08:11",
+ "fetched": "2026-11-14T11:31",
  "channel": "COULD YOU PASS?",
  "subscribers": "23",
  "audience": {
@@ -83,17 +83,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 20771,
-    "engagedViews": 9349
+    "views": 20775,
+    "engagedViews": 9350
    },
    {
     "deviceType": "TABLET",
-    "views": 5471,
-    "engagedViews": 2898
+    "views": 5474,
+    "engagedViews": 2900
    },
    {
     "deviceType": "TV",
-    "views": 2528,
+    "views": 2529,
     "engagedViews": 2012
    },
    {
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "95",
+   "publicViews": "98",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 58,
-   "publicViews": "82",
+   "publicViews": "84",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -261,7 +261,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 55,
-   "publicViews": "351",
+   "publicViews": "362",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -285,7 +285,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "172",
+   "publicViews": "178",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -845,7 +845,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 42,
-   "publicViews": "145",
+   "publicViews": "147",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1420,7 +1420,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 38,
-   "publicViews": "1020",
+   "publicViews": "1021",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1458,7 +1458,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 48,
-   "publicViews": "1536",
+   "publicViews": "1541",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1776,7 +1776,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 385,
-   "publicViews": "19",
+   "publicViews": "20",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
