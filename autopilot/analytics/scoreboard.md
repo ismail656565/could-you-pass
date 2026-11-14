@@ -101,7 +101,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 2 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (25 Videos)
+## Lange Videos (26 Videos)
 
 ### Lange Videos nach Format
 
@@ -110,7 +110,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 0 Fragen | 2 | 137 | 137 | 141 | 74.3 | 43.4 | 1.0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 49.3 | 25.8 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
-| 30 Fragen | 3 | 15 | 20 | 21 | 73.4 | 13.3 | 0 |
+| 30 Fragen | 4 | 14 | 17 | 21 | 73.4 | 13.3 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 11 | 5 | 3 | 14 | 68.8 | 50.6 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 66.7 | 43.5 | 0 |
@@ -121,8 +121,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | Halloween | 2 | 117 | 117 | 186 | 55.5 | 24.4 | 0 |
-| Emoji-Raten | 2 | 71 | 71 | 141 | 86.5 | 27.2 | 1.0 |
 | IQ-Titel | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
+| Emoji-Raten | 3 | 52 | 14 | 141 | 86.5 | 27.2 | 1.0 |
 | Can-You-Pass-Test | 1 | 12 | 12 | 12 | 33.3 | 31.6 | 0 |
 | Geografie | 2 | 12 | 12 | 21 | 63.5 | 31.6 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
@@ -139,7 +139,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 2 | 137 | 137 | 141 | 74.3 | 43.4 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
-| tvshow | 15 | 6 | 3 | 21 | 68.8 | 33.8 | 0 |
+| tvshow | 16 | 7 | 3 | 21 | 68.8 | 33.8 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -147,7 +147,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | world-trip.wav | 9 | 24 | 12 | 133 | 62.4 | 40.9 | 0 |
-| game-show.wav | 8 | 30 | 6 | 186 | 74.0 | 40.4 | 1.0 |
+| game-show.wav | 9 | 28 | 6 | 186 | 74.0 | 40.4 | 1.0 |
 | brain-pulse.wav | 7 | 16 | 3 | 60 | 69.8 | 40.5 | 0 |
 
 ### Lange Videos nach Sendezeit
@@ -155,7 +155,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 21 | 18 | 4 | 133 | 68.2 | 42.0 | 1.0 |
+| 14:00 | 22 | 17 | 5 | 133 | 68.2 | 42.0 | 1.0 |
 | 19:00 | 1 | 3 | 3 | 3 | 100.0 | 11.5 | 0 |
 
 ### Top 8 Lange Videos
