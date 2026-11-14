@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (47 Videos)
+## Shorts (48 Videos)
 
 ### Shorts nach Format
 
@@ -11,7 +11,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Karten-VS (TrueSize) | 1 | 1021 | 1021 | 1021 | 52.9 | 81.4 | 0 |
 | 6+ Fragen | 12 | 731 | 650 | 1541 | 54.7 | 50.6 | 7.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
-| VS-Vergleich | 8 | 609 | 506 | 1189 | 52.1 | 63.8 | 5.0 |
+| VS-Vergleich | 9 | 561 | 454 | 1189 | 52.1 | 63.8 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 9 | 372 | 251 | 1082 | 58.2 | 74.1 | 1.0 |
@@ -49,6 +49,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | FOOD QUIZ | 1 | 186 | 186 | 186 | 64.9 | 80.6 | 0 |
 | QUICK FIRE SCIENCE | 1 | 180 | 180 | 180 | 52.8 | 58.0 | 0 |
 | ANIMAL QUIZ | 1 | 179 | 179 | 179 | 44.1 | 77.1 | 1.0 |
+| WHICH IS OLDER? | 1 | 178 | 178 | 178 | – | – | 0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
 | VOCABULARY QUIZ | 1 | 148 | 148 | 148 | 38.1 | 38.7 | 0 |
 | WHICH IS COLDER? | 1 | 147 | 147 | 147 | 33.3 | 51.1 | 0 |
@@ -63,22 +64,22 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 558 | 442 | 1221 | 52.4 | 69.1 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 313 | 313 | 392 | 56.1 | 55.1 | 0 |
-| atlas | 3 | 664 | 303 | 1541 | 46.7 | 50.7 | 3.0 |
+| atlas | 4 | 542 | 240 | 1541 | 46.7 | 50.7 | 3.0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 16 | 695 | 553 | 1541 | 50.6 | 72.4 | 8.0 |
-| world-trip.wav | 11 | 496 | 454 | 1189 | 54.3 | 64.9 | 4.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.7 | 3.0 |
+| world-trip.wav | 12 | 469 | 316 | 1189 | 54.3 | 64.9 | 4.0 |
 
 ### Shorts nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
-| 16:00 | 20 | 565 | 380 | 1541 | 49.0 | 76.8 | 9.0 |
+| 16:00 | 21 | 546 | 331 | 1541 | 49.0 | 76.8 | 9.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
 | 21:00 | 21 | 511 | 327 | 1189 | 53.5 | 66.9 | 6.0 |
 
