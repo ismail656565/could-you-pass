@@ -1711,3 +1711,44 @@
 [2026-11-13 16:08:52] six-q-genius-europe: Kommentar gepostet
 [2026-11-13 16:08:52] vs-more-people-3: noch nicht öffentlich – Kommentar später
 [2026-11-13 21:11:59] vs-more-people-3: Kommentar gepostet
+[2026-11-14 06:16:12] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-14 06:16:12] Analytics gespeichert (87 Videos)
+[2026-11-14 06:16:13] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-14 06:16:13] Thumbnail-Test us-presidents-5-15: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-14 06:16:16] Thumbnail-Test us-presidents-5-15: jetzt Variante A (Gewinner)
+[2026-11-14 06:16:16] Thumbnail-Test history-quiz-50-1: Variante B → {'views': 1, 'ctr': 0.25, 'metric': 'views/day'}
+[2026-11-14 06:16:19] Thumbnail-Test history-quiz-50-1: jetzt Variante C
+[2026-11-14 06:16:19] Produziere map-lie-2 (short)
+[2026-11-14 06:20:23] Gerendert
+[2026-11-14 06:20:29] QA: -19.9 LUFS, TP -2.7 dBTP → normalisiert auf −14, Standbild max 3.0 s, Frame0-Luma 205.8
+[2026-11-14 06:20:32] Hochgeladen: https://youtube.com/watch?v=HP4CN6Owrs4 (private)
+[2026-11-14 06:20:33] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-14 06:20:33] Geplant für 14.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-14 06:20:33] Produziere six-q-genius-animals (short)
+[2026-11-14 06:20:33] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-14 06:20:45] Ton fertig: 49.5 s
+[2026-11-14 06:20:50] B-Roll Frage 1 ("ocean waves open sea"): SWOT Spots Tsunami Wave After Kamchatka Quake (154666 -).web
+[2026-11-14 06:20:50] B-Roll Frage 2 ("green farm meadow"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-14 06:20:56] B-Roll Frage 3 ("savanna grassland"): Savanna Elephant (Loxodonta africana) bull ....webm
+[2026-11-14 06:21:01] B-Roll Frage 4 ("salt lake shore"): Elton Salt Lake - 10th position - Winners of Wiki Loves Eart
+[2026-11-14 06:21:01] B-Roll Frage 5 ("tall dry grass wind"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-14 06:21:07] B-Roll Frage 6 ("african river"): River Rwizi and its vegetation and the human activity around
+[2026-11-14 06:24:22] Gerendert
+[2026-11-14 06:24:30] QA: -20.7 LUFS, TP -3.4 dBTP → normalisiert auf −14, Standbild max 3.0 s, Frame0-Luma 181.6
+[2026-11-14 06:24:33] Hochgeladen: https://youtube.com/watch?v=XWKgyINVAl8 (private)
+[2026-11-14 06:24:33] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-14 06:24:33] Geplant für 14.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-14 06:24:33] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-14 06:24:33] Produziere country-emoji-30-1 (long)
+[2026-11-14 06:24:33] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-14 06:25:53] Ton fertig: 423.4 s
+[2026-11-14 06:39:16] Gerendert
+[2026-11-14 06:39:58] QA: -21.6 LUFS, TP -2.9 dBTP → normalisiert auf −14, Standbild max 9.4 s, Frame0-Luma 120.8 | WARNUNG: Standbild 9.4 s
+[2026-11-14 06:40:11] Hochgeladen: https://youtube.com/watch?v=8AUQEyKrHwQ (private)
+[2026-11-14 06:40:13] Vorschaubild gesetzt
+[2026-11-14 06:40:14] In Playlist "Emoji Quizzes 🤔"
+[2026-11-14 06:40:14] Geplant für 14.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-14 06:40:14] Kein long-Video in der Warteschlange.
+[2026-11-14 06:40:15] Short-Beschreibung (six-q-genius-animals) verlinkt auf langes Video 8AUQEyKrHwQ
+[2026-11-14 06:40:16] Short-Beschreibung (map-lie-2) verlinkt auf langes Video 8AUQEyKrHwQ
+[2026-11-14 06:40:24] Konkurrenz: 25 Kanäle, 130 Gewinner-Videos

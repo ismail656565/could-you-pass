@@ -53,7 +53,15 @@
      "q": "The UK, or Italy?",
      "a": "Italy! About a quarter bigger than the whole UK."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 3.06,
+    "qAudio": "audio/map-lie-2/q1.mp3",
+    "aAudio": "audio/map-lie-2/a1.mp3",
+    "thinkStart": 4.46,
+    "reveal": 6.86,
+    "moveEnd": 8.36,
+    "aStart": 7.41,
+    "end": 10.51
    },
    {
     "level": "MEDIUM",
@@ -73,7 +81,15 @@
      "q": "Japan, or Finland?",
      "a": "Japan! Finland only looks bigger because it sits so far north."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 10.51,
+    "qAudio": "audio/map-lie-2/q2.mp3",
+    "aAudio": "audio/map-lie-2/a2.mp3",
+    "thinkStart": 11.9,
+    "reveal": 14.3,
+    "moveEnd": 15.8,
+    "aStart": 14.85,
+    "end": 18.6
    },
    {
     "level": "HARD",
@@ -93,7 +109,15 @@
      "q": "Spain, or Madagascar?",
      "a": "Madagascar! The island beats all of Spain."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 18.6,
+    "qAudio": "audio/map-lie-2/q3.mp3",
+    "aAudio": "audio/map-lie-2/a3.mp3",
+    "thinkStart": 20.11,
+    "reveal": 22.51,
+    "moveEnd": 24.01,
+    "aStart": 23.06,
+    "end": 26.16
    },
    {
     "level": "LEGEND",
@@ -113,12 +137,44 @@
      "q": "Last one. Algeria, or Greenland?",
      "a": "Algeria! The biggest country in Africa. Think you got all four? Go again!"
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 26.16,
+    "qAudio": "audio/map-lie-2/q4.mp3",
+    "aAudio": "audio/map-lie-2/a4.mp3",
+    "thinkStart": 28.28,
+    "reveal": 30.68,
+    "moveEnd": 32.18,
+    "aStart": 31.23,
+    "end": 37.29
    }
   ],
   "sources": [
    "Areas: CIA World Factbook (United Kingdom 243,610 km²; Italy 301,340; Finland 338,455; Japan 377,915; Spain 505,370; Madagascar 587,041; Greenland 2,166,086; Algeria 2,381,740)",
    "Outlines: Natural Earth (public domain)"
-  ]
- }
+  ],
+  "hook": {
+   "audio": "audio/map-lie-2/hook.mp3",
+   "start": 0.0,
+   "end": 3.06
+  },
+  "durationInSeconds": 37.29
+ },
+ "qa": {
+  "lufs": -19.9,
+  "truePeak": -2.7,
+  "lra": 7.9,
+  "normalized": true,
+  "frozenShare": 0.613,
+  "longestFreezeSec": 3.0,
+  "frame0Luma": 205.8,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-14T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "HP4CN6Owrs4",
+  "at": "2026-11-14T06:20"
+ },
+ "linkedLong": "8AUQEyKrHwQ"
 }

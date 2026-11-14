@@ -1,0 +1,128 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "Animal Quiz",
+ "header": "ANIMAL QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "What is the **largest** animal ever known?",
+   "answers": [
+    "African elephant",
+    "Blue whale",
+    "Megalodon",
+    "Giraffe"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "broll": "ocean waves open sea",
+   "start": 0.0,
+   "keywordAt": 0.66,
+   "countdownStart": 2.215,
+   "reveal": 4.715,
+   "end": 8.136,
+   "video": "broll/six-q-genius-animals-0.mp4"
+  },
+  {
+   "q": "What is a baby **goat** called?",
+   "answers": [
+    "Calf",
+    "Foal",
+    "Kid",
+    "Cub"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "broll": "green farm meadow",
+   "start": 8.136,
+   "keywordAt": 8.954,
+   "countdownStart": 9.845,
+   "reveal": 12.345,
+   "end": 15.203
+  },
+  {
+   "q": "Which bird lays the **biggest** eggs?",
+   "answers": [
+    "Ostrich",
+    "Emu",
+    "Eagle",
+    "Penguin"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "broll": "savanna grassland",
+   "start": 15.203,
+   "keywordAt": 16.217,
+   "countdownStart": 17.124,
+   "reveal": 19.624,
+   "end": 23.795,
+   "video": "broll/six-q-genius-animals-2.mp4"
+  },
+  {
+   "q": "What colour is a **flamingo** when it hatches?",
+   "answers": [
+    "Pink",
+    "Yellow",
+    "Orange",
+    "Grey"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "broll": "salt lake shore",
+   "start": 23.795,
+   "keywordAt": 24.598,
+   "countdownStart": 25.961,
+   "reveal": 28.461,
+   "end": 32.223,
+   "video": "broll/six-q-genius-animals-3.mp4"
+  },
+  {
+   "q": "Which big cat can NOT **roar**?",
+   "answers": [
+    "Lion",
+    "Cheetah",
+    "Tiger",
+    "Jaguar"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "broll": "tall dry grass wind",
+   "start": 32.223,
+   "keywordAt": 33.398,
+   "countdownStart": 33.947,
+   "reveal": 36.447,
+   "end": 40.171
+  },
+  {
+   "q": "The **hippo's** closest living relatives are…?",
+   "answers": [
+    "Pigs",
+    "Rhinos",
+    "Whales",
+    "Elephants"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "broll": "african river",
+   "start": 40.171,
+   "keywordAt": 41.293,
+   "countdownStart": 43.087,
+   "reveal": 45.587,
+   "end": 49.465,
+   "video": "broll/six-q-genius-animals-5.mp4"
+  }
+ ],
+ "audio": "audio/six-q-genius-animals.mp3",
+ "outroStart": 49.465,
+ "durationInSeconds": 49.465
+}

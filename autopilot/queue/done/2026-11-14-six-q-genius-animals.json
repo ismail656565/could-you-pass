@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Animal Quiz #shorts",
-  "description": "6 animal questions, easy to hard 🐾 Did #4 trick you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#animalquiz #animals #wildlife #quiz #onlygeniuses #shorts\n\nMusic: original.",
+  "description": "6 animal questions, easy to hard 🐾 Did #4 trick you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#animalquiz #animals #wildlife #quiz #onlygeniuses #shorts\n\nFootage via Wikimedia Commons: SWOT Spots Tsunami Wave After Kamchatka Quake (154666 -) – NASA Earth Observatory images by Michala Garrison, using SWO (Public domain); Savanna Elephant (Loxodonta africana) bull ... – Bernard DUPONT (CC BY-SA 2.0); Elton Salt Lake - 10th position - Winners of Wiki Loves Earth 2018 – Video production by: Nabin K. Sapkota Photo author:Medvedevp (CC BY-SA 4.0); River Rwizi and its vegetation and the human activity around it – BalukuBrian (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "animal quiz",
    "animal trivia",
@@ -47,7 +47,13 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "broll": "ocean waves open sea"
+    "broll": "ocean waves open sea",
+    "start": 0.0,
+    "keywordAt": 0.66,
+    "countdownStart": 2.215,
+    "reveal": 4.715,
+    "end": 8.136,
+    "video": "broll/six-q-genius-animals-0.mp4"
    },
    {
     "q": "What is a baby **goat** called?",
@@ -59,7 +65,12 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "broll": "green farm meadow"
+    "broll": "green farm meadow",
+    "start": 8.136,
+    "keywordAt": 8.954,
+    "countdownStart": 9.845,
+    "reveal": 12.345,
+    "end": 15.203
    },
    {
     "q": "Which bird lays the **biggest** eggs?",
@@ -71,7 +82,13 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "broll": "savanna grassland"
+    "broll": "savanna grassland",
+    "start": 15.203,
+    "keywordAt": 16.217,
+    "countdownStart": 17.124,
+    "reveal": 19.624,
+    "end": 23.795,
+    "video": "broll/six-q-genius-animals-2.mp4"
    },
    {
     "q": "What colour is a **flamingo** when it hatches?",
@@ -83,7 +100,13 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "broll": "salt lake shore"
+    "broll": "salt lake shore",
+    "start": 23.795,
+    "keywordAt": 24.598,
+    "countdownStart": 25.961,
+    "reveal": 28.461,
+    "end": 32.223,
+    "video": "broll/six-q-genius-animals-3.mp4"
    },
    {
     "q": "Which big cat can NOT **roar**?",
@@ -95,7 +118,12 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "broll": "tall dry grass wind"
+    "broll": "tall dry grass wind",
+    "start": 32.223,
+    "keywordAt": 33.398,
+    "countdownStart": 33.947,
+    "reveal": 36.447,
+    "end": 40.171
    },
    {
     "q": "The **hippo's** closest living relatives are…?",
@@ -107,9 +135,18 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "broll": "african river"
+    "broll": "african river",
+    "start": 40.171,
+    "keywordAt": 41.293,
+    "countdownStart": 43.087,
+    "reveal": 45.587,
+    "end": 49.465,
+    "video": "broll/six-q-genius-animals-5.mp4"
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-animals.mp3",
+  "outroStart": 49.465,
+  "durationInSeconds": 49.465
  },
  "lines": [
   {
@@ -136,5 +173,23 @@
    "q": "Last one. What are the hippo's closest living relatives?",
    "a": "Whales and dolphins! Not pigs at all. Got all six? Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.7,
+  "truePeak": -3.4,
+  "lra": 5.4,
+  "normalized": true,
+  "frozenShare": 0.313,
+  "longestFreezeSec": 3.0,
+  "frame0Luma": 181.6,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-14T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "XWKgyINVAl8",
+  "at": "2026-11-14T06:24"
+ },
+ "linkedLong": "8AUQEyKrHwQ"
 }
