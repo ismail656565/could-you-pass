@@ -2,17 +2,17 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (48 Videos)
+## Shorts (49 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | Karten-VS (TrueSize) | 1 | 1021 | 1021 | 1021 | 52.9 | 81.4 | 0 |
-| 6+ Fragen | 12 | 731 | 650 | 1541 | 54.7 | 50.6 | 7.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
 | VS-Vergleich | 9 | 561 | 454 | 1189 | 52.1 | 63.8 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
+| 6+ Fragen | 13 | 703 | 362 | 1541 | 54.7 | 50.6 | 7.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 9 | 372 | 251 | 1082 | 58.2 | 74.1 | 1.0 |
 | Wahr/Falsch | 1 | 145 | 145 | 145 | 47.6 | 92.8 | 0 |
@@ -39,6 +39,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | QUICK QUIZ | 2 | 456 | 456 | 484 | 41.9 | 89.6 | 1.0 |
 | WHICH IS TALLER? | 1 | 454 | 454 | 454 | 59.4 | 55.7 | 0 |
 | WHICH IS HEAVIER? | 1 | 392 | 392 | 392 | 51.2 | 64.4 | 0 |
+| MOVIE QUIZ | 1 | 362 | 362 | 362 | – | – | 0 |
 | HALLOWEEN TRIVIA | 3 | 344 | 338 | 498 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 331 | 331 | 331 | 48.8 | 94.3 | 0 |
 | HISTORY TRIVIA | 1 | 312 | 312 | 312 | 50.2 | 44.5 | 1.0 |
@@ -64,13 +65,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 558 | 442 | 1221 | 52.4 | 69.1 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 313 | 313 | 392 | 56.1 | 55.1 | 0 |
-| atlas | 4 | 542 | 240 | 1541 | 46.7 | 50.7 | 3.0 |
+| atlas | 5 | 506 | 303 | 1541 | 46.7 | 50.7 | 3.0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 16 | 695 | 553 | 1541 | 50.6 | 72.4 | 8.0 |
+| game-show.wav | 17 | 676 | 484 | 1541 | 50.6 | 72.4 | 8.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.7 | 3.0 |
 | world-trip.wav | 12 | 469 | 316 | 1189 | 54.3 | 64.9 | 4.0 |
 
@@ -79,9 +80,9 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
+| 21:00 | 22 | 504 | 344 | 1189 | 53.5 | 66.9 | 6.0 |
 | 16:00 | 21 | 546 | 331 | 1541 | 49.0 | 76.8 | 9.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
-| 21:00 | 21 | 511 | 327 | 1189 | 53.5 | 66.9 | 6.0 |
 
 ### Top 8 Shorts
 
