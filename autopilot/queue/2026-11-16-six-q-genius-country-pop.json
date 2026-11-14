@@ -1,0 +1,146 @@
+{
+ "id": "six-q-genius-country-pop",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Country Quiz #shorts",
+  "description": "6 country questions, easy to hard 🌍 Did #4 fool you? ☕\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#countryquiz #geographyquiz #geography #quiz #onlygeniuses #shorts\n\nCoffee data: ICO / Statista (Finland ≈ 12 kg per person per year).\nMusic: original.",
+  "tags": [
+   "country quiz",
+   "countries quiz",
+   "geography quiz",
+   "geography trivia",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Be honest – did you say Italy for #4? ☕ How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "pop",
+  "title": "Country Quiz",
+  "header": "COUNTRY QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which country is home to **Marrakech**?",
+    "answers": [
+     "Morocco",
+     "Egypt",
+     "Tunisia",
+     "Turkey"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "broll": "desert market spices",
+    "cardText": "🕌"
+   },
+   {
+    "q": "Which country has the **most people** in South America?",
+    "answers": [
+     "Argentina",
+     "Brazil",
+     "Colombia",
+     "Peru"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "broll": "rainforest river aerial",
+    "cardText": "👥"
+   },
+   {
+    "q": "The old walled city of **Dubrovnik** is in…?",
+    "answers": [
+     "Greece",
+     "Montenegro",
+     "Croatia",
+     "Italy"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "broll": "old town city walls sea",
+    "cardText": "🏰🌊"
+   },
+   {
+    "q": "Which country drinks the most **coffee** per person?",
+    "answers": [
+     "Italy",
+     "Brazil",
+     "USA",
+     "Finland"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "coffee cups cafe",
+    "cardText": "☕"
+   },
+   {
+    "q": "The **Maasai Mara** reserve is in which country?",
+    "answers": [
+     "Tanzania",
+     "Kenya",
+     "South Africa",
+     "Botswana"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "broll": "savanna wildlife",
+    "cardText": "🦁"
+   },
+   {
+    "q": "Which country has the most **pyramids**?",
+    "answers": [
+     "Egypt",
+     "Mexico",
+     "Sudan",
+     "Peru"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "broll": "desert sand dunes",
+    "cardText": "🔺"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which country is home to the city of Marrakech?",
+   "a": "Morocco!"
+  },
+  {
+   "q": "Which country has the most people in South America?",
+   "a": "Brazil! More than two hundred million, by far the biggest."
+  },
+  {
+   "q": "The old walled city of Dubrovnik is in which country?",
+   "a": "Croatia! Its walls run almost two kilometres around the old town."
+  },
+  {
+   "q": "Which country drinks the most coffee per person?",
+   "a": "Finland! Around twelve kilos a year each. Italy isn't even close."
+  },
+  {
+   "q": "The Maasai Mara reserve is in which country?",
+   "a": "Kenya! It runs right into Tanzania's Serengeti, so close call."
+  },
+  {
+   "q": "Last one. Which country has the most pyramids?",
+   "a": "Sudan! Over two hundred, about twice as many as Egypt. Six out of six? Go again and prove it!"
+  }
+ ]
+}

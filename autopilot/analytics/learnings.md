@@ -580,3 +580,12 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Karten-Long 101 öffentl. (~2,9 T) ✓ E13 #1; Movie-Emoji-Long nur 4 n. ~22 h (Warnsignal) → Country-Emoji heute entscheidet über Emoji-Longs.
 - Konkurrenz unverändert: Rätsel-/IQ-Longs 267k–1,8 Mio (Quiz World, Can You Solve?, Golden Memory) → E14 19.11.; GTA VI 19.11. laut Take-Two bestätigt → GTA-6-Q als 3. Short 10:00 außerhalb E16.
 - 16.11. E16 Tag 1: pop „Country Quiz“ 16:00 vs. atlas „Landmarks Quiz“ 21:00 (Duplikat-Check: 10 Kandidaten schon benutzt, ersetzt).
+
+## 2026-11-14 (Produktions-Agent, Queue 16.11.)
+- Technik: Läufe 13.11. alle grün (10/10), Soll 13.11. erfüllt (six-q-genius-europe 16:00, vs-more-people-3 21:00, kein Long-Tag; Kommentare 16:08/21:11). Kein Code-Fix nötig. Heute (Sa) liegt alles bereit: country-emoji-30-1 14:00, six-q-genius-animals 16:00, map-lie-2 21:00; 15.11. ebenfalls komplett.
+- Movie-Emoji-Long-Check (Plan-Punkt 2): report.json zeigt `privacyStatus public`, `madeForKids false`, uploadStatus processed; v2-Thumb A seit 13.11. 06:16 gesetzt → kein Technikfehler, das Format zieht schlicht nicht (4 Views n. ~22 h).
+- Shorts: kein neuer Snapshot seit 13.11. 11:49 (22 Abos); Europe/People-R3 dort noch privat → 24-h-Werte erst nach dem 08:15-Lauf. Stand ≥2,6 T: tricky 1.297 (stayed 45,7 %, +3 Abos), map-lie-1 1.015 (Ø angesehen 81 %), VS More People 2 1.085 (Ø 83 %).
+- Longs: Karten-Long 101 öffentl. (Ø angesehen 29 %), Flag-30 21 (Ø 10 %) → Karten-Long hält 3× so lange.
+- Thumbnails: CTR per API weiter nicht messbar (HttpError 400).
+- Queue 16.11. angelegt (E16 Tag 1): six-q-genius-country-pop (pop, 16:00) + six-q-genius-landmarks (atlas, 21:00), beide game-show, 2.5/0.8, E15. Duplikat-Check strich 4 Plan-Fragen im Country-Quiz: Fjorde (heute im Country-Emoji-Long), Einhorn-Schottland (iq-check 22.10.), meiste Seen (quick-geo 04.11.) und Ersatzkandidaten Kilimandscharo/Kiwi/Timbuktu/Angkor (schon benutzt) → neu: Dubrovnik=Kroatien, Maasai Mara=Kenia, Finale meiste Pyramiden=Sudan (>200, ~2× Ägypten). Landmarks wie geplant.
+- pop-Layout: erstes Produktions-Item überhaupt. `tsc` kompiliert QuizPop fehlerfrei; Probe-Still lokal nicht möglich (Google-Font-Download im Sandbox-Browser blockiert, im Action-Runner kein Problem). Am 16.11. Log auf „Gerendert“ für country-pop prüfen.

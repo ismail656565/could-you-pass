@@ -1,0 +1,141 @@
+{
+ "id": "six-q-genius-landmarks",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Landmarks Quiz #shorts",
+  "description": "6 famous landmark questions, easy to hard 🏰 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#landmarks #landmarksquiz #geographyquiz #travel #quiz #shorts\n\nMusic: original.",
+  "tags": [
+   "landmarks quiz",
+   "famous landmarks",
+   "geography quiz",
+   "travel quiz",
+   "general knowledge quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did #4 surprise you? 🗼 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "atlas",
+  "title": "Landmarks Quiz",
+  "header": "LANDMARKS QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "In which city is the **Sagrada Família**?",
+    "answers": [
+     "Madrid",
+     "Barcelona",
+     "Lisbon",
+     "Rome"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "broll": "church construction crane"
+   },
+   {
+    "q": "In which country is **Stonehenge**?",
+    "answers": [
+     "Ireland",
+     "Scotland",
+     "England",
+     "France"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "broll": "ancient stones field"
+   },
+   {
+    "q": "How many faces are carved into **Mount Rushmore**?",
+    "answers": [
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "broll": "mountain granite cliff"
+   },
+   {
+    "q": "The **Leaning Tower** of Pisa was built as a…?",
+    "answers": [
+     "Bell tower",
+     "Lighthouse",
+     "Watchtower",
+     "Church"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "broll": "italian piazza old town"
+   },
+   {
+    "q": "In which city is the **Acropolis**?",
+    "answers": [
+     "Rome",
+     "Istanbul",
+     "Athens",
+     "Cairo"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "broll": "ancient columns hill"
+   },
+   {
+    "q": "**Neuschwanstein** Castle is in which country?",
+    "answers": [
+     "Austria",
+     "Switzerland",
+     "France",
+     "Germany"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "castle mountains forest"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "In which city is the Sagrada Familia?",
+   "a": "Barcelona!"
+  },
+  {
+   "q": "In which country is Stonehenge?",
+   "a": "England! Out on Salisbury Plain, in Wiltshire."
+  },
+  {
+   "q": "How many presidents' faces are carved into Mount Rushmore?",
+   "a": "Four! Washington, Jefferson, Theodore Roosevelt and Lincoln."
+  },
+  {
+   "q": "The Leaning Tower of Pisa was built as a what?",
+   "a": "A bell tower! For the cathedral next door. It started leaning while they were still building it."
+  },
+  {
+   "q": "In which city is the Acropolis?",
+   "a": "Athens! With the Parthenon sitting right on top."
+  },
+  {
+   "q": "Last one. Neuschwanstein Castle is in which country?",
+   "a": "Germany! Up in the Bavarian Alps. It helped inspire Disney's Sleeping Beauty castle. Follow if you got all six!"
+  }
+ ]
+}
