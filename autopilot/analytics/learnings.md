@@ -574,3 +574,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **In dieser Woche keine VS-Shorts**; Karten-VS #3 (Di 17.11.) entfällt bzw. rückt auf 24.11. Long-Tage Di/Do/Sa unverändert.
 - **pop-Items:** jede Frage mit `broll` (Suchbegriff, verrät Antwort nicht) UND `cardText` als Ersatz (1–3 Emojis oder kurze Zahl/Zeichenfolge, verrät Antwort nicht) – Emojis sind im pop-Look erlaubt. `cardColors` nicht setzen (Farbe wechselt automatisch je Thema).
 - **Messung je Video (nach ≥3 T):** Views, stayed (engagedShare), Ø angesehen, Kurvenwert 1,5 s nach Start Q2 ÷ Kurvenwert bei Auflösung Q1. **Erfolg pop:** Median stayed ≥ 5 Prozentpunkte über atlas-Arm ODER Median Views ≥ 1,3× atlas-Arm, bei mindestens 5 Paaren. Verdict ≈ 25.11.; Gewinner wird Standard für alle Shorts, dann ggf. VS + Long in pop nachbauen.
+
+## 2026-11-14 – Research
+- atlas-Shorts 10.–12.11.: nur 2/6 über 24-h-Median ~436 (tricky 1.297, map-lie-1 1.015; flags 286, movies 299, colder 118, older 94) → atlas-Median ~290 < tvshow 439; E16 pop vs. atlas ab 16.11. ist der richtige nächste Schritt.
+- Longs: Karten-Long 101 öffentl. (~2,9 T) ✓ E13 #1; Movie-Emoji-Long nur 4 n. ~22 h (Warnsignal) → Country-Emoji heute entscheidet über Emoji-Longs.
+- Konkurrenz unverändert: Rätsel-/IQ-Longs 267k–1,8 Mio (Quiz World, Can You Solve?, Golden Memory) → E14 19.11.; GTA VI 19.11. laut Take-Two bestätigt → GTA-6-Q als 3. Short 10:00 außerhalb E16.
+- 16.11. E16 Tag 1: pop „Country Quiz“ 16:00 vs. atlas „Landmarks Quiz“ 21:00 (Duplikat-Check: 10 Kandidaten schon benutzt, ersetzt).
