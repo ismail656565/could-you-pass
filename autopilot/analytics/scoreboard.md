@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (49 Videos)
+## Shorts (50 Videos)
 
 ### Shorts nach Format
 
@@ -11,8 +11,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Karten-VS (TrueSize) | 1 | 1023 | 1023 | 1023 | 53.5 | 81.3 | 0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
 | VS-Vergleich | 9 | 563 | 454 | 1189 | 50.2 | 61.5 | 5.0 |
-| 6+ Fragen | 13 | 707 | 409 | 1550 | 54.1 | 50.1 | 8.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
+| 6+ Fragen | 14 | 668 | 356 | 1550 | 54.1 | 50.1 | 8.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 9 | 372 | 251 | 1082 | 58.2 | 74.1 | 1.0 |
 | Wahr/Falsch | 1 | 145 | 145 | 145 | 47.6 | 92.8 | 0 |
@@ -52,6 +52,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | QUICK FIRE SCIENCE | 1 | 180 | 180 | 180 | 52.8 | 58.0 | 0 |
 | ANIMAL QUIZ | 1 | 179 | 179 | 179 | 44.1 | 77.1 | 1.0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
+| EUROPE QUIZ | 1 | 152 | 152 | 152 | – | – | 0 |
 | VOCABULARY QUIZ | 1 | 148 | 148 | 148 | 38.1 | 38.7 | 0 |
 | WHICH IS COLDER? | 1 | 148 | 148 | 148 | 32.8 | 49.3 | 0 |
 | TRUE OR FALSE? | 1 | 145 | 145 | 145 | 47.6 | 92.8 | 0 |
@@ -65,13 +66,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 69.1 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 56.1 | 55.1 | 0 |
-| atlas | 5 | 520 | 302 | 1550 | 44.4 | 47.9 | 4.0 |
+| atlas | 6 | 459 | 246 | 1550 | 44.4 | 47.9 | 4.0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 17 | 679 | 484 | 1550 | 50.4 | 70.8 | 9.0 |
+| game-show.wav | 18 | 650 | 456 | 1550 | 50.4 | 70.8 | 9.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.7 | 3.0 |
 | world-trip.wav | 12 | 471 | 322 | 1189 | 52.8 | 63.1 | 4.0 |
 
@@ -81,8 +82,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
 | 21:00 | 22 | 507 | 360 | 1189 | 53.3 | 65.5 | 6.0 |
-| 16:00 | 21 | 548 | 331 | 1550 | 48.2 | 75.5 | 10.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
+| 16:00 | 22 | 530 | 316 | 1550 | 48.2 | 75.5 | 10.0 |
 
 ### Top 8 Shorts
 
