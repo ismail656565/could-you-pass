@@ -60,6 +60,9 @@ def _relevant(query, title):
     """Wikimedia-Suche ist unscharf (Probe 15.11.: "shrimp claw" → Dim-Sum-Kochvideo, "underwater bubbles" → Sternhaufen).
     Ein Clip zählt nur, wenn ein Kernwort der Suche im Dateinamen steht."""
     t = title.lower()
+    # Studien-Begleitvideos (PLOS "pone.0077120.s0", Mikroskopie) haben Messbalken/Beschriftung im Bild → nicht nehmen
+    if re.search(r'\b(pone|pbio|pcbi|ppat|journal|supplement|microscop|figure)\b|\.s\d{3}\b', t):
+        return False
     words = [w for w in re.findall(r'[a-z]+', query.lower()) if len(w) > 3 and w not in _STOP]
     return any(w.rstrip('s') in t for w in words) if words else True
 
