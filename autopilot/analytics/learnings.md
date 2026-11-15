@@ -589,3 +589,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Thumbnails: CTR per API weiter nicht messbar (HttpError 400).
 - Queue 16.11. angelegt (E16 Tag 1): six-q-genius-country-pop (pop, 16:00) + six-q-genius-landmarks (atlas, 21:00), beide game-show, 2.5/0.8, E15. Duplikat-Check strich 4 Plan-Fragen im Country-Quiz: Fjorde (heute im Country-Emoji-Long), Einhorn-Schottland (iq-check 22.10.), meiste Seen (quick-geo 04.11.) und Ersatzkandidaten Kilimandscharo/Kiwi/Timbuktu/Angkor (schon benutzt) → neu: Dubrovnik=Kroatien, Maasai Mara=Kenia, Finale meiste Pyramiden=Sudan (>200, ~2× Ägypten). Landmarks wie geplant.
 - pop-Layout: erstes Produktions-Item überhaupt. `tsc` kompiliert QuizPop fehlerfrei; Probe-Still lokal nicht möglich (Google-Font-Download im Sandbox-Browser blockiert, im Action-Runner kein Problem). Am 16.11. Log auf „Gerendert“ für country-pop prüfen.
+
+## 2026-11-15 – Research
+- Shorts-Delle seit 11.11. (alle atlas): flags 303 / colder 147 (≈2,7 T) ✗, older 178, movies 362; Europe 84 (≈0,85 T) und sogar People-R3 98 (≈0,6 T, R1/R2 1.089/1.189) starten schwach → E16 pop vs. atlas ab 16.11. ist der Schlüsseltest.
+- Longs: Karten-Long True Size 133 (≈4 T, stayed 75,6 %) bleibt einziges Long >30; Movie-Emoji 14 (≈1,9 T) → Karten-Long Folge 2 „The True Size of US States“ Di 17.11. (20 Runden, 15 neue Formen, Census/CIA-Flächen).
+- Konkurrenz: ~7-min-IQ/Rätsel-Longs weiter vorn (Quiz World 520k = 277×, GK Studio 45k = 48×, Quiz Guy 38k = 33×); Serien-Erkennungs-Longs (Dopamine F1 „Part 3“ 30k = 42×) stützen die Karten-Serie. GTA VI 19.11. bestätigt.
+- 17.11.: atlas „Geography Quiz“ 16:00 + pop „USA Quiz“ 21:00 (gepaart zum Karten-Long), Duplikat-Check bereits gemacht.
