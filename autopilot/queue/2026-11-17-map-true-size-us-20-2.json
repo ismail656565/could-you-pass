@@ -1,0 +1,460 @@
+{
+ "id": "map-true-size-us-20-2",
+ "publishAt": "14:00",
+ "playlist": "Map & Geography Quizzes 🌍",
+ "youtube": {
+  "title": "The True Size of US States: 20 Maps That Lie to You 🇺🇸",
+  "description": "US states vs countries: on a flat map, Alaska looks gigantic. In 20 rounds each shape slides to its real size – which is really bigger? 🇺🇸\nKeep score and comment your result out of 20 👇\n\nRounds get harder: Easy → Medium → Hard → Legend.\n\nSubscribe for a new quiz every day 🧠\n\n#truesize #usstates #map #geography #mercator #geographyquiz\n\nData (total area): U.S. Census Bureau (US states); CIA World Factbook (countries; France and Norway mainland).\nOutlines: Natural Earth (public domain); US states: U.S. Census Bureau. The shapes are moved on the globe and re-projected (Mercator) – nothing is resized by hand.\nMusic: original.",
+  "tags": [
+   "true size of us states",
+   "us states compared to countries",
+   "true size of countries",
+   "mercator projection",
+   "map quiz",
+   "geography quiz",
+   "which is bigger",
+   "alaska true size",
+   "us states quiz",
+   "quiz"
+  ],
+  "categoryId": "27",
+  "comment": "Which state fooled you? 🇺🇸 Comment your score out of 20 👇"
+ },
+ "story": {
+  "type": "truesize",
+  "format": "long",
+  "title": "The True Size of US States",
+  "kicker": "MAP TEST #2",
+  "hookText": [
+   "THIS MAP",
+   "IS LYING",
+   "ABOUT AMERICA"
+  ],
+  "hookLine": "This map is lying about America. Twenty rounds, states against countries. Which is really bigger? Keep score.",
+  "question": "Which is really bigger?",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.07,
+  "timing": {
+   "think": 3.4,
+   "move": 1.7,
+   "tail": 1.0
+  },
+  "midCtaIndex": 9,
+  "midCtaText": "New quiz every day – subscribe",
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 20",
+  "subscribeText": "Subscribe for a new quiz every day",
+  "outroLine": "How many did you get out of twenty? Comment your score, and subscribe for a new quiz every day.",
+  "outroHold": 7.0,
+  "thumbText": [
+   "ALASKA",
+   "IS A LIE"
+  ],
+  "rounds": [
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "california",
+     "name": "California",
+     "km2": 423970
+    },
+    "b": {
+     "shape": "japan",
+     "name": "Japan",
+     "km2": 377915
+    },
+    "mover": "b",
+    "winner": "a",
+    "verdict": "12% bigger",
+    "lines": {
+     "q": "Round one, easy. California, or Japan?",
+     "a": "California! A little bigger than the whole of Japan."
+    }
+   },
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "france",
+     "name": "France",
+     "km2": 551500
+    },
+    "b": {
+     "shape": "texas",
+     "name": "Texas",
+     "km2": 695662
+    },
+    "mover": "a",
+    "winner": "b",
+    "verdict": "26% bigger",
+    "lines": {
+     "q": "France, or Texas?",
+     "a": "Texas! About a quarter bigger than mainland France."
+    }
+   },
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "spain",
+     "name": "Spain",
+     "km2": 505370
+    },
+    "b": {
+     "shape": "california",
+     "name": "California",
+     "km2": 423970
+    },
+    "mover": "a",
+    "winner": "a",
+    "verdict": "19% bigger",
+    "lines": {
+     "q": "Spain, or California?",
+     "a": "Spain! Roughly a fifth bigger than California."
+    }
+   },
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "congo",
+     "name": "DR Congo",
+     "km2": 2344858
+    },
+    "b": {
+     "shape": "alaska",
+     "name": "Alaska",
+     "km2": 1723337
+    },
+    "mover": "b",
+    "winner": "a",
+    "verdict": "36% bigger",
+    "lines": {
+     "q": "The Congo, or Alaska?",
+     "a": "The Congo! Watch Alaska shrink as it slides south."
+    }
+   },
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "texas",
+     "name": "Texas",
+     "km2": 695662
+    },
+    "b": {
+     "shape": "turkey",
+     "name": "Turkey",
+     "km2": 783562
+    },
+    "mover": "b",
+    "winner": "b",
+    "verdict": "13% bigger",
+    "lines": {
+     "q": "Texas, or Turkey?",
+     "a": "Turkey! Even Texas can't beat it."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "florida",
+     "name": "Florida",
+     "km2": 170312
+    },
+    "b": {
+     "shape": "syria",
+     "name": "Syria",
+     "km2": 185180
+    },
+    "mover": "b",
+    "winner": "b",
+    "verdict": "9% bigger",
+    "lines": {
+     "q": "Round two, medium. Florida, or Syria?",
+     "a": "Syria! Florida is smaller than most people think."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "uk",
+     "name": "United Kingdom",
+     "km2": 243610
+    },
+    "b": {
+     "shape": "minnesota",
+     "name": "Minnesota",
+     "km2": 225163
+    },
+    "mover": "a",
+    "winner": "a",
+    "verdict": "8% bigger",
+    "lines": {
+     "q": "The United Kingdom, or Minnesota?",
+     "a": "The U K! But only by about eight percent."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "colorado",
+     "name": "Colorado",
+     "km2": 269601
+    },
+    "b": {
+     "shape": "italy",
+     "name": "Italy",
+     "km2": 301340
+    },
+    "mover": "b",
+    "winner": "b",
+    "verdict": "12% bigger",
+    "lines": {
+     "q": "Colorado, or Italy?",
+     "a": "Italy! The boot beats the rectangle."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "romania",
+     "name": "Romania",
+     "km2": 238391
+    },
+    "b": {
+     "shape": "utah",
+     "name": "Utah",
+     "km2": 219882
+    },
+    "mover": "a",
+    "winner": "a",
+    "verdict": "8% bigger",
+    "lines": {
+     "q": "Romania, or Utah?",
+     "a": "Romania! Just a little bigger than Utah. How's your score so far?"
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "texas",
+     "name": "Texas",
+     "km2": 695662
+    },
+    "b": {
+     "shape": "chile",
+     "name": "Chile",
+     "km2": 756102
+    },
+    "mover": "b",
+    "winner": "b",
+    "verdict": "9% bigger",
+    "lines": {
+     "q": "Texas, or Chile?",
+     "a": "Chile! That long thin strip is bigger than Texas. If you're enjoying this, subscribe for a new quiz every day."
+    }
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "poland",
+     "name": "Poland",
+     "km2": 312685
+    },
+    "b": {
+     "shape": "nevada",
+     "name": "Nevada",
+     "km2": 286380
+    },
+    "mover": "a",
+    "winner": "a",
+    "verdict": "9% bigger",
+    "lines": {
+     "q": "Round three, hard. Poland, or Nevada?",
+     "a": "Poland! About nine percent bigger than Nevada."
+    }
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "cambodia",
+     "name": "Cambodia",
+     "km2": 181035
+    },
+    "b": {
+     "shape": "florida",
+     "name": "Florida",
+     "km2": 170312
+    },
+    "mover": "b",
+    "winner": "a",
+    "verdict": "6% bigger",
+    "lines": {
+     "q": "Cambodia, or Florida?",
+     "a": "Cambodia! Slightly bigger than the Sunshine State."
+    }
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "germany",
+     "name": "Germany",
+     "km2": 357022
+    },
+    "b": {
+     "shape": "montana",
+     "name": "Montana",
+     "km2": 380831
+    },
+    "mover": "a",
+    "winner": "b",
+    "verdict": "7% bigger",
+    "lines": {
+     "q": "Germany, or Montana?",
+     "a": "Montana! Bigger than all of Germany."
+    }
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "greenland",
+     "name": "Greenland",
+     "km2": 2166086
+    },
+    "b": {
+     "shape": "alaska",
+     "name": "Alaska",
+     "km2": 1723337
+    },
+    "mover": "a",
+    "winner": "a",
+    "verdict": "26% bigger",
+    "lines": {
+     "q": "Greenland, or Alaska?",
+     "a": "Greenland! About a quarter bigger than Alaska. Nice one if you got it."
+    }
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "california",
+     "name": "California",
+     "km2": 423970
+    },
+    "b": {
+     "shape": "sweden",
+     "name": "Sweden",
+     "km2": 450295
+    },
+    "mover": "b",
+    "winner": "b",
+    "verdict": "6% bigger",
+    "lines": {
+     "q": "California, or Sweden?",
+     "a": "Sweden! Only six percent bigger, so that one was tough."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "iceland",
+     "name": "Iceland",
+     "km2": 103000
+    },
+    "b": {
+     "shape": "pennsylvania",
+     "name": "Pennsylvania",
+     "km2": 119280
+    },
+    "mover": "a",
+    "winner": "b",
+    "verdict": "16% bigger",
+    "lines": {
+     "q": "Final round, legend. Iceland, or Pennsylvania?",
+     "a": "Pennsylvania! Iceland only looks huge because it sits so close to the Arctic."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "norway",
+     "name": "Norway",
+     "km2": 323802
+    },
+    "b": {
+     "shape": "montana",
+     "name": "Montana",
+     "km2": 380831
+    },
+    "mover": "a",
+    "winner": "b",
+    "verdict": "18% bigger",
+    "lines": {
+     "q": "Norway, or Montana?",
+     "a": "Montana! Mainland Norway is smaller than Big Sky Country."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "alaska",
+     "name": "Alaska",
+     "km2": 1723337
+    },
+    "b": {
+     "shape": "india",
+     "name": "India",
+     "km2": 3287263
+    },
+    "mover": "a",
+    "winner": "b",
+    "verdict": "1.9× bigger",
+    "lines": {
+     "q": "Three left, stay with me! Alaska, or India?",
+     "a": "India! Almost twice the size of Alaska."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "cuba",
+     "name": "Cuba",
+     "km2": 110860
+    },
+    "b": {
+     "shape": "pennsylvania",
+     "name": "Pennsylvania",
+     "km2": 119280
+    },
+    "mover": "b",
+    "winner": "b",
+    "verdict": "8% bigger",
+    "lines": {
+     "q": "Two left. Cuba, or Pennsylvania?",
+     "a": "Pennsylvania! Cuba looks long, but Pennsylvania is bigger."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "kazakhstan",
+     "name": "Kazakhstan",
+     "km2": 2724900
+    },
+    "b": {
+     "shape": "alaska",
+     "name": "Alaska",
+     "km2": 1723337
+    },
+    "mover": "b",
+    "winner": "a",
+    "verdict": "1.6× bigger",
+    "lines": {
+     "q": "Last one. Kazakhstan, or Alaska?",
+     "a": "Kazakhstan! More than one and a half times the size of Alaska."
+    }
+   }
+  ],
+  "sources": [
+   "Areas (total area): U.S. Census Bureau (US states); CIA World Factbook (countries)",
+   "Outlines: Natural Earth (public domain); US states: U.S. Census Bureau via us-atlas"
+  ]
+ }
+}

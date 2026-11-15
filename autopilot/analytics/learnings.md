@@ -595,3 +595,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Karten-Long True Size 133 (≈4 T, stayed 75,6 %) bleibt einziges Long >30; Movie-Emoji 14 (≈1,9 T) → Karten-Long Folge 2 „The True Size of US States“ Di 17.11. (20 Runden, 15 neue Formen, Census/CIA-Flächen).
 - Konkurrenz: ~7-min-IQ/Rätsel-Longs weiter vorn (Quiz World 520k = 277×, GK Studio 45k = 48×, Quiz Guy 38k = 33×); Serien-Erkennungs-Longs (Dopamine F1 „Part 3“ 30k = 42×) stützen die Karten-Serie. GTA VI 19.11. bestätigt.
 - 17.11.: atlas „Geography Quiz“ 16:00 + pop „USA Quiz“ 21:00 (gepaart zum Karten-Long), Duplikat-Check bereits gemacht.
+
+## 2026-11-15 (Produktions-Agent, Queue 17.11.)
+- Technik: Läufe 14.11. alle grün (8/8), Soll 14.11. erfüllt (country-emoji-30-1 14:00, six-q-genius-animals 16:00, map-lie-2 21:00, Kommentare 13:56/15:57/20:58). Kein Code-Fix nötig. 15.11. (So, kein Long-Tag) + 16.11. liegen komplett in der Queue.
+- Shorts (Snapshot weiter 14.11. 11:31, 23 Abos): tricky 1.541, map-lie-1 1.021 vs. Europe 84 / People-R3 98 (≈0,6–0,85 T) → atlas-Delle, E16 ab morgen.
+- Longs: Karten-Long 133 (stayed 75,6 %) vs. Movie-Emoji 14 → Karten-Format Folge 2 angelegt.
+- Thumbnails: CTR per API weiter nicht messbar (HttpError 400); Karten-Long Folge 2 nutzt festes TrueSizeThumb, thumbText "ALASKA / IS A LIE".
+- Queue 17.11.: map-true-size-us-20-2 (14:00), six-q-genius-geography (atlas 16:00), six-q-genius-usa-pop (pop 21:00). 15 neue Formen in build-truesize-data.mjs (8 Staaten, 7 Länder; Chile/Norwegen nur Festland), Kontrollspalte stützt alle 20 Paare (knappste: Sweden 442.847 vs California 408.919, Romania 235.742 vs Utah 219.766). Duplikat-Check fand Ankara schon 2× (capitals-1, geo-trap-1) → #4 Falle jetzt Yamoussoukro (Elfenbeinküste).

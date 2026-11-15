@@ -1,0 +1,147 @@
+{
+ "id": "six-q-genius-usa-pop",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 USA Quiz #shorts",
+  "description": "6 USA questions, easy to hard 🇺🇸 Did #4 catch you out? Full map challenge on the channel.\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#usa #usaquiz #usstates #geographyquiz #quiz #shorts\n\nMusic: original.",
+  "tags": [
+   "usa quiz",
+   "us states quiz",
+   "american trivia",
+   "geography quiz",
+   "general knowledge quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did #4 get you? 🇺🇸 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "pop",
+  "title": "USA Quiz",
+  "header": "USA QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which US state is home to the **Grand Canyon**?",
+    "answers": [
+     "Nevada",
+     "Arizona",
+     "Utah",
+     "Colorado"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "broll": "red rock canyon river",
+    "cardText": "🏜️"
+   },
+   {
+    "q": "**Las Vegas** is in which US state?",
+    "answers": [
+     "California",
+     "Arizona",
+     "Utah",
+     "Nevada"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "broll": "desert city night lights",
+    "cardText": "🎰"
+   },
+   {
+    "q": "What is the capital of **Texas**?",
+    "answers": [
+     "Austin",
+     "Houston",
+     "Dallas",
+     "San Antonio"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "broll": "cowboy boots",
+    "cardText": "🤠"
+   },
+   {
+    "q": "What is the capital of **New York** State?",
+    "answers": [
+     "New York City",
+     "Buffalo",
+     "Albany",
+     "Rochester"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "broll": "skyscrapers taxi street",
+    "cardText": "🗽"
+   },
+   {
+    "q": "Most of **Yellowstone** lies in which state?",
+    "answers": [
+     "Montana",
+     "Idaho",
+     "Colorado",
+     "Wyoming"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "geyser steam",
+    "cardText": "♨️🦬"
+   },
+   {
+    "q": "Which US state has the **longest coastline**?",
+    "answers": [
+     "Alaska",
+     "Florida",
+     "Hawaii",
+     "California"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "broll": "glacier coast boat",
+    "cardText": "🌊"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which US state is home to the Grand Canyon?",
+   "a": "Arizona!"
+  },
+  {
+   "q": "Las Vegas is in which US state?",
+   "a": "Nevada! Right in the middle of the Mojave Desert."
+  },
+  {
+   "q": "What is the capital of Texas?",
+   "a": "Austin! Not Houston, not Dallas."
+  },
+  {
+   "q": "What is the capital of New York State?",
+   "a": "Albany! Not New York City. That one gets almost everybody."
+  },
+  {
+   "q": "Most of Yellowstone National Park lies in which state?",
+   "a": "Wyoming! About ninety six percent of the park."
+  },
+  {
+   "q": "Last one. Which US state has the longest coastline?",
+   "a": "Alaska! Longer than all the other states put together. Follow if you got all six!"
+  }
+ ]
+}

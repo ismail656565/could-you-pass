@@ -1,0 +1,141 @@
+{
+ "id": "six-q-genius-geography",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Geography Quiz #shorts",
+  "description": "6 world geography questions, easy to hard 🌍 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #geographyquiz #worldgeography #travel #quiz #shorts\n\nMusic: original.",
+  "tags": [
+   "geography quiz",
+   "world geography",
+   "geography trivia",
+   "capital cities quiz",
+   "general knowledge quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did #4 fool you? 🌍 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "atlas",
+  "title": "Geography Quiz",
+  "header": "GEOGRAPHY QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "**Victoria Falls** lies on Zambia's border with…?",
+    "answers": [
+     "Kenya",
+     "Zimbabwe",
+     "Tanzania",
+     "Angola"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "broll": "waterfall mist rainbow"
+   },
+   {
+    "q": "The island of **Tasmania** belongs to…?",
+    "answers": [
+     "Australia",
+     "New Zealand",
+     "UK",
+     "Indonesia"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "broll": "eucalyptus forest coast"
+   },
+   {
+    "q": "**Lake Titicaca** lies between Peru and…?",
+    "answers": [
+     "Chile",
+     "Ecuador",
+     "Brazil",
+     "Bolivia"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "broll": "reed boats lake"
+   },
+   {
+    "q": "What is the capital of **Ivory Coast**?",
+    "answers": [
+     "Abidjan",
+     "Dakar",
+     "Yamoussoukro",
+     "Accra"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "broll": "palm trees city lagoon"
+   },
+   {
+    "q": "The **Iguazu Falls** are shared by Argentina and…?",
+    "answers": [
+     "Brazil",
+     "Chile",
+     "Uruguay",
+     "Paraguay"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "broll": "jungle waterfall aerial"
+   },
+   {
+    "q": "The **Bering Strait** separates Russia from…?",
+    "answers": [
+     "Canada",
+     "Japan",
+     "Alaska",
+     "Greenland"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "broll": "icy sea ship"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Victoria Falls lies on the border of Zambia and which country?",
+   "a": "Zimbabwe!"
+  },
+  {
+   "q": "The island of Tasmania belongs to which country?",
+   "a": "Australia! It's the country's only island state."
+  },
+  {
+   "q": "Lake Titicaca lies between Peru and which country?",
+   "a": "Bolivia! It's one of the highest big lakes in the world."
+  },
+  {
+   "q": "What is the capital of Ivory Coast?",
+   "a": "Yamoussoukro! Most people say Abidjan, the biggest city, but the capital moved in nineteen eighty three."
+  },
+  {
+   "q": "The Iguazu Falls are shared by Argentina and which country?",
+   "a": "Brazil! Hundreds of waterfalls along one river."
+  },
+  {
+   "q": "Last one. The Bering Strait separates Russia from which place?",
+   "a": "Alaska! At the narrowest point, it's only about eighty kilometers across. Follow if you got all six!"
+  }
+ ]
+}
