@@ -1,0 +1,17 @@
+[2026-11-15 10:59:33] Produziere pistol-shrimp
+[2026-11-15 10:59:33] Stimme: Kokoro am_michael:60+am_onyx:40 ×1.05
+[2026-11-15 10:59:58] Ton: 30.67 s, 84 Wörter, 7 Beats
+[2026-11-15 11:00:04] B-Roll Frage 1 ("pistol shrimp"): Vortex-Formation-with-a-Snapping-Shrimp-Claw-pone.0077120.s0
+[2026-11-15 11:00:06] B-Roll Frage 2 ("snapping shrimp"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-15 11:00:12] B-Roll Frage 3 ("cavitation bubble"): Micro-bubble-emission-boiling-with-the-cavitation-bubble-blo
+[2026-11-15 11:00:19] B-Roll Frage 4 ("sun surface"): 4k video of the Sun's surface activity.ogv
+[2026-11-15 11:00:25] B-Roll Frage 5 ("sun"): SDO Sun This Week (SVS5577 - 048p30).webm
+[2026-11-15 11:00:27] B-Roll Frage 6 ("coral reef night"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-15 11:00:34] B-Roll Frage 7 ("coral reef fish"): Coordinated-vigilance-provides-evidence-for-direct-reciproci
+[2026-11-15 11:00:36] B-Roll Frage 1 ("pistol shrimp"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-15 11:00:43] B-Roll Frage 2 ("coral reef"): Video of a flight over a cold-water coral reef (Ifremer 0084
+[2026-11-15 11:00:51] B-Roll Frage 1 ("shrimp underwater"): Underwater-microscopy-for-in-situ-studies-of-benthic-ecosyst
+[2026-11-15 11:00:51] Szenen: 7/7 Beats mit eigenem Clip, 16 Schnitte auf 120-BPM-Raster
+[2026-11-15 11:04:40] Gerendert
+[2026-11-15 11:04:49] QA: -23.6 LUFS, TP -5.1 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 22.3
+[2026-11-15 11:04:49] Testlauf fertig: /home/runner/work/could-you-pass/could-you-pass/out/wt-pistol-shrimp.mp4
