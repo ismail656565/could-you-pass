@@ -1,0 +1,70 @@
+{
+ "id": "tardigrades-space",
+ "youtube": {
+  "title": "These Animals Survived 10 Days in Open Space 🐻 #shorts",
+  "description": "In 2007 tardigrades (water bears) rode outside the FOTON-M3 satellite – no suit, no protection. Many survived, and some even reproduced afterwards.\n\n#tardigrade #space #science #facts #wildlytrue #shorts",
+  "tags": [
+   "tardigrade",
+   "water bear",
+   "tardigrades in space",
+   "science facts",
+   "space facts",
+   "wildly true",
+   "shorts"
+  ],
+  "comment": "Would you trust a water bear with your life? 🐻 👇"
+ },
+ "story": {
+  "hookText": "SURVIVED SPACE.",
+  "music": "sfx/tension-loop.wav",
+  "sources": [
+   "https://doi.org/10.1016/j.cub.2008.06.048",
+   "https://en.wikipedia.org/wiki/Tardigrade"
+  ],
+  "beats": [
+   {
+    "text": "In 2007, scientists sent tiny animals into open space. No suit. No protection.",
+    "broll": [
+     "rocket launch",
+     "satellite orbit earth"
+    ]
+   },
+   {
+    "text": "They were tardigrades, also called water bears, less than a millimeter long.",
+    "broll": [
+     "tardigrade",
+     "water bear microscope"
+    ]
+   },
+   {
+    "text": "For ten days they rode on the outside of a satellite, in the vacuum of space.",
+    "broll": [
+     "earth from space",
+     "satellite space"
+    ]
+   },
+   {
+    "text": "Back on Earth, many of them woke up. Some even laid eggs that hatched.",
+    "broll": [
+     "tardigrade",
+     "microscope organism"
+    ]
+   },
+   {
+    "text": "Their trick: they dry out, curl into a ball, and almost stop living.",
+    "broll": [
+     "moss close up",
+     "microscope water"
+    ]
+   },
+   {
+    "text": "The first animals known to survive open space were smaller than a grain of sand.",
+    "broll": [
+     "sand grains macro",
+     "tardigrade"
+    ]
+   }
+  ]
+ },
+ "publishAt": "18:00"
+}

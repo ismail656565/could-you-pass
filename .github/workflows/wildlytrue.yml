@@ -1,0 +1,108 @@
+name: Wildly True Autopilot
+
+on:
+  schedule:
+    - cron: '40 9 * * *'    # 10:40 Berlin (Winterzeit): Analytics + 1 Fakten-Short rendern, geplant für 18:00
+    - cron: '25 17 * * *'   # 18:25 Berlin: Erst-Kommentar, sobald das Short öffentlich ist
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'all | check | analytics | comments | produce'
+        required: false
+        default: 'all'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wildlytrue
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      MODE: ${{ github.event.inputs.mode || (github.event.schedule == '25 17 * * *' && 'comments' || 'all') }}
+      HAS_TOKEN: ${{ secrets.WT_GOOGLE_REFRESH_TOKEN != '' }}
+      HEAVY: ${{ (github.event.inputs.mode || (github.event.schedule == '25 17 * * *' && 'comments' || 'all')) == 'all' || github.event.inputs.mode == 'produce' }}
+    steps:
+      - name: Token vorhanden?
+        if: env.HAS_TOKEN != 'true'
+        run: echo "::notice::WT_GOOGLE_REFRESH_TOKEN fehlt noch – Wildly True wird übersprungen (python autopilot/wildlytrue.py auth lokal ausführen)."
+
+      - uses: actions/checkout@v4
+        if: env.HAS_TOKEN == 'true'
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        if: env.HAS_TOKEN == 'true' && env.HEAVY == 'true'
+        with:
+          node-version: 20
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        if: env.HAS_TOKEN == 'true'
+        with:
+          python-version: '3.12'
+
+      - name: System-Pakete
+        if: env.HAS_TOKEN == 'true' && env.HEAVY == 'true'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji fonts-noto-core
+          fc-cache -f
+
+      - name: Abhängigkeiten
+        if: env.HAS_TOKEN == 'true' && env.HEAVY == 'true'
+        run: |
+          npm ci
+          npx remotion browser ensure
+
+      - name: Python-Pakete
+        if: env.HAS_TOKEN == 'true'
+        run: |
+          pip install -q google-api-python-client google-auth-oauthlib requests numpy imageio-ffmpeg
+          if [ "$HEAVY" = "true" ]; then pip install -q kokoro-onnx soundfile; fi
+
+      - name: Kokoro-Stimmenmodell (Cache)
+        if: env.HAS_TOKEN == 'true' && env.HEAVY == 'true'
+        uses: actions/cache@v4
+        with:
+          path: models
+          key: kokoro-v1.0
+
+      - name: Kokoro-Stimmenmodell laden
+        if: env.HAS_TOKEN == 'true' && env.HEAVY == 'true'
+        run: |
+          mkdir -p models
+          [ -f models/kokoro-v1.0.onnx ] || curl -sSL -o models/kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+          [ -f models/voices-v1.0.bin ] || curl -sSL -o models/voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+
+      - name: Wildly True ausführen
+        if: env.HAS_TOKEN == 'true'
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          WT_GOOGLE_REFRESH_TOKEN: ${{ secrets.WT_GOOGLE_REFRESH_TOKEN }}
+          PRIVACY: ${{ vars.WT_PRIVACY || 'public' }}
+          RENDER_CONCURRENCY: '100%'
+        run: python autopilot/wildlytrue.py $MODE
+
+      - name: Ergebnisse zurück ins Repository
+        if: always() && env.HAS_TOKEN == 'true'
+        run: |
+          git config user.name "wildlytrue-autopilot"
+          git config user.email "autopilot@users.noreply.github.com"
+          for p in autopilot/wildlytrue autopilot/broll-used.json stories/wt-*.json public/audio/wt-*.mp3; do git add "$p" 2>/dev/null || true; done
+          git commit -m "Wildly True ($MODE): $(date -u +%F)" || { echo "nichts zu speichern"; exit 0; }
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            git pull --rebase -X theirs origin main || { git rebase --abort 2>/dev/null; git pull --no-rebase -X ours --no-edit origin main; }
+            sleep $((i * 5))
+          done
+          echo "::error::Push fehlgeschlagen"
+          exit 1

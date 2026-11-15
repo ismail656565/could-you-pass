@@ -1,0 +1,77 @@
+{
+ "id": "pistol-shrimp",
+ "youtube": {
+  "title": "This Shrimp's Snap Is Almost as Hot as the Sun 🦐 #shorts",
+  "description": "The pistol shrimp snaps its claw so fast it creates a collapsing bubble that reaches about 4,700 °C for a split second – and even gives off a flash of light.\n\n#shrimp #ocean #animals #science #wildlytrue #shorts",
+  "tags": [
+   "pistol shrimp",
+   "snapping shrimp",
+   "animal facts",
+   "ocean facts",
+   "science facts",
+   "wildly true",
+   "shorts"
+  ],
+  "comment": "Which sea creature should we cover next? 🌊 👇"
+ },
+ "story": {
+  "hookText": "HOTTER THAN LAVA.",
+  "music": "sfx/tension-loop.wav",
+  "sources": [
+   "https://www.nature.com/articles/35097152",
+   "https://en.wikipedia.org/wiki/Alpheidae"
+  ],
+  "beats": [
+   {
+    "text": "This shrimp can stun a fish without even touching it.",
+    "broll": [
+     "pistol shrimp",
+     "Alpheidae"
+    ]
+   },
+   {
+    "text": "The pistol shrimp snaps its giant claw shut so fast, it fires a jet of water.",
+    "broll": [
+     "snapping shrimp",
+     "shrimp claw"
+    ]
+   },
+   {
+    "text": "That jet creates a bubble, and the bubble collapses with a loud bang.",
+    "broll": [
+     "underwater bubbles",
+     "bubble water slow motion"
+    ]
+   },
+   {
+    "text": "For a split second, the inside reaches around 4,700 degrees Celsius.",
+    "broll": [
+     "sun surface",
+     "solar flare"
+    ]
+   },
+   {
+    "text": "That's nearly as hot as the surface of the Sun.",
+    "broll": [
+     "sun",
+     "solar dynamics observatory"
+    ]
+   },
+   {
+    "text": "It even gives off a tiny flash of light. Scientists call it shrimpoluminescence.",
+    "broll": [
+     "coral reef night",
+     "coral reef"
+    ]
+   },
+   {
+    "text": "Whole colonies crackle so loudly, they can mess with submarine sonar.",
+    "broll": [
+     "submarine",
+     "coral reef fish"
+    ]
+   }
+  ]
+ },
+ "publishAt": "18:00"
+}
