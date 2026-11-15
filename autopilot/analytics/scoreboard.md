@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-15T06:14 (23 Abos)
+# Scoreboard – Stand 2026-11-15T08:17 (23 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -11,7 +11,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Karten-VS (TrueSize) | 1 | 1023 | 1023 | 1023 | 53.5 | 81.3 | 0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
 | VS-Vergleich | 9 | 563 | 454 | 1189 | 50.2 | 61.5 | 5.0 |
-| 6+ Fragen | 13 | 707 | 401 | 1550 | 54.1 | 50.1 | 8.0 |
+| 6+ Fragen | 13 | 707 | 409 | 1550 | 54.1 | 50.1 | 8.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
 | 4-Fragen-Trap | 9 | 372 | 251 | 1082 | 58.2 | 74.1 | 1.0 |
@@ -38,7 +38,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | GENERAL KNOWLEDGE | 4 | 573 | 469 | 1161 | 36.7 | 155.5 | 0 |
 | QUICK QUIZ | 2 | 456 | 456 | 484 | 41.9 | 89.6 | 1.0 |
 | WHICH IS TALLER? | 1 | 454 | 454 | 454 | 59.4 | 55.7 | 0 |
-| MOVIE QUIZ | 1 | 401 | 401 | 401 | 49.5 | 38.5 | 0 |
+| MOVIE QUIZ | 1 | 409 | 409 | 409 | 49.5 | 38.5 | 0 |
 | WHICH IS HEAVIER? | 1 | 393 | 393 | 393 | 50.9 | 64.4 | 0 |
 | HALLOWEEN TRIVIA | 3 | 344 | 338 | 498 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 331 | 331 | 331 | 48.8 | 94.3 | 0 |
@@ -65,7 +65,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 69.1 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 56.1 | 55.1 | 0 |
-| atlas | 5 | 518 | 302 | 1550 | 44.4 | 47.9 | 4.0 |
+| atlas | 5 | 520 | 302 | 1550 | 44.4 | 47.9 | 4.0 |
 
 ### Shorts nach Musik
 
@@ -80,7 +80,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
-| 21:00 | 22 | 506 | 360 | 1189 | 53.3 | 65.5 | 6.0 |
+| 21:00 | 22 | 507 | 360 | 1189 | 53.3 | 65.5 | 6.0 |
 | 16:00 | 21 | 548 | 331 | 1550 | 48.2 | 75.5 | 10.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
 
