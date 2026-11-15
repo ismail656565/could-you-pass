@@ -16,7 +16,6 @@
  },
  "story": {
   "hookText": "SURVIVED SPACE.",
-  "music": "sfx/tension-loop.wav",
   "sources": [
    "https://doi.org/10.1016/j.cub.2008.06.048",
    "https://en.wikipedia.org/wiki/Tardigrade"
@@ -48,7 +47,8 @@
     "broll": [
      "tardigrade",
      "microscope organism"
-    ]
+    ],
+    "impact": true
    },
    {
     "text": "Their trick: they dry out, curl into a ball, and almost stop living.",

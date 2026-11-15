@@ -60,6 +60,10 @@ PUBLISH_AT = '18:00'          # deutsche Zeit (US-Mittag)
 PER_DAY = 1
 DEFAULT_VOICE = 'am_michael:60+am_onyx:40'  # ruhige Doku-Männerstimme, eigene Mischung
 PLAYLIST = 'Wildly True Facts 🌍'
+# Eigenes Musikbett (scripts/make_wt_sounds.py): 120 BPM, Beat 1 bei 0,0 s → Schnitte rasten auf dieses Raster ein
+MUSIC, BPM = 'sfx/wt-pulse.wav', 120
+SNAP_MAX = 0.3      # Schnitt darf höchstens so weit vom Satzanfang auf den Takt rutschen
+SPLIT_OVER = 3.4    # längere Einstellungen bekommen einen zusätzlichen Schnitt auf dem Takt (Tempo)
 SENT = re.compile(r'(?<=[.!?])\s+')
 
 
@@ -144,18 +148,90 @@ def build_voice(item, name):
             chunks.append(np.zeros(int(pause * sr), dtype=np.float32))
             t += dur + pause
         b['end'] = round(t, 2)
-    audio = np.concatenate(chunks)
-    out = A.ROOT / 'public' / 'audio' / f'{name}.mp3'
-    out.parent.mkdir(parents=True, exist_ok=True)
-    wav = out.with_suffix('.wav')
-    sf.write(str(wav), audio, sr)
-    subprocess.run([A.ffmpeg_bin(), '-v', 'error', '-y', '-i', str(wav), '-ar', '44100', '-b:a', '160k', str(out)], check=True)
-    wav.unlink(missing_ok=True)
+    item['_voice'] = (np.concatenate(chunks), sr)
     story['audio'] = f'audio/{name}.mp3'
     story['captions'] = words
     story['durationInSeconds'] = round(t + 0.5, 2)
     story['beats'][-1]['end'] = story['durationInSeconds']
     log(f"Ton: {story['durationInSeconds']} s, {len(words)} Wörter, {len(story['beats'])} Beats")
+
+
+# ---------------------------------------------------------------- Schnitt auf den Takt + Sounddesign
+def cut_plan(story):
+    """Schnitte auf das Musikraster legen (≤ SNAP_MAX vom Satzanfang) und lange Einstellungen auf dem Takt teilen.
+    Liefert [(beat_index, teil, start, ende, versatz_im_clip)]."""
+    g = 60 / BPM
+    snap = lambda x: round(x / g) * g
+    beats, dur = story['beats'], story['durationInSeconds']
+    cuts = [0.0]
+    for b in beats[1:]:
+        c = snap(b['start'])
+        if abs(c - b['start']) > SNAP_MAX or c - cuts[-1] < 1.0:
+            c = b['start']
+        cuts.append(round(c, 3))
+    cuts.append(dur)
+    shots = []
+    for i in range(len(beats)):
+        a, e = cuts[i], cuts[i + 1]
+        parts = [a]
+        if e - a > SPLIT_OVER:
+            extra = int((e - a) // 2.2)
+            for k in range(1, extra + 1):
+                m = snap(a + (e - a) * k / (extra + 1))
+                if m - parts[-1] >= 1.1 and e - m >= 1.1:
+                    parts.append(round(m, 3))
+        parts.append(e)
+        for j in range(len(parts) - 1):
+            # Sprungschnitt: im selben Clip 0,5 s weiter springen – wirkt wie ein neuer Blickwinkel
+            shots.append((i, j, parts[j], parts[j + 1], round(parts[j] - a + 0.5 * j, 3)))
+    return shots
+
+
+def _load_sfx(rel, sr):
+    import numpy as np
+    import soundfile as sf
+    a, r = sf.read(str(A.ROOT / 'public' / rel), dtype='float32')
+    a = a.mean(1) if a.ndim > 1 else a
+    if r != sr:
+        a = np.interp(np.arange(0, len(a), r / sr), np.arange(len(a)), a).astype('float32')
+    return a
+
+
+def mix_audio(item, name):
+    """Stimme + Impact (Hook, Schlüsselfakt) + leiser Whoosh auf jedem Schnitt → public/audio/<name>.mp3"""
+    import numpy as np
+    import soundfile as sf
+    voice, sr = item.pop('_voice')
+    story = item['story']
+    out = np.zeros(int((story['durationInSeconds'] + 1.5) * sr), dtype=np.float32)
+    out[:len(voice)] += voice
+    boom, swish = _load_sfx('sfx/wt-boom.wav', sr), _load_sfx('sfx/wt-swish.wav', sr)
+
+    def put(x, at, vol):
+        s = max(0, int(at * sr))
+        e = min(len(out), s + len(x))
+        out[s:e] += x[:e - s] * vol
+
+    put(boom, 0.0, 0.55)
+    first_cut = {}
+    for sc in story['scenes']:
+        first_cut.setdefault(sc['_beat'], sc['start'])
+    for sc in story['scenes'][1:]:
+        put(swish, sc['start'] - 0.12, 0.22)
+    for i, b in enumerate(story['beats']):
+        if b.get('impact') and i in first_cut:
+            put(boom, first_cut[i], 0.4)
+    out = out[:int(story['durationInSeconds'] * sr)]
+    peak = np.max(np.abs(out)) or 1
+    out *= min(1.0, 0.95 / peak)
+    mp3 = A.ROOT / 'public' / 'audio' / f'{name}.mp3'
+    mp3.parent.mkdir(parents=True, exist_ok=True)
+    wav = mp3.with_suffix('.wav')
+    sf.write(str(wav), out, sr)
+    subprocess.run([A.ffmpeg_bin(), '-v', 'error', '-y', '-i', str(wav), '-ar', '44100', '-b:a', '160k', str(mp3)], check=True)
+    wav.unlink(missing_ok=True)
+    for sc in story['scenes']:
+        sc.pop('_beat', None)
 
 
 # ---------------------------------------------------------------- Bild
@@ -174,7 +250,8 @@ def build_scenes(item, name):
             qs = b.get('broll') or []
             qs = [qs] if isinstance(qs, str) else qs
             if k < len(qs):
-                pending.append({'broll': qs[k], 'start': b['start'], 'end': b['end'], '_beat': b})
+                # Puffer: Schnitt kann bis 0,3 s früher liegen, Sprungschnitte springen je 0,5 s weiter
+                pending.append({'broll': qs[k], 'start': b['start'] - 0.4, 'end': b['end'] + 1.4, '_beat': b})
         if not pending:
             continue
         fake = {'questions': pending}
@@ -186,17 +263,20 @@ def build_scenes(item, name):
     if not have:
         raise RuntimeError('Kein einziger B-Roll-Clip gefunden – Video wird nicht produziert.')
     scenes = []
-    for i, b in enumerate(beats):
+    for i, j, a, e, off in cut_plan(story):
+        b = beats[i]
         src = b.get('video')
-        if not src:  # Nachbar-Clip (vorher bevorzugt), später versetzt starten, damit es nicht identisch wirkt
+        if not src:  # Nachbar-Clip, versetzt gestartet, damit es nicht identisch wirkt
             near = sorted(have, key=lambda h: abs(beats.index(h) - i))[0]
             src = near['video']
-            log(f'Beat {i + 1}: kein Clip – nutze Clip von Beat {beats.index(near) + 1}')
-        scenes.append({'start': b['start'], 'end': b['end'], 'kind': 'video', 'src': src,
-                       **({'trimStart': 1.5} if not b.get('video') else {})})
+            off += 1.5
+            if j == 0:
+                log(f'Beat {i + 1}: kein Clip – nutze Clip von Beat {beats.index(near) + 1}')
+        scenes.append({'start': round(a, 3), 'end': round(e, 3), 'kind': 'video', 'src': src, '_beat': i,
+                       **({'trimStart': off} if off > 0 else {})})
     story['scenes'] = scenes
     A.add_broll_credits(item, credits)
-    log(f'Szenen: {len(have)}/{len(beats)} mit eigenem Clip')
+    log(f'Szenen: {len(have)}/{len(beats)} Beats mit eigenem Clip, {len(scenes)} Schnitte auf {BPM}-BPM-Raster')
 
 
 # ---------------------------------------------------------------- Ablauf
@@ -210,7 +290,7 @@ def render(item, name):
     story.setdefault('datelines', [])
     story.setdefault('counters', [])
     if story.get('music'):
-        story.setdefault('musicVolume', 0.08)
+        story.setdefault('musicVolume', 0.11 if story['music'] == MUSIC else 0.08)
     sp = A.ROOT / 'stories' / f'{name}.json'
     sp.write_text(json.dumps(story, indent=1, ensure_ascii=False), encoding='utf-8')
     r = subprocess.run(['node', 'scripts/render.mjs', f'stories/{name}.json'], cwd=A.ROOT, shell=(os.name == 'nt'),
@@ -227,6 +307,8 @@ def make_video(item):
     name = 'wt-' + item['id']
     build_voice(item, name)
     build_scenes(item, name)
+    item['story'].setdefault('music', MUSIC)
+    mix_audio(item, name)
     return render(item, name)
 
 

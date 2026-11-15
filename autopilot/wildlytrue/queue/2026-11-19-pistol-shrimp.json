@@ -16,7 +16,6 @@
  },
  "story": {
   "hookText": "HOTTER THAN LAVA.",
-  "music": "sfx/tension-loop.wav",
   "sources": [
    "https://www.nature.com/articles/35097152",
    "https://en.wikipedia.org/wiki/Alpheidae"
@@ -48,7 +47,8 @@
     "broll": [
      "sun surface",
      "solar flare"
-    ]
+    ],
+    "impact": true
    },
    {
     "text": "That's nearly as hot as the surface of the Sun.",

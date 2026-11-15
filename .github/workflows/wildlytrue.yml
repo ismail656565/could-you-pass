@@ -7,9 +7,13 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'all | check | analytics | comments | produce'
+        description: 'all | check | analytics | comments | produce | sample (rendert ohne Upload, Video landet im Branch wt-samples)'
         required: false
         default: 'all'
+      args:
+        description: 'bei sample: Teil der Queue-ID, z. B. pistol'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -24,8 +28,8 @@ jobs:
     timeout-minutes: 90
     env:
       MODE: ${{ github.event.inputs.mode || (github.event.schedule == '25 17 * * *' && 'comments' || 'all') }}
-      HAS_TOKEN: ${{ secrets.WT_GOOGLE_REFRESH_TOKEN != '' }}
-      HEAVY: ${{ (github.event.inputs.mode || (github.event.schedule == '25 17 * * *' && 'comments' || 'all')) == 'all' || github.event.inputs.mode == 'produce' }}
+      HAS_TOKEN: ${{ secrets.WT_GOOGLE_REFRESH_TOKEN != '' || github.event.inputs.mode == 'sample' }}
+      HEAVY: ${{ (github.event.inputs.mode || (github.event.schedule == '25 17 * * *' && 'comments' || 'all')) == 'all' || github.event.inputs.mode == 'produce' || github.event.inputs.mode == 'sample' }}
     steps:
       - name: Token vorhanden?
         if: env.HAS_TOKEN != 'true'
@@ -81,8 +85,26 @@ jobs:
           [ -f models/kokoro-v1.0.onnx ] || curl -sSL -o models/kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
           [ -f models/voices-v1.0.bin ] || curl -sSL -o models/voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
 
+      - name: Probe-Video (ohne Upload) → Branch wt-samples
+        if: env.MODE == 'sample'
+        env:
+          RENDER_CONCURRENCY: '100%'
+        run: |
+          python autopilot/wildlytrue.py dryrun ${{ github.event.inputs.args }}
+          mkdir -p /tmp/sample && cp out/wt-*.mp4 /tmp/sample/
+          cp autopilot/wildlytrue/log.txt /tmp/sample/log.txt || true
+          git config user.name "wildlytrue-autopilot"
+          git config user.email "autopilot@users.noreply.github.com"
+          git switch --orphan wt-samples-run
+          git rm -rq --cached . 2>/dev/null || true
+          git clean -fdxq -e models -e node_modules
+          cp /tmp/sample/* .
+          git add -f *.mp4 log.txt
+          git commit -qm "Wildly True Probe-Video $(date -u +%F)"
+          git push -f origin HEAD:wt-samples
+
       - name: Wildly True ausführen
-        if: env.HAS_TOKEN == 'true'
+        if: env.HAS_TOKEN == 'true' && env.MODE != 'sample'
         env:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
@@ -92,7 +114,7 @@ jobs:
         run: python autopilot/wildlytrue.py $MODE
 
       - name: Ergebnisse zurück ins Repository
-        if: always() && env.HAS_TOKEN == 'true'
+        if: always() && env.HAS_TOKEN == 'true' && env.MODE != 'sample'
         run: |
           git config user.name "wildlytrue-autopilot"
           git config user.email "autopilot@users.noreply.github.com"

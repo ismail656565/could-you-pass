@@ -16,7 +16,6 @@
  },
  "story": {
   "hookText": "400 YEARS OLD.",
-  "music": "sfx/tension-loop.wav",
   "sources": [
    "https://www.science.org/doi/10.1126/science.aaf1703",
    "https://en.wikipedia.org/wiki/Greenland_shark"
@@ -48,7 +47,8 @@
     "broll": [
      "Somniosus microcephalus",
      "shark underwater"
-    ]
+    ],
+    "impact": true
    },
    {
     "text": "That makes it the longest-living vertebrate known to science.",

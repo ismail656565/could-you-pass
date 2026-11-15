@@ -15,7 +15,6 @@
  },
  "story": {
   "hookText": "THEY NEVER FORGET.",
-  "music": "sfx/tension-loop.wav",
   "sources": [
    "https://doi.org/10.1016/j.anbehav.2009.12.022",
    "https://www.washington.edu/news/2010/06/28/crows-remember-faces/"
@@ -47,7 +46,8 @@
     "broll": [
      "crows flock",
      "crow calling"
-    ]
+    ],
+    "impact": true
    },
    {
     "text": "Even crows that were never caught joined in. Young crows learned it from their parents.",
