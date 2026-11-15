@@ -32,14 +32,16 @@
     "text": "The pistol shrimp snaps its giant claw shut so fast, it fires a jet of water.",
     "broll": [
      "snapping shrimp",
-     "shrimp claw"
+     "pistol shrimp",
+     "shrimp underwater"
     ]
    },
    {
     "text": "That jet creates a bubble, and the bubble collapses with a loud bang.",
     "broll": [
-     "underwater bubbles",
-     "bubble water slow motion"
+     "cavitation bubble",
+     "bubbles underwater",
+     "underwater bubbles"
     ]
    },
    {
@@ -61,14 +63,16 @@
     "text": "It even gives off a tiny flash of light. Scientists call it shrimpoluminescence.",
     "broll": [
      "coral reef night",
-     "coral reef"
+     "coral reef",
+     "reef fish"
     ]
    },
    {
     "text": "Whole colonies crackle so loudly, they can mess with submarine sonar.",
     "broll": [
-     "submarine",
-     "coral reef fish"
+     "coral reef fish",
+     "reef fish",
+     "coral reef"
     ]
    }
   ]

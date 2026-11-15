@@ -47,10 +47,21 @@ def _polite_candidates(query, sess):
     for attempt in range(4):
         time.sleep(1.5 + attempt * 6)
         try:
-            return _orig_candidates(query, sess)
+            return [c for c in _orig_candidates(query, sess) if _relevant(query, c['title'])]
         except Exception as ex:
             if '429' not in str(ex) or attempt == 3:
                 raise
+
+
+_STOP = {'with', 'from', 'over', 'into', 'slow', 'motion', 'close', 'video', 'footage', 'the', 'and'}
+
+
+def _relevant(query, title):
+    """Wikimedia-Suche ist unscharf (Probe 15.11.: "shrimp claw" → Dim-Sum-Kochvideo, "underwater bubbles" → Sternhaufen).
+    Ein Clip zählt nur, wenn ein Kernwort der Suche im Dateinamen steht."""
+    t = title.lower()
+    words = [w for w in re.findall(r'[a-z]+', query.lower()) if len(w) > 3 and w not in _STOP]
+    return any(w.rstrip('s') in t for w in words) if words else True
 
 
 A._commons_candidates = _polite_candidates

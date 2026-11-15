@@ -95,6 +95,7 @@ jobs:
           cp autopilot/wildlytrue/log.txt /tmp/sample/log.txt || true
           git config user.name "wildlytrue-autopilot"
           git config user.email "autopilot@users.noreply.github.com"
+          git reset -q --hard
           git switch --orphan wt-samples-run
           git rm -rq --cached . 2>/dev/null || true
           git clean -fdxq -e models -e node_modules
