@@ -1,0 +1,128 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "World Geography Quiz",
+ "header": "WORLD GEOGRAPHY QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "The **Great Barrier Reef** lies off which country?",
+   "answers": [
+    "Fiji",
+    "Australia",
+    "Indonesia",
+    "Philippines"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "broll": "coral reef fish",
+   "start": 0.0,
+   "keywordAt": 0.251,
+   "countdownStart": 2.347,
+   "reveal": 4.847,
+   "end": 6.603,
+   "video": "broll/six-q-genius-world-geo-0.mp4"
+  },
+  {
+   "q": "Which sea does the **Nile** flow into?",
+   "answers": [
+    "Red Sea",
+    "Black Sea",
+    "Arabian Sea",
+    "Mediterranean"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "broll": "felucca sailing boat",
+   "start": 6.603,
+   "keywordAt": 7.553,
+   "countdownStart": 8.54,
+   "reveal": 11.04,
+   "end": 16.21,
+   "video": "broll/six-q-genius-world-geo-1.mp4"
+  },
+  {
+   "q": "Most of the **Amazon** rainforest is in…?",
+   "answers": [
+    "Peru",
+    "Colombia",
+    "Brazil",
+    "Venezuela"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "broll": "rainforest canopy aerial",
+   "start": 16.21,
+   "keywordAt": 16.881,
+   "countdownStart": 19.053,
+   "reveal": 21.553,
+   "end": 24.328
+  },
+  {
+   "q": "Largest country entirely in **Europe**?",
+   "answers": [
+    "Ukraine",
+    "France",
+    "Spain",
+    "Germany"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "broll": "wheat field",
+   "start": 24.328,
+   "keywordAt": 26.335,
+   "countdownStart": 26.972,
+   "reveal": 29.472,
+   "end": 34.792,
+   "video": "broll/six-q-genius-world-geo-3.mp4"
+  },
+  {
+   "q": "The **Galápagos** Islands belong to which country?",
+   "answers": [
+    "Peru",
+    "Ecuador",
+    "Chile",
+    "Colombia"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "broll": "giant tortoise",
+   "start": 34.792,
+   "countdownStart": 37.362,
+   "reveal": 39.862,
+   "end": 43.34,
+   "video": "broll/six-q-genius-world-geo-4.mp4"
+  },
+  {
+   "q": "**Easter Island** belongs to which country?",
+   "answers": [
+    "Peru",
+    "New Zealand",
+    "Chile",
+    "Fiji"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "broll": "pacific ocean waves",
+   "start": 43.34,
+   "keywordAt": 43.91,
+   "countdownStart": 46.122,
+   "reveal": 48.622,
+   "end": 54.522,
+   "video": "broll/six-q-genius-world-geo-5.mp4"
+  }
+ ],
+ "audio": "audio/six-q-genius-world-geo.mp3",
+ "outroStart": 54.522,
+ "durationInSeconds": 54.522
+}

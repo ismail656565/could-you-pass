@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 World Geography Quiz #shorts",
-  "description": "6 world geography questions, easy to hard 🌍 Did #4 trick you? 🗺️\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #geographyquiz #worldgeography #quiz #onlygeniuses #shorts\n\nMusic: original.",
+  "description": "6 world geography questions, easy to hard 🌍 Did #4 trick you? 🗺️\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #geographyquiz #worldgeography #quiz #onlygeniuses #shorts\n\nFootage via Wikimedia Commons: Coral-reef-fish-perceive-lightness-illusions-srep35335-s2 – Simpson E, Marshall N, Cheney K (CC BY 4.0); Aerogenerador d'eix vertical a Son Llaüt – Chixoy (CC BY-SA 4.0); ASMR field of wheat - nature – Coup 53 (CC BY 3.0); 20150821 Aldabra giant tortoises mating in Tierpark Hellabrunn – Vassia Atanassova - Spiritia (CC BY-SA 3.0); Ocean Shores - Waves &Seagulls 2015-06 303 (90 Sec) – Chris Light (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "world geography quiz",
    "geography quiz",
@@ -47,7 +47,13 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "broll": "coral reef fish"
+    "broll": "coral reef fish",
+    "start": 0.0,
+    "keywordAt": 0.251,
+    "countdownStart": 2.347,
+    "reveal": 4.847,
+    "end": 6.603,
+    "video": "broll/six-q-genius-world-geo-0.mp4"
    },
    {
     "q": "Which sea does the **Nile** flow into?",
@@ -59,7 +65,13 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "broll": "felucca sailing boat"
+    "broll": "felucca sailing boat",
+    "start": 6.603,
+    "keywordAt": 7.553,
+    "countdownStart": 8.54,
+    "reveal": 11.04,
+    "end": 16.21,
+    "video": "broll/six-q-genius-world-geo-1.mp4"
    },
    {
     "q": "Most of the **Amazon** rainforest is in…?",
@@ -71,7 +83,12 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "broll": "rainforest canopy aerial"
+    "broll": "rainforest canopy aerial",
+    "start": 16.21,
+    "keywordAt": 16.881,
+    "countdownStart": 19.053,
+    "reveal": 21.553,
+    "end": 24.328
    },
    {
     "q": "Largest country entirely in **Europe**?",
@@ -83,7 +100,13 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "broll": "wheat field"
+    "broll": "wheat field",
+    "start": 24.328,
+    "keywordAt": 26.335,
+    "countdownStart": 26.972,
+    "reveal": 29.472,
+    "end": 34.792,
+    "video": "broll/six-q-genius-world-geo-3.mp4"
    },
    {
     "q": "The **Galápagos** Islands belong to which country?",
@@ -95,7 +118,12 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "broll": "giant tortoise"
+    "broll": "giant tortoise",
+    "start": 34.792,
+    "countdownStart": 37.362,
+    "reveal": 39.862,
+    "end": 43.34,
+    "video": "broll/six-q-genius-world-geo-4.mp4"
    },
    {
     "q": "**Easter Island** belongs to which country?",
@@ -107,9 +135,18 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "broll": "pacific ocean waves"
+    "broll": "pacific ocean waves",
+    "start": 43.34,
+    "keywordAt": 43.91,
+    "countdownStart": 46.122,
+    "reveal": 48.622,
+    "end": 54.522,
+    "video": "broll/six-q-genius-world-geo-5.mp4"
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-world-geo.mp3",
+  "outroStart": 54.522,
+  "durationInSeconds": 54.522
  },
  "lines": [
   {
@@ -136,5 +173,22 @@
    "q": "Last one. Easter Island belongs to which country?",
    "a": "Chile! Even though it's about three thousand five hundred kilometres away. Got all six? Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.1,
+  "truePeak": -3.7,
+  "lra": 5.4,
+  "normalized": true,
+  "frozenShare": 0.195,
+  "longestFreezeSec": 2.4,
+  "frame0Luma": 184.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-15T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "krs48Qg8u2s",
+  "at": "2026-11-15T06:22"
+ }
 }

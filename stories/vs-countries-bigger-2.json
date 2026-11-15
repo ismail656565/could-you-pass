@@ -1,0 +1,123 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "Bigger?",
+ "header": "WHICH IS BIGGER?",
+ "hook": "90% GET #4 WRONG 😏",
+ "teaser": "WAIT FOR #4 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "BIGGER!",
+ "revealIcon": "",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Which country is **bigger**?",
+   "answers": [
+    "Libya",
+    "Iran"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "values": [
+    1759540,
+    1648195
+   ],
+   "valueLabels": [
+    "1.76M km²",
+    "1.65M km²"
+   ],
+   "icons": [
+    "🏜️",
+    "🕌"
+   ],
+   "start": 0.0,
+   "keywordAt": 0.932,
+   "countdownStart": 2.335,
+   "reveal": 5.335,
+   "end": 9.899
+  },
+  {
+   "q": "Which country is **bigger**?",
+   "answers": [
+    "Egypt",
+    "Bolivia"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "values": [
+    1001450,
+    1098581
+   ],
+   "valueLabels": [
+    "1.00M km²",
+    "1.10M km²"
+   ],
+   "icons": [
+    "🐪",
+    "🦙"
+   ],
+   "start": 9.899,
+   "countdownStart": 11.466,
+   "reveal": 14.466,
+   "end": 19.497
+  },
+  {
+   "q": "Which country is **bigger**?",
+   "answers": [
+    "Colombia",
+    "South Africa"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    1138910,
+    1219090
+   ],
+   "valueLabels": [
+    "1.14M km²",
+    "1.22M km²"
+   ],
+   "icons": [
+    "☕",
+    "🦁"
+   ],
+   "start": 19.497,
+   "countdownStart": 21.284,
+   "reveal": 24.284,
+   "end": 28.714
+  },
+  {
+   "q": "Which country is **bigger**?",
+   "answers": [
+    "Argentina",
+    "India"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "values": [
+    2780400,
+    3287263
+   ],
+   "valueLabels": [
+    "2.78M km²",
+    "3.29M km²"
+   ],
+   "icons": [
+    "🥩",
+    "🐘"
+   ],
+   "start": 28.714,
+   "countdownStart": 30.917,
+   "reveal": 33.917,
+   "end": 41.401
+  }
+ ],
+ "audio": "audio/vs-countries-bigger-2.mp3",
+ "outroStart": 41.401,
+ "durationInSeconds": 41.401
+}
