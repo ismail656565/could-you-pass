@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (50 Videos)
+## Shorts (51 Videos)
 
 ### Shorts nach Format
 
@@ -10,7 +10,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | Karten-VS (TrueSize) | 1 | 1023 | 1023 | 1023 | 53.5 | 81.3 | 0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
-| VS-Vergleich | 9 | 563 | 454 | 1189 | 50.2 | 61.5 | 5.0 |
+| VS-Vergleich | 10 | 523 | 424 | 1189 | 50.2 | 61.5 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
 | 6+ Fragen | 14 | 668 | 356 | 1550 | 54.1 | 50.1 | 8.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
@@ -26,13 +26,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | TRIVIA CHALLENGE | 1 | 1221 | 1221 | 1221 | 53.5 | 51.3 | 1.0 |
 | BRAIN QUIZ | 1 | 1208 | 1208 | 1208 | 44.0 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1189 | 1189 | 1189 | 61.3 | 60.5 | 2.0 |
-| WHICH HAS MORE PEOPLE? | 1 | 1090 | 1090 | 1090 | 55.7 | 82.4 | 2.0 |
 | CAPITAL CITIES | 1 | 1068 | 1068 | 1068 | 56.4 | 53.9 | 1.0 |
 | – | 1 | 1023 | 1023 | 1023 | 53.5 | 81.3 | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 996 | 996 | 996 | 49.1 | 45.5 | 2.0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 716 | 716 | 716 | 37.4 | 114.3 | 0 |
 | WHICH CAME FIRST? | 2 | 698 | 698 | 1235 | 62.5 | 47.5 | 0 |
+| WHICH HAS MORE PEOPLE? | 2 | 626 | 626 | 1090 | 55.7 | 82.4 | 2.0 |
 | WHICH IS FASTER? | 1 | 558 | 558 | 558 | 49.7 | 66.2 | 0 |
 | WHICH IS BIGGER? | 2 | 524 | 524 | 878 | 53.0 | 65.2 | 1.0 |
 | GENERAL KNOWLEDGE | 4 | 573 | 469 | 1161 | 36.7 | 155.5 | 0 |
@@ -66,7 +66,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 69.1 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 56.1 | 55.1 | 0 |
-| atlas | 6 | 459 | 246 | 1550 | 44.4 | 47.9 | 4.0 |
+| atlas | 7 | 416 | 191 | 1550 | 44.4 | 47.9 | 4.0 |
 
 ### Shorts nach Musik
 
@@ -74,15 +74,15 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 18 | 650 | 456 | 1550 | 50.4 | 70.8 | 9.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.7 | 3.0 |
-| world-trip.wav | 12 | 471 | 322 | 1189 | 52.8 | 63.1 | 4.0 |
+| world-trip.wav | 13 | 447 | 191 | 1189 | 52.8 | 63.1 | 4.0 |
 
 ### Shorts nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
-| 21:00 | 22 | 507 | 360 | 1189 | 53.3 | 65.5 | 6.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
+| 21:00 | 23 | 492 | 327 | 1189 | 53.3 | 65.5 | 6.0 |
 | 16:00 | 22 | 530 | 316 | 1550 | 48.2 | 75.5 | 10.0 |
 
 ### Top 8 Shorts
