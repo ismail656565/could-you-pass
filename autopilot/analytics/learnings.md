@@ -602,3 +602,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Karten-Long 133 (stayed 75,6 %) vs. Movie-Emoji 14 → Karten-Format Folge 2 angelegt.
 - Thumbnails: CTR per API weiter nicht messbar (HttpError 400); Karten-Long Folge 2 nutzt festes TrueSizeThumb, thumbText "ALASKA / IS A LIE".
 - Queue 17.11.: map-true-size-us-20-2 (14:00), six-q-genius-geography (atlas 16:00), six-q-genius-usa-pop (pop 21:00). 15 neue Formen in build-truesize-data.mjs (8 Staaten, 7 Länder; Chile/Norwegen nur Festland), Kontrollspalte stützt alle 20 Paare (knappste: Sweden 442.847 vs California 408.919, Romania 235.742 vs Utah 219.766). Duplikat-Check fand Ankara schon 2× (capitals-1, geo-trap-1) → #4 Falle jetzt Yamoussoukro (Elfenbeinküste).
+
+## 2026-11-16 – Research
+- Karten-VS bleibt bester Short-Starter: map-lie-2 341 n. ≈0,6 T; Shorts-Median der letzten 14 (≥3 T) nur 280 (gesamt 366) → Delle hält an, E16 pop vs. atlas startet heute.
+- Verdicts ✗: older-VS 191 (2,9 T), Movie-6-Q 409 (2,6 T, Ziel 600 → Filme nur noch als Event/Long), Movie-Emoji-Long 18 (2,9 T, Ziel 30); Country-Emoji-Long 13 n. 0,9 T (Movie dort: 4).
+- Konkurrenz unverändert: Rätsel-/IQ-Longs ~7 min (Quiz World 520k = 277×), niedrige Hürde (QuizNova „5 Out Of 25“ 16×) → E14 Do 19.11.; GTA VI 19.11. erneut bestätigt.
+- 18.11. E16 Tag 3: pop „Capitals Quiz“ 16:00 vs. atlas „Tricky Trivia Quiz“ 21:00 (Fragen gegrept, frei); 19.11. Arme tauschen. vidIQ: nur 4 Credits (Tool kostet 5) → kein Aufruf.

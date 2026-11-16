@@ -1,95 +1,66 @@
-# Plan – 2026-11-15 (So)
+# Plan – 2026-11-16 (Mo)
 
-TECHNIK-PROBLEM: nichts Blockierendes. Läufe 14.11. grün (country-emoji-30-1 14:00, six-q-genius-animals 16:00, map-lie-2 21:00 hochgeladen, alle 3 Kommentare gepostet 13:56/15:57/20:58). Hinweise: (1) **Analytics-Snapshot ist vom 14.11. 11:31** – alle 14.11.-Videos dort noch privat, Europe/People-R3 erst <1 T alt → heutiger 08:15-Lauf muss frischen Snapshot ziehen (für E15/Animals/Map-Lie-2-Verdicts). (2) QA-Warnung „Standbild 9,4 s“ beim Country-Emoji-Long (14.11.) – vermutlich Abspann/Endkarte (wie Karten-Long 11,6 s), bitte kurz prüfen, ob es nicht mitten im Video liegt. (3) CTR per API weiter HttpError 400 (bekannt). (4) Am 16.11. erstes pop-Item → Log auf „Gerendert“ für six-q-genius-country-pop prüfen (lokal wegen Font-Download nicht testbar).
+TECHNIK-PROBLEM: nichts Blockierendes. Läufe 15.11. grün (six-q-genius-world-geo 16:00, vs-countries-bigger-2 21:00 hochgeladen, Kommentare 15:57/20:58 gepostet; kein Long-Tag). Hinweise: (1) **Analytics-Snapshot ist vom 15.11. 11:33** – beide 15.11.-Videos dort noch privat → heutiger 08:15-Lauf muss frischen Snapshot ziehen. (2) **Heute erstes pop-Item (six-q-genius-country-pop, 16:00)** – im Log auf „Gerendert“ + QA-Zeile prüfen; scheitert pop (Font/Komposition), Item mit `layout: "atlas"` neu rendern statt Slot ausfallen lassen und in learnings.md notieren (dann ist E16-Paar 1 ungültig). (3) **keywords.md ist vom 09.11.** – Montags-Refresh (keywords.py) heute prüfen, ob er läuft. (4) vidIQ: Konto hat erst **4 Credits** (Tools kosten 5) → heute kein vidIQ-Aufruf möglich; nicht erneut versuchen, bis die Credits aufgefüllt sind. (5) CTR per API weiter HttpError 400 (bekannt).
 
 ## Zusammenfassung (Deutsch)
-- **Shorts-Delle seit 11.11.:** Snapshot 14.11.: flags 303 (≈2,8 T), colder 147 (≈2,6 T), older 178 (≈2 T), movies 362 (≈1,6 T), **Europe 84 (≈0,85 T), People-R3 98 (≈0,6 T)** – sogar das bewährte Bevölkerungs-VS (R1/R2 1.089/1.189) startet schwach. Alle seit 11.11. in atlas → Layout-Verdacht (E16 ab morgen) bleibt der wichtigste Test; Themen-Exploit (Geo/Länder) unverändert.
-- **Verdicts ≥3 T:** flags 303 ✗ (Ziel 800), colder 147 ✗ (Kälte-VS bereits gestrichen). Tricky 1.541 / map-lie-1 1.021 (≈4 T) bleiben die einzigen atlas-Gewinner.
-- **Longs (E13):** Karten-Long True Size **133** (≈4 T, stayed 75,6 %) = mit Abstand bestes Long seit Okt.; Movie-Emoji **14** (≈1,9 T) ✗-Kurs. → Karten-Long Folge 2 (US-Staaten vs. Länder) Di 17.11. ist der stärkste Long-Slot; Emoji-Longs hängen am Country-Emoji-Wert (14.11.).
-- **Konkurrenz:** unverändert dominieren ~7-min-IQ/Rätsel-Longs (Quiz World 520k = 277× Median, GK Studio 45k = 48×, Quiz Guy 38k = 33×) und Erkennungs-Longs „from above/outline“ als Serie (Dopamine Quiz F1 Part 3, 30k = 42×). GTA VI bleibt 19.11. (mehrfach bestätigt).
-- **Änderung heute:** keine Regeländerung; Produktion legt 17.11. an (Karten-Long Folge 2 + E16 Tag 2: atlas 16:00 / pop 21:00 USA-Quiz gepaart zum Long).
+- **Karten-Format bleibt unser bester Hebel:** map-lie-2 **341 Views nach ≈0,6 T** (map-lie-1 lag nach ~11 h bei 931, Ziel 800) – Karten-VS startet wieder über allen anderen Shorts der Woche; Karten-Long #1 131 (≈4,9 T) bleibt das einzige Long >30. Morgen Karten-Long Folge 2 (US-Staaten).
+- **Shorts-Delle hält an:** Median der letzten 14 Shorts mit ≥3 T = **280** (Gesamt-Median 366). Verdicts: **older-VS 191 (2,9 T) ✗**, **Movie-6-Q 409 (2,6 T) ✗** (Ziel 600 → Filme nur noch als Long/Event), Europe 152 (1,9 T), People-R3 163 (1,6 T), Animals 108 (0,9 T) alle schwach → E16 (pop vs. atlas, ab heute) ist richtig gesetzt.
+- **Longs:** Movie-Emoji-Long **18 (2,9 T) ✗** (Ziel 30), Country-Emoji 13 nach 0,9 T (besser als Movie bei 0,9 T: 4) → E13-Verdict 21.11. hängt an Karten-Long Folge 2 + Country-Emoji.
+- **Konkurrenz:** unverändert IQ-/Rätsel-Longs ~7 min (Quiz World 520k = 277×, GK Studio 45k = 48×, Quiz Guy 38k = 33×), Serien-Erkennung (Dopamine F1 Part 3 = 42×), niedrige Punkt-Hürde (QuizNova „Scoring 5 Out Of 25“ = 16×). GTA VI 19.11. erneut bestätigt (Take-Two). → E14 Rätsel-Long + GTA-Short am Do 19.11. bleiben.
+- **Änderung heute:** keine Regeländerung. 18.11. = E16 Tag 3 (gerader Tag → pop 16:00): pop „Capitals Quiz“ vs. atlas „Tricky Trivia Quiz“ (beide Themen = unsere zwei besten 6-Q-Muster: Capitals 1.068, Tricky 1.550). Am 19.11. Arme tauschen (Tricky-Klasse in pop), damit kein Arm das stärkere Thema bekommt.
 
-## Konkurrenz-Gewinner heute (competitors-report.json 14.11., letzte 30 Tage)
+## Konkurrenz-Gewinner heute (competitors-report.json 15.11., letzte 30 Tage)
 
 | # | Video (Kanal, Abos) | Views | × Median | Länge | Titel-Muster | Was wir übernehmen → Slot |
 |---|---|---|---|---|---|---|
-| 1 | "10 Tricky IQ Riddles / Test Your Intelligence!" (Quiz World, 1.080) – 22.10. | 519.769 | 277× | 6:48 | Zahl + „Tricky“ + IQ, kein Emoji, kein Score | **E14 Do 19.11. Long** (~7 min, 12 sichtbare Rätsel) |
-| 2 | "🧠 Your Brain Is Ageless! Take This 10-Question IQ Quiz…" (GK STUDIO PRO, 1.910) – 27.10. | 45.130 | 48× | 7:14 | Fragenzahl + IQ + Selbstbild | Bestätigt Länge 7 min + 10–12 Fragen für E14; Alters-Teil NICHT (Besitzer-Verbot) |
-| 3 | "Can You Name F1 Track From Above? — Part 3" (Dopamine Quiz, 441) – 31.10. | 30.059 | 42× | 8:50 | Erkennen aus Vogelperspektive + **Serien-Nummer** | **Di 17.11. Karten-Long Folge 2** als klare Serie („Maps That Lie #2“-Logik, Suchphrase vorn) |
-| 4 | "12 Puzzles That Expose How Easily You Get Tricked!" (Quiz Guy, 494) – 18.10. | 37.829 | 33× | 8:22 | Zahl + „Puzzles“ + Ego-Drohung, kein Emoji | E14-Titel-Alternative / Thumb B; Rätsel als echte Puzzles (Zahlenreihen, Logik), keine Textfakten |
-| 5 | "Name the airline from its livery" (Chauncey Asks, 6.150) – Short 20.10. (+ „Name the artist by the album cover“ 454k, 04.11.) | 767.146 | 16× | 1:17 | „Name the X from its Y“ – Erkennen aus Detail | Nach E16: 6-Q-Short „Name the Country From Its Outline“ mit truesize-Umrissen (Backlog #4); keine Logos/Albumcover (Rechte) |
+| 1 | "10 Tricky IQ Riddles / Test Your Intelligence!" (Quiz World, 1.080) – 22.10. | 519.944 | 277× | 6:48 | Zahl + „Tricky“ + IQ, kein Emoji, kein Score | **E14 Do 19.11. Long** (~7 min, 12 eigene sichtbare Rätsel) |
+| 2 | "Can You Name F1 Track From Above? — Part 3" (Dopamine Quiz, 441) – 31.10. | 30.103 | 42× | 8:50 | Erkennen aus Vogelperspektive + Serien-Nummer | **Di 17.11. Karten-Long Folge 2** (Serie, Suchphrase vorn) |
+| 3 | "ARE YOU A GENIUS? Prove It By Scoring 5 Out Of 25 On This Extreme IQ Test!" (QuizNova, 1.410) – 28.10. | 22.628 | 16× | 8:21 | **niedrige Punkt-Hürde** + Genius-Identität | Titel-Mechanik für E14 („Only Geniuses Solve 4“) – erlaubtes Besitzer-Experiment; Senioren-Teil NICHT |
+| 4 | "Name the artist by the album cover" / "Name the airline from its livery" (Chauncey Asks, 6.330) – 04.11./20.10. | 508.296 / 783.740 | 10× / 16× | 1:37 / 1:17 | „Name the X from its Y“ – Erkennen aus Detail | Backlog #3: 6-Q „Name the Country From Its Outline“ (eigene Umrisse aus truesize.json); keine Logos/Cover |
+| 5 | "Are You Smarter Than A 12 Year Old? 🤔" (Studio Seven, 1.480) – 10.11. | 64.606 | 9× | 1:56 | Vergleichs-Identität „smarter than a kid“ | Backlog #7: Titeltest nach E16 (nicht jetzt – sonst 2 Variablen) |
 
-Nicht übernommen: Alters-/Senioren-Titel (QuizNova 72k/57k – Besitzer-Verbot), Gabby's Dollhouse/Disney-Stimmen (Rechte), Fußballstadien/F1 per Google Earth (Satellitenbilder lizenzpflichtig), „English Quizz“-Wortschatz-Shorts (bei uns 148 ✗), WWII (Krieg).
+Nicht übernommen: Senioren-/Alters-Titel (QuizNova „Brain Exam for Seniors“ 57k – Besitzer-Verbot), Gabby's Dollhouse/Disney-Stimmen (Rechte), „English Quizz“-Wortschatz (bei uns 148 ✗), Google-Earth-Satellitenbilder (Lizenz), WWII (Krieg).
 
 ## 3-Tage-Plan
 
-Layout: Shorts 15.11. atlas (Queue), **16.–22.11. E16 pop/atlas** (gerade Tage pop 16:00, ungerade pop 21:00); Longs tvshow v2 bzw. TrueSizeLong (Besitzer-STRATEGIE 09./13.11. ist neuer als „tvshow für alles“). Longs nur Di/Do/Sa 14:00. Alle Fragen vor dem Anlegen gegen `queue/done/*` greppen (für 17.11. schon gegrept, s. u.).
+Layout-Regel (neueste Besitzer-STRATEGIE 13.11. überschreibt „tvshow für alles“): Shorts 16.–22.11. E16 pop/atlas (gerade Tage pop 16:00, ungerade pop 21:00); Longs tvshow v2 bzw. TrueSizeLong; Longs nur Di/Do/Sa 14:00 (STRATEGIE 09.11. überschreibt „1 Long pro Tag“).
 
-| Datum / Slot | Format | Thema | Arbeitstitel (YouTube) | Fragen + timing | Hook / Fragen | Musik | cardColors | Thumbnail A/B/C + Foto | Warum | Erfolgskriterium |
+| Datum / Slot | Format | Thema | Arbeitstitel (YouTube) | Fragen + timing | Hook / Fragen | Musik | cardColors | Thumbnail / Bild | Warum | Erfolgskriterium |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 15.11. Long | kein Long (So) | – | – | – | – | – | – | – | Long-Tage Di/Do/Sa | – |
-| 15.11. Short 16:00 | 6-Q atlas (Queue six-q-genius-world-geo) | Welt-Geo | Only Geniuses Get 6/6 🧠 World Geography Quiz | 6 (Queue), E15 #1 | Queue | game-show | – | – | Exploit Geo-6-Q + E15 | ≥800 n. 3 T; E15-Kurvenquote ≥0,75 |
-| 15.11. Short 21:00 | VS atlas (Queue vs-countries-bigger-2) | Ländergröße | Which Country Is Bigger? 90% Get #4 Wrong 🌍 | 4 (Queue) | Queue | world-trip | – | – | Exploit VS (letztes VS vor E16) | ≥700 n. 3 T |
-| 16.11. Long | kein Long (Mo) | – | – | – | – | – | – | – | – | – |
-| 16.11. Short 16:00 | 6-Q **pop** (Queue six-q-genius-country-pop) | Länder | Only Geniuses Get 6/6 🧠 Country Quiz | 6 (Queue), E15 | Queue | game-show | – (pop) | – | E16 Paar 1 pop | E16 + ≥600 n. 3 T |
-| 16.11. Short 21:00 | 6-Q **atlas** (Queue six-q-genius-landmarks) | Wahrzeichen | Only Geniuses Get 6/6 🧠 Landmarks Quiz | 6 (Queue), E15 | Queue | game-show | – | – | E16 Paar 1 atlas | E16 + ≥600 n. 3 T |
-| **17.11. Long 14:00 (NEU)** | **Karten-Long TrueSizeLong** (story.type "truesize", format "long"), Folge 2 | Wahre Größe: US-Staaten vs. Länder | **The True Size of US States: 20 Maps That Lie to You 🇺🇸** | 20 Runden, EASY→MEDIUM→HARD→LEGEND je 5, `timing {think 3.4, move 1.7, tail 1.0}`, `midCtaIndex` 10 | Runden s. Liste „Karten-Long Folge 2“ unten (Hook R1: „California vs Japan – which is REALLY bigger?“) | world-trip | – | festes TrueSizeThumb; `story.thumbText` = "ALASKA IS A LIE" | **Exploit #1 Long** (Folge 1: 133 Views, stayed 75,6 % – alle anderen Longs ≤21 seit 23.10.) + Konkurrenz #3 (Serie) + US-Publikum | ≥100 n. 3 T (Folge 1: 101) |
-| **17.11. Short 16:00 (NEU, E16 atlas)** | 6-Q **layout "atlas"** | Welt-Geo (Wasserfälle/Seen/Hauptstadt) | **Only Geniuses Get 6/6 🧠 Geography Quiz** (+ #shorts) | 6, count 2.5 / tail 0.8, E15 (`lines[0].a` = „Zimbabwe!“) | Q1 "Victoria Falls lies on the border of Zambia and…?" (Kenya/Zimbabwe/Tanzania/Angola) → Zimbabwe · Q2 "The island of Tasmania belongs to which country?" (New Zealand/Australia/UK/Indonesia) → Australia · Q3 "Lake Titicaca lies between Peru and…?" (Chile/Ecuador/Bolivia/Brazil) → Bolivia · **#4 Falle "What is the capital of Turkey?" (Istanbul/Ankara/Izmir/Antalya) → Ankara** · Q5 "The Iguazu Falls are shared by Argentina and…?" (Chile/Brazil/Uruguay/Paraguay) → Brazil · Finale "The Bering Strait separates Russia from which US state?" (Washington/Hawaii/Maine/Alaska) → Alaska | game-show | – (atlas) | – ; broll: Q1 "waterfall mist rainbow", Q2 "eucalyptus forest coast", Q3 "reed boats lake", Q4 "mosque minaret city", Q5 "jungle waterfall aerial", Q6 "icy sea ship" | **E16 Tag 2 atlas** (ungerader Tag → atlas 16:00) | E16 + ≥600 n. 3 T |
-| **17.11. Short 21:00 (NEU, E16 pop, gepaart zum Long)** | 6-Q **layout "pop"** | USA | **Only Geniuses Get 6/6 🧠 USA Quiz** (+ #shorts) | 6, count 2.5 / tail 0.8, E15 (`lines[0].a` = „Arizona!“) | Q1 "Which US state is home to the Grand Canyon?" (Nevada/Utah/Arizona/Colorado) → Arizona · Q2 "Las Vegas is in which US state?" (California/Nevada/Arizona/Utah) → Nevada · Q3 "What is the capital of Texas?" (Houston/Dallas/Austin/San Antonio) → Austin · **#4 Falle "What is the capital of New York State?" (New York City/Buffalo/Albany/Rochester) → Albany** · Q5 "Most of Yellowstone National Park lies in which state?" (Montana/Wyoming/Idaho/Colorado) → Wyoming (~96 %) · Finale "Which US state has the longest coastline?" (California/Florida/Hawaii/Alaska) → Alaska (NOAA: 6.640 mi, mehr als alle anderen Staaten zusammen) | game-show | **nicht setzen** (pop) | – ; broll Q1 "red rock canyon river", Q2 "desert city night lights", Q3 "cowboy boots", Q4 "skyscrapers taxi street", Q5 "geyser steam", Q6 "glacier coast boat"; cardText Q1 "🏜️", Q2 "🎰", Q3 "🤠", Q4 "🗽", Q5 "♨️🦬", Q6 "🌊" | **E16 Tag 2 pop** + Paarung Short→Long (Kommentar verlinkt Karten-Long) | E16 + ≥600 n. 3 T |
+| 16.11. Long | kein Long (Mo) | – | – | – | – | – | – | – | Long-Tage Di/Do/Sa | – |
+| 16.11. Short 16:00 | 6-Q **pop** (Queue six-q-genius-country-pop) | Länder | Only Geniuses Get 6/6 🧠 Country Quiz | 6 (Queue), E15 | Queue | game-show | – (pop) | – | E16 Paar 1 pop | ≥600 n. 3 T |
+| 16.11. Short 21:00 | 6-Q **atlas** (Queue six-q-genius-landmarks) | Wahrzeichen | Only Geniuses Get 6/6 🧠 Landmarks Quiz | 6 (Queue), E15 | Queue | game-show | – | – | E16 Paar 1 atlas | ≥600 n. 3 T |
+| 17.11. Long 14:00 | Karten-Long TrueSizeLong (Queue map-true-size-us-20-2) | US-Staaten vs. Länder | The True Size of US States: 20 Maps That Lie to You 🇺🇸 | 20 Runden (Queue) | Queue | world-trip | – | TrueSizeThumb „ALASKA IS A LIE“ | Exploit #1 Long + Konkurrenz #2 | ≥100 n. 3 T |
+| 17.11. Short 16:00 | 6-Q **atlas** (Queue six-q-genius-geography) | Welt-Geo | Only Geniuses Get 6/6 🧠 Geography Quiz | 6 (Queue) | Queue | game-show | – | – | E16 Paar 2 atlas | ≥600 n. 3 T |
+| 17.11. Short 21:00 | 6-Q **pop** (Queue six-q-genius-usa-pop) | USA, gepaart zum Long | Only Geniuses Get 6/6 🧠 USA Quiz | 6 (Queue) | Queue | game-show | – (pop) | – | E16 Paar 2 pop + Short→Long | ≥600 n. 3 T |
+| 18.11. Long | kein Long (Mi) | – | – | – | – | – | – | – | – | – |
+| **18.11. Short 16:00 (NEU, E16 pop)** | 6-Q **layout "pop"** | Hauptstädte | **Only Geniuses Get 6/6 🧠 Capitals Quiz** (+ #shorts) | 6, count 2.5 / tail 0.8, E15 (`lines[0].a` = „Tokyo!“) | Q1 EASY "What is the capital of **Japan**?" (Osaka/Kyoto/**Tokyo**/Hiroshima) · Q2 EASY "What is the capital of **Wales**?" (**Cardiff**/Swansea/Newport/Bangor) · Q3 MEDIUM "What is the capital of **Switzerland**?" (Zurich/**Bern**/Geneva/Basel) · **#4 Falle** "What is the capital of **Brazil**?" (Rio de Janeiro/São Paulo/Salvador/**Brasília**) · Q5 HARD "What is the capital of **Kazakhstan**?" (Almaty/**Astana**/Tashkent/Bishkek) · Finale LEGEND "What is the capital of **Nigeria**?" (Lagos/Kano/**Abuja**/Ibadan) → Indizes 2/0/1/3/1/2 | game-show | **nicht setzen** (pop) | broll Q1 "cherry blossom temple", Q2 "castle green hills", Q3 "alpine lake mountains", Q4 "tropical beach city", Q5 "steppe horses", Q6 "busy african market"; cardText Q1 "🍣", Q2 "🐉", Q3 "🧀⌚", Q4 "⚽🌴", Q5 "🐎🏔️", Q6 "🌍" | **E16 Tag 3 pop** + Themen-Exploit (Capitals-6-Q 1.068 ✓) | E16 + ≥600 n. 3 T |
+| **18.11. Short 21:00 (NEU, E16 atlas)** | 6-Q **layout "atlas"** | leichtes Allgemeinwissen | **Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz** (+ #shorts) | 6, count 2.5 / tail 0.8, E15 (`lines[0].a` = „1,440!“) | Q1 EASY "How many **minutes** are in one day?" (1,240/1,400/**1,440**/2,400) · Q2 EASY "How many **squares** are on a chessboard?" (**64**/36/48/100) · Q3 MEDIUM "Add up all the **dots** on one die. Total?" (18/**21**/24/36) · **#4 Falle** "How many **bones** does a shark have?" (About 300/About 200/About 100/**Zero**) – Skelett aus Knorpel · Q5 HARD "What is the most common **bird** on Earth?" (Pigeon/**Chicken**/Sparrow/Crow) – ~25–30 Mrd. Hühner · Finale LEGEND "**Thursday** is named after which god?" (Odin/Zeus/Mars/**Thor**) → Indizes 2/0/1/3/1/3 | game-show | – (atlas) | broll Q1 "clock time lapse", Q2 "chess game hands", Q3 "rolling dice table", Q4 "shark swimming underwater", Q5 "birds flock sky", Q6 "thunderstorm lightning" (keine Clips mit Huhn/Hammer) | **E16 Tag 3 atlas** + Themen-Exploit (Tricky Trivia 1.550 = bestes Short) | E16 + ≥600 n. 3 T |
 
-Duplikat-Check 17.11. erledigt (grep queue/done): frei = Victoria Falls, Tasmania, Titicaca, Ankara, Iguazu, Bering, Grand Canyon, Las Vegas, Austin, Albany, Yellowstone; „longest coastline“ nur als Länder-Frage (Kanada, 23.10.) benutzt → Staaten-Variante ok. Schon benutzt (nicht nehmen): Sunshine State, Big Apple, Golden Gate, Hawaii-Inseln, Rhode Island, Peach State, Mississippi/Missouri, Death Valley, Alaska-Kauf, Everest, Ottawa, Canberra, Sahara, Seine, Fuji. Rushmore läuft am 16.11.
+Duplikat-Check 18.11. erledigt (grep über queue/done + queue, alle question-Texte): frei = Hauptstadt Japan/Wales/Schweiz/Brasilien (nur „In welchem Jahr wurde Brasília Hauptstadt“ benutzt → andere Frage, ok)/Kasachstan/Nigeria, Minuten pro Tag, Schachbrett-Felder, Würfelaugen, Hai-Knochen, häufigster Vogel, Thursday/Thor. Schon benutzt (nicht nehmen): Kanada, Australien, Türkei, Neuseeland, Marokko, Vietnam, Pakistan, Myanmar, Südkorea, Philippinen, Kenia (Hauptstädte); Buchstabe Q, Giraffenzunge, Blutgruppe, Freiheitsstatue, größte Wüste, Fingerabdruck Koala, Regenbogen, Papier, Black Box, flüssiges Metall, Mauna Kea, Muttersprache, Huhn-Männchen.
 
-### Karten-Long Folge 2 – 20 Runden (offizielle Gesamtfläche: US Census Bureau für Staaten, CIA World Factbook für Länder; Quelle in die Beschreibung)
-
-| # | Stufe | a vs. b | km² | Gewinner | Diff |
-|---|---|---|---|---|---|
-| 1 | EASY | California vs Japan | 423.970 / 377.915 | California | 12 % |
-| 2 | EASY | Texas vs France (Festland, Shape `france`) | 695.662 / 551.500 | Texas | 26 % |
-| 3 | EASY | Spain vs California | 505.370 / 423.970 | Spain | 19 % |
-| 4 | EASY | DR Congo vs Alaska | 2.344.858 / 1.723.337 | Congo | 36 % |
-| 5 | EASY | Turkey vs Texas | 783.562 / 695.662 | Turkey | 13 % |
-| 6 | MEDIUM | Florida vs Syria | 170.312 / 185.180 | Syria | 9 % |
-| 7 | MEDIUM | UK vs Minnesota | 243.610 / 225.163 | UK | 8 % |
-| 8 | MEDIUM | Italy vs Colorado | 301.340 / 269.601 | Italy | 12 % |
-| 9 | MEDIUM | Romania vs Utah | 238.391 / 219.882 | Romania | 8 % |
-| 10 | MEDIUM | Chile vs Texas | 756.102 / 695.662 | Chile | 9 % |
-| 11 | HARD | Poland vs Nevada | 312.685 / 286.380 | Poland | 9 % |
-| 12 | HARD | Cambodia vs Florida | 181.035 / 170.312 | Cambodia | 6 % |
-| 13 | HARD | Montana vs Germany | 380.832 / 357.022 | Montana | 7 % |
-| 14 | HARD | Greenland vs Alaska | 2.166.086 / 1.723.337 | Greenland | 26 % |
-| 15 | HARD | Sweden vs California | 450.295 / 423.970 | Sweden | 6 % |
-| 16 | LEGEND | Iceland vs Pennsylvania | 103.000 / 119.280 | Pennsylvania | 16 % |
-| 17 | LEGEND | Norway (Festland, ohne Svalbard) vs Montana | 323.802 / 380.832 | Montana | 18 % |
-| 18 | LEGEND | India vs Alaska | 3.287.263 / 1.723.337 | India | 91 % (Mercator-Falle: Alaska wirkt größer) |
-| 19 | LEGEND | Cuba vs Pennsylvania | 109.884 / 119.280 | Pennsylvania | 9 % (Kuba wirkt länger/größer) |
-| 20 | LEGEND (Finale) | Kazakhstan vs Alaska | 2.724.900 / 1.723.337 | Kazakhstan | 58 % (Alaska sieht auf der Karte riesig aus) |
-
-- **Neue Formen** in scripts/build-truesize-data.mjs: Staaten über `stateByName` (California, Florida, Minnesota, Colorado, Utah, Nevada, Montana, Pennsylvania), Länder über `byName` (Turkey, Syria, Romania, Chile [clip Festland ohne Osterinsel], Cambodia, Poland, Norway [clip ca. [4, 57, 32, 72] ohne Svalbard/Jan Mayen]). Skript laufen lassen, truesize.json committen.
-- **Kontrollspalte prüfen** (Lehre Alaska-Landfläche 1,49 Mio.): Wenn die berechnete Formfläche eines Paars den Gewinner umdreht oder <5 % Abstand zeigt (Kandidaten: Florida 17,9 % Wasser, Minnesota, Alaska), Paar durch eine Reserve ersetzen: **Madagascar vs Texas** 587.041/695.662 (Texas 18 %) oder **Utah vs UK** 219.882/243.610 (UK 11 %). NICHT nehmen (zu knapp/Land≠Gesamt): Colorado/New Zealand, Montana/Japan, Alaska/Mongolia, New York/North Korea, Hawaii/Israel.
-- mover = polnahe Seite; Gewinnerseite a/b mischen (nicht immer a). Wiederholungen aus Folge 1: Greenland/Alaska-Paar ist neu, nur Einzelformen wiederholt → Regel „max. 5 Wiederholungen“ eingehalten.
-- Beschreibung: Suchphrasen „true size of US states“, „US states compared to countries“, „mercator projection“, Kapitel automatisch.
-
-Bandit 15.–17.11.: Exploit 6 (World-Geo, Bigger-VS, Karten-Long, Geo/Länder-Themen in allen E16-Slots, USA-Paarung) / Experiment 3 (E15, E16-Layout ×2 Tage) ≈ 67/33.
+Bandit 16.–18.11.: Themen in allen Slots = Exploit (Geo/Länder/Capitals/Tricky, Karten-Long); variiert wird nur das Layout (E16) + E15 → saubere Ein-Variablen-Tests.
 
 ## Ideen-Backlog (nach erwartetem Potenzial)
-1. **E14 Do 19.11. Long (am 17.11. anlegen): „12 Tricky IQ Riddles – Only Geniuses Solve 4 🧠“** – 12 eigene Rätsel als cardText (Zahlenreihen, Uhr-/Wochentag-Logik, Wortlogik), count 20 s, ~7 min, Thumb v2 A "12 TRICKY RIDDLES" + Rätsel „2 · 6 · 12 · 20 · ?“ / B "CAN YOU SOLVE 4?" / C "ONLY 1% SOLVE #12". Evidenz: Quiz World 520k (277×), Quiz Guy 38k/85k, GK Studio 45k. Erfolg ≥50 n. 3 T.
-2. **GTA VI 19.11. (Rockstar/Take-Two bestätigt): „Only Real Fans Get 6/6 🎮 GTA Quiz“ als 3. Short 10:00** außerhalb E16 – reine Textfakten (Vice City ↔ Miami, GTA V 2013, Staat Leonida, Protagonisten Lucia & Jason), keine Spielbilder/Logos/Gewalt; broll neutral ("miami beach palm trees"). Suchspitze der Woche.
-3. **Hunger Games: Sunrise on the Reaping (Kinostart 20.11.)**: „Only Real Fans Get 6/6 🏹 Hunger Games Quiz“ als 3. Short 20.11. 10:00 – nur Buchfakten, keine Filmbilder.
-4. **Short „Name the Country From Its Outline“** (6-Q, Umriss aus truesize.json als Bild) – Chauncey-Muster (airline 767k, album 454k); braucht Code-Hook (q["shape"]) → nach E16-Verdict 25.11.
-5. **Karten-VS #3 Di 24.11. 21:00 „This Map Is Lying To You #3 🇺🇸“** mit den Reserve-Paaren aus Folge 2 – map-lie-1 1.021 (Ø angesehen 81 %).
-6. **Thanksgiving Do 26.11. Long „Thanksgiving Trivia Quiz 🦃 Can You Get 10/15?“** (7-min-Format mit sichtbaren Bildern) – Trends „thanksgiving trivia“ +350 %, Still Sharp 44k bei 337 Abos.
-7. **Math-Rätsel-Long „Can You Pass This Math Quiz? Easy to Impossible“** – CandyQuiz 377k; nach E14-Verdict.
-8. **6-Q-Titeltest „Are You Smarter Than a 5th Grader? 🧠 6 Questions“** – Studio Seven „Smarter Than a 12 Year Old?“ 62,5k (10.11.); nach E16 (sonst 2 Variablen).
-9. **VS „Which US State Has More People?“** – bestes VS-Muster (1.089/1.189) mit US-Bezug, ab 24.11.
-10. **Long „Guess the Word by Emoji – USA Edition“** – Again Quiz 437k, Kids Quizzy 752k; nur wenn Country-Emoji-Long ≥30 n. 3 T (E13-Verdict 21.11.).
+1. **E14 Do 19.11. Long (am 17.11. anlegen): „12 Tricky IQ Riddles – Only Geniuses Solve 4 🧠“** – 12 eigene Rätsel als cardText (Zahlenreihen, Uhr-/Wochentag-Logik, Wortlogik), count 20 s, ~7 min, Thumb v2 A "12 TRICKY RIDDLES" + Rätsel „2 · 6 · 12 · 20 · ?“ / B "CAN YOU SOLVE 4?" / C "ONLY 1% SOLVE #12". Evidenz: Quiz World 520k (277×), Quiz Guy 38k/85k, QuizNova-Hürde 16×. Erfolg ≥50 n. 3 T.
+2. **GTA VI (Release 19.11., Take-Two bestätigt): „Only Real Fans Get 6/6 🎮 GTA Quiz“ als 3. Short 19.11. 10:00** außerhalb E16 – Textfakten (Vice City ↔ Miami, GTA V 2013, Staat Leonida, Lucia & Jason), keine Spielbilder/Logos/Gewalt; broll neutral ("miami beach palm trees"). Suchspitze der Woche.
+3. **Short „Name the Country From Its Outline“** (6-Q, Umriss aus truesize.json) – Chauncey-Muster (airline 784k, album 508k); braucht Code-Hook q["shape"] → nach E16-Verdict 25.11.
+4. **Karten-VS #3 Di 24.11. 21:00 „This Map Is Lying To You #3 🇺🇸“** – map-lie-1 1.023 (Ø angesehen 81 %), map-lie-2 341 nach 0,6 T; Reserve-Paare aus Folge 2.
+5. **Hunger Games: Sunrise on the Reaping (Kinostart 20.11.)**: „Only Real Fans Get 6/6 🏹 Hunger Games Quiz“ als 3. Short 20.11. 10:00 – nur Buchfakten, keine Filmbilder (Movie-6-Q 409 ✗ → nur wegen Suchspitze, nicht als Dauer-Thema).
+6. **Thanksgiving Do 26.11. Long „Thanksgiving Trivia Quiz 🦃 Can You Get 10/15?“** (7-min-Format) – Trends „thanksgiving trivia“ +350 %, Still Sharp 44k bei 337 Abos; 25.11. 21:00 gepaartes 6-Q.
+7. **6-Q-Titeltest „Are You Smarter Than a 5th Grader? 🧠“** – Studio Seven 64,6k (9×, 10.11.); nach E16.
+8. **VS „Which US State Has More People?“** – bestes VS-Muster (1.090/1.189) mit US-Publikum (US = 75 % unserer Views), ab 24.11. (kein VS in E16-Woche).
+9. **Math-Rätsel-Long „Can You Pass This Math Quiz? Easy to Impossible“** – CandyQuiz 377k; nach E14-Verdict.
+10. **Long „Guess the Word by Emoji – USA Edition“** – Again Quiz 437k, Kids Quizzy 752k; nur wenn Country-Emoji-Long ≥30 n. 3 T (E13-Verdict 21.11.; Movie-Emoji 18 ✗ spricht dagegen).
 
-Gestrichen: Weltraum, Wissenschaft, Wortschatz, Bauwerkshöhen, Gewicht-/Kälte-/Alter-VS, Flaggen-6-Q (303 ✗), Jahrestage im 16:00-Slot, Krieg/Sprengstoff, Halloween, Alters-Titel, 50-Fragen-Text-Longs, „Round 2“-Titel bei 6-Q.
+Gestrichen: Weltraum, Wissenschaft, Wortschatz, Bauwerkshöhen, Gewicht-/Kälte-/Alter-VS (older 191 ✗), Flaggen-6-Q, **Film-6-Q als Dauer-Thema (409 ✗)**, Jahrestage im 16:00-Slot, Krieg/Sprengstoff, Halloween, Alters-Titel, 50-Fragen-Text-Longs, „Round 2“-Titel bei 6-Q.
 
 ## Für den Produktions-Agenten (gilt heute, überschreibt ältere Defaults)
-- **Heute produzieren (So, kein Long-Tag):** six-q-genius-world-geo 16:00, vs-countries-bigger-2 21:00 (beide in Queue).
-- **Für 17.11. anlegen (Di = Long-Tag, E16 Tag 2, ungerader Tag → pop = 21:00):**
-  - `2026-11-17-map-true-size-us-20-2.json` (format "long", publishAt "14:00", story.type "truesize", Muster queue/done/2026-11-10-map-true-size-20-1.json; 20 Runden aus der Liste oben, `story.thumbText` "ALASKA IS A LIE", Musik world-trip). Vorher neue Formen bauen + Kontrollspalte prüfen (s. o.).
-  - `2026-11-17-six-q-genius-geography.json` (publishAt "16:00", `layout: "atlas"`, game-show, count 2.5/tail 0.8, `broll` je Frage, E15).
-  - `2026-11-17-six-q-genius-usa-pop.json` (publishAt "21:00", `layout: "pop"`, game-show, count 2.5/tail 0.8, `broll` + `cardText` je Frage, kein `cardColors`, E15). Antwortpositionen mischen (Optionen im Plan haben die richtige Antwort oft an Index 1/2 und im Finale an 3 → so umsortieren, dass alle 4 Positionen vorkommen).
-- **Vor dem Anlegen:** frischen Analytics-Snapshot ziehen; 24-h-Werte six-q-genius-animals, map-lie-2, country-emoji-30-1 und ≥3-T-Werte europe/people-R3/movies/older in experiments.md eintragen.
-- **Keine VS-Shorts 16.–22.11.** (außer Karten-Long), kein VS mit pop, keine Longs Mo/Mi/Fr/So. Weiter verboten: Weltraum, Halloween, Politik, Krieg/Waffen, 💥, Alters-Titel.
+- **Heute produzieren (Mo, kein Long-Tag):** six-q-genius-country-pop 16:00 (erstes pop – Render prüfen, s. TECHNIK), six-q-genius-landmarks 21:00.
+- **Für 18.11. anlegen (Mi, kein Long, E16 Tag 3, gerader Tag → pop = 16:00):**
+  - `2026-11-18-six-q-genius-capitals-pop.json` (publishAt "16:00", `layout: "pop"`, game-show, count 2.5/tail 0.8, `broll` + `cardText` je Frage, kein `cardColors`, E15 „Tokyo!“). Muster: queue/2026-11-17-six-q-genius-usa-pop.json.
+  - `2026-11-18-six-q-genius-tricky-2.json` (publishAt "21:00", `layout: "atlas"`, game-show, count 2.5/tail 0.8, `broll` je Frage, E15 „1,440!“). Titel OHNE „2“/„Round 2“: "Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz #shorts" – falls YouTube-Titel-Duplikat stört: "Only Geniuses Get 6/6 🧠 Tricky Quiz #shorts".
+  - Fragen + Antwortindizes exakt wie in der Tabelle (Positionen schon gemischt). Fakten-Zeilen kurz halten (z. B. Hai: „Zero! Sharks are made of cartilage.“; Huhn: „Chicken! Over 25 billion of them.“; Thor: „Thor! Thor's day.“; Brasília: „Brasília! Not Rio.“; Abuja: „Abuja! Not Lagos.“).
+- **Vorschau 19.11. (Do, Long-Tag, ungerader Tag → pop = 21:00) – morgen anlegen, Research bestätigt morgen:** E14 Rätsel-Long 14:00 (Backlog #1, tvshow v2), atlas-6-Q 16:00 + pop-6-Q 21:00 (Arme tauschen: Allgemeinwissen-Klasse in pop, Geo in atlas), GTA-6-Q als 3. Short 10:00 außerhalb E16 (Backlog #2).
+- **Vor dem Anlegen:** frischen Analytics-Snapshot ziehen; in experiments.md 24-h-Werte world-geo/bigger-2 und ≥3-T-Werte europe/people-R3/animals/map-lie-2 nachtragen (Verdicts older/movies/movie-emoji hat Research heute eingetragen).
+- Weiter verboten: VS-Shorts 16.–22.11. (außer Karten-Long), VS mit pop, Longs Mo/Mi/Fr/So, Weltraum, Halloween, Politik, Krieg/Waffen, 💥, Alters-Titel.
