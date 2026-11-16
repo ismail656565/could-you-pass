@@ -1,0 +1,128 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "Landmarks Quiz",
+ "header": "LANDMARKS QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "In which city is the **Sagrada Família**?",
+   "answers": [
+    "Madrid",
+    "Barcelona",
+    "Lisbon",
+    "Rome"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "broll": "church construction crane",
+   "start": 0.0,
+   "keywordAt": 1.153,
+   "countdownStart": 2.271,
+   "reveal": 4.771,
+   "end": 6.596,
+   "video": "broll/six-q-genius-landmarks-0.mp4"
+  },
+  {
+   "q": "In which country is **Stonehenge**?",
+   "answers": [
+    "Ireland",
+    "Scotland",
+    "England",
+    "France"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "broll": "ancient stones field",
+   "start": 6.596,
+   "keywordAt": 7.687,
+   "countdownStart": 8.543,
+   "reveal": 11.043,
+   "end": 14.318,
+   "video": "broll/six-q-genius-landmarks-1.mp4"
+  },
+  {
+   "q": "How many faces are carved into **Mount Rushmore**?",
+   "answers": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "broll": "mountain granite cliff",
+   "start": 14.318,
+   "keywordAt": 16.286,
+   "countdownStart": 17.245,
+   "reveal": 19.745,
+   "end": 23.751
+  },
+  {
+   "q": "The **Leaning Tower** of Pisa was built as a…?",
+   "answers": [
+    "Bell tower",
+    "Lighthouse",
+    "Watchtower",
+    "Church"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "broll": "italian piazza old town",
+   "start": 23.751,
+   "keywordAt": 24.01,
+   "countdownStart": 26.185,
+   "reveal": 28.685,
+   "end": 33.985,
+   "video": "broll/six-q-genius-landmarks-3.mp4"
+  },
+  {
+   "q": "In which city is the **Acropolis**?",
+   "answers": [
+    "Rome",
+    "Istanbul",
+    "Athens",
+    "Cairo"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "broll": "ancient columns hill",
+   "start": 33.985,
+   "keywordAt": 35.097,
+   "countdownStart": 35.888,
+   "reveal": 38.388,
+   "end": 41.646,
+   "video": "broll/six-q-genius-landmarks-4.mp4"
+  },
+  {
+   "q": "**Neuschwanstein** Castle is in which country?",
+   "answers": [
+    "Austria",
+    "Switzerland",
+    "France",
+    "Germany"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "broll": "castle mountains forest",
+   "start": 41.646,
+   "keywordAt": 42.22,
+   "countdownStart": 44.596,
+   "reveal": 47.096,
+   "end": 54.04
+  }
+ ],
+ "audio": "audio/six-q-genius-landmarks.mp3",
+ "outroStart": 54.04,
+ "durationInSeconds": 54.04
+}

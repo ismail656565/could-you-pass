@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Country Quiz #shorts",
-  "description": "6 country questions, easy to hard 🌍 Did #4 fool you? ☕\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#countryquiz #geographyquiz #geography #quiz #onlygeniuses #shorts\n\nCoffee data: ICO / Statista (Finland ≈ 12 kg per person per year).\nMusic: original.",
+  "description": "6 country questions, easy to hard 🌍 Did #4 fool you? ☕\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#countryquiz #geographyquiz #geography #quiz #onlygeniuses #shorts\n\nCoffee data: ICO / Statista (Finland ≈ 12 kg per person per year).\nFootage via Wikimedia Commons: Tassimo coffee system – Erik Pålsson; (CC BY 3.0); How can we decrease our environmental impact? Part 3-Environmental eng – Graineahumus (CC BY 4.0); Imperial Sand Dunes Recreation Area (28999837086) – blmcalifornia (Public domain)\nMusic: original.",
   "tags": [
    "country quiz",
    "countries quiz",
@@ -48,7 +48,12 @@
     "correct": 0,
     "level": "EASY",
     "broll": "desert market spices",
-    "cardText": "🕌"
+    "cardText": "🕌",
+    "start": 0.0,
+    "keywordAt": 1.696,
+    "countdownStart": 2.432,
+    "reveal": 4.932,
+    "end": 6.566
    },
    {
     "q": "Which country has the **most people** in South America?",
@@ -61,7 +66,12 @@
     "correct": 1,
     "level": "EASY",
     "broll": "rainforest river aerial",
-    "cardText": "👥"
+    "cardText": "👥",
+    "start": 6.566,
+    "keywordAt": 7.637,
+    "countdownStart": 9.244,
+    "reveal": 11.744,
+    "end": 15.238
    },
    {
     "q": "The old walled city of **Dubrovnik** is in…?",
@@ -74,7 +84,12 @@
     "correct": 2,
     "level": "MEDIUM",
     "broll": "old town city walls sea",
-    "cardText": "🏰🌊"
+    "cardText": "🏰🌊",
+    "start": 15.238,
+    "keywordAt": 16.373,
+    "countdownStart": 18.05,
+    "reveal": 20.55,
+    "end": 24.948
    },
    {
     "q": "Which country drinks the most **coffee** per person?",
@@ -87,7 +102,13 @@
     "correct": 3,
     "level": "HARD",
     "broll": "coffee cups cafe",
-    "cardText": "☕"
+    "cardText": "☕",
+    "start": 24.948,
+    "keywordAt": 26.338,
+    "countdownStart": 27.424,
+    "reveal": 29.924,
+    "end": 34.484,
+    "video": "broll/six-q-genius-country-pop-3.mp4"
    },
    {
     "q": "The **Maasai Mara** reserve is in which country?",
@@ -100,7 +121,13 @@
     "correct": 1,
     "level": "HARD",
     "broll": "savanna wildlife",
-    "cardText": "🦁"
+    "cardText": "🦁",
+    "start": 34.484,
+    "keywordAt": 34.755,
+    "countdownStart": 36.96,
+    "reveal": 39.46,
+    "end": 43.791,
+    "video": "broll/six-q-genius-country-pop-4.mp4"
    },
    {
     "q": "Which country has the most **pyramids**?",
@@ -113,9 +140,18 @@
     "correct": 2,
     "level": "HARD",
     "broll": "desert sand dunes",
-    "cardText": "🔺"
+    "cardText": "🔺",
+    "start": 43.791,
+    "keywordAt": 45.626,
+    "countdownStart": 46.353,
+    "reveal": 48.853,
+    "end": 54.936,
+    "video": "broll/six-q-genius-country-pop-5.mp4"
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-country-pop.mp3",
+  "outroStart": 54.936,
+  "durationInSeconds": 54.936
  },
  "lines": [
   {
@@ -142,5 +178,22 @@
    "q": "Last one. Which country has the most pyramids?",
    "a": "Sudan! Over two hundred, about twice as many as Egypt. Six out of six? Go again and prove it!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.0,
+  "truePeak": -3.4,
+  "lra": 5.2,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 140.7,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-16T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "aIjMRxgPEuM",
+  "at": "2026-11-16T06:21"
+ }
 }

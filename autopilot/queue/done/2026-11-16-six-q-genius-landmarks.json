@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Landmarks Quiz #shorts",
-  "description": "6 famous landmark questions, easy to hard 🏰 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#landmarks #landmarksquiz #geographyquiz #travel #quiz #shorts\n\nMusic: original.",
+  "description": "6 famous landmark questions, easy to hard 🏰 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#landmarks #landmarksquiz #geographyquiz #travel #quiz #shorts\n\nFootage via Wikimedia Commons: Coin-de-Terre 4, construction-08 – MHM55 (CC BY-SA 4.0); Grand Canyon Desert View Watchtower Interior B-Roll Video (8057328332) – Grand Canyon NPS (Public domain); Piazza del Popolo (Rome) - overview – User:Mattes (Public domain); Ancient Rome Reborn Through Virtual Reality – Ancient Rome Live (CC BY 3.0)\nMusic: original.",
   "tags": [
    "landmarks quiz",
    "famous landmarks",
@@ -48,7 +48,13 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "broll": "church construction crane"
+    "broll": "church construction crane",
+    "start": 0.0,
+    "keywordAt": 1.153,
+    "countdownStart": 2.271,
+    "reveal": 4.771,
+    "end": 6.596,
+    "video": "broll/six-q-genius-landmarks-0.mp4"
    },
    {
     "q": "In which country is **Stonehenge**?",
@@ -60,7 +66,13 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "broll": "ancient stones field"
+    "broll": "ancient stones field",
+    "start": 6.596,
+    "keywordAt": 7.687,
+    "countdownStart": 8.543,
+    "reveal": 11.043,
+    "end": 14.318,
+    "video": "broll/six-q-genius-landmarks-1.mp4"
    },
    {
     "q": "How many faces are carved into **Mount Rushmore**?",
@@ -72,7 +84,12 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "broll": "mountain granite cliff"
+    "broll": "mountain granite cliff",
+    "start": 14.318,
+    "keywordAt": 16.286,
+    "countdownStart": 17.245,
+    "reveal": 19.745,
+    "end": 23.751
    },
    {
     "q": "The **Leaning Tower** of Pisa was built as a…?",
@@ -84,7 +101,13 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "broll": "italian piazza old town"
+    "broll": "italian piazza old town",
+    "start": 23.751,
+    "keywordAt": 24.01,
+    "countdownStart": 26.185,
+    "reveal": 28.685,
+    "end": 33.985,
+    "video": "broll/six-q-genius-landmarks-3.mp4"
    },
    {
     "q": "In which city is the **Acropolis**?",
@@ -96,7 +119,13 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "broll": "ancient columns hill"
+    "broll": "ancient columns hill",
+    "start": 33.985,
+    "keywordAt": 35.097,
+    "countdownStart": 35.888,
+    "reveal": 38.388,
+    "end": 41.646,
+    "video": "broll/six-q-genius-landmarks-4.mp4"
    },
    {
     "q": "**Neuschwanstein** Castle is in which country?",
@@ -108,9 +137,17 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "broll": "castle mountains forest"
+    "broll": "castle mountains forest",
+    "start": 41.646,
+    "keywordAt": 42.22,
+    "countdownStart": 44.596,
+    "reveal": 47.096,
+    "end": 54.04
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-landmarks.mp3",
+  "outroStart": 54.04,
+  "durationInSeconds": 54.04
  },
  "lines": [
   {
@@ -137,5 +174,22 @@
    "q": "Last one. Neuschwanstein Castle is in which country?",
    "a": "Germany! Up in the Bavarian Alps. It helped inspire Disney's Sleeping Beauty castle. Follow if you got all six!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -19.5,
+  "truePeak": -3.3,
+  "lra": 5.4,
+  "normalized": true,
+  "frozenShare": 0.309,
+  "longestFreezeSec": 3.4,
+  "frame0Luma": 188.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-16T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "R5J0_opBkIk",
+  "at": "2026-11-16T06:25"
+ }
 }

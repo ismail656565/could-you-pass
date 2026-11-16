@@ -1838,3 +1838,41 @@
 [2026-11-15 15:57:51] six-q-genius-world-geo: Kommentar gepostet
 [2026-11-15 15:57:51] vs-countries-bigger-2: noch nicht öffentlich – Kommentar später
 [2026-11-15 20:58:37] vs-countries-bigger-2: Kommentar gepostet
+[2026-11-16 06:16:47] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-16 06:16:47] Analytics gespeichert (92 Videos)
+[2026-11-16 06:16:47] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-16 06:16:47] Thumbnail-Test gk-well-educated-5-15: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-16 06:16:49] Thumbnail-Test gk-well-educated-5-15: jetzt Variante A (Gewinner)
+[2026-11-16 06:16:49] Thumbnail-Test solar-system-quiz-30-1: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-16 06:16:52] Thumbnail-Test solar-system-quiz-30-1: jetzt Variante C
+[2026-11-16 06:16:52] Produziere six-q-genius-country-pop (short)
+[2026-11-16 06:16:52] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-16 06:17:07] Ton fertig: 54.9 s
+[2026-11-16 06:17:08] B-Roll Frage 1 ("desert market spices"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-16 06:17:08] B-Roll Frage 2 ("rainforest river aerial"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-16 06:17:08] B-Roll Frage 3 ("old town city walls sea"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-16 06:17:15] B-Roll Frage 4 ("coffee cups cafe"): Tassimo coffee system.webm
+[2026-11-16 06:17:19] B-Roll Frage 5 ("savanna wildlife"): How can we decrease our environmental impact? Part 3-Environ
+[2026-11-16 06:17:28] B-Roll Frage 6 ("desert sand dunes"): Imperial Sand Dunes Recreation Area (28999837086).webm
+[2026-11-16 06:21:44] Gerendert
+[2026-11-16 06:21:53] QA: -20.0 LUFS, TP -3.4 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 140.7
+[2026-11-16 06:21:56] Hochgeladen: https://youtube.com/watch?v=aIjMRxgPEuM (private)
+[2026-11-16 06:21:57] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-16 06:21:57] Geplant für 16.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-16 06:21:57] Produziere six-q-genius-landmarks (short)
+[2026-11-16 06:21:57] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-16 06:22:11] Ton fertig: 54.0 s
+[2026-11-16 06:22:15] B-Roll Frage 1 ("church construction crane"): Coin-de-Terre 4, construction-08.webm
+[2026-11-16 06:22:21] B-Roll Frage 2 ("ancient stones field"): Grand Canyon Desert View Watchtower Interior B-Roll Video (8
+[2026-11-16 06:22:21] B-Roll Frage 3 ("mountain granite cliff"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-16 06:22:27] B-Roll Frage 4 ("italian piazza old town"): Piazza del Popolo (Rome) - overview.ogv
+[2026-11-16 06:22:36] B-Roll Frage 5 ("ancient columns hill"): Ancient Rome Reborn Through Virtual Reality.webm
+[2026-11-16 06:22:36] B-Roll Frage 6 ("castle mountains forest"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-16 06:25:45] Gerendert
+[2026-11-16 06:25:54] QA: -19.5 LUFS, TP -3.3 dBTP → normalisiert auf −14, Standbild max 3.4 s, Frame0-Luma 188.4
+[2026-11-16 06:25:56] Hochgeladen: https://youtube.com/watch?v=R5J0_opBkIk (private)
+[2026-11-16 06:25:57] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-16 06:25:57] Geplant für 16.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-16 06:25:57] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-16 06:25:57] Heute kein Long-Tag (Di/Do/Sa) – langes Video bleibt in der Warteschlange.
+[2026-11-16 06:26:06] Konkurrenz: 25 Kanäle, 130 Gewinner-Videos
