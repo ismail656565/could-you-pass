@@ -19,8 +19,8 @@
    "trivia games",
    "trivia for seniors",
    "trivia for kids",
-   "trivia music",
    "trivia quiz",
+   "trivia music",
    "trivial pursuit",
    "trivia questions for kids",
    "trivia hard"
@@ -79,9 +79,9 @@
    "science quiz for grade 4",
    "science quiz grade 6",
    "science quiz questions",
+   "science quiz for grade 5",
    "science quiz for grade 3",
    "science quiz for grade 2",
-   "science quiz for grade 5",
    "science quizzes",
    "science quiz 5th grade"
   ],
@@ -100,8 +100,8 @@
   "guess the": [
    "guess the song",
    "guess the logo",
-   "guess the movie",
    "guess the",
+   "guess the movie",
    "guess the country",
    "guess the animal",
    "guess the emoji",
@@ -517,11 +517,6 @@
    "hits": 2
   },
   {
-   "keyword": "guess the movie",
-   "score": 1.8,
-   "hits": 2
-  },
-  {
    "keyword": "memory test for kids",
    "score": 1.8,
    "hits": 2
@@ -593,6 +588,11 @@
   },
   {
    "keyword": "which is bigger ton 618 or phoenix a",
+   "score": 1.7,
+   "hits": 2
+  },
+  {
+   "keyword": "guess the movie",
    "score": 1.7,
    "hits": 2
   },
@@ -722,11 +722,6 @@
    "hits": 2
   },
   {
-   "keyword": "trivia music",
-   "score": 1.5,
-   "hits": 2
-  },
-  {
    "keyword": "general knowledge quiz teens",
    "score": 1.5,
    "hits": 2
@@ -770,6 +765,11 @@
    "keyword": "which is bigger anaconda or python",
    "score": 1.5,
    "hits": 2
+  },
+  {
+   "keyword": "guess the animal",
+   "score": 1.5,
+   "hits": 2
   }
  ],
  "trends": {
@@ -789,23 +789,19 @@
     ],
     [
      "song quiz",
-     "36"
+     "35"
     ],
     [
      "kids quiz",
-     "27"
+     "26"
     ],
     [
      "hero quiz",
-     "26"
+     "25"
     ],
     [
      "quiz questions",
      "23"
-    ],
-    [
-     "math",
-     "19"
     ],
     [
      "quiz football",
@@ -816,7 +812,7 @@
      "19"
     ],
     [
-     "quiz math",
+     "math",
      "19"
     ],
     [
@@ -824,29 +820,33 @@
      "19"
     ],
     [
-     "kpop quiz",
-     "19"
+     "quiz math",
+     "18"
     ],
     [
-     "math quiz",
+     "kpop quiz",
      "18"
+    ],
+    [
+     "dino quiz",
+     "17"
     ],
     [
      "general knowledge quiz",
-     "18"
+     "17"
     ]
    ],
    "rising": [
     [
      "kerala piravi quiz",
-     "+3,950%"
-    ],
-    [
-     "trivia quiz",
-     "+250%"
+     "+3,250%"
     ],
     [
      "trivia",
+     "+250%"
+    ],
+    [
+     "trivia quiz",
      "+250%"
     ],
     [
@@ -866,7 +866,7 @@
      "100"
     ],
     [
-     "quiz trivia",
+     "trivia quiz",
      "99"
     ],
     [
@@ -878,7 +878,7 @@
      "15"
     ],
     [
-     "trivia music",
+     "music trivia",
      "9"
     ],
     [
@@ -902,11 +902,15 @@
      "5"
     ],
     [
+     "trivia general knowledge",
+     "4"
+    ],
+    [
      "halloween trivia",
      "4"
     ],
     [
-     "general knowledge trivia",
+     "trivia halloween",
      "4"
     ],
     [
@@ -915,10 +919,6 @@
     ],
     [
      "disney trivia",
-     "3"
-    ],
-    [
-     "bible trivia",
      "3"
     ]
    ],
@@ -933,27 +933,31 @@
     ],
     [
      "thanksgiving trivia",
-     "+160%"
-    ],
-    [
-     "quiz trivia",
-     "+160%"
+     "+170%"
     ],
     [
      "quiz",
      "+160%"
     ],
     [
-     "trivia movie",
-     "+80%"
+     "trivia quiz",
+     "+140%"
     ],
     [
-     "christmas trivia",
+     "trivia movie",
      "+80%"
     ],
     [
      "pop music trivia",
      "+70%"
+    ],
+    [
+     "christmas trivia",
+     "+70%"
+    ],
+    [
+     "trivia halloween",
+     "+50%"
     ],
     [
      "halloween trivia",
@@ -972,6 +976,10 @@
      "100"
     ],
     [
+     "general knowledge quiz questions",
+     "38"
+    ],
+    [
      "general knowledge questions",
      "37"
     ],
@@ -981,15 +989,15 @@
     ],
     [
      "kids quiz",
-     "29"
-    ],
-    [
-     "general knowledge quiz hard",
-     "25"
+     "28"
     ],
     [
      "general knowledge trivia",
-     "25"
+     "24"
+    ],
+    [
+     "general knowledge quiz hard",
+     "24"
     ],
     [
      "trivia",
@@ -1000,27 +1008,23 @@
      "24"
     ],
     [
-     "quiz for kids general knowledge",
-     "22"
-    ],
-    [
      "quiz for kids",
      "21"
     ],
     [
-     "science quiz",
-     "10"
+     "gk quiz",
+     "13"
     ],
     [
-     "pub quiz",
-     "10"
+     "gk",
+     "13"
     ],
     [
      "general knowledge quiz multiple choice",
      "9"
     ],
     [
-     "music quiz",
+     "general knowledge question",
      "8"
     ],
     [
@@ -1034,24 +1038,16 @@
      "Breakout"
     ],
     [
-     "qui",
-     "Breakout"
-    ],
-    [
-     "general knowledge quiz hard with answers",
-     "+3,350%"
-    ],
-    [
-     "general knowledge quiz philippines",
-     "+90%"
-    ],
-    [
      "british general knowledge quiz",
      "+90%"
     ],
     [
+     "general knowledge quiz philippines",
+     "+80%"
+    ],
+    [
      "riddles",
-     "+50%"
+     "+40%"
     ]
    ]
   },
@@ -1087,18 +1083,18 @@
     ],
     [
      "guess the word",
-     "15"
+     "14"
     ],
     [
      "quiz",
      "12"
     ],
     [
-     "guess the animal",
+     "guess the songs",
      "11"
     ],
     [
-     "guess the songs",
+     "guess the animal",
      "11"
     ],
     [
@@ -1110,22 +1106,22 @@
      "8"
     ],
     [
-     "guess the food",
+     "guess the name",
      "8"
     ],
     [
-     "guess the name",
-     "7"
+     "guess the food",
+     "8"
     ]
    ],
    "rising": [
     [
      "guess the youtuber challenge",
-     "+200%"
+     "+250%"
     ],
     [
      "guess the animal challenge",
-     "+150%"
+     "+160%"
     ],
     [
      "gothamchess guess the elo",
@@ -1133,10 +1129,6 @@
     ],
     [
      "guess the elo",
-     "+60%"
-    ],
-    [
-     "kevin langue",
      "+50%"
     ]
    ]
@@ -1146,19 +1138,11 @@
     [
      "which is bigger earth or moon",
      "100"
-    ],
-    [
-     "which is bigger tiger or lion",
-     "94"
     ]
    ],
    "rising": [
     [
      "which is bigger earth or moon",
-     "Breakout"
-    ],
-    [
-     "which is bigger tiger or lion",
      "Breakout"
     ]
    ]

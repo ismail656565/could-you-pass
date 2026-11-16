@@ -71,14 +71,14 @@ Quelle 2: Google Trends, Suchbereich YouTube, letzte 30 Tage (rising = stark wac
 ## Direkte Vorschläge je Seed
 
 - **quiz**: quiz, quiz game, quizzes, quiz dino, quiz blitz, quiz for kids, quizas si quizas no, quiz game for kids, quiz show, quizas quizas quizas
-- **trivia**: trivia, trivia questions, trivia games, trivia for seniors, trivia for kids, trivia music, trivia quiz, trivial pursuit, trivia questions for kids, trivia hard
+- **trivia**: trivia, trivia questions, trivia games, trivia for seniors, trivia for kids, trivia quiz, trivia music, trivial pursuit, trivia questions for kids, trivia hard
 - **general knowledge quiz**: general knowledge quiz, general knowledge quiz hard, general knowledge quiz for kids, general knowledge quiz chunkz, general knowledge quiz multiple choice, general knowledge quiz cdl, general knowledge quiz beta squad, general knowledge quiz 100 questions, general knowledge quiz not multiple choice, general knowledge quiz reaction
 - **animal quiz**: animal quiz, animal quiz for kids, animal quiz game, animal quizzes for kids, animal quiz hard, animal quiz lose get wet, animal quiz for toddlers, animal quiz blitz, animal quiz sound, animal quiz show
 - **geography quiz**: geography quiz, geography quiz hard, geography quiz for kids, geography quiz asmr, geography quiz challenge, geography quizzes, geography quiz flags, geography quiz fail, geography quiz countries, geography quiz guy
 - **history quiz**: history quiz, history quizzes, history quiz for kids, history quiz questions and answers, history quiz asmr, history quiz hard, history quiz game, history quiz dying light 2, history quiz ww2, history quiz grade 4
-- **science quiz**: science quiz, science quiz for kids, science quiz for grade 4, science quiz grade 6, science quiz questions, science quiz for grade 3, science quiz for grade 2, science quiz for grade 5, science quizzes, science quiz 5th grade
+- **science quiz**: science quiz, science quiz for kids, science quiz for grade 4, science quiz grade 6, science quiz questions, science quiz for grade 5, science quiz for grade 3, science quiz for grade 2, science quizzes, science quiz 5th grade
 - **which is bigger**: which is bigger, which is bigger 1 or 100, which is bigger world cup or super bowl, which is bigger ton 618 or phoenix a, which is bigger lion or tiger, which is bigger anaconda or python, which is bigger kb or mb, which is bigger blue whale or megalodon, which is bigger game, which is bigger china or usa
-- **guess the**: guess the song, guess the logo, guess the movie, guess the, guess the country, guess the animal, guess the emoji, guess the food, guess the restaurant, guess the rapper
+- **guess the**: guess the song, guess the logo, guess the, guess the movie, guess the country, guess the animal, guess the emoji, guess the food, guess the restaurant, guess the rapper
 - **can you pass**: can you pass a driving test roblox, can you pass the jelly, can you pass this katseye challenge, can you pass your driving test roblox, can you pass the us citizenship test, can you pass high school quiz, can you pass the jelly family guy, can you pass this katseye, can you pass, can you pass the salt
 - **memory test**: memory test, memory test game, memory test for kids, memory test challenges, memory test for dementia, memory test asmr, memory tests for seniors, memory test game for adults, memory test brain, memory test for adults
 - **emoji quiz**: emoji quiz, emoji quiz hard, emoji quiz for kids, emoji quiz movie, emoji quiz food, emoji quiz restaurants, emoji quiz disney, emoji quiz countries, emoji quiz singer, emoji quiz animals
@@ -87,13 +87,13 @@ Quelle 2: Google Trends, Suchbereich YouTube, letzte 30 Tage (rising = stark wac
 
 ## Google Trends (YouTube) – rising / top
 
-- **quiz** – rising: kerala piravi quiz (+3,950%), trivia quiz (+250%), trivia (+250%), halloween quiz (+110%), quiz storm (+40%)
-  - top: quiz game (100), trivia quiz (52), trivia (51), song quiz (36), kids quiz (27), hero quiz (26), quiz questions (23), math (19), quiz football (19), quiz music (19), quiz math (19), quiz kpop (19), kpop quiz (19), math quiz (18), general knowledge quiz (18)
-- **trivia** – rising: geography trivia game (Breakout), golden trivia show (Breakout), thanksgiving trivia (+160%), quiz trivia (+160%), quiz (+160%), trivia movie (+80%), christmas trivia (+80%), pop music trivia (+70%), halloween trivia (+50%), halloween trivia for kids (+40%)
-  - top: quiz (100), quiz trivia (99), trivia questions (15), trivia movie (15), trivia music (9), trivia game (8), general trivia (7), kids trivia (6), trivia song (6), trivia challenge (5), halloween trivia (4), general knowledge trivia (4), trivia games (4), disney trivia (3), bible trivia (3)
-- **general knowledge quiz** – rising: general knowledge quiz for kids with answers (Breakout), qui (Breakout), general knowledge quiz hard with answers (+3,350%), general knowledge quiz philippines (+90%), british general knowledge quiz (+90%), riddles (+50%)
-  - top: quiz game (100), general knowledge questions (37), general knowledge quiz kids (29), kids quiz (29), general knowledge quiz hard (25), general knowledge trivia (25), trivia (24), trivia quiz (24), quiz for kids general knowledge (22), quiz for kids (21), science quiz (10), pub quiz (10), general knowledge quiz multiple choice (9), music quiz (8), general knowledge quiz music (8)
-- **guess the** – rising: guess the youtuber challenge (+200%), guess the animal challenge (+150%), gothamchess guess the elo (+70%), guess the elo (+60%), kevin langue (+50%)
-  - top: guess the song (100), guess the country (31), guess the movie (21), guess the logo (21), guess the emoji (19), guess the game (16), guess the player (15), guess the word (15), quiz (12), guess the animal (11), guess the songs (11), guess the flag (8), guess the character (8), guess the food (8), guess the name (7)
-- **which is bigger** – rising: which is bigger earth or moon (Breakout), which is bigger tiger or lion (Breakout)
-  - top: which is bigger earth or moon (100), which is bigger tiger or lion (94)
+- **quiz** – rising: kerala piravi quiz (+3,250%), trivia (+250%), trivia quiz (+250%), halloween quiz (+110%), quiz storm (+40%)
+  - top: quiz game (100), trivia quiz (52), trivia (51), song quiz (35), kids quiz (26), hero quiz (25), quiz questions (23), quiz football (19), quiz music (19), math (19), quiz kpop (19), quiz math (18), kpop quiz (18), dino quiz (17), general knowledge quiz (17)
+- **trivia** – rising: geography trivia game (Breakout), golden trivia show (Breakout), thanksgiving trivia (+170%), quiz (+160%), trivia quiz (+140%), trivia movie (+80%), pop music trivia (+70%), christmas trivia (+70%), trivia halloween (+50%), halloween trivia (+50%), halloween trivia for kids (+40%)
+  - top: quiz (100), trivia quiz (99), trivia questions (15), trivia movie (15), music trivia (9), trivia game (8), general trivia (7), kids trivia (6), trivia song (6), trivia challenge (5), trivia general knowledge (4), halloween trivia (4), trivia halloween (4), trivia games (4), disney trivia (3)
+- **general knowledge quiz** – rising: general knowledge quiz for kids with answers (Breakout), british general knowledge quiz (+90%), general knowledge quiz philippines (+80%), riddles (+40%)
+  - top: quiz game (100), general knowledge quiz questions (38), general knowledge questions (37), general knowledge quiz kids (29), kids quiz (28), general knowledge trivia (24), general knowledge quiz hard (24), trivia (24), trivia quiz (24), quiz for kids (21), gk quiz (13), gk (13), general knowledge quiz multiple choice (9), general knowledge question (8), general knowledge quiz music (8)
+- **guess the** – rising: guess the youtuber challenge (+250%), guess the animal challenge (+160%), gothamchess guess the elo (+70%), guess the elo (+50%)
+  - top: guess the song (100), guess the country (31), guess the movie (21), guess the logo (21), guess the emoji (19), guess the game (16), guess the player (15), guess the word (14), quiz (12), guess the songs (11), guess the animal (11), guess the flag (8), guess the character (8), guess the name (8), guess the food (8)
+- **which is bigger** – rising: which is bigger earth or moon (Breakout)
+  - top: which is bigger earth or moon (100)
