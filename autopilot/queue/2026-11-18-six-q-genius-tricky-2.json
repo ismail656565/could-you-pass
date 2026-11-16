@@ -1,0 +1,141 @@
+{
+ "id": "six-q-genius-tricky-2",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Tricky Quiz #shorts",
+  "description": "6 tricky questions, easy to legend 🧠 Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trivia #quiz #generalknowledge #brainteaser #onlygeniuses #shorts\n\nMusic: original.",
+  "tags": [
+   "tricky quiz",
+   "tricky trivia",
+   "general knowledge quiz",
+   "trivia quiz",
+   "brain teaser",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did #4 surprise you? 🧊 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "atlas",
+  "title": "Tricky Quiz",
+  "header": "TRICKY QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "How many **minutes** are in one day?",
+    "answers": [
+     "1,240",
+     "1,400",
+     "1,440",
+     "2,400"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "broll": "clock time lapse"
+   },
+   {
+    "q": "How many **squares** are on a chessboard?",
+    "answers": [
+     "64",
+     "36",
+     "48",
+     "100"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "broll": "chess game hands"
+   },
+   {
+    "q": "Add up all the **dots** on one die. Total?",
+    "answers": [
+     "18",
+     "21",
+     "24",
+     "36"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "broll": "rolling dice table"
+   },
+   {
+    "q": "What shape is **wombat** poop?",
+    "answers": [
+     "Round balls",
+     "Long logs",
+     "Flat discs",
+     "Cubes"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "australian bush forest"
+   },
+   {
+    "q": "What is the most common **bird** on Earth?",
+    "answers": [
+     "Pigeon",
+     "Chicken",
+     "Sparrow",
+     "Crow"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "broll": "birds flock sky"
+   },
+   {
+    "q": "**Thursday** is named after which god?",
+    "answers": [
+     "Odin",
+     "Zeus",
+     "Mars",
+     "Thor"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "broll": "thunderstorm lightning"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "How many minutes are in one day?",
+   "a": "One thousand four hundred forty!"
+  },
+  {
+   "q": "How many squares are on a chessboard?",
+   "a": "Sixty four! Eight by eight."
+  },
+  {
+   "q": "Add up all the dots on one dice. What's the total?",
+   "a": "Twenty one! And opposite sides always add up to seven."
+  },
+  {
+   "q": "What shape is wombat poop?",
+   "a": "Cubes! The only animal known to do that."
+  },
+  {
+   "q": "What is the most common bird on Earth?",
+   "a": "Chicken! There are billions more chickens than people."
+  },
+  {
+   "q": "Last one. Thursday is named after which god?",
+   "a": "Thor! Literally Thor's day. Follow if you got all six!"
+  }
+ ]
+}

@@ -608,3 +608,12 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Verdicts ✗: older-VS 191 (2,9 T), Movie-6-Q 409 (2,6 T, Ziel 600 → Filme nur noch als Event/Long), Movie-Emoji-Long 18 (2,9 T, Ziel 30); Country-Emoji-Long 13 n. 0,9 T (Movie dort: 4).
 - Konkurrenz unverändert: Rätsel-/IQ-Longs ~7 min (Quiz World 520k = 277×), niedrige Hürde (QuizNova „5 Out Of 25“ 16×) → E14 Do 19.11.; GTA VI 19.11. erneut bestätigt.
 - 18.11. E16 Tag 3: pop „Capitals Quiz“ 16:00 vs. atlas „Tricky Trivia Quiz“ 21:00 (Fragen gegrept, frei); 19.11. Arme tauschen. vidIQ: nur 4 Credits (Tool kostet 5) → kein Aufruf.
+
+## 2026-11-16 (Produktions-Agent, Queue 18.11.)
+- Technik: Läufe 15.11. alle grün (10/10), Soll 15.11. erfüllt (six-q-genius-world-geo 16:00, vs-countries-bigger-2 21:00, So kein Long-Tag; Kommentare 15:57/20:58). Kein Code-Fix nötig. Heute liegen country-pop (erstes pop-Item) + landmarks bereit, 17.11. komplett (Karten-Long Folge 2 + 2 Shorts).
+- Shorts (Snapshot weiter 15.11. 11:33, 23 Abos): map-lie-2 341 n. ≈0,6 T führt; Movie-6-Q 409 (stayed 49,5 %), Flag-6-Q 302 (stayed 58,5 %), Europe 152, People-R3 163, Animals 108 → Delle hält, E16 startet heute.
+- Longs: Karten-Long #1 ≈131–133 (stayed 75,6 %) einziges Long >30; Movie-Emoji 18 (stayed 100 % bei nur 3 gemessenen Views, Ø 5,6 %), Country-Emoji 13 n. 0,9 T.
+- Thumbnails: CTR per API weiter HttpError 400; keine neuen Long-Thumbs (kein Long-Tag 18.11.).
+- **Duplikat-Check muss stories/*.json einschließen:** stories/capitals-1.json hatte schon Japan, Schweiz, Brasilien, Kasachstan, Nigeria; stories/trivia-trap-1.json Hai-Knochen; six-q-genius-tricky Banane=Beere; trap-4-5-food Erdnuss. Plan-Fragen ersetzt → Capitals: Dänemark, Wales, Finnland, #4 Falle Kalifornien=Sacramento (US-Publikum 75 %), Äthiopien, Uzbekistan=Tashkent (Falle Samarkand). Malaysia verworfen (KL/Putrajaya doppeldeutig). Tricky #4: Wombat-Würfelkot statt Hai.
+- Titel: „Tricky Trivia Quiz“ und „Capital Cities Quiz“ schon vergeben → „Tricky Quiz“ / „Capitals Quiz“.
+- vidIQ (Mo): Balance 4 Credits, Reset erst 16.11. 18:29 UTC → heute kein Outlier-/Keyword-Aufruf; nächster Montag 23.11.

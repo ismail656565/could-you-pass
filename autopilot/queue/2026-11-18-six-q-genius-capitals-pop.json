@@ -1,0 +1,147 @@
+{
+ "id": "six-q-genius-capitals-pop",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Capitals Quiz #shorts",
+  "description": "6 capital city questions, easy to legend 🌍 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#capitals #capitalcities #geographyquiz #geography #quiz #shorts\n\nMusic: original.",
+  "tags": [
+   "capitals quiz",
+   "capital cities quiz",
+   "geography quiz",
+   "world capitals",
+   "general knowledge quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did #4 trick you? 🌴 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "pop",
+  "title": "Capitals Quiz",
+  "header": "CAPITALS QUIZ",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "What is the capital of **Denmark**?",
+    "answers": [
+     "Aarhus",
+     "Oslo",
+     "Copenhagen",
+     "Odense"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "broll": "bicycles canal city",
+    "cardText": "🚲"
+   },
+   {
+    "q": "What is the capital of **Wales**?",
+    "answers": [
+     "Cardiff",
+     "Swansea",
+     "Newport",
+     "Bangor"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "broll": "castle green hills",
+    "cardText": "🐉"
+   },
+   {
+    "q": "What is the capital of **Finland**?",
+    "answers": [
+     "Turku",
+     "Helsinki",
+     "Tampere",
+     "Oulu"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "broll": "snowy forest lake",
+    "cardText": "🌲❄️"
+   },
+   {
+    "q": "What is the capital of **California**?",
+    "answers": [
+     "Los Angeles",
+     "San Francisco",
+     "San Diego",
+     "Sacramento"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "palm trees beach sunset",
+    "cardText": "🌴☀️"
+   },
+   {
+    "q": "What is the capital of **Ethiopia**?",
+    "answers": [
+     "Nairobi",
+     "Addis Ababa",
+     "Khartoum",
+     "Asmara"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "broll": "coffee beans roasting",
+    "cardText": "☕"
+   },
+   {
+    "q": "What is the capital of **Uzbekistan**?",
+    "answers": [
+     "Samarkand",
+     "Bukhara",
+     "Tashkent",
+     "Almaty"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "broll": "desert camels caravan",
+    "cardText": "🐫"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "What is the capital of Denmark?",
+   "a": "Copenhagen!"
+  },
+  {
+   "q": "What is the capital of Wales?",
+   "a": "Cardiff! Home of the Welsh rugby team."
+  },
+  {
+   "q": "What is the capital of Finland?",
+   "a": "Helsinki! Nice one."
+  },
+  {
+   "q": "What is the capital of California?",
+   "a": "Sacramento! Not Los Angeles, not San Francisco. That one catches loads of people."
+  },
+  {
+   "q": "What is the capital of Ethiopia?",
+   "a": "Addis Ababa! It means new flower."
+  },
+  {
+   "q": "Last one. What is the capital of Uzbekistan?",
+   "a": "Tashkent! Not Samarkand. Follow if you got all six!"
+  }
+ ]
+}
