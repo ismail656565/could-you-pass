@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (51 Videos)
+## Shorts (52 Videos)
 
 ### Shorts nach Format
 
@@ -12,8 +12,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
 | VS-Vergleich | 10 | 526 | 424 | 1189 | 49.1 | 64.0 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
-| 6+ Fragen | 14 | 669 | 360 | 1551 | 52.9 | 50.1 | 9.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
+| 6+ Fragen | 15 | 637 | 302 | 1551 | 52.9 | 50.1 | 9.0 |
 | 4-Fragen-Trap | 9 | 372 | 251 | 1082 | 58.3 | 78.8 | 1.0 |
 | Wahr/Falsch | 1 | 145 | 145 | 145 | 47.6 | 92.9 | 0 |
 
@@ -49,8 +49,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | SPACE QUIZ | 2 | 230 | 230 | 257 | 53.0 | 76.6 | 0 |
 | WHICH IS OLDER? | 1 | 191 | 191 | 191 | 36.4 | 56.0 | 0 |
 | FOOD QUIZ | 1 | 186 | 186 | 186 | 65.1 | 80.1 | 0 |
+| ANIMAL QUIZ | 2 | 181 | 181 | 183 | 44.1 | 77.1 | 1.0 |
 | QUICK FIRE SCIENCE | 1 | 180 | 180 | 180 | 52.7 | 58.4 | 0 |
-| ANIMAL QUIZ | 1 | 179 | 179 | 179 | 44.1 | 77.1 | 1.0 |
 | EUROPE QUIZ | 1 | 161 | 161 | 161 | 38.1 | 43.2 | 0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
 | VOCABULARY QUIZ | 1 | 148 | 148 | 148 | 38.5 | 39.7 | 0 |
@@ -66,13 +66,13 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 70.6 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.8 | 55.9 | 0 |
-| atlas | 7 | 424 | 195 | 1551 | 43.0 | 52.7 | 5.0 |
+| atlas | 8 | 394 | 193 | 1551 | 43.0 | 52.7 | 5.0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 18 | 651 | 456 | 1551 | 49.7 | 69.5 | 10.0 |
+| game-show.wav | 19 | 626 | 429 | 1551 | 49.7 | 69.5 | 10.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.9 | 3.0 |
 | world-trip.wav | 13 | 449 | 195 | 1189 | 51.8 | 67.8 | 4.0 |
 
@@ -83,7 +83,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
 | 21:00 | 23 | 493 | 327 | 1189 | 52.7 | 67.7 | 6.0 |
-| 16:00 | 22 | 530 | 316 | 1551 | 47.7 | 74.9 | 11.0 |
+| 16:00 | 23 | 515 | 302 | 1551 | 47.7 | 74.9 | 11.0 |
 
 ### Top 8 Shorts
 
@@ -104,7 +104,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 2 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (26 Videos)
+## Lange Videos (27 Videos)
 
 ### Lange Videos nach Format
 
@@ -113,7 +113,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 0 Fragen | 2 | 136 | 136 | 141 | 60.7 | 43.2 | 1.0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 49.3 | 25.8 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
-| 30 Fragen | 4 | 16 | 20 | 21 | 76.7 | 14.5 | 0 |
+| 30 Fragen | 5 | 16 | 18 | 21 | 76.7 | 14.5 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 11 | 5 | 3 | 14 | 68.8 | 50.6 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 66.7 | 43.5 | 0 |
@@ -125,7 +125,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | Halloween | 2 | 117 | 117 | 186 | 55.5 | 24.4 | 0 |
 | IQ-Titel | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
-| Emoji-Raten | 3 | 53 | 18 | 141 | 91.0 | 22.5 | 1.0 |
+| Emoji-Raten | 4 | 44 | 18 | 141 | 91.0 | 22.5 | 1.0 |
 | Can-You-Pass-Test | 1 | 12 | 12 | 12 | 33.3 | 31.6 | 0 |
 | Geografie | 2 | 12 | 12 | 21 | 58.4 | 34.0 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
@@ -142,14 +142,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 2 | 136 | 136 | 141 | 60.7 | 43.2 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
-| tvshow | 16 | 7 | 3 | 21 | 70.0 | 32.7 | 0 |
+| tvshow | 17 | 8 | 3 | 21 | 70.0 | 32.7 | 0 |
 
 ### Lange Videos nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
-| world-trip.wav | 9 | 24 | 12 | 131 | 57.8 | 41.4 | 0 |
+| world-trip.wav | 10 | 23 | 13 | 131 | 57.8 | 41.4 | 0 |
 | game-show.wav | 9 | 28 | 6 | 186 | 76.9 | 37.3 | 1.0 |
 | brain-pulse.wav | 7 | 16 | 3 | 60 | 69.8 | 40.5 | 0 |
 
@@ -158,7 +158,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 22 | 18 | 5 | 131 | 67.7 | 40.7 | 1.0 |
+| 14:00 | 23 | 18 | 6 | 131 | 67.7 | 40.7 | 1.0 |
 | 19:00 | 1 | 3 | 3 | 3 | 100.0 | 11.5 | 0 |
 
 ### Top 8 Lange Videos
