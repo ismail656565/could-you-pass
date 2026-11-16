@@ -2,13 +2,13 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (52 Videos)
+## Shorts (53 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| Karten-VS (TrueSize) | 1 | 1022 | 1022 | 1022 | 53.5 | 81.4 | 0 |
+| Karten-VS (TrueSize) | 2 | 917 | 917 | 1022 | 53.5 | 81.4 | 0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
 | VS-Vergleich | 10 | 526 | 424 | 1189 | 49.1 | 64.0 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
@@ -27,8 +27,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | BRAIN QUIZ | 1 | 1208 | 1208 | 1208 | 44.0 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1189 | 1189 | 1189 | 61.3 | 60.6 | 2.0 |
 | CAPITAL CITIES | 1 | 1068 | 1068 | 1068 | 56.3 | 54.0 | 1.0 |
-| – | 1 | 1022 | 1022 | 1022 | 53.5 | 81.4 | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 996 | 996 | 996 | 49.1 | 45.6 | 2.0 |
+| – | 2 | 917 | 917 | 1022 | 53.5 | 81.4 | 0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 716 | 716 | 716 | 37.4 | 114.3 | 0 |
 | WHICH CAME FIRST? | 2 | 698 | 698 | 1235 | 62.5 | 47.7 | 0 |
@@ -62,7 +62,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| comic | 1 | 1022 | 1022 | 1022 | 53.5 | 81.4 | 0 |
+| comic | 2 | 917 | 917 | 1022 | 53.5 | 81.4 | 0 |
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 70.6 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.8 | 55.9 | 0 |
@@ -73,16 +73,16 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 19 | 626 | 429 | 1551 | 49.7 | 69.5 | 10.0 |
+| world-trip.wav | 14 | 475 | 324 | 1189 | 51.8 | 67.8 | 4.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.9 | 3.0 |
-| world-trip.wav | 13 | 449 | 195 | 1189 | 51.8 | 67.8 | 4.0 |
 
 ### Shorts nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
+| 21:00 | 24 | 507 | 360 | 1189 | 52.7 | 67.7 | 6.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
-| 21:00 | 23 | 493 | 327 | 1189 | 52.7 | 67.7 | 6.0 |
 | 16:00 | 23 | 515 | 302 | 1551 | 47.7 | 74.9 | 11.0 |
 
 ### Top 8 Shorts
