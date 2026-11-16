@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-16T09:51",
+ "fetched": "2026-11-16T12:02",
  "channel": "COULD YOU PASS?",
  "subscribers": "23",
  "audience": {
@@ -189,7 +189,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "145",
+   "publicViews": "146",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 55,
-   "publicViews": "69",
+   "publicViews": "77",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 38,
-   "publicViews": "669",
+   "publicViews": "812",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -261,7 +261,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 50,
-   "publicViews": "170",
+   "publicViews": "183",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
