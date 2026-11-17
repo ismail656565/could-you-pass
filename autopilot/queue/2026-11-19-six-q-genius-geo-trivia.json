@@ -1,0 +1,141 @@
+{
+ "id": "six-q-genius-geo-trivia",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 Geography Trivia #shorts",
+  "description": "6 geography trivia questions, easy to legend 🌍 Did #4 fool you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geographytrivia #geographyquiz #geography #trivia #quiz #shorts\n\nMusic: original.",
+  "tags": [
+   "geography trivia",
+   "geography trivia game",
+   "geography quiz",
+   "world geography",
+   "trivia quiz",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did #4 trick you? 🗺️ How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "layout": "atlas",
+  "title": "Geography Trivia",
+  "header": "GEOGRAPHY TRIVIA",
+  "questions": [
+   {
+    "q": "The **Sahara** Desert is on which continent?",
+    "answers": [
+     "Asia",
+     "Africa",
+     "Australia",
+     "South America"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "broll": "sand dunes"
+   },
+   {
+    "q": "**Table Mountain** towers over which city?",
+    "answers": [
+     "Johannesburg",
+     "Nairobi",
+     "Cape Town",
+     "Durban"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "broll": "coastal city"
+   },
+   {
+    "q": "Wild **Komodo dragons** live in only one country. Which?",
+    "answers": [
+     "Philippines",
+     "Indonesia",
+     "Australia",
+     "Malaysia"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "broll": "tropical island"
+   },
+   {
+    "q": "Which city is furthest **NORTH**?",
+    "answers": [
+     "New York",
+     "Philadelphia",
+     "Washington DC",
+     "Rome"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "city skyline"
+   },
+   {
+    "q": "The **Mekong** reaches the sea in which country?",
+    "answers": [
+     "Vietnam",
+     "Thailand",
+     "Cambodia",
+     "Laos"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "broll": "river boats"
+   },
+   {
+    "q": "Which is the only **sea with no coastline**?",
+    "answers": [
+     "Caspian",
+     "Sargasso",
+     "Coral",
+     "Weddell"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "broll": "seaweed ocean"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "The Sahara Desert is on which continent?",
+   "a": "Africa!"
+  },
+  {
+   "q": "Table Mountain towers over which city?",
+   "a": "Cape Town! Its flat top is about three kilometres wide."
+  },
+  {
+   "q": "Wild Komodo dragons live in only one country. Which one?",
+   "a": "Indonesia! On just a handful of islands."
+  },
+  {
+   "q": "Which of these cities is furthest north? New York, Philadelphia, Washington, or Rome?",
+   "a": "Rome! It's further north than New York. Did that one get you?"
+  },
+  {
+   "q": "The Mekong River reaches the sea in which country?",
+   "a": "Vietnam! Through the huge Mekong Delta."
+  },
+  {
+   "q": "Last one. Which is the only sea in the world with no coastline?",
+   "a": "The Sargasso Sea! It's bordered only by ocean currents. Follow if you got all six!"
+  }
+ ]
+}

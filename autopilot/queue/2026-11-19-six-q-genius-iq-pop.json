@@ -1,0 +1,147 @@
+{
+ "id": "six-q-genius-iq-pop",
+ "publishAt": "21:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Only Geniuses Get 6/6 🧠 IQ Quiz #shorts",
+  "description": "6 quick IQ questions, easy to legend 🧠 Did #6 break your brain?\nComment your score 👇\nWant more? Today's full video has 12 tricky riddles.\n\nFollow for a new quiz every day! 🧠\n\n#iqtest #iqquiz #brainteaser #riddles #quiz #shorts\n\nMusic: original.",
+  "tags": [
+   "iq quiz",
+   "iq test",
+   "brain teaser",
+   "logic puzzle",
+   "tricky questions",
+   "only geniuses",
+   "can you get 6/6",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did the last one get you? 🔤 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "hook": "ONLY GENIUSES GET 6/6 🧠",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "layout": "pop",
+  "title": "IQ Quiz",
+  "header": "IQ QUIZ",
+  "questions": [
+   {
+    "q": "What is **half of a quarter**?",
+    "answers": [
+     "1/2",
+     "1/6",
+     "1/8",
+     "1/16"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "broll": "pizza slices",
+    "cardText": "🍕"
+   },
+   {
+    "q": "How many **seconds** are in 3 minutes?",
+    "answers": [
+     "180",
+     "120",
+     "160",
+     "300"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "broll": "stopwatch",
+    "cardText": "⏱️"
+   },
+   {
+    "q": "What comes next: **1, 3, 6, 10, ?**",
+    "answers": [
+     "14",
+     "15",
+     "16",
+     "12"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "broll": "chalkboard",
+    "cardText": "1·3·6·10·?"
+   },
+   {
+    "q": "A farmer has 17 sheep. **All but 9** run away. How many are left?",
+    "answers": [
+     "8",
+     "17",
+     "0",
+     "9"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "broll": "sheep field",
+    "cardText": "🐑 ×17"
+   },
+   {
+    "q": "You have 3 apples and **take away 2**. How many do YOU have?",
+    "answers": [
+     "1",
+     "2",
+     "3",
+     "0"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "broll": "apple orchard",
+    "cardText": "🍎🍎🍎"
+   },
+   {
+    "q": "Which letter comes next: **O, T, T, F, F, S, S, ?**",
+    "answers": [
+     "S",
+     "N",
+     "T",
+     "E"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "broll": "alphabet blocks",
+    "cardText": "O·T·T·F·F·S·S·?"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "What is half of a quarter?",
+   "a": "One eighth!"
+  },
+  {
+   "q": "How many seconds are in three minutes?",
+   "a": "One hundred and eighty! Sixty times three."
+  },
+  {
+   "q": "What comes next? One, three, six, ten...",
+   "a": "Fifteen! The gap grows by one each time."
+  },
+  {
+   "q": "A farmer has seventeen sheep. All but nine run away. How many are left?",
+   "a": "Nine! All but nine ran away. Sneaky one."
+  },
+  {
+   "q": "There are three apples, and you take away two. How many apples do you have?",
+   "a": "Two! You took them, so they're yours."
+  },
+  {
+   "q": "Last one. Which letter comes next? O, T, T, F, F, S, S...",
+   "a": "E! One, two, three, four, five, six, seven, eight. Follow if you got all six!"
+  }
+ ]
+}

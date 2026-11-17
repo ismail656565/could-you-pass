@@ -1,0 +1,252 @@
+{
+ "id": "iq-riddles-12-1",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 20.0,
+  "tail": 2.0,
+  "tempo": 0.95
+ },
+ "outroLine": "How many did you solve? Comment your score below, did you beat four? Subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Test Your IQ: 12 Tricky Riddles – Can You Solve 4? 🧠",
+  "description": "12 tricky logic riddles in about 7 minutes 🧠 Pause if you need to – can you solve at least 4?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#IQTest #Riddles #BrainTeasers #LogicPuzzles #TestYourIQ #Quiz\n\nAll riddles are original.\nMusic: original.",
+  "tags": [
+   "iq test",
+   "test your iq",
+   "riddles",
+   "tricky riddles",
+   "brain teasers",
+   "logic puzzles",
+   "iq quiz",
+   "riddles with answers",
+   "math riddles"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you solve out of 12? 🧠 Did #12 beat you? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "IQ Riddles",
+  "header": "TEST YOUR IQ",
+  "hook": "CAN YOU SOLVE 4/12? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you solve 4?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 5,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "TEST YOUR **IQ**",
+   "CAN YOU SOLVE **4**?",
+   "ONLY 1% SOLVE **#12**"
+  ],
+  "thumbEmoji": "🧠",
+  "thumbBadge": "12 RIDDLES",
+  "cardColors": [
+   "#5B21B6",
+   "#1E1B4B"
+  ],
+  "questions": [
+   {
+    "q": "What comes next: **2, 6, 12, 20, 30, ?**",
+    "answers": [
+     "36",
+     "40",
+     "42",
+     "48"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "2·6·12·20·30·?"
+   },
+   {
+    "q": "A shirt costs **$20 after a 20% discount**. Original price?",
+    "answers": [
+     "$24",
+     "$25",
+     "$22",
+     "$40"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏷️ $20"
+   },
+   {
+    "q": "A **brick** weighs 1 kg plus half a brick. How heavy is it?",
+    "answers": [
+     "1.5 kg",
+     "1 kg",
+     "3 kg",
+     "2 kg"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🧱"
+   },
+   {
+    "q": "Boy: as many sisters as brothers. Girl: **twice** as many brothers as sisters. Kids?",
+    "answers": [
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "👦👧"
+   },
+   {
+    "q": "What comes next: **3, 9, 27, 81, ?**",
+    "answers": [
+     "162",
+     "243",
+     "216",
+     "324"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "3·9·27·81·?"
+   },
+   {
+    "q": "Lily pads **double daily** and cover a lake on day 48. Half covered on day…?",
+    "answers": [
+     "24",
+     "36",
+     "46",
+     "47"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🪷"
+   },
+   {
+    "q": "Today is Saturday. What day is it **100 days** from now?",
+    "answers": [
+     "Monday",
+     "Sunday",
+     "Tuesday",
+     "Friday"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "📅"
+   },
+   {
+    "q": "**5 people** all shake hands once with each other. How many handshakes?",
+    "answers": [
+     "5",
+     "20",
+     "10",
+     "25"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🤝 ×5"
+   },
+   {
+    "q": "Odd one out: **3, 5, 7, 9, 11**",
+    "answers": [
+     "3",
+     "7",
+     "9",
+     "11"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "3·5·7·9·11"
+   },
+   {
+    "q": "Unscramble **CIFAIPC**. It's the name of a…",
+    "answers": [
+     "City",
+     "Animal",
+     "Country",
+     "Ocean"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "CIFAIPC"
+   },
+   {
+    "q": "Tom > Ann > Ben > Lisa in height. Who is **second shortest**?",
+    "answers": [
+     "Ann",
+     "Ben",
+     "Lisa",
+     "Tom"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "📏"
+   },
+   {
+    "q": "What comes next: **1, 11, 21, 1211, 111221, ?**",
+    "answers": [
+     "1112221",
+     "312211",
+     "122111",
+     "311221"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "111221 → ?"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Twelve tricky riddles, about seven minutes. Can you solve four? Round one, medium. What comes next? Two, six, twelve, twenty, thirty...",
+   "a": "Forty two! The gaps go four, six, eight, ten, so the next one is twelve."
+  },
+  {
+   "q": "A shirt costs twenty dollars after a twenty percent discount. What was the original price?",
+   "a": "Twenty five dollars! Twenty percent off twenty five is five. Most people say twenty four."
+  },
+  {
+   "q": "A brick weighs one kilo plus half a brick. How much does the whole brick weigh?",
+   "a": "Two kilos! If half a brick is one kilo, the whole brick is two. How many so far?"
+  },
+  {
+   "q": "Round two, hard. A boy has as many sisters as brothers. His sister has twice as many brothers as sisters. How many children are in the family?",
+   "a": "Seven! Four boys and three girls. Check it, it works both ways."
+  },
+  {
+   "q": "What comes next? Three, nine, twenty seven, eighty one...",
+   "a": "Two hundred and forty three! Every number is times three."
+  },
+  {
+   "q": "A lily pad patch doubles every day. It covers the whole lake on day forty eight. On which day was the lake half covered?",
+   "a": "Day forty seven! It doubles overnight, so it was half the day before. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Today is Saturday. What day will it be one hundred days from now?",
+   "a": "Monday! Fourteen full weeks is ninety eight days, then two more."
+  },
+  {
+   "q": "Five people meet, and everyone shakes hands with everyone else once. How many handshakes is that?",
+   "a": "Ten! Four plus three plus two plus one. Halfway there, how are you doing?"
+  },
+  {
+   "q": "Final round, legend. Which number is the odd one out? Three, five, seven, nine, eleven.",
+   "a": "Nine! All the others are prime numbers. Nine is three times three."
+  },
+  {
+   "q": "Unscramble these letters: C, I, F, A, I, P, C. It's the name of a what?",
+   "a": "An ocean! It spells Pacific, the biggest ocean on Earth. Three left, stay with me!"
+  },
+  {
+   "q": "Tom is taller than Ann. Ann is taller than Ben. Ben is taller than Lisa. Who is the second shortest?",
+   "a": "Ben! Lisa is the shortest, then Ben."
+  },
+  {
+   "q": "Final question. What comes next? One. One one. Two one. One two one one. One one one two two one...",
+   "a": "Three one two two one one! Read the last one out loud: three ones, two twos, one one. It's called look and say."
+  }
+ ]
+}

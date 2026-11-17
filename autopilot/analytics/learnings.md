@@ -623,3 +623,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Verdicts ✗: Europe-6-Q 161 (≈2,9 T, Ziel 800), People-VS R3 195 (≈2,9 T; R1/R2 1.090/1.189 → Serie ausgereizt). Frühwarnung World-Geo 77 (0,9 T). Erstes pop-Item (country-pop) technisch ok (Standbild 0,0 s).
 - Code-Limit 2 Shorts/Tag → GTA-/Hunger-Games-„3. Short“ gestrichen.
 - 19.11.: E14 Rätsel-Long „Test Your IQ: 12 Tricky Riddles – Can You Solve 4?“ (Clear Think 1,83 Mio = 1.502×, Quiz World 520k = 277×) = 3. und letztes 7-min-Video (4/12 + Presidents 5/15 = 0 Views); E16 Paar 4: atlas „Geography Trivia“ (Trends-Breakout) 16:00 vs. pop „IQ Quiz“ 21:00.
+
+## 2026-11-17 (Produktions-Agent, Queue 19.11.)
+- Technik: Läufe 16.11. alle grün (10/10), Soll 16.11. erfüllt (country-pop 16:00 + landmarks 21:00, Mo kein Long-Tag; Kommentare 15:10/21:09). Erstes pop-Item gerendert (QA ok, Standbild 0,0 s). Kein Code-Fix nötig. 17.11. (Karten-Long US + 2 Shorts) und 18.11. liegen komplett in der Queue.
+- Shorts (Snapshot weiter 16.11. 12:02, 23 Abos): map-lie-2 812 n. ≈1,7 T führt, Bigger-VS-2 146, World-Geo 77 (E15 #1 schwach), Animals 183; E16-Paar 1 dort noch privat → erste pop-Zahlen nach heutigem 08:15-Lauf.
+- Longs: Karten-Long #1 131 (stayed 48,5 %, Ø 34 %) bleibt einziges Long >30; heute Folge 2 (US-Staaten).
+- Thumbnails: CTR per API weiter HttpError 400; E14-Long nutzt v2 mit großem 🧠 (kein thumbPuzzle/Foto).
+- **Duplikat-Check muss auch Inhalt/Struktur von stories/iq-test-1/-2 prüfen:** Plan-Fragen 2·4·8·16, Fibonacci (iq-test-1), „Läufer auf Platz 2“ (iq-test-2 + gk-well-educated), 3 Katzen/3 Mäuse (= Widgets-Rätsel), Uhrzeiger-Winkel (3:15 in iq-test-2) waren schon benutzt → ersetzt durch 1·3·6·10, Äpfel-wegnehmen, O·T·T·F·F·S·S (E), Ziegel 1 kg + halber Ziegel, 5 Personen Handschläge; Odd-one-out auf 3·5·7·9·11 geändert (bei 2·3·5·9·11 wäre auch „2 = einzige gerade“ richtig gewesen).
