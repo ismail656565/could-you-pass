@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-17T06:15 (23 Abos)
+# Scoreboard – Stand 2026-11-17T08:27 (23 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -115,7 +115,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 30 Fragen | 5 | 18 | 21 | 25 | 79.6 | 14.5 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
-| 50 Fragen | 11 | 5 | 3 | 14 | 68.8 | 50.6 | 0 |
+| 50 Fragen | 11 | 5 | 4 | 14 | 68.8 | 50.6 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 66.7 | 43.5 | 0 |
 | 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
@@ -131,7 +131,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 22 | 6 | 60 | 67.8 | 61.0 | 0 |
 | Jahrzehnt | 1 | 4 | 4 | 4 | 50.0 | 100.0 | 0 |
-| Sonstiges | 6 | 27 | 3 | 132 | 70.4 | 23.9 | 0 |
+| Sonstiges | 6 | 27 | 4 | 132 | 70.4 | 23.9 | 0 |
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
 | Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
 | Wahr/Falsch | 1 | 1 | 1 | 1 | 100.0 | 99.8 | 0 |
@@ -142,7 +142,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 2 | 136 | 136 | 141 | 60.7 | 43.2 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
-| tvshow | 17 | 8 | 3 | 25 | 71.5 | 31.5 | 0 |
+| tvshow | 17 | 8 | 4 | 25 | 71.5 | 31.5 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -159,7 +159,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
 | 14:00 | 23 | 18 | 6 | 132 | 68.9 | 39.5 | 1.0 |
-| 19:00 | 1 | 3 | 3 | 3 | 100.0 | 11.5 | 0 |
+| 19:00 | 1 | 4 | 4 | 4 | 100.0 | 11.5 | 0 |
 
 ### Top 8 Lange Videos
 
