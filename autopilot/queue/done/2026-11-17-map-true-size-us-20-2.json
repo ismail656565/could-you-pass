@@ -69,7 +69,15 @@
     "lines": {
      "q": "Round one, easy. California, or Japan?",
      "a": "California! A little bigger than the whole of Japan."
-    }
+    },
+    "start": 6.12,
+    "qAudio": "audio/map-true-size-us-20-2/q1.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a1.mp3",
+    "thinkStart": 8.62,
+    "reveal": 12.02,
+    "moveEnd": 13.72,
+    "aStart": 12.57,
+    "end": 16.32
    },
    {
     "level": "EASY",
@@ -89,7 +97,15 @@
     "lines": {
      "q": "France, or Texas?",
      "a": "Texas! About a quarter bigger than mainland France."
-    }
+    },
+    "start": 16.32,
+    "qAudio": "audio/map-true-size-us-20-2/q2.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a2.mp3",
+    "thinkStart": 17.65,
+    "reveal": 21.05,
+    "moveEnd": 22.75,
+    "aStart": 21.6,
+    "end": 25.35
    },
    {
     "level": "EASY",
@@ -109,7 +125,15 @@
     "lines": {
      "q": "Spain, or California?",
      "a": "Spain! Roughly a fifth bigger than California."
-    }
+    },
+    "start": 25.35,
+    "qAudio": "audio/map-true-size-us-20-2/q3.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a3.mp3",
+    "thinkStart": 26.86,
+    "reveal": 30.26,
+    "moveEnd": 31.96,
+    "aStart": 30.81,
+    "end": 34.56
    },
    {
     "level": "EASY",
@@ -129,7 +153,15 @@
     "lines": {
      "q": "The Congo, or Alaska?",
      "a": "The Congo! Watch Alaska shrink as it slides south."
-    }
+    },
+    "start": 34.56,
+    "qAudio": "audio/map-true-size-us-20-2/q4.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a4.mp3",
+    "thinkStart": 36.04,
+    "reveal": 39.44,
+    "moveEnd": 41.14,
+    "aStart": 39.99,
+    "end": 43.74
    },
    {
     "level": "EASY",
@@ -149,7 +181,15 @@
     "lines": {
      "q": "Texas, or Turkey?",
      "a": "Turkey! Even Texas can't beat it."
-    }
+    },
+    "start": 43.74,
+    "qAudio": "audio/map-true-size-us-20-2/q5.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a5.mp3",
+    "thinkStart": 45.05,
+    "reveal": 48.45,
+    "moveEnd": 50.15,
+    "aStart": 49.0,
+    "end": 52.75
    },
    {
     "level": "MEDIUM",
@@ -169,7 +209,15 @@
     "lines": {
      "q": "Round two, medium. Florida, or Syria?",
      "a": "Syria! Florida is smaller than most people think."
-    }
+    },
+    "start": 52.75,
+    "qAudio": "audio/map-true-size-us-20-2/q6.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a6.mp3",
+    "thinkStart": 55.05,
+    "reveal": 58.45,
+    "moveEnd": 60.15,
+    "aStart": 59.0,
+    "end": 62.75
    },
    {
     "level": "MEDIUM",
@@ -189,7 +237,15 @@
     "lines": {
      "q": "The United Kingdom, or Minnesota?",
      "a": "The U K! But only by about eight percent."
-    }
+    },
+    "start": 62.75,
+    "qAudio": "audio/map-true-size-us-20-2/q7.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a7.mp3",
+    "thinkStart": 64.78,
+    "reveal": 68.18,
+    "moveEnd": 69.88,
+    "aStart": 68.73,
+    "end": 72.48
    },
    {
     "level": "MEDIUM",
@@ -209,7 +265,15 @@
     "lines": {
      "q": "Colorado, or Italy?",
      "a": "Italy! The boot beats the rectangle."
-    }
+    },
+    "start": 72.48,
+    "qAudio": "audio/map-true-size-us-20-2/q8.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a8.mp3",
+    "thinkStart": 73.94,
+    "reveal": 77.34,
+    "moveEnd": 79.04,
+    "aStart": 77.89,
+    "end": 81.64
    },
    {
     "level": "MEDIUM",
@@ -229,7 +293,15 @@
     "lines": {
      "q": "Romania, or Utah?",
      "a": "Romania! Just a little bigger than Utah. How's your score so far?"
-    }
+    },
+    "start": 81.64,
+    "qAudio": "audio/map-true-size-us-20-2/q9.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a9.mp3",
+    "thinkStart": 83.09,
+    "reveal": 86.49,
+    "moveEnd": 88.19,
+    "aStart": 87.04,
+    "end": 91.68
    },
    {
     "level": "MEDIUM",
@@ -249,7 +321,15 @@
     "lines": {
      "q": "Texas, or Chile?",
      "a": "Chile! That long thin strip is bigger than Texas. If you're enjoying this, subscribe for a new quiz every day."
-    }
+    },
+    "start": 91.68,
+    "qAudio": "audio/map-true-size-us-20-2/q10.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a10.mp3",
+    "thinkStart": 92.93,
+    "reveal": 96.33,
+    "moveEnd": 98.03,
+    "aStart": 96.88,
+    "end": 103.84
    },
    {
     "level": "HARD",
@@ -269,7 +349,15 @@
     "lines": {
      "q": "Round three, hard. Poland, or Nevada?",
      "a": "Poland! About nine percent bigger than Nevada."
-    }
+    },
+    "start": 103.84,
+    "qAudio": "audio/map-true-size-us-20-2/q11.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a11.mp3",
+    "thinkStart": 105.92,
+    "reveal": 109.32,
+    "moveEnd": 111.02,
+    "aStart": 109.87,
+    "end": 113.62
    },
    {
     "level": "HARD",
@@ -289,7 +377,15 @@
     "lines": {
      "q": "Cambodia, or Florida?",
      "a": "Cambodia! Slightly bigger than the Sunshine State."
-    }
+    },
+    "start": 113.62,
+    "qAudio": "audio/map-true-size-us-20-2/q12.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a12.mp3",
+    "thinkStart": 115.21,
+    "reveal": 118.61,
+    "moveEnd": 120.31,
+    "aStart": 119.16,
+    "end": 122.91
    },
    {
     "level": "HARD",
@@ -309,7 +405,15 @@
     "lines": {
      "q": "Germany, or Montana?",
      "a": "Montana! Bigger than all of Germany."
-    }
+    },
+    "start": 122.91,
+    "qAudio": "audio/map-true-size-us-20-2/q13.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a13.mp3",
+    "thinkStart": 124.31,
+    "reveal": 127.71,
+    "moveEnd": 129.41,
+    "aStart": 128.26,
+    "end": 132.01
    },
    {
     "level": "HARD",
@@ -329,7 +433,15 @@
     "lines": {
      "q": "Greenland, or Alaska?",
      "a": "Greenland! About a quarter bigger than Alaska. Nice one if you got it."
-    }
+    },
+    "start": 132.01,
+    "qAudio": "audio/map-true-size-us-20-2/q14.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a14.mp3",
+    "thinkStart": 133.47,
+    "reveal": 136.87,
+    "moveEnd": 138.57,
+    "aStart": 137.42,
+    "end": 142.2
    },
    {
     "level": "HARD",
@@ -349,7 +461,15 @@
     "lines": {
      "q": "California, or Sweden?",
      "a": "Sweden! Only six percent bigger, so that one was tough."
-    }
+    },
+    "start": 142.2,
+    "qAudio": "audio/map-true-size-us-20-2/q15.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a15.mp3",
+    "thinkStart": 143.7,
+    "reveal": 147.1,
+    "moveEnd": 148.8,
+    "aStart": 147.65,
+    "end": 151.58
    },
    {
     "level": "LEGEND",
@@ -369,7 +489,15 @@
     "lines": {
      "q": "Final round, legend. Iceland, or Pennsylvania?",
      "a": "Pennsylvania! Iceland only looks huge because it sits so close to the Arctic."
-    }
+    },
+    "start": 151.58,
+    "qAudio": "audio/map-true-size-us-20-2/q16.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a16.mp3",
+    "thinkStart": 154.7,
+    "reveal": 158.1,
+    "moveEnd": 159.8,
+    "aStart": 158.65,
+    "end": 164.12
    },
    {
     "level": "LEGEND",
@@ -389,7 +517,15 @@
     "lines": {
      "q": "Norway, or Montana?",
      "a": "Montana! Mainland Norway is smaller than Big Sky Country."
-    }
+    },
+    "start": 164.12,
+    "qAudio": "audio/map-true-size-us-20-2/q17.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a17.mp3",
+    "thinkStart": 165.51,
+    "reveal": 168.91,
+    "moveEnd": 170.61,
+    "aStart": 169.46,
+    "end": 173.66
    },
    {
     "level": "LEGEND",
@@ -409,7 +545,15 @@
     "lines": {
      "q": "Three left, stay with me! Alaska, or India?",
      "a": "India! Almost twice the size of Alaska."
-    }
+    },
+    "start": 173.66,
+    "qAudio": "audio/map-true-size-us-20-2/q18.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a18.mp3",
+    "thinkStart": 176.18,
+    "reveal": 179.58,
+    "moveEnd": 181.28,
+    "aStart": 180.13,
+    "end": 183.88
    },
    {
     "level": "LEGEND",
@@ -429,7 +573,15 @@
     "lines": {
      "q": "Two left. Cuba, or Pennsylvania?",
      "a": "Pennsylvania! Cuba looks long, but Pennsylvania is bigger."
-    }
+    },
+    "start": 183.88,
+    "qAudio": "audio/map-true-size-us-20-2/q19.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a19.mp3",
+    "thinkStart": 186.01,
+    "reveal": 189.41,
+    "moveEnd": 191.11,
+    "aStart": 189.96,
+    "end": 194.29
    },
    {
     "level": "LEGEND",
@@ -449,12 +601,51 @@
     "lines": {
      "q": "Last one. Kazakhstan, or Alaska?",
      "a": "Kazakhstan! More than one and a half times the size of Alaska."
-    }
+    },
+    "start": 194.29,
+    "qAudio": "audio/map-true-size-us-20-2/q20.mp3",
+    "aAudio": "audio/map-true-size-us-20-2/a20.mp3",
+    "thinkStart": 196.44,
+    "reveal": 199.84,
+    "moveEnd": 201.54,
+    "aStart": 200.39,
+    "end": 204.68
    }
   ],
   "sources": [
    "Areas (total area): U.S. Census Bureau (US states); CIA World Factbook (countries)",
    "Outlines: Natural Earth (public domain); US states: U.S. Census Bureau via us-atlas"
+  ],
+  "id": "map-true-size-us-20-2",
+  "hook": {
+   "audio": "audio/map-true-size-us-20-2/hook.mp3",
+   "start": 0.0,
+   "end": 6.12
+  },
+  "outro": {
+   "start": 204.68,
+   "audio": "audio/map-true-size-us-20-2/outro.mp3"
+  },
+  "durationInSeconds": 216.57
+ },
+ "qa": {
+  "lufs": -19.2,
+  "truePeak": -3.5,
+  "lra": 12.2,
+  "normalized": true,
+  "frozenShare": 0.715,
+  "longestFreezeSec": 11.4,
+  "frame0Luma": 195.8,
+  "warnings": [
+   "Standbild 11.4 s"
   ]
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/map-true-size-us-20-2-A.jpg",
+ "scheduledFor": "2026-11-17T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "80E-pivnS50",
+  "at": "2026-11-17T06:55"
  }
 }

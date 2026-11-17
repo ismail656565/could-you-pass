@@ -1899,3 +1899,54 @@
 [2026-11-16 15:51:01] six-q-genius-landmarks: noch nicht öffentlich – Kommentar später
 [2026-11-16 16:51:02] six-q-genius-landmarks: noch nicht öffentlich – Kommentar später
 [2026-11-16 21:09:12] six-q-genius-landmarks: Kommentar gepostet
+[2026-11-17 06:15:00] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-17 06:15:00] Analytics gespeichert (94 Videos)
+[2026-11-17 06:15:01] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-17 06:15:01] Thumbnail-Test emoji-word-50-1: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-17 06:15:06] Thumbnail-Test emoji-word-50-1: jetzt Variante A (Gewinner)
+[2026-11-17 06:15:06] Thumbnail-Test capital-cities-quiz-30-1: Variante A → {'views': 2, 'ctr': 0.5, 'metric': 'views/day'}
+[2026-11-17 06:15:10] Thumbnail-Test capital-cities-quiz-30-1: jetzt Variante B
+[2026-11-17 06:15:11] Thumbnail-Test flag-quiz-30-1: Variante A → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-17 06:15:13] Thumbnail-Test flag-quiz-30-1: jetzt Variante B
+[2026-11-17 06:15:13] Thumbnail-Test movie-emoji-30-1: Variante A → {'views': 15, 'ctr': 3.75, 'metric': 'views/day'}
+[2026-11-17 06:15:18] Thumbnail-Test movie-emoji-30-1: jetzt Variante B
+[2026-11-17 06:15:18] Produziere six-q-genius-geography (short)
+[2026-11-17 06:15:18] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-17 06:15:35] Ton fertig: 57.3 s
+[2026-11-17 06:15:36] B-Roll Frage 1 ("waterfall mist rainbow"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-17 06:15:36] B-Roll Frage 2 ("eucalyptus forest coast"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-17 06:15:37] B-Roll Frage 3 ("reed boats lake"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-17 06:15:37] B-Roll Frage 4 ("palm trees city lagoon"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-17 06:15:37] B-Roll Frage 5 ("jungle waterfall aerial"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-17 06:15:43] B-Roll Frage 6 ("icy sea ship"): The Silent Service.webm
+[2026-11-17 06:18:45] Gerendert
+[2026-11-17 06:18:53] QA: -19.8 LUFS, TP -3.6 dBTP → normalisiert auf −14, Standbild max 3.0 s, Frame0-Luma 207.7
+[2026-11-17 06:18:55] Hochgeladen: https://youtube.com/watch?v=TGUxdLi7K3o (private)
+[2026-11-17 06:18:56] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-17 06:18:56] Geplant für 17.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-17 06:18:56] Produziere six-q-genius-usa-pop (short)
+[2026-11-17 06:18:56] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-17 06:19:10] Ton fertig: 49.8 s
+[2026-11-17 06:19:15] B-Roll Frage 1 ("red rock canyon river"): Crooked River (23467104578).webm
+[2026-11-17 06:19:20] B-Roll Frage 2 ("desert city night lights"): Nile River and the Delta During the Day and at Night (CIRA 2
+[2026-11-17 06:19:20] B-Roll Frage 3 ("cowboy boots"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-17 06:19:20] B-Roll Frage 4 ("skyscrapers taxi street"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-17 06:19:26] B-Roll Frage 5 ("geyser steam"): Ledge Geyser 2019-07-15 15-02-58.webm
+[2026-11-17 06:19:26] B-Roll Frage 6 ("glacier coast boat"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-17 06:22:51] Gerendert
+[2026-11-17 06:22:59] QA: -20.4 LUFS, TP -3.5 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 111.0
+[2026-11-17 06:23:02] Hochgeladen: https://youtube.com/watch?v=DXEMR7QUVmM (private)
+[2026-11-17 06:23:02] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-17 06:23:02] Geplant für 17.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-17 06:23:02] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-17 06:23:02] Produziere map-true-size-us-20-2 (long)
+[2026-11-17 06:54:33] Gerendert
+[2026-11-17 06:55:05] QA: -19.2 LUFS, TP -3.5 dBTP → normalisiert auf −14, Standbild max 11.4 s, Frame0-Luma 195.8 | WARNUNG: Standbild 11.4 s
+[2026-11-17 06:55:13] Hochgeladen: https://youtube.com/watch?v=80E-pivnS50 (private)
+[2026-11-17 06:55:18] Vorschaubild gesetzt
+[2026-11-17 06:55:18] In Playlist "Map & Geography Quizzes 🌍"
+[2026-11-17 06:55:18] Geplant für 17.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-17 06:55:18] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-17 06:55:19] Short-Beschreibung (six-q-genius-usa-pop) verlinkt auf langes Video 80E-pivnS50
+[2026-11-17 06:55:20] Short-Beschreibung (six-q-genius-geography) verlinkt auf langes Video 80E-pivnS50
+[2026-11-17 06:55:29] Konkurrenz: 25 Kanäle, 130 Gewinner-Videos

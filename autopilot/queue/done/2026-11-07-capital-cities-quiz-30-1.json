@@ -740,9 +740,17 @@
    "B",
    "C"
   ],
-  "current": "A",
-  "since": "2026-11-13",
-  "results": {},
+  "current": "B",
+  "since": "2026-11-17",
+  "results": {
+   "A": {
+    "views": 2,
+    "ctr": 0.5,
+    "metric": "views/day",
+    "from": "2026-11-13",
+    "to": "2026-11-17"
+   }
+  },
   "done": false,
   "design": "v2"
  },

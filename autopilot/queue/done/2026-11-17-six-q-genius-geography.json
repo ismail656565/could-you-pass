@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Geography Quiz #shorts",
-  "description": "6 world geography questions, easy to hard 🌍 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #geographyquiz #worldgeography #travel #quiz #shorts\n\nMusic: original.",
+  "description": "6 world geography questions, easy to hard 🌍 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geography #geographyquiz #worldgeography #travel #quiz #shorts\n\nFootage via Wikimedia Commons: The Silent Service – U.S. Navy (CC BY 3.0)\nMusic: original.",
   "tags": [
    "geography quiz",
    "world geography",
@@ -48,7 +48,12 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "broll": "waterfall mist rainbow"
+    "broll": "waterfall mist rainbow",
+    "start": 0.0,
+    "keywordAt": 0.08,
+    "countdownStart": 3.299,
+    "reveal": 5.799,
+    "end": 7.533
    },
    {
     "q": "The island of **Tasmania** belongs to…?",
@@ -60,7 +65,12 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "broll": "eucalyptus forest coast"
+    "broll": "eucalyptus forest coast",
+    "start": 7.533,
+    "keywordAt": 8.273,
+    "countdownStart": 10.175,
+    "reveal": 12.675,
+    "end": 16.095
    },
    {
     "q": "**Lake Titicaca** lies between Peru and…?",
@@ -72,7 +82,12 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "broll": "reed boats lake"
+    "broll": "reed boats lake",
+    "start": 16.095,
+    "keywordAt": 16.175,
+    "countdownStart": 19.082,
+    "reveal": 21.582,
+    "end": 25.159
    },
    {
     "q": "What is the capital of **Ivory Coast**?",
@@ -84,7 +99,12 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "broll": "palm trees city lagoon"
+    "broll": "palm trees city lagoon",
+    "start": 25.159,
+    "keywordAt": 26.441,
+    "countdownStart": 27.369,
+    "reveal": 29.869,
+    "end": 36.215
    },
    {
     "q": "The **Iguazu Falls** are shared by Argentina and…?",
@@ -96,7 +116,12 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "broll": "jungle waterfall aerial"
+    "broll": "jungle waterfall aerial",
+    "start": 36.215,
+    "keywordAt": 36.5,
+    "countdownStart": 39.625,
+    "reveal": 42.125,
+    "end": 45.518
    },
    {
     "q": "The **Bering Strait** separates Russia from…?",
@@ -108,9 +133,18 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "broll": "icy sea ship"
+    "broll": "icy sea ship",
+    "start": 45.518,
+    "keywordAt": 46.226,
+    "countdownStart": 48.676,
+    "reveal": 51.176,
+    "end": 57.274,
+    "video": "broll/six-q-genius-geography-5.mp4"
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-geography.mp3",
+  "outroStart": 57.274,
+  "durationInSeconds": 57.274
  },
  "lines": [
   {
@@ -137,5 +171,23 @@
    "q": "Last one. The Bering Strait separates Russia from which place?",
    "a": "Alaska! At the narrowest point, it's only about eighty kilometers across. Follow if you got all six!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -19.8,
+  "truePeak": -3.6,
+  "lra": 5.8,
+  "normalized": true,
+  "frozenShare": 0.748,
+  "longestFreezeSec": 3.0,
+  "frame0Luma": 207.7,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-17T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "TGUxdLi7K3o",
+  "at": "2026-11-17T06:18"
+ },
+ "linkedLong": "80E-pivnS50"
 }

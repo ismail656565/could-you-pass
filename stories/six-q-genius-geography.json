@@ -1,0 +1,125 @@
+{
+ "type": "quiz",
+ "layout": "atlas",
+ "title": "Geography Quiz",
+ "header": "GEOGRAPHY QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "**Victoria Falls** lies on Zambia's border with…?",
+   "answers": [
+    "Kenya",
+    "Zimbabwe",
+    "Tanzania",
+    "Angola"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "broll": "waterfall mist rainbow",
+   "start": 0.0,
+   "keywordAt": 0.08,
+   "countdownStart": 3.299,
+   "reveal": 5.799,
+   "end": 7.533
+  },
+  {
+   "q": "The island of **Tasmania** belongs to…?",
+   "answers": [
+    "Australia",
+    "New Zealand",
+    "UK",
+    "Indonesia"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "broll": "eucalyptus forest coast",
+   "start": 7.533,
+   "keywordAt": 8.273,
+   "countdownStart": 10.175,
+   "reveal": 12.675,
+   "end": 16.095
+  },
+  {
+   "q": "**Lake Titicaca** lies between Peru and…?",
+   "answers": [
+    "Chile",
+    "Ecuador",
+    "Brazil",
+    "Bolivia"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "broll": "reed boats lake",
+   "start": 16.095,
+   "keywordAt": 16.175,
+   "countdownStart": 19.082,
+   "reveal": 21.582,
+   "end": 25.159
+  },
+  {
+   "q": "What is the capital of **Ivory Coast**?",
+   "answers": [
+    "Abidjan",
+    "Dakar",
+    "Yamoussoukro",
+    "Accra"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "broll": "palm trees city lagoon",
+   "start": 25.159,
+   "keywordAt": 26.441,
+   "countdownStart": 27.369,
+   "reveal": 29.869,
+   "end": 36.215
+  },
+  {
+   "q": "The **Iguazu Falls** are shared by Argentina and…?",
+   "answers": [
+    "Brazil",
+    "Chile",
+    "Uruguay",
+    "Paraguay"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "broll": "jungle waterfall aerial",
+   "start": 36.215,
+   "keywordAt": 36.5,
+   "countdownStart": 39.625,
+   "reveal": 42.125,
+   "end": 45.518
+  },
+  {
+   "q": "The **Bering Strait** separates Russia from…?",
+   "answers": [
+    "Canada",
+    "Japan",
+    "Alaska",
+    "Greenland"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "broll": "icy sea ship",
+   "start": 45.518,
+   "keywordAt": 46.226,
+   "countdownStart": 48.676,
+   "reveal": 51.176,
+   "end": 57.274,
+   "video": "broll/six-q-genius-geography-5.mp4"
+  }
+ ],
+ "audio": "audio/six-q-genius-geography.mp3",
+ "outroStart": 57.274,
+ "durationInSeconds": 57.274
+}

@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 USA Quiz #shorts",
-  "description": "6 USA questions, easy to hard 🇺🇸 Did #4 catch you out? Full map challenge on the channel.\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#usa #usaquiz #usstates #geographyquiz #quiz #shorts\n\nMusic: original.",
+  "description": "6 USA questions, easy to hard 🇺🇸 Did #4 catch you out? Full map challenge on the channel.\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#usa #usaquiz #usstates #geographyquiz #quiz #shorts\n\nFootage via Wikimedia Commons: Crooked River (23467104578) – BLM Oregon &amp; Washington (Public domain); Nile River and the Delta During the Day and at Night (CIRA 2025-03-23  – JPSS imagery: CSU/CIRA &amp; NOAA/NESDIS (Public domain); Ledge Geyser 2019-07-15 15-02-58 – G. Edward Johnson (CC BY 4.0)\nMusic: original.",
   "tags": [
    "usa quiz",
    "us states quiz",
@@ -49,7 +49,13 @@
     "correct": 1,
     "level": "EASY",
     "broll": "red rock canyon river",
-    "cardText": "🏜️"
+    "cardText": "🏜️",
+    "start": 0.0,
+    "keywordAt": 1.523,
+    "countdownStart": 2.448,
+    "reveal": 4.948,
+    "end": 6.719,
+    "video": "broll/six-q-genius-usa-pop-0.mp4"
    },
    {
     "q": "**Las Vegas** is in which US state?",
@@ -62,7 +68,13 @@
     "correct": 3,
     "level": "EASY",
     "broll": "desert city night lights",
-    "cardText": "🎰"
+    "cardText": "🎰",
+    "start": 6.719,
+    "keywordAt": 6.799,
+    "countdownStart": 8.801,
+    "reveal": 11.301,
+    "end": 14.627,
+    "video": "broll/six-q-genius-usa-pop-1.mp4"
    },
    {
     "q": "What is the capital of **Texas**?",
@@ -75,7 +87,12 @@
     "correct": 0,
     "level": "MEDIUM",
     "broll": "cowboy boots",
-    "cardText": "🤠"
+    "cardText": "🤠",
+    "start": 14.627,
+    "keywordAt": 15.95,
+    "countdownStart": 16.575,
+    "reveal": 19.075,
+    "end": 21.789
    },
    {
     "q": "What is the capital of **New York** State?",
@@ -88,7 +105,12 @@
     "correct": 2,
     "level": "HARD",
     "broll": "skyscrapers taxi street",
-    "cardText": "🗽"
+    "cardText": "🗽",
+    "start": 21.789,
+    "keywordAt": 22.926,
+    "countdownStart": 23.916,
+    "reveal": 26.416,
+    "end": 30.635
    },
    {
     "q": "Most of **Yellowstone** lies in which state?",
@@ -101,7 +123,13 @@
     "correct": 3,
     "level": "HARD",
     "broll": "geyser steam",
-    "cardText": "♨️🦬"
+    "cardText": "♨️🦬",
+    "start": 30.635,
+    "keywordAt": 31.097,
+    "countdownStart": 33.594,
+    "reveal": 36.094,
+    "end": 39.291,
+    "video": "broll/six-q-genius-usa-pop-4.mp4"
    },
    {
     "q": "Which US state has the **longest coastline**?",
@@ -114,9 +142,17 @@
     "correct": 0,
     "level": "HARD",
     "broll": "glacier coast boat",
-    "cardText": "🌊"
+    "cardText": "🌊",
+    "start": 39.291,
+    "keywordAt": 41.005,
+    "countdownStart": 42.197,
+    "reveal": 44.697,
+    "end": 49.789
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-usa-pop.mp3",
+  "outroStart": 49.789,
+  "durationInSeconds": 49.789
  },
  "lines": [
   {
@@ -143,5 +179,23 @@
    "q": "Last one. Which US state has the longest coastline?",
    "a": "Alaska! Longer than all the other states put together. Follow if you got all six!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.4,
+  "truePeak": -3.5,
+  "lra": 5.3,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 111.0,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-17T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "DXEMR7QUVmM",
+  "at": "2026-11-17T06:23"
+ },
+ "linkedLong": "80E-pivnS50"
 }
