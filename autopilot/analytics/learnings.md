@@ -617,3 +617,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **Duplikat-Check muss stories/*.json einschließen:** stories/capitals-1.json hatte schon Japan, Schweiz, Brasilien, Kasachstan, Nigeria; stories/trivia-trap-1.json Hai-Knochen; six-q-genius-tricky Banane=Beere; trap-4-5-food Erdnuss. Plan-Fragen ersetzt → Capitals: Dänemark, Wales, Finnland, #4 Falle Kalifornien=Sacramento (US-Publikum 75 %), Äthiopien, Uzbekistan=Tashkent (Falle Samarkand). Malaysia verworfen (KL/Putrajaya doppeldeutig). Tricky #4: Wombat-Würfelkot statt Hai.
 - Titel: „Tricky Trivia Quiz“ und „Capital Cities Quiz“ schon vergeben → „Tricky Quiz“ / „Capitals Quiz“.
 - vidIQ (Mo): Balance 4 Credits, Reset erst 16.11. 18:29 UTC → heute kein Outlier-/Keyword-Aufruf; nächster Montag 23.11.
+
+## 2026-11-17 – Research
+- Karten-VS bleibt Nr. 1: map-lie-2 812 n. ≈1,7 T (map-lie-1 1.022); übrige Shorts seit 11.11. 77–419 → Karten-VS ab 24.11. fest 2×/Woche.
+- Verdicts ✗: Europe-6-Q 161 (≈2,9 T, Ziel 800), People-VS R3 195 (≈2,9 T; R1/R2 1.090/1.189 → Serie ausgereizt). Frühwarnung World-Geo 77 (0,9 T). Erstes pop-Item (country-pop) technisch ok (Standbild 0,0 s).
+- Code-Limit 2 Shorts/Tag → GTA-/Hunger-Games-„3. Short“ gestrichen.
+- 19.11.: E14 Rätsel-Long „Test Your IQ: 12 Tricky Riddles – Can You Solve 4?“ (Clear Think 1,83 Mio = 1.502×, Quiz World 520k = 277×) = 3. und letztes 7-min-Video (4/12 + Presidents 5/15 = 0 Views); E16 Paar 4: atlas „Geography Trivia“ (Trends-Breakout) 16:00 vs. pop „IQ Quiz“ 21:00.
