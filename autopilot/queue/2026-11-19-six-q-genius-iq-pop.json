@@ -124,24 +124,24 @@
    "a": "One eighth!"
   },
   {
-   "q": "How many seconds are in three minutes?",
-   "a": "One hundred and eighty! Sixty times three."
+   "q": "How many seconds in three minutes?",
+   "a": "One hundred eighty!"
   },
   {
    "q": "What comes next? One, three, six, ten...",
-   "a": "Fifteen! The gap grows by one each time."
+   "a": "Fifteen!"
   },
   {
-   "q": "A farmer has seventeen sheep. All but nine run away. How many are left?",
-   "a": "Nine! All but nine ran away. Sneaky one."
+   "q": "Seventeen sheep. All but nine run away. How many are left?",
+   "a": "Nine! All but nine."
   },
   {
-   "q": "There are three apples, and you take away two. How many apples do you have?",
-   "a": "Two! You took them, so they're yours."
+   "q": "Three apples. You take away two. How many do you have?",
+   "a": "Two! You took them."
   },
   {
-   "q": "Last one. Which letter comes next? O, T, T, F, F, S, S...",
-   "a": "E! One, two, three, four, five, six, seven, eight. Follow if you got all six!"
+   "q": "Last one. What comes next? O, T, T, F, F, S, S...",
+   "a": "E, for eight! Follow if you got all six!"
   }
  ]
 }

@@ -119,23 +119,23 @@
   },
   {
    "q": "How many squares are on a chessboard?",
-   "a": "Sixty four! Eight by eight."
+   "a": "Sixty four!"
   },
   {
-   "q": "Add up all the dots on one dice. What's the total?",
-   "a": "Twenty one! And opposite sides always add up to seven."
+   "q": "Add up all the dots on one dice.",
+   "a": "Twenty one!"
   },
   {
    "q": "What shape is wombat poop?",
-   "a": "Cubes! The only animal known to do that."
+   "a": "Cubes! Seriously."
   },
   {
-   "q": "What is the most common bird on Earth?",
-   "a": "Chicken! There are billions more chickens than people."
+   "q": "What's the most common bird on Earth?",
+   "a": "The chicken!"
   },
   {
    "q": "Last one. Thursday is named after which god?",
-   "a": "Thor! Literally Thor's day. Follow if you got all six!"
+   "a": "Thor! Follow if you got all six!"
   }
  ]
 }

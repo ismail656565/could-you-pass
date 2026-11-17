@@ -119,23 +119,23 @@
   },
   {
    "q": "Table Mountain towers over which city?",
-   "a": "Cape Town! Its flat top is about three kilometres wide."
+   "a": "Cape Town!"
   },
   {
-   "q": "Wild Komodo dragons live in only one country. Which one?",
-   "a": "Indonesia! On just a handful of islands."
+   "q": "Wild Komodo dragons live in only one country. Which?",
+   "a": "Indonesia!"
   },
   {
-   "q": "Which of these cities is furthest north? New York, Philadelphia, Washington, or Rome?",
-   "a": "Rome! It's further north than New York. Did that one get you?"
+   "q": "Which city is furthest north?",
+   "a": "Rome! Further north than New York."
   },
   {
-   "q": "The Mekong River reaches the sea in which country?",
-   "a": "Vietnam! Through the huge Mekong Delta."
+   "q": "Where does the Mekong reach the sea?",
+   "a": "Vietnam!"
   },
   {
-   "q": "Last one. Which is the only sea in the world with no coastline?",
-   "a": "The Sargasso Sea! It's bordered only by ocean currents. Follow if you got all six!"
+   "q": "Last one. Which sea has no coastline?",
+   "a": "The Sargasso Sea! Follow if you got all six!"
   }
  ]
 }

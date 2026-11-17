@@ -124,24 +124,24 @@
    "a": "Copenhagen!"
   },
   {
-   "q": "What is the capital of Wales?",
-   "a": "Cardiff! Home of the Welsh rugby team."
+   "q": "Capital of Wales?",
+   "a": "Cardiff!"
   },
   {
-   "q": "What is the capital of Finland?",
-   "a": "Helsinki! Nice one."
+   "q": "Capital of Finland?",
+   "a": "Helsinki!"
   },
   {
-   "q": "What is the capital of California?",
-   "a": "Sacramento! Not Los Angeles, not San Francisco. That one catches loads of people."
+   "q": "Capital of California?",
+   "a": "Sacramento! Not L A."
   },
   {
-   "q": "What is the capital of Ethiopia?",
-   "a": "Addis Ababa! It means new flower."
+   "q": "Capital of Ethiopia?",
+   "a": "Addis Ababa!"
   },
   {
-   "q": "Last one. What is the capital of Uzbekistan?",
-   "a": "Tashkent! Not Samarkand. Follow if you got all six!"
+   "q": "Last one. Capital of Uzbekistan?",
+   "a": "Tashkent! Follow if you got all six!"
   }
  ]
 }

@@ -630,3 +630,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Karten-Long #1 131 (stayed 48,5 %, Ø 34 %) bleibt einziges Long >30; heute Folge 2 (US-Staaten).
 - Thumbnails: CTR per API weiter HttpError 400; E14-Long nutzt v2 mit großem 🧠 (kein thumbPuzzle/Foto).
 - **Duplikat-Check muss auch Inhalt/Struktur von stories/iq-test-1/-2 prüfen:** Plan-Fragen 2·4·8·16, Fibonacci (iq-test-1), „Läufer auf Platz 2“ (iq-test-2 + gk-well-educated), 3 Katzen/3 Mäuse (= Widgets-Rätsel), Uhrzeiger-Winkel (3:15 in iq-test-2) waren schon benutzt → ersetzt durch 1·3·6·10, Äpfel-wegnehmen, O·T·T·F·F·S·S (E), Ziegel 1 kg + halber Ziegel, 5 Personen Handschläge; Odd-one-out auf 3·5·7·9·11 geändert (bei 2·3·5·9·11 wäre auch „2 = einzige gerade“ richtig gewesen).
+
+## 2026-11-17 abends – STRATEGIE (Besitzer: „Die Videos bekommen keine Views mehr“) – GILT AB SOFORT
+- Befund (report.json 17.11. 11:45): Technik ok (alle public, nicht „for kids“, ~90 % Traffic aus dem Shorts-Feed). Shorts-Median 01.–10.11. 411 → 11.–16.11. 175 (Summe 11.582 → 2.964). Landmarks 17 Views n. ~1 T.
+- Hauptursache, die wir selbst gemacht haben: **Shorts wurden länger.** 6-Q-Gewinner Capitals 71 Wörter/44 s → 1.068, Tricky 89/48 s → 1.552; seit 11.11. 104–119 Wörter/54–58 s → 104–421. Shorts ≤45 s Median 429 vs. >45 s Median 247 (41 Shorts 25.10.–14.11.). Einziger stabiler Short = Karten-VS (38 s, Ø angesehen 77–81 %).
+- Zweite Ursache: täglich zweimal derselbe Titel „Only Geniuses Get 6/6 🧠 … Quiz“ → Feed-Ermüdung.
+- **Regel ab sofort:** jedes Short ≤ 80 gesprochene Wörter (Ziel ≤ 45 s). Antwortzeilen = nur Antwort (+ max. 4 Wörter), kein Fakt; Fragen gesprochen so kurz wie möglich. Offene Shorts 18./19.11. gekürzt (39–76 Wörter).
