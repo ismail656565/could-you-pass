@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-17T08:27 (23 Abos)
+# Scoreboard – Stand 2026-11-17T11:45 (23 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -34,7 +34,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHICH CAME FIRST? | 2 | 698 | 698 | 1235 | 62.5 | 47.7 | 0 |
 | WHICH HAS MORE PEOPLE? | 2 | 642 | 642 | 1090 | 48.4 | 72.5 | 2.0 |
 | WHICH IS FASTER? | 1 | 558 | 558 | 558 | 49.8 | 66.2 | 0 |
-| WHICH IS BIGGER? | 2 | 524 | 524 | 878 | 52.8 | 66.2 | 1.0 |
+| WHICH IS BIGGER? | 2 | 524 | 524 | 879 | 52.8 | 66.2 | 1.0 |
 | GENERAL KNOWLEDGE | 4 | 573 | 469 | 1161 | 36.7 | 155.5 | 0 |
 | QUICK QUIZ | 2 | 456 | 456 | 484 | 41.9 | 89.8 | 1.0 |
 | WHICH IS TALLER? | 1 | 454 | 454 | 454 | 59.3 | 55.9 | 0 |
@@ -47,11 +47,11 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | TRIVIA | 6 | 472 | 289 | 1082 | 52.7 | 59.6 | 0 |
 | BERLIN WALL QUIZ | 1 | 236 | 236 | 236 | 60.6 | 47.5 | 0 |
 | SPACE QUIZ | 2 | 230 | 230 | 257 | 53.1 | 76.8 | 0 |
-| WHICH IS OLDER? | 1 | 191 | 191 | 191 | 36.6 | 56.7 | 0 |
+| WHICH IS OLDER? | 1 | 190 | 190 | 190 | 36.6 | 56.7 | 0 |
 | ANIMAL QUIZ | 2 | 187 | 187 | 195 | 45.5 | 61.9 | 1.0 |
 | FOOD QUIZ | 1 | 186 | 186 | 186 | 65.1 | 80.1 | 0 |
 | QUICK FIRE SCIENCE | 1 | 180 | 180 | 180 | 52.7 | 58.4 | 0 |
-| EUROPE QUIZ | 1 | 161 | 161 | 161 | 43.6 | 40.9 | 0 |
+| EUROPE QUIZ | 1 | 160 | 160 | 160 | 43.6 | 40.9 | 0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
 | VOCABULARY QUIZ | 1 | 148 | 148 | 148 | 38.5 | 39.7 | 0 |
 | WHICH IS COLDER? | 1 | 148 | 148 | 148 | 36.7 | 57.0 | 0 |
@@ -66,7 +66,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 70.7 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.8 | 56.2 | 0 |
-| atlas | 8 | 396 | 195 | 1552 | 45.0 | 51.4 | 5.0 |
+| atlas | 8 | 395 | 194 | 1552 | 45.0 | 51.4 | 5.0 |
 
 ### Shorts nach Musik
 

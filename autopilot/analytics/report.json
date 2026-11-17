@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T08:27",
+ "fetched": "2026-11-17T11:45",
  "channel": "COULD YOU PASS?",
  "subscribers": "23",
  "audience": {
@@ -83,17 +83,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 17456,
-    "engagedViews": 7741
+    "views": 17452,
+    "engagedViews": 7740
    },
    {
     "deviceType": "TABLET",
-    "views": 4568,
-    "engagedViews": 2435
+    "views": 4565,
+    "engagedViews": 2433
    },
    {
     "deviceType": "TV",
-    "views": 1925,
+    "views": 1924,
     "engagedViews": 1502
    },
    {
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 56,
-   "publicViews": "98",
+   "publicViews": "104",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -261,7 +261,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "155",
+   "publicViews": "156",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1918,7 +1918,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 42,
-   "publicViews": "195",
+   "publicViews": "193",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1955,7 +1955,7 @@
     "YT_OTHER_PAGE": 0
    },
    "durationSec": 58,
-   "publicViews": "161",
+   "publicViews": "160",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2029,7 +2029,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 42,
-   "publicViews": "191",
+   "publicViews": "190",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3047,7 +3047,7 @@
    "comments": 1,
    "subscribersGained": 1,
    "durationSec": 40,
-   "publicViews": "878",
+   "publicViews": "879",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
