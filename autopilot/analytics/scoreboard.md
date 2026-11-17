@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (54 Videos)
+## Shorts (55 Videos)
 
 ### Shorts nach Format
 
@@ -10,7 +10,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | Karten-VS (TrueSize) | 2 | 979 | 979 | 1022 | 54.0 | 79.4 | 0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
-| VS-Vergleich | 10 | 526 | 424 | 1189 | 49.7 | 63.9 | 5.0 |
+| VS-Vergleich | 11 | 493 | 393 | 1189 | 49.7 | 63.9 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
 | 6+ Fragen | 16 | 607 | 280 | 1552 | 53.0 | 49.8 | 9.0 |
@@ -34,7 +34,6 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHICH CAME FIRST? | 2 | 698 | 698 | 1235 | 62.5 | 47.7 | 0 |
 | WHICH HAS MORE PEOPLE? | 2 | 642 | 642 | 1090 | 48.4 | 72.5 | 2.0 |
 | WHICH IS FASTER? | 1 | 558 | 558 | 558 | 49.8 | 66.2 | 0 |
-| WHICH IS BIGGER? | 2 | 524 | 524 | 879 | 52.8 | 66.2 | 1.0 |
 | GENERAL KNOWLEDGE | 4 | 573 | 469 | 1161 | 36.7 | 155.5 | 0 |
 | QUICK QUIZ | 2 | 456 | 456 | 484 | 41.9 | 89.8 | 1.0 |
 | WHICH IS TALLER? | 1 | 454 | 454 | 454 | 59.3 | 55.9 | 0 |
@@ -51,6 +50,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | ANIMAL QUIZ | 2 | 187 | 187 | 195 | 45.5 | 61.9 | 1.0 |
 | FOOD QUIZ | 1 | 186 | 186 | 186 | 65.1 | 80.1 | 0 |
 | QUICK FIRE SCIENCE | 1 | 180 | 180 | 180 | 52.7 | 58.4 | 0 |
+| WHICH IS BIGGER? | 3 | 401 | 169 | 879 | 52.8 | 66.2 | 1.0 |
 | EUROPE QUIZ | 1 | 160 | 160 | 160 | 43.6 | 40.9 | 0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
 | VOCABULARY QUIZ | 1 | 148 | 148 | 148 | 38.5 | 39.7 | 0 |
@@ -67,23 +67,23 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 70.7 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.8 | 56.2 | 0 |
-| atlas | 9 | 367 | 193 | 1552 | 45.0 | 51.4 | 5.0 |
+| atlas | 10 | 346 | 192 | 1552 | 45.0 | 51.4 | 5.0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | game-show.wav | 20 | 603 | 425 | 1552 | 49.9 | 68.2 | 10.0 |
-| world-trip.wav | 14 | 484 | 324 | 1189 | 52.4 | 68.4 | 4.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.9 | 3.0 |
+| world-trip.wav | 15 | 462 | 193 | 1189 | 52.4 | 68.4 | 4.0 |
 
 ### Shorts nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
-| 21:00 | 24 | 512 | 360 | 1189 | 53.1 | 68.0 | 6.0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
+| 21:00 | 25 | 498 | 327 | 1189 | 53.1 | 68.0 | 6.0 |
 | 16:00 | 24 | 500 | 280 | 1552 | 47.9 | 73.6 | 11.0 |
 
 ### Top 8 Shorts
