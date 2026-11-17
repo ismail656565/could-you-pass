@@ -1,0 +1,124 @@
+{
+ "id": "map-lie-3",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "This Map Is Lying To You #3 🌍 Which Is REALLY Bigger? #shorts",
+  "description": "Flat maps stretch everything near the poles. Watch each country slide to its real size 🌍 Did Germany vs Finland get you?\nComment your score out of 4 👇\n\nFollow for a new quiz every day! 🧠\n\n#map #geography #truesize #whichisbigger #quiz #shorts\n\nData: CIA World Factbook (Greenland 2,166,086 km²; Brazil 8,515,770; Norway 323,802; Japan 377,915; Kazakhstan 2,724,900; Finland 338,145; Germany 357,022).\nOutlines: Natural Earth (public domain). The shapes are moved on the globe and re-projected (Mercator) – no resizing by hand.\nMusic: original.",
+  "tags": [
+   "true size of countries",
+   "mercator map",
+   "which is bigger",
+   "map quiz",
+   "geography quiz",
+   "greenland",
+   "map lies",
+   "comparison quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Finland vs Germany – did the map fool you? 🌍 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "map-lie-3",
+  "type": "truesize",
+  "title": "This Map Is Lying To You #3",
+  "kicker": "MAP TEST #3",
+  "hookText": [
+   "THIS MAP",
+   "IS LYING",
+   "AGAIN"
+  ],
+  "hookLine": "This map is lying to you again. Which is really bigger?",
+  "question": "Which is really bigger?",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "greenland",
+     "name": "Greenland",
+     "km2": 2166086
+    },
+    "b": {
+     "shape": "brazil",
+     "name": "Brazil",
+     "km2": 8515770
+    },
+    "mover": "a",
+    "verdict": "4x bigger",
+    "lines": {
+     "q": "Greenland, or Brazil?",
+     "a": "Brazil! About four times bigger."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "norway",
+     "name": "Norway",
+     "km2": 323802
+    },
+    "b": {
+     "shape": "japan",
+     "name": "Japan",
+     "km2": 377915
+    },
+    "mover": "a",
+    "verdict": "17% bigger",
+    "lines": {
+     "q": "Norway, or Japan?",
+     "a": "Japan! Norway just sits further north."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "kazakhstan",
+     "name": "Kazakhstan",
+     "km2": 2724900
+    },
+    "b": {
+     "shape": "greenland",
+     "name": "Greenland",
+     "km2": 2166086
+    },
+    "mover": "b",
+    "verdict": "26% bigger",
+    "lines": {
+     "q": "Kazakhstan, or Greenland?",
+     "a": "Kazakhstan! Greenland shrinks again."
+    },
+    "winner": "a"
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "finland",
+     "name": "Finland",
+     "km2": 338145
+    },
+    "b": {
+     "shape": "germany",
+     "name": "Germany",
+     "km2": 357022
+    },
+    "mover": "a",
+    "verdict": "6% bigger",
+    "lines": {
+     "q": "Last one. Finland, or Germany?",
+     "a": "Germany! Think you got all four? Go again!"
+    },
+    "winner": "b"
+   }
+  ],
+  "sources": [
+   "Areas: CIA World Factbook (Greenland 2,166,086 km²; Brazil 8,515,770; Norway 323,802; Japan 377,915; Kazakhstan 2,724,900; Finland 338,145; Germany 357,022)",
+   "Outlines: Natural Earth (public domain)"
+  ]
+ }
+}
