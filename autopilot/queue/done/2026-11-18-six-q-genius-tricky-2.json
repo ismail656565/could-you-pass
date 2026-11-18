@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Tricky Quiz #shorts",
-  "description": "6 tricky questions, easy to legend 🧠 Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trivia #quiz #generalknowledge #brainteaser #onlygeniuses #shorts\n\nMusic: original.",
+  "description": "6 tricky questions, easy to legend 🧠 Did #4 get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#trivia #quiz #generalknowledge #brainteaser #onlygeniuses #shorts\n\nFootage via Wikimedia Commons: 4'o clock plant or mirabilis jalapa flower blossoming time lapse – Athulvis (CC BY-SA 4.0); Singapore - Singapore Botanic Gardens - Rain Forest Trail - 2022-12-21 – Sjenghai (CC BY-SA 4.0); Graceful Birds in the Sky-Amazing Bird Sound-User FREE Videos – Earthwild TV (CC BY 3.0); Thunderstorm Lightning Ignites Fires in Oregon (CIRA 2026-07-20 - nola – GOES imagery: CSU/CIRA &amp; NOAA (Public domain)\nMusic: original.",
   "tags": [
    "tricky quiz",
    "tricky trivia",
@@ -48,7 +48,13 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "broll": "clock time lapse"
+    "broll": "clock time lapse",
+    "start": 0.0,
+    "keywordAt": 0.465,
+    "countdownStart": 1.75,
+    "reveal": 4.25,
+    "end": 6.994,
+    "video": "broll/six-q-genius-tricky-2-0.mp4"
    },
    {
     "q": "How many **squares** are on a chessboard?",
@@ -60,7 +66,12 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "broll": "chess game hands"
+    "broll": "chess game hands",
+    "start": 6.994,
+    "keywordAt": 7.449,
+    "countdownStart": 8.915,
+    "reveal": 11.415,
+    "end": 13.657
    },
    {
     "q": "Add up all the **dots** on one die. Total?",
@@ -72,7 +83,12 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "broll": "rolling dice table"
+    "broll": "rolling dice table",
+    "start": 13.657,
+    "keywordAt": 14.484,
+    "countdownStart": 15.631,
+    "reveal": 18.131,
+    "end": 19.929
    },
    {
     "q": "What shape is **wombat** poop?",
@@ -84,7 +100,13 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "broll": "australian bush forest"
+    "broll": "australian bush forest",
+    "start": 19.929,
+    "keywordAt": 20.725,
+    "countdownStart": 21.639,
+    "reveal": 24.139,
+    "end": 26.213,
+    "video": "broll/six-q-genius-tricky-2-3.mp4"
    },
    {
     "q": "What is the most common **bird** on Earth?",
@@ -96,7 +118,13 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "broll": "birds flock sky"
+    "broll": "birds flock sky",
+    "start": 26.213,
+    "keywordAt": 27.268,
+    "countdownStart": 28.162,
+    "reveal": 30.662,
+    "end": 32.401,
+    "video": "broll/six-q-genius-tricky-2-4.mp4"
    },
    {
     "q": "**Thursday** is named after which god?",
@@ -108,9 +136,18 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "broll": "thunderstorm lightning"
+    "broll": "thunderstorm lightning",
+    "start": 32.401,
+    "keywordAt": 32.994,
+    "countdownStart": 35.037,
+    "reveal": 37.537,
+    "end": 40.116,
+    "video": "broll/six-q-genius-tricky-2-5.mp4"
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-tricky-2.mp3",
+  "outroStart": 40.116,
+  "durationInSeconds": 40.116
  },
  "lines": [
   {
@@ -137,5 +174,22 @@
    "q": "Last one. Thursday is named after which god?",
    "a": "Thor! Follow if you got all six!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -19.3,
+  "truePeak": -2.9,
+  "lra": 6.3,
+  "normalized": true,
+  "frozenShare": 0.255,
+  "longestFreezeSec": 2.4,
+  "frame0Luma": 186.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-18T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "fEBtZsTi4kE",
+  "at": "2026-11-18T06:20"
+ }
 }

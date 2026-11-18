@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Only Geniuses Get 6/6 🧠 Capitals Quiz #shorts",
-  "description": "6 capital city questions, easy to legend 🌍 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#capitals #capitalcities #geographyquiz #geography #quiz #shorts\n\nMusic: original.",
+  "description": "6 capital city questions, easy to legend 🌍 Did #4 catch you out?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#capitals #capitalcities #geographyquiz #geography #quiz #shorts\n\nFootage via Wikimedia Commons: Amsterdamse Sportweek 1949 Weeknummer 49-27 - Open Beelden - 10581 – Nederlands Instituut voor Beeld en Geluid (CC BY-SA 3.0 nl); Night landscape of Bhopal city – Diwaskar Dahal (CC BY-SA 4.0); KSC-05-S-00274 (ksc 081505 goesn onguard) – NASA Kennedy Space Center (Public domain); Traditional Ethiopian Coffee Roasting Ceremony – Keria T (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "capitals quiz",
    "capital cities quiz",
@@ -49,7 +49,13 @@
     "correct": 2,
     "level": "EASY",
     "broll": "bicycles canal city",
-    "cardText": "🚲"
+    "cardText": "🚲",
+    "start": 0.0,
+    "keywordAt": 1.267,
+    "countdownStart": 1.98,
+    "reveal": 4.48,
+    "end": 6.373,
+    "video": "broll/six-q-genius-capitals-pop-0.mp4"
    },
    {
     "q": "What is the capital of **Wales**?",
@@ -62,7 +68,13 @@
     "correct": 0,
     "level": "EASY",
     "broll": "castle green hills",
-    "cardText": "🐉"
+    "cardText": "🐉",
+    "start": 6.373,
+    "keywordAt": 7.138,
+    "countdownStart": 7.812,
+    "reveal": 10.312,
+    "end": 11.834,
+    "video": "broll/six-q-genius-capitals-pop-1.mp4"
    },
    {
     "q": "What is the capital of **Finland**?",
@@ -75,7 +87,13 @@
     "correct": 1,
     "level": "MEDIUM",
     "broll": "snowy forest lake",
-    "cardText": "🌲❄️"
+    "cardText": "🌲❄️",
+    "start": 11.834,
+    "keywordAt": 12.542,
+    "countdownStart": 13.299,
+    "reveal": 15.799,
+    "end": 17.578,
+    "video": "broll/six-q-genius-capitals-pop-2.mp4"
    },
    {
     "q": "What is the capital of **California**?",
@@ -88,7 +106,12 @@
     "correct": 3,
     "level": "HARD",
     "broll": "palm trees beach sunset",
-    "cardText": "🌴☀️"
+    "cardText": "🌴☀️",
+    "start": 17.578,
+    "keywordAt": 18.304,
+    "countdownStart": 19.25,
+    "reveal": 21.75,
+    "end": 24.149
    },
    {
     "q": "What is the capital of **Ethiopia**?",
@@ -101,7 +124,13 @@
     "correct": 1,
     "level": "HARD",
     "broll": "coffee beans roasting",
-    "cardText": "☕"
+    "cardText": "☕",
+    "start": 24.149,
+    "keywordAt": 24.946,
+    "countdownStart": 25.832,
+    "reveal": 28.332,
+    "end": 30.257,
+    "video": "broll/six-q-genius-capitals-pop-4.mp4"
    },
    {
     "q": "What is the capital of **Uzbekistan**?",
@@ -114,9 +143,17 @@
     "correct": 2,
     "level": "LEGEND",
     "broll": "desert camels caravan",
-    "cardText": "🐫"
+    "cardText": "🐫",
+    "start": 30.257,
+    "keywordAt": 31.601,
+    "countdownStart": 32.563,
+    "reveal": 35.063,
+    "end": 37.859
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-capitals-pop.mp3",
+  "outroStart": 37.859,
+  "durationInSeconds": 37.859
  },
  "lines": [
   {
@@ -143,5 +180,22 @@
    "q": "Last one. Capital of Uzbekistan?",
    "a": "Tashkent! Follow if you got all six!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -21.1,
+  "truePeak": -2.6,
+  "lra": 5.4,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 119.8,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-18T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "d909yv2sZgU",
+  "at": "2026-11-18T06:16"
+ }
 }

@@ -1,0 +1,134 @@
+{
+ "type": "quiz",
+ "layout": "pop",
+ "title": "Capitals Quiz",
+ "header": "CAPITALS QUIZ",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "What is the capital of **Denmark**?",
+   "answers": [
+    "Aarhus",
+    "Oslo",
+    "Copenhagen",
+    "Odense"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "broll": "bicycles canal city",
+   "cardText": "🚲",
+   "start": 0.0,
+   "keywordAt": 1.267,
+   "countdownStart": 1.98,
+   "reveal": 4.48,
+   "end": 6.373,
+   "video": "broll/six-q-genius-capitals-pop-0.mp4"
+  },
+  {
+   "q": "What is the capital of **Wales**?",
+   "answers": [
+    "Cardiff",
+    "Swansea",
+    "Newport",
+    "Bangor"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "broll": "castle green hills",
+   "cardText": "🐉",
+   "start": 6.373,
+   "keywordAt": 7.138,
+   "countdownStart": 7.812,
+   "reveal": 10.312,
+   "end": 11.834,
+   "video": "broll/six-q-genius-capitals-pop-1.mp4"
+  },
+  {
+   "q": "What is the capital of **Finland**?",
+   "answers": [
+    "Turku",
+    "Helsinki",
+    "Tampere",
+    "Oulu"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "broll": "snowy forest lake",
+   "cardText": "🌲❄️",
+   "start": 11.834,
+   "keywordAt": 12.542,
+   "countdownStart": 13.299,
+   "reveal": 15.799,
+   "end": 17.578,
+   "video": "broll/six-q-genius-capitals-pop-2.mp4"
+  },
+  {
+   "q": "What is the capital of **California**?",
+   "answers": [
+    "Los Angeles",
+    "San Francisco",
+    "San Diego",
+    "Sacramento"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "broll": "palm trees beach sunset",
+   "cardText": "🌴☀️",
+   "start": 17.578,
+   "keywordAt": 18.304,
+   "countdownStart": 19.25,
+   "reveal": 21.75,
+   "end": 24.149
+  },
+  {
+   "q": "What is the capital of **Ethiopia**?",
+   "answers": [
+    "Nairobi",
+    "Addis Ababa",
+    "Khartoum",
+    "Asmara"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "broll": "coffee beans roasting",
+   "cardText": "☕",
+   "start": 24.149,
+   "keywordAt": 24.946,
+   "countdownStart": 25.832,
+   "reveal": 28.332,
+   "end": 30.257,
+   "video": "broll/six-q-genius-capitals-pop-4.mp4"
+  },
+  {
+   "q": "What is the capital of **Uzbekistan**?",
+   "answers": [
+    "Samarkand",
+    "Bukhara",
+    "Tashkent",
+    "Almaty"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "broll": "desert camels caravan",
+   "cardText": "🐫",
+   "start": 30.257,
+   "keywordAt": 31.601,
+   "countdownStart": 32.563,
+   "reveal": 35.063,
+   "end": 37.859
+  }
+ ],
+ "audio": "audio/six-q-genius-capitals-pop.mp3",
+ "outroStart": 37.859,
+ "durationInSeconds": 37.859
+}
