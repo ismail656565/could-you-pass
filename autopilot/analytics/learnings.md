@@ -638,3 +638,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **Regel ab sofort:** jedes Short ≤ 80 gesprochene Wörter (Ziel ≤ 45 s). Antwortzeilen = nur Antwort (+ max. 4 Wörter), kein Fakt; Fragen gesprochen so kurz wie möglich. Offene Shorts 18./19.11. gekürzt (39–76 Wörter).
 - **Besitzer-Entscheid 17.11. abends: E16 (pop vs. atlas) gestoppt.** Ab 19.11. täglich: 21:00 = Karten-VS „This Map Is Lying To You #N“ (einziges stabiles Short, 812–1.022 Views, Ø angesehen 77–81 %), 16:00 = kurzes Mehrfragen-Short (≤80 Wörter) mit **wechselndem Titel-Muster** (nicht mehr täglich „Only Geniuses Get 6/6“). Layout 16:00 frei (pop/atlas), Paare 16.–18.11. werden trotzdem ausgewertet. Formen für Karten-VS knapp → neue Formen in scripts/build-truesize-data.mjs ergänzen; Paare nie wiederholen.
 - Queue angepasst: 19.11. map-lie-3 21:00 (Grönland/Brasilien, Norwegen/Japan, Kasachstan/Grönland, Finnland/Deutschland – Kontrollspalte stützt alle), geo-trivia 16:00 umbenannt „Geography Trivia: 90% Get #4 Wrong 🌍“; iq-pop → 20.11. 16:00 „Quick IQ Test: Can You Get 6/6? 🧠“. Für 20.11. 21:00 fehlt noch map-lie-4.
+
+## 2026-11-18 – Research
+- Karten-VS trägt allein: map-lie-2 936 n. ≈2,6 T (✓ Ziel 800), map-lie-1 1.022; alle übrigen Shorts 11.–16.11. 17–421 (Median ≈160) → tägliches Karten-VS 21:00 bestätigt; map-lie-4 (20.11.) mit 4 neuen Paaren aus vorhandenen Formen geplant (Kazakhstan/India, Canada/Australia, Poland/Finland, Ukraine/Sweden).
+- Verdicts ✗: Animals-6-Q 195 (2,8 T), Country-Emoji-Long 25 (2,9 T, Ziel 30) → E13 Long-Median der ersten 4 wird < 30; Gesamt-Verdict 21.11.
+- E16-Paar 1 (abgebrochen): pop 104 (0,8 T) vs. atlas 17 (0,6 T) → 16:00-Shorts bis auf Weiteres pop.
+- Konkurrenz: Thanksgiving-Long Still Sharp Trivia 43,7k (87×) → Thanksgiving-Long Do 26.11.; 21.11. 16:00 „Which Came First?“ (eigener Titeltyp-Median 698, stayed 62,5 %).
