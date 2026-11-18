@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-18T08:26 (24 Abos)
+# Scoreboard – Stand 2026-11-18T11:55 (24 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -8,7 +8,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| Karten-VS (TrueSize) | 2 | 977 | 977 | 1020 | 53.8 | 78.0 | 0 |
+| Karten-VS (TrueSize) | 2 | 978 | 978 | 1020 | 53.8 | 78.0 | 0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
 | VS-Vergleich | 11 | 493 | 393 | 1189 | 49.6 | 62.3 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
@@ -28,7 +28,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHO HAS MORE PEOPLE? | 1 | 1189 | 1189 | 1189 | 61.3 | 60.6 | 2.0 |
 | CAPITAL CITIES | 1 | 1068 | 1068 | 1068 | 56.3 | 54.1 | 1.0 |
 | QUICK FIRE GEOGRAPHY | 1 | 996 | 996 | 996 | 49.1 | 45.6 | 2.0 |
-| – | 2 | 977 | 977 | 1020 | 53.8 | 78.0 | 0 |
+| – | 2 | 978 | 978 | 1020 | 53.8 | 78.0 | 0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
 | GEOGRAPHY QUIZ | 1 | 716 | 716 | 716 | 37.4 | 114.3 | 0 |
 | WHICH CAME FIRST? | 2 | 698 | 698 | 1235 | 62.5 | 47.7 | 0 |
@@ -63,7 +63,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| comic | 2 | 977 | 977 | 1020 | 53.8 | 78.0 | 0 |
+| comic | 2 | 978 | 978 | 1020 | 53.8 | 78.0 | 0 |
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 70.7 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.8 | 56.2 | 0 |

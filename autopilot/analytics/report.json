@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-18T08:26",
+ "fetched": "2026-11-18T11:55",
  "channel": "COULD YOU PASS?",
  "subscribers": "24",
  "audience": {
@@ -78,7 +78,7 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 17530,
+    "views": 17519,
     "engagedViews": 7797
    },
    {
@@ -88,12 +88,12 @@
    },
    {
     "deviceType": "TV",
-    "views": 1905,
-    "engagedViews": 1488
+    "views": 1902,
+    "engagedViews": 1486
    },
    {
     "deviceType": "DESKTOP",
-    "views": 1453,
+    "views": 1452,
     "engagedViews": 818
    }
   ],
@@ -184,7 +184,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 50,
-   "publicViews": "159",
+   "publicViews": "160",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -208,7 +208,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 58,
-   "publicViews": "66",
+   "publicViews": "69",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -230,7 +230,7 @@
    "title": "The True Size of US States: 20 Maps That Lie to You 🇺🇸",
    "published": "2026-11-17T13:00:28Z",
    "retention": [],
-   "trafficError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-11-18&metric",
+   "trafficSources": {},
    "durationSec": 217,
    "publicViews": "12",
    "status": {
@@ -280,7 +280,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 56,
-   "publicViews": "138",
+   "publicViews": "141",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1894,7 +1894,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 38,
-   "publicViews": "934",
+   "publicViews": "936",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
