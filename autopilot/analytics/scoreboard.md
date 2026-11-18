@@ -2,7 +2,7 @@
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (55 Videos)
+## Shorts (57 Videos)
 
 ### Shorts nach Format
 
@@ -13,8 +13,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | VS-Vergleich | 11 | 493 | 393 | 1189 | 49.6 | 62.3 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
-| 6+ Fragen | 16 | 607 | 280 | 1553 | 52.2 | 49.0 | 9.0 |
 | 4-Fragen-Trap | 9 | 372 | 251 | 1082 | 58.3 | 78.8 | 1.0 |
+| 6+ Fragen | 18 | 550 | 246 | 1553 | 52.2 | 49.0 | 9.0 |
 | Wahr/Falsch | 1 | 145 | 145 | 145 | 47.6 | 92.9 | 0 |
 
 ### Shorts nach Thema/Titeltyp
@@ -57,6 +57,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | VOCABULARY QUIZ | 1 | 148 | 148 | 148 | 38.5 | 39.7 | 0 |
 | WHICH IS COLDER? | 1 | 148 | 148 | 148 | 36.7 | 57.0 | 0 |
 | TRUE OR FALSE? | 1 | 145 | 145 | 145 | 47.6 | 92.9 | 0 |
+| COUNTRY QUIZ | 1 | 141 | 141 | 141 | – | – | 0 |
+| LANDMARKS QUIZ | 1 | 52 | 52 | 52 | – | – | 0 |
 | BONFIRE NIGHT QUIZ | 1 | 3 | 3 | 3 | 100.0 | 57.7 | 0 |
 
 ### Shorts nach Layout
@@ -67,13 +69,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 70.7 | 12.0 |
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.8 | 56.2 | 0 |
-| atlas | 10 | 347 | 192 | 1553 | 44.9 | 49.5 | 5.0 |
+| atlas | 11 | 320 | 190 | 1553 | 44.9 | 49.5 | 5.0 |
+| pop | 1 | 141 | 141 | 141 | – | – | 0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 20 | 603 | 424 | 1553 | 49.4 | 66.7 | 10.0 |
+| game-show.wav | 22 | 557 | 361 | 1553 | 49.4 | 66.7 | 10.0 |
 | brain-pulse.wav | 20 | 473 | 322 | 1434 | 47.1 | 91.9 | 3.0 |
 | world-trip.wav | 15 | 462 | 194 | 1189 | 52.1 | 66.8 | 4.0 |
 
@@ -83,8 +86,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 2 | 966 | 966 | 1434 | 47.0 | 67.3 | 0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
-| 21:00 | 25 | 498 | 327 | 1189 | 52.9 | 67.0 | 6.0 |
-| 16:00 | 24 | 500 | 280 | 1553 | 47.6 | 72.1 | 11.0 |
+| 21:00 | 26 | 480 | 320 | 1189 | 52.9 | 67.0 | 6.0 |
+| 16:00 | 25 | 486 | 257 | 1553 | 47.6 | 72.1 | 11.0 |
 
 ### Top 8 Shorts
 
@@ -99,9 +102,9 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Shorts
 
-- 148 Views · VS-Vergleich · Which Is Colder? 4 Rounds 90% Get #2 Wrong 🥶 #shorts
-- 145 Views · Wahr/Falsch · True or False? 4 Facts 90% Get Wrong ✅❌ #shorts
+- 141 Views · 6+ Fragen · Only Geniuses Get 6/6 🧠 Country Quiz #shorts
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
+- 52 Views · 6+ Fragen · Only Geniuses Get 6/6 🧠 Landmarks Quiz #shorts
 - 3 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
