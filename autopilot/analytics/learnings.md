@@ -647,5 +647,5 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 
 ## 2026-11-18 07:15 – Produktion
 - Technik: Läufe 17.11. alle grün (3/3 hochgeladen: Karten-Long US 14:00, geography 16:00, usa-pop 21:00, Kommentare gepostet). Kein Fix nötig.
-- Queue-Hinweis: Action nimmt das ÄLTESTE Long → iq-riddles-12-1 (für Do 19.11. gedacht) würde heute (Mi) laufen, falls die Long-Tag-Sperre Mo/Mi/Fr/So nicht greift – im 08:15-Log prüfen.
+- Queue-Hinweis: Action nimmt das ÄLTESTE Long → iq-riddles-12-1 (für Do 19.11. gedacht) würde heute (Mi) laufen, falls die Long-Tag-Sperre Mo/Mi/Fr/So nicht greift – geprüft: LONG_DAYS {Di,Do,Sa} in autopilot.py sperrt Mi, ok.
 - map-lie-4 (20.11. 21:00) angelegt: 50 gesprochene Wörter (Regel ≤80), Gewinner b/a/b/a, Abstände 21/29/8/34 %, Kontrollspalte stützt alle 4.
