@@ -1,0 +1,124 @@
+{
+ "id": "map-lie-4",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "This Map Is Lying To You #4 🌍 Which Is REALLY Bigger? #shorts",
+  "description": "Flat maps stretch everything near the poles. Watch each country slide to its real size 🌍 Did Poland vs Finland get you?\nComment your score out of 4 👇\n\nFollow for a new quiz every day! 🧠\n\n#map #geography #truesize #whichisbigger #quiz #shorts\n\nData: CIA World Factbook, total area (Kazakhstan 2,724,900 km²; India 3,287,263; Canada 9,984,670; Australia 7,741,220; Poland 312,685; Finland 338,145; Ukraine 603,550; Sweden 450,295).\nOutlines: Natural Earth (public domain). The shapes are moved on the globe and re-projected (Mercator) – no resizing by hand.\nMusic: original.",
+  "tags": [
+   "true size of countries",
+   "mercator map",
+   "which is bigger",
+   "map quiz",
+   "geography quiz",
+   "canada vs australia",
+   "map lies",
+   "comparison quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Poland vs Finland – did the map fool you? 🌍 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "map-lie-4",
+  "type": "truesize",
+  "title": "This Map Is Lying To You #4",
+  "kicker": "MAP TEST #4",
+  "hookText": [
+   "THIS MAP",
+   "IS LYING",
+   "TO YOU"
+  ],
+  "hookLine": "This map is lying to you. Can you beat it this time?",
+  "question": "Which is really bigger?",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "kazakhstan",
+     "name": "Kazakhstan",
+     "km2": 2724900
+    },
+    "b": {
+     "shape": "india",
+     "name": "India",
+     "km2": 3287263
+    },
+    "mover": "a",
+    "verdict": "21% bigger",
+    "lines": {
+     "q": "Kazakhstan, or India?",
+     "a": "India! Bigger than it looks."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "canada",
+     "name": "Canada",
+     "km2": 9984670
+    },
+    "b": {
+     "shape": "australia",
+     "name": "Australia",
+     "km2": 7741220
+    },
+    "mover": "a",
+    "verdict": "29% bigger",
+    "lines": {
+     "q": "Canada, or Australia?",
+     "a": "Canada! Even after shrinking."
+    },
+    "winner": "a"
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "poland",
+     "name": "Poland",
+     "km2": 312685
+    },
+    "b": {
+     "shape": "finland",
+     "name": "Finland",
+     "km2": 338145
+    },
+    "mover": "b",
+    "verdict": "8% bigger",
+    "lines": {
+     "q": "Poland, or Finland?",
+     "a": "Finland! The map was right this time."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "ukraine",
+     "name": "Ukraine",
+     "km2": 603550
+    },
+    "b": {
+     "shape": "sweden",
+     "name": "Sweden",
+     "km2": 450295
+    },
+    "mover": "b",
+    "verdict": "34% bigger",
+    "lines": {
+     "q": "Last one. Ukraine, or Sweden?",
+     "a": "Ukraine! Think you got all four? Go again!"
+    },
+    "winner": "a"
+   }
+  ],
+  "sources": [
+   "Areas: CIA World Factbook, total area (Kazakhstan 2,724,900 km²; India 3,287,263; Canada 9,984,670; Australia 7,741,220; Poland 312,685; Finland 338,145; Ukraine 603,550; Sweden 450,295)",
+   "Outlines: Natural Earth (public domain)"
+  ]
+ }
+}

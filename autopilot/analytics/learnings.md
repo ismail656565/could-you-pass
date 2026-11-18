@@ -644,3 +644,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Verdicts ✗: Animals-6-Q 195 (2,8 T), Country-Emoji-Long 25 (2,9 T, Ziel 30) → E13 Long-Median der ersten 4 wird < 30; Gesamt-Verdict 21.11.
 - E16-Paar 1 (abgebrochen): pop 104 (0,8 T) vs. atlas 17 (0,6 T) → 16:00-Shorts bis auf Weiteres pop.
 - Konkurrenz: Thanksgiving-Long Still Sharp Trivia 43,7k (87×) → Thanksgiving-Long Do 26.11.; 21.11. 16:00 „Which Came First?“ (eigener Titeltyp-Median 698, stayed 62,5 %).
+
+## 2026-11-18 07:15 – Produktion
+- Technik: Läufe 17.11. alle grün (3/3 hochgeladen: Karten-Long US 14:00, geography 16:00, usa-pop 21:00, Kommentare gepostet). Kein Fix nötig.
+- Queue-Hinweis: Action nimmt das ÄLTESTE Long → iq-riddles-12-1 (für Do 19.11. gedacht) würde heute (Mi) laufen, falls die Long-Tag-Sperre Mo/Mi/Fr/So nicht greift – im 08:15-Log prüfen.
+- map-lie-4 (20.11. 21:00) angelegt: 50 gesprochene Wörter (Regel ≤80), Gewinner b/a/b/a, Abstände 21/29/8/34 %, Kontrollspalte stützt alle 4.
