@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-19T16:34 (25 Abos)
+# Scoreboard – Stand 2026-11-19T19:25 (26 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -37,7 +37,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | QUICK QUIZ | 2 | 456 | 456 | 484 | 41.9 | 89.8 | 1.0 |
 | WHICH IS TALLER? | 1 | 454 | 454 | 454 | 59.3 | 55.9 | 0 |
 | MOVIE QUIZ | 1 | 418 | 418 | 418 | 52.6 | 38.5 | 0 |
-| GEOGRAPHY QUIZ | 2 | 414 | 414 | 716 | 37.4 | 114.3 | 0 |
+| GEOGRAPHY QUIZ | 2 | 416 | 416 | 716 | 37.4 | 114.3 | 0 |
 | WHICH IS HEAVIER? | 1 | 393 | 393 | 393 | 51.1 | 64.8 | 0 |
 | HALLOWEEN TRIVIA | 3 | 344 | 338 | 498 | 35.3 | 114.7 | 0 |
 | HISTORY QUIZ | 1 | 331 | 331 | 331 | 48.6 | 94.3 | 0 |
@@ -48,15 +48,15 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | SPACE QUIZ | 2 | 230 | 230 | 257 | 53.0 | 76.8 | 0 |
 | WHICH IS OLDER? | 1 | 190 | 190 | 190 | 36.8 | 56.7 | 0 |
 | ANIMAL QUIZ | 2 | 188 | 188 | 196 | 47.3 | 61.5 | 1.0 |
-| FOOD QUIZ | 1 | 186 | 186 | 186 | 65.1 | 80.1 | 0 |
+| FOOD QUIZ | 1 | 188 | 188 | 188 | 65.1 | 80.1 | 0 |
 | QUICK FIRE SCIENCE | 1 | 180 | 180 | 180 | 53.3 | 58.4 | 0 |
 | WHICH IS BIGGER? | 3 | 402 | 169 | 879 | 50.7 | 60.2 | 1.0 |
 | EUROPE QUIZ | 1 | 160 | 160 | 160 | 43.1 | 39.9 | 0 |
 | SCIENCE QUIZ | 1 | 154 | 154 | 154 | 50.6 | 178.7 | 0 |
 | WORLD GEOGRAPHY QUIZ | 1 | 152 | 152 | 152 | 42.6 | 45.4 | 0 |
+| COUNTRY QUIZ | 1 | 149 | 149 | 149 | 44.7 | 36.8 | 0 |
 | VOCABULARY QUIZ | 1 | 148 | 148 | 148 | 38.5 | 39.7 | 0 |
 | WHICH IS COLDER? | 1 | 148 | 148 | 148 | 37.2 | 57.0 | 0 |
-| COUNTRY QUIZ | 1 | 148 | 148 | 148 | 44.7 | 36.8 | 0 |
 | TRUE OR FALSE? | 1 | 145 | 145 | 145 | 47.6 | 92.9 | 0 |
 | LANDMARKS QUIZ | 1 | 67 | 67 | 67 | 17.6 | 59.9 | 0 |
 | BONFIRE NIGHT QUIZ | 1 | 3 | 3 | 3 | 100.0 | 52.6 | 0 |
@@ -70,7 +70,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | neon | 13 | 521 | 331 | 1434 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.9 | 56.2 | 0 |
 | atlas | 12 | 304 | 175 | 1554 | 43.0 | 51.0 | 5.0 |
-| pop | 1 | 148 | 148 | 148 | 44.7 | 36.8 | 0 |
+| pop | 1 | 149 | 149 | 149 | 44.7 | 36.8 | 0 |
 
 ### Shorts nach Musik
 
@@ -103,7 +103,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 ### Flop 5 Shorts
 
 - 140 Views · 4-Fragen-Trap · 4 History & Nature Questions Almost Everyone Gets Wrong 🤯 #shorts
-- 112 Views · 6+ Fragen · Only Geniuses Get 6/6 🧠 Geography Quiz #shorts
+- 115 Views · 6+ Fragen · Only Geniuses Get 6/6 🧠 Geography Quiz #shorts
 - 67 Views · 6+ Fragen · Only Geniuses Get 6/6 🧠 Landmarks Quiz #shorts
 - 3 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
@@ -119,8 +119,9 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 30 Fragen | 5 | 19 | 21 | 29 | 79.9 | 14.1 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
-| 50 Fragen | 11 | 5 | 4 | 14 | 66.6 | 50.6 | 0 |
+| 50 Fragen | 10 | 5 | 4 | 14 | 63.2 | 45.7 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 66.7 | 43.5 | 0 |
+| 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
 ### Lange Videos nach Thema/Titeltyp
 
@@ -131,13 +132,12 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Emoji-Raten | 4 | 48 | 24 | 141 | 85.9 | 20.1 | 1.0 |
 | Geografie | 2 | 14 | 14 | 23 | 58.4 | 34.0 | 0 |
 | Can-You-Pass-Test | 1 | 12 | 12 | 12 | 33.3 | 31.6 | 0 |
-| Allgemeinwissen | 2 | 8 | 8 | 14 | 53.5 | 51.7 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 22 | 6 | 60 | 67.8 | 61.0 | 0 |
 | Sonstiges | 7 | 26 | 5 | 131 | 70.8 | 23.9 | 0 |
 | Jahrzehnt | 1 | 4 | 4 | 4 | 50.0 | 100.0 | 0 |
-| Wahr/Falsch | 1 | 3 | 3 | 3 | 100.0 | 99.8 | 0 |
 | Tiere | 1 | 2 | 2 | 2 | 50.0 | 0.0 | 0 |
+| Allgemeinwissen | 3 | 5 | 2 | 14 | 53.5 | 51.7 | 0 |
 
 ### Lange Videos nach Layout
 
@@ -145,7 +145,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 3 | 97 | 131 | 141 | 61.7 | 43.2 | 1.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
-| tvshow | 16 | 9 | 4 | 29 | 69.9 | 31.4 | 0 |
+| tvshow | 16 | 9 | 4 | 29 | 67.7 | 26.5 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -153,15 +153,15 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | world-trip.wav | 11 | 24 | 14 | 131 | 57.0 | 38.8 | 0 |
-| game-show.wav | 9 | 29 | 6 | 186 | 76.3 | 37.1 | 1.0 |
-| brain-pulse.wav | 6 | 19 | 3 | 60 | 74.8 | 40.5 | 0 |
+| game-show.wav | 8 | 32 | 7 | 186 | 73.3 | 29.3 | 1.0 |
+| brain-pulse.wav | 7 | 16 | 3 | 60 | 74.8 | 40.5 | 0 |
 
 ### Lange Videos nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 23 | 19 | 8 | 131 | 69.0 | 39.4 | 1.0 |
+| 14:00 | 23 | 19 | 8 | 131 | 67.5 | 36.4 | 1.0 |
 | 19:00 | 1 | 5 | 5 | 5 | 75.0 | 11.5 | 0 |
 
 ### Top 8 Lange Videos
@@ -177,8 +177,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 ### Flop 5 Lange Videos
 
-- 2 Views · 50 Fragen · Animal Quiz: 50 Questions From Easy to Legend 🐾 | How Many Can You Get?
 - 2 Views · 50 Fragen · 50 Questions to Test Your General Knowledge 🧠 | Quiz Challenge
 - 1 Views · 50 Fragen · General Knowledge Quiz: If You Get 40 Right, Your Memory Is Excellent 🧠 | 50 Questions
 - 1 Views · 50 Fragen · Emoji Quiz: Guess the Word – 50 Rounds, Easy to Legend 🧩
+- 0 Views · 12 Fragen · General Knowledge Quiz: Can You Score 4/12? 🧠 7-Minute Test
 - 0 Views · 15 Fragen · US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test
