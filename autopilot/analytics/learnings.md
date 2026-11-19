@@ -649,3 +649,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Technik: Läufe 17.11. alle grün (3/3 hochgeladen: Karten-Long US 14:00, geography 16:00, usa-pop 21:00, Kommentare gepostet). Kein Fix nötig.
 - Queue-Hinweis: Action nimmt das ÄLTESTE Long → iq-riddles-12-1 (für Do 19.11. gedacht) würde heute (Mi) laufen, falls die Long-Tag-Sperre Mo/Mi/Fr/So nicht greift – geprüft: LONG_DAYS {Di,Do,Sa} in autopilot.py sperrt Mi, ok.
 - map-lie-4 (20.11. 21:00) angelegt: 50 gesprochene Wörter (Regel ≤80), Gewinner b/a/b/a, Abstände 21/29/8/34 %, Kontrollspalte stützt alle 4.
+
+## 2026-11-19 – Research
+- pop schlägt atlas: country-pop 141 vs. landmarks 52 (≈1,7 T), usa-pop 160 (0,66 T) vs. geography 69 (0,85 T) → pop ≈2,5×; ab 20.11. alle Mehrfragen-/1-Frage-Shorts pop.
+- Verdicts ✗: World-Geo-6-Q 149 (E15 #1), Bigger-VS-2 158 (≈2,7 T). Karten-VS bleibt einziger Träger (936 / 1.020).
+- Karten-Long Folge 2 (US) 12 Views n. ≈0,95 T (Folge 1: 32) → kein Karten-Long #3 am 21.11.; stattdessen Thanksgiving-Long 50 Q (Still Sharp 65,3k = 130,6× Abos), Christmas-Long 24.11. (Still Sharp 62,9k = 125,9×).
+- 21.11. außerdem: Which-Came-First #3 (pop) 16:00 + map-lie-5 21:00 (Formen egypt/saudiarabia/argentina fehlen noch).
