@@ -2087,3 +2087,4 @@
 [2026-11-19 19:25:06] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
 [2026-11-19 19:25:06] Kein long-Video in der Warteschlange.
 [2026-11-19 19:25:16] Konkurrenz: 25 Kanäle, 134 Gewinner-Videos
+[2026-11-19 20:29:40] map-lie-3: Kommentar gepostet (mit Long-Link)
