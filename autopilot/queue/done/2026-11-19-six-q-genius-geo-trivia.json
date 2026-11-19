@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Geography Trivia: 90% Get #4 Wrong 🌍 #shorts",
-  "description": "6 geography trivia questions, easy to legend 🌍 Did #4 fool you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geographytrivia #geographyquiz #geography #trivia #quiz #shorts\n\nMusic: original.",
+  "description": "6 geography trivia questions, easy to legend 🌍 Did #4 fool you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#geographytrivia #geographyquiz #geography #trivia #quiz #shorts\n\nFootage via Wikimedia Commons: Christmas Valley Sand Dunes (33857899766) – BLM Oregon &amp; Washington (Public domain); Piran, Slovenia - Beautiful Coastal Town on the Adriatic Sea – Snicel 69 (CC BY 4.0); Koi im Freizeitpark Tropical Islands (MVI 8281) – Kora27 (CC BY-SA 4.0); Dubai skyline 2013 – Pradana Aumars (talk · contribs) (CC BY-SA 4.0); A boat moves beautifully across the Indus River near Hund village duri – Shehrology (CC BY-SA 4.0); Why Is NASA Tracking Seaweed From Space? (SVS14692 Sargassum Final) – NASA's Scientific Visualization Studio - eMITS/Katie Jepson, (Public domain)\nMusic: original.",
   "tags": [
    "geography trivia",
    "geography trivia game",
@@ -48,7 +48,13 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "broll": "sand dunes"
+    "broll": "sand dunes",
+    "start": 0.0,
+    "keywordAt": 0.271,
+    "countdownStart": 2.292,
+    "reveal": 4.792,
+    "end": 6.352,
+    "video": "broll/six-q-genius-geo-trivia-0.mp4"
    },
    {
     "q": "**Table Mountain** towers over which city?",
@@ -60,7 +66,13 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "broll": "coastal city"
+    "broll": "coastal city",
+    "start": 6.352,
+    "keywordAt": 6.432,
+    "countdownStart": 8.6,
+    "reveal": 11.1,
+    "end": 12.829,
+    "video": "broll/six-q-genius-geo-trivia-1.mp4"
    },
    {
     "q": "Wild **Komodo dragons** live in only one country. Which?",
@@ -72,7 +84,13 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "broll": "tropical island"
+    "broll": "tropical island",
+    "start": 12.829,
+    "keywordAt": 13.214,
+    "countdownStart": 16.383,
+    "reveal": 18.883,
+    "end": 20.723,
+    "video": "broll/six-q-genius-geo-trivia-2.mp4"
    },
    {
     "q": "Which city is furthest **NORTH**?",
@@ -84,7 +102,13 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "broll": "city skyline"
+    "broll": "city skyline",
+    "start": 20.723,
+    "keywordAt": 21.905,
+    "countdownStart": 22.492,
+    "reveal": 24.992,
+    "end": 27.652,
+    "video": "broll/six-q-genius-geo-trivia-3.mp4"
    },
    {
     "q": "The **Mekong** reaches the sea in which country?",
@@ -96,7 +120,13 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "broll": "river boats"
+    "broll": "river boats",
+    "start": 27.652,
+    "keywordAt": 28.384,
+    "countdownStart": 29.596,
+    "reveal": 32.096,
+    "end": 33.863,
+    "video": "broll/six-q-genius-geo-trivia-4.mp4"
    },
    {
     "q": "Which is the only **sea with no coastline**?",
@@ -108,9 +138,17 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "broll": "seaweed ocean"
+    "broll": "seaweed ocean",
+    "start": 33.863,
+    "countdownStart": 36.059,
+    "reveal": 38.559,
+    "end": 41.972,
+    "video": "broll/six-q-genius-geo-trivia-5.mp4"
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-geo-trivia.mp3",
+  "outroStart": 41.972,
+  "durationInSeconds": 41.972
  },
  "lines": [
   {
@@ -137,5 +175,21 @@
    "q": "Last one. Which sea has no coastline?",
    "a": "The Sargasso Sea! Follow if you got all six!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.2,
+  "truePeak": -3.4,
+  "lra": 5.7,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 187.7,
+  "warnings": []
+ },
+ "playlistAdded": true,
+ "uploaded": {
+  "videoId": "W8JH7B5MkBQ",
+  "at": "2026-11-19T16:50"
+ },
+ "linkedLong": "zUW_wa21LEg"
 }

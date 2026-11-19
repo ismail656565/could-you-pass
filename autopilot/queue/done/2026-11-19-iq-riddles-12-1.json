@@ -63,7 +63,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "2·6·12·20·30·?"
+    "cardText": "2·6·12·20·30·?",
+    "start": 0.0,
+    "countdownStart": 7.845,
+    "reveal": 27.845,
+    "end": 34.003
    },
    {
     "q": "A shirt costs **$20 after a 20% discount**. Original price?",
@@ -75,7 +79,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🏷️ $20"
+    "cardText": "🏷️ $20",
+    "start": 34.003,
+    "countdownStart": 39.431,
+    "reveal": 59.431,
+    "end": 67.137
    },
    {
     "q": "A **brick** weighs 1 kg plus half a brick. How heavy is it?",
@@ -87,7 +95,12 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🧱"
+    "cardText": "🧱",
+    "start": 67.137,
+    "keywordAt": 67.324,
+    "countdownStart": 71.737,
+    "reveal": 91.737,
+    "end": 98.429
    },
    {
     "q": "Boy: as many sisters as brothers. Girl: **twice** as many brothers as sisters. Kids?",
@@ -99,7 +112,12 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "👦👧"
+    "cardText": "👦👧",
+    "start": 98.429,
+    "keywordAt": 102.628,
+    "countdownStart": 107.047,
+    "reveal": 127.047,
+    "end": 133.037
    },
    {
     "q": "What comes next: **3, 9, 27, 81, ?**",
@@ -111,7 +129,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "3·9·27·81·?"
+    "cardText": "3·9·27·81·?",
+    "start": 133.037,
+    "countdownStart": 136.385,
+    "reveal": 156.385,
+    "end": 161.887
    },
    {
     "q": "Lily pads **double daily** and cover a lake on day 48. Half covered on day…?",
@@ -123,7 +145,12 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🪷"
+    "cardText": "🪷",
+    "start": 161.887,
+    "keywordAt": 162.928,
+    "countdownStart": 169.052,
+    "reveal": 189.052,
+    "end": 198.212
    },
    {
     "q": "Today is Saturday. What day is it **100 days** from now?",
@@ -135,7 +162,11 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "📅"
+    "cardText": "📅",
+    "start": 198.212,
+    "countdownStart": 202.083,
+    "reveal": 222.083,
+    "end": 227.697
    },
    {
     "q": "**5 people** all shake hands once with each other. How many handshakes?",
@@ -147,7 +178,11 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "🤝 ×5"
+    "cardText": "🤝 ×5",
+    "start": 227.697,
+    "countdownStart": 233.442,
+    "reveal": 253.442,
+    "end": 259.686
    },
    {
     "q": "Odd one out: **3, 5, 7, 9, 11**",
@@ -159,7 +194,11 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "3·5·7·9·11"
+    "cardText": "3·5·7·9·11",
+    "start": 259.686,
+    "countdownStart": 265.312,
+    "reveal": 285.312,
+    "end": 291.272
    },
    {
     "q": "Unscramble **CIFAIPC**. It's the name of a…",
@@ -171,7 +210,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "CIFAIPC"
+    "cardText": "CIFAIPC",
+    "start": 291.272,
+    "countdownStart": 296.071,
+    "reveal": 316.071,
+    "end": 322.711
    },
    {
     "q": "Tom > Ann > Ben > Lisa in height. Who is **second shortest**?",
@@ -183,7 +226,12 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "📏"
+    "cardText": "📏",
+    "start": 322.711,
+    "keywordAt": 327.653,
+    "countdownStart": 328.879,
+    "reveal": 348.879,
+    "end": 353.248
    },
    {
     "q": "What comes next: **1, 11, 21, 1211, 111221, ?**",
@@ -195,9 +243,16 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "111221 → ?"
+    "cardText": "111221 → ?",
+    "start": 353.248,
+    "countdownStart": 359.653,
+    "reveal": 379.653,
+    "end": 388.301
    }
-  ]
+  ],
+  "audio": "audio/iq-riddles-12-1.mp3",
+  "outroStart": 388.301,
+  "durationInSeconds": 399.394
  },
  "lines": [
   {
@@ -248,5 +303,34 @@
    "q": "Final question. What comes next? One. One one. Two one. One two one one. One one one two two one...",
    "a": "Three one two two one one! Read the last one out loud: three ones, two twos, one one. It's called look and say."
   }
- ]
+ ],
+ "qa": {
+  "lufs": -23.2,
+  "truePeak": -3.5,
+  "lra": 9.6,
+  "normalized": true,
+  "frozenShare": 0.877,
+  "longestFreezeSec": 26.6,
+  "frame0Luma": 119.7,
+  "warnings": [
+   "Standbild 26.6 s"
+  ]
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/iq-riddles-12-1-A.jpg",
+ "thumbTest": {
+  "order": [
+   "A",
+   "B",
+   "C"
+  ],
+  "current": "A",
+  "since": "2026-11-19",
+  "results": {},
+  "done": false
+ },
+ "playlistAdded": true,
+ "uploaded": {
+  "videoId": "zUW_wa21LEg",
+  "at": "2026-11-19T17:13"
+ }
 }

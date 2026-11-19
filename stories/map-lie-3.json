@@ -1,0 +1,141 @@
+{
+ "id": "map-lie-3",
+ "type": "truesize",
+ "title": "This Map Is Lying To You #3",
+ "kicker": "MAP TEST #3",
+ "hookText": [
+  "THIS MAP",
+  "IS LYING",
+  "AGAIN"
+ ],
+ "hookLine": "This map is lying to you again. Which is really bigger?",
+ "question": "Which is really bigger?",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "a": {
+    "shape": "greenland",
+    "name": "Greenland",
+    "km2": 2166086
+   },
+   "b": {
+    "shape": "brazil",
+    "name": "Brazil",
+    "km2": 8515770
+   },
+   "mover": "a",
+   "verdict": "4x bigger",
+   "lines": {
+    "q": "Greenland, or Brazil?",
+    "a": "Brazil! About four times bigger."
+   },
+   "winner": "b",
+   "start": 3.11,
+   "qAudio": "audio/map-lie-3/q1.mp3",
+   "aAudio": "audio/map-lie-3/a1.mp3",
+   "thinkStart": 4.54,
+   "reveal": 6.94,
+   "moveEnd": 8.44,
+   "aStart": 7.49,
+   "end": 10.59
+  },
+  {
+   "level": "MEDIUM",
+   "a": {
+    "shape": "norway",
+    "name": "Norway",
+    "km2": 323802
+   },
+   "b": {
+    "shape": "japan",
+    "name": "Japan",
+    "km2": 377915
+   },
+   "mover": "a",
+   "verdict": "17% bigger",
+   "lines": {
+    "q": "Norway, or Japan?",
+    "a": "Japan! Norway just sits further north."
+   },
+   "winner": "b",
+   "start": 10.59,
+   "qAudio": "audio/map-lie-3/q2.mp3",
+   "aAudio": "audio/map-lie-3/a2.mp3",
+   "thinkStart": 11.92,
+   "reveal": 14.32,
+   "moveEnd": 15.82,
+   "aStart": 14.87,
+   "end": 17.97
+  },
+  {
+   "level": "HARD",
+   "a": {
+    "shape": "kazakhstan",
+    "name": "Kazakhstan",
+    "km2": 2724900
+   },
+   "b": {
+    "shape": "greenland",
+    "name": "Greenland",
+    "km2": 2166086
+   },
+   "mover": "b",
+   "verdict": "26% bigger",
+   "lines": {
+    "q": "Kazakhstan, or Greenland?",
+    "a": "Kazakhstan! Greenland shrinks again."
+   },
+   "winner": "a",
+   "start": 17.97,
+   "qAudio": "audio/map-lie-3/q3.mp3",
+   "aAudio": "audio/map-lie-3/a3.mp3",
+   "thinkStart": 19.73,
+   "reveal": 22.13,
+   "moveEnd": 23.63,
+   "aStart": 22.68,
+   "end": 25.78
+  },
+  {
+   "level": "LEGEND",
+   "a": {
+    "shape": "finland",
+    "name": "Finland",
+    "km2": 338145
+   },
+   "b": {
+    "shape": "germany",
+    "name": "Germany",
+    "km2": 357022
+   },
+   "mover": "a",
+   "verdict": "6% bigger",
+   "lines": {
+    "q": "Last one. Finland, or Germany?",
+    "a": "Germany! Think you got all four? Go again!"
+   },
+   "winner": "b",
+   "start": 25.78,
+   "qAudio": "audio/map-lie-3/q4.mp3",
+   "aAudio": "audio/map-lie-3/a4.mp3",
+   "thinkStart": 27.74,
+   "reveal": 30.14,
+   "moveEnd": 31.64,
+   "aStart": 30.69,
+   "end": 35.44
+  }
+ ],
+ "sources": [
+  "Areas: CIA World Factbook (Greenland 2,166,086 km²; Brazil 8,515,770; Norway 323,802; Japan 377,915; Kazakhstan 2,724,900; Finland 338,145; Germany 357,022)",
+  "Outlines: Natural Earth (public domain)"
+ ],
+ "hook": {
+  "audio": "audio/map-lie-3/hook.mp3",
+  "start": 0.0,
+  "end": 3.11
+ },
+ "durationInSeconds": 35.44
+}
