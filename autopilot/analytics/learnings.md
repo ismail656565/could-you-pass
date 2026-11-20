@@ -655,3 +655,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Verdicts ✗: World-Geo-6-Q 149 (E15 #1), Bigger-VS-2 158 (≈2,7 T). Karten-VS bleibt einziger Träger (936 / 1.020).
 - Karten-Long Folge 2 (US) 12 Views n. ≈0,95 T (Folge 1: 32) → kein Karten-Long #3 am 21.11.; stattdessen Thanksgiving-Long 50 Q (Still Sharp 65,3k = 130,6× Abos), Christmas-Long 24.11. (Still Sharp 62,9k = 125,9×).
 - 21.11. außerdem: Which-Came-First #3 (pop) 16:00 + map-lie-5 21:00 (Formen egypt/saudiarabia/argentina fehlen noch).
+
+## 2026-11-20 – Research
+- E16-Paar 3: atlas „Tricky Quiz“ (41 s) 635 n. ≈1 T vs. pop „Capitals Quiz“ 160 → alle 3 Paare: pop 405 vs. atlas 721 → Layout ist nicht der Hebel (Titel „Tricky“ 1.554/635 + ≤45 s sind es). Ab 20.11. alle Nicht-Karten-Videos tvshow (Owner-Vorgabe „kein AI-Look“).
+- E14 Rätsel-Long „12 Tricky Riddles“ 32 Views n. ≈2 h (US-Karten-Long 19 n. 2,3 T) → 7-min-Format läuft weiter.
+- E13 Vorab-Verdict ✗: erste 4 Longs 131/18/25/19 → Median 22 (Ziel 30) → keine Karten-/Emoji-Long-Serie mehr; Long-Plätze = Feiertage (Thanksgiving 21.11., Christmas 24.11.) + Rätsel.
+- Technik: Produktions-Auftrag 19.11. nicht ausgeführt → 21.11.-Items + 6 Karten-Formen fehlen; QA-Warnung Standbild 26,6 s im Rätsel-Long.
