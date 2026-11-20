@@ -1,4 +1,4 @@
-# Scoreboard – Stand 2026-11-20T16:11 (28 Abos)
+# Scoreboard – Stand 2026-11-20T19:01 (29 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
@@ -27,7 +27,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | BRAIN QUIZ | 1 | 1208 | 1208 | 1208 | 44.0 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1189 | 1189 | 1189 | 61.4 | 60.6 | 2.0 |
 | CAPITAL CITIES | 1 | 1068 | 1068 | 1068 | 56.5 | 54.1 | 1.0 |
-| CAPITALS QUIZ | 1 | 1029 | 1029 | 1029 | – | – | 0 |
+| CAPITALS QUIZ | 1 | 1032 | 1032 | 1032 | – | – | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 996 | 996 | 996 | 49.1 | 45.6 | 2.0 |
 | – | 2 | 978 | 978 | 1021 | 52.8 | 77.8 | 0 |
 | NATURE QUIZ | 1 | 866 | 866 | 866 | 38.9 | 72.0 | 0 |
@@ -71,7 +71,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 70.5 | 12.0 |
 | neon | 13 | 521 | 331 | 1435 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.9 | 56.2 | 0 |
-| pop | 3 | 487 | 282 | 1029 | 45.5 | 43.9 | 0 |
+| pop | 3 | 488 | 282 | 1032 | 45.5 | 43.9 | 0 |
 | atlas | 12 | 305 | 175 | 1555 | 43.9 | 50.5 | 5.0 |
 
 ### Shorts nach Musik
@@ -116,7 +116,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 0 Fragen | 3 | 98 | 133 | 141 | 71.1 | 37.2 | 3.0 |
+| 0 Fragen | 3 | 101 | 133 | 141 | 71.1 | 37.2 | 3.0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 49.3 | 25.8 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 30 Fragen | 5 | 20 | 21 | 31 | 79.3 | 14.2 | 0 |
@@ -133,7 +133,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Emoji-Raten | 4 | 48 | 26 | 141 | 85.3 | 20.1 | 1.0 |
 | IQ-Titel | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | Geografie | 2 | 14 | 14 | 23 | 58.4 | 34.0 | 0 |
-| Sonstiges | 6 | 31 | 13 | 133 | 74.8 | 24.1 | 2.0 |
+| Sonstiges | 6 | 32 | 13 | 133 | 74.8 | 24.1 | 2.0 |
 | Can-You-Pass-Test | 1 | 12 | 12 | 12 | 33.3 | 31.6 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | Memory/Alters-Titel | 3 | 22 | 6 | 60 | 67.8 | 61.0 | 0 |
@@ -146,7 +146,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| comic | 3 | 98 | 133 | 141 | 71.1 | 37.2 | 3.0 |
+| comic | 3 | 101 | 133 | 141 | 71.1 | 37.2 | 3.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
 | tvshow | 16 | 9 | 4 | 31 | 70.0 | 31.4 | 0 |
 
@@ -164,7 +164,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 23 | 19 | 8 | 133 | 69.8 | 38.8 | 3.0 |
+| 14:00 | 23 | 20 | 8 | 133 | 69.8 | 38.8 | 3.0 |
 | 19:00 | 1 | 5 | 5 | 5 | 80.0 | 11.4 | 0 |
 
 ### Top 8 Lange Videos
@@ -175,8 +175,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 60 Views · stayed 0.367 · 35 Fragen · neon · brain-pulse.wav · Are You Over 60? Let's Check Your Memory 🧠 | 35 Question General Knowledge Quiz
 - 48 Views · stayed 0.708 · 35 Fragen · neon · brain-pulse.wav · Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions
 - 31 Views · stayed 0.731 · 30 Fragen · tvshow · world-trip.wav · Guess the Country by Emoji: 30 Rounds From Easy to Legend 🌍
+- 28 Views · stayed 0.9 · 0 Fragen · comic · world-trip.wav · The True Size of US States: 20 Maps That Lie to You 🇺🇸
 - 26 Views · stayed 0.808 · 40 Fragen · neon · game-show.wav · General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions
-- 23 Views · stayed 0.667 · 30 Fragen · tvshow · world-trip.wav · Flag Quiz: 30 Questions From Easy to Legend 🚩
 
 ### Flop 5 Lange Videos
 
