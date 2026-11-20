@@ -1,0 +1,133 @@
+{
+ "type": "quiz",
+ "hook": "ONLY GENIUSES GET 6/6 🧠",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "layout": "tvshow",
+ "title": "IQ Quiz",
+ "header": "IQ QUIZ",
+ "questions": [
+  {
+   "q": "What is **half of a quarter**?",
+   "answers": [
+    "1/2",
+    "1/6",
+    "1/8",
+    "1/16"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "broll": "pizza slices",
+   "cardText": "🍕",
+   "start": 0.0,
+   "keywordAt": 0.466,
+   "countdownStart": 1.634,
+   "reveal": 4.134,
+   "end": 6.119,
+   "video": "broll/six-q-genius-iq-pop-0.mp4"
+  },
+  {
+   "q": "How many **seconds** are in 3 minutes?",
+   "answers": [
+    "180",
+    "120",
+    "160",
+    "300"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "broll": "stopwatch",
+   "cardText": "⏱️",
+   "start": 6.119,
+   "keywordAt": 6.58,
+   "countdownStart": 7.939,
+   "reveal": 10.439,
+   "end": 12.531,
+   "video": "broll/six-q-genius-iq-pop-1.mp4"
+  },
+  {
+   "q": "What comes next: **1, 3, 6, 10, ?**",
+   "answers": [
+    "14",
+    "15",
+    "16",
+    "12"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "broll": "chalkboard",
+   "cardText": "1·3·6·10·?",
+   "start": 12.531,
+   "countdownStart": 14.792,
+   "reveal": 17.292,
+   "end": 19.363,
+   "video": "broll/six-q-genius-iq-pop-2.mp4"
+  },
+  {
+   "q": "A farmer has 17 sheep. **All but 9** run away. How many are left?",
+   "answers": [
+    "8",
+    "17",
+    "0",
+    "9"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "broll": "sheep field",
+   "cardText": "🐑 ×17",
+   "start": 19.363,
+   "countdownStart": 22.754,
+   "reveal": 25.254,
+   "end": 27.413,
+   "video": "broll/six-q-genius-iq-pop-3.mp4"
+  },
+  {
+   "q": "You have 3 apples and **take away 2**. How many do YOU have?",
+   "answers": [
+    "1",
+    "2",
+    "3",
+    "0"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "broll": "apple orchard",
+   "cardText": "🍎🍎🍎",
+   "start": 27.413,
+   "keywordAt": 28.313,
+   "countdownStart": 30.253,
+   "reveal": 32.753,
+   "end": 34.713,
+   "video": "broll/six-q-genius-iq-pop-4.mp4"
+  },
+  {
+   "q": "Which letter comes next: **O, T, T, F, F, S, S, ?**",
+   "answers": [
+    "S",
+    "N",
+    "T",
+    "E"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "broll": "alphabet blocks",
+   "cardText": "O·T·T·F·F·S·S·?",
+   "start": 34.713,
+   "countdownStart": 37.974,
+   "reveal": 40.474,
+   "end": 43.421,
+   "video": "broll/six-q-genius-iq-pop-5.mp4"
+  }
+ ],
+ "audio": "audio/six-q-genius-iq-pop.mp3",
+ "outroStart": 43.421,
+ "durationInSeconds": 43.421
+}

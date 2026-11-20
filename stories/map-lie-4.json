@@ -1,0 +1,141 @@
+{
+ "id": "map-lie-4",
+ "type": "truesize",
+ "title": "This Map Is Lying To You #4",
+ "kicker": "MAP TEST #4",
+ "hookText": [
+  "THIS MAP",
+  "IS LYING",
+  "TO YOU"
+ ],
+ "hookLine": "This map is lying to you. Can you beat it this time?",
+ "question": "Which is really bigger?",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "a": {
+    "shape": "kazakhstan",
+    "name": "Kazakhstan",
+    "km2": 2724900
+   },
+   "b": {
+    "shape": "india",
+    "name": "India",
+    "km2": 3287263
+   },
+   "mover": "a",
+   "verdict": "21% bigger",
+   "lines": {
+    "q": "Kazakhstan, or India?",
+    "a": "India! Bigger than it looks."
+   },
+   "winner": "b",
+   "start": 2.9,
+   "qAudio": "audio/map-lie-4/q1.mp3",
+   "aAudio": "audio/map-lie-4/a1.mp3",
+   "thinkStart": 4.48,
+   "reveal": 6.88,
+   "moveEnd": 8.38,
+   "aStart": 7.43,
+   "end": 10.53
+  },
+  {
+   "level": "MEDIUM",
+   "a": {
+    "shape": "canada",
+    "name": "Canada",
+    "km2": 9984670
+   },
+   "b": {
+    "shape": "australia",
+    "name": "Australia",
+    "km2": 7741220
+   },
+   "mover": "a",
+   "verdict": "29% bigger",
+   "lines": {
+    "q": "Canada, or Australia?",
+    "a": "Canada! Even after shrinking."
+   },
+   "winner": "a",
+   "start": 10.53,
+   "qAudio": "audio/map-lie-4/q2.mp3",
+   "aAudio": "audio/map-lie-4/a2.mp3",
+   "thinkStart": 12.02,
+   "reveal": 14.42,
+   "moveEnd": 15.92,
+   "aStart": 14.97,
+   "end": 18.07
+  },
+  {
+   "level": "HARD",
+   "a": {
+    "shape": "poland",
+    "name": "Poland",
+    "km2": 312685
+   },
+   "b": {
+    "shape": "finland",
+    "name": "Finland",
+    "km2": 338145
+   },
+   "mover": "b",
+   "verdict": "8% bigger",
+   "lines": {
+    "q": "Poland, or Finland?",
+    "a": "Finland! The map was right this time."
+   },
+   "winner": "b",
+   "start": 18.07,
+   "qAudio": "audio/map-lie-4/q3.mp3",
+   "aAudio": "audio/map-lie-4/a3.mp3",
+   "thinkStart": 19.46,
+   "reveal": 21.86,
+   "moveEnd": 23.36,
+   "aStart": 22.41,
+   "end": 25.51
+  },
+  {
+   "level": "LEGEND",
+   "a": {
+    "shape": "ukraine",
+    "name": "Ukraine",
+    "km2": 603550
+   },
+   "b": {
+    "shape": "sweden",
+    "name": "Sweden",
+    "km2": 450295
+   },
+   "mover": "b",
+   "verdict": "34% bigger",
+   "lines": {
+    "q": "Last one. Ukraine, or Sweden?",
+    "a": "Ukraine! Think you got all four? Go again!"
+   },
+   "winner": "a",
+   "start": 25.51,
+   "qAudio": "audio/map-lie-4/q4.mp3",
+   "aAudio": "audio/map-lie-4/a4.mp3",
+   "thinkStart": 27.47,
+   "reveal": 29.87,
+   "moveEnd": 31.37,
+   "aStart": 30.42,
+   "end": 35.17
+  }
+ ],
+ "sources": [
+  "Areas: CIA World Factbook, total area (Kazakhstan 2,724,900 km²; India 3,287,263; Canada 9,984,670; Australia 7,741,220; Poland 312,685; Finland 338,145; Ukraine 603,550; Sweden 450,295)",
+  "Outlines: Natural Earth (public domain)"
+ ],
+ "hook": {
+  "audio": "audio/map-lie-4/hook.mp3",
+  "start": 0.0,
+  "end": 2.9
+ },
+ "durationInSeconds": 35.17
+}

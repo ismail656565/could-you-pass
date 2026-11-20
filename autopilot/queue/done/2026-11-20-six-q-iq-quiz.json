@@ -7,7 +7,7 @@
  },
  "youtube": {
   "title": "Quick IQ Test: Can You Get 6/6? 🧠 #shorts",
-  "description": "6 quick IQ questions, easy to legend 🧠 Did #6 break your brain?\nComment your score 👇\nWant more? Our full video has 12 tricky riddles.\n\nFollow for a new quiz every day! 🧠\n\n#iqtest #iqquiz #brainteaser #riddles #quiz #shorts\n\nMusic: original.",
+  "description": "6 quick IQ questions, easy to legend 🧠 Did #6 break your brain?\nComment your score 👇\nWant more? Our full video has 12 tricky riddles.\n\nFollow for a new quiz every day! 🧠\n\n#iqtest #iqquiz #brainteaser #riddles #quiz #shorts\n\nFootage via Wikimedia Commons: The Pizza Crimes – Creative Action (CC BY 3.0); Clock invers rotiert – Bundesanstalt für Materialforschung und -prüfung - Sven Frit (CC BY-SA 4.0); Armenian Sign Language (ArSL) - բարձիկ-ջնջոց - blackboard duster – Operator : Lusine Bekaryan, Video Editor : Armine Bekaryan,  (CC BY-SA 4.0); Cneifio defaid mewn Nantymaen Sheep-Shearing – Rupertmaesglas (CC0); Cherry trees in an orchard as viewed from FPV drone – anotherview (CC BY 3.0); Tai Ahom alphabet is blocked – 咽頭べさ (CC BY-SA 4.0)\nMusic: original.",
   "tags": [
    "iq quiz",
    "iq test",
@@ -49,7 +49,13 @@
     "correct": 2,
     "level": "EASY",
     "broll": "pizza slices",
-    "cardText": "🍕"
+    "cardText": "🍕",
+    "start": 0.0,
+    "keywordAt": 0.466,
+    "countdownStart": 1.634,
+    "reveal": 4.134,
+    "end": 6.119,
+    "video": "broll/six-q-genius-iq-pop-0.mp4"
    },
    {
     "q": "How many **seconds** are in 3 minutes?",
@@ -62,7 +68,13 @@
     "correct": 0,
     "level": "EASY",
     "broll": "stopwatch",
-    "cardText": "⏱️"
+    "cardText": "⏱️",
+    "start": 6.119,
+    "keywordAt": 6.58,
+    "countdownStart": 7.939,
+    "reveal": 10.439,
+    "end": 12.531,
+    "video": "broll/six-q-genius-iq-pop-1.mp4"
    },
    {
     "q": "What comes next: **1, 3, 6, 10, ?**",
@@ -75,7 +87,12 @@
     "correct": 1,
     "level": "MEDIUM",
     "broll": "chalkboard",
-    "cardText": "1·3·6·10·?"
+    "cardText": "1·3·6·10·?",
+    "start": 12.531,
+    "countdownStart": 14.792,
+    "reveal": 17.292,
+    "end": 19.363,
+    "video": "broll/six-q-genius-iq-pop-2.mp4"
    },
    {
     "q": "A farmer has 17 sheep. **All but 9** run away. How many are left?",
@@ -88,7 +105,12 @@
     "correct": 3,
     "level": "HARD",
     "broll": "sheep field",
-    "cardText": "🐑 ×17"
+    "cardText": "🐑 ×17",
+    "start": 19.363,
+    "countdownStart": 22.754,
+    "reveal": 25.254,
+    "end": 27.413,
+    "video": "broll/six-q-genius-iq-pop-3.mp4"
    },
    {
     "q": "You have 3 apples and **take away 2**. How many do YOU have?",
@@ -101,7 +123,13 @@
     "correct": 1,
     "level": "HARD",
     "broll": "apple orchard",
-    "cardText": "🍎🍎🍎"
+    "cardText": "🍎🍎🍎",
+    "start": 27.413,
+    "keywordAt": 28.313,
+    "countdownStart": 30.253,
+    "reveal": 32.753,
+    "end": 34.713,
+    "video": "broll/six-q-genius-iq-pop-4.mp4"
    },
    {
     "q": "Which letter comes next: **O, T, T, F, F, S, S, ?**",
@@ -114,9 +142,17 @@
     "correct": 3,
     "level": "LEGEND",
     "broll": "alphabet blocks",
-    "cardText": "O·T·T·F·F·S·S·?"
+    "cardText": "O·T·T·F·F·S·S·?",
+    "start": 34.713,
+    "countdownStart": 37.974,
+    "reveal": 40.474,
+    "end": 43.421,
+    "video": "broll/six-q-genius-iq-pop-5.mp4"
    }
-  ]
+  ],
+  "audio": "audio/six-q-genius-iq-pop.mp3",
+  "outroStart": 43.421,
+  "durationInSeconds": 43.421
  },
  "lines": [
   {
@@ -143,5 +179,22 @@
    "q": "Last one. What comes next? O, T, T, F, F, S, S...",
    "a": "E, for eight! Follow if you got all six!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -20.8,
+  "truePeak": -3.8,
+  "lra": 5.6,
+  "normalized": true,
+  "frozenShare": 0.407,
+  "longestFreezeSec": 3.4,
+  "frame0Luma": 83.3,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-20T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "iC_5rEZQZcM",
+  "at": "2026-11-20T06:32"
+ }
 }
