@@ -3,9 +3,9 @@
  "groups": {
   "short.format": {
    "6+ Fragen": {
-    "n": 21,
-    "avgViews": 541,
-    "medianViews": 257,
+    "n": 22,
+    "avgViews": 560,
+    "medianViews": 270,
     "bestViews": 1555,
     "stayed": 50.3,
     "avgPct": 49.1,
@@ -427,6 +427,15 @@
     "avgPct": null,
     "subs": 0
    },
+   "TRICKY QUIZ": {
+    "n": 1,
+    "avgViews": 962,
+    "medianViews": 962,
+    "bestViews": 962,
+    "stayed": null,
+    "avgPct": null,
+    "subs": 0
+   },
    "GENERAL KNOWLEDGE": {
     "n": 4,
     "avgViews": 573,
@@ -484,9 +493,9 @@
     "subs": 0
    },
    "atlas": {
-    "n": 12,
-    "avgViews": 305,
-    "medianViews": 175,
+    "n": 13,
+    "avgViews": 355,
+    "medianViews": 190,
     "bestViews": 1555,
     "stayed": 43.9,
     "avgPct": 50.5,
@@ -513,9 +522,9 @@
     "subs": 3.0
    },
    "game-show.wav": {
-    "n": 25,
-    "avgViews": 549,
-    "medianViews": 303,
+    "n": 26,
+    "avgViews": 565,
+    "medianViews": 360,
     "bestViews": 1555,
     "stayed": 48.3,
     "avgPct": 63.8,
@@ -560,9 +569,9 @@
     "subs": 11.0
    },
    "21:00": {
-    "n": 27,
-    "avgViews": 474,
-    "medianViews": 312,
+    "n": 28,
+    "avgViews": 491,
+    "medianViews": 320,
     "bestViews": 1189,
     "stayed": 51.8,
     "avgPct": 65.8,
@@ -886,7 +895,7 @@
    "avgPct": 60.19,
    "subs": 0.0,
    "durationSec": 184,
-   "ageDays": 33.1,
+   "ageDays": 33.2,
    "search": null
   },
   {
@@ -905,7 +914,7 @@
    "avgPct": 61.11,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 33.1,
+   "ageDays": 33.2,
    "search": null
   },
   {
@@ -943,7 +952,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 32.0,
+   "ageDays": 32.1,
    "search": null
   },
   {
@@ -1095,7 +1104,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 29.2,
+   "ageDays": 29.3,
    "search": null
   },
   {
@@ -1133,7 +1142,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 28.2,
+   "ageDays": 28.3,
    "search": null
   },
   {
@@ -1209,7 +1218,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 27.2,
+   "ageDays": 27.3,
    "search": null
   },
   {
@@ -1760,7 +1769,7 @@
    "avgPct": 11.39,
    "subs": 0.0,
    "durationSec": 683,
-   "ageDays": 14.0,
+   "ageDays": 14.1,
    "search": null
   },
   {
@@ -2372,6 +2381,25 @@
    "search": null
   },
   {
+   "file": "2026-11-18-six-q-genius-tricky-2.json",
+   "id": "six-q-genius-tricky-2",
+   "videoId": "fEBtZsTi4kE",
+   "kind": "short",
+   "title": "Only Geniuses Get 6/6 🧠 Tricky Quiz #shorts",
+   "format": "6+ Fragen",
+   "topic": "TRICKY QUIZ",
+   "layout": "atlas",
+   "music": "game-show.wav",
+   "slot": "21:00",
+   "publicViews": 962.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 41,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-28-long.json",
    "id": "auto-2026-10-28-long",
    "videoId": "zZDclzxCTSg",
@@ -2406,7 +2434,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 23.9,
+   "ageDays": 24.0,
    "search": null
   },
   {
@@ -2425,7 +2453,7 @@
    "avgPct": 103.37,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 23.9,
+   "ageDays": 24.0,
    "search": null
   },
   {
@@ -2482,7 +2510,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 22.0,
+   "ageDays": 22.1,
    "search": null
   },
   {
