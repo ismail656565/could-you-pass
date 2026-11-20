@@ -1,0 +1,860 @@
+{
+ "id": "thanksgiving-quiz-50-1",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Thanksgiving Trivia Quiz 🦃 50 Questions – Can You Get 40?",
+  "description": "50 Thanksgiving trivia questions from easy to legend 🦃 Pilgrims, parades, turkeys and football – can you get 40 out of 50?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#Thanksgiving #ThanksgivingTrivia #TriviaQuiz #Quiz #GeneralKnowledge #FamilyQuiz\n\nMusic: original.",
+  "tags": [
+   "thanksgiving trivia",
+   "thanksgiving quiz",
+   "thanksgiving trivia questions and answers",
+   "trivia quiz",
+   "family quiz",
+   "history quiz",
+   "pilgrims",
+   "general knowledge quiz",
+   "quiz"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you get out of 50? 🦃 Which legend question got you? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "Thanksgiving Quiz",
+  "header": "THANKSGIVING QUIZ",
+  "hook": "CAN YOU GET 40/50? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you get 40?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 24,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "THANKSGIVING **QUIZ**",
+   "CAN YOU GET **40/50**?",
+   "CAN YOU BEAT **LEGEND**?"
+  ],
+  "thumbEmoji": "🦃",
+  "thumbBadge": "50 QUESTIONS",
+  "cardColors": [
+   "#1E3A8A",
+   "#0B0B2E"
+  ],
+  "questions": [
+   {
+    "q": "Canada celebrates Thanksgiving in which **month**?",
+    "answers": [
+     "October",
+     "September",
+     "November",
+     "December"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🍁"
+   },
+   {
+    "q": "US Thanksgiving is on which **Thursday** of November?",
+    "answers": [
+     "First",
+     "Second",
+     "Third",
+     "Fourth"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🗓️"
+   },
+   {
+    "q": "Which store's famous **parade** fills New York?",
+    "answers": [
+     "Macy's",
+     "Target",
+     "Walmart",
+     "Sears"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🎈"
+   },
+   {
+    "q": "Which sport fills TV screens every **Thanksgiving**?",
+    "answers": [
+     "Baseball",
+     "Basketball",
+     "Ice hockey",
+     "American football"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "📺"
+   },
+   {
+    "q": "A **male** turkey is called a…?",
+    "answers": [
+     "Buck",
+     "Tom",
+     "Rooster",
+     "Bull"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🦃"
+   },
+   {
+    "q": "Which red **berry** sauce is a Thanksgiving classic?",
+    "answers": [
+     "Raspberry",
+     "Cherry",
+     "Cranberry",
+     "Strawberry"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🍽️"
+   },
+   {
+    "q": "The day after Thanksgiving is a huge **shopping** day…?",
+    "answers": [
+     "Black Friday",
+     "Cyber Monday",
+     "Boxing Day",
+     "Super Saturday"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🛍️"
+   },
+   {
+    "q": "Which **pie** is the classic Thanksgiving dessert?",
+    "answers": [
+     "Lemon",
+     "Key lime",
+     "Pumpkin",
+     "Cherry"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🥧"
+   },
+   {
+    "q": "What does the US **president** pardon each year?",
+    "answers": [
+     "A pumpkin",
+     "A turkey",
+     "A pie",
+     "A pilgrim"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🏛️"
+   },
+   {
+    "q": "Which side dish is often topped with **marshmallows**?",
+    "answers": [
+     "Mashed potatoes",
+     "Stuffing",
+     "Green beans",
+     "Sweet potatoes"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🍠"
+   },
+   {
+    "q": "Which Native people shared the **1621** harvest feast?",
+    "answers": [
+     "Cherokee",
+     "Apache",
+     "Wampanoag",
+     "Sioux"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🌽"
+   },
+   {
+    "q": "In which present-day **state** was the 1621 feast?",
+    "answers": [
+     "Virginia",
+     "Massachusetts",
+     "New York",
+     "Maine"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🗺️"
+   },
+   {
+    "q": "Which president made Thanksgiving **national** in 1863?",
+    "answers": [
+     "Abraham Lincoln",
+     "Thomas Jefferson",
+     "George Washington",
+     "Theodore Roosevelt"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "1863"
+   },
+   {
+    "q": "Which NFL team began its Thanksgiving game in **1934**?",
+    "answers": [
+     "Dallas Cowboys",
+     "Detroit Lions",
+     "Chicago Bears",
+     "Green Bay Packers"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🏈"
+   },
+   {
+    "q": "What was the Pilgrims' **colony** called?",
+    "answers": [
+     "Jamestown",
+     "Roanoke",
+     "Plymouth",
+     "Salem"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "⛵"
+   },
+   {
+    "q": "Which sitcom had a **Thanksgiving** episode every season?",
+    "answers": [
+     "Seinfeld",
+     "The Office",
+     "Frasier",
+     "Friends"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "📺"
+   },
+   {
+    "q": "The song **Over the River** was written about…?",
+    "answers": [
+     "Christmas",
+     "Thanksgiving",
+     "New Year",
+     "Easter"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎶"
+   },
+   {
+    "q": "Where do wild turkeys **sleep** at night?",
+    "answers": [
+     "In burrows",
+     "In tall grass",
+     "In trees",
+     "In caves"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "🌙"
+   },
+   {
+    "q": "Which brand runs a famous turkey **hotline**?",
+    "answers": [
+     "Butterball",
+     "Tyson",
+     "Kraft",
+     "Heinz"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "☎️"
+   },
+   {
+    "q": "Macy's giant parade **balloons** are filled with…?",
+    "answers": [
+     "Hot air",
+     "Hydrogen",
+     "Oxygen",
+     "Helium"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🎈"
+   },
+   {
+    "q": "How many **days** did the 1621 feast last?",
+    "answers": [
+     "One",
+     "Two",
+     "Three",
+     "Seven"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "1621"
+   },
+   {
+    "q": "FDR's earlier Thanksgiving got which **nickname**?",
+    "answers": [
+     "Franksgiving",
+     "Roosevelt Day",
+     "New Deal Day",
+     "Early Bird Day"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "1939"
+   },
+   {
+    "q": "The turkey is **native** to which continent?",
+    "answers": [
+     "Asia",
+     "Africa",
+     "Europe",
+     "North America"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "🌍"
+   },
+   {
+    "q": "Which Wampanoag man **spoke English** to the Pilgrims?",
+    "answers": [
+     "Squanto",
+     "Pocahontas",
+     "Sacagawea",
+     "Sitting Bull"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🗣️"
+   },
+   {
+    "q": "Who called the turkey more **respectable** than the eagle?",
+    "answers": [
+     "Benjamin Franklin",
+     "George Washington",
+     "Thomas Jefferson",
+     "John Adams"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🦅"
+   },
+   {
+    "q": "Which **state** grows the most cranberries?",
+    "answers": [
+     "Massachusetts",
+     "New Jersey",
+     "Wisconsin",
+     "Oregon"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🫐"
+   },
+   {
+    "q": "A **baby** turkey is called a…?",
+    "answers": [
+     "Kit",
+     "Poult",
+     "Cygnet",
+     "Cub"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🐣"
+   },
+   {
+    "q": "Why do fresh **cranberries** float?",
+    "answers": [
+     "Air pockets inside",
+     "They're full of oil",
+     "They're full of sugar",
+     "Their stems"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "💧"
+   },
+   {
+    "q": "Which turkeys **gobble**?",
+    "answers": [
+     "Only females",
+     "Only males",
+     "Both",
+     "Only babies"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🔊"
+   },
+   {
+    "q": "What did the Pilgrims sign **aboard** the Mayflower?",
+    "answers": [
+     "Magna Carta",
+     "Bill of Rights",
+     "Mayflower Compact",
+     "Declaration of Rights"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "📜"
+   },
+   {
+    "q": "How many Wampanoag men came to the **1621** feast?",
+    "answers": [
+     "About ninety",
+     "About fifty",
+     "About twenty",
+     "About two hundred"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "1621"
+   },
+   {
+    "q": "Who declared the **first** national thanksgiving, in 1789?",
+    "answers": [
+     "John Adams",
+     "George Washington",
+     "Thomas Jefferson",
+     "Abraham Lincoln"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "1789"
+   },
+   {
+    "q": "Which president **officially** pardoned a turkey first?",
+    "answers": [
+     "Harry Truman",
+     "John F. Kennedy",
+     "George H. W. Bush",
+     "Ronald Reagan"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🏛️"
+   },
+   {
+    "q": "Which **company** created green bean casserole?",
+    "answers": [
+     "Kraft",
+     "Heinz",
+     "Nestlé",
+     "Campbell's"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🥫"
+   },
+   {
+    "q": "The flap hanging over a turkey's **beak** is the…?",
+    "answers": [
+     "Snood",
+     "Wattle",
+     "Comb",
+     "Crest"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🦃"
+   },
+   {
+    "q": "A **group** of wild turkeys can be called a…?",
+    "answers": [
+     "Pride",
+     "Parliament",
+     "Rafter",
+     "Murder"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🦃🦃"
+   },
+   {
+    "q": "The **Three Sisters** crops: corn, beans and…?",
+    "answers": [
+     "Squash",
+     "Wheat",
+     "Potatoes",
+     "Rice"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🌱"
+   },
+   {
+    "q": "Before America, the Pilgrims lived in which **country**?",
+    "answers": [
+     "France",
+     "Netherlands",
+     "Scotland",
+     "Germany"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🧭"
+   },
+   {
+    "q": "Which **meat** did the Wampanoag bring to the feast?",
+    "answers": [
+     "Beef",
+     "Pork",
+     "Deer",
+     "Lamb"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🍖"
+   },
+   {
+    "q": "Which Arlo Guthrie song is a Thanksgiving **radio** classic?",
+    "answers": [
+     "This Land Is Your Land",
+     "City of New Orleans",
+     "Coming Into Los Angeles",
+     "Alice's Restaurant"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "📻"
+   },
+   {
+    "q": "In which year did the Macy's parade **begin**?",
+    "answers": [
+     "1924",
+     "1910",
+     "1939",
+     "1950"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🗽"
+   },
+   {
+    "q": "Macy's first **character** balloon, in 1927, was…?",
+    "answers": [
+     "Mickey Mouse",
+     "Felix the Cat",
+     "Popeye",
+     "Betty Boop"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "1927"
+   },
+   {
+    "q": "Which city has America's oldest Thanksgiving **parade**?",
+    "answers": [
+     "Philadelphia",
+     "Detroit",
+     "New York",
+     "Chicago"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🏙️"
+   },
+   {
+    "q": "Thanksgiving champion **Sarah Hale** also wrote…?",
+    "answers": [
+     "Twinkle, Twinkle, Little Star",
+     "Mary Had a Little Lamb",
+     "Humpty Dumpty",
+     "Hickory Dickory Dock"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "✍️"
+   },
+   {
+    "q": "When did Congress fix Thanksgiving to the **fourth** Thursday?",
+    "answers": [
+     "1863",
+     "1921",
+     "1941",
+     "1959"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "⚖️"
+   },
+   {
+    "q": "From which port did the Mayflower **finally** set sail?",
+    "answers": [
+     "London",
+     "Southampton",
+     "Bristol",
+     "Plymouth"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "⚓"
+   },
+   {
+    "q": "How many **passengers** sailed on the Mayflower?",
+    "answers": [
+     "52",
+     "102",
+     "202",
+     "302"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "⛵"
+   },
+   {
+    "q": "How many Mayflower passengers survived the **first winter**?",
+    "answers": [
+     "Almost all",
+     "About three quarters",
+     "About half",
+     "Only ten"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "❄️"
+   },
+   {
+    "q": "Who led the **Wampanoag** at the 1621 feast?",
+    "answers": [
+     "Massasoit",
+     "Metacom",
+     "Powhatan",
+     "Tecumseh"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🤝"
+   },
+   {
+    "q": "A turkey's **wishbone** is properly called the…?",
+    "answers": [
+     "Patella",
+     "Sternum",
+     "Scapula",
+     "Furcula"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🦴"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Fifty questions, from easy to legend, and they get harder every round. Keep score! First one: in which month does Canada celebrate Thanksgiving?",
+   "a": "October! On the second Monday, about six weeks before the American one."
+  },
+  {
+   "q": "American Thanksgiving is on which Thursday of November?",
+   "a": "The fourth! So it can land anywhere from the twenty second to the twenty eighth."
+  },
+  {
+   "q": "Which store's famous parade fills New York City every Thanksgiving morning?",
+   "a": "Macy's! Millions watch it on the streets and on TV."
+  },
+  {
+   "q": "Which sport fills TV screens every Thanksgiving?",
+   "a": "American football! The N F L has played on Thanksgiving for about a century."
+  },
+  {
+   "q": "A male turkey is called a what?",
+   "a": "A tom! Also called a gobbler. Nice, five down!"
+  },
+  {
+   "q": "Which red berry sauce is a Thanksgiving classic?",
+   "a": "Cranberry! Some people still love the can-shaped version."
+  },
+  {
+   "q": "The day after Thanksgiving is a huge shopping day. What is it called?",
+   "a": "Black Friday! One of the busiest shopping days of the year."
+  },
+  {
+   "q": "Which pie is the classic Thanksgiving dessert?",
+   "a": "Pumpkin! Spiced with cinnamon, nutmeg and ginger."
+  },
+  {
+   "q": "Every Thanksgiving, what does the American president pardon?",
+   "a": "A turkey! The lucky bird gets to live out its days on a farm."
+  },
+  {
+   "q": "Which side dish is often topped with marshmallows?",
+   "a": "Sweet potatoes! Ten easy ones done. How many did you get?"
+  },
+  {
+   "q": "Round two, medium. Which Native American people shared the sixteen twenty one harvest feast with the Pilgrims?",
+   "a": "The Wampanoag! They had lived in that area for thousands of years."
+  },
+  {
+   "q": "In which present-day state was that feast?",
+   "a": "Massachusetts! On the coast, south of where Boston is today."
+  },
+  {
+   "q": "Which president made Thanksgiving a national holiday in eighteen sixty three?",
+   "a": "Abraham Lincoln! Right in the middle of the Civil War."
+  },
+  {
+   "q": "Which N F L team started its Thanksgiving home game tradition in nineteen thirty four?",
+   "a": "The Detroit Lions! The Cowboys joined the tradition in the sixties."
+  },
+  {
+   "q": "What was the Pilgrims' colony called?",
+   "a": "Plymouth! Great job, fifteen down."
+  },
+  {
+   "q": "Which sitcom had a Thanksgiving episode in every single season?",
+   "a": "Friends! All ten seasons, including the famous turkey on the head."
+  },
+  {
+   "q": "The song Over the River and Through the Wood was written about which holiday?",
+   "a": "Thanksgiving! It began as an eighteen forty four poem by Lydia Maria Child."
+  },
+  {
+   "q": "Where do wild turkeys sleep at night?",
+   "a": "Up in trees! Wild turkeys can fly, and they roost on branches."
+  },
+  {
+   "q": "Which brand runs a famous turkey cooking hotline?",
+   "a": "Butterball! Its Turkey Talk-Line has helped cooks since nineteen eighty one."
+  },
+  {
+   "q": "Macy's giant parade balloons are filled with which gas?",
+   "a": "Helium! Medium round done. How's your score?"
+  },
+  {
+   "q": "Round three, hard. How many days did the sixteen twenty one feast last?",
+   "a": "Three days! It was a harvest festival, not one big dinner."
+  },
+  {
+   "q": "In nineteen thirty nine, F D R moved Thanksgiving a week earlier. What did people call it?",
+   "a": "Franksgiving! He wanted a longer shopping season during the Depression."
+  },
+  {
+   "q": "The turkey bird is native to which continent?",
+   "a": "North America! Despite the name, it didn't come from the country Turkey."
+  },
+  {
+   "q": "Which Wampanoag man spoke English and helped the Pilgrims?",
+   "a": "Squanto! He had learned English after being taken to Europe."
+  },
+  {
+   "q": "Who wrote that the turkey was a more respectable bird than the bald eagle?",
+   "a": "Benjamin Franklin! In a letter to his daughter. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Which state grows the most cranberries?",
+   "a": "Wisconsin! More than half of America's whole crop."
+  },
+  {
+   "q": "A baby turkey is called a what?",
+   "a": "A poult! Turkey chicks get their own special name."
+  },
+  {
+   "q": "Why do fresh cranberries float?",
+   "a": "Air pockets! That's why farmers flood the bogs to harvest them."
+  },
+  {
+   "q": "Which turkeys gobble?",
+   "a": "Only the males! Hens cluck and yelp instead."
+  },
+  {
+   "q": "What did the Pilgrims sign aboard the Mayflower?",
+   "a": "The Mayflower Compact! Hard round finished. Still with me?"
+  },
+  {
+   "q": "Round four, very hard. About how many Wampanoag men came to the sixteen twenty one feast?",
+   "a": "About ninety! Almost twice as many as the English settlers."
+  },
+  {
+   "q": "Which president declared the first national day of thanksgiving, in seventeen eighty nine?",
+   "a": "George Washington! Lincoln made it a yearly holiday much later."
+  },
+  {
+   "q": "Which president was the first to officially pardon a turkey?",
+   "a": "George H W Bush, in nineteen eighty nine! Truman never actually pardoned one."
+  },
+  {
+   "q": "Which company created green bean casserole?",
+   "a": "Campbell's! Its test kitchen came up with it in nineteen fifty five."
+  },
+  {
+   "q": "The fleshy flap that hangs over a turkey's beak is called the what?",
+   "a": "The snood! Thirty five down, nice work."
+  },
+  {
+   "q": "A group of wild turkeys can be called a what?",
+   "a": "A rafter! Or you can just say a flock."
+  },
+  {
+   "q": "The Three Sisters crops are corn, beans, and what?",
+   "a": "Squash! The three grow together and help each other."
+  },
+  {
+   "q": "Before sailing to America, the Pilgrims lived for years in which country?",
+   "a": "The Netherlands! In the city of Leiden, for about eleven years."
+  },
+  {
+   "q": "Which meat did the Wampanoag bring to the sixteen twenty one feast?",
+   "a": "Deer! Five of them, according to a Pilgrim's letter."
+  },
+  {
+   "q": "Which Arlo Guthrie song is a Thanksgiving radio tradition?",
+   "a": "Alice's Restaurant! An eighteen minute story song set on Thanksgiving. Very hard round done!"
+  },
+  {
+   "q": "Final round, legend! In which year did the Macy's parade begin?",
+   "a": "Nineteen twenty four! It even had live animals from the Central Park Zoo."
+  },
+  {
+   "q": "Which cartoon star was Macy's first character balloon, in nineteen twenty seven?",
+   "a": "Felix the Cat! Mickey Mouse didn't fly until the thirties."
+  },
+  {
+   "q": "Which city has America's oldest Thanksgiving parade?",
+   "a": "Philadelphia! It started in nineteen twenty, four years before Macy's."
+  },
+  {
+   "q": "Sarah Josepha Hale, the mother of Thanksgiving, also wrote which nursery rhyme?",
+   "a": "Mary Had a Little Lamb! She also campaigned for seventeen years to make Thanksgiving national."
+  },
+  {
+   "q": "In which year did Congress fix Thanksgiving to the fourth Thursday?",
+   "a": "Nineteen forty one! Right after the Franksgiving mess. Forty five down!"
+  },
+  {
+   "q": "From which English port did the Mayflower finally set sail?",
+   "a": "Plymouth! The same name the Pilgrims later gave their new home."
+  },
+  {
+   "q": "How many passengers sailed on the Mayflower?",
+   "a": "One hundred and two! Plus a crew of around thirty."
+  },
+  {
+   "q": "Three left, stay with me! How many Mayflower passengers survived that first winter?",
+   "a": "About half! Disease and cold hit them hard."
+  },
+  {
+   "q": "Who led the Wampanoag at the sixteen twenty one feast?",
+   "a": "Massasoit! His peace treaty with the Pilgrims lasted for decades."
+  },
+  {
+   "q": "Final question. What's the proper name for a turkey's wishbone?",
+   "a": "The furcula! Make a wish, you made it to the end."
+  }
+ ]
+}

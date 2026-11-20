@@ -661,3 +661,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - E14 Rätsel-Long „12 Tricky Riddles“ 32 Views n. ≈2 h (US-Karten-Long 19 n. 2,3 T) → 7-min-Format läuft weiter.
 - E13 Vorab-Verdict ✗: erste 4 Longs 131/18/25/19 → Median 22 (Ziel 30) → keine Karten-/Emoji-Long-Serie mehr; Long-Plätze = Feiertage (Thanksgiving 21.11., Christmas 24.11.) + Rätsel.
 - Technik: Produktions-Auftrag 19.11. nicht ausgeführt → 21.11.-Items + 6 Karten-Formen fehlen; QA-Warnung Standbild 26,6 s im Rätsel-Long.
+
+## 2026-11-20 07:30 – Produktion (Queue 21.11.)
+- Technik: 19.11. fielen ALLE GitHub-Schedule-Läufe zwischen 01:55 und 16:32 UTC aus (kein Fehler im Code, GitHub hat die Crons verschluckt) und der Produktions-Dispatch fehlte → Long kam 17:13 statt 14:00, 16:00-Short 16:50 (sofort public), map-lie-3 korrekt 21:00. Soll 19.11. trotzdem 2+1 erfüllt. Gegenmittel = täglicher Dispatch durch den Produktions-Agenten (heute 07:3x ausgelöst).
+- QA-Warnung „Standbild 26,6 s“ im Rätsel-Long = gewollte 20-s-Denkpause (count 20) → kein Bug; bei künftigen Rätsel-Longs count ≤ 12 oder Timer-Animation prüfen, frozenShare 0,88.
+- Shorts (Snapshot 19.11. 19:25, 26 Abos): neues Titelmuster „Geography Trivia: 90% Get #4 Wrong 🌍“ 244 n. ≈2,6 h (Tricky-2 635 n. ≈1 T, USA-pop 237, Capitals-pop 160, Geography 115, Landmarks 67) → 1. Abweichen vom „Only Geniuses“-Titel startet am stärksten seit 10.11.
+- Longs: Rätsel-Long 32 n. ≈2 h (US-Karten-Long 19 n. 2,3 T) → bestes Long-Startfenster seit Karten-Long #1.
+- Thumbnails: CTR per API weiter HttpError 400; Thanksgiving-Long nutzt v2 mit 🦃 (kein passendes Foto in image-credits.json).
+- Queue: iq-quiz (heute 16:00) von pop auf tvshow umgestellt (Research 20.11.: pop-Vorteil widerlegt). 21.11. angelegt: thanksgiving-quiz-50-1 (14:00, 1.039 Wörter, Indizes 15/12/13/10), six-q-which-first-3 (16:00, tvshow, 59 Wörter; Duplikat-Check strich Oxford/Aztec, Fax, Nintendo, Feuerzeug, Harvard, T-rex → neu Haie vs Bäume, Glühbirne, Kolosseum, #4 Falle Ballonflug 1783 vor US-Verfassung, Handy-Anruf 1973, Kleopatra näher an Mondlandung), map-lie-5 (21:00, 50 Wörter, neue Formen egypt/saudiarabia/thailand/argentina; Kontrollspalte stützt alle 4: Egypt 1.003.171 > Norway 319.996, Saudi 1.925.821 > Alaska 1.493.172, Thailand 514.947 > Sweden 442.847, India 3.153.346 > Argentina 2.782.074).

@@ -1,0 +1,124 @@
+{
+ "id": "map-lie-5",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "This Map Is Lying To You #5 🌍 Which Is REALLY Bigger? #shorts",
+  "description": "Flat maps stretch everything near the poles. Watch each country slide to its real size 🌍 Did Argentina vs India get you?\nComment your score out of 4 👇\n\nFollow for a new quiz every day! 🧠\n\n#map #geography #truesize #whichisbigger #quiz #shorts\n\nData: CIA World Factbook, total area (Norway 323,802 km²; Egypt 1,001,450; Saudi Arabia 2,149,690; Thailand 513,120; Sweden 450,295; Argentina 2,780,400; India 3,287,263) and US Census Bureau (Alaska 1,723,337 km²).\nOutlines: Natural Earth (public domain). The shapes are moved on the globe and re-projected (Mercator) – no resizing by hand.\nMusic: original.",
+  "tags": [
+   "true size of countries",
+   "mercator map",
+   "which is bigger",
+   "map quiz",
+   "geography quiz",
+   "argentina vs india",
+   "egypt vs norway",
+   "map lies",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Argentina vs India – did the map fool you? 🌍 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "map-lie-5",
+  "type": "truesize",
+  "title": "This Map Is Lying To You #5",
+  "kicker": "MAP TEST #5",
+  "hookText": [
+   "THIS MAP",
+   "IS LYING",
+   "TO YOU"
+  ],
+  "hookLine": "This map is lying to you. Four rounds, can you beat it?",
+  "question": "Which is really bigger?",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "norway",
+     "name": "Norway",
+     "km2": 323802
+    },
+    "b": {
+     "shape": "egypt",
+     "name": "Egypt",
+     "km2": 1001450
+    },
+    "mover": "a",
+    "verdict": "3x bigger",
+    "lines": {
+     "q": "Norway, or Egypt?",
+     "a": "Egypt! Three times bigger."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "saudiarabia",
+     "name": "Saudi Arabia",
+     "km2": 2149690
+    },
+    "b": {
+     "shape": "alaska",
+     "name": "Alaska",
+     "km2": 1723337
+    },
+    "mover": "b",
+    "verdict": "25% bigger",
+    "lines": {
+     "q": "Saudi Arabia, or Alaska?",
+     "a": "Saudi Arabia! Alaska just shrank."
+    },
+    "winner": "a"
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "sweden",
+     "name": "Sweden",
+     "km2": 450295
+    },
+    "b": {
+     "shape": "thailand",
+     "name": "Thailand",
+     "km2": 513120
+    },
+    "mover": "a",
+    "verdict": "14% bigger",
+    "lines": {
+     "q": "Sweden, or Thailand?",
+     "a": "Thailand! Did not see that coming."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "argentina",
+     "name": "Argentina",
+     "km2": 2780400
+    },
+    "b": {
+     "shape": "india",
+     "name": "India",
+     "km2": 3287263
+    },
+    "mover": "a",
+    "verdict": "18% bigger",
+    "lines": {
+     "q": "Last one. Argentina, or India?",
+     "a": "India! Think you got all four? Go again!"
+    },
+    "winner": "b"
+   }
+  ],
+  "sources": [
+   "Areas: CIA World Factbook, total area (Norway 323,802 km²; Egypt 1,001,450; Saudi Arabia 2,149,690; Thailand 513,120; Sweden 450,295; Argentina 2,780,400; India 3,287,263); Alaska: US Census Bureau (1,723,337 km²)",
+   "Outlines: Natural Earth (public domain)"
+  ]
+ }
+}

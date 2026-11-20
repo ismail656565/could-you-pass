@@ -1,0 +1,140 @@
+{
+ "id": "six-q-which-first-3",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.8
+ },
+ "youtube": {
+  "title": "Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts",
+  "description": "6 \"which came first\" questions that trick almost everyone ⏳ Did sharks vs trees get you?\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #trivia #whichcamefirst #historyquiz #generalknowledge #shorts\n\nMusic: original.",
+  "tags": [
+   "which came first",
+   "which came first quiz",
+   "history quiz",
+   "trivia quiz",
+   "general knowledge quiz",
+   "timeline quiz",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Sharks before trees 🦈🌳 How many did you get out of 6? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Which Came First?",
+  "header": "WHICH CAME FIRST?",
+  "hook": "90% GET #1 WRONG 😏",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "FIRST!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Which existed **first**?",
+    "answers": [
+     "Trees",
+     "Sharks",
+     "Dinosaurs",
+     "Flowers"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌊"
+   },
+   {
+    "q": "Which came **first**?",
+    "answers": [
+     "Statue of Liberty",
+     "Coca-Cola",
+     "Edison's light bulb",
+     "Eiffel Tower"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🕰️"
+   },
+   {
+    "q": "Which was **built** first?",
+    "answers": [
+     "Colosseum",
+     "Hagia Sophia",
+     "Angkor Wat",
+     "Notre-Dame"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🧱"
+   },
+   {
+    "q": "Which happened **first**?",
+    "answers": [
+     "US Constitution",
+     "French Revolution",
+     "Mozart's death",
+     "Hot-air balloon flight"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "📜"
+   },
+   {
+    "q": "Which came **first**?",
+    "answers": [
+     "Pac-Man",
+     "Sony Walkman",
+     "Mobile phone call",
+     "Rubik's Cube"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "📼"
+   },
+   {
+    "q": "Cleopatra lived **closer** in time to…?",
+    "answers": [
+     "Great Pyramid built",
+     "Stonehenge begun",
+     "Writing invented",
+     "Moon landing"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "👑"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Which existed first?",
+   "a": "Sharks! Older than trees."
+  },
+  {
+   "q": "Which came first?",
+   "a": "The light bulb! Eighteen seventy nine."
+  },
+  {
+   "q": "Which was built first?",
+   "a": "The Colosseum!"
+  },
+  {
+   "q": "Which happened first?",
+   "a": "The balloon flight! Before the Constitution."
+  },
+  {
+   "q": "Which came first?",
+   "a": "The mobile phone call! Nineteen seventy three."
+  },
+  {
+   "q": "Last one. Cleopatra lived closer in time to?",
+   "a": "The Moon landing! Think you got all six? Go again!"
+  }
+ ]
+}

@@ -102,6 +102,10 @@ const data = {
     cambodia: shape(byName('Cambodia'), 300),
     poland: shape(byName('Poland'), 300),
     norway: shape(clip(byName('Norway'), [4, 57, 32, 72]), 300),
+    egypt: shape(byName('Egypt'), 300),
+    saudiarabia: shape(byName('Saudi Arabia'), 300),
+    thailand: shape(byName('Thailand'), 300),
+    argentina: shape(byName('Argentina'), 600),
   },
   world: feature(w110, w110.objects.countries).features
     .filter((f) => f.properties.name !== 'Antarctica')
