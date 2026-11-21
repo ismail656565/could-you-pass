@@ -1,17 +1,17 @@
 {
- "fetched": "2026-11-21T06:15",
+ "fetched": "2026-11-21T15:22",
  "channel": "COULD YOU PASS?",
  "subscribers": "30",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 16358,
-    "engagedViews": 8050
+    "views": 16355,
+    "engagedViews": 8048
    },
    {
     "country": "PH",
-    "views": 893,
+    "views": 892,
     "engagedViews": 448
    },
    {
@@ -78,17 +78,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 16953,
-    "engagedViews": 7537
+    "views": 16955,
+    "engagedViews": 7538
    },
    {
     "deviceType": "TABLET",
-    "views": 4286,
-    "engagedViews": 2275
+    "views": 4289,
+    "engagedViews": 2277
    },
    {
     "deviceType": "TV",
-    "views": 1802,
+    "views": 1803,
     "engagedViews": 1391
    },
    {
@@ -108,7 +108,7 @@
    },
    {
     "ageGroup": "age25-34",
-    "viewerPercentage": 9.9
+    "viewerPercentage": 9.8
    },
    {
     "ageGroup": "age35-44",
@@ -129,6 +129,78 @@
   ]
  },
  "videos": [
+  {
+   "id": "uXyl9faBKeg",
+   "title": "Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts",
+   "published": "2026-11-21T15:00:34Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 42,
+   "publicViews": "0",
+   "status": {
+    "privacyStatus": "public",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
+  },
+  {
+   "id": "R-Oqrw1B_9o",
+   "title": "Thanksgiving Trivia Quiz 🦃 50 Questions – Can You Get 40?",
+   "published": "2026-11-21T13:00:11Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 664,
+   "publicViews": "0",
+   "status": {
+    "privacyStatus": "public",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
+  },
+  {
+   "id": "d8RgTGhLdqU",
+   "title": "This Map Is Lying To You #5 🌍 Which Is REALLY Bigger? #shorts",
+   "published": "2026-11-21T06:23:59Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 36,
+   "publicViews": "0",
+   "status": {
+    "privacyStatus": "private",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
+  },
   {
    "id": "J0f0JJrS5aE",
    "title": "This Map Is Lying To You #4 🌍 Which Is REALLY Bigger? #shorts",
@@ -208,7 +280,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 400,
-   "publicViews": "190",
+   "publicViews": "194",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -232,7 +304,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 43,
-   "publicViews": "952",
+   "publicViews": "1019",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -768,7 +840,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 41,
-   "publicViews": "964",
+   "publicViews": "965",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1305,7 +1377,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 38,
-   "publicViews": "1051",
+   "publicViews": "1053",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1334,513 +1406,10 @@
    "likes": 24,
    "comments": 1,
    "subscribersGained": 0,
-   "retention": [
-    [
-     0.01,
-     1.13,
-     0.455
-    ],
-    [
-     0.02,
-     1.11,
-     0.406
-    ],
-    [
-     0.03,
-     1.09,
-     0.357
-    ],
-    [
-     0.04,
-     1.07,
-     0.317
-    ],
-    [
-     0.05,
-     1.06,
-     0.287
-    ],
-    [
-     0.06,
-     1.06,
-     0.266
-    ],
-    [
-     0.07,
-     1.05,
-     0.251
-    ],
-    [
-     0.08,
-     1.06,
-     0.241
-    ],
-    [
-     0.09,
-     1.04,
-     0.233
-    ],
-    [
-     0.1,
-     1.01,
-     0.228
-    ],
-    [
-     0.11,
-     0.96,
-     0.224
-    ],
-    [
-     0.12,
-     0.95,
-     0.221
-    ],
-    [
-     0.13,
-     0.88,
-     0.219
-    ],
-    [
-     0.14,
-     0.77,
-     0.218
-    ],
-    [
-     0.15,
-     0.72,
-     0.218
-    ],
-    [
-     0.16,
-     0.7,
-     0.218
-    ],
-    [
-     0.17,
-     0.7,
-     0.219
-    ],
-    [
-     0.18,
-     0.7,
-     0.221
-    ],
-    [
-     0.19,
-     0.7,
-     0.223
-    ],
-    [
-     0.2,
-     0.69,
-     0.226
-    ],
-    [
-     0.21,
-     0.69,
-     0.229
-    ],
-    [
-     0.22,
-     0.69,
-     0.232
-    ],
-    [
-     0.23,
-     0.67,
-     0.235
-    ],
-    [
-     0.24,
-     0.67,
-     0.238
-    ],
-    [
-     0.25,
-     0.66,
-     0.242
-    ],
-    [
-     0.26,
-     0.65,
-     0.245
-    ],
-    [
-     0.27,
-     0.63,
-     0.248
-    ],
-    [
-     0.28,
-     0.59,
-     0.252
-    ],
-    [
-     0.29,
-     0.58,
-     0.255
-    ],
-    [
-     0.3,
-     0.55,
-     0.257
-    ],
-    [
-     0.31,
-     0.53,
-     0.259
-    ],
-    [
-     0.32,
-     0.54,
-     0.261
-    ],
-    [
-     0.33,
-     0.54,
-     0.262
-    ],
-    [
-     0.34,
-     0.52,
-     0.263
-    ],
-    [
-     0.35,
-     0.52,
-     0.265
-    ],
-    [
-     0.36,
-     0.52,
-     0.268
-    ],
-    [
-     0.37,
-     0.52,
-     0.272
-    ],
-    [
-     0.38,
-     0.52,
-     0.277
-    ],
-    [
-     0.39,
-     0.51,
-     0.283
-    ],
-    [
-     0.4,
-     0.52,
-     0.29
-    ],
-    [
-     0.41,
-     0.52,
-     0.298
-    ],
-    [
-     0.42,
-     0.51,
-     0.306
-    ],
-    [
-     0.43,
-     0.51,
-     0.316
-    ],
-    [
-     0.44,
-     0.49,
-     0.325
-    ],
-    [
-     0.45,
-     0.47,
-     0.335
-    ],
-    [
-     0.46,
-     0.47,
-     0.345
-    ],
-    [
-     0.47,
-     0.47,
-     0.356
-    ],
-    [
-     0.48,
-     0.47,
-     0.368
-    ],
-    [
-     0.49,
-     0.47,
-     0.379
-    ],
-    [
-     0.5,
-     0.46,
-     0.391
-    ],
-    [
-     0.51,
-     0.47,
-     0.403
-    ],
-    [
-     0.52,
-     0.47,
-     0.416
-    ],
-    [
-     0.53,
-     0.47,
-     0.428
-    ],
-    [
-     0.54,
-     0.47,
-     0.44
-    ],
-    [
-     0.55,
-     0.47,
-     0.452
-    ],
-    [
-     0.56,
-     0.46,
-     0.463
-    ],
-    [
-     0.57,
-     0.46,
-     0.474
-    ],
-    [
-     0.58,
-     0.46,
-     0.484
-    ],
-    [
-     0.59,
-     0.45,
-     0.493
-    ],
-    [
-     0.6,
-     0.45,
-     0.501
-    ],
-    [
-     0.61,
-     0.45,
-     0.509
-    ],
-    [
-     0.62,
-     0.45,
-     0.516
-    ],
-    [
-     0.63,
-     0.44,
-     0.522
-    ],
-    [
-     0.64,
-     0.44,
-     0.527
-    ],
-    [
-     0.65,
-     0.44,
-     0.532
-    ],
-    [
-     0.66,
-     0.43,
-     0.537
-    ],
-    [
-     0.67,
-     0.44,
-     0.541
-    ],
-    [
-     0.68,
-     0.44,
-     0.546
-    ],
-    [
-     0.69,
-     0.44,
-     0.55
-    ],
-    [
-     0.7,
-     0.44,
-     0.554
-    ],
-    [
-     0.71,
-     0.44,
-     0.558
-    ],
-    [
-     0.72,
-     0.44,
-     0.562
-    ],
-    [
-     0.73,
-     0.44,
-     0.567
-    ],
-    [
-     0.74,
-     0.43,
-     0.571
-    ],
-    [
-     0.75,
-     0.43,
-     0.574
-    ],
-    [
-     0.76,
-     0.41,
-     0.577
-    ],
-    [
-     0.77,
-     0.38,
-     0.579
-    ],
-    [
-     0.78,
-     0.38,
-     0.579
-    ],
-    [
-     0.79,
-     0.37,
-     0.578
-    ],
-    [
-     0.8,
-     0.35,
-     0.576
-    ],
-    [
-     0.81,
-     0.34,
-     0.574
-    ],
-    [
-     0.82,
-     0.34,
-     0.571
-    ],
-    [
-     0.83,
-     0.34,
-     0.569
-    ],
-    [
-     0.84,
-     0.34,
-     0.567
-    ],
-    [
-     0.85,
-     0.34,
-     0.566
-    ],
-    [
-     0.86,
-     0.34,
-     0.566
-    ],
-    [
-     0.87,
-     0.34,
-     0.566
-    ],
-    [
-     0.88,
-     0.34,
-     0.566
-    ],
-    [
-     0.89,
-     0.34,
-     0.566
-    ],
-    [
-     0.9,
-     0.34,
-     0.567
-    ],
-    [
-     0.91,
-     0.34,
-     0.568
-    ],
-    [
-     0.92,
-     0.34,
-     0.57
-    ],
-    [
-     0.93,
-     0.33,
-     0.574
-    ],
-    [
-     0.94,
-     0.33,
-     0.578
-    ],
-    [
-     0.95,
-     0.32,
-     0.586
-    ],
-    [
-     0.96,
-     0.3,
-     0.596
-    ],
-    [
-     0.97,
-     0.27,
-     0.609
-    ],
-    [
-     0.98,
-     0.27,
-     0.622
-    ],
-    [
-     0.99,
-     0.25,
-     0.636
-    ],
-    [
-     1,
-     0.25,
-     0.647
-    ]
-   ],
    "trafficSources": {
     "SHORTS": 210,
     "YT_SEARCH": 8,
-    "NO_LINK_OTHER": 0,
-    "YT_OTHER_PAGE": 0
+    "NO_LINK_OTHER": 0
    },
    "durationSec": 50,
    "publicViews": "284",
@@ -1872,508 +1441,6 @@
    "likes": 17,
    "comments": 1,
    "subscribersGained": 0,
-   "retention": [
-    [
-     0.01,
-     1.523,
-     0.635
-    ],
-    [
-     0.02,
-     1.523,
-     0.59
-    ],
-    [
-     0.03,
-     1.523,
-     0.551
-    ],
-    [
-     0.04,
-     1.523,
-     0.523
-    ],
-    [
-     0.05,
-     1.5,
-     0.509
-    ],
-    [
-     0.06,
-     1.5,
-     0.502
-    ],
-    [
-     0.07,
-     1.5,
-     0.5
-    ],
-    [
-     0.08,
-     1.454,
-     0.5
-    ],
-    [
-     0.09,
-     1.409,
-     0.5
-    ],
-    [
-     0.1,
-     1.409,
-     0.5
-    ],
-    [
-     0.11,
-     1.364,
-     0.5
-    ],
-    [
-     0.12,
-     1.273,
-     0.5
-    ],
-    [
-     0.13,
-     1.227,
-     0.5
-    ],
-    [
-     0.14,
-     1.114,
-     0.5
-    ],
-    [
-     0.15,
-     1.114,
-     0.5
-    ],
-    [
-     0.16,
-     1.114,
-     0.5
-    ],
-    [
-     0.17,
-     1.091,
-     0.5
-    ],
-    [
-     0.18,
-     1.068,
-     0.5
-    ],
-    [
-     0.19,
-     1.045,
-     0.5
-    ],
-    [
-     0.2,
-     1.023,
-     0.5
-    ],
-    [
-     0.21,
-     1,
-     0.5
-    ],
-    [
-     0.22,
-     1,
-     0.5
-    ],
-    [
-     0.23,
-     1,
-     0.5
-    ],
-    [
-     0.24,
-     0.977,
-     0.5
-    ],
-    [
-     0.25,
-     0.955,
-     0.5
-    ],
-    [
-     0.26,
-     0.955,
-     0.5
-    ],
-    [
-     0.27,
-     0.932,
-     0.5
-    ],
-    [
-     0.28,
-     0.886,
-     0.5
-    ],
-    [
-     0.29,
-     0.864,
-     0.5
-    ],
-    [
-     0.3,
-     0.864,
-     0.5
-    ],
-    [
-     0.31,
-     0.864,
-     0.5
-    ],
-    [
-     0.32,
-     0.864,
-     0.5
-    ],
-    [
-     0.33,
-     0.864,
-     0.5
-    ],
-    [
-     0.34,
-     0.864,
-     0.5
-    ],
-    [
-     0.35,
-     0.841,
-     0.5
-    ],
-    [
-     0.36,
-     0.841,
-     0.501
-    ],
-    [
-     0.37,
-     0.841,
-     0.503
-    ],
-    [
-     0.38,
-     0.841,
-     0.505
-    ],
-    [
-     0.39,
-     0.841,
-     0.507
-    ],
-    [
-     0.4,
-     0.795,
-     0.51
-    ],
-    [
-     0.41,
-     0.773,
-     0.514
-    ],
-    [
-     0.42,
-     0.75,
-     0.517
-    ],
-    [
-     0.43,
-     0.75,
-     0.522
-    ],
-    [
-     0.44,
-     0.75,
-     0.527
-    ],
-    [
-     0.45,
-     0.75,
-     0.532
-    ],
-    [
-     0.46,
-     0.75,
-     0.539
-    ],
-    [
-     0.47,
-     0.75,
-     0.547
-    ],
-    [
-     0.48,
-     0.75,
-     0.556
-    ],
-    [
-     0.49,
-     0.75,
-     0.566
-    ],
-    [
-     0.5,
-     0.75,
-     0.578
-    ],
-    [
-     0.51,
-     0.75,
-     0.591
-    ],
-    [
-     0.52,
-     0.75,
-     0.606
-    ],
-    [
-     0.53,
-     0.75,
-     0.622
-    ],
-    [
-     0.54,
-     0.75,
-     0.639
-    ],
-    [
-     0.55,
-     0.75,
-     0.657
-    ],
-    [
-     0.56,
-     0.75,
-     0.676
-    ],
-    [
-     0.57,
-     0.75,
-     0.696
-    ],
-    [
-     0.58,
-     0.75,
-     0.715
-    ],
-    [
-     0.59,
-     0.75,
-     0.734
-    ],
-    [
-     0.6,
-     0.75,
-     0.752
-    ],
-    [
-     0.61,
-     0.727,
-     0.769
-    ],
-    [
-     0.62,
-     0.727,
-     0.785
-    ],
-    [
-     0.63,
-     0.727,
-     0.798
-    ],
-    [
-     0.64,
-     0.727,
-     0.81
-    ],
-    [
-     0.65,
-     0.727,
-     0.821
-    ],
-    [
-     0.66,
-     0.727,
-     0.829
-    ],
-    [
-     0.67,
-     0.727,
-     0.836
-    ],
-    [
-     0.68,
-     0.727,
-     0.841
-    ],
-    [
-     0.69,
-     0.727,
-     0.845
-    ],
-    [
-     0.7,
-     0.727,
-     0.848
-    ],
-    [
-     0.71,
-     0.727,
-     0.849
-    ],
-    [
-     0.72,
-     0.727,
-     0.849
-    ],
-    [
-     0.73,
-     0.727,
-     0.848
-    ],
-    [
-     0.74,
-     0.727,
-     0.846
-    ],
-    [
-     0.75,
-     0.727,
-     0.842
-    ],
-    [
-     0.76,
-     0.727,
-     0.838
-    ],
-    [
-     0.77,
-     0.727,
-     0.833
-    ],
-    [
-     0.78,
-     0.727,
-     0.826
-    ],
-    [
-     0.79,
-     0.727,
-     0.819
-    ],
-    [
-     0.8,
-     0.727,
-     0.811
-    ],
-    [
-     0.81,
-     0.727,
-     0.802
-    ],
-    [
-     0.82,
-     0.727,
-     0.793
-    ],
-    [
-     0.83,
-     0.727,
-     0.783
-    ],
-    [
-     0.84,
-     0.727,
-     0.774
-    ],
-    [
-     0.85,
-     0.727,
-     0.764
-    ],
-    [
-     0.86,
-     0.727,
-     0.754
-    ],
-    [
-     0.87,
-     0.705,
-     0.744
-    ],
-    [
-     0.88,
-     0.705,
-     0.735
-    ],
-    [
-     0.89,
-     0.705,
-     0.727
-    ],
-    [
-     0.9,
-     0.705,
-     0.718
-    ],
-    [
-     0.91,
-     0.705,
-     0.711
-    ],
-    [
-     0.92,
-     0.682,
-     0.704
-    ],
-    [
-     0.93,
-     0.682,
-     0.698
-    ],
-    [
-     0.94,
-     0.682,
-     0.692
-    ],
-    [
-     0.95,
-     0.636,
-     0.686
-    ],
-    [
-     0.96,
-     0.636,
-     0.681
-    ],
-    [
-     0.97,
-     0.636,
-     0.677
-    ],
-    [
-     0.98,
-     0.614,
-     0.673
-    ],
-    [
-     0.99,
-     0.591,
-     0.669
-    ],
-    [
-     1,
-     0.568,
-     0.667
-    ]
-   ],
    "trafficSources": {
     "SHORTS": 99,
     "YT_SEARCH": 2,
@@ -2410,508 +1477,6 @@
    "likes": 0,
    "comments": 2,
    "subscribersGained": 2,
-   "retention": [
-    [
-     0.01,
-     1,
-     0.207
-    ],
-    [
-     0.02,
-     0.7,
-     0.117
-    ],
-    [
-     0.03,
-     0.6,
-     0.062
-    ],
-    [
-     0.04,
-     0.6,
-     0.049
-    ],
-    [
-     0.05,
-     0.6,
-     0.048
-    ],
-    [
-     0.06,
-     0.6,
-     0.045
-    ],
-    [
-     0.07,
-     0.4,
-     0.04
-    ],
-    [
-     0.08,
-     0.4,
-     0.037
-    ],
-    [
-     0.09,
-     0.4,
-     0.036
-    ],
-    [
-     0.1,
-     0.3,
-     0.036
-    ],
-    [
-     0.11,
-     0.3,
-     0.036
-    ],
-    [
-     0.12,
-     0.3,
-     0.036
-    ],
-    [
-     0.13,
-     0.2,
-     0.037
-    ],
-    [
-     0.14,
-     0.2,
-     0.037
-    ],
-    [
-     0.15,
-     0.2,
-     0.038
-    ],
-    [
-     0.16,
-     0.2,
-     0.042
-    ],
-    [
-     0.17,
-     0.2,
-     0.052
-    ],
-    [
-     0.18,
-     0.2,
-     0.068
-    ],
-    [
-     0.19,
-     0.2,
-     0.095
-    ],
-    [
-     0.2,
-     0.2,
-     0.133
-    ],
-    [
-     0.21,
-     0.2,
-     0.179
-    ],
-    [
-     0.22,
-     0.2,
-     0.229
-    ],
-    [
-     0.23,
-     0.2,
-     0.283
-    ],
-    [
-     0.24,
-     0.2,
-     0.337
-    ],
-    [
-     0.25,
-     0.2,
-     0.387
-    ],
-    [
-     0.26,
-     0.2,
-     0.428
-    ],
-    [
-     0.27,
-     0.2,
-     0.458
-    ],
-    [
-     0.28,
-     0.2,
-     0.479
-    ],
-    [
-     0.29,
-     0.2,
-     0.491
-    ],
-    [
-     0.3,
-     0.2,
-     0.498
-    ],
-    [
-     0.31,
-     0.2,
-     0.5
-    ],
-    [
-     0.32,
-     0.2,
-     0.5
-    ],
-    [
-     0.33,
-     0.2,
-     0.5
-    ],
-    [
-     0.34,
-     0.2,
-     0.5
-    ],
-    [
-     0.35,
-     0.2,
-     0.5
-    ],
-    [
-     0.36,
-     0.2,
-     0.5
-    ],
-    [
-     0.37,
-     0.2,
-     0.5
-    ],
-    [
-     0.38,
-     0.2,
-     0.501
-    ],
-    [
-     0.39,
-     0.2,
-     0.504
-    ],
-    [
-     0.4,
-     0.2,
-     0.509
-    ],
-    [
-     0.41,
-     0.2,
-     0.512
-    ],
-    [
-     0.42,
-     0.2,
-     0.513
-    ],
-    [
-     0.43,
-     0.2,
-     0.513
-    ],
-    [
-     0.44,
-     0.2,
-     0.513
-    ],
-    [
-     0.45,
-     0.2,
-     0.513
-    ],
-    [
-     0.46,
-     0.2,
-     0.513
-    ],
-    [
-     0.47,
-     0.2,
-     0.513
-    ],
-    [
-     0.48,
-     0.2,
-     0.513
-    ],
-    [
-     0.49,
-     0.2,
-     0.513
-    ],
-    [
-     0.5,
-     0.2,
-     0.513
-    ],
-    [
-     0.51,
-     0.2,
-     0.513
-    ],
-    [
-     0.52,
-     0.2,
-     0.513
-    ],
-    [
-     0.53,
-     0.2,
-     0.513
-    ],
-    [
-     0.54,
-     0.2,
-     0.513
-    ],
-    [
-     0.55,
-     0.2,
-     0.513
-    ],
-    [
-     0.56,
-     0.2,
-     0.514
-    ],
-    [
-     0.57,
-     0.2,
-     0.514
-    ],
-    [
-     0.58,
-     0.2,
-     0.513
-    ],
-    [
-     0.59,
-     0.2,
-     0.513
-    ],
-    [
-     0.6,
-     0.2,
-     0.513
-    ],
-    [
-     0.61,
-     0.2,
-     0.513
-    ],
-    [
-     0.62,
-     0.2,
-     0.513
-    ],
-    [
-     0.63,
-     0.3,
-     0.512
-    ],
-    [
-     0.64,
-     0.3,
-     0.508
-    ],
-    [
-     0.65,
-     0.3,
-     0.495
-    ],
-    [
-     0.66,
-     0.2,
-     0.473
-    ],
-    [
-     0.67,
-     0.2,
-     0.444
-    ],
-    [
-     0.68,
-     0.2,
-     0.411
-    ],
-    [
-     0.69,
-     0.2,
-     0.381
-    ],
-    [
-     0.7,
-     0.2,
-     0.356
-    ],
-    [
-     0.71,
-     0.2,
-     0.342
-    ],
-    [
-     0.72,
-     0.2,
-     0.338
-    ],
-    [
-     0.73,
-     0.2,
-     0.345
-    ],
-    [
-     0.74,
-     0.2,
-     0.36
-    ],
-    [
-     0.75,
-     0.2,
-     0.38
-    ],
-    [
-     0.76,
-     0.2,
-     0.403
-    ],
-    [
-     0.77,
-     0.2,
-     0.425
-    ],
-    [
-     0.78,
-     0.2,
-     0.444
-    ],
-    [
-     0.79,
-     0.2,
-     0.459
-    ],
-    [
-     0.8,
-     0.2,
-     0.47
-    ],
-    [
-     0.81,
-     0.2,
-     0.476
-    ],
-    [
-     0.82,
-     0.2,
-     0.479
-    ],
-    [
-     0.83,
-     0.2,
-     0.479
-    ],
-    [
-     0.84,
-     0.2,
-     0.473
-    ],
-    [
-     0.85,
-     0.2,
-     0.463
-    ],
-    [
-     0.86,
-     0.2,
-     0.445
-    ],
-    [
-     0.87,
-     0.2,
-     0.417
-    ],
-    [
-     0.88,
-     0.2,
-     0.378
-    ],
-    [
-     0.89,
-     0.2,
-     0.33
-    ],
-    [
-     0.9,
-     0.2,
-     0.28
-    ],
-    [
-     0.91,
-     0.2,
-     0.233
-    ],
-    [
-     0.92,
-     0.2,
-     0.193
-    ],
-    [
-     0.93,
-     0.2,
-     0.16
-    ],
-    [
-     0.94,
-     0.2,
-     0.135
-    ],
-    [
-     0.95,
-     0.2,
-     0.116
-    ],
-    [
-     0.96,
-     0.2,
-     0.101
-    ],
-    [
-     0.97,
-     0.2,
-     0.09
-    ],
-    [
-     0.98,
-     0.2,
-     0.083
-    ],
-    [
-     0.99,
-     0.1,
-     0.077
-    ],
-    [
-     1,
-     0.1,
-     0.073
-    ]
-   ],
    "trafficSources": {
     "RELATED_VIDEO": 10,
     "YT_SEARCH": 3,
@@ -2919,7 +1484,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 217,
-   "publicViews": "37",
+   "publicViews": "38",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2984,7 +1549,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 132,
+    "SHORTS": 130,
     "YT_SEARCH": 14,
     "YT_CHANNEL": 2,
     "NO_LINK_OTHER": 0,
@@ -3020,12 +1585,6 @@
    "likes": 7,
    "comments": 1,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 145,
-    "YT_SEARCH": 8,
-    "YT_OTHER_PAGE": 4,
-    "NO_LINK_OTHER": 0
-   },
    "durationSec": 42,
    "publicViews": "157",
    "status": {
@@ -3056,12 +1615,6 @@
    "likes": 17,
    "comments": 1,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 137,
-    "YT_SEARCH": 11,
-    "YT_OTHER_PAGE": 1,
-    "NO_LINK_OTHER": 0
-   },
    "durationSec": 55,
    "publicViews": "152",
    "status": {
@@ -3092,13 +1645,6 @@
    "likes": 5,
    "comments": 1,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 899,
-    "YT_SEARCH": 28,
-    "YT_OTHER_PAGE": 7,
-    "NOTIFICATION": 1,
-    "NO_LINK_OTHER": 0
-   },
    "durationSec": 38,
    "publicViews": "935",
    "status": {
@@ -3365,7 +1911,7 @@
    "views": 303,
    "engagedViews": 177,
    "averageViewDuration": 30,
-   "averageViewPercentage": 56.24,
+   "averageViewPercentage": 55.99000000000001,
    "likes": 30,
    "comments": 1,
    "subscribersGained": 0,
@@ -3395,7 +1941,7 @@
    "views": 1021,
    "engagedViews": 548,
    "averageViewDuration": 30,
-   "averageViewPercentage": 81.47,
+   "averageViewPercentage": 81.43,
    "likes": 9,
    "comments": 2,
    "subscribersGained": 0,
@@ -3425,7 +1971,7 @@
    "views": 1553,
    "engagedViews": 700,
    "averageViewDuration": 25,
-   "averageViewPercentage": 52.52,
+   "averageViewPercentage": 52.459999999999994,
    "likes": 212,
    "comments": 2,
    "subscribersGained": 5,
@@ -3605,7 +2151,7 @@
    "views": 257,
    "engagedViews": 144,
    "averageViewDuration": 29,
-   "averageViewPercentage": 58.050000000000004,
+   "averageViewPercentage": 58.37,
    "likes": 15,
    "comments": 0,
    "subscribersGained": 0,
@@ -3665,7 +2211,7 @@
    "views": 1090,
    "engagedViews": 608,
    "averageViewDuration": 34,
-   "averageViewPercentage": 82.57,
+   "averageViewPercentage": 82.77,
    "likes": 25,
    "comments": 1,
    "subscribersGained": 2,
@@ -3695,7 +2241,7 @@
    "views": 1068,
    "engagedViews": 603,
    "averageViewDuration": 23,
-   "averageViewPercentage": 54.11,
+   "averageViewPercentage": 54.15,
    "likes": 28,
    "comments": 1,
    "subscribersGained": 1,
@@ -4051,6 +2597,11 @@
   {
    "id": "Nz7lPovZA10",
    "title": "Which Came First? Round 2 – 6 Questions 🤯 #shorts",
+   "published": "2026-11-03T15:00:03Z"
+  },
+  {
+   "id": "Nz7lPovZA10",
+   "title": "Which Came First? Round 2 – 6 Questions 🤯 #shorts",
    "published": "2026-11-03T15:00:03Z",
    "views": 160,
    "engagedViews": 112,
@@ -4077,36 +2628,6 @@
     "license": "youtube"
    },
    "engagedShare": 0.7
-  },
-  {
-   "id": "rwbfV7G7Vpo",
-   "title": "Geography Quiz: 50 Questions From Easy to Legend 🌍",
-   "published": "2026-11-03T13:00:13Z",
-   "views": 4,
-   "engagedViews": 2,
-   "averageViewDuration": 347,
-   "averageViewPercentage": 53.53,
-   "likes": 0,
-   "comments": 0,
-   "subscribersGained": 0,
-   "durationSec": 649,
-   "publicViews": "4",
-   "status": {
-    "privacyStatus": "public",
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false,
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "uploadStatus": "processed",
-    "ytRating": null,
-    "regionRestriction": null,
-    "contentRating": null,
-    "licensedContent": false,
-    "rejectionReason": null,
-    "failureReason": null,
-    "license": "youtube"
-   },
-   "engagedShare": 0.5
   },
   {
    "id": "vVlz3ctkWZo",
@@ -4141,11 +2662,6 @@
   {
    "id": "ZVUz-EjQsI8",
    "title": "Can You Answer: Which Planet Is Closest to the Sun? ☀️🤯 #shorts",
-   "published": "2026-11-02T15:00:09Z"
-  },
-  {
-   "id": "ZVUz-EjQsI8",
-   "title": "Can You Answer: Which Planet Is Closest to the Sun? ☀️🤯 #shorts",
    "published": "2026-11-02T15:00:09Z",
    "views": 429,
    "engagedViews": 176,
@@ -4172,6 +2688,28 @@
     "license": "youtube"
    },
    "engagedShare": 0.41
+  },
+  {
+   "id": "GZnsjhdoEys",
+   "title": "US Presidents Quiz: Can You Score 5/15? 🏛️ 7-Minute Test",
+   "published": "2026-11-02T13:00:35Z",
+   "durationSec": 381,
+   "publicViews": "0",
+   "status": {
+    "privacyStatus": "public",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
   },
   {
    "id": "8ZxEi5hhL0c",
@@ -5520,96 +4058,6 @@
     "license": "youtube"
    },
    "engagedShare": 0.73
-  },
-  {
-   "id": "P9BSOeOxJJc",
-   "title": "8 Geography Questions 90% Get Wrong 🌍 #shorts",
-   "published": "2026-10-17T17:25:41Z",
-   "views": 1332,
-   "engagedViews": 602,
-   "averageViewDuration": 36,
-   "averageViewPercentage": 60.52000000000001,
-   "likes": 11,
-   "comments": 0,
-   "subscribersGained": 1,
-   "durationSec": 61,
-   "publicViews": "1332",
-   "status": {
-    "privacyStatus": "public",
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false,
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "uploadStatus": "processed",
-    "ytRating": null,
-    "regionRestriction": null,
-    "contentRating": null,
-    "licensedContent": false,
-    "rejectionReason": null,
-    "failureReason": null,
-    "license": "youtube"
-   },
-   "engagedShare": 0.452
-  },
-  {
-   "id": "463V8Id0PPA",
-   "title": "Can You Guess These 8 Countries From Emojis? 🌍 #shorts",
-   "published": "2026-10-16T17:54:36Z",
-   "views": 1305,
-   "engagedViews": 672,
-   "averageViewDuration": 28,
-   "averageViewPercentage": 64.88,
-   "likes": 8,
-   "comments": 0,
-   "subscribersGained": 1,
-   "durationSec": 44,
-   "publicViews": "1305",
-   "status": {
-    "privacyStatus": "public",
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false,
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "uploadStatus": "processed",
-    "ytRating": null,
-    "regionRestriction": null,
-    "contentRating": null,
-    "licensedContent": false,
-    "rejectionReason": null,
-    "failureReason": null,
-    "license": "youtube"
-   },
-   "engagedShare": 0.515
-  },
-  {
-   "id": "hZrSzrXj24I",
-   "title": "Only 1% Can Guess All 8 Movies 🍿 #shorts",
-   "published": "2026-10-16T17:32:30Z",
-   "views": 444,
-   "engagedViews": 244,
-   "averageViewDuration": 32,
-   "averageViewPercentage": 58.91,
-   "likes": 5,
-   "comments": 0,
-   "subscribersGained": 0,
-   "durationSec": 56,
-   "publicViews": "444",
-   "status": {
-    "privacyStatus": "public",
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false,
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "uploadStatus": "processed",
-    "ytRating": null,
-    "regionRestriction": null,
-    "contentRating": null,
-    "licensedContent": false,
-    "rejectionReason": null,
-    "failureReason": null,
-    "license": "youtube"
-   },
-   "engagedShare": 0.55
   }
  ]
 }
