@@ -591,7 +591,9 @@ def render_thumbs(name, story):
     """3 Vorschaubild-Varianten für den automatischen Thumbnail-Test (tvshow: Design v2 ab 12.11. – A gelb/Suchphrase, B lila/Punkt-Hürde, C rot/\"Only 1%\")"""
     THUMBS.mkdir(parents=True, exist_ok=True)
     out = []
-    for v in ('A', 'B', 'C'):
+    # exam-Layout: Variante B (rotes „F“, Besitzer-Favorit 22.11.) startet als erstes Vorschaubild
+    order = ('B', 'A', 'C') if story.get('layout') == 'exam' else ('A', 'B', 'C')
+    for v in order:
         f = THUMBS / f'{name}-{v}.jpg'
         props = ROOT / 'out' / f'.thumb-{name}-{v}.json'
         props.parent.mkdir(exist_ok=True)

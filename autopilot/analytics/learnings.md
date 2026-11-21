@@ -693,3 +693,4 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Renderzeit ≈ 45 min für 11 min Video (tvshow 32 min) – passt ins 180-min-Limit.
 - Vorschaubilder vorerst unverändert (TvThumb v2).
 - Erstes Video im neuen Look: iq-riddles-12-2 (Di 24.11.). Neue Longs aus generate_queue.py bekommen automatisch "exam".
+- 22.11.: Besitzer-Favorit Thumbnail **B** (korrigierter Test mit rotem „F“ + „See me!“ + Hürde „CAN YOU SOLVE 5?“) → startet bei exam-Longs als erstes Vorschaubild; A/C laufen im Thumbnail-Test weiter. thumbTexts[1] daher immer als Hürde formulieren („CAN YOU SOLVE **5**?“ / „CAN YOU GET **40/50**?“).
