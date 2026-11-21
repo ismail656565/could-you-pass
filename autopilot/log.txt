@@ -2187,3 +2187,4 @@
 [2026-11-21 17:55:54] Konkurrenz: 25 Kanäle, 136 Gewinner-Videos
 [2026-11-21 19:09:20] map-lie-5: noch nicht öffentlich – Kommentar später
 [2026-11-21 20:04:35] map-lie-5: Kommentar gepostet (mit Long-Link)
+[2026-11-21 23:19:07] Kommentare: 15 Zuschauer-Kommentare (21 T), 11 unbeantwortet, 1 Fehler-Hinweise
