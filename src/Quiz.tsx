@@ -97,7 +97,7 @@ export type QuizStory = {
   /** Gesamtlänge; ist sie gleich outroStart, gibt es keinen Abspann (Video loopt direkt) */
   durationInSeconds?: number;
   /** Layout: "comic" (Standard, gelb), "neon" (dunkel, leuchtend) oder "tvshow" (klassische TV-Quizshow) */
-  layout?: 'comic' | 'neon' | 'tvshow' | 'stick' | 'atlas' | 'pop';
+  layout?: 'comic' | 'neon' | 'tvshow' | 'stick' | 'atlas' | 'pop' | 'exam';
   /** Foto (public/) für Vorschaubild A im tvshow-Look */
   thumbImage?: string;
   /** "long" = normales Video im Querformat (Komposition QuizLong) */
