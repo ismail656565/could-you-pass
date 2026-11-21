@@ -1,0 +1,59 @@
+{
+ "id": "one-q-further-west",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 4.0,
+  "tail": 1.0
+ },
+ "lines": [
+  {
+   "q": "Only one in ten adults get this right. Which city is further west? Double tap to lock your answer!",
+   "a": "Reno! Yes, really. Further west than LA. Follow if you got it!"
+  }
+ ],
+ "youtube": {
+  "title": "Which City Is Further West? 9 in 10 Get It Wrong 🤯 #shorts",
+  "description": "Los Angeles is on the coast… so it must be furthest west, right? 🧭\nComment your answer 👇\n\nFollow for a new quiz every day! 🧠\n\n#quiz #geography #geographyquiz #usa #trivia #shorts\n\nData: longitude of city centers – Reno ≈119.8° W, Los Angeles ≈118.2° W, San Diego ≈117.2° W, Las Vegas ≈115.1° W.\nMusic: original.",
+  "tags": [
+   "geography quiz",
+   "us geography",
+   "which city is further west",
+   "reno",
+   "los angeles",
+   "trivia",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Los Angeles, Las Vegas, Reno or San Diego? Which did you lock in? 🧭👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Trivia",
+  "header": "QUICK QUIZ",
+  "hook": "ONLY 1 IN 10 GET THIS 🤯",
+  "teaser": "DOUBLE TAP TO LOCK IN ❤️",
+  "finalLabel": "",
+  "ctaText": "Follow if you got it ✅",
+  "correctLabel": "FURTHEST WEST!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you get it?",
+  "outroSub": "Comment 👇",
+  "questions": [
+   {
+    "q": "Which city is further **WEST**?",
+    "answers": [
+     "Los Angeles",
+     "Las Vegas",
+     "Reno",
+     "San Diego"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🧭⬅️"
+   }
+  ]
+ }
+}

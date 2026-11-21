@@ -675,3 +675,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - E17 wirkt: Shorts ≤ 45 s mit neuen Titeln 1.032 / 962 / 948 (≈1–2 T), Quick IQ 447 n. 4 h (vorher Median ≈160).
 - Warnsignal Karten-VS: map-lie-3 238 n. ≈23 h (#1 1.021, #2 936) → nach #4/#5 entscheiden; map-lie-6/7 nur aus vorhandenen Formen.
 - Neues Experiment E18 Wahr/Falsch-Short 23.11. (Autocomplete-Platz 1 „true or false quiz“, Score 17,1).
+
+## 2026-11-21 07:40 – Produktion (Queue 22.–24.11.)
+- Technik: alle Läufe 20.11. grün, 20.11. = 2 Shorts (map-lie-4 21:00, six-q-iq-quiz 16:00) – Soll erfüllt (kein Long-Tag). Heute liegen thanksgiving-quiz-50-1 / which-first-3 / map-lie-5 bereit; Dispatch 07:4x. Kein Code-Fix nötig.
+- Zahlen unverändert seit Research (report.json 20.11. 19:01, 29 Abos): Shorts ≤45 s Capitals 1.032 / Tricky-2 962 / Geo-Trivia 948 / Quick IQ 447 (4 h); Rätsel-Long 172; Karten-VS #3 238.
+- map-lie-6: Plan-Paare Algeria/Greenland + Madagascar/Spain waren Wiederholungen aus map-lie-2 → ersetzt durch India/Greenland (+52 %, Kontrolle +47 %) und Alaska/Mexico (+14 %, Kontrolle +31 %); NZ/UK +10 % (+11 %), Mongolia/Peru +22 % (+20 %). map-lie-7: Cuba/Iceland +7 % (+8 %), California/Japan +12 % (+13 %), Chile/Texas +9 % (+7 %), Cambodia/Florida +6 % (+20 %). Gewinner a/b/a/b, 48 Wörter je Folge.
+- E18 True/False: Plan-Aussagen (Kanada Oktober, 3 Tage, Lincoln, Gobble, Herkunft) stehen alle im Thanksgiving-Long → neu: Truthähne fliegen (T), Kürbiskuchen 1621 (F), Minnesota Nr. 1 (T), #4-Falle Name kommt vom Land Türkei (T), Cranberrys wachsen unter Wasser (F), Tryptophan-Müdigkeit (F). 72 Wörter.
+- Rätsel-Long #2 (24.11.): Duplikat-grep strich Bat&Ball, Widgets, Marys Vater, Überholen-Platz 2, Uhrwinkel, 28-Tage-Monate, Äpfel → 12 neue Rätsel, count 10 (QA-Standbild), 357 Wörter, je zweimal nachgerechnet.

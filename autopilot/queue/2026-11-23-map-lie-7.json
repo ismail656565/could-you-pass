@@ -1,0 +1,124 @@
+{
+ "id": "map-lie-7",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "This Map Is Lying To You #7 🌍 Which Is REALLY Bigger? #shorts",
+  "description": "Flat maps stretch everything near the poles. Watch each shape slide to its real size 🌍 Did Texas vs Chile get you?\nComment your score out of 4 👇\n\nFollow for a new quiz every day! 🧠\n\n#map #geography #truesize #whichisbigger #quiz #shorts\n\nData: total area in km² – Iceland 103,000; Cuba 109,884; California 423,970; Japan 377,915; Texas 695,662; Chile 756,102; Cambodia 181,035; Florida 170,312 (countries: CIA World Factbook; US states: US Census Bureau).\nOutlines: Natural Earth (public domain). The shapes are moved on the globe and re-projected (Mercator) – no resizing by hand.\nMusic: original.",
+  "tags": [
+   "true size of countries",
+   "mercator map",
+   "which is bigger",
+   "map quiz",
+   "geography quiz",
+   "map lies",
+   "texas vs chile",
+   "cuba vs iceland",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Texas vs Chile – did the map fool you? 🌍 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "map-lie-7",
+  "type": "truesize",
+  "title": "This Map Is Lying To You #7",
+  "kicker": "MAP TEST #7",
+  "hookText": [
+   "THIS MAP",
+   "IS LYING",
+   "TO YOU"
+  ],
+  "hookLine": "This map is lying to you. Four rounds, can you beat it?",
+  "question": "Which is really bigger?",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "iceland",
+     "name": "Iceland",
+     "km2": 103000
+    },
+    "b": {
+     "shape": "cuba",
+     "name": "Cuba",
+     "km2": 109884
+    },
+    "mover": "a",
+    "verdict": "7% bigger",
+    "lines": {
+     "q": "Iceland, or Cuba?",
+     "a": "Cuba! The map lied again."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "california",
+     "name": "California",
+     "km2": 423970
+    },
+    "b": {
+     "shape": "japan",
+     "name": "Japan",
+     "km2": 377915
+    },
+    "mover": "b",
+    "verdict": "12% bigger",
+    "lines": {
+     "q": "California, or Japan?",
+     "a": "California! Bigger than Japan."
+    },
+    "winner": "a"
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "texas",
+     "name": "Texas",
+     "km2": 695662
+    },
+    "b": {
+     "shape": "chile",
+     "name": "Chile",
+     "km2": 756102
+    },
+    "mover": "b",
+    "verdict": "9% bigger",
+    "lines": {
+     "q": "Texas, or Chile?",
+     "a": "Chile! Long beats wide."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "cambodia",
+     "name": "Cambodia",
+     "km2": 181035
+    },
+    "b": {
+     "shape": "florida",
+     "name": "Florida",
+     "km2": 170312
+    },
+    "mover": "b",
+    "verdict": "6% bigger",
+    "lines": {
+     "q": "Last one. Cambodia, or Florida?",
+     "a": "Cambodia! Think you got all four? Go again!"
+    },
+    "winner": "a"
+   }
+  ],
+  "sources": [
+   "Areas (total, km²): Iceland 103,000; Cuba 109,884; California 423,970; Japan 377,915; Texas 695,662; Chile 756,102; Cambodia 181,035; Florida 170,312 – CIA World Factbook / US Census Bureau",
+   "Outlines: Natural Earth (public domain)"
+  ]
+ }
+}

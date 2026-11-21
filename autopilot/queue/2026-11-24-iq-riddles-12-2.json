@@ -1,0 +1,257 @@
+{
+ "id": "iq-riddles-12-2",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 10.0,
+  "tail": 1.5,
+  "tempo": 0.95
+ },
+ "outroLine": "How many did you solve? Comment your score below, did you beat five? Subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Test Your IQ: 12 Hard Riddles – Can You Solve 5? 🧠",
+  "description": "12 hard logic riddles and brain teasers in about 6 minutes 🧠 Most people solve 3 – can you solve 5?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#IQTest #Riddles #BrainTeasers #LogicPuzzles #TestYourIQ #Quiz\n\nMusic: original.",
+  "tags": [
+   "iq test",
+   "test your iq",
+   "riddles",
+   "hard riddles",
+   "brain teasers",
+   "logic puzzles",
+   "iq quiz",
+   "riddles with answers",
+   "math riddles"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you solve out of 12? 🧠 Did the snail or the dad get you? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "tvshow",
+  "title": "IQ Riddles",
+  "header": "TEST YOUR IQ",
+  "hook": "CAN YOU SOLVE 5/12? 🧠",
+  "finalLabel": "FINAL QUESTION 🔥",
+  "ctaText": "Comment your score 👇",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you solve 5?",
+  "outroSub": "Comment your score 👇",
+  "midCtaIndex": 5,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "TEST YOUR **IQ**",
+   "CAN YOU SOLVE **5**?",
+   "ONLY 1% SOLVE **12**"
+  ],
+  "thumbEmoji": "🧠",
+  "thumbBadge": "12 RIDDLES",
+  "thumbPuzzle": [
+   "🐌",
+   "🧗",
+   "❓"
+  ],
+  "cardColors": [
+   "#5B21B6",
+   "#1E1B4B"
+  ],
+  "questions": [
+   {
+    "q": "What comes next: **1, 4, 9, 16, 25, ?**",
+    "answers": [
+     "30",
+     "35",
+     "36",
+     "49"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "1·4·9·16·25·?"
+   },
+   {
+    "q": "3 haystacks here, 5 there. Put them all **together**. How many?",
+    "answers": [
+     "8",
+     "1",
+     "15",
+     "2"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🌾"
+   },
+   {
+    "q": "A rooster lays an egg on a **roof**. Which way does it roll?",
+    "answers": [
+     "Left",
+     "Right",
+     "Straight down",
+     "There's no egg"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🐓"
+   },
+   {
+    "q": "Doctor: **3 pills**, one every 30 minutes. How long do they last?",
+    "answers": [
+     "90 minutes",
+     "1 hour",
+     "2 hours",
+     "30 minutes"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "💊"
+   },
+   {
+    "q": "Divide **30 by half**, then add 10. What do you get?",
+    "answers": [
+     "70",
+     "25",
+     "40",
+     "35"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "➗"
+   },
+   {
+    "q": "What comes next: **1, 1, 2, 3, 5, 8, ?**",
+    "answers": [
+     "11",
+     "12",
+     "13",
+     "16"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "1·1·2·3·5·8·?"
+   },
+   {
+    "q": "Odd one out: **8, 27, 64, 100, 125**",
+    "answers": [
+     "8",
+     "27",
+     "100",
+     "125"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "8·27·64·100·125"
+   },
+   {
+    "q": "How many times does the digit **9** appear from 1 to 100?",
+    "answers": [
+     "10",
+     "11",
+     "19",
+     "20"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "9️⃣"
+   },
+   {
+    "q": "Snail: up 3 m by day, down 2 m by night. **10 m wall**. Days?",
+    "answers": [
+     "10",
+     "8",
+     "7",
+     "9"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🐌"
+   },
+   {
+    "q": "Which word doesn't belong with **LISTEN**?",
+    "answers": [
+     "SILENT",
+     "STOLEN",
+     "TINSEL",
+     "ENLIST"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🔤"
+   },
+   {
+    "q": "What comes next: **2, 3, 5, 9, 17, ?**",
+    "answers": [
+     "33",
+     "31",
+     "34",
+     "35"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "2·3·5·9·17·?"
+   },
+   {
+    "q": "Dad is **4×** his son's age. In 20 years, 2×. Son's age now?",
+    "answers": [
+     "20",
+     "15",
+     "10",
+     "5"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "👨‍👦"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Twelve hard riddles, and most people solve three. Can you solve five? Round one, easy. What comes next? One, four, nine, sixteen, twenty five...",
+   "a": "Thirty six! They're square numbers. Six times six."
+  },
+  {
+   "q": "A farmer has three haystacks in one field and five in another. He puts them all together. How many haystacks does he have?",
+   "a": "One! One giant haystack. Words beat maths on that one."
+  },
+  {
+   "q": "A rooster lays an egg right on top of a barn roof. Which way does the egg roll?",
+   "a": "There's no egg! Roosters don't lay eggs. Only hens do."
+  },
+  {
+   "q": "Round two, medium. A doctor gives you three pills and says, take one every half hour. How long until they're all gone?",
+   "a": "One hour! First pill now, second at thirty minutes, third at sixty."
+  },
+  {
+   "q": "Divide thirty by a half, then add ten. What do you get?",
+   "a": "Seventy! Dividing by a half doubles it. Sixty plus ten."
+  },
+  {
+   "q": "What comes next? One, one, two, three, five, eight...",
+   "a": "Thirteen! Add the last two numbers. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "Which number is the odd one out? Eight, twenty seven, sixty four, one hundred, one hundred and twenty five.",
+   "a": "One hundred! All the others are cube numbers. How are you doing so far?"
+  },
+  {
+   "q": "Round three, hard. Count from one to one hundred. How many times do you write the digit nine?",
+   "a": "Twenty! Ten in the ones place, and ten more in the nineties. Ninety nine counts twice."
+  },
+  {
+   "q": "A snail climbs three metres up a ten metre wall every day, and slides back two metres every night. How many days to reach the top?",
+   "a": "Eight days! After seven nights it's at seven metres, then it climbs out on day eight."
+  },
+  {
+   "q": "Which word doesn't belong with listen? Silent, stolen, tinsel, or enlist?",
+   "a": "Stolen! The others use the exact same letters as listen. Three left, stay with me!"
+  },
+  {
+   "q": "Final round, legend. What comes next? Two, three, five, nine, seventeen...",
+   "a": "Thirty three! Double it and take away one, every time."
+  },
+  {
+   "q": "Final question. A dad is four times as old as his son. In twenty years, he'll be only twice as old. How old is the son now?",
+   "a": "Ten! Dad is forty. In twenty years, sixty and thirty. Exactly double."
+  }
+ ]
+}

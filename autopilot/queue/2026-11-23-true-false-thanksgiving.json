@@ -1,0 +1,132 @@
+{
+ "id": "true-false-thanksgiving",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.6
+ },
+ "youtube": {
+  "title": "Thanksgiving True or False 🦃 90% Get #4 Wrong #shorts",
+  "description": "6 Thanksgiving facts – true or false? 🦃 #4 fools almost everyone.\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#thanksgiving #trueorfalse #quiz #trivia #thanksgivingtrivia #shorts\n\nMusic: original.",
+  "tags": [
+   "true or false quiz",
+   "thanksgiving trivia",
+   "thanksgiving quiz",
+   "turkey facts",
+   "true or false",
+   "trivia",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Did #4 get you? 🦃 Comment your score out of 6 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Thanksgiving True or False",
+  "header": "TRUE OR FALSE?",
+  "hook": "90% GET #4 WRONG 😏",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "cardColors": [
+   "#B45309",
+   "#7C2D12"
+  ],
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "Wild turkeys can **fly**.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "TRUE OR FALSE",
+    "cardText": "🦃"
+   },
+   {
+    "q": "The Pilgrims ate **pumpkin pie** in 1621.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "TRUE OR FALSE",
+    "cardText": "🥧"
+   },
+   {
+    "q": "**Minnesota** raises the most turkeys in the US.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "TRUE OR FALSE",
+    "cardText": "🗺️"
+   },
+   {
+    "q": "The turkey bird is **named after** the country Turkey.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 0,
+    "level": "TRUE OR FALSE",
+    "cardText": "🌍"
+   },
+   {
+    "q": "Cranberries grow **underwater**.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "TRUE OR FALSE",
+    "cardText": "🫐"
+   },
+   {
+    "q": "Turkey makes you **sleepier** than other meats.",
+    "answers": [
+     "True",
+     "False"
+    ],
+    "correct": 1,
+    "level": "TRUE OR FALSE",
+    "cardText": "😴"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "True or false: wild turkeys can fly.",
+   "a": "True! Fast, too."
+  },
+  {
+   "q": "The Pilgrims ate pumpkin pie in sixteen twenty one.",
+   "a": "False! No ovens, no sugar."
+  },
+  {
+   "q": "Minnesota raises the most turkeys in America.",
+   "a": "True! Number one."
+  },
+  {
+   "q": "The turkey bird is named after the country Turkey.",
+   "a": "True! A naming mix-up."
+  },
+  {
+   "q": "Cranberries grow underwater.",
+   "a": "False! Bogs flood only for harvest."
+  },
+  {
+   "q": "Last one. Turkey makes you sleepier than other meats.",
+   "a": "False! Blame the big meal. Go again!"
+  }
+ ]
+}
