@@ -694,3 +694,13 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Vorschaubilder vorerst unverändert (TvThumb v2).
 - Erstes Video im neuen Look: iq-riddles-12-2 (Di 24.11.). Neue Longs aus generate_queue.py bekommen automatisch "exam".
 - 22.11.: Besitzer-Favorit Thumbnail **B** (korrigierter Test mit rotem „F“ + „See me!“ + Hürde „CAN YOU SOLVE 5?“) → startet bei exam-Longs als erstes Vorschaubild; A/C laufen im Thumbnail-Test weiter. thumbTexts[1] daher immer als Hürde formulieren („CAN YOU SOLVE **5**?“ / „CAN YOU GET **40/50**?“).
+
+## 2026-11-22 – STRATEGIE „Abo-Offensive“ (Besitzer: „Du bist der Manager, interagiere, mach alles … Abo-Zahl drastisch erhöhen“) – GILT AB SOFORT
+**Diagnose (report.json 21.11., 100 Videos):** 36.793 Views → nur 21 neue Abos = **0,57 Abos pro 1.000 Views** (gesunde Quiz-Shorts-Kanäle: 2–5). Shorts 35.802 Views → 17 Abos; Longs 991 Views → 4 Abos. 38 Zuschauer-Kommentare, davon 0 beantwortet. 75 % Views aus dem Shorts-Feed, 44 % USA.
+**Ursachen:** (1) jedes Short ist ein Einzelstück ohne Grund wiederzukommen (keine Serie, kein „Teil 2 morgen“); (2) Look/Format wechselte fast täglich (comic, neon, atlas, pop, tvshow) → kein wiedererkennbarer Kanal; (3) wir reden nicht mit den Zuschauern (Kommentare unbeantwortet); (4) Longs – dort entstehen Abos – bekommen kaum Views.
+**Maßnahmen:**
+1. **Kommentare:** Die Action holt bei jedem Lauf alle Zuschauer-Kommentare (autopilot/analytics/comments.md, FEHLER-HINWEIS zuerst). Der Research-Agent beantwortet JEDEN offenen Kommentar über autopilot/replies.json (Englisch, 1–2 Sätze, persönlich, Score loben/aufziehen, Frage zurück stellen, keine Links, keine Emojis-Flut, nie streiten). Fehler-Hinweise: Fakt prüfen; stimmt der Hinweis → bedanken + Korrektur im Antworttext + Eintrag in learnings.md + Frage im Duplikat-Check sperren.
+2. **Serien statt Einzelstücke:** Karten-VS „#N“, Flag Duel „#N“, Rätsel-Long wöchentlich. Letzte gesprochene Zeile jeder Serien-Folge: „Follow – number <N+1> drops tomorrow!“ (bzw. „Follow for part <N+1>“). Ein fester Look pro Format (Shorts tvshow/FlagDuel/TrueSize, Longs exam) – keine Layout-Experimente mehr.
+3. **Zuschauer-Wünsche** aus comments.md (WUNSCH) haben Vorrang im Plan; im Titel/Kommentar darauf hinweisen („You asked for it: …“).
+4. **KPI:** Abos pro 1.000 Views je Format (report.json subscribersGained/views) täglich in plan.md; Formate mit < 0,5 nach ≥ 5 Videos streichen. Ziel: ≥ 2 Abos/1.000 Views bis 15.12., 100 Abos bis 31.12.
+5. Besitzer-Aufgaben (API kann das nicht): in YouTube Studio bei Shorts „Ähnliches Video“ auf das passende Long setzen; Kanal-Trailer + Playlists auf der Kanalseite.

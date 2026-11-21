@@ -399,6 +399,16 @@ def publish_time(item):
     return when if when - now > dt.timedelta(minutes=10) else None
 
 
+def viewer_interaction():
+    """Zuschauer-Kommentare holen (analytics/comments.md) und vorbereitete Antworten aus replies.json posten – Fehler stoppen nichts"""
+    import viewer_comments as vc
+    for step in (vc.post_replies, vc.fetch):
+        try:
+            step(sys.modules[__name__])
+        except Exception:
+            log(f'Zuschauer-Kommentare ({step.__name__}) FEHLER:', traceback.format_exc()[-600:])
+
+
 def post_pending_comments():
     """Erst-Kommentar posten, sobald ein geplantes Video öffentlich ist"""
     y = None
@@ -1249,6 +1259,7 @@ def main():
         produce()
     elif cmd == 'comments':
         post_pending_comments()
+        viewer_interaction()
     elif cmd == 'private':
         # Videos auf privat stellen (z. B. versehentliche Doppel-Uploads): python autopilot.py private ID1 ID2
         y = yt()
@@ -1340,6 +1351,7 @@ def main():
             thumb_rotate()
         except Exception:
             log('Thumbnail-Test-FEHLER:', traceback.format_exc())
+        viewer_interaction()
         produce()
         # wöchentlicher Ausreißer-Scan (nach den Uploads, damit die Quota zuerst für Uploads reicht)
         if cmd == 'all':
