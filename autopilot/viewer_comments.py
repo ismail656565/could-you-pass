@@ -88,6 +88,14 @@ def fetch(ap):
         token = r.get('nextPageToken')
         if stop or not token:
             break
+    # schon über replies.json beantwortet (API zeigt neue Antworten manchmal verzögert)
+    try:
+        done_ids = {r['commentId'] for r in json.loads((ap.AP / 'replies.json').read_text(encoding='utf-8')) if r.get('posted')}
+    except Exception:
+        done_ids = set()
+    for c in out:
+        if c['commentId'] in done_ids:
+            c['answered'] = True
     out.sort(key=lambda c: c['published'], reverse=True)
     (ap.ANALYTICS / 'comments.json').write_text(json.dumps({'fetched': dt.datetime.now().isoformat(timespec='minutes'), 'comments': out}, indent=1, ensure_ascii=False), encoding='utf-8')
     write_md(ap, out)
