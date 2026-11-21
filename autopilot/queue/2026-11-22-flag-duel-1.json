@@ -1,0 +1,107 @@
+{
+ "id": "flag-duel-1",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts",
+  "description": "Two flags, almost the same. Which one is the country we ask for? 🌍 Poland, Ireland, New Zealand and Chad – did Chad vs Romania get you?\nComment your score out of 4 👇\n\nFollow for a new quiz every day! 🧠\n\n#flagquiz #flags #geography #countryballs #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "country flags quiz",
+   "countryballs",
+   "chad vs romania",
+   "geography quiz",
+   "left or right",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Chad or Romania – be honest, did you get it? 🇹🇩🇷🇴 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "flag-duel-1",
+  "type": "flagduel",
+  "title": "Who Is POLAND? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "Only one in ten get all four.",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 3.0,
+   "move": 0.8,
+   "tail": 0.35
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "POLAND",
+    "a": {
+     "flag": "id",
+     "name": "Indonesia"
+    },
+    "b": {
+     "flag": "pl",
+     "name": "Poland"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Poland? Left, or right?",
+     "a": "Right! White on top."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "IRELAND",
+    "a": {
+     "flag": "ie",
+     "name": "Ireland"
+    },
+    "b": {
+     "flag": "ci",
+     "name": "Ivory Coast"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Ireland?",
+     "a": "Left! Green by the pole."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "NEW ZEALAND",
+    "a": {
+     "flag": "au",
+     "name": "Australia"
+    },
+    "b": {
+     "flag": "nz",
+     "name": "New Zealand"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is New Zealand?",
+     "a": "Right! Four red stars."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "CHAD",
+    "a": {
+     "flag": "td",
+     "name": "Chad"
+    },
+    "b": {
+     "flag": "ro",
+     "name": "Romania"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. Who is Chad?",
+     "a": "Left! Darker blue. How many did you get?"
+    }
+   }
+  ]
+ }
+}

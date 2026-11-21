@@ -682,3 +682,6 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - map-lie-6: Plan-Paare Algeria/Greenland + Madagascar/Spain waren Wiederholungen aus map-lie-2 → ersetzt durch India/Greenland (+52 %, Kontrolle +47 %) und Alaska/Mexico (+14 %, Kontrolle +31 %); NZ/UK +10 % (+11 %), Mongolia/Peru +22 % (+20 %). map-lie-7: Cuba/Iceland +7 % (+8 %), California/Japan +12 % (+13 %), Chile/Texas +9 % (+7 %), Cambodia/Florida +6 % (+20 %). Gewinner a/b/a/b, 48 Wörter je Folge.
 - E18 True/False: Plan-Aussagen (Kanada Oktober, 3 Tage, Lincoln, Gobble, Herkunft) stehen alle im Thanksgiving-Long → neu: Truthähne fliegen (T), Kürbiskuchen 1621 (F), Minnesota Nr. 1 (T), #4-Falle Name kommt vom Land Türkei (T), Cranberrys wachsen unter Wasser (F), Tryptophan-Müdigkeit (F). 72 Wörter.
 - Rätsel-Long #2 (24.11.): Duplikat-grep strich Bat&Ball, Widgets, Marys Vater, Überholen-Platz 2, Uhrwinkel, 28-Tage-Monate, Äpfel → 12 neue Rätsel, count 10 (QA-Standbild), 357 Wörter, je zweimal nachgerechnet.
+
+## 2026-11-21 10:40 – Neues Format Flag Duel (Besitzer-Wunsch)
+- Besitzer schickte Referenz „Wer ist CHINA? Links oder rechts? Flaggen-Quiz Countryballs“ (26 s, 3 Runden, 3D) → eigene 2D-Komposition FlagDuel im tvshow-Farbschema, story.type "flagduel", Flaggen aus flag-icons (MIT). Test E19: flag-duel-1 22.11., flag-duel-2 25.11. (je 16:00).

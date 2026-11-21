@@ -1,0 +1,124 @@
+{
+ "id": "flag-duel-1",
+ "type": "flagduel",
+ "title": "Who Is POLAND? Left or Right?",
+ "kicker": "CAN YOU GET 4/4?",
+ "hookLine": "Only one in ten get all four.",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.08,
+ "timing": {
+  "think": 3.0,
+  "move": 0.8,
+  "tail": 0.35
+ },
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "target": "POLAND",
+   "a": {
+    "flag": "id",
+    "name": "Indonesia"
+   },
+   "b": {
+    "flag": "pl",
+    "name": "Poland"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "Who is Poland? Left, or right?",
+    "a": "Right! White on top."
+   },
+   "start": 2.08,
+   "qAudio": "audio/flag-duel-1/q1.mp3",
+   "aAudio": "audio/flag-duel-1/a1.mp3",
+   "thinkStart": 3.96,
+   "reveal": 6.96,
+   "moveEnd": 7.76,
+   "aStart": 7.51,
+   "end": 9.71
+  },
+  {
+   "level": "MEDIUM",
+   "target": "IRELAND",
+   "a": {
+    "flag": "ie",
+    "name": "Ireland"
+   },
+   "b": {
+    "flag": "ci",
+    "name": "Ivory Coast"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Who is Ireland?",
+    "a": "Left! Green by the pole."
+   },
+   "start": 9.71,
+   "qAudio": "audio/flag-duel-1/q2.mp3",
+   "aAudio": "audio/flag-duel-1/a2.mp3",
+   "thinkStart": 10.85,
+   "reveal": 13.85,
+   "moveEnd": 14.65,
+   "aStart": 14.4,
+   "end": 16.6
+  },
+  {
+   "level": "HARD",
+   "target": "NEW ZEALAND",
+   "a": {
+    "flag": "au",
+    "name": "Australia"
+   },
+   "b": {
+    "flag": "nz",
+    "name": "New Zealand"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "Who is New Zealand?",
+    "a": "Right! Four red stars."
+   },
+   "start": 16.6,
+   "qAudio": "audio/flag-duel-1/q3.mp3",
+   "aAudio": "audio/flag-duel-1/a3.mp3",
+   "thinkStart": 17.85,
+   "reveal": 20.85,
+   "moveEnd": 21.65,
+   "aStart": 21.4,
+   "end": 23.6
+  },
+  {
+   "level": "LEGEND",
+   "target": "CHAD",
+   "a": {
+    "flag": "td",
+    "name": "Chad"
+   },
+   "b": {
+    "flag": "ro",
+    "name": "Romania"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Last one. Who is Chad?",
+    "a": "Left! Darker blue. How many did you get?"
+   },
+   "start": 23.6,
+   "qAudio": "audio/flag-duel-1/q4.mp3",
+   "aAudio": "audio/flag-duel-1/a4.mp3",
+   "thinkStart": 25.03,
+   "reveal": 28.03,
+   "moveEnd": 28.83,
+   "aStart": 28.58,
+   "end": 32.9
+  }
+ ],
+ "hook": {
+  "audio": "audio/flag-duel-1/hook.mp3",
+  "start": 0.0,
+  "end": 2.08
+ },
+ "durationInSeconds": 32.9
+}

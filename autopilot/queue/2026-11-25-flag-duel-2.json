@@ -1,0 +1,107 @@
+{
+ "id": "flag-duel-2",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts",
+  "description": "Two flags, almost the same – pick the right country before the countdown ends 🌍 Iceland, Senegal, the Netherlands and Slovakia.\nComment your score out of 4 👇\n\nFollow for a new quiz every day! 🧠\n\n#flagquiz #flags #geography #countryballs #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "slovakia vs slovenia",
+   "netherlands vs luxembourg",
+   "countryballs",
+   "geography quiz",
+   "left or right",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Slovenia or Slovakia – which one fooled you? 🇸🇮🇸🇰 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "flag-duel-2",
+  "type": "flagduel",
+  "title": "Who Is ICELAND? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "Only one in ten get all four.",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 3.0,
+   "move": 0.8,
+   "tail": 0.35
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "ICELAND",
+    "a": {
+     "flag": "is",
+     "name": "Iceland"
+    },
+    "b": {
+     "flag": "no",
+     "name": "Norway"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Iceland? Left, or right?",
+     "a": "Left! Blue with a red cross."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "SENEGAL",
+    "a": {
+     "flag": "ml",
+     "name": "Mali"
+    },
+    "b": {
+     "flag": "sn",
+     "name": "Senegal"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Senegal?",
+     "a": "Right! It has the green star."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "NETHERLANDS",
+    "a": {
+     "flag": "nl",
+     "name": "Netherlands"
+    },
+    "b": {
+     "flag": "lu",
+     "name": "Luxembourg"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is the Netherlands?",
+     "a": "Left! Darker blue."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "SLOVAKIA",
+    "a": {
+     "flag": "si",
+     "name": "Slovenia"
+    },
+    "b": {
+     "flag": "sk",
+     "name": "Slovakia"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. Who is Slovakia?",
+     "a": "Right! The double cross. How many did you get?"
+    }
+   }
+  ]
+ }
+}

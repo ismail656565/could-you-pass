@@ -889,8 +889,8 @@ def produce_one(p):
     log(f'Produziere {name} ({fmt_of(item)})')
     try:
         story = item['story']
-        if story.get('type') == 'truesize':
-            # Karten-Short "The map is lying" (Komposition TrueSize): eigene Stimme/Zeitplan, keine Fragenliste
+        if story.get('type') in ('truesize', 'flagduel'):
+            # Karten-Short / Flaggen-Duell "The map is lying" (Komposition TrueSize): eigene Stimme/Zeitplan, keine Fragenliste
             import atlas_voice
             story['id'] = name
             sp = ROOT / 'stories' / f'{name}.json'
@@ -900,7 +900,7 @@ def produce_one(p):
         else:
             story['audio'] = f'audio/{name}.mp3'
             build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
-        if story.get('type') == 'truesize':
+        if story.get('type') in ('truesize', 'flagduel'):
             pass
         elif story.get('layout') == 'stick':
             # 2D-Strichmännchen-Look: KI-Doodle-Clips von LTX statt echter B-Roll-Fotos

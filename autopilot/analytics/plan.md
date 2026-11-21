@@ -58,6 +58,13 @@ Bandit 21.–23.11. (9 Slots): 7 Exploit/Konkurrenz-Muster (Thanksgiving-Long, W
 
 Gestrichen: Karten-/Emoji-Longs (E13 ✗), pop/atlas, People-/Bigger-/Older-/Colder-VS, Tier-/Europa-/Landmarks-/Film-6-Q, Alters-Titel, Halloween, Weltraum.
 
+
+## NACHTRAG 21.11. 10:40 – neues Format „Flag Duel“ (Besitzer-Wunsch: Referenz „Wer ist CHINA? Links oder rechts? Countryballs“)
+- **Neue Komposition `FlagDuel`** (`src/FlagDuel.tsx`, story.type **"flagduel"**, 9:16): zwei fast gleiche Flaggen auf Papierkarten (tvshow-Farben), darunter zwei 2D-Länder-Bälle, Countdown 3-2-1 mit Anrempeln, Auflösung mit Haken/X + Ländernamen, Gewinner springt, Verlierer wird weggeschubst. Stimme + Zeiten wie Karten-VS über `atlas_voice.py` (timing think 3.0 / move 0.8 / tail 0.35). Flaggen: `public/flags/<iso2>.svg` (alle 270, flag-icons MIT). Muster: `stories/flag-duel-1.json`.
+- **E19 Flag Duel:** flag-duel-1 **So 22.11. 16:00** (Poland/Indonesia, Ireland/Ivory Coast, New Zealand/Australia, Chad/Romania), flag-duel-2 **Mi 25.11. 16:00** (Iceland/Norway, Senegal/Mali, Netherlands/Luxembourg, Slovakia/Slovenia). Erfolg: ≥ 800 n. 3 T (Niveau Karten-VS #1/#2). Bei ✓ → Serie „Flag Quiz #N“ 2–3×/Woche auf 16:00.
+- Queue verschoben: `one-q-further-west` (Reno) von 22.11. auf **24.11. 16:00** (Dateiname 2026-11-24-…). Für 24.11. fehlt noch das 21:00-Short (map-lie-8) – beim nächsten Lauf anlegen, sonst rutscht flag-duel-2 auf den 24.11.
+- Regeln für neue Flag-Duels: nur echte Doppelgänger-Paare (z. B. Monaco/Indonesia NICHT – im 4:3-Bild identisch), Gewinnerseite mischen, ≤ 60 gesprochene Wörter, Antwortzeile = Seite + Unterschied in ≤ 4 Wörtern, Zielname ≤ 11 Zeichen (sonst Schrift zu klein), keine politisch heiklen Paare (Taiwan/China, Kosovo usw.).
+
 ## Für den Produktions-Agenten (gilt heute, überschreibt ältere Defaults)
 - **Reihenfolge:** (1) 22.11. anlegen: `2026-11-22-one-q-further-west.json` (16:00), `2026-11-22-map-lie-6.json` (21:00); (2) 23.11.: `2026-11-23-true-false-thanksgiving.json` (16:00, E18), `2026-11-23-map-lie-7.json` (21:00); (3) `2026-11-24-iq-riddles-12-2.json` (Long 14:00) – darf heute schon in die Queue, LONG_DAYS sperrt So/Mo, ältestes Long ist dann dieses.
 - **Layout tvshow** für alles außer Karten-VS (truesize). Änderungen vor dem Dispatch committen.

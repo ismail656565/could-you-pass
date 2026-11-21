@@ -8,6 +8,8 @@ import {QuizLong, QuizThumb} from './QuizLong';
 import quizDemo from '../stories/quiz-demo.json';
 import {TrueSize, TrueSizeThumb, type TrueSizeStory} from './TrueSize';
 import mapLie from '../stories/map-lie-1.json';
+import {FlagDuel, type FlagDuelStory} from './FlagDuel';
+import flagDuel from '../stories/flag-duel-1.json';
 
 export const FPS = 30;
 
@@ -76,6 +78,18 @@ export const RemotionRoot: React.FC = () => {
       })}
     />
     <Composition id="TrueSizeThumb" component={TrueSizeThumb} width={1280} height={720} fps={FPS} durationInFrames={1} defaultProps={mapLie as unknown as TrueSizeStory} />
+    <Composition
+      id="FlagDuel"
+      component={FlagDuel}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={Math.ceil((flagDuel as unknown as FlagDuelStory).durationInSeconds * FPS)}
+      defaultProps={flagDuel as unknown as FlagDuelStory}
+      calculateMetadata={({props}) => ({
+        durationInFrames: Math.ceil(props.durationInSeconds * FPS),
+      })}
+    />
     </>
   );
 };
