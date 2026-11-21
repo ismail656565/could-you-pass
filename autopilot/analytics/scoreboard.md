@@ -1,8 +1,8 @@
-# Scoreboard – Stand 2026-11-21T15:22 (30 Abos)
+# Scoreboard – Stand 2026-11-21T17:55 (30 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (61 Videos)
+## Shorts (62 Videos)
 
 ### Shorts nach Format
 
@@ -13,7 +13,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | VS-Vergleich | 11 | 493 | 393 | 1189 | 49.6 | 62.3 | 5.0 |
 | 1-Frage-Ego-Hook | 8 | 420 | 380 | 866 | 44.2 | 101.4 | 2.0 |
 | 3 Fragen | 3 | 340 | 327 | 498 | 39.5 | 64.8 | 0 |
-| 6+ Fragen | 22 | 562 | 270 | 1555 | 49.9 | 56.5 | 9.0 |
+| 6+ Fragen | 23 | 582 | 284 | 1555 | 49.9 | 56.5 | 9.0 |
 | 4-Fragen-Trap | 9 | 372 | 251 | 1082 | 58.3 | 78.2 | 1.0 |
 | Wahr/Falsch | 1 | 145 | 145 | 145 | 47.6 | 92.9 | 0 |
 
@@ -27,7 +27,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | BRAIN QUIZ | 1 | 1208 | 1208 | 1208 | 44.0 | 103.4 | 0 |
 | WHO HAS MORE PEOPLE? | 1 | 1189 | 1189 | 1189 | 61.4 | 60.6 | 2.0 |
 | CAPITAL CITIES | 1 | 1068 | 1068 | 1068 | 56.5 | 54.1 | 1.0 |
-| CAPITALS QUIZ | 1 | 1053 | 1053 | 1053 | 44.9 | 106.4 | 0 |
+| CAPITALS QUIZ | 1 | 1054 | 1054 | 1054 | 44.9 | 106.4 | 0 |
+| GEOGRAPHY TRIVIA | 1 | 1019 | 1019 | 1019 | – | – | 0 |
 | QUICK FIRE GEOGRAPHY | 1 | 996 | 996 | 996 | 49.1 | 45.6 | 2.0 |
 | – | 2 | 978 | 978 | 1021 | 52.8 | 77.8 | 0 |
 | TRICKY QUIZ | 1 | 965 | 965 | 965 | 41.9 | 113.7 | 0 |
@@ -72,14 +73,14 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | tvshow | 28 | 559 | 442 | 1221 | 52.4 | 70.5 | 12.0 |
 | neon | 13 | 521 | 331 | 1435 | 44.1 | 111.5 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.9 | 56.2 | 0 |
-| pop | 3 | 495 | 284 | 1053 | 45.6 | 64.7 | 0 |
-| atlas | 13 | 356 | 190 | 1555 | 44.2 | 58.5 | 5.0 |
+| pop | 3 | 496 | 284 | 1054 | 45.6 | 64.7 | 0 |
+| atlas | 14 | 403 | 192 | 1555 | 44.2 | 58.5 | 5.0 |
 
 ### Shorts nach Musik
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| game-show.wav | 26 | 566 | 360 | 1555 | 48.1 | 68.9 | 10.0 |
+| game-show.wav | 27 | 582 | 418 | 1555 | 48.1 | 68.9 | 10.0 |
 | brain-pulse.wav | 20 | 474 | 322 | 1435 | 47.1 | 91.9 | 3.0 |
 | world-trip.wav | 15 | 462 | 194 | 1189 | 52.0 | 66.4 | 4.0 |
 
@@ -90,7 +91,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | – | 2 | 966 | 966 | 1435 | 47.0 | 67.3 | 0 |
 | 10:00 | 4 | 521 | 327 | 1235 | 39.6 | 151.9 | 0 |
 | 21:00 | 28 | 491 | 320 | 1189 | 51.5 | 67.8 | 6.0 |
-| 16:00 | 27 | 494 | 257 | 1555 | 47.6 | 72.6 | 11.0 |
+| 16:00 | 28 | 513 | 280 | 1555 | 47.6 | 72.6 | 11.0 |
 
 ### Top 8 Shorts
 
@@ -111,28 +112,28 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 3 Views · 4-Fragen-Trap · 4 Gunpowder Plot Questions – Can You Get 4/4? 💥 #shorts
 - 0 Views · 4-Fragen-Trap · 4 Questions Almost Everyone Gets Wrong 🤯 #shorts
 
-## Lange Videos (27 Videos)
+## Lange Videos (28 Videos)
 
 ### Lange Videos nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | 0 Fragen | 3 | 104 | 133 | 141 | 63.4 | 36.6 | 3.0 |
+| 12 Fragen | 2 | 97 | 97 | 194 | – | – | 0 |
 | 35 Fragen | 3 | 98 | 60 | 186 | 49.3 | 25.8 | 0 |
 | 40 Fragen | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | 30 Fragen | 5 | 20 | 21 | 31 | 78.5 | 15.0 | 0 |
 | 20 Fragen | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
 | 50 Fragen | 10 | 5 | 4 | 14 | 68.7 | 50.3 | 0 |
 | 15 Fragen | 2 | 2 | 2 | 3 | 66.7 | 43.5 | 0 |
-| 12 Fragen | 1 | 0 | 0 | 0 | – | – | 0 |
 
 ### Lange Videos nach Thema/Titeltyp
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | Halloween | 2 | 117 | 117 | 186 | 55.5 | 24.4 | 0 |
+| IQ-Titel | 2 | 110 | 110 | 194 | 80.8 | 36.2 | 1.0 |
 | Emoji-Raten | 4 | 48 | 26 | 141 | 84.2 | 21.1 | 1.0 |
-| IQ-Titel | 1 | 26 | 26 | 26 | 80.8 | 36.2 | 1.0 |
 | Geografie | 1 | 23 | 23 | 23 | 66.7 | 14.5 | 0 |
 | Can-You-Pass-Test | 1 | 12 | 12 | 12 | 33.3 | 31.6 | 0 |
 | Fußball | 2 | 7 | 7 | 8 | 77.1 | 52.8 | 0 |
@@ -149,7 +150,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | comic | 3 | 104 | 133 | 141 | 63.4 | 36.6 | 3.0 |
 | neon | 8 | 42 | 17 | 186 | 66.6 | 52.4 | 1.0 |
-| tvshow | 16 | 9 | 4 | 31 | 71.2 | 30.1 | 0 |
+| tvshow | 17 | 20 | 5 | 194 | 71.2 | 30.1 | 0 |
 
 ### Lange Videos nach Musik
 
@@ -157,7 +158,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 |---|---|---|---|---|---|---|---|
 | – | 1 | 141 | 141 | 141 | 73.0 | 52.1 | 1.0 |
 | world-trip.wav | 10 | 28 | 18 | 133 | 58.5 | 36.2 | 2.0 |
-| game-show.wav | 9 | 29 | 6 | 186 | 76.3 | 37.1 | 1.0 |
+| game-show.wav | 10 | 45 | 7 | 194 | 76.3 | 37.1 | 1.0 |
 | brain-pulse.wav | 7 | 16 | 3 | 60 | 74.8 | 40.5 | 0 |
 
 ### Lange Videos nach Sendezeit
@@ -165,11 +166,12 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
 | – | 3 | 111 | 141 | 186 | 60.0 | 45.7 | 1.0 |
-| 14:00 | 23 | 20 | 8 | 133 | 69.5 | 38.2 | 3.0 |
+| 14:00 | 24 | 27 | 10 | 194 | 69.5 | 38.2 | 3.0 |
 | 19:00 | 1 | 5 | 5 | 5 | 80.0 | 11.4 | 0 |
 
 ### Top 8 Lange Videos
 
+- 194 Views · stayed – · 12 Fragen · tvshow · game-show.wav · Test Your IQ: 12 Tricky Riddles – Can You Solve 4? 🧠
 - 186 Views · stayed 0.403 · 35 Fragen · neon · game-show.wav · Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend
 - 141 Views · stayed 0.73 · 0 Fragen · comic · – · Guess the Word by Emoji 🧠 Only a Genius Gets 15/15!
 - 133 Views · stayed 0.504 · 0 Fragen · comic · world-trip.wav · The True Size of Countries: 20 Maps That Lie to You 🌍 Which Is Really Bigger?
@@ -177,7 +179,6 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 - 48 Views · stayed 0.708 · 35 Fragen · neon · brain-pulse.wav · Halloween Quiz 🎃 If You Get 25 Right, You're a Horror Expert | 35 Questions
 - 38 Views · stayed 0.667 · 0 Fragen · comic · world-trip.wav · The True Size of US States: 20 Maps That Lie to You 🇺🇸
 - 31 Views · stayed 0.69 · 30 Fragen · tvshow · world-trip.wav · Guess the Country by Emoji: 30 Rounds From Easy to Legend 🌍
-- 26 Views · stayed 0.808 · 40 Fragen · neon · game-show.wav · General Knowledge Quiz: Your IQ Is Above Average If You Get 30+ Right 🧠 | 40 Questions
 
 ### Flop 5 Lange Videos
 

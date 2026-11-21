@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-21T15:22",
+ "fetched": "2026-11-21T17:55",
  "channel": "COULD YOU PASS?",
  "subscribers": "30",
  "audience": {
@@ -78,17 +78,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 16955,
-    "engagedViews": 7538
+    "views": 16951,
+    "engagedViews": 7537
    },
    {
     "deviceType": "TABLET",
-    "views": 4289,
-    "engagedViews": 2277
+    "views": 4286,
+    "engagedViews": 2275
    },
    {
     "deviceType": "TV",
-    "views": 1803,
+    "views": 1802,
     "engagedViews": 1391
    },
    {
@@ -136,7 +136,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "0",
+   "publicViews": "80",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -232,7 +232,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 44,
-   "publicViews": "1017",
+   "publicViews": "1010",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -256,7 +256,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 36,
-   "publicViews": "251",
+   "publicViews": "256",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1377,7 +1377,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 38,
-   "publicViews": "1053",
+   "publicViews": "1054",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1409,7 +1409,8 @@
    "trafficSources": {
     "SHORTS": 210,
     "YT_SEARCH": 8,
-    "NO_LINK_OTHER": 0
+    "NO_LINK_OTHER": 0,
+    "YT_OTHER_PAGE": 0
    },
    "durationSec": 50,
    "publicViews": "284",
@@ -1549,7 +1550,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 130,
+    "SHORTS": 132,
     "YT_SEARCH": 14,
     "YT_CHANNEL": 2,
     "NO_LINK_OTHER": 0,
