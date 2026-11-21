@@ -669,3 +669,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Rätsel-Long 32 n. ≈2 h (US-Karten-Long 19 n. 2,3 T) → bestes Long-Startfenster seit Karten-Long #1.
 - Thumbnails: CTR per API weiter HttpError 400; Thanksgiving-Long nutzt v2 mit 🦃 (kein passendes Foto in image-credits.json).
 - Queue: iq-quiz (heute 16:00) von pop auf tvshow umgestellt (Research 20.11.: pop-Vorteil widerlegt). 21.11. angelegt: thanksgiving-quiz-50-1 (14:00, 1.039 Wörter, Indizes 15/12/13/10), six-q-which-first-3 (16:00, tvshow, 59 Wörter; Duplikat-Check strich Oxford/Aztec, Fax, Nintendo, Feuerzeug, Harvard, T-rex → neu Haie vs Bäume, Glühbirne, Kolosseum, #4 Falle Ballonflug 1783 vor US-Verfassung, Handy-Anruf 1973, Kleopatra näher an Mondlandung), map-lie-5 (21:00, 50 Wörter, neue Formen egypt/saudiarabia/thailand/argentina; Kontrollspalte stützt alle 4: Egypt 1.003.171 > Norway 319.996, Saudi 1.925.821 > Alaska 1.493.172, Thailand 514.947 > Sweden 442.847, India 3.153.346 > Argentina 2.782.074).
+
+## 2026-11-21 – Research
+- E14 Rätsel-Long „12 Tricky Riddles“ 172 Views n. ≈1,1 T (Long-Median ~8, Bestes 186) → ✓ vorzeitig; Rätsel-Long ab jetzt jeden Di (24.11. #2 „Can You Solve 5?“).
+- E17 wirkt: Shorts ≤ 45 s mit neuen Titeln 1.032 / 962 / 948 (≈1–2 T), Quick IQ 447 n. 4 h (vorher Median ≈160).
+- Warnsignal Karten-VS: map-lie-3 238 n. ≈23 h (#1 1.021, #2 936) → nach #4/#5 entscheiden; map-lie-6/7 nur aus vorhandenen Formen.
+- Neues Experiment E18 Wahr/Falsch-Short 23.11. (Autocomplete-Platz 1 „true or false quiz“, Score 17,1).
