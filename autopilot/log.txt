@@ -2188,3 +2188,5 @@
 [2026-11-21 19:09:20] map-lie-5: noch nicht öffentlich – Kommentar später
 [2026-11-21 20:04:35] map-lie-5: Kommentar gepostet (mit Long-Link)
 [2026-11-21 23:19:07] Kommentare: 15 Zuschauer-Kommentare (21 T), 11 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-21 23:23:52] Kommentar-Antworten gepostet: 11
+[2026-11-21 23:23:53] Kommentare: 15 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise

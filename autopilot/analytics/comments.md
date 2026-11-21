@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-21 23:19
+# Zuschauer-Kommentare – Stand 2026-11-21 23:23
 
-Letzte 21 Tage, ohne unsere eigenen. 15 Kommentare, 11 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 15 Kommentare, 1 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -12,12 +12,12 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## FEHLER-HINWEIS (1)
 
-- 2026-11-05 · Which Has More People? 4 Rounds 90% Get Wrong 👥 #s · @AdnanSadaqat-q7d **[OFFEN]** · id `Ugz_46qaxIYdWtQay5d4AaABAg`  
+- 2026-11-05 · Which Has More People? 4 Rounds 90% Get Wrong 👥 #s · @AdnanSadaqat-q7d · id `Ugz_46qaxIYdWtQay5d4AaABAg`  
   „I only got 1 wrong“
 
 ## FRAGE (2)
 
-- 2026-11-17 · The True Size of US States: 20 Maps That Lie to Yo · @Subscribibe **[OFFEN]** · id `UgxHf8_0_HJxNjfAoOR4AaABAg`  
+- 2026-11-17 · The True Size of US States: 20 Maps That Lie to Yo · @Subscribibe · id `UgxHf8_0_HJxNjfAoOR4AaABAg`  
   „First view?“
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
@@ -33,21 +33,21 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SONSTIGES (9)
 
-- 2026-11-20 · Only Geniuses Get 6/6 🧠 Geography Quiz #shorts · @Jo-wl5fj **[OFFEN]** · id `UgySfvG7feTPnRtWm6h4AaABAg`  
+- 2026-11-20 · Only Geniuses Get 6/6 🧠 Geography Quiz #shorts · @Jo-wl5fj · id `UgySfvG7feTPnRtWm6h4AaABAg`  
   „Great.  Art, classical music and science please.“
-- 2026-11-20 · Only Geniuses Get 6/6 🧠 Tricky Quiz #shorts · @Jo-wl5fj **[OFFEN]** · id `Ugz5TVYo9AN2RoEz1X14AaABAg`  
+- 2026-11-20 · Only Geniuses Get 6/6 🧠 Tricky Quiz #shorts · @Jo-wl5fj · id `Ugz5TVYo9AN2RoEz1X14AaABAg`  
   „Like the speed.“
 - 2026-11-20 · Quick IQ Test: Can You Get 6/6? 🧠 #shorts · @Jo-wl5fj · id `UgxkiSmYdY6jPcWlUR94AaABAg`  
   „Great quiz.  More please.“
-- 2026-11-19 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 **[OFFEN]** · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg`  
+- 2026-11-19 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg`  
   „Right next to Poland.“
-- 2026-11-16 · The True Size of Countries: 20 Maps That Lie to Yo · @Thatguynull45 **[OFFEN]** · id `UgysPk8zcE1u37uYKTp4AaABAg`  
+- 2026-11-16 · The True Size of Countries: 20 Maps That Lie to Yo · @Thatguynull45 · id `UgysPk8zcE1u37uYKTp4AaABAg`  
   „I have no idea“
-- 2026-11-10 · Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz #shorts · @EileenRyan-v3b **[OFFEN]** · id `UgwXnGJBu4MlF84Ty6F4AaABAg`  
+- 2026-11-10 · Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz #shorts · @EileenRyan-v3b · id `UgwXnGJBu4MlF84Ty6F4AaABAg`  
   „C.“
-- 2026-11-09 · Which Is Bigger? Planets & Moons – 90% Get #2 Wron · @MarkFain-o4w **[OFFEN]** · id `Ugzui7eP52ORtcr2TPV4AaABAg`  
+- 2026-11-09 · Which Is Bigger? Planets & Moons – 90% Get #2 Wron · @MarkFain-o4w · id `Ugzui7eP52ORtcr2TPV4AaABAg`  
   „Jupiter, I think you could throw the rings in and it would still be bigger; let’s ask Dr . Degrass Tysen“
-- 2026-11-07 · Only Geniuses Get 6/6 🧠 Capital Cities Quiz #short · @softdooggy **[OFFEN]** · id `Ugy0UgXIvujfFC9Bui54AaABAg`  
+- 2026-11-07 · Only Geniuses Get 6/6 🧠 Capital Cities Quiz #short · @softdooggy · id `Ugy0UgXIvujfFC9Bui54AaABAg`  
   „Paris“
-- 2026-11-05 · Which Has More People? 4 Rounds 90% Get Wrong 👥 #s · @AdnanSadaqat-q7d **[OFFEN]** · id `UgyQIHHCmKw_n62fVsx4AaABAg`  
+- 2026-11-05 · Which Has More People? 4 Rounds 90% Get Wrong 👥 #s · @AdnanSadaqat-q7d · id `UgyQIHHCmKw_n62fVsx4AaABAg`  
   „First comment“

@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-21T23:19",
+ "fetched": "2026-11-21T23:23",
  "comments": [
   {
    "commentId": "UgySfvG7feTPnRtWm6h4AaABAg",
@@ -11,7 +11,7 @@
    "likes": 0,
    "published": "2026-11-20T19:31:41Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -24,7 +24,7 @@
    "likes": 0,
    "published": "2026-11-20T17:30:47Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -63,7 +63,7 @@
    "likes": 1,
    "published": "2026-11-19T19:18:45Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -76,7 +76,7 @@
    "likes": 0,
    "published": "2026-11-17T21:17:32Z",
    "kind": "FRAGE",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -89,7 +89,7 @@
    "likes": 0,
    "published": "2026-11-16T09:45:11Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -115,7 +115,7 @@
    "likes": 0,
    "published": "2026-11-10T19:07:35Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -128,7 +128,7 @@
    "likes": 1,
    "published": "2026-11-09T00:13:10Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -154,7 +154,7 @@
    "likes": 1,
    "published": "2026-11-07T19:21:38Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -167,7 +167,7 @@
    "likes": 1,
    "published": "2026-11-05T14:22:12Z",
    "kind": "FEHLER-HINWEIS",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -180,7 +180,7 @@
    "likes": 1,
    "published": "2026-11-05T14:21:54Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
