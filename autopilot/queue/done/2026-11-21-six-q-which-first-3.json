@@ -47,7 +47,12 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🌊"
+    "cardText": "🌊",
+    "start": 0.0,
+    "keywordAt": 0.894,
+    "countdownStart": 1.542,
+    "reveal": 4.042,
+    "end": 6.462
    },
    {
     "q": "Which came **first**?",
@@ -59,7 +64,12 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🕰️"
+    "cardText": "🕰️",
+    "start": 6.462,
+    "keywordAt": 7.159,
+    "countdownStart": 7.795,
+    "reveal": 10.295,
+    "end": 13.15
    },
    {
     "q": "Which was **built** first?",
@@ -71,7 +81,12 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🧱"
+    "cardText": "🧱",
+    "start": 13.15,
+    "keywordAt": 13.726,
+    "countdownStart": 14.621,
+    "reveal": 17.121,
+    "end": 18.973
    },
    {
     "q": "Which happened **first**?",
@@ -83,7 +98,12 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "📜"
+    "cardText": "📜",
+    "start": 18.973,
+    "keywordAt": 19.781,
+    "countdownStart": 20.372,
+    "reveal": 22.872,
+    "end": 25.863
    },
    {
     "q": "Which came **first**?",
@@ -95,7 +115,12 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "📼"
+    "cardText": "📼",
+    "start": 25.863,
+    "keywordAt": 26.559,
+    "countdownStart": 27.195,
+    "reveal": 29.695,
+    "end": 33.066
    },
    {
     "q": "Cleopatra lived **closer** in time to…?",
@@ -107,9 +132,17 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "👑"
+    "cardText": "👑",
+    "start": 33.066,
+    "keywordAt": 34.569,
+    "countdownStart": 35.854,
+    "reveal": 38.354,
+    "end": 41.615
    }
-  ]
+  ],
+  "audio": "audio/six-q-which-first-3.mp3",
+  "outroStart": 41.615,
+  "durationInSeconds": 41.615
  },
  "lines": [
   {
@@ -136,5 +169,23 @@
    "q": "Last one. Cleopatra lived closer in time to?",
    "a": "The Moon landing! Think you got all six? Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -19.5,
+  "truePeak": -3.2,
+  "lra": 5.4,
+  "normalized": true,
+  "frozenShare": 0.696,
+  "longestFreezeSec": 3.8,
+  "frame0Luma": 101.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-21T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "uXyl9faBKeg",
+  "at": "2026-11-21T06:26"
+ },
+ "linkedLong": "R-Oqrw1B_9o"
 }

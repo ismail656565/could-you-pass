@@ -53,7 +53,15 @@
      "q": "Norway, or Egypt?",
      "a": "Egypt! Three times bigger."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 3.04,
+    "qAudio": "audio/map-lie-5/q1.mp3",
+    "aAudio": "audio/map-lie-5/a1.mp3",
+    "thinkStart": 4.42,
+    "reveal": 6.82,
+    "moveEnd": 8.32,
+    "aStart": 7.37,
+    "end": 10.47
    },
    {
     "level": "MEDIUM",
@@ -73,7 +81,15 @@
      "q": "Saudi Arabia, or Alaska?",
      "a": "Saudi Arabia! Alaska just shrank."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 10.47,
+    "qAudio": "audio/map-lie-5/q2.mp3",
+    "aAudio": "audio/map-lie-5/a2.mp3",
+    "thinkStart": 12.23,
+    "reveal": 14.63,
+    "moveEnd": 16.13,
+    "aStart": 15.18,
+    "end": 18.28
    },
    {
     "level": "HARD",
@@ -93,7 +109,15 @@
      "q": "Sweden, or Thailand?",
      "a": "Thailand! Did not see that coming."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 18.28,
+    "qAudio": "audio/map-lie-5/q3.mp3",
+    "aAudio": "audio/map-lie-5/a3.mp3",
+    "thinkStart": 19.71,
+    "reveal": 22.11,
+    "moveEnd": 23.61,
+    "aStart": 22.66,
+    "end": 25.76
    },
    {
     "level": "LEGEND",
@@ -113,12 +137,44 @@
      "q": "Last one. Argentina, or India?",
      "a": "India! Think you got all four? Go again!"
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 25.76,
+    "qAudio": "audio/map-lie-5/q4.mp3",
+    "aAudio": "audio/map-lie-5/a4.mp3",
+    "thinkStart": 27.76,
+    "reveal": 30.16,
+    "moveEnd": 31.66,
+    "aStart": 30.71,
+    "end": 35.46
    }
   ],
   "sources": [
    "Areas: CIA World Factbook, total area (Norway 323,802 km²; Egypt 1,001,450; Saudi Arabia 2,149,690; Thailand 513,120; Sweden 450,295; Argentina 2,780,400; India 3,287,263); Alaska: US Census Bureau (1,723,337 km²)",
    "Outlines: Natural Earth (public domain)"
-  ]
- }
+  ],
+  "hook": {
+   "audio": "audio/map-lie-5/hook.mp3",
+   "start": 0.0,
+   "end": 3.04
+  },
+  "durationInSeconds": 35.46
+ },
+ "qa": {
+  "lufs": -20.5,
+  "truePeak": -4.2,
+  "lra": 6.1,
+  "normalized": true,
+  "frozenShare": 0.58,
+  "longestFreezeSec": 2.6,
+  "frame0Luma": 205.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-21T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "d8RgTGhLdqU",
+  "at": "2026-11-21T06:24"
+ },
+ "linkedLong": "R-Oqrw1B_9o"
 }

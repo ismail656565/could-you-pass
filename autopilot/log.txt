@@ -2132,3 +2132,40 @@
 [2026-11-20 19:01:09] Heute kein Long-Tag (Di/Do/Sa) – langes Video bleibt in der Warteschlange.
 [2026-11-20 19:01:18] Konkurrenz: 25 Kanäle, 135 Gewinner-Videos
 [2026-11-20 20:06:33] map-lie-4: Kommentar gepostet
+[2026-11-21 06:15:43] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-21 06:15:43] Analytics gespeichert (100 Videos)
+[2026-11-21 06:15:43] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-21 06:15:44] Thumbnail-Test capital-cities-quiz-30-1: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-21 06:15:49] Thumbnail-Test capital-cities-quiz-30-1: jetzt Variante C
+[2026-11-21 06:15:49] Thumbnail-Test flag-quiz-30-1: Variante B → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-21 06:15:52] Thumbnail-Test flag-quiz-30-1: jetzt Variante C
+[2026-11-21 06:15:52] Thumbnail-Test movie-emoji-30-1: Variante B → {'views': 1, 'ctr': 0.25, 'metric': 'views/day'}
+[2026-11-21 06:15:54] Thumbnail-Test movie-emoji-30-1: jetzt Variante C
+[2026-11-21 06:15:54] Produziere map-lie-5 (short)
+[2026-11-21 06:23:45] Gerendert
+[2026-11-21 06:23:58] QA: -20.5 LUFS, TP -4.2 dBTP → normalisiert auf −14, Standbild max 2.6 s, Frame0-Luma 205.4
+[2026-11-21 06:24:01] Hochgeladen: https://youtube.com/watch?v=d8RgTGhLdqU (private)
+[2026-11-21 06:24:01] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-21 06:24:01] Geplant für 21.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-21 06:24:01] Produziere six-q-which-first-3 (short)
+[2026-11-21 06:24:01] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-21 06:24:27] Ton fertig: 41.6 s
+[2026-11-21 06:26:25] Gerendert
+[2026-11-21 06:26:32] QA: -19.5 LUFS, TP -3.2 dBTP → normalisiert auf −14, Standbild max 3.8 s, Frame0-Luma 101.4
+[2026-11-21 06:26:35] Hochgeladen: https://youtube.com/watch?v=uXyl9faBKeg (private)
+[2026-11-21 06:26:36] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-21 06:26:36] Geplant für 21.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-21 06:26:36] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-21 06:26:36] Produziere thanksgiving-quiz-50-1 (long)
+[2026-11-21 06:26:36] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-21 06:32:15] Ton fertig: 662.9 s
+[2026-11-21 07:04:19] Gerendert
+[2026-11-21 07:06:19] QA: -21.7 LUFS, TP -2.7 dBTP → normalisiert auf −14, Standbild max 9.8 s, Frame0-Luma 120.6 | WARNUNG: Standbild 9.8 s
+[2026-11-21 07:06:38] Hochgeladen: https://youtube.com/watch?v=R-Oqrw1B_9o (private)
+[2026-11-21 07:06:45] Vorschaubild gesetzt
+[2026-11-21 07:06:45] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-11-21 07:06:45] Geplant für 21.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-21 07:06:45] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-21 07:06:47] Short-Beschreibung (six-q-which-first-3) verlinkt auf langes Video R-Oqrw1B_9o
+[2026-11-21 07:06:47] Short-Beschreibung (map-lie-5) verlinkt auf langes Video R-Oqrw1B_9o
+[2026-11-21 07:06:57] Konkurrenz: 25 Kanäle, 132 Gewinner-Videos

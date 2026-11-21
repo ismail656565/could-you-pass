@@ -1,0 +1,880 @@
+{
+ "type": "quiz",
+ "format": "long",
+ "layout": "tvshow",
+ "title": "Thanksgiving Quiz",
+ "header": "THANKSGIVING QUIZ",
+ "hook": "CAN YOU GET 40/50? 🧠",
+ "finalLabel": "FINAL QUESTION 🔥",
+ "ctaText": "Comment your score 👇",
+ "correctLabel": "CORRECT!",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.1,
+ "outroText": "Did you get 40?",
+ "outroSub": "Comment your score 👇",
+ "midCtaIndex": 24,
+ "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+ "subscribeText": "New quiz every day – turn on the bell 🔔",
+ "thumbTexts": [
+  "THANKSGIVING **QUIZ**",
+  "CAN YOU GET **40/50**?",
+  "CAN YOU BEAT **LEGEND**?"
+ ],
+ "thumbEmoji": "🦃",
+ "thumbBadge": "50 QUESTIONS",
+ "cardColors": [
+  "#1E3A8A",
+  "#0B0B2E"
+ ],
+ "questions": [
+  {
+   "q": "Canada celebrates Thanksgiving in which **month**?",
+   "answers": [
+    "October",
+    "September",
+    "November",
+    "December"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🍁",
+   "start": 0.0,
+   "keywordAt": 5.861,
+   "countdownStart": 8.462,
+   "reveal": 13.462,
+   "end": 18.674
+  },
+  {
+   "q": "US Thanksgiving is on which **Thursday** of November?",
+   "answers": [
+    "First",
+    "Second",
+    "Third",
+    "Fourth"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🗓️",
+   "start": 18.674,
+   "keywordAt": 20.371,
+   "countdownStart": 21.669,
+   "reveal": 26.669,
+   "end": 31.501
+  },
+  {
+   "q": "Which store's famous **parade** fills New York?",
+   "answers": [
+    "Macy's",
+    "Target",
+    "Walmart",
+    "Sears"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🎈",
+   "start": 31.501,
+   "keywordAt": 32.582,
+   "countdownStart": 35.458,
+   "reveal": 40.458,
+   "end": 44.629
+  },
+  {
+   "q": "Which sport fills TV screens every **Thanksgiving**?",
+   "answers": [
+    "Baseball",
+    "Basketball",
+    "Ice hockey",
+    "American football"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "📺",
+   "start": 44.629,
+   "keywordAt": 46.604,
+   "countdownStart": 47.608,
+   "reveal": 52.608,
+   "end": 58.441
+  },
+  {
+   "q": "A **male** turkey is called a…?",
+   "answers": [
+    "Buck",
+    "Tom",
+    "Rooster",
+    "Bull"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🦃",
+   "start": 58.441,
+   "keywordAt": 58.627,
+   "countdownStart": 60.463,
+   "reveal": 65.463,
+   "end": 69.699
+  },
+  {
+   "q": "Which red **berry** sauce is a Thanksgiving classic?",
+   "answers": [
+    "Raspberry",
+    "Cherry",
+    "Cranberry",
+    "Strawberry"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🍽️",
+   "start": 69.699,
+   "keywordAt": 70.282,
+   "countdownStart": 72.494,
+   "reveal": 77.494,
+   "end": 81.644
+  },
+  {
+   "q": "The day after Thanksgiving is a huge **shopping** day…?",
+   "answers": [
+    "Black Friday",
+    "Cyber Monday",
+    "Boxing Day",
+    "Super Saturday"
+   ],
+   "correct": 0,
+   "level": "EASY",
+   "cardText": "🛍️",
+   "start": 81.644,
+   "keywordAt": 83.627,
+   "countdownStart": 85.573,
+   "reveal": 90.573,
+   "end": 94.788
+  },
+  {
+   "q": "Which **pie** is the classic Thanksgiving dessert?",
+   "answers": [
+    "Lemon",
+    "Key lime",
+    "Pumpkin",
+    "Cherry"
+   ],
+   "correct": 2,
+   "level": "EASY",
+   "cardText": "🥧",
+   "start": 94.788,
+   "keywordAt": 95.154,
+   "countdownStart": 97.366,
+   "reveal": 102.366,
+   "end": 106.37
+  },
+  {
+   "q": "What does the US **president** pardon each year?",
+   "answers": [
+    "A pumpkin",
+    "A turkey",
+    "A pie",
+    "A pilgrim"
+   ],
+   "correct": 1,
+   "level": "EASY",
+   "cardText": "🏛️",
+   "start": 106.37,
+   "keywordAt": 108.524,
+   "countdownStart": 109.644,
+   "reveal": 114.644,
+   "end": 119.263
+  },
+  {
+   "q": "Which side dish is often topped with **marshmallows**?",
+   "answers": [
+    "Mashed potatoes",
+    "Stuffing",
+    "Green beans",
+    "Sweet potatoes"
+   ],
+   "correct": 3,
+   "level": "EASY",
+   "cardText": "🍠",
+   "start": 119.263,
+   "keywordAt": 121.061,
+   "countdownStart": 121.965,
+   "reveal": 126.965,
+   "end": 131.68
+  },
+  {
+   "q": "Which Native people shared the **1621** harvest feast?",
+   "answers": [
+    "Cherokee",
+    "Apache",
+    "Wampanoag",
+    "Sioux"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🌽",
+   "start": 131.68,
+   "countdownStart": 137.864,
+   "reveal": 142.864,
+   "end": 147.468
+  },
+  {
+   "q": "In which present-day **state** was the 1621 feast?",
+   "answers": [
+    "Virginia",
+    "Massachusetts",
+    "New York",
+    "Maine"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🗺️",
+   "start": 147.468,
+   "keywordAt": 148.622,
+   "countdownStart": 149.996,
+   "reveal": 154.996,
+   "end": 159.428
+  },
+  {
+   "q": "Which president made Thanksgiving **national** in 1863?",
+   "answers": [
+    "Abraham Lincoln",
+    "Thomas Jefferson",
+    "George Washington",
+    "Theodore Roosevelt"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "1863",
+   "start": 159.428,
+   "keywordAt": 161.141,
+   "countdownStart": 163.301,
+   "reveal": 168.301,
+   "end": 172.586
+  },
+  {
+   "q": "Which NFL team began its Thanksgiving game in **1934**?",
+   "answers": [
+    "Dallas Cowboys",
+    "Detroit Lions",
+    "Chicago Bears",
+    "Green Bay Packers"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🏈",
+   "start": 172.586,
+   "countdownStart": 177.491,
+   "reveal": 182.491,
+   "end": 187.586
+  },
+  {
+   "q": "What was the Pilgrims' **colony** called?",
+   "answers": [
+    "Jamestown",
+    "Roanoke",
+    "Plymouth",
+    "Salem"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "⛵",
+   "start": 187.586,
+   "keywordAt": 188.67,
+   "countdownStart": 189.581,
+   "reveal": 194.581,
+   "end": 197.852
+  },
+  {
+   "q": "Which sitcom had a **Thanksgiving** episode every season?",
+   "answers": [
+    "Seinfeld",
+    "The Office",
+    "Frasier",
+    "Friends"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "📺",
+   "start": 197.852,
+   "keywordAt": 198.893,
+   "countdownStart": 201.418,
+   "reveal": 206.418,
+   "end": 211.075
+  },
+  {
+   "q": "The song **Over the River** was written about…?",
+   "answers": [
+    "Christmas",
+    "Thanksgiving",
+    "New Year",
+    "Easter"
+   ],
+   "correct": 1,
+   "level": "MEDIUM",
+   "cardText": "🎶",
+   "start": 211.075,
+   "keywordAt": 211.548,
+   "countdownStart": 214.816,
+   "reveal": 219.816,
+   "end": 225.425
+  },
+  {
+   "q": "Where do wild turkeys **sleep** at night?",
+   "answers": [
+    "In burrows",
+    "In tall grass",
+    "In trees",
+    "In caves"
+   ],
+   "correct": 2,
+   "level": "MEDIUM",
+   "cardText": "🌙",
+   "start": 225.425,
+   "keywordAt": 226.594,
+   "countdownStart": 227.637,
+   "reveal": 232.637,
+   "end": 237.558
+  },
+  {
+   "q": "Which brand runs a famous turkey **hotline**?",
+   "answers": [
+    "Butterball",
+    "Tyson",
+    "Kraft",
+    "Heinz"
+   ],
+   "correct": 0,
+   "level": "MEDIUM",
+   "cardText": "☎️",
+   "start": 237.558,
+   "keywordAt": 239.721,
+   "countdownStart": 240.428,
+   "reveal": 245.428,
+   "end": 250.475
+  },
+  {
+   "q": "Macy's giant parade **balloons** are filled with…?",
+   "answers": [
+    "Hot air",
+    "Hydrogen",
+    "Oxygen",
+    "Helium"
+   ],
+   "correct": 3,
+   "level": "MEDIUM",
+   "cardText": "🎈",
+   "start": 250.475,
+   "keywordAt": 251.58,
+   "countdownStart": 253.673,
+   "reveal": 258.673,
+   "end": 262.275
+  },
+  {
+   "q": "How many **days** did the 1621 feast last?",
+   "answers": [
+    "One",
+    "Two",
+    "Three",
+    "Seven"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "1621",
+   "start": 262.275,
+   "keywordAt": 263.831,
+   "countdownStart": 266.398,
+   "reveal": 271.398,
+   "end": 275.748
+  },
+  {
+   "q": "FDR's earlier Thanksgiving got which **nickname**?",
+   "answers": [
+    "Franksgiving",
+    "Roosevelt Day",
+    "New Deal Day",
+    "Early Bird Day"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "1939",
+   "start": 275.748,
+   "countdownStart": 281.358,
+   "reveal": 286.358,
+   "end": 291.05
+  },
+  {
+   "q": "The turkey is **native** to which continent?",
+   "answers": [
+    "Asia",
+    "Africa",
+    "Europe",
+    "North America"
+   ],
+   "correct": 3,
+   "level": "HARD",
+   "cardText": "🌍",
+   "start": 291.05,
+   "keywordAt": 292.063,
+   "countdownStart": 293.641,
+   "reveal": 298.641,
+   "end": 303.605
+  },
+  {
+   "q": "Which Wampanoag man **spoke English** to the Pilgrims?",
+   "answers": [
+    "Squanto",
+    "Pocahontas",
+    "Sacagawea",
+    "Sitting Bull"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🗣️",
+   "start": 303.605,
+   "keywordAt": 304.668,
+   "countdownStart": 306.836,
+   "reveal": 311.836,
+   "end": 316.221
+  },
+  {
+   "q": "Who called the turkey more **respectable** than the eagle?",
+   "answers": [
+    "Benjamin Franklin",
+    "George Washington",
+    "Thomas Jefferson",
+    "John Adams"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "🦅",
+   "start": 316.221,
+   "keywordAt": 317.961,
+   "countdownStart": 319.921,
+   "reveal": 324.921,
+   "end": 331.734
+  },
+  {
+   "q": "Which **state** grows the most cranberries?",
+   "answers": [
+    "Massachusetts",
+    "New Jersey",
+    "Wisconsin",
+    "Oregon"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "🫐",
+   "start": 331.734,
+   "keywordAt": 332.092,
+   "countdownStart": 333.919,
+   "reveal": 338.919,
+   "end": 342.901
+  },
+  {
+   "q": "A **baby** turkey is called a…?",
+   "answers": [
+    "Kit",
+    "Poult",
+    "Cygnet",
+    "Cub"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🐣",
+   "start": 342.901,
+   "keywordAt": 343.087,
+   "countdownStart": 344.92,
+   "reveal": 349.92,
+   "end": 353.952
+  },
+  {
+   "q": "Why do fresh **cranberries** float?",
+   "answers": [
+    "Air pockets inside",
+    "They're full of oil",
+    "They're full of sugar",
+    "Their stems"
+   ],
+   "correct": 0,
+   "level": "HARD",
+   "cardText": "💧",
+   "start": 353.952,
+   "keywordAt": 354.712,
+   "countdownStart": 355.954,
+   "reveal": 360.954,
+   "end": 365.41
+  },
+  {
+   "q": "Which turkeys **gobble**?",
+   "answers": [
+    "Only females",
+    "Only males",
+    "Both",
+    "Only babies"
+   ],
+   "correct": 1,
+   "level": "HARD",
+   "cardText": "🔊",
+   "start": 365.41,
+   "keywordAt": 366.219,
+   "countdownStart": 366.884,
+   "reveal": 371.884,
+   "end": 375.676
+  },
+  {
+   "q": "What did the Pilgrims sign **aboard** the Mayflower?",
+   "answers": [
+    "Magna Carta",
+    "Bill of Rights",
+    "Mayflower Compact",
+    "Declaration of Rights"
+   ],
+   "correct": 2,
+   "level": "HARD",
+   "cardText": "📜",
+   "start": 375.676,
+   "keywordAt": 376.925,
+   "countdownStart": 378.135,
+   "reveal": 383.135,
+   "end": 387.41
+  },
+  {
+   "q": "How many Wampanoag men came to the **1621** feast?",
+   "answers": [
+    "About ninety",
+    "About fifty",
+    "About twenty",
+    "About two hundred"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "1621",
+   "start": 387.41,
+   "countdownStart": 392.713,
+   "reveal": 397.713,
+   "end": 402.289
+  },
+  {
+   "q": "Who declared the **first** national thanksgiving, in 1789?",
+   "answers": [
+    "John Adams",
+    "George Washington",
+    "Thomas Jefferson",
+    "Abraham Lincoln"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "1789",
+   "start": 402.289,
+   "keywordAt": 403.753,
+   "countdownStart": 406.964,
+   "reveal": 411.964,
+   "end": 417.102
+  },
+  {
+   "q": "Which president **officially** pardoned a turkey first?",
+   "answers": [
+    "Harry Truman",
+    "John F. Kennedy",
+    "George H. W. Bush",
+    "Ronald Reagan"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🏛️",
+   "start": 417.102,
+   "keywordAt": 418.704,
+   "countdownStart": 420.249,
+   "reveal": 425.249,
+   "end": 431.07
+  },
+  {
+   "q": "Which **company** created green bean casserole?",
+   "answers": [
+    "Kraft",
+    "Heinz",
+    "Nestlé",
+    "Campbell's"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "🥫",
+   "start": 431.07,
+   "keywordAt": 431.461,
+   "countdownStart": 433.681,
+   "reveal": 438.681,
+   "end": 443.435
+  },
+  {
+   "q": "The flap hanging over a turkey's **beak** is the…?",
+   "answers": [
+    "Snood",
+    "Wattle",
+    "Comb",
+    "Crest"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🦃",
+   "start": 443.435,
+   "keywordAt": 445.43,
+   "countdownStart": 446.799,
+   "reveal": 451.799,
+   "end": 455.331
+  },
+  {
+   "q": "A **group** of wild turkeys can be called a…?",
+   "answers": [
+    "Pride",
+    "Parliament",
+    "Rafter",
+    "Murder"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🦃🦃",
+   "start": 455.331,
+   "keywordAt": 455.509,
+   "countdownStart": 457.923,
+   "reveal": 462.923,
+   "end": 466.228
+  },
+  {
+   "q": "The **Three Sisters** crops: corn, beans and…?",
+   "answers": [
+    "Squash",
+    "Wheat",
+    "Potatoes",
+    "Rice"
+   ],
+   "correct": 0,
+   "level": "VERY HARD",
+   "cardText": "🌱",
+   "start": 466.228,
+   "keywordAt": 466.493,
+   "countdownStart": 468.928,
+   "reveal": 473.928,
+   "end": 477.658
+  },
+  {
+   "q": "Before America, the Pilgrims lived in which **country**?",
+   "answers": [
+    "France",
+    "Netherlands",
+    "Scotland",
+    "Germany"
+   ],
+   "correct": 1,
+   "level": "VERY HARD",
+   "cardText": "🧭",
+   "start": 477.658,
+   "keywordAt": 481.144,
+   "countdownStart": 481.863,
+   "reveal": 486.863,
+   "end": 491.449
+  },
+  {
+   "q": "Which **meat** did the Wampanoag bring to the feast?",
+   "answers": [
+    "Beef",
+    "Pork",
+    "Deer",
+    "Lamb"
+   ],
+   "correct": 2,
+   "level": "VERY HARD",
+   "cardText": "🍖",
+   "start": 491.449,
+   "keywordAt": 491.815,
+   "countdownStart": 495.019,
+   "reveal": 500.019,
+   "end": 503.924
+  },
+  {
+   "q": "Which Arlo Guthrie song is a Thanksgiving **radio** classic?",
+   "answers": [
+    "This Land Is Your Land",
+    "City of New Orleans",
+    "Coming Into Los Angeles",
+    "Alice's Restaurant"
+   ],
+   "correct": 3,
+   "level": "VERY HARD",
+   "cardText": "📻",
+   "start": 503.924,
+   "keywordAt": 506.185,
+   "countdownStart": 507.316,
+   "reveal": 512.316,
+   "end": 518.7
+  },
+  {
+   "q": "In which year did the Macy's parade **begin**?",
+   "answers": [
+    "1924",
+    "1910",
+    "1939",
+    "1950"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🗽",
+   "start": 518.7,
+   "keywordAt": 522.001,
+   "countdownStart": 522.64,
+   "reveal": 527.64,
+   "end": 533.23
+  },
+  {
+   "q": "Macy's first **character** balloon, in 1927, was…?",
+   "answers": [
+    "Mickey Mouse",
+    "Felix the Cat",
+    "Popeye",
+    "Betty Boop"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "1927",
+   "start": 533.23,
+   "keywordAt": 535.193,
+   "countdownStart": 537.795,
+   "reveal": 542.795,
+   "end": 547.289
+  },
+  {
+   "q": "Which city has America's oldest Thanksgiving **parade**?",
+   "answers": [
+    "Philadelphia",
+    "Detroit",
+    "New York",
+    "Chicago"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🏙️",
+   "start": 547.289,
+   "keywordAt": 549.603,
+   "countdownStart": 550.251,
+   "reveal": 555.251,
+   "end": 560.443
+  },
+  {
+   "q": "Thanksgiving champion **Sarah Hale** also wrote…?",
+   "answers": [
+    "Twinkle, Twinkle, Little Star",
+    "Mary Had a Little Lamb",
+    "Humpty Dumpty",
+    "Hickory Dickory Dock"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "✍️",
+   "start": 560.443,
+   "keywordAt": 560.523,
+   "countdownStart": 564.949,
+   "reveal": 569.949,
+   "end": 576.155
+  },
+  {
+   "q": "When did Congress fix Thanksgiving to the **fourth** Thursday?",
+   "answers": [
+    "1863",
+    "1921",
+    "1941",
+    "1959"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "⚖️",
+   "start": 576.155,
+   "keywordAt": 578.556,
+   "countdownStart": 579.585,
+   "reveal": 584.585,
+   "end": 590.152
+  },
+  {
+   "q": "From which port did the Mayflower **finally** set sail?",
+   "answers": [
+    "London",
+    "Southampton",
+    "Bristol",
+    "Plymouth"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "⚓",
+   "start": 590.152,
+   "keywordAt": 592.389,
+   "countdownStart": 593.563,
+   "reveal": 598.563,
+   "end": 602.964
+  },
+  {
+   "q": "How many **passengers** sailed on the Mayflower?",
+   "answers": [
+    "52",
+    "102",
+    "202",
+    "302"
+   ],
+   "correct": 1,
+   "level": "LEGEND",
+   "cardText": "⛵",
+   "start": 602.964,
+   "keywordAt": 603.478,
+   "countdownStart": 605.467,
+   "reveal": 610.467,
+   "end": 614.587
+  },
+  {
+   "q": "How many Mayflower passengers survived the **first winter**?",
+   "answers": [
+    "Almost all",
+    "About three quarters",
+    "About half",
+    "Only ten"
+   ],
+   "correct": 2,
+   "level": "LEGEND",
+   "cardText": "❄️",
+   "start": 614.587,
+   "keywordAt": 618.221,
+   "countdownStart": 619.181,
+   "reveal": 624.181,
+   "end": 627.906
+  },
+  {
+   "q": "Who led the **Wampanoag** at the 1621 feast?",
+   "answers": [
+    "Massasoit",
+    "Metacom",
+    "Powhatan",
+    "Tecumseh"
+   ],
+   "correct": 0,
+   "level": "LEGEND",
+   "cardText": "🤝",
+   "start": 627.906,
+   "keywordAt": 628.562,
+   "countdownStart": 630.878,
+   "reveal": 635.878,
+   "end": 640.85
+  },
+  {
+   "q": "A turkey's **wishbone** is properly called the…?",
+   "answers": [
+    "Patella",
+    "Sternum",
+    "Scapula",
+    "Furcula"
+   ],
+   "correct": 3,
+   "level": "LEGEND",
+   "cardText": "🦴",
+   "start": 640.85,
+   "keywordAt": 643.737,
+   "countdownStart": 644.505,
+   "reveal": 649.505,
+   "end": 653.096
+  }
+ ],
+ "audio": "audio/thanksgiving-quiz-50-1.mp3",
+ "outroStart": 653.096,
+ "durationInSeconds": 662.884
+}
