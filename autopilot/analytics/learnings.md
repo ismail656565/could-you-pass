@@ -704,3 +704,4 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 3. **Zuschauer-Wünsche** aus comments.md (WUNSCH) haben Vorrang im Plan; im Titel/Kommentar darauf hinweisen („You asked for it: …“).
 4. **KPI:** Abos pro 1.000 Views je Format (report.json subscribersGained/views) täglich in plan.md; Formate mit < 0,5 nach ≥ 5 Videos streichen. Ziel: ≥ 2 Abos/1.000 Views bis 15.12., 100 Abos bis 31.12.
 5. Besitzer-Aufgaben (API kann das nicht): in YouTube Studio bei Shorts „Ähnliches Video“ auf das passende Long setzen; Kanal-Trailer + Playlists auf der Kanalseite.
+- 22.11. erste Kommentar-Auswertung: 15 Zuschauer-Kommentare (21 T), 11 unbeantwortet → alle 11 beantwortet (Manager). Stammzuschauer @Jo-wl5fj (3 Kommentare: „More please“, „Like the speed“) wünscht **Art, classical music, science** → Wunsch-Themen in den nächsten Plan (Science-Short zuerst, Kunst/Klassik als Experiment). Tempo der kurzen Shorts wird ausdrücklich gelobt.
