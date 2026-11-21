@@ -412,3 +412,109 @@ export const ExamLongOutro: React.FC<{story: QuizStory}> = ({story}) => {
     </AbsoluteFill>
   );
 };
+
+// ---------------------------------------------------------------- Vorschaubilder 1280x720 im Prüfungs-Look
+// A = Prüfungsbogen mit Suchphrase + Ankreuz-Kreisen + Rätsel-Aufklebern
+// B = korrigierter Test mit großem roten „F“ (Ego-Hürde „Could you pass?“)
+// C = Stoppuhr + Klebezettel „Only 1% …“
+const ThumbWords: React.FC<{text: string; size: number; color?: string; accent?: string; font?: string; lh?: number}> = ({text, size, color = K.ink, accent = K.red, font = SERIF, lh = 0.98}) => (
+  <div style={{fontFamily: font, fontSize: size, lineHeight: lh, color, letterSpacing: -1}}>
+    {noEmoji(text)
+      .split(/(\*\*[^*]+\*\*)/)
+      .map((p, i) => (p.startsWith('**') ? <span key={i} style={{color: accent}}>{p.slice(2, -2)}</span> : <span key={i}>{p}</span>))}
+  </div>
+);
+
+const ThumbSheet: React.FC<{x: number; y: number; w: number; h: number; rot: number; children?: React.ReactNode}> = ({x, y, w, h, rot, children}) => (
+  <div style={{position: 'absolute', left: x, top: y, width: w, height: h, transform: `rotate(${rot}deg)`, boxShadow: '0 20px 40px rgba(30,15,5,0.55)', overflow: 'hidden'}}>
+    <Img src={staticFile('exam/paper.jpg')} style={{position: 'absolute', inset: 0, width: w, height: h, objectFit: 'cover'}} />
+    <svg width={w} height={h} style={{position: 'absolute', inset: 0}}>
+      {Array.from({length: 16}).map((_, i) => (
+        <line key={i} x1={0} x2={w} y1={70 + i * 52} y2={70 + i * 52} stroke={K.rule} strokeWidth={2} />
+      ))}
+      <line x1={70} x2={70} y1={0} y2={h} stroke={K.margin} strokeWidth={3} />
+    </svg>
+    {children}
+  </div>
+);
+
+const Sticker: React.FC<{e: string; size: number; rot: number}> = ({e, size, rot}) => (
+  <div style={{width: size, height: size, borderRadius: '50%', background: '#fff', boxShadow: '0 8px 14px rgba(0,0,0,0.3)', display: 'flex', alignItems: 'center', justifyContent: 'center', transform: `rotate(${rot}deg)`}}>
+    <div style={{fontFamily: EMOJI_FONT, fontSize: size * 0.62, lineHeight: 1}}>{e}</div>
+  </div>
+);
+
+export const ExamThumb: React.FC<{story: QuizStory & {thumbPuzzle?: string[]; thumbEmoji?: string}; text: string; badge: string; variant?: 'A' | 'B' | 'C'}> = ({story, text, badge, variant = 'A'}) => {
+  const n = story.questions.length;
+  const stickers = (story.thumbPuzzle && story.thumbPuzzle.length ? story.thumbPuzzle : [story.thumbEmoji ?? '❓']).filter((e) => e !== '❓').slice(0, 3);
+  const plainLen = noEmoji(text).replace(/\*\*/g, '').length;
+  const desk = <Img src={staticFile('exam/desk.jpg')} style={{position: 'absolute', inset: 0, width: 1280, height: 720, objectFit: 'cover'}} />;
+  if (variant === 'B') {
+    return (
+      <AbsoluteFill style={{overflow: 'hidden'}}>
+        {desk}
+        <ThumbSheet x={40} y={30} w={1200} h={760} rot={-1.5}>
+          <div style={{position: 'absolute', left: 100, top: 40, width: 700}}>
+            <ThumbWords text={text} size={plainLen > 16 ? 104 : 124} />
+          </div>
+          <div style={{position: 'absolute', left: 104, top: 470, fontFamily: TYPE, fontSize: 34, color: K.grey, letterSpacing: 3}}>{noEmoji(badge).toUpperCase()}</div>
+          <div style={{position: 'absolute', left: 104, top: 530, display: 'flex', gap: 26}}>
+            {LETTERS.map((l, i) => (
+              <div key={l} style={{width: 84, height: 60, borderRadius: '50%', border: `4px solid ${K.ink}`, background: i === 1 ? K.pencil : 'transparent', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: TYPE, fontSize: 32, color: K.ink}}>{i === 1 ? '' : l}</div>
+            ))}
+          </div>
+        </ThumbSheet>
+        {/* großes rotes F, umkringelt */}
+        <div style={{position: 'absolute', left: 820, top: 90, width: 400, height: 420}}>
+          <div style={{position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: MARKER, fontSize: 340, color: K.redPen, transform: 'rotate(-8deg)', lineHeight: 1}}>F</div>
+          <svg width={400} height={420} style={{position: 'absolute', inset: 0, overflow: 'visible'}}>
+            <path d="M60 220 C 40 70, 330 30, 360 180 C 390 330, 140 410, 70 300 C 40 250, 60 160, 140 110" fill="none" stroke={K.redPen} strokeWidth={14} strokeLinecap="round" />
+          </svg>
+        </div>
+        <div style={{position: 'absolute', left: 860, top: 520, fontFamily: HAND, fontWeight: 700, fontSize: 64, color: K.redPen, transform: 'rotate(-6deg)'}}>See me!</div>
+      </AbsoluteFill>
+    );
+  }
+  if (variant === 'C') {
+    return (
+      <AbsoluteFill style={{overflow: 'hidden'}}>
+        {desk}
+        <div style={{position: 'absolute', left: 50, top: 60, width: 660, height: 600, background: K.note, transform: 'rotate(-3deg)', boxShadow: '0 22px 34px rgba(30,15,5,0.55)', padding: '50px 46px', boxSizing: 'border-box'}}>
+          <div style={{position: 'absolute', left: 0, right: 0, top: 0, height: 46, background: 'rgba(0,0,0,0.05)'}} />
+          <ThumbWords text={text} size={plainLen > 16 ? 108 : 124} font={MARKER} lh={1.08} />
+          <div style={{position: 'absolute', left: 50, bottom: 46, fontFamily: HAND, fontWeight: 700, fontSize: 56, color: K.ink, transform: 'rotate(-2deg)'}}>{noEmoji(badge).toLowerCase()} · tick tock…</div>
+        </div>
+        <div style={{position: 'absolute', left: 720, top: 40, transform: 'scale(1.55)', transformOrigin: '0 0'}}>
+          <svg width={340} height={380} viewBox="0 0 340 380">
+            <rect x={150} y={18} width={40} height={30} rx={6} fill="#9EA3AB" stroke="#5E636B" strokeWidth={3} />
+            <rect x={140} y={6} width={60} height={20} rx={8} fill="#C3C7CE" stroke="#5E636B" strokeWidth={3} />
+            <circle cx={170} cy={200} r={150} fill="#B8BDC5" stroke="#5E636B" strokeWidth={4} />
+            <circle cx={170} cy={200} r={128} fill="#FDFCF7" stroke="#2E3138" strokeWidth={3} />
+            <path d="M170 200 L170 82 A118 118 0 1 1 68 141 Z" fill={K.red} opacity={0.85} />
+            <line x1={170} y1={200} x2={68} y2={141} stroke={K.ink} strokeWidth={6} strokeLinecap="round" />
+            <circle cx={170} cy={200} r={10} fill={K.red} stroke={K.ink} strokeWidth={3} />
+          </svg>
+        </div>
+      </AbsoluteFill>
+    );
+  }
+  return (
+    <AbsoluteFill style={{overflow: 'hidden'}}>
+      {desk}
+      <ThumbSheet x={60} y={40} w={1060} h={720} rot={-2}>
+        <div style={{position: 'absolute', left: 100, top: 34, fontFamily: TYPE, fontSize: 30, letterSpacing: 4, color: K.grey}}>COULD YOU PASS? · FINAL EXAM</div>
+        <div style={{position: 'absolute', left: 96, top: 92, width: 900}}>
+          <ThumbWords text={text} size={plainLen > 16 ? 120 : 150} />
+        </div>
+        <div style={{position: 'absolute', left: 100, top: 430, display: 'flex', gap: 34, alignItems: 'center'}}>
+          {stickers.map((e, i) => (
+            <Sticker key={i} e={e} size={170} rot={i % 2 ? 8 : -6} />
+          ))}
+        </div>
+      </ThumbSheet>
+      <div style={{position: 'absolute', left: 930, top: 360, width: 330, height: 300, background: K.note, transform: 'rotate(5deg)', boxShadow: '0 16px 26px rgba(30,15,5,0.5)', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        <div style={{fontFamily: MARKER, fontSize: 104, color: K.redPen, lineHeight: 1}}>?/{n}</div>
+      </div>
+    </AbsoluteFill>
+  );
+};

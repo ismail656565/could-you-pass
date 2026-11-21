@@ -4,7 +4,7 @@ import {loadFont} from '@remotion/google-fonts/Montserrat';
 import type {QuizQuestion, QuizStory} from './Quiz';
 import {QuizMascot} from './components/Mascot';
 import {TvLongScene, TvLongOutro, TvThumb} from './QuizTV';
-import {ExamLongScene, ExamLongOutro} from './QuizExam';
+import {ExamLongScene, ExamLongOutro, ExamThumb} from './QuizExam';
 import {PopLongScene} from './QuizPop';
 
 // Langes Quiz-Video im Querformat (1920x1080), Neon-Look.
@@ -499,7 +499,8 @@ export const QuizThumb: React.FC<ThumbProps> = (story) => {
   const emoji = story.thumbEmoji ?? '🏆';
   const puzzle = story.thumbPuzzle && story.thumbPuzzle.length ? story.thumbPuzzle : null;
   const badge = story.thumbBadge ?? story.hook ?? `${story.questions.length} QUESTIONS`;
-  if (story.layout === 'tvshow' || story.layout === 'pop' || story.layout === 'exam') return <TvThumb story={story} text={text} badge={badge} variant={v} />;
+  if (story.layout === 'exam') return <ExamThumb story={story} text={text} badge={badge} variant={v} />;
+  if (story.layout === 'tvshow' || story.layout === 'pop') return <TvThumb story={story} text={text} badge={badge} variant={v} />;
   if (v === 'B') {
     return (
       <AbsoluteFill style={{background: '#FFD400', overflow: 'hidden'}}>
