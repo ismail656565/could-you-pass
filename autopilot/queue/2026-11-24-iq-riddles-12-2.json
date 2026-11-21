@@ -27,7 +27,7 @@
  "story": {
   "type": "quiz",
   "format": "long",
-  "layout": "tvshow",
+  "layout": "exam",
   "title": "IQ Riddles",
   "header": "TEST YOUR IQ",
   "hook": "CAN YOU SOLVE 5/12? 🧠",

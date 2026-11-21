@@ -685,3 +685,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 
 ## 2026-11-21 10:40 – Neues Format Flag Duel (Besitzer-Wunsch)
 - Besitzer schickte Referenz „Wer ist CHINA? Links oder rechts? Flaggen-Quiz Countryballs“ (26 s, 3 Runden, 3D) → eigene 2D-Komposition FlagDuel im tvshow-Farbschema, story.type "flagduel", Flaggen aus flag-icons (MIT). Test E19: flag-duel-1 22.11., flag-duel-2 25.11. (je 16:00).
+
+## 2026-11-22 – STRATEGIE (Besitzer: tvshow-Long „sieht sehr AI und simpel aus“ → neues Layout „exam“ abgenommen) – GILT AB SOFORT
+- **Alle langen Videos `layout: "exam"`** (src/QuizExam.tsx): Prüfungsbogen auf Holztisch, Schreibmaschinen-Frage mit Textmarker, Ankreuz-Kreise A–D, Bleistift malt die Lösung aus, Rotstift-Haken, Stoppuhr, Runden-Klebezettel, Stempel bei Rundenwechsel. tvshow nur noch für Shorts.
+- cardText: kurzes Emoji → runder Aufkleber; Zahlenfolgen/Text werden nicht doppelt gezeigt (stehen in der Frage). Echte Fotos (image/video) → Polaroid mit Klebestreifen.
+- Texte in hook/finalLabel/ctaText/outroText ohne Emoji schreiben (werden sonst entfernt); Fragen ≤ 95 Zeichen, Antworten ≤ 30 Zeichen.
+- Renderzeit ≈ 45 min für 11 min Video (tvshow 32 min) – passt ins 180-min-Limit.
+- Vorschaubilder vorerst unverändert (TvThumb v2).
+- Erstes Video im neuen Look: iq-riddles-12-2 (Di 24.11.). Neue Longs aus generate_queue.py bekommen automatisch "exam".
