@@ -1,0 +1,21 @@
+{
+  "name": "PERCEPT LAB",
+  "enabled": true,
+  "voice": "af_nicole",
+  "shorts_per_day": 1,
+  "slots": [
+    "16:30"
+  ],
+  "warn_below": 3,
+  "category": 27,
+  "tags": [
+    "percept lab",
+    "optical illusion",
+    "illusions",
+    "brain test",
+    "perception",
+    "shorts"
+  ],
+  "footer": "PERCEPT LAB — your brain, tested. A new illusion every day.\n#illusion #brain #shorts",
+  "style": "chalkboard / lab drawings"
+}

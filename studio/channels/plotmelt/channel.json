@@ -1,0 +1,21 @@
+{
+  "name": "PlotMelt",
+  "enabled": true,
+  "voice": "am_puck",
+  "shorts_per_day": 1,
+  "slots": [
+    "15:30"
+  ],
+  "warn_below": 3,
+  "category": 24,
+  "tags": [
+    "plotmelt",
+    "animated story",
+    "funny",
+    "plot twist",
+    "cartoon",
+    "shorts"
+  ],
+  "footer": "PlotMelt — tiny stories, big twists. Original animated shorts.\n#animation #story #shorts",
+  "style": "inked cartoon"
+}

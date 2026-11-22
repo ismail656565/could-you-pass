@@ -179,7 +179,7 @@ class Film:
         return v[0] + br * 0.6, v[1] + br, v[2] * (1 + 0.004 * math.sin(t * 0.7))
 
     def state(self, t):
-        return tuple(max([i for c, i in p['show'] if t >= c] + [p['show'][0][1]]) for p in self.plates)
+        return tuple(([i for c, i in p['show'] if t >= c] or [p['show'][0][1]])[-1] for p in self.plates)
 
     def world(self, st):
         if st not in self._cache:
