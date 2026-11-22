@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-22 06:14
+# Zuschauer-Kommentare – Stand 2026-11-22 15:18
 
-Letzte 21 Tage, ohne unsere eigenen. 17 Kommentare, 1 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 18 Kommentare, 2 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -31,8 +31,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-01 · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #sho · @ToryCrawford-t8u · id `UgxA2nYSA7xDorSTUPp4AaABAg`  
   „5/6“
 
-## SONSTIGES (11)
+## SONSTIGES (12)
 
+- 2026-11-22 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 **[OFFEN]** · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdVl7P69Ng7`  
+  „​@CouldYouPassIt yes“
 - 2026-11-22 · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #sho · @ToryCrawford-t8u **[OFFEN]** · id `UgxA2nYSA7xDorSTUPp4AaABAg.AcfaxaS9qKyAdVC-zdV0CY`  
   „@CouldYouPassIt6“
 - 2026-11-21 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdUxym1Nwer`  
