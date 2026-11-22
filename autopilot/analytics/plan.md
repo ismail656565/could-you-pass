@@ -72,3 +72,9 @@ Bandit 23.–25.11. (7 Slots): 5 Exploit (Karten-VS ×3, Rätsel-Long, Science =
 - Longs nur `layout "exam"`, thumbTexts[1] als Hürde („CAN YOU SOLVE **5**?“ / „CAN YOU GET **40/50**?“).
 - Karten-VS: Grönland gesperrt, R1 muss überraschen, Kontrollspalte für jedes Paar ≥ 5 %.
 - Weiter verboten: Halloween, Alters-Titel, Politik (Syria/Iran nur als neutrale Fläche, Iran im Zweifel weglassen), Longs Mo/Mi/Fr/So, 3. Short.
+
+## NACHTRAG 22.11. 18:15 – E19 Flag Duel startet stärker als alles bisher (Besitzer-Screenshot)
+- flag-duel-1: **1.000 Views in 2 h 15 min**, 58,1 % stayed, 7 Likes, 2 Kommentare (Karten-VS braucht ~1 Tag für 1.000). Kanal 32 Abos.
+- Konsequenz: **flag-duel-2 vorgezogen auf Mo 23.11. 16:00** (Datei `2026-11-23-flag-duel-2.json`) – passt zum gesprochenen Schluss „Follow for flag duel number two!“. Thanksgiving-Wahr/Falsch (E18) rückt auf **Mi 25.11. 16:00** (`2026-11-25-true-false-thanksgiving.json`, Tag vor Thanksgiving).
+- Produktions-Agent: flag-duel-2 Schlusszeile bleibt „Follow for number three!“; **flag-duel-3 für Mi 25.11. NICHT anlegen** (16:00 = E18), aber Flag Duel #3 für Fr 27.11. 16:00 vorbereiten (neue Doppelgänger-Paare, z. B. Romania/Andorra-Stil nur wenn klar unterscheidbar; Indonesia/Monaco verboten).
+- Verdict E19 nach 3 Tagen; bleibt flag-duel-1 ≥ 2.000 → Flag Duel wird feste Serie 16:00 jeden 2. Tag.
