@@ -1,0 +1,489 @@
+{
+ "title": "The Ghost Army - Artists Who Fooled an Enemy",
+ "mood": "tense",
+ "cast": {
+  "sarge": {
+   "skin": "tan",
+   "outfit": "suit",
+   "color": "#5A6B3A",
+   "shirt": "#D8CFA8",
+   "tie": "#3B2A1E",
+   "hair": "short",
+   "hair_col": "#2A1E16",
+   "hat": "cap",
+   "hat_col": "#4A5A2E"
+  },
+  "bill": {
+   "skin": "light",
+   "outfit": "suit",
+   "color": "#2B2D3C",
+   "tie": "#7A1F1F",
+   "hair": "slick",
+   "hair_col": "#3B2A1E"
+  },
+  "kelly": {
+   "skin": "fair",
+   "outfit": "sweater",
+   "color": "#C8242C",
+   "hair": "curly",
+   "hair_col": "#6B4A2A"
+  },
+  "radio": {
+   "skin": "brown",
+   "outfit": "hoodie",
+   "color": "#4A5A2E",
+   "shirt": "#E8E0D0",
+   "hair": "short",
+   "hair_col": "#1C1B22",
+   "glasses": true
+  }
+ },
+ "shots": [
+  {
+   "kind": "table",
+   "s": [
+    0
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "TOP SECRET",
+     "text": "23RD HQ SPECIAL TROOPS · 1944",
+     "at": 0.1
+    }
+   ],
+   "stamp": {
+    "text": "TOP SECRET",
+    "at": "secret",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    1
+   ],
+   "icons": [
+    {
+     "name": "warning",
+     "label": "RUBBER TANKS",
+     "at": "rubber"
+    },
+    {
+     "name": "phone",
+     "label": "LOUDSPEAKERS",
+     "at": "loudspeakers"
+    },
+    {
+     "name": "bulb",
+     "label": "PAINT BRUSHES",
+     "at": "paint"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    2
+   ],
+   "who": "sarge",
+   "set": "office",
+   "time": "night",
+   "emotion": "nervous",
+   "pose": "arms_crossed",
+   "era": "old",
+   "labels": [
+    {
+     "text": "50+ YEARS OF SILENCE",
+     "at": "fifty",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    3,
+    5
+   ],
+   "set": "office",
+   "era": "old",
+   "time": "night",
+   "calendar": "JAN 1944",
+   "chars": [
+    {
+     "id": "sarge",
+     "x": 700,
+     "emotion": "confident",
+     "pose": "present",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "THE GHOST ARMY",
+     "at": "ghost",
+     "color": "lime",
+     "size": 130
+    }
+   ],
+   "tag": "TENNESSEE · 1944"
+  },
+  {
+   "kind": "counter",
+   "s": [
+    6,
+    7
+   ],
+   "value": {
+    "from": 0,
+    "to": 1100,
+    "at": "eleven"
+   },
+   "caption": "MEN",
+   "icon": "target"
+  },
+  {
+   "kind": "crowd",
+   "s": [
+    8,
+    9
+   ],
+   "count": 16,
+   "emotion": "thinking",
+   "highlight": "kelly",
+   "at": "artists"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    10,
+    11
+   ],
+   "icons": [
+    {
+     "name": "bulb",
+     "label": "PAINTERS",
+     "at": "painters"
+    },
+    {
+     "name": "book",
+     "text": "ART",
+     "label": "DESIGNERS",
+     "at": "designers"
+    },
+    {
+     "name": "phone",
+     "label": "PHOTOGRAPHERS",
+     "at": "photographers"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    12
+   ],
+   "who": "bill",
+   "side": "right",
+   "set": "office",
+   "time": "night",
+   "emotion": "smug",
+   "pose": "tiphat",
+   "lower_third": {
+    "name": "BILL BLASS",
+    "sub": "LATER: FASHION DESIGNER",
+    "at": "blass"
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    13
+   ],
+   "who": "kelly",
+   "side": "left",
+   "set": "home",
+   "time": "night",
+   "emotion": "happy",
+   "pose": "explain",
+   "lower_third": {
+    "name": "ELLSWORTH KELLY",
+    "sub": "LATER: ABSTRACT PAINTER",
+    "at": "kelly"
+   }
+  },
+  {
+   "kind": "title",
+   "text": "The Tricks",
+   "sub": "CHAPTER TWO"
+  },
+  {
+   "kind": "title",
+   "s": [
+    14,
+    15
+   ]
+  },
+  {
+   "kind": "list",
+   "s": [
+    16,
+    18
+   ],
+   "number": 1,
+   "text": "FOOL THE EYES",
+   "who": "kelly",
+   "emotion": "excited"
+  },
+  {
+   "kind": "wide",
+   "s": [
+    19,
+    20
+   ],
+   "set": "street",
+   "time": "night",
+   "chars": [
+    {
+     "id": "radio",
+     "x": 700,
+     "emotion": "thinking",
+     "pose": "hold"
+    }
+   ],
+   "labels": [
+    {
+     "text": "ENGINES · TRACKS · BRIDGES",
+     "at": "engines",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "list",
+   "s": [
+    21
+   ],
+   "number": 2,
+   "text": "FOOL THE EARS",
+   "who": "radio",
+   "emotion": "smug"
+  },
+  {
+   "kind": "list",
+   "s": [
+    22
+   ],
+   "number": 3,
+   "text": "FOOL THE RADIO",
+   "who": "sarge",
+   "emotion": "confident"
+  },
+  {
+   "kind": "table",
+   "s": [
+    23
+   ],
+   "items": [
+    {
+     "type": "phone",
+     "messages": [
+      "DIVISION MOVING NORTH",
+      "SUPPLIES AT 0400",
+      "ALL UNITS READY"
+     ],
+     "at": 0.1
+    }
+   ],
+   "stamp": {
+    "text": "FAKE",
+    "at": "wasn't",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "versus",
+   "s": [
+    24,
+    25
+   ],
+   "left": {
+    "who": "bill",
+    "title": "FAKE PATCHES",
+    "emotion": "smug",
+    "at": 0.05
+   },
+   "right": {
+    "who": "kelly",
+    "title": "CAFE STORIES",
+    "emotion": "happy",
+    "at": 0.45
+   }
+  },
+  {
+   "kind": "map",
+   "s": [
+    26
+   ],
+   "places": [
+    {
+     "name": "FRANCE"
+    },
+    {
+     "name": "LUXEMBOURG"
+    },
+    {
+     "name": "BELGIUM"
+    },
+    {
+     "name": "GERMANY"
+    }
+   ],
+   "vehicle": "car",
+   "at": 0.15
+  },
+  {
+   "kind": "icon",
+   "s": [
+    27,
+    28
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "top": "MAR",
+     "text": "1945",
+     "label": "OPERATION VIERSEN",
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    29
+   ],
+   "left": {
+    "who": "sarge",
+    "title": "2 FAKE DIVISIONS",
+    "emotion": "smug",
+    "at": 0.05
+   },
+   "right": {
+    "who": "radio",
+    "title": "THE REAL CROSSING",
+    "emotion": "confident",
+    "at": 0.45
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    30,
+    31
+   ],
+   "who": "sarge",
+   "set": "office",
+   "time": "night",
+   "emotion": "excited",
+   "pose": "celebrate",
+   "stamp": {
+    "text": "IT WORKED",
+    "at": "worked",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "walk",
+   "s": [
+    32
+   ],
+   "set": "street",
+   "time": "dusk",
+   "chars": [
+    {
+     "id": "kelly"
+    },
+    {
+     "id": "bill"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    33,
+    34
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "CLASSIFIED",
+     "text": "GHOST ARMY FILES",
+     "at": 0.1
+    }
+   ],
+   "stamp": {
+    "text": "DECLASSIFIED 1996",
+    "at": "declassified",
+    "color": "red",
+    "size": 100
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    35
+   ],
+   "icons": [
+    {
+     "name": "trophy",
+     "label": "CONGRESSIONAL GOLD MEDAL · 2024",
+     "at": 0.15
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    36,
+    37
+   ],
+   "icons": [
+    {
+     "name": "bulb",
+     "label": "AN ARMY OF ARTISTS",
+     "at": "artists"
+    },
+    {
+     "name": "warning",
+     "label": "RUBBER TANKS",
+     "at": "rubber"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    38,
+    39
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "sarge",
+     "x": 900,
+     "emotion": "happy",
+     "pose": "wave"
+    }
+   ],
+   "polaroid": {
+    "at": "subscribe",
+    "who": "sarge",
+    "caption": "AN ARMY OF ARTISTS"
+   }
+  }
+ ]
+}
