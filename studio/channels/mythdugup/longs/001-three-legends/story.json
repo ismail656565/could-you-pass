@@ -1,0 +1,777 @@
+{
+ "title": "3 Legends That Turned Out to Be Real",
+ "mood": "mystery",
+ "cast": {
+  "ava": {
+   "skin": "olive",
+   "outfit": "sweater",
+   "color": "#C9822F",
+   "hair": "bun",
+   "hair_col": "#3B2A1E",
+   "hat": "fedora",
+   "hat_col": "#6B4A2E"
+  },
+  "hein": {
+   "skin": "light",
+   "outfit": "suit",
+   "color": "#3B4660",
+   "tie": "#7A1F1F",
+   "hair": "slick",
+   "hair_col": "#2A1E16",
+   "moustache": true
+  },
+  "giu": {
+   "skin": "tan",
+   "outfit": "suit",
+   "color": "#5B5B66",
+   "tie": "none",
+   "hair": "short",
+   "hair_col": "#1C1B22",
+   "beard": true
+  },
+  "leif": {
+   "skin": "fair",
+   "outfit": "hoodie",
+   "color": "#2F6B4E",
+   "shirt": "#E8E0D0",
+   "hair": "long",
+   "hair_col": "#C9893A",
+   "beard": true
+  },
+  "helge": {
+   "skin": "fair",
+   "outfit": "sweater",
+   "color": "#4B6A8A",
+   "hair": "short",
+   "hair_col": "#B8B8B8",
+   "beard": true
+  },
+  "anne": {
+   "skin": "fair",
+   "outfit": "dress",
+   "color": "#8A3B4B",
+   "hair": "bun",
+   "hair_col": "#C9A56A"
+  }
+ },
+ "shots": [
+  {
+   "kind": "wide",
+   "s": [
+    0
+   ],
+   "set": "void",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 760,
+     "emotion": "thinking",
+     "pose": "think",
+     "face": 0.5
+    }
+   ],
+   "labels": [
+    {
+     "text": "JUST STORIES?",
+     "at": "stories",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    1
+   ],
+   "who": "ava",
+   "set": "office",
+   "time": "night",
+   "emotion": "excited",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "A SHOVEL",
+     "at": "shovel",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    2
+   ],
+   "icons": [
+    {
+     "name": "trophy",
+     "label": "3 LEGENDS",
+     "at": "three"
+    },
+    {
+     "name": "target",
+     "label": "ALL REAL",
+     "at": "real"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "Troy",
+   "sub": "LEGEND ONE"
+  },
+  {
+   "kind": "skyline",
+   "s": [
+    3
+   ],
+   "time": "dusk",
+   "tag": "THE LEGEND OF TROY"
+  },
+  {
+   "kind": "map",
+   "s": [
+    4
+   ],
+   "places": [
+    {
+     "name": "GREECE"
+    },
+    {
+     "name": "TROY"
+    }
+   ],
+   "vehicle": "ship",
+   "at": "troy"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    5,
+    7
+   ],
+   "icons": [
+    {
+     "name": "hourglass",
+     "label": "10-YEAR SIEGE",
+     "at": "siege"
+    },
+    {
+     "name": "trophy",
+     "label": "HEROES",
+     "at": "heroes"
+    },
+    {
+     "name": "gift",
+     "label": "A WOODEN HORSE",
+     "at": "horse"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    8,
+    10
+   ],
+   "left": {
+    "who": "ava",
+    "title": "POETRY",
+    "emotion": "happy",
+    "at": 0.05
+   },
+   "right": {
+    "who": "hein",
+    "title": "GEOGRAPHY?",
+    "emotion": "thinking",
+    "at": 0.45
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    11
+   ],
+   "who": "hein",
+   "side": "right",
+   "set": "office",
+   "time": "night",
+   "emotion": "confident",
+   "pose": "present",
+   "lower_third": {
+    "name": "HEINRICH SCHLIEMANN",
+    "sub": "BUSINESSMAN",
+    "at": "schliemann"
+   },
+   "labels": [
+    {
+     "text": "PROVE HOMER RIGHT",
+     "at": "prove",
+     "color": "gold"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    12
+   ],
+   "items": [
+    {
+     "type": "newspaper",
+     "title": "1871",
+     "text": "DIG AT HISARLIK BEGINS",
+     "at": "eighteen",
+     "ring_at": "hisarlik"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    13,
+    14
+   ],
+   "who": "ava",
+   "set": "office",
+   "time": "night",
+   "emotion": "embarrassed",
+   "pose": "facepalm",
+   "labels": [
+    {
+     "text": "A HUGE TRENCH",
+     "at": "trench",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "counter",
+   "s": [
+    15,
+    16
+   ],
+   "value": {
+    "from": 1,
+    "to": 9,
+    "at": "layer"
+   },
+   "caption": "CITIES, STACKED",
+   "icon": "house"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    17
+   ],
+   "icons": [
+    {
+     "name": "clock",
+     "label": "c. 3000 BC",
+     "at": "three"
+    },
+    {
+     "name": "calendar",
+     "top": "UNTIL",
+     "text": "ROME",
+     "label": "ROMAN TIMES",
+     "at": "roman"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "s": [
+    18
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    19,
+    20
+   ],
+   "set": "board",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 520,
+     "emotion": "confident",
+     "pose": "explain",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "HISARLIK = TROY",
+     "at": "agree",
+     "color": "lime"
+    },
+    {
+     "text": "TROY VI / VII",
+     "at": "six",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    21,
+    24
+   ],
+   "left": {
+    "who": "ava",
+    "title": "CITY: REAL",
+    "emotion": "happy",
+    "at": 0.05
+   },
+   "right": {
+    "who": "hein",
+    "title": "WAR: DEBATED",
+    "emotion": "worried",
+    "at": 0.45
+   },
+   "stamp": {
+    "text": "DEBATED",
+    "at": 0.6,
+    "color": "red"
+   }
+  },
+  {
+   "kind": "title",
+   "text": "Pompeii",
+   "sub": "LEGEND TWO"
+  },
+  {
+   "kind": "skyline",
+   "s": [
+    25
+   ],
+   "time": "day",
+   "tag": "POMPEII · AD 79"
+  },
+  {
+   "kind": "counter",
+   "s": [
+    26
+   ],
+   "value": {
+    "from": 0,
+    "to": 79,
+    "prefix": "AD ",
+    "at": "seventy"
+   },
+   "caption": "VESUVIUS ERUPTS",
+   "icon": "warning"
+  },
+  {
+   "kind": "crowd",
+   "s": [
+    27,
+    28
+   ],
+   "count": 18,
+   "emotion": "thinking",
+   "set": "street"
+  },
+  {
+   "kind": "walk",
+   "s": [
+    29,
+    30
+   ],
+   "set": "street",
+   "time": "day",
+   "chars": [
+    {
+     "id": "giu"
+    }
+   ],
+   "labels": [
+    {
+     "text": "A CITY UNDER THE VINES",
+     "at": "vines",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    31
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "top": "YEAR",
+     "text": "1748",
+     "label": "THE DIG BEGINS",
+     "at": "seventeen"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    32,
+    35
+   ],
+   "icons": [
+    {
+     "name": "house",
+     "label": "STREETS",
+     "at": "streets"
+    },
+    {
+     "name": "shopping",
+     "text": "SHOP",
+     "label": "SHOPS",
+     "at": "shops"
+    },
+    {
+     "name": "book",
+     "text": "ART",
+     "label": "PAINTINGS",
+     "at": "paintings"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    36,
+    37
+   ],
+   "items": [
+    {
+     "type": "photo",
+     "text": "CAVE CANEM",
+     "at": "mosaic"
+    }
+   ],
+   "stamp": {
+    "text": "BEWARE OF THE DOG",
+    "at": "beware",
+    "color": "red",
+    "size": 90
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    38,
+    39
+   ],
+   "who": "ava",
+   "set": "home",
+   "time": "night",
+   "emotion": "sad",
+   "pose": "idle"
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    40
+   ],
+   "who": "giu",
+   "side": "right",
+   "set": "office",
+   "time": "night",
+   "emotion": "excited",
+   "pose": "point",
+   "lower_third": {
+    "name": "GIUSEPPE FIORELLI",
+    "sub": "ARCHAEOLOGIST · 1863",
+    "at": "fiorelli"
+   },
+   "bubble": {
+    "who": "giu",
+    "text": "Plaster!",
+    "icon": "bulb",
+    "at": "idea",
+    "thought": true
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    41,
+    42
+   ],
+   "icons": [
+    {
+     "name": "bulb",
+     "label": "PLASTER IN THE HOLLOWS",
+     "at": 0.12
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    43
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "top": "AUG",
+     "text": "24",
+     "label": "THE OLD DATE",
+     "at": 0.12
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    44
+   ],
+   "items": [
+    {
+     "type": "newspaper",
+     "title": "2018",
+     "text": "CHARCOAL INSCRIPTION: OCTOBER?",
+     "at": "eighteen",
+     "ring_at": "october"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    45,
+    46
+   ],
+   "left": {
+    "who": "giu",
+    "title": "CITY: PROVEN",
+    "emotion": "happy",
+    "at": 0.05
+   },
+   "right": {
+    "who": "ava",
+    "title": "DAY: DEBATED",
+    "emotion": "thinking",
+    "at": 0.45
+   }
+  },
+  {
+   "kind": "title",
+   "text": "Vinland",
+   "sub": "LEGEND THREE"
+  },
+  {
+   "kind": "map",
+   "s": [
+    47,
+    48
+   ],
+   "places": [
+    {
+     "name": "GREENLAND"
+    },
+    {
+     "name": "VINLAND?"
+    }
+   ],
+   "vehicle": "ship",
+   "at": "sailed"
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    49
+   ],
+   "who": "leif",
+   "set": "void",
+   "time": "night",
+   "emotion": "smug",
+   "pose": "present",
+   "lower_third": {
+    "name": "LEIF ERIKSON",
+    "sub": "NORSE EXPLORER",
+    "at": "called"
+   },
+   "labels": [
+    {
+     "text": "VINLAND",
+     "at": "vinland",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    50,
+    51
+   ],
+   "left": {
+    "who": "leif",
+    "title": "VIKINGS ~1000",
+    "emotion": "confident",
+    "at": 0.05
+   },
+   "right": {
+    "who": "hein",
+    "title": "COLUMBUS 1492",
+    "emotion": "shocked",
+    "at": 0.45
+   }
+  },
+  {
+   "kind": "walk",
+   "s": [
+    52
+   ],
+   "set": "street",
+   "time": "dusk",
+   "chars": [
+    {
+     "id": "helge"
+    },
+    {
+     "id": "anne"
+    }
+   ],
+   "tag": "NEWFOUNDLAND · 1960",
+   "lower_third": {
+    "name": "HELGE & ANNE STINE INGSTAD",
+    "sub": "EXPLORER & ARCHAEOLOGIST",
+    "at": "helge"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    53,
+    54
+   ],
+   "icons": [
+    {
+     "name": "house",
+     "label": "TURF HOUSES",
+     "at": 0.12
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    55,
+    56
+   ],
+   "items": [
+    {
+     "type": "photo",
+     "text": "IRON RIVETS",
+     "at": "rivets"
+    },
+    {
+     "type": "photo",
+     "text": "SPINDLE WHORL",
+     "at": "spindle"
+    }
+   ],
+   "stamp": {
+    "text": "VIKING CAMP",
+    "at": "camp",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    57,
+    58
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "top": "AD",
+     "text": "993",
+     "label": "A SOLAR STORM IN THE TREE RINGS",
+     "at": 0.12
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    59
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "top": "AD",
+     "text": "1021",
+     "label": "WOOD CUT WITH METAL TOOLS",
+     "at": 0.12
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    60,
+    61
+   ],
+   "left": {
+    "who": "leif",
+    "title": "VIKINGS: PROVEN",
+    "emotion": "happy",
+    "at": 0.05
+   },
+   "right": {
+    "who": "ava",
+    "title": "VINLAND: DEBATED",
+    "emotion": "thinking",
+    "at": 0.45
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    62,
+    64
+   ],
+   "icons": [
+    {
+     "name": "trophy",
+     "label": "3 LEGENDS",
+     "at": "legends"
+    },
+    {
+     "name": "target",
+     "label": "3 SHOVELS",
+     "at": "shovels"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    65,
+    66
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 900,
+     "emotion": "happy",
+     "pose": "wave",
+     "talk": true
+    }
+   ],
+   "polaroid": {
+    "at": "subscribe",
+    "who": "ava",
+    "caption": "MORE REAL THAN WE THOUGHT"
+   }
+  }
+ ]
+}
