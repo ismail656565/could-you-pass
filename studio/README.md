@@ -16,8 +16,9 @@ keine Stock-Fotos). Daraus entsteht eine durchgehende Welt, durch die eine Kamer
 1. `produce.py <kanal>` nimmt die nächsten 2 Episoden aus `channels/<kanal>/episodes/`,
    malt, vertont, rendert und lädt sie **geplant** hoch (Zeiten in `channel.json`, z. B. 13:00 + 19:30).
    Kanal-Schutz: lädt nie auf einen falschen Kanal hoch (`autopilot/studio.py`).
-2. `long.py <kanal>` baut samstags aus den Shorts der Woche ein 16:9-Video (6–8 Min., Kapitel, Intro/Outro),
-   veröffentlicht sonntags 17:00.
+2. `longform.py <kanal>`: lange 16:9-Videos (6–8 Min.) im 2D-Cartoon-Stil (ReachMora-Kit, verschlüsselt in `kits/`,
+   Schlüssel = Secret `STUDIO_KIT_KEY`). Projekte liegen in `channels/<kanal>/longs/NNN-slug/` (script.txt, story.json, meta.json)
+   und gehen am selben Tag um `long_time` online. (`long.py` = alter Zusammenschnitt aus Shorts, nur noch Reserve.)
 3. Was hochgeladen ist, steht in `channels/<kanal>/state.json`.
 
 ## Neue Episode
