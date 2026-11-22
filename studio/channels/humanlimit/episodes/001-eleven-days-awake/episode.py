@@ -66,7 +66,7 @@ EPISODE = dict(
             ('L2.end', 760, 1450, 1350), ('L3', 980, 1250, 1200), ('L3.end', 900, 1700, 1700), ('L4', 720, 1290, 2450),
             ('END', 720, 1290, 2400)],
     cards=[dict(at='L1:randy', until='L2-0.2', text='RANDY GARDNER', size=84, x=540, y=380, rot=-3)],
-    stamps=[dict(at='L4:famous', text='RECORD', size=110, color=(160, 32, 24), x=560, y=520, rot=-7)],
+    stamps=[dict(at='L4:famous', text='RECORD', size=110, color=(160, 32, 24), x=380, y=1250, rot=-7)],
     caption=dict(y=0.80),
     music=dict(sections=[(0, 'L2', ['Esus', 'Am9'], dict(bright=(0.2, 0.35), ticks=True)),
                          ('L2', 'L3', ['Dm9', 'Esus'], dict(bright=(0.35, 0.55), pulse=True, ticks=True)),
