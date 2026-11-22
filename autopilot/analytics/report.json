@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-22T15:18",
+ "fetched": "2026-11-22T18:17",
  "channel": "COULD YOU PASS?",
- "subscribers": "31",
+ "subscribers": "32",
  "audience": {
   "countries": [
    {
@@ -83,17 +83,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 18174,
-    "engagedViews": 8234
+    "views": 18178,
+    "engagedViews": 8235
    },
    {
     "deviceType": "TABLET",
-    "views": 4378,
-    "engagedViews": 2322
+    "views": 4381,
+    "engagedViews": 2324
    },
    {
     "deviceType": "TV",
-    "views": 1941,
+    "views": 1942,
     "engagedViews": 1462
    },
    {
@@ -141,7 +141,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 34,
-   "publicViews": "183",
+   "publicViews": "757",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -189,7 +189,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 36,
-   "publicViews": "996",
+   "publicViews": "991",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 42,
-   "publicViews": "993",
+   "publicViews": "995",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1358,7 +1358,7 @@
     "SUBSCRIBER": 1
    },
    "durationSec": 400,
-   "publicViews": "214",
+   "publicViews": "218",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1896,7 +1896,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 43,
-   "publicViews": "1027",
+   "publicViews": "1028",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1933,7 +1933,7 @@
     "YT_CHANNEL": 2
    },
    "durationSec": 41,
-   "publicViews": "971",
+   "publicViews": "972",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2078,7 +2078,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 217,
-   "publicViews": "40",
+   "publicViews": "41",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3360,7 +3360,7 @@
    "comments": 1,
    "subscribersGained": 1,
    "durationSec": 45,
-   "publicViews": "1222",
+   "publicViews": "1223",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,

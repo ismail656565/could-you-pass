@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-22 17:05
+# Zuschauer-Kommentare – Stand 2026-11-22 18:17
 
-Letzte 21 Tage, ohne unsere eigenen. 17 Kommentare, 2 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 17 Kommentare, 0 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -24,7 +24,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SCORE (3)
 
-- 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @glowentertainmentllc4554 **[OFFEN]** · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdWcGPFRoEn`  
+- 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @glowentertainmentllc4554 · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdWcGPFRoEn`  
   „I got 4/4 it’s easy if you know your countries like I do.“
 - 2026-11-20 · Only Geniuses Get 6/6 🧠 Capitals Quiz #shorts · @michaelvillegas3878 · id `UgzAXE8f6UC0D56oHJx4AaABAg`  
   „Got all! And first to comment :D“
@@ -33,7 +33,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SONSTIGES (11)
 
-- 2026-11-22 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 **[OFFEN]** · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdVl7P69Ng7`  
+- 2026-11-22 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdVl7P69Ng7`  
   „​@CouldYouPassIt yes“
 - 2026-11-21 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdUxym1Nwer`  
   „​@CouldYouPassIt all“
