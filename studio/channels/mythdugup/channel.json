@@ -1,0 +1,45 @@
+{
+  "name": "Myth Dug Up",
+  "enabled": true,
+  "voice": "bm_george",
+  "shorts_per_day": 2,
+  "slots": [
+    "13:00",
+    "19:30"
+  ],
+  "warn_below": 6,
+  "category": 27,
+  "tags": [
+    "myth dug up",
+    "archaeology",
+    "history",
+    "ancient history",
+    "legends",
+    "shorts"
+  ],
+  "footer": "Myth Dug Up — legends that turned out to be (partly) real. Every episode says what is proven and what is still debated.\n#archaeology #history #shorts",
+  "style": "Each myth is painted in the art style of its own culture (claude-drawing-skill: blackfigure, tomb, mosaic, codex, ukiyoe, ...); the dig is always an old field notebook (codex). Camera moves through one continuous world (bang-motion), paper cut-outs and stamps (vox-director).",
+  "long": {
+    "make_on": 6,
+    "weekday": 7,
+    "time": "17:00",
+    "min_episodes": 5,
+    "max_episodes": 7,
+    "titles": [
+      "{n} Myths That Turned Out to Be Real (Archaeology Documentary)",
+      "{n} Legends Archaeologists Actually Dug Up",
+      "Everyone Called These Myths. Then Someone Dug. ({n} Stories)",
+      "{n} Ancient Legends With Real Evidence Behind Them"
+    ],
+    "intro": "{n} legends that everyone called myths. And what happened when someone finally started digging.",
+    "outro": "Which one surprised you most? Tell me in the comments, and subscribe for the next dig.",
+    "description": "{n} legends that turned out to be at least partly real — what is proven, and what is still debated.\nIllustrations painted with code (no photos), narration is synthetic.",
+    "tags": [
+      "archaeology documentary",
+      "myths that were real",
+      "ancient history",
+      "legends",
+      "history documentary"
+    ]
+  }
+}
