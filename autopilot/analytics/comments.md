@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-21 23:23
+# Zuschauer-Kommentare – Stand 2026-11-22 00:28
 
-Letzte 21 Tage, ohne unsere eigenen. 15 Kommentare, 1 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 16 Kommentare, 1 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -28,11 +28,13 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
   „Got all! And first to comment :D“
 - 2026-11-10 · This Map Is Lying To You 🌍 Which Is REALLY Bigger? · @RageG23 · id `UgwiIuNyUL_iK-DLhIp4AaABAg`  
   „3/4“
-- 2026-11-01 · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #sho · @ToryCrawford-t8u **[OFFEN]** · id `UgxA2nYSA7xDorSTUPp4AaABAg`  
+- 2026-11-01 · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #sho · @ToryCrawford-t8u · id `UgxA2nYSA7xDorSTUPp4AaABAg`  
   „5/6“
 
-## SONSTIGES (9)
+## SONSTIGES (10)
 
+- 2026-11-21 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 **[OFFEN]** · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdUxym1Nwer`  
+  „​@CouldYouPassIt all“
 - 2026-11-20 · Only Geniuses Get 6/6 🧠 Geography Quiz #shorts · @Jo-wl5fj · id `UgySfvG7feTPnRtWm6h4AaABAg`  
   „Great.  Art, classical music and science please.“
 - 2026-11-20 · Only Geniuses Get 6/6 🧠 Tricky Quiz #shorts · @Jo-wl5fj · id `Ugz5TVYo9AN2RoEz1X14AaABAg`  

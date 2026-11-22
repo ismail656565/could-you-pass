@@ -1,6 +1,19 @@
 {
- "fetched": "2026-11-21T23:23",
+ "fetched": "2026-11-22T00:28",
  "comments": [
+  {
+   "commentId": "Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdUxym1Nwer",
+   "threadId": "Ugzg2l7RZqLj9QE4PlJ4AaABAg",
+   "videoId": "W8JH7B5MkBQ",
+   "video": "Geography Trivia: 90% Get #4 Wrong 🌍 #shorts",
+   "author": "@eddiecromwell2954",
+   "text": "​@CouldYouPassIt all",
+   "likes": 0,
+   "published": "2026-11-21T23:52:53Z",
+   "kind": "SONSTIGES",
+   "answered": false,
+   "underOurComment": false
+  },
   {
    "commentId": "UgySfvG7feTPnRtWm6h4AaABAg",
    "threadId": "UgySfvG7feTPnRtWm6h4AaABAg",
@@ -193,7 +206,7 @@
    "likes": 1,
    "published": "2026-11-01T15:51:14Z",
    "kind": "SCORE",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   }
  ]
