@@ -705,3 +705,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 4. **KPI:** Abos pro 1.000 Views je Format (report.json subscribersGained/views) täglich in plan.md; Formate mit < 0,5 nach ≥ 5 Videos streichen. Ziel: ≥ 2 Abos/1.000 Views bis 15.12., 100 Abos bis 31.12.
 5. Besitzer-Aufgaben (API kann das nicht): in YouTube Studio bei Shorts „Ähnliches Video“ auf das passende Long setzen; Kanal-Trailer + Playlists auf der Kanalseite.
 - 22.11. erste Kommentar-Auswertung: 15 Zuschauer-Kommentare (21 T), 11 unbeantwortet → alle 11 beantwortet (Manager). Stammzuschauer @Jo-wl5fj (3 Kommentare: „More please“, „Like the speed“) wünscht **Art, classical music, science** → Wunsch-Themen in den nächsten Plan (Science-Short zuerst, Kunst/Klassik als Experiment). Tempo der kurzen Shorts wird ausdrücklich gelobt.
+
+## 2026-11-22 – Research
+- Shorts ≤ 45 s stabil ~1.000: Quick IQ 1.010, map-lie-4 1.043, Capitals 1.054, Geo-Trivia 1.019 → E17 bestätigt; Karten-VS-Delle (#3 256) war Ausreißer (Grönland-Wiederholung in R1) → Grönland für #8/#9 gesperrt.
+- KPI: 21 Abos / 31.308 Views = 0,67 pro 1.000 (Longs ≈ 4,0, Shorts ≈ 0,5) → Serien-Schluss „Follow, number N+1 drops tomorrow!“ ab heute gesprochen in allen Serien-Shorts.
+- Thanksgiving-Long 0 Views n. ≈5 h (Status ok) – beobachten. Konkurrenz: IQ Mazz „#392 … Find the Difference“ 27k bestätigt Folgennummer im Titel.
+- Zuschauer-Wunsch Science (@Jo-wl5fj) → Di 24.11. 16:00 „Science Trivia: 90% Get #4 Wrong 🔬“. Alle 12 Kommentare beantwortet, kein bestätigter Faktenfehler.
