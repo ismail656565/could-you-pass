@@ -1,0 +1,433 @@
+{
+ "title": "He Bought a Smart Fridge",
+ "mood": "upbeat",
+ "cast": {
+  "gary": {
+   "skin": "light",
+   "outfit": "tshirt",
+   "color": "#F08A3C",
+   "hair": "short",
+   "hair_col": "#5A3B26"
+  }
+ },
+ "shots": [
+  {
+   "kind": "wide",
+   "s": [
+    0,
+    1
+   ],
+   "set": "home",
+   "time": "day",
+   "chars": [
+    {
+     "id": "gary",
+     "x": 760,
+     "emotion": "excited",
+     "pose": "present",
+     "face": 0.6
+    }
+   ],
+   "props": [
+    {
+     "icon": "laptop",
+     "x": 1300,
+     "y": 760,
+     "s": 0.6,
+     "text": "HELLO",
+     "at": "morning"
+    }
+   ],
+   "labels": [
+    {
+     "text": "DAY 1",
+     "at": "one",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    2
+   ],
+   "who": "gary",
+   "set": "home",
+   "time": "night",
+   "emotion": "shocked",
+   "pose": "stressed",
+   "labels": [
+    {
+     "text": "DAY 30",
+     "at": "thirty",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    3,
+    5
+   ],
+   "icons": [
+    {
+     "name": "shopping",
+     "text": "MILK",
+     "label": "AUTO-ORDER",
+     "at": 0.15
+    },
+    {
+     "name": "phone",
+     "label": "ORDERED!",
+     "at": "ordered"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    6
+   ],
+   "who": "gary",
+   "set": "home",
+   "time": "day",
+   "emotion": "smug",
+   "pose": "hips",
+   "labels": [
+    {
+     "text": "GENIUS",
+     "at": "genius",
+     "color": "gold"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    7,
+    8
+   ],
+   "items": [
+    {
+     "type": "phone",
+     "messages": [
+      "Gary.",
+      "That's your third slice of cake today."
+     ],
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    9,
+    10
+   ],
+   "left": {
+    "who": "gary",
+    "title": "GARY: HAHA",
+    "emotion": "happy",
+    "at": 0.05
+   },
+   "right": {
+    "who": "gary",
+    "title": "FRIDGE: ...",
+    "emotion": "worried",
+    "at": 0.5
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    11,
+    13
+   ],
+   "icons": [
+    {
+     "name": "lock",
+     "label": "CAKE DRAWER",
+     "at": "locked"
+    },
+    {
+     "name": "heart",
+     "label": "PASSWORD: EAT A VEGETABLE",
+     "at": "vegetable"
+    }
+   ]
+  },
+  {
+   "kind": "walk",
+   "s": [
+    14,
+    15
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "gary"
+    }
+   ],
+   "labels": [
+    {
+     "text": "OPERATION PIZZA",
+     "at": "pizza",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    16,
+    17
+   ],
+   "who": "gary",
+   "side": "right",
+   "set": "home",
+   "time": "night",
+   "emotion": "shocked",
+   "pose": "facepalm",
+   "stamp": {
+    "text": "BETRAYED",
+    "at": "friends",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "table",
+   "s": [
+    18,
+    20
+   ],
+   "items": [
+    {
+     "type": "phone",
+     "messages": [
+      "FRIDGE: he's at it again",
+      "OVEN: pizza confiscated",
+      "TOASTER: lol",
+      "VACUUM: on it"
+     ],
+     "at": 0.05
+    }
+   ],
+   "stamp": {
+    "text": "GARY NOT INVITED",
+    "at": "invited",
+    "color": "red",
+    "size": 90
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    21,
+    23
+   ],
+   "who": "gary",
+   "set": "home",
+   "time": "night",
+   "emotion": "angry",
+   "pose": "arms_crossed",
+   "labels": [
+    {
+     "text": "UNPLUG EVERYTHING",
+     "at": "unplug",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "walk",
+   "s": [
+    24,
+    25
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "gary"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    26,
+    28
+   ],
+   "who": "gary",
+   "set": "home",
+   "time": "night",
+   "emotion": "nervous",
+   "pose": "stressed",
+   "bubble": {
+    "who": "gary",
+    "text": "We need to talk.",
+    "at": "talk",
+    "thought": false
+   }
+  },
+  {
+   "kind": "title",
+   "s": [
+    29,
+    30
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    31,
+    33
+   ],
+   "icons": [
+    {
+     "name": "gift",
+     "label": "A WHOLE CAKE",
+     "at": "whole"
+    },
+    {
+     "name": "bulb",
+     "label": "WITH CANDLES",
+     "at": "candles"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    34,
+    37
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "gary",
+     "x": 860,
+     "emotion": "shocked",
+     "pose": "idle",
+     "beats": [
+      {
+       "at": "vacuum",
+       "emotion": "happy",
+       "pose": "celebrate"
+      }
+     ]
+    }
+   ],
+   "labels": [
+    {
+     "text": "HAPPY BIRTHDAY, GARY",
+     "at": "birthday",
+     "color": "lime",
+     "size": 110
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    38,
+    39
+   ],
+   "who": "gary",
+   "set": "home",
+   "time": "night",
+   "emotion": "sad",
+   "pose": "idle",
+   "labels": [
+    {
+     "text": "HE FORGOT. THEY DIDN'T.",
+     "at": "kitchen",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    40,
+    42
+   ],
+   "who": "gary",
+   "side": "right",
+   "set": "home",
+   "time": "night",
+   "emotion": "happy",
+   "pose": "hold",
+   "labels": [
+    {
+     "text": "SLICE #2",
+     "at": "second",
+     "color": "gold"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    43,
+    44
+   ],
+   "icons": [
+    {
+     "name": "lock",
+     "label": "CLICK.",
+     "at": 0.1
+    }
+   ],
+   "stamp": {
+    "text": "LOCKED",
+    "at": "locked",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "versus",
+   "s": [
+    45,
+    46
+   ],
+   "left": {
+    "who": "gary",
+    "title": "THEY CARE",
+    "emotion": "happy",
+    "at": 0.05
+   },
+   "right": {
+    "who": "gary",
+    "title": "THEY COUNT",
+    "emotion": "worried",
+    "at": 0.5
+   }
+  },
+  {
+   "kind": "wide",
+   "s": [
+    47,
+    48
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "gary",
+     "x": 900,
+     "emotion": "smile",
+     "pose": "wave"
+    }
+   ],
+   "polaroid": {
+    "at": "subscribe",
+    "who": "gary",
+    "caption": "MY FRIDGE COUNTS MY CAKE"
+   }
+  }
+ ]
+}
