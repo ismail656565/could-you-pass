@@ -1,0 +1,124 @@
+{
+ "id": "map-lie-8",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "This Map Is Lying To You #8 🌍 Which Is REALLY Bigger? #shorts",
+  "description": "Flat maps stretch everything near the poles. Watch each shape slide to its real size 🌍 Did Svalbard vs Sri Lanka get you?\nComment your score out of 4 👇\n\nFollow – number 9 drops tomorrow! 🧠\n\n#map #geography #truesize #whichisbigger #quiz #shorts\n\nData: total area in km² – Turkey 783,562; Ukraine 603,550; Thailand 513,120; Japan 377,915; Montana 380,831; Finland 338,145; Sri Lanka 65,610; Svalbard 62,045 (countries: CIA World Factbook; US states: US Census Bureau).\nOutlines: Natural Earth (public domain). The shapes are moved on the globe and re-projected (Mercator) – no resizing by hand.\nMusic: original.",
+  "tags": [
+   "true size of countries",
+   "mercator map",
+   "which is bigger",
+   "map quiz",
+   "geography quiz",
+   "map lies",
+   "turkey vs ukraine",
+   "svalbard vs sri lanka",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Svalbard vs Sri Lanka – did the map fool you? 🌍 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "map-lie-8",
+  "type": "truesize",
+  "title": "This Map Is Lying To You #8",
+  "kicker": "MAP TEST #8",
+  "hookText": [
+   "THIS MAP",
+   "IS LYING",
+   "TO YOU"
+  ],
+  "hookLine": "This map is lying to you. Four rounds, can you beat it?",
+  "question": "Which is really bigger?",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "turkey",
+     "name": "Turkey",
+     "km2": 783562
+    },
+    "b": {
+     "shape": "ukraine",
+     "name": "Ukraine",
+     "km2": 603550
+    },
+    "mover": "b",
+    "verdict": "30% bigger",
+    "lines": {
+     "q": "Turkey, or Ukraine?",
+     "a": "Turkey! By almost a third."
+    },
+    "winner": "a"
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "japan",
+     "name": "Japan",
+     "km2": 377915
+    },
+    "b": {
+     "shape": "thailand",
+     "name": "Thailand",
+     "km2": 513120
+    },
+    "mover": "a",
+    "verdict": "36% bigger",
+    "lines": {
+     "q": "Japan, or Thailand?",
+     "a": "Thailand! Japan only looks bigger."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "montana",
+     "name": "Montana",
+     "km2": 380831
+    },
+    "b": {
+     "shape": "finland",
+     "name": "Finland",
+     "km2": 338145
+    },
+    "mover": "b",
+    "verdict": "13% bigger",
+    "lines": {
+     "q": "Montana, or Finland?",
+     "a": "Montana! Big Sky wins."
+    },
+    "winner": "a"
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "svalbard",
+     "name": "Svalbard",
+     "km2": 62045
+    },
+    "b": {
+     "shape": "srilanka",
+     "name": "Sri Lanka",
+     "km2": 65610
+    },
+    "mover": "a",
+    "verdict": "6% bigger",
+    "lines": {
+     "q": "Last one. Svalbard, or Sri Lanka?",
+     "a": "Sri Lanka! Follow, number nine drops tomorrow!"
+    },
+    "winner": "b"
+   }
+  ],
+  "sources": [
+   "Areas (total, km²): Turkey 783,562; Ukraine 603,550; Thailand 513,120; Japan 377,915; Montana 380,831; Finland 338,145; Sri Lanka 65,610; Svalbard 62,045 – CIA World Factbook / US Census Bureau",
+   "Outlines: Natural Earth (public domain)"
+  ]
+ }
+}

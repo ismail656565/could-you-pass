@@ -1,0 +1,144 @@
+{
+ "id": "six-q-science-trivia",
+ "publishAt": "16:00",
+ "timing": {
+  "count": 2.5,
+  "tail": 0.6
+ },
+ "youtube": {
+  "title": "Science Trivia: 90% Get #4 Wrong 🔬 #shorts",
+  "description": "6 quick science questions – #4 tricks almost everyone 🔬 You asked for science, here it is!\nComment your score 👇\n\nFollow for a new quiz every day! 🧠\n\n#science #trivia #sciencequiz #quiz #generalknowledge #shorts\n\nMusic: original.",
+  "tags": [
+   "science trivia",
+   "science quiz",
+   "trivia quiz",
+   "general knowledge quiz",
+   "science facts",
+   "quiz",
+   "hard trivia",
+   "shorts"
+  ],
+  "comment": "You asked for it – science! 🔬 Did #4 get you? Comment your score out of 6 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "layout": "tvshow",
+  "title": "Science Trivia",
+  "header": "SCIENCE TRIVIA",
+  "hook": "90% GET #4 WRONG 😏",
+  "teaser": "WAIT FOR #6 🤯",
+  "midLabel": "SCORE SO FAR? 👇",
+  "finalLabel": "FINAL ONE 🔥",
+  "ctaText": "How many did you get? Comment 👇",
+  "correctLabel": "CORRECT!",
+  "revealIcon": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.1,
+  "cardColors": [
+   "#0F766E",
+   "#134E4A"
+  ],
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score 👇",
+  "questions": [
+   {
+    "q": "How many **bones** does a shark have?",
+    "answers": [
+     "About 300",
+     "Zero",
+     "206",
+     "About 50"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🦈"
+   },
+   {
+    "q": "What is **dry ice** made of?",
+    "answers": [
+     "Frozen nitrogen",
+     "Frozen water",
+     "Frozen carbon dioxide",
+     "Frozen helium"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🧊"
+   },
+   {
+    "q": "What's the **hardest** part of your body?",
+    "answers": [
+     "Skull",
+     "Thigh bone",
+     "Fingernails",
+     "Tooth enamel"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "💪"
+   },
+   {
+    "q": "Which metal conducts electricity **best**?",
+    "answers": [
+     "Silver",
+     "Copper",
+     "Gold",
+     "Aluminum"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "⚡"
+   },
+   {
+    "q": "Which planet is **not** named after a god?",
+    "answers": [
+     "Mars",
+     "Earth",
+     "Jupiter",
+     "Mercury"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🪐"
+   },
+   {
+    "q": "Which animal has the **biggest** eyes?",
+    "answers": [
+     "Blue whale",
+     "Ostrich",
+     "Colossal squid",
+     "Elephant"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "👀"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "How many bones does a shark have?",
+   "a": "Zero! It's all cartilage."
+  },
+  {
+   "q": "What is dry ice made of?",
+   "a": "Frozen carbon dioxide!"
+  },
+  {
+   "q": "What's the hardest part of your body?",
+   "a": "Tooth enamel! Harder than bone."
+  },
+  {
+   "q": "Which metal conducts electricity best?",
+   "a": "Silver! Not copper."
+  },
+  {
+   "q": "Which planet is not named after a god?",
+   "a": "Earth! Just plain ground."
+  },
+  {
+   "q": "Last one. Which animal has the biggest eyes?",
+   "a": "The colossal squid! Follow for a new quiz every day!"
+  }
+ ]
+}

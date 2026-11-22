@@ -711,3 +711,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - KPI: 21 Abos / 31.308 Views = 0,67 pro 1.000 (Longs ≈ 4,0, Shorts ≈ 0,5) → Serien-Schluss „Follow, number N+1 drops tomorrow!“ ab heute gesprochen in allen Serien-Shorts.
 - Thanksgiving-Long 0 Views n. ≈5 h (Status ok) – beobachten. Konkurrenz: IQ Mazz „#392 … Find the Difference“ 27k bestätigt Folgennummer im Titel.
 - Zuschauer-Wunsch Science (@Jo-wl5fj) → Di 24.11. 16:00 „Science Trivia: 90% Get #4 Wrong 🔬“. Alle 12 Kommentare beantwortet, kein bestätigter Faktenfehler.
+
+## 2026-11-22 07:30 – Produktion (Queue 24./25.11.)
+- Technik: alle Läufe 21.11. grün; 21.11. = 2 Shorts + 1 Long (which-first-3 16:00, map-lie-5 21:00, Thanksgiving-Long 14:00) – Soll erfüllt. Heute (So, kein Long-Tag) liegen flag-duel-1 + map-lie-6 bereit. Kein Code-Fix nötig.
+- Shorts (report.json 21.11. 17:55, 30 Abos): ≤45-s-Shorts weiter ≈1.000 (Capitals 1.054, map-lie-4 1.043, Geo-Trivia 1.019, Quick IQ 1.010, Tricky 965); Which-First-3 80 n. ≈2 h.
+- Longs: Rätsel-Long #1 194 (bestes Long); Thanksgiving-Long 0 publicViews n. ≈4 h → am 23.11. prüfen (Saisonsuche, ggf. Titel anpassen).
+- Abo-KPI: 30 Abos gesamt, Shorts-Abos per API weiter 0 bei den 6-Q-Shorts (stayed 42–46 %) → Serien-Schluss (E20) ist der Hebel, Science-Short endet mit „Follow for a new quiz every day!“.
+- Angelegt: six-q-science-trivia (24.11. 16:00, 70 Wörter, Duplikat-grep strich Venus/Red Spot/Vitamin D/Wasserstoff/nächster Stern/Stickstoff → neu: Hai 0 Knochen, Trockeneis, Zahnschmelz, Silber (Falle), Erde, Koloss-Kalmar-Augen), map-lie-8 (24.11.) und map-lie-9 (25.11.) aus vorhandenen Formen, keine Paar-Wiederholung aus #1–#7 oder den Karten-Longs, Grönland gesperrt, Gewinner a/b/a/b bzw. b/a/b/a.
