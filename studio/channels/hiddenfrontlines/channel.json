@@ -1,0 +1,21 @@
+{
+  "name": "HiddenFrontlines",
+  "enabled": true,
+  "voice": "am_michael",
+  "shorts_per_day": 1,
+  "slots": [
+    "18:30"
+  ],
+  "warn_below": 3,
+  "category": 27,
+  "tags": [
+    "hidden frontlines",
+    "military history",
+    "ww2",
+    "history",
+    "war stories",
+    "shorts"
+  ],
+  "footer": "HiddenFrontlines — the forgotten stories of war, from declassified files.\n#history #ww2 #shorts",
+  "style": "blueprints, files"
+}

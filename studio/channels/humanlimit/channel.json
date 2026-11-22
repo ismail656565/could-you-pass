@@ -1,0 +1,21 @@
+{
+  "name": "HUMAN LIMIT",
+  "enabled": true,
+  "voice": "af_heart",
+  "shorts_per_day": 1,
+  "slots": [
+    "17:30"
+  ],
+  "warn_below": 3,
+  "category": 27,
+  "tags": [
+    "human limit",
+    "human body",
+    "science",
+    "extreme",
+    "record",
+    "shorts"
+  ],
+  "footer": "HUMAN LIMIT — what the human body can survive. Science stories, not challenges: never try these yourself.\n#science #humanbody #shorts",
+  "style": "lab notebook"
+}
