@@ -85,8 +85,13 @@ SENT = re.compile(r'(?<=[.!?])\s+')
 def use_wt_token():
     """Nie versehentlich mit dem Quiz-Token arbeiten: ohne WT-Token kein Google-Zugriff."""
     tok = os.environ.get('WT_GOOGLE_REFRESH_TOKEN', '').strip()
+    if not tok and os.environ.get('YT_TOKENS_JSON', '').strip():   # neues Sammel-Secret (autopilot/studio.py)
+        try:
+            tok = (json.loads(os.environ['YT_TOKENS_JSON']).get('wildlytrue') or '').strip()
+        except json.JSONDecodeError:
+            tok = ''
     if not tok:
-        raise SystemExit('WT_GOOGLE_REFRESH_TOKEN fehlt – erst "python autopilot/wildlytrue.py auth" lokal ausführen '
+        raise SystemExit('Wildly-True-Token fehlt – lokal "autopilot/kanaele-anmelden.bat" ausführen '
                          'und den Wert als GitHub-Secret eintragen.')
     os.environ['GOOGLE_REFRESH_TOKEN'] = tok
     for k in ('CLIENT_ID', 'CLIENT_SECRET'):

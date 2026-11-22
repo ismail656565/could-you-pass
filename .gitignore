@@ -7,3 +7,4 @@ autopilot/tmp/
 __pycache__/
 models/
 public/broll/
+autopilot/tokens.local.json

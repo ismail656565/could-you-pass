@@ -1,0 +1,23 @@
+{
+  "_doc": "Alle YouTube-Kanäle des Studios. 'match' = Teil des Kanalnamens (klein geschrieben) – Schutz, damit nie auf den falschen Kanal hochgeladen wird. Tokens: GitHub-Secret YT_TOKENS_JSON {id: refresh_token}; legacy_secret = altes Einzel-Secret.",
+  "channels": [
+    {"id": "couldyoupass", "name": "COULD YOU PASS?", "handle": "", "account": "-", "match": ["could you pass"],
+     "legacy_secret": "GOOGLE_REFRESH_TOKEN", "auth": false, "kind": "original", "pipeline": "live (Quiz Autopilot)"},
+    {"id": "wildlytrue", "name": "WILDLY TRUE", "handle": "@WildlyTrue65", "account": "isot65isot65@gmail.com", "match": ["wildly true"],
+     "legacy_secret": "WT_GOOGLE_REFRESH_TOKEN", "kind": "original", "pipeline": "fertig (wartet nur auf Token)"},
+    {"id": "perceptlab", "name": "PERCEPT LAB", "handle": "@PERCEPTLAB", "account": "isot65isot65@gmail.com", "match": ["percept lab"],
+     "kind": "original", "pipeline": "geplant"},
+    {"id": "rageloop", "name": "RageLoop Clips", "handle": "@RageLoopClips1", "account": "isot65isot65@gmail.com", "match": ["rageloop"],
+     "kind": "clips", "pipeline": "geplant (Clipping-Kampagnen)"},
+    {"id": "plotmelt", "name": "PlotMelt", "handle": "@Plotmelt-f8b", "account": "isot65isot65@gmail.com", "match": ["plotmelt", "plot melt"],
+     "kind": "original", "pipeline": "geplant"},
+    {"id": "podcastcut", "name": "The Podcast Cut", "handle": "@ThePodcastCutTV", "account": "isot65isot65@gmail.com", "match": ["podcast cut"],
+     "kind": "clips", "pipeline": "geplant (Clipping-Kampagnen)"},
+    {"id": "hiddenfrontlines", "name": "HiddenFrontlines", "handle": "@HiddenFrontlinesHQ", "account": "isi65isi65@gmail.com", "match": ["hiddenfrontlines", "hidden frontlines"],
+     "kind": "original", "pipeline": "geplant"},
+    {"id": "humanlimit", "name": "HUMAN LIMIT", "handle": "@HumanLimitLabb", "account": "isi65isi65@gmail.com", "match": ["human limit"],
+     "kind": "original", "pipeline": "geplant"},
+    {"id": "mythdugup", "name": "Myth Dug Up", "handle": "@MythDugUp", "account": "isi65isi65@gmail.com", "match": ["myth dug up"],
+     "kind": "original", "pipeline": "geplant"}
+  ]
+}
