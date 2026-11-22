@@ -1,6 +1,19 @@
 {
- "fetched": "2026-11-22T15:18",
+ "fetched": "2026-11-22T16:13",
  "comments": [
+  {
+   "commentId": "UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdWcGPFRoEn",
+   "threadId": "UgwlJeS1R0fIHN7K2iF4AaABAg",
+   "videoId": "_U78PtTz-_o",
+   "video": "Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts",
+   "author": "@glowentertainmentllc4554",
+   "text": "I got 4/4 it’s easy if you know your countries like I do.",
+   "likes": 0,
+   "published": "2026-11-22T15:21:40Z",
+   "kind": "SCORE",
+   "answered": false,
+   "underOurComment": true
+  },
   {
    "commentId": "Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdVl7P69Ng7",
    "threadId": "Ugzg2l7RZqLj9QE4PlJ4AaABAg",
@@ -10,19 +23,6 @@
    "text": "​@CouldYouPassIt yes",
    "likes": 0,
    "published": "2026-11-22T07:19:51Z",
-   "kind": "SONSTIGES",
-   "answered": false,
-   "underOurComment": false
-  },
-  {
-   "commentId": "UgxA2nYSA7xDorSTUPp4AaABAg.AcfaxaS9qKyAdVC-zdV0CY",
-   "threadId": "UgxA2nYSA7xDorSTUPp4AaABAg",
-   "videoId": "Tx5xmZvvjcA",
-   "video": "Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts",
-   "author": "@ToryCrawford-t8u",
-   "text": "@CouldYouPassIt6",
-   "likes": 0,
-   "published": "2026-11-22T02:04:16Z",
    "kind": "SONSTIGES",
    "answered": false,
    "underOurComment": false
@@ -219,19 +219,6 @@
    "likes": 1,
    "published": "2026-11-05T14:21:54Z",
    "kind": "SONSTIGES",
-   "answered": true,
-   "underOurComment": false
-  },
-  {
-   "commentId": "UgxA2nYSA7xDorSTUPp4AaABAg",
-   "threadId": "UgxA2nYSA7xDorSTUPp4AaABAg",
-   "videoId": "Tx5xmZvvjcA",
-   "video": "Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts",
-   "author": "@ToryCrawford-t8u",
-   "text": "5/6",
-   "likes": 1,
-   "published": "2026-11-01T15:51:14Z",
-   "kind": "SCORE",
    "answered": true,
    "underOurComment": false
   }

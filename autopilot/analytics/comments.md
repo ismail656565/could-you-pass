@@ -1,14 +1,14 @@
-# Zuschauer-Kommentare – Stand 2026-11-22 15:18
+# Zuschauer-Kommentare – Stand 2026-11-22 16:13
 
-Letzte 21 Tage, ohne unsere eigenen. 18 Kommentare, 2 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 17 Kommentare, 2 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
 | This Map Is Lying To You 🌍 Which Is REALLY Bigger? #shorts | 3/4 |
-| Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts | 5/6 |
 
 ## FEHLER-HINWEIS (1)
 
@@ -24,19 +24,17 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SCORE (3)
 
+- 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @glowentertainmentllc4554 **[OFFEN]** · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdWcGPFRoEn`  
+  „I got 4/4 it’s easy if you know your countries like I do.“
 - 2026-11-20 · Only Geniuses Get 6/6 🧠 Capitals Quiz #shorts · @michaelvillegas3878 · id `UgzAXE8f6UC0D56oHJx4AaABAg`  
   „Got all! And first to comment :D“
 - 2026-11-10 · This Map Is Lying To You 🌍 Which Is REALLY Bigger? · @RageG23 · id `UgwiIuNyUL_iK-DLhIp4AaABAg`  
   „3/4“
-- 2026-11-01 · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #sho · @ToryCrawford-t8u · id `UgxA2nYSA7xDorSTUPp4AaABAg`  
-  „5/6“
 
-## SONSTIGES (12)
+## SONSTIGES (11)
 
 - 2026-11-22 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 **[OFFEN]** · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdVl7P69Ng7`  
   „​@CouldYouPassIt yes“
-- 2026-11-22 · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #sho · @ToryCrawford-t8u **[OFFEN]** · id `UgxA2nYSA7xDorSTUPp4AaABAg.AcfaxaS9qKyAdVC-zdV0CY`  
-  „@CouldYouPassIt6“
 - 2026-11-21 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdUxym1Nwer`  
   „​@CouldYouPassIt all“
 - 2026-11-20 · Only Geniuses Get 6/6 🧠 Geography Quiz #shorts · @Jo-wl5fj · id `UgySfvG7feTPnRtWm6h4AaABAg`  
