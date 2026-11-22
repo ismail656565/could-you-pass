@@ -45,7 +45,7 @@ jobs:
   produce:
     needs: plan
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 300
     strategy:
       fail-fast: false
       max-parallel: 3
@@ -74,7 +74,8 @@ jobs:
           path: |
             ~/.cache/kokoro
             ~/.cache/huggingface
-          key: studio-models-v1
+            ~/models
+          key: studio-models-v2
 
       - name: Produzieren + hochladen
         env:
@@ -89,20 +90,29 @@ jobs:
           [ "${{ github.event.inputs.dry }}" = "true" ] && ARGS="$ARGS --dry"
           python studio/produce.py ${{ matrix.channel }} $ARGS
 
-      - name: Wöchentliches langes Video (nur am eingestellten Wochentag)
-        if: github.event.inputs.dry != 'true'
+      - name: Langes Video (falls eins in der Warteschlange ist)
+        if: always()
         env:
+          STUDIO_KIT_KEY: ${{ secrets.STUDIO_KIT_KEY }}
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           YT_TOKENS_JSON: ${{ secrets.YT_TOKENS_JSON }}
-        run: python studio/long.py ${{ matrix.channel }}
+        run: |
+          if ! ls studio/channels/${{ matrix.channel }}/longs/*/story.json >/dev/null 2>&1; then echo "kein langes Video geplant"; exit 0; fi
+          if [ -z "$STUDIO_KIT_KEY" ]; then echo "::warning::Secret STUDIO_KIT_KEY fehlt – langes Video übersprungen"; exit 0; fi
+          bash studio/kits/unpack.sh
+          bash studio/kits/_unpacked/reachmora-2d-longform/scripts/setup.sh
+          ARGS=""; [ "${{ github.event.inputs.dry }}" = "true" ] && ARGS="--dry"
+          python studio/longform.py ${{ matrix.channel }} $ARGS
 
       - name: Vorschau behalten (Probelauf)
         if: github.event.inputs.dry == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: preview-${{ matrix.channel }}
-          path: /tmp/studio/**/final.mp4
+          path: |
+            /tmp/studio/**/final.mp4
+            /tmp/studio/**/out/*.mp4
           retention-days: 7
 
       - name: Stand speichern
