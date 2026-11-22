@@ -1,11 +1,11 @@
 # Studio – Status aller Kanäle
 
-Stand: 2026-11-22 17:52 UTC · verbunden: **1/9**
+Stand: 2026-11-22 18:00 UTC · verbunden: **1/9**
 
 | Kanal | Zugang | Abos | Videos | Views | Pipeline |
 |---|---|---:|---:|---:|---|
 | COULD YOU PASS? | ✅ verbunden | 32 | 105 | 42615 | live (Quiz Autopilot) |
-| WILDLY TRUE | ⏳ Token fehlt | 49 | 127 | 75919 | fertig (wartet nur auf Token) |
+| WILDLY TRUE | ⏳ Token fehlt | 49 | 127 | 75924 | fertig (wartet nur auf Token) |
 | PERCEPT LAB | ⏳ Token fehlt | 7 | 13 | 11121 | geplant |
 | RageLoop Clips | ⏳ Token fehlt | 1 | 5 | 740 | geplant (Clipping-Kampagnen) |
 | PlotMelt | ⏳ Token fehlt | 0 | 1 | 5 | geplant |
