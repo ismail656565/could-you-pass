@@ -1,0 +1,8 @@
+numpy>=1.26
+pillow>=10.0
+scipy>=1.11
+soundfile>=0.12
+kokoro-onnx>=0.4
+faster-whisper>=1.0
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.0
