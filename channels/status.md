@@ -1,18 +1,18 @@
 # Studio – Status aller Kanäle
 
-Stand: 2026-11-22 18:00 UTC · verbunden: **1/9**
+Stand: 2026-11-22 18:11 UTC · verbunden: **9/9**
 
 | Kanal | Zugang | Abos | Videos | Views | Pipeline |
 |---|---|---:|---:|---:|---|
 | COULD YOU PASS? | ✅ verbunden | 32 | 105 | 42615 | live (Quiz Autopilot) |
-| WILDLY TRUE | ⏳ Token fehlt | 49 | 127 | 75924 | fertig (wartet nur auf Token) |
-| PERCEPT LAB | ⏳ Token fehlt | 7 | 13 | 11121 | geplant |
-| RageLoop Clips | ⏳ Token fehlt | 1 | 5 | 740 | geplant (Clipping-Kampagnen) |
-| PlotMelt | ⏳ Token fehlt | 0 | 1 | 5 | geplant |
-| The Podcast Cut | ⏳ Token fehlt | 1 | 8 | 2142 | geplant (Clipping-Kampagnen) |
-| HiddenFrontlines | ⏳ Token fehlt | 0 | 3 | 20 | geplant |
-| HUMAN LIMIT | ⏳ Token fehlt | 0 | 1 | 1 | geplant |
-| Myth Dug Up | ⏳ Token fehlt | 1 | 2 | 339 | geplant |
+| WILDLY TRUE | ✅ verbunden | 49 | 127 | 75924 | fertig (wartet nur auf Token) |
+| PERCEPT LAB | ✅ verbunden | 7 | 13 | 11121 | geplant |
+| RageLoop Clips | ✅ verbunden | 1 | 5 | 740 | geplant (Clipping-Kampagnen) |
+| PlotMelt | ✅ verbunden | 0 | 1 | 5 | geplant |
+| The Podcast Cut | ✅ verbunden | 1 | 8 | 2142 | geplant (Clipping-Kampagnen) |
+| HiddenFrontlines | ✅ verbunden | 0 | 3 | 20 | geplant |
+| HUMAN LIMIT | ✅ verbunden | 0 | 1 | 1 | geplant |
+| Myth Dug Up | ✅ verbunden | 1 | 2 | 339 | geplant |
 
 Token fehlt → einmalig lokal `autopilot/kanaele-anmelden.bat` (Windows) bzw. `kanaele-anmelden.command` (Mac).
 
