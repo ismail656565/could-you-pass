@@ -53,7 +53,15 @@
      "q": "India, or Greenland?",
      "a": "India! Half again bigger."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 3.04,
+    "qAudio": "audio/map-lie-6/q1.mp3",
+    "aAudio": "audio/map-lie-6/a1.mp3",
+    "thinkStart": 4.49,
+    "reveal": 6.89,
+    "moveEnd": 8.39,
+    "aStart": 7.44,
+    "end": 10.54
    },
    {
     "level": "MEDIUM",
@@ -73,7 +81,15 @@
      "q": "Alaska, or Mexico?",
      "a": "Mexico! Alaska just shrank."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 10.54,
+    "qAudio": "audio/map-lie-6/q2.mp3",
+    "aAudio": "audio/map-lie-6/a2.mp3",
+    "thinkStart": 11.95,
+    "reveal": 14.35,
+    "moveEnd": 15.85,
+    "aStart": 14.9,
+    "end": 18.0
    },
    {
     "level": "HARD",
@@ -93,7 +109,15 @@
      "q": "New Zealand, or the UK?",
      "a": "New Zealand! Sorry, Britain."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 18.0,
+    "qAudio": "audio/map-lie-6/q3.mp3",
+    "aAudio": "audio/map-lie-6/a3.mp3",
+    "thinkStart": 19.48,
+    "reveal": 21.88,
+    "moveEnd": 23.38,
+    "aStart": 22.43,
+    "end": 25.53
    },
    {
     "level": "LEGEND",
@@ -113,12 +137,43 @@
      "q": "Last one. Peru, or Mongolia?",
      "a": "Mongolia! Follow, number seven drops tomorrow!"
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 25.53,
+    "qAudio": "audio/map-lie-6/q4.mp3",
+    "aAudio": "audio/map-lie-6/a4.mp3",
+    "thinkStart": 27.24,
+    "reveal": 29.64,
+    "moveEnd": 31.14,
+    "aStart": 30.19,
+    "end": 34.94
    }
   ],
   "sources": [
    "Areas (total, km²): India 3,287,263; Greenland 2,166,086; Mexico 1,964,375; Alaska 1,723,337; New Zealand 268,838; UK 243,610; Mongolia 1,564,116; Peru 1,285,216 – CIA World Factbook / US Census Bureau",
    "Outlines: Natural Earth (public domain)"
-  ]
+  ],
+  "hook": {
+   "audio": "audio/map-lie-6/hook.mp3",
+   "start": 0.0,
+   "end": 3.04
+  },
+  "durationInSeconds": 34.94
+ },
+ "qa": {
+  "lufs": -20.3,
+  "truePeak": -4.4,
+  "lra": 6.4,
+  "normalized": true,
+  "frozenShare": 0.592,
+  "longestFreezeSec": 2.6,
+  "frame0Luma": 205.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-22T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "HpIiecf_igY",
+  "at": "2026-11-22T06:24"
  }
 }

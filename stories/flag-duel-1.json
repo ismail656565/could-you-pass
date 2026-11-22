@@ -30,14 +30,14 @@
     "q": "Who is Poland? Left, or right?",
     "a": "Right! White on top."
    },
-   "start": 2.08,
+   "start": 2.05,
    "qAudio": "audio/flag-duel-1/q1.mp3",
    "aAudio": "audio/flag-duel-1/a1.mp3",
-   "thinkStart": 3.96,
-   "reveal": 6.96,
-   "moveEnd": 7.76,
-   "aStart": 7.51,
-   "end": 9.71
+   "thinkStart": 3.89,
+   "reveal": 6.89,
+   "moveEnd": 7.69,
+   "aStart": 7.44,
+   "end": 9.64
   },
   {
    "level": "MEDIUM",
@@ -55,14 +55,14 @@
     "q": "Who is Ireland?",
     "a": "Left! Green by the pole."
    },
-   "start": 9.71,
+   "start": 9.64,
    "qAudio": "audio/flag-duel-1/q2.mp3",
    "aAudio": "audio/flag-duel-1/a2.mp3",
-   "thinkStart": 10.85,
-   "reveal": 13.85,
-   "moveEnd": 14.65,
-   "aStart": 14.4,
-   "end": 16.6
+   "thinkStart": 10.75,
+   "reveal": 13.75,
+   "moveEnd": 14.55,
+   "aStart": 14.3,
+   "end": 16.5
   },
   {
    "level": "HARD",
@@ -80,14 +80,14 @@
     "q": "Who is New Zealand?",
     "a": "Right! Four red stars."
    },
-   "start": 16.6,
+   "start": 16.5,
    "qAudio": "audio/flag-duel-1/q3.mp3",
    "aAudio": "audio/flag-duel-1/a3.mp3",
-   "thinkStart": 17.85,
-   "reveal": 20.85,
-   "moveEnd": 21.65,
-   "aStart": 21.4,
-   "end": 23.6
+   "thinkStart": 17.72,
+   "reveal": 20.72,
+   "moveEnd": 21.52,
+   "aStart": 21.27,
+   "end": 23.47
   },
   {
    "level": "LEGEND",
@@ -103,22 +103,22 @@
    "winner": "a",
    "lines": {
     "q": "Last one. Who is Chad?",
-    "a": "Left! Darker blue. How many did you get?"
+    "a": "Left! Darker blue. Follow for flag duel number two!"
    },
-   "start": 23.6,
+   "start": 23.47,
    "qAudio": "audio/flag-duel-1/q4.mp3",
    "aAudio": "audio/flag-duel-1/a4.mp3",
-   "thinkStart": 25.03,
-   "reveal": 28.03,
-   "moveEnd": 28.83,
-   "aStart": 28.58,
-   "end": 32.9
+   "thinkStart": 24.87,
+   "reveal": 27.87,
+   "moveEnd": 28.67,
+   "aStart": 28.42,
+   "end": 33.48
   }
  ],
  "hook": {
   "audio": "audio/flag-duel-1/hook.mp3",
   "start": 0.0,
-  "end": 2.08
+  "end": 2.05
  },
- "durationInSeconds": 32.9
+ "durationInSeconds": 33.48
 }

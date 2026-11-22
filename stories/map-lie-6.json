@@ -1,0 +1,141 @@
+{
+ "id": "map-lie-6",
+ "type": "truesize",
+ "title": "This Map Is Lying To You #6",
+ "kicker": "MAP TEST #6",
+ "hookText": [
+  "THIS MAP",
+  "IS LYING",
+  "TO YOU"
+ ],
+ "hookLine": "This map is lying to you. Four rounds, can you beat it?",
+ "question": "Which is really bigger?",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "a": {
+    "shape": "india",
+    "name": "India",
+    "km2": 3287263
+   },
+   "b": {
+    "shape": "greenland",
+    "name": "Greenland",
+    "km2": 2166086
+   },
+   "mover": "b",
+   "verdict": "52% bigger",
+   "lines": {
+    "q": "India, or Greenland?",
+    "a": "India! Half again bigger."
+   },
+   "winner": "a",
+   "start": 3.04,
+   "qAudio": "audio/map-lie-6/q1.mp3",
+   "aAudio": "audio/map-lie-6/a1.mp3",
+   "thinkStart": 4.49,
+   "reveal": 6.89,
+   "moveEnd": 8.39,
+   "aStart": 7.44,
+   "end": 10.54
+  },
+  {
+   "level": "MEDIUM",
+   "a": {
+    "shape": "alaska",
+    "name": "Alaska",
+    "km2": 1723337
+   },
+   "b": {
+    "shape": "mexico",
+    "name": "Mexico",
+    "km2": 1964375
+   },
+   "mover": "a",
+   "verdict": "14% bigger",
+   "lines": {
+    "q": "Alaska, or Mexico?",
+    "a": "Mexico! Alaska just shrank."
+   },
+   "winner": "b",
+   "start": 10.54,
+   "qAudio": "audio/map-lie-6/q2.mp3",
+   "aAudio": "audio/map-lie-6/a2.mp3",
+   "thinkStart": 11.95,
+   "reveal": 14.35,
+   "moveEnd": 15.85,
+   "aStart": 14.9,
+   "end": 18.0
+  },
+  {
+   "level": "HARD",
+   "a": {
+    "shape": "newzealand",
+    "name": "New Zealand",
+    "km2": 268838
+   },
+   "b": {
+    "shape": "uk",
+    "name": "UK",
+    "km2": 243610
+   },
+   "mover": "b",
+   "verdict": "10% bigger",
+   "lines": {
+    "q": "New Zealand, or the UK?",
+    "a": "New Zealand! Sorry, Britain."
+   },
+   "winner": "a",
+   "start": 18.0,
+   "qAudio": "audio/map-lie-6/q3.mp3",
+   "aAudio": "audio/map-lie-6/a3.mp3",
+   "thinkStart": 19.48,
+   "reveal": 21.88,
+   "moveEnd": 23.38,
+   "aStart": 22.43,
+   "end": 25.53
+  },
+  {
+   "level": "LEGEND",
+   "a": {
+    "shape": "peru",
+    "name": "Peru",
+    "km2": 1285216
+   },
+   "b": {
+    "shape": "mongolia",
+    "name": "Mongolia",
+    "km2": 1564116
+   },
+   "mover": "b",
+   "verdict": "22% bigger",
+   "lines": {
+    "q": "Last one. Peru, or Mongolia?",
+    "a": "Mongolia! Follow, number seven drops tomorrow!"
+   },
+   "winner": "b",
+   "start": 25.53,
+   "qAudio": "audio/map-lie-6/q4.mp3",
+   "aAudio": "audio/map-lie-6/a4.mp3",
+   "thinkStart": 27.24,
+   "reveal": 29.64,
+   "moveEnd": 31.14,
+   "aStart": 30.19,
+   "end": 34.94
+  }
+ ],
+ "sources": [
+  "Areas (total, km²): India 3,287,263; Greenland 2,166,086; Mexico 1,964,375; Alaska 1,723,337; New Zealand 268,838; UK 243,610; Mongolia 1,564,116; Peru 1,285,216 – CIA World Factbook / US Census Bureau",
+  "Outlines: Natural Earth (public domain)"
+ ],
+ "hook": {
+  "audio": "audio/map-lie-6/hook.mp3",
+  "start": 0.0,
+  "end": 3.04
+ },
+ "durationInSeconds": 34.94
+}
