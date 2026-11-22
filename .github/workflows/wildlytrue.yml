@@ -28,12 +28,12 @@ jobs:
     timeout-minutes: 90
     env:
       MODE: ${{ github.event.inputs.mode || (github.event.schedule == '25 17 * * *' && 'comments' || 'all') }}
-      HAS_TOKEN: ${{ secrets.WT_GOOGLE_REFRESH_TOKEN != '' || github.event.inputs.mode == 'sample' }}
+      HAS_TOKEN: ${{ secrets.WT_GOOGLE_REFRESH_TOKEN != '' || contains(secrets.YT_TOKENS_JSON, '"wildlytrue"') || github.event.inputs.mode == 'sample' }}
       HEAVY: ${{ (github.event.inputs.mode || (github.event.schedule == '25 17 * * *' && 'comments' || 'all')) == 'all' || github.event.inputs.mode == 'produce' || github.event.inputs.mode == 'sample' }}
     steps:
       - name: Token vorhanden?
         if: env.HAS_TOKEN != 'true'
-        run: echo "::notice::WT_GOOGLE_REFRESH_TOKEN fehlt noch – Wildly True wird übersprungen (python autopilot/wildlytrue.py auth lokal ausführen)."
+        run: echo "::notice::Wildly-True-Token fehlt noch – wird übersprungen (lokal autopilot/kanaele-anmelden.bat ausführen)."
 
       - uses: actions/checkout@v4
         if: env.HAS_TOKEN == 'true'
@@ -110,6 +110,7 @@ jobs:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           WT_GOOGLE_REFRESH_TOKEN: ${{ secrets.WT_GOOGLE_REFRESH_TOKEN }}
+          YT_TOKENS_JSON: ${{ secrets.YT_TOKENS_JSON }}
           PRIVACY: ${{ vars.WT_PRIVACY || 'public' }}
           RENDER_CONCURRENCY: '100%'
         run: python autopilot/wildlytrue.py $MODE
