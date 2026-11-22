@@ -1,0 +1,480 @@
+{
+ "title": "The Teenager Who Stayed Awake for 11 Days",
+ "mood": "tense",
+ "cast": {
+  "randy": {
+   "skin": "light",
+   "outfit": "tshirt",
+   "color": "#E0A43A",
+   "hair": "short",
+   "hair_col": "#7A4A24"
+  },
+  "bruce": {
+   "skin": "fair",
+   "outfit": "sweater",
+   "color": "#2F6B8A",
+   "hair": "curly",
+   "hair_col": "#3B2A1E",
+   "glasses": true
+  },
+  "joe": {
+   "skin": "tan",
+   "outfit": "hoodie",
+   "color": "#7A3B8A",
+   "shirt": "#E8E0D0",
+   "hair": "slick",
+   "hair_col": "#1C1B22"
+  },
+  "dement": {
+   "skin": "light",
+   "outfit": "suit",
+   "color": "#4A4A55",
+   "tie": "#2F6B4E",
+   "hair": "short",
+   "hair_col": "#2A1E16",
+   "glasses": true
+  }
+ },
+ "shots": [
+  {
+   "kind": "closeup",
+   "s": [
+    0
+   ],
+   "who": "randy",
+   "set": "home",
+   "time": "night",
+   "emotion": "confident",
+   "pose": "arms_crossed",
+   "tag": "SAN DIEGO · 1963"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    1,
+    2
+   ],
+   "icons": [
+    {
+     "name": "clock",
+     "label": "NOT ONE NIGHT",
+     "at": 0.05
+    },
+    {
+     "name": "calendar",
+     "top": "DAYS",
+     "text": "11",
+     "label": "ELEVEN DAYS",
+     "at": "eleven"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "s": [
+    3,
+    4
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    5,
+    6
+   ],
+   "set": "street",
+   "time": "day",
+   "chars": [
+    {
+     "id": "randy",
+     "x": 760,
+     "emotion": "happy",
+     "pose": "wave",
+     "enter": "left"
+    }
+   ],
+   "lower_third": {
+    "name": "RANDY GARDNER",
+    "sub": "17 · SCIENCE FAIR PROJECT",
+    "at": "randy"
+   }
+  },
+  {
+   "kind": "counter",
+   "s": [
+    7,
+    8
+   ],
+   "value": {
+    "from": 0,
+    "to": 260,
+    "at": "two",
+    "suffix": " h"
+   },
+   "caption": "THE RECORD TO BEAT",
+   "icon": "trophy"
+  },
+  {
+   "kind": "wide",
+   "s": [
+    9,
+    10
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "bruce",
+     "x": 520,
+     "emotion": "excited",
+     "pose": "point"
+    },
+    {
+     "id": "randy",
+     "x": 960,
+     "emotion": "tired",
+     "pose": "idle"
+    },
+    {
+     "id": "joe",
+     "x": 1400,
+     "emotion": "happy",
+     "pose": "hold"
+    }
+   ],
+   "labels": [
+    {
+     "text": "KEEP HIM AWAKE",
+     "at": "awake",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    11,
+    12
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "top": "DEC",
+     "text": "28",
+     "label": "DAY ONE",
+     "at": 0.05
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    13
+   ],
+   "who": "randy",
+   "set": "home",
+   "time": "night",
+   "emotion": "tired",
+   "pose": "think",
+   "bubble": {
+    "who": "randy",
+    "text": "She sells sea...",
+    "at": "tongue",
+    "thought": false
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    14,
+    15
+   ],
+   "who": "randy",
+   "side": "right",
+   "set": "home",
+   "time": "night",
+   "emotion": "worried",
+   "pose": "stressed",
+   "labels": [
+    {
+     "text": "NAUSEA",
+     "at": "nauseous",
+     "color": "red"
+    },
+    {
+     "text": "MEMORY SLIPS",
+     "at": "remembering",
+     "color": "cream"
+    },
+    {
+     "text": "MOOD SWINGS",
+     "at": "mood",
+     "color": "orange"
+    }
+   ]
+  },
+  {
+   "kind": "map",
+   "s": [
+    16,
+    17
+   ],
+   "places": [
+    {
+     "name": "STANFORD"
+    },
+    {
+     "name": "SAN DIEGO"
+    }
+   ],
+   "vehicle": "car",
+   "at": "drove"
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    18
+   ],
+   "who": "dement",
+   "side": "right",
+   "set": "office",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "explain",
+   "lower_third": {
+    "name": "WILLIAM DEMENT",
+    "sub": "SLEEP RESEARCHER · STANFORD",
+    "at": 0.1
+   }
+  },
+  {
+   "kind": "versus",
+   "s": [
+    19,
+    20
+   ],
+   "left": {
+    "who": "dement",
+    "title": "PINBALL",
+    "emotion": "happy",
+    "at": 0.05
+   },
+   "right": {
+    "who": "randy",
+    "title": "BASKETBALL",
+    "emotion": "tired",
+    "at": 0.4
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    21,
+    22
+   ],
+   "who": "randy",
+   "set": "home",
+   "time": "night",
+   "emotion": "nervous",
+   "pose": "stressed",
+   "labels": [
+    {
+     "text": "SLOW THINKING",
+     "at": "slowed",
+     "color": "cream"
+    },
+    {
+     "text": "SEEING THINGS",
+     "at": "seemed",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "The Record",
+   "sub": "JANUARY 8, 1964"
+  },
+  {
+   "kind": "counter",
+   "s": [
+    23,
+    24
+   ],
+   "value": {
+    "from": 0,
+    "to": 264,
+    "at": "two",
+    "suffix": " h"
+   },
+   "caption": "HOURS AWAKE",
+   "icon": "clock"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    25
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "top": "DAYS",
+     "text": "11",
+     "label": "+ ABOUT 25 MINUTES",
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    26,
+    27
+   ],
+   "who": "randy",
+   "set": "home",
+   "time": "night",
+   "emotion": "tired",
+   "pose": "idle",
+   "labels": [
+    {
+     "text": "14 HOURS OF SLEEP",
+     "at": "fourteen",
+     "color": "sky"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    28
+   ],
+   "who": "randy",
+   "side": "right",
+   "set": "home",
+   "time": "day",
+   "emotion": "smile",
+   "pose": "shrug"
+  },
+  {
+   "kind": "wide",
+   "s": [
+    29,
+    30
+   ],
+   "set": "office",
+   "time": "day",
+   "chars": [
+    {
+     "id": "bruce",
+     "x": 560,
+     "emotion": "excited",
+     "pose": "celebrate"
+    },
+    {
+     "id": "randy",
+     "x": 960,
+     "emotion": "happy",
+     "pose": "celebrate"
+    },
+    {
+     "id": "joe",
+     "x": 1360,
+     "emotion": "excited",
+     "pose": "celebrate"
+    }
+   ],
+   "stamp": {
+    "text": "1ST PLACE",
+    "at": "first",
+    "color": "red"
+   },
+   "calendar": "JAN 1964"
+  },
+  {
+   "kind": "table",
+   "s": [
+    31
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "RECORD BOOK",
+     "text": "NO MORE SLEEP RECORDS",
+     "at": 0.1
+    }
+   ],
+   "stamp": {
+    "text": "TOO DANGEROUS",
+    "at": "dangerous",
+    "color": "red",
+    "size": 100
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    32
+   ],
+   "who": "randy",
+   "set": "home",
+   "time": "night",
+   "emotion": "sad",
+   "pose": "idle",
+   "labels": [
+    {
+     "text": "INSOMNIA LATER IN LIFE",
+     "at": "insomnia",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    33,
+    35
+   ],
+   "icons": [
+    {
+     "name": "book",
+     "text": "1963",
+     "label": "ONE PROJECT",
+     "at": "project"
+    },
+    {
+     "name": "clock",
+     "label": "264 HOURS",
+     "at": "two"
+    },
+    {
+     "name": "brain",
+     "label": "SLEEP SCIENCE",
+     "at": "famous"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    36,
+    37
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "randy",
+     "x": 900,
+     "emotion": "smile",
+     "pose": "wave"
+    }
+   ],
+   "polaroid": {
+    "at": "subscribe",
+    "who": "randy",
+    "caption": "264 HOURS AWAKE"
+   }
+  }
+ ]
+}
