@@ -108,6 +108,8 @@ def main():
     if not c.get('enabled', True):
         print(f'{cid}: deaktiviert'); return
     n = a.shorts if a.shorts is not None else c.get('shorts_per_day', 2)
+    if n == 0:
+        print(f'{cid}: 0 Shorts angefordert'); return
     if len(eps) < c.get('warn_below', 6):
         print(f'::warning::{cid}: nur noch {len(eps)} Episoden im Vorrat')
     todo = eps[:n]
