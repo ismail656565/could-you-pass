@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-23 21:15
+# Zuschauer-Kommentare – Stand 2026-11-23 22:31
 
-Letzte 21 Tage, ohne unsere eigenen. 25 Kommentare, 2 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 26 Kommentare, 3 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 3/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 3/4 |
@@ -27,8 +28,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (8)
+## SCORE (9)
 
+- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @BashyWashy29 **[OFFEN]** · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdZxvQ9M9Uh`  
+  „4/4“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @FilipMagnes · id `UgxPMnS2UhFKX9nvPkV4AaABAg`  
   „3/4“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @Wolfy2026-7wc **[OFFEN]** · id `UgxZsINo0ci1outXNAF4AaABAg`  
