@@ -1,1 +1,29 @@
 [2026-11-22 22:35:23] Kanal ok: WILDLY TRUE (49 Abos)
+[2026-11-23 06:33:58] Kanal ok: WILDLY TRUE (49 Abos)
+[2026-11-23 06:34:59] Kanal: WILDLY TRUE | Kontrollnummer: 3C0I
+[2026-11-23 06:34:59] Analytics gespeichert (100 Videos)
+[2026-11-23 06:34:59] Produziere greenland-shark
+[2026-11-23 06:34:59] Stimme: Kokoro am_michael:60+am_onyx:40 ×1.05
+[2026-11-23 06:35:15] Ton: 29.5 s, 75 Wörter, 7 Beats
+[2026-11-23 06:35:17] B-Roll Frage 1 ("Greenland shark"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-23 06:35:24] B-Roll Frage 2 ("arctic sea ice"): NASA-WeeklyArcticSeaIceAge-1984-2019.webm
+[2026-11-23 06:35:31] B-Roll Frage 3 ("laboratory scientist"): CDC Laboratory Science- Mission Critical.webm
+[2026-11-23 06:35:33] B-Roll Frage 4 ("Somniosus microcephalus"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-23 06:35:40] B-Roll Frage 5 ("deep sea fish"): Autonomous landers, Observing the deepest places on Earth.We
+[2026-11-23 06:35:42] B-Roll Frage 6 ("shark slow swimming"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-23 06:35:44] B-Roll Frage 7 ("arctic ocean underwater"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-23 06:35:46] B-Roll Frage 1 ("shark swimming deep"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-23 06:35:52] B-Roll Frage 2 ("shark underwater"): Whale shark in the Maldives-lLbhHx5bZf0.webm
+[2026-11-23 06:35:54] B-Roll Frage 3 ("fish swimming slowly"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-23 06:36:03] B-Roll Frage 4 ("ice underwater"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-23 06:36:03] Beat 1: kein Clip – nutze Clip von Beat 2
+[2026-11-23 06:36:03] Beat 6: kein Clip – nutze Clip von Beat 5
+[2026-11-23 06:36:03] Beat 7: kein Clip – nutze Clip von Beat 5
+[2026-11-23 06:36:03] Szenen: 4/7 Beats mit eigenem Clip, 17 Schnitte auf 120-BPM-Raster
+[2026-11-23 06:38:21] Gerendert
+[2026-11-23 06:38:27] QA: -23.5 LUFS, TP -5.0 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 96.3
+[2026-11-23 06:38:29] Hochgeladen: https://youtube.com/watch?v=jgP2jPmLKac (private)
+[2026-11-23 06:38:29] Playlist angelegt: Wildly True Facts 🌍
+[2026-11-23 06:38:35] In Playlist "Wildly True Facts 🌍"
+[2026-11-23 06:38:35] Geplant für 23.11. 18:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-23 06:38:35] greenland-shark: noch nicht öffentlich – Kommentar später
