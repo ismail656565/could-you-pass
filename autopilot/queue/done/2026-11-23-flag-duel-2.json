@@ -49,7 +49,15 @@
     "lines": {
      "q": "Who is Iceland? Left, or right?",
      "a": "Left! Blue with a red cross."
-    }
+    },
+    "start": 2.05,
+    "qAudio": "audio/flag-duel-2/q1.mp3",
+    "aAudio": "audio/flag-duel-2/a1.mp3",
+    "thinkStart": 3.95,
+    "reveal": 6.95,
+    "moveEnd": 7.75,
+    "aStart": 7.5,
+    "end": 9.7
    },
    {
     "level": "MEDIUM",
@@ -66,7 +74,15 @@
     "lines": {
      "q": "Who is Senegal?",
      "a": "Right! It has the green star."
-    }
+    },
+    "start": 9.7,
+    "qAudio": "audio/flag-duel-2/q2.mp3",
+    "aAudio": "audio/flag-duel-2/a2.mp3",
+    "thinkStart": 10.87,
+    "reveal": 13.87,
+    "moveEnd": 14.67,
+    "aStart": 14.42,
+    "end": 16.62
    },
    {
     "level": "HARD",
@@ -83,7 +99,15 @@
     "lines": {
      "q": "Who is the Netherlands?",
      "a": "Left! Darker blue."
-    }
+    },
+    "start": 16.62,
+    "qAudio": "audio/flag-duel-2/q3.mp3",
+    "aAudio": "audio/flag-duel-2/a3.mp3",
+    "thinkStart": 18.08,
+    "reveal": 21.08,
+    "moveEnd": 21.88,
+    "aStart": 21.63,
+    "end": 23.83
    },
    {
     "level": "LEGEND",
@@ -100,8 +124,39 @@
     "lines": {
      "q": "Last one. Who is Slovakia?",
      "a": "Right! The double cross. Follow for number three!"
-    }
+    },
+    "start": 23.83,
+    "qAudio": "audio/flag-duel-2/q4.mp3",
+    "aAudio": "audio/flag-duel-2/a4.mp3",
+    "thinkStart": 25.48,
+    "reveal": 28.48,
+    "moveEnd": 29.28,
+    "aStart": 29.03,
+    "end": 33.61
    }
-  ]
+  ],
+  "hook": {
+   "audio": "audio/flag-duel-2/hook.mp3",
+   "start": 0.0,
+   "end": 2.05
+  },
+  "durationInSeconds": 33.61
+ },
+ "qa": {
+  "lufs": -19.9,
+  "truePeak": -4.5,
+  "lra": 10.6,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 85.8,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-23T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "76QnVBBPOc0",
+  "at": "2026-11-23T06:19"
  }
 }

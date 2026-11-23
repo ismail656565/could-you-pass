@@ -1,0 +1,141 @@
+{
+ "id": "map-lie-7",
+ "type": "truesize",
+ "title": "This Map Is Lying To You #7",
+ "kicker": "MAP TEST #7",
+ "hookText": [
+  "THIS MAP",
+  "IS LYING",
+  "TO YOU"
+ ],
+ "hookLine": "This map is lying to you. Four rounds, can you beat it?",
+ "question": "Which is really bigger?",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "a": {
+    "shape": "iceland",
+    "name": "Iceland",
+    "km2": 103000
+   },
+   "b": {
+    "shape": "cuba",
+    "name": "Cuba",
+    "km2": 109884
+   },
+   "mover": "a",
+   "verdict": "7% bigger",
+   "lines": {
+    "q": "Iceland, or Cuba?",
+    "a": "Cuba! The map lied again."
+   },
+   "winner": "b",
+   "start": 3.04,
+   "qAudio": "audio/map-lie-7/q1.mp3",
+   "aAudio": "audio/map-lie-7/a1.mp3",
+   "thinkStart": 4.31,
+   "reveal": 6.71,
+   "moveEnd": 8.21,
+   "aStart": 7.26,
+   "end": 10.36
+  },
+  {
+   "level": "MEDIUM",
+   "a": {
+    "shape": "california",
+    "name": "California",
+    "km2": 423970
+   },
+   "b": {
+    "shape": "japan",
+    "name": "Japan",
+    "km2": 377915
+   },
+   "mover": "b",
+   "verdict": "12% bigger",
+   "lines": {
+    "q": "California, or Japan?",
+    "a": "California! Bigger than Japan."
+   },
+   "winner": "a",
+   "start": 10.36,
+   "qAudio": "audio/map-lie-7/q2.mp3",
+   "aAudio": "audio/map-lie-7/a2.mp3",
+   "thinkStart": 11.86,
+   "reveal": 14.26,
+   "moveEnd": 15.76,
+   "aStart": 14.81,
+   "end": 17.91
+  },
+  {
+   "level": "HARD",
+   "a": {
+    "shape": "texas",
+    "name": "Texas",
+    "km2": 695662
+   },
+   "b": {
+    "shape": "chile",
+    "name": "Chile",
+    "km2": 756102
+   },
+   "mover": "b",
+   "verdict": "9% bigger",
+   "lines": {
+    "q": "Texas, or Chile?",
+    "a": "Chile! Long beats wide."
+   },
+   "winner": "b",
+   "start": 17.91,
+   "qAudio": "audio/map-lie-7/q3.mp3",
+   "aAudio": "audio/map-lie-7/a3.mp3",
+   "thinkStart": 19.16,
+   "reveal": 21.56,
+   "moveEnd": 23.06,
+   "aStart": 22.11,
+   "end": 25.21
+  },
+  {
+   "level": "LEGEND",
+   "a": {
+    "shape": "cambodia",
+    "name": "Cambodia",
+    "km2": 181035
+   },
+   "b": {
+    "shape": "florida",
+    "name": "Florida",
+    "km2": 170312
+   },
+   "mover": "b",
+   "verdict": "6% bigger",
+   "lines": {
+    "q": "Last one. Cambodia, or Florida?",
+    "a": "Cambodia! Follow, number eight drops tomorrow!"
+   },
+   "winner": "a",
+   "start": 25.21,
+   "qAudio": "audio/map-lie-7/q4.mp3",
+   "aAudio": "audio/map-lie-7/a4.mp3",
+   "thinkStart": 27.18,
+   "reveal": 29.58,
+   "moveEnd": 31.08,
+   "aStart": 30.13,
+   "end": 34.88
+  }
+ ],
+ "sources": [
+  "Areas (total, km²): Iceland 103,000; Cuba 109,884; California 423,970; Japan 377,915; Texas 695,662; Chile 756,102; Cambodia 181,035; Florida 170,312 – CIA World Factbook / US Census Bureau",
+  "Outlines: Natural Earth (public domain)"
+ ],
+ "hook": {
+  "audio": "audio/map-lie-7/hook.mp3",
+  "start": 0.0,
+  "end": 3.04
+ },
+ "durationInSeconds": 34.88
+}

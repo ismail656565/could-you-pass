@@ -53,7 +53,15 @@
      "q": "Iceland, or Cuba?",
      "a": "Cuba! The map lied again."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 3.04,
+    "qAudio": "audio/map-lie-7/q1.mp3",
+    "aAudio": "audio/map-lie-7/a1.mp3",
+    "thinkStart": 4.31,
+    "reveal": 6.71,
+    "moveEnd": 8.21,
+    "aStart": 7.26,
+    "end": 10.36
    },
    {
     "level": "MEDIUM",
@@ -73,7 +81,15 @@
      "q": "California, or Japan?",
      "a": "California! Bigger than Japan."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 10.36,
+    "qAudio": "audio/map-lie-7/q2.mp3",
+    "aAudio": "audio/map-lie-7/a2.mp3",
+    "thinkStart": 11.86,
+    "reveal": 14.26,
+    "moveEnd": 15.76,
+    "aStart": 14.81,
+    "end": 17.91
    },
    {
     "level": "HARD",
@@ -93,7 +109,15 @@
      "q": "Texas, or Chile?",
      "a": "Chile! Long beats wide."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 17.91,
+    "qAudio": "audio/map-lie-7/q3.mp3",
+    "aAudio": "audio/map-lie-7/a3.mp3",
+    "thinkStart": 19.16,
+    "reveal": 21.56,
+    "moveEnd": 23.06,
+    "aStart": 22.11,
+    "end": 25.21
    },
    {
     "level": "LEGEND",
@@ -113,12 +137,43 @@
      "q": "Last one. Cambodia, or Florida?",
      "a": "Cambodia! Follow, number eight drops tomorrow!"
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 25.21,
+    "qAudio": "audio/map-lie-7/q4.mp3",
+    "aAudio": "audio/map-lie-7/a4.mp3",
+    "thinkStart": 27.18,
+    "reveal": 29.58,
+    "moveEnd": 31.08,
+    "aStart": 30.13,
+    "end": 34.88
    }
   ],
   "sources": [
    "Areas (total, km²): Iceland 103,000; Cuba 109,884; California 423,970; Japan 377,915; Texas 695,662; Chile 756,102; Cambodia 181,035; Florida 170,312 – CIA World Factbook / US Census Bureau",
    "Outlines: Natural Earth (public domain)"
-  ]
+  ],
+  "hook": {
+   "audio": "audio/map-lie-7/hook.mp3",
+   "start": 0.0,
+   "end": 3.04
+  },
+  "durationInSeconds": 34.88
+ },
+ "qa": {
+  "lufs": -21.1,
+  "truePeak": -4.3,
+  "lra": 6.2,
+  "normalized": true,
+  "frozenShare": 0.58,
+  "longestFreezeSec": 2.6,
+  "frame0Luma": 205.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-23T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "cNB1_nkWQSo",
+  "at": "2026-11-23T06:21"
  }
 }

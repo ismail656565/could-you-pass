@@ -1,6 +1,32 @@
 {
- "fetched": "2026-11-23T00:58",
+ "fetched": "2026-11-23T06:18",
  "comments": [
+  {
+   "commentId": "UgxZsINo0ci1outXNAF4AaABAg",
+   "threadId": "UgxZsINo0ci1outXNAF4AaABAg",
+   "videoId": "_U78PtTz-_o",
+   "video": "Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts",
+   "author": "@Wolfy2026-7wc",
+   "text": "4/4",
+   "likes": 0,
+   "published": "2026-11-23T03:21:01Z",
+   "kind": "SCORE",
+   "answered": false,
+   "underOurComment": false
+  },
+  {
+   "commentId": "UgyAPg-jnVZz_9YWjpd4AaABAg",
+   "threadId": "UgyAPg-jnVZz_9YWjpd4AaABAg",
+   "videoId": "_U78PtTz-_o",
+   "video": "Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts",
+   "author": "@cloudynbarlan6435",
+   "text": "3/4, 95-236",
+   "likes": 0,
+   "published": "2026-11-23T01:59:02Z",
+   "kind": "SCORE",
+   "answered": false,
+   "underOurComment": false
+  },
   {
    "commentId": "UgzhmugeGevGvIl3FGd4AaABAg",
    "threadId": "UgzhmugeGevGvIl3FGd4AaABAg",
@@ -11,7 +37,7 @@
    "likes": 0,
    "published": "2026-11-22T22:33:50Z",
    "kind": "SCORE",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -50,7 +76,7 @@
    "likes": 2,
    "published": "2026-11-22T20:18:32Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": true
   },
   {
