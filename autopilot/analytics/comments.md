@@ -1,12 +1,14 @@
-# Zuschauer-Kommentare – Stand 2026-11-22 21:06
+# Zuschauer-Kommentare – Stand 2026-11-23 00:58
 
-Letzte 21 Tage, ohne unsere eigenen. 18 Kommentare, 1 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 21 Kommentare, 2 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
+| Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
 | This Map Is Lying To You 🌍 Which Is REALLY Bigger? #shorts | 3/4 |
 
@@ -22,8 +24,12 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (3)
+## SCORE (5)
 
+- 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @jilliancunanan-h2f **[OFFEN]** · id `UgzhmugeGevGvIl3FGd4AaABAg`  
+  „4/4“
+- 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @thecomedycoolofficial · id `Ugwj_PPtl82jX3Fb8ix4AaABAg`  
+  „4/4 Team Got Correct For Everyone“
 - 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @glowentertainmentllc4554 · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdWcGPFRoEn`  
   „I got 4/4 it’s easy if you know your countries like I do.“
 - 2026-11-20 · Only Geniuses Get 6/6 🧠 Capitals Quiz #shorts · @michaelvillegas3878 · id `UgzAXE8f6UC0D56oHJx4AaABAg`  
@@ -31,8 +37,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-10 · This Map Is Lying To You 🌍 Which Is REALLY Bigger? · @RageG23 · id `UgwiIuNyUL_iK-DLhIp4AaABAg`  
   „3/4“
 
-## SONSTIGES (12)
+## SONSTIGES (13)
 
+- 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @emanalsulaimani3096 · id `UgwEyaEI9TdThPlk_l54AaABAg`  
+  „4 ez“
 - 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @BRIANKL-d8p **[OFFEN]** · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdX9EkWULxt`  
   „I got four out of 4“
 - 2026-11-22 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg.AdPK0CeKJB3AdVl7P69Ng7`  
