@@ -14,7 +14,7 @@ Pattern to adopt: everyday object/situation + one strange detail, told so the vi
 
 ## Next 3 episodes
 1. 002-neighbors-cat-keys – "The Neighbor's Cat Kept Bringing Him Keys. Then He Found the Door. #shorts". Hook: "Every morning, the cat left a key on his doormat." Twist: the keys open a tiny door in his own wall – the cat's secret room full of stolen socks. Why: exploit (Couch pattern: object + mystery). (written: 002-cat-keys)
-2. 003-my-roomba – "My Robot Vacuum Avoids One Spot. I Finally Checked. #shorts". Hook: "My robot vacuum refuses to touch one corner." Twist: under the rug – a hamster that escaped months ago built a cozy home; the vacuum has been "protecting" it. Why: EXPERIMENT first-person title (competitor BdBQ029KPrU).
+2. 003-my-roomba – "My Robot Vacuum Avoids One Spot. I Finally Checked. #shorts". Hook: "My robot vacuum refuses to touch one corner." Twist: under the rug – a hamster that escaped months ago built a cozy home; the vacuum has been "protecting" it. Why: EXPERIMENT first-person title (competitor BdBQ029KPrU). (written: 003-robot-vacuum)
 3. 004-3am-pizza – "He Ordered Pizza at 3 AM. He Delivered It. #shorts". Hook: "At 3 AM he ordered a pizza. The delivery guy had his face." Twist: time-loop – he wakes up in the delivery uniform. Why: exploit (two-sentence title, twist).
 
 ## Experiments
