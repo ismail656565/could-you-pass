@@ -720,3 +720,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Angelegt: six-q-science-trivia (24.11. 16:00, 70 Wörter, Duplikat-grep strich Venus/Red Spot/Vitamin D/Wasserstoff/nächster Stern/Stickstoff → neu: Hai 0 Knochen, Trockeneis, Zahnschmelz, Silber (Falle), Erde, Koloss-Kalmar-Augen), map-lie-8 (24.11.) und map-lie-9 (25.11.) aus vorhandenen Formen, keine Paar-Wiederholung aus #1–#7 oder den Karten-Longs, Grönland gesperrt, Gewinner a/b/a/b bzw. b/a/b/a.
 - 22.11. 18:15: Flag Duel #1 (E19) 1.000 Views n. 2 h 15 min, stayed 58,1 % = bester Short-Start des Kanals → flag-duel-2 auf 23.11. 16:00 vorgezogen, E18 Thanksgiving-T/F auf 25.11.
 - 22.11. 22:54: Flag Duel #1 n. 6 h 54 min 1.760 Views, Ø angesehen 80,5 %, stayed 59,6 %, 43 Likes, **+6 Abos (≈3,4/1.000 – erstes Format über Ziel 2,0)**; zweite Welle ab ≈4,5 h (Plateau 4,5 h → erneuter Anstieg) = YouTube schiebt in größeren Testpool. → Flag Duel Kandidat für feste Serie.
+
+## 2026-11-23 – Research
+- KPI: 23 Abos / 33.022 Analytics-Views = 0,70 pro 1.000 (Shorts 0,62, Longs 3,84). Flag Duel #1 ≈ 3,4/1.000 (+6 Abos, 1.760 Views in 7 h, 80,5 % angesehen) = erstes Format über Ziel 2,0 → Flag Duel alle 2–3 Tage 16:00 (#3 auf 26.11. vorgezogen, Reno-1-Frage → 27.11.).
+- vidIQ: „flag quiz“ ≈131.700 Suchen/Monat (Wettbewerb 58), „guess the flag quiz“ 29.600 → „Flag Quiz:“ vorn im Titel behalten.
+- Thanksgiving-Long nur 37 Views n. ≈1 T → Feiertags-Longs 3+ Wochen vorher; Christmas-Long (exam, 50 Q) Do 26.11.
+- Karten-VS weiter 0 Abos in Analytics (4 Videos) → Bewährung bis map-lie-9; < 0,5/1.000 → 21:00 abwechselnd Flag Duel ab 30.11.
+- Kommentare 2/2 beantwortet (16 gesamt), kein Faktenfehler.
