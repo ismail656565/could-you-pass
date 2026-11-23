@@ -9,39 +9,31 @@
    "@KingsandGenerals"
   ],
   "perceptlab": [
-   "@MindWarehouse",
    "@Psych2Go",
    "@MindYourDecisions",
-   "@AsapSCIENCE",
-   "@BeAmazed"
+   "@AsapSCIENCE"
   ],
   "hiddenfrontlines": [
    "@Yarnhub",
    "@SimpleHistory",
    "@TheArmchairHistorian",
-   "@MarkFeltonProductions",
-   "@OperationsRoom"
+   "@MarkFeltonProductions"
   ],
   "humanlimit": [
    "@BodyScribble",
    "@ZackDFilms",
    "@TheInfographicsShow",
-   "@WhatIfShow",
    "@AsapSCIENCE"
   ],
   "plotmelt": [
    "@Cartoonbox",
    "@StoryBooth",
-   "@MSAPreviously",
-   "@Haminations",
-   "@MyStoryAnimated"
+   "@Haminations"
   ],
   "wildlytrue": [
    "@ZackDFilms",
    "@WeirdHistory",
-   "@FactsVerse",
-   "@BeAmazed",
-   "@ThoughtyTwo"
+   "@FactsVerse"
   ]
  }
 }
