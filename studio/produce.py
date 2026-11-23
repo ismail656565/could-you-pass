@@ -127,13 +127,16 @@ def main():
         try:
             work = Path(os.environ.get('STUDIO_WORK', '/tmp/studio')) / cid / ep.name
             mp4 = work / 'final.mp4'
-            build(ep / 'episode.py', work, mp4, voice=c.get('voice'))
+            film = build(ep / 'episode.py', work, mp4, voice=c.get('voice'))
             if a.dry:
                 print('  (dry) fertig:', mp4); continue
             E = load_episode(ep / 'episode.py').EPISODE
             vid = upload(cid, mp4, E, c, when)
             st['uploads'][ep.name] = dict(video_id=vid, publish_at=when.isoformat(), kind='short', title=E['title'],
-                                          uploaded=dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'))
+                                          uploaded=dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),
+                                          # line timings: intel.py maps retention drops to the sentence being spoken
+                                          duration=round(film.T, 2),
+                                          lines=[[round(l['t0'], 2), round(l['t1'], 2), E['lines'][i]] for i, l in enumerate(film.L)])
             save_state(cid, st)
             print(f'  OK https://youtu.be/{vid}  (öffentlich ab {when:%d.%m. %H:%M})', flush=True)
         except Exception:

@@ -2,6 +2,8 @@
 
   python autopilot/intel.py stats         eigene Videos aller Kanäle (Views, Stayed %, Ø gesehen %, Abos)
                                           -> studio/analytics/<kanal>.json + studio/analytics/stats.md
+                                          + Zuschauerbindung der Shorts (wo springen sie ab, bei welchem Satz?)
+                                          -> studio/analytics/retention.md + retention-<kanal>.json
   python autopilot/intel.py competitors   Konkurrenz (studio/analytics/competitors.json) -> Ausreißer-Videos
                                           -> studio/analytics/competitors.md (+ Thumbnails/Frames/Transkripte
                                           der Top-Videos in intel_media/, nur als Workflow-Artefakt, nie im Repo)
@@ -74,6 +76,72 @@ def _reader(toks):
     raise SystemExit('Kein gültiges Token.')
 
 
+# ---------------------------------------------------------------- Zuschauerbindung (wo springen sie ab?)
+RET_MIN_VIEWS, RET_MAX = 30, 8      # YouTube liefert die Kurve erst ab einigen Views; pro Kanal die neuesten 8 Shorts
+
+
+def _lines(cid):
+    """Studio-Episoden: Satz-Zeiten aus state.json (von produce.py beim Upload gespeichert)"""
+    p = ROOT / 'studio' / 'channels' / cid / 'state.json'
+    if not p.exists():
+        return {}
+    up = json.loads(p.read_text(encoding='utf-8')).get('uploads', {})
+    return {u['video_id']: u for u in up.values() if u.get('video_id') and u.get('lines')}
+
+
+def _said(u, sec):
+    if not u:
+        return ''
+    for i, (t0, t1, text) in enumerate(u['lines']):
+        nxt = u['lines'][i + 1][0] if i + 1 < len(u['lines']) else 1e9
+        if t0 - 0.2 <= sec < nxt:
+            w = text.split()
+            k = int(len(w) * max(0.0, min(1.0, (sec - t0) / max(0.1, t1 - t0))))
+            return f'Satz {i}: „…{" ".join(w[max(0, k - 3):k + 4])}…“'
+    return 'nach dem letzten Satz'
+
+
+def retention(a, cid, vids):
+    """Kurve audienceWatchRatio über elapsedVideoTimeRatio (100 Punkte) für die neuesten Shorts.
+    Werte >100 % sind bei Shorts normal (Wiederholungen/Loop)."""
+    timed = _lines(cid)
+    shorts = [v for v in vids.values() if v['seconds'] <= 180 and v['views'] >= RET_MIN_VIEWS]
+    out = []
+    for v in sorted(shorts, key=lambda v: v['published'], reverse=True)[:RET_MAX]:
+        try:
+            rep = a.reports().query(ids='channel==MINE', startDate='2020-01-01', endDate=TODAY, metrics='audienceWatchRatio',
+                                    dimensions='elapsedVideoTimeRatio', filters=f"video=={v['id']}").execute()
+        except Exception as ex:
+            print(f"{cid}: Retention-Fehler {v['id']} {str(ex)[:100]}")
+            continue
+        pts = sorted((r[0], r[1]) for r in rep.get('rows', []))
+        if len(pts) < 10:
+            continue
+        dur = timed.get(v['id'], {}).get('duration') or v['seconds']
+        sec = [r * dur for r, _ in pts]
+        w = [100 * x for _, x in pts]
+        i3 = min(range(len(sec)), key=lambda i: abs(sec[i] - 3))
+        drops = sorted(((w[i - 1] - w[i], i) for i in range(max(1, i3), len(w) - 1)), reverse=True)[:2]
+        u = timed.get(v['id'])
+        out.append(dict(id=v['id'], title=v['title'], views=v['views'], start=round(w[0]), at3s=round(w[i3]),
+                        mid=round(w[len(w) // 2]), end=round(w[-1]),
+                        cliffs=[dict(sec=round(sec[i], 1), drop=round(d, 1), said=_said(u, sec[i])) for d, i in drops if d > 0],
+                        curve=[[round(s, 1), round(x)] for s, x in zip(sec[::5], w[::5])]))
+    return out
+
+
+def _retention_md(name, rows):
+    md = [f'## {name}', '']
+    if not rows:
+        return md + [f'(noch keine Kurven – Shorts brauchen ≥ {RET_MIN_VIEWS} Views und 1–2 Tage)', '']
+    md += ['| Short | Views | Start % | nach 3 s % | Mitte % | Ende % | Größter Abbruch (Sekunde, gesprochen) |',
+           '|---|---:|---:|---:|---:|---:|---|']
+    for r in rows:
+        c = '; '.join(f"{x['sec']} s (−{x['drop']}) {x['said']}" for x in r['cliffs']) or '–'
+        md.append(f"| {r['title'][:50]} | {r['views']} | {r['start']} | {r['at3s']} | {r['mid']} | {r['end']} | {c} |")
+    return md + ['']
+
+
 # ---------------------------------------------------------------- eigene Kanäle
 def stats():
     OUT.mkdir(parents=True, exist_ok=True)
@@ -81,6 +149,10 @@ def stats():
     md = [f'# Eigene Kanäle – Zahlen', '', f'Stand: {dt.datetime.utcnow():%Y-%m-%d %H:%M} UTC. '
           'Stayed = engagedViews/views (≈ „Stayed to watch“). Analytics-Zahlen hängen 1–2 Tage hinterher, '
           'Views (live) kommen direkt aus der Data-API.', '']
+    ret_md = ['# Zuschauerbindung der Shorts', '', f'Stand: {dt.datetime.utcnow():%Y-%m-%d %H:%M} UTC. '
+              'Werte = Anteil der Zuschauer, der an dieser Stelle noch zuschaut (YouTube audienceWatchRatio; über 100 % '
+              '= Wiederholungen/Loop). „nach 3 s“ niedrig = Hook-Problem; „Größter Abbruch“ = Sekunde mit dem steilsten '
+              'Verlust und der Satz, der dort gesprochen wurde (nur Studio-Episoden mit gespeicherten Satz-Zeiten).', '']
     for ch in S.registry():
         cid = ch['id']
         if cid not in toks:
@@ -108,6 +180,9 @@ def stats():
                                  stayed=round(100 * d['engagedViews'] / max(1, d['views']), 1))
             except Exception as ex:
                 print(f'{cid}: Analytics-Fehler {str(ex)[:120]}')
+            ret = retention(a, cid, vids)
+            (OUT / f'retention-{cid}.json').write_text(json.dumps(ret, ensure_ascii=False, indent=1), encoding='utf-8')
+            ret_md += _retention_md(ch['name'], ret)
             st = item['statistics']
             data = {'id': cid, 'name': ch['name'], 'checked': TODAY, 'subs': int(st.get('subscriberCount', 0)),
                     'views': int(st.get('viewCount', 0)), 'videos': sorted(vids.values(), key=lambda v: v['published'], reverse=True)}
@@ -123,6 +198,7 @@ def stats():
         except Exception as ex:
             print(f'{cid}: Fehler {str(ex)[:160]}')
     (OUT / 'stats.md').write_text('\n'.join(md), encoding='utf-8')
+    (OUT / 'retention.md').write_text('\n'.join(ret_md), encoding='utf-8')
 
 
 # ---------------------------------------------------------------- Konkurrenz
