@@ -121,7 +121,12 @@ def retention(a, cid, vids):
         sec = [r * dur for r, _ in pts]
         w = [100 * x for _, x in pts]
         i3 = min(range(len(sec)), key=lambda i: abs(sec[i] - 3))
-        drops = sorted(((w[i - 1] - w[i], i) for i in range(max(1, i3), len(w) - 1)), reverse=True)[:2]
+        drops = []                                      # the 2 steepest drops, at least 3 s apart
+        for d, i in sorted(((w[i - 1] - w[i], i) for i in range(max(1, i3), len(w) - 1)), reverse=True):
+            if all(abs(sec[i] - sec[j]) >= 3 for _, j in drops):
+                drops.append((d, i))
+            if len(drops) == 2:
+                break
         u = timed.get(v['id'])
         out.append(dict(id=v['id'], title=v['title'], views=v['views'], start=round(w[0]), at3s=round(w[i3]),
                         mid=round(w[len(w) // 2]), end=round(w[-1]),
