@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-23 22:31
+# Zuschauer-Kommentare – Stand 2026-11-23 23:49
 
-Letzte 21 Tage, ohne unsere eigenen. 26 Kommentare, 3 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 27 Kommentare, 3 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 4/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 3/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
@@ -28,8 +29,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (9)
+## SCORE (10)
 
+- 2026-11-23 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @JetsBigAdventures · id `UgxQ4Q0fN4LZfw-L3PZ4AaABAg`  
+  „4/4“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @BashyWashy29 **[OFFEN]** · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdZxvQ9M9Uh`  
   „4/4“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @FilipMagnes · id `UgxPMnS2UhFKX9nvPkV4AaABAg`  
