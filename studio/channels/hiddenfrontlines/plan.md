@@ -14,7 +14,7 @@ Pattern: one absurd-but-real object, shown big, explained in one breath, ends wi
 
 ## Next 3 episodes
 1. 002-habakkuk – "Britain Tried to Build an Aircraft Carrier Out of Ice #shorts". Hook: "In 1943, Britain tried to build a warship out of ice." Facts: Project Habakkuk, Geoffrey Pyke, pykrete (ice + wood pulp), small prototype on Patricia Lake (Jasper, Canada) 1943, cancelled (cost/steel needs). Stamp "CANCELLED". Why: competitor H1jn5LPXiKQ pattern (weird hardware). (written: 002-habakkuk)
-2. 003-bat-bomb – "The US Strapped Bombs to Bats. They Burned Their Own Base. #shorts". Hook: "The plan: drop a million bats on Japan. Each one carrying a firebomb." Facts: Project X-Ray, Lytle Adams; 1943 bats escaped and set fire to the Carlsbad Army Airfield auxiliary base (New Mexico); cancelled 1944. Stamp "OOPS" then "CANCELLED". Why: competitor pattern + humour.
+2. 003-bat-bomb – "The US Strapped Bombs to Bats. They Burned Their Own Base. #shorts". Hook: "The plan: drop a million bats on Japan. Each one carrying a firebomb." Facts: Project X-Ray, Lytle Adams; 1943 bats escaped and set fire to the Carlsbad Army Airfield auxiliary base (New Mexico); cancelled 1944. Stamp "OOPS" then "CANCELLED". Why: competitor pattern + humour. (written: 003-bat-bomb)
 3. 004-project-pigeon – "A Scientist Trained Pigeons to Steer Missiles. It Worked. #shorts". Hook: "Inside this missile's nose: three pigeons. Steering." Facts: Project Pigeon (B. F. Skinner, 1940s, pigeons pecked at a target image on a screen), never used in combat; revived as Project Orcon, cancelled 1953. Text only for Skinner (no likeness). Why: competitor pattern.
 
 ## Experiments
