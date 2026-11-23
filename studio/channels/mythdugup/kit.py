@@ -31,9 +31,10 @@ def _sheet(seed, title, subtitle, stain=(1250, 2300, 160), corner='bl'):
     return c
 
 
-def section(out, name, title, subtitle, layers, seed=21, trench=None, note=None, highlight=(), hump=260):
+def section(out, name, title, subtitle, layers, seed=21, trench=None, note=None, highlight=(), hump=260, extra=None):
     """layers: [(label, date)] from the top down. trench: (x0, x1, depth_layer_index, text, year_text) or None.
-    highlight: indices of layers rubbed with red chalk; note: (text, layer_index)."""
+    highlight: indices of layers rubbed with red chalk; note: (text, layer_index).
+    extra(c, bounds, xs) may draw more (finds in a layer) before the notes stage."""
     c = _sheet(seed, title, subtitle)
     X0, X1 = 110, 1130
     xs = np.linspace(X0, X1, 120)
@@ -90,6 +91,8 @@ def section(out, name, title, subtitle, layers, seed=21, trench=None, note=None,
         c.stage(f'layer_{i:02d}')
     if highlight:
         c.rub(sum(masks[i] for i in highlight), amount=0.32)
+    if extra:
+        extra(c, bounds, xs)
     if note:
         text, k = note
         c.write([text], 1165, float((bounds[k][-1] + bounds[k + 1][-1]) / 2) + 84, size=26, mirror=False, ink=0.9)
