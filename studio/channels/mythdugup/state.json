@@ -1,0 +1,26 @@
+{
+ "uploads": {
+  "001-troy": {
+   "video_id": "NBc-bIQBLMs",
+   "publish_at": "2026-11-23T13:00:00+01:00",
+   "kind": "short",
+   "title": "Everyone Said Troy Was a Myth. Then Someone Dug. #shorts",
+   "uploaded": "2026-11-23T05:53:26+00:00"
+  },
+  "002-pompeii": {
+   "video_id": "_nfmqmTdKoQ",
+   "publish_at": "2026-11-23T19:30:00+01:00",
+   "kind": "short",
+   "title": "This Dog Has Guarded a Door for 2,000 Years #shorts",
+   "uploaded": "2026-11-23T06:00:18+00:00"
+  }
+ },
+ "longs_done": {
+  "001-three-legends": {
+   "video_id": "6kdKeaOFlwQ",
+   "publish_at": "2026-11-23T17:00:00+01:00",
+   "title": "3 Legends That Turned Out to Be Real (Troy, Pompeii, Vinland)",
+   "uploaded": "2026-11-23T06:17:59+00:00"
+  }
+ }
+}
