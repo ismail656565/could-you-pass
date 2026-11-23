@@ -57,9 +57,9 @@
     "subs": 0
    },
    "Karten-VS (TrueSize)": {
-    "n": 4,
-    "avgViews": 820,
-    "medianViews": 978,
+    "n": 5,
+    "avgViews": 856,
+    "medianViews": 1002,
     "bestViews": 1066,
     "stayed": 50.2,
     "avgPct": 75.5,
@@ -311,9 +311,9 @@
     "subs": 0
    },
    "–": {
-    "n": 4,
-    "avgViews": 820,
-    "medianViews": 978,
+    "n": 5,
+    "avgViews": 856,
+    "medianViews": 1002,
     "bestViews": 1066,
     "stayed": 50.2,
     "avgPct": 75.5,
@@ -493,9 +493,9 @@
     "subs": 0
    },
    "comic": {
-    "n": 4,
-    "avgViews": 820,
-    "medianViews": 978,
+    "n": 5,
+    "avgViews": 856,
+    "medianViews": 1002,
     "bestViews": 1066,
     "stayed": 50.2,
     "avgPct": 75.5,
@@ -540,9 +540,9 @@
     "subs": 14.0
    },
    "world-trip.wav": {
-    "n": 17,
-    "avgViews": 486,
-    "medianViews": 258,
+    "n": 18,
+    "avgViews": 514,
+    "medianViews": 356,
     "bestViews": 1189,
     "stayed": 51.5,
     "avgPct": 67.2,
@@ -578,9 +578,9 @@
     "subs": 14.0
    },
    "21:00": {
-    "n": 30,
-    "avgViews": 503,
-    "medianViews": 320,
+    "n": 31,
+    "avgViews": 519,
+    "medianViews": 327,
     "bestViews": 1189,
     "stayed": 51.6,
     "avgPct": 66.7,
@@ -895,7 +895,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 35.0,
+   "ageDays": 35.1,
    "search": null
   },
   {
@@ -1047,7 +1047,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 32.2,
+   "ageDays": 32.3,
    "search": null
   },
   {
@@ -1085,7 +1085,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 31.2,
+   "ageDays": 31.3,
    "search": null
   },
   {
@@ -1161,7 +1161,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 30.2,
+   "ageDays": 30.3,
    "search": null
   },
   {
@@ -2438,6 +2438,25 @@
    "search": 11
   },
   {
+   "file": "2026-11-21-map-lie-5.json",
+   "id": "map-lie-5",
+   "videoId": "d8RgTGhLdqU",
+   "kind": "short",
+   "title": "This Map Is Lying To You #5 🌍 Which Is REALLY Bigger? #shorts",
+   "format": "Karten-VS (TrueSize)",
+   "topic": "–",
+   "layout": "comic",
+   "music": "world-trip.wav",
+   "slot": "21:00",
+   "publicViews": 1002.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 36,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "2026-11-21-six-q-which-first-3.json",
    "id": "six-q-which-first-3",
    "videoId": "uXyl9faBKeg",
@@ -2510,7 +2529,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 26.9,
+   "ageDays": 27.0,
    "search": null
   },
   {
