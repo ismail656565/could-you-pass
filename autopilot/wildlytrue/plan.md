@@ -13,7 +13,7 @@ Competitor Zack D. Films: true odd stories titled "The [Thing] That [Unusual Act
 - Sources: ≥2 per story in story.sources; numbers must match the sources.
 
 ## Next 3 episodes
-1. gameboy-bomb – "This Game Boy Survived a Bomb. It Still Turns On. 🎮 #shorts". Hook "IT STILL WORKS." Facts: Game Boy damaged in the 1991 Gulf War (owned by a soldier/medic), displayed at Nintendo World/Nintendo New York, still played Tetris. Why: exploit (gameboy 1,642, tetris 1,932).
+1. gameboy-bomb – "This Game Boy Survived a Bomb. It Still Turns On. 🎮 #shorts". Hook "IT STILL WORKS." Facts: Game Boy damaged in the 1991 Gulf War (owned by a soldier/medic), displayed at Nintendo World/Nintendo New York, still played Tetris. Why: exploit (gameboy 1,642, tetris 1,932). (written: 2026-11-21-gameboy-bomb.json)
 2. pac-man-name – "Pac-Man's First Name Had to Be Changed 🟡 #shorts". Hook "WRONG NAME." Facts: Japanese release 1980 as "Puck Man"; renamed Pac-Man for the US so arcade signs couldn't be vandalised. Why: exploit (gaming history).
 3. moscow-subway-dogs – "The Stray Dogs That Learned to Ride the Subway 🐕 #shorts". Hook "THEY COMMUTE." Facts: some Moscow stray dogs ride the metro (studied by Andrei Poyarkov's team / A. N. Severtsov Institute). Why: EXPERIMENT – competitor "The X That…" title pattern on animals.
 
