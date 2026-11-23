@@ -1,0 +1,107 @@
+{
+ "id": "flag-duel-3",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts",
+  "description": "Two flags, almost the same – pick the right country before the countdown ends 🌍 Austria, Ecuador, Liechtenstein and Qatar.\nComment your score out of 4 👇\n\nFollow for a new flag duel every few days! 🧠\n\n#flagquiz #flags #geography #countryballs #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "qatar vs bahrain",
+   "haiti vs liechtenstein",
+   "colombia vs ecuador",
+   "austria vs latvia",
+   "geography quiz",
+   "left or right",
+   "shorts"
+  ],
+  "comment": "Which pair fooled you? Comment your score /4 👇"
+ },
+ "story": {
+  "id": "flag-duel-3",
+  "type": "flagduel",
+  "title": "Who Is AUSTRIA? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "Only one in ten get all four.",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 3.0,
+   "move": 0.8,
+   "tail": 0.35
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "AUSTRIA",
+    "a": {
+     "flag": "lv",
+     "name": "Latvia"
+    },
+    "b": {
+     "flag": "at",
+     "name": "Austria"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Austria? Left, or right?",
+     "a": "Right! Bright red, equal stripes."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "ECUADOR",
+    "a": {
+     "flag": "ec",
+     "name": "Ecuador"
+    },
+    "b": {
+     "flag": "co",
+     "name": "Colombia"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Ecuador?",
+     "a": "Left! It has the coat of arms."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "LIECHTENSTEIN",
+    "a": {
+     "flag": "ht",
+     "name": "Haiti"
+    },
+    "b": {
+     "flag": "li",
+     "name": "Liechtenstein"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Liechtenstein?",
+     "a": "Right! The golden crown."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "QATAR",
+    "a": {
+     "flag": "qa",
+     "name": "Qatar"
+    },
+    "b": {
+     "flag": "bh",
+     "name": "Bahrain"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. Who is Qatar?",
+     "a": "Left! Nine points, darker maroon. Follow for flag duel number four!"
+    }
+   }
+  ]
+ }
+}

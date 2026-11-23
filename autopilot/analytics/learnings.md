@@ -727,3 +727,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Thanksgiving-Long nur 37 Views n. ≈1 T → Feiertags-Longs 3+ Wochen vorher; Christmas-Long (exam, 50 Q) Do 26.11.
 - Karten-VS weiter 0 Abos in Analytics (4 Videos) → Bewährung bis map-lie-9; < 0,5/1.000 → 21:00 abwechselnd Flag Duel ab 30.11.
 - Kommentare 2/2 beantwortet (16 gesamt), kein Faktenfehler.
+
+## 2026-11-23 07:30 – Produktion (Queue 26./27.11.)
+- Technik: alle Läufe 22.11. grün; 22.11. (So, kein Long-Tag) = 2 Shorts (flag-duel-1 16:00, map-lie-6 21:00) – Soll erfüllt. Heute (Mo) liegen flag-duel-2 + map-lie-7 bereit. Kein Code-Fix nötig.
+- Shorts: Flag Duel #1 1.760 Views n. 7 h, 80,5 % angesehen, 59,6 % stayed, +6 Abos (≈3,4/1.000) – bestes Short-Format; ≤45-s-Shorts stabil ≈1.000.
+- Longs: Thanksgiving-Long 37 Views n. 1 T vs. Rätsel-Long #1 194 → Feiertags-Long früher; Christmas-Long (exam) Do 26.11. angelegt (Abos/1.000 Longs ≈3,8 vs. Shorts ≈0,6).
+- Thumbnails: CTR per API weiter HttpError 400; Christmas-Long ohne Foto (kein Weihnachtsbild in image-credits.json) → TvThumb mit 🎄, B „CAN YOU GET 40/50?“ zuerst.
+- Angelegt: christmas-quiz-50-1 (Duplikat-grep strich A Christmas Carol/Dickens, Trafalgar-Baum, Nightmare-Regisseur, Snowman), flag-duel-3 (Plan-Paare, alle 8 SVGs vorhanden), map-lie-10 (Mongolia/Alaska verworfen: offiziell Alaska größer, Kontrolle Mongolei größer → Widerspruch; Iran/Mongolia nur 4 % Kontrolle). one-q-further-west → 27.11.
+- vidIQ heute nicht erneut abgefragt (Manager-Plan 23.11. hat die Montags-Keywords schon: „flag quiz“ 131.700/Monat).
