@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-23 20:06
+# Zuschauer-Kommentare – Stand 2026-11-23 21:15
 
-Letzte 21 Tage, ohne unsere eigenen. 25 Kommentare, 3 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 25 Kommentare, 2 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -29,7 +29,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SCORE (8)
 
-- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @FilipMagnes **[OFFEN]** · id `UgxPMnS2UhFKX9nvPkV4AaABAg`  
+- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @FilipMagnes · id `UgxPMnS2UhFKX9nvPkV4AaABAg`  
   „3/4“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @Wolfy2026-7wc **[OFFEN]** · id `UgxZsINo0ci1outXNAF4AaABAg`  
   „4/4“
