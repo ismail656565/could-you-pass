@@ -3,6 +3,8 @@ name: Wildly True Autopilot
 on:
   schedule:
     - cron: '40 9 * * *'    # 10:40 Berlin (Winterzeit): Analytics + 1 Fakten-Short rendern, geplant für 18:00
+    - cron: '13 5 * * *'    # Reserve 06:13 Berlin (GitHub lässt Läufe manchmal aus; max. 1 Upload pro Tag)
+    - cron: '47 12 * * *'   # Reserve 13:47 Berlin
     - cron: '25 17 * * *'   # 18:25 Berlin: Erst-Kommentar, sobald das Short öffentlich ist
   workflow_dispatch:
     inputs:
