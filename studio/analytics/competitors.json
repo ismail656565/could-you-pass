@@ -1,11 +1,47 @@
 {
  "_info": "Pro Kanal Konkurrenz-Handles (@name) oder Kanal-IDs (UC...). Pflegt der Kanal-Manager.",
  "channels": {
-  "mythdugup": [],
-  "perceptlab": [],
-  "hiddenfrontlines": [],
-  "humanlimit": [],
-  "plotmelt": [],
-  "wildlytrue": []
+  "mythdugup": [
+   "@AncientArchitects",
+   "@WorldHistoryEncyclopedia",
+   "@HistoryTime",
+   "@SeeUinHistory",
+   "@KingsandGenerals"
+  ],
+  "perceptlab": [
+   "@MindWarehouse",
+   "@Psych2Go",
+   "@MindYourDecisions",
+   "@AsapSCIENCE",
+   "@BeAmazed"
+  ],
+  "hiddenfrontlines": [
+   "@Yarnhub",
+   "@SimpleHistory",
+   "@TheArmchairHistorian",
+   "@MarkFeltonProductions",
+   "@OperationsRoom"
+  ],
+  "humanlimit": [
+   "@BodyScribble",
+   "@ZackDFilms",
+   "@TheInfographicsShow",
+   "@WhatIfShow",
+   "@AsapSCIENCE"
+  ],
+  "plotmelt": [
+   "@Cartoonbox",
+   "@StoryBooth",
+   "@MSAPreviously",
+   "@Haminations",
+   "@MyStoryAnimated"
+  ],
+  "wildlytrue": [
+   "@ZackDFilms",
+   "@WeirdHistory",
+   "@FactsVerse",
+   "@BeAmazed",
+   "@ThoughtyTwo"
+  ]
  }
 }
