@@ -1,16 +1,7 @@
 {
- "fetched": "2026-11-23T06:18",
+ "fetched": "2026-11-23T19:18",
  "groups": {
   "short.format": {
-   "6+ Fragen": {
-    "n": 24,
-    "avgViews": 600,
-    "medianViews": 296,
-    "bestViews": 1556,
-    "stayed": 50.8,
-    "avgPct": 53.5,
-    "subs": 13.0
-   },
    "3 Fragen": {
     "n": 3,
     "avgViews": 340,
@@ -19,6 +10,15 @@
     "stayed": 39.5,
     "avgPct": 64.8,
     "subs": 0
+   },
+   "6+ Fragen": {
+    "n": 24,
+    "avgViews": 583,
+    "medianViews": 296,
+    "bestViews": 1556,
+    "stayed": 50.5,
+    "avgPct": 53.2,
+    "subs": 13.0
    },
    "4-Fragen-Trap": {
     "n": 9,
@@ -60,7 +60,7 @@
     "n": 4,
     "avgViews": 820,
     "medianViews": 978,
-    "bestViews": 1065,
+    "bestViews": 1066,
     "stayed": 50.2,
     "avgPct": 75.5,
     "subs": 1.0
@@ -76,15 +76,6 @@
    }
   },
   "short.topic": {
-   "GENIUS TEST": {
-    "n": 1,
-    "avgViews": 1435,
-    "medianViews": 1435,
-    "bestViews": 1435,
-    "stayed": 57.1,
-    "avgPct": 61.1,
-    "subs": 0
-   },
    "HALLOWEEN TRIVIA": {
     "n": 3,
     "avgViews": 344,
@@ -95,9 +86,9 @@
     "subs": 0
    },
    "WHICH CAME FIRST?": {
-    "n": 2,
-    "avgViews": 698,
-    "medianViews": 698,
+    "n": 3,
+    "avgViews": 805,
+    "medianViews": 1019,
     "bestViews": 1236,
     "stayed": 62.5,
     "avgPct": 47.7,
@@ -323,7 +314,7 @@
     "n": 4,
     "avgViews": 820,
     "medianViews": 978,
-    "bestViews": 1065,
+    "bestViews": 1066,
     "stayed": 50.2,
     "avgPct": 75.5,
     "subs": 1.0
@@ -411,45 +402,45 @@
    },
    "USA QUIZ": {
     "n": 1,
-    "avgViews": 288,
-    "medianViews": 288,
-    "bestViews": 288,
+    "avgViews": 289,
+    "medianViews": 289,
+    "bestViews": 289,
     "stayed": 47.9,
     "avgPct": 56.9,
     "subs": 0
    },
    "CAPITALS QUIZ": {
     "n": 1,
-    "avgViews": 1052,
-    "medianViews": 1052,
-    "bestViews": 1052,
+    "avgViews": 1054,
+    "medianViews": 1054,
+    "bestViews": 1054,
     "stayed": 52.7,
-    "avgPct": 71.7,
+    "avgPct": 71.8,
     "subs": 2.0
    },
    "TRICKY QUIZ": {
     "n": 1,
-    "avgViews": 952,
-    "medianViews": 952,
-    "bestViews": 952,
-    "stayed": 51.9,
-    "avgPct": 68.2,
+    "avgViews": 953,
+    "medianViews": 953,
+    "bestViews": 953,
+    "stayed": 51.1,
+    "avgPct": 69.1,
     "subs": 1.0
    },
    "GEOGRAPHY TRIVIA": {
     "n": 1,
-    "avgViews": 1035,
-    "medianViews": 1035,
-    "bestViews": 1035,
+    "avgViews": 1037,
+    "medianViews": 1037,
+    "bestViews": 1037,
     "stayed": 45.6,
-    "avgPct": 63.1,
+    "avgPct": 63.0,
     "subs": 0
    },
    "IQ QUIZ": {
     "n": 1,
-    "avgViews": 1014,
-    "medianViews": 1014,
-    "bestViews": 1014,
+    "avgViews": 1016,
+    "medianViews": 1016,
+    "bestViews": 1016,
     "stayed": 53.8,
     "avgPct": 61.0,
     "subs": 1.0
@@ -475,18 +466,18 @@
   },
   "short.layout": {
    "neon": {
-    "n": 13,
-    "avgViews": 521,
-    "medianViews": 331,
-    "bestViews": 1435,
-    "stayed": 44.1,
-    "avgPct": 111.5,
+    "n": 12,
+    "avgViews": 445,
+    "medianViews": 329,
+    "bestViews": 1236,
+    "stayed": 43.0,
+    "avgPct": 116.1,
     "subs": 0
    },
    "tvshow": {
-    "n": 29,
-    "avgViews": 575,
-    "medianViews": 454,
+    "n": 30,
+    "avgViews": 589,
+    "medianViews": 469,
     "bestViews": 1223,
     "stayed": 52.5,
     "avgPct": 70.2,
@@ -505,7 +496,7 @@
     "n": 4,
     "avgViews": 820,
     "medianViews": 978,
-    "bestViews": 1065,
+    "bestViews": 1066,
     "stayed": 50.2,
     "avgPct": 75.5,
     "subs": 1.0
@@ -515,15 +506,15 @@
     "avgViews": 404,
     "medianViews": 192,
     "bestViews": 1556,
-    "stayed": 45.2,
+    "stayed": 45.1,
     "avgPct": 55.2,
     "subs": 6.0
    },
    "pop": {
     "n": 3,
-    "avgViews": 496,
-    "medianViews": 288,
-    "bestViews": 1052,
+    "avgViews": 497,
+    "medianViews": 289,
+    "bestViews": 1054,
     "stayed": 49.0,
     "avgPct": 54.1,
     "subs": 2.0
@@ -531,18 +522,18 @@
   },
   "short.music": {
    "brain-pulse.wav": {
-    "n": 20,
-    "avgViews": 474,
-    "medianViews": 322,
-    "bestViews": 1435,
-    "stayed": 47.1,
-    "avgPct": 91.9,
+    "n": 19,
+    "avgViews": 423,
+    "medianViews": 316,
+    "bestViews": 1236,
+    "stayed": 46.5,
+    "avgPct": 93.6,
     "subs": 3.0
    },
    "game-show.wav": {
-    "n": 28,
-    "avgViews": 598,
-    "medianViews": 424,
+    "n": 29,
+    "avgViews": 613,
+    "medianViews": 429,
     "bestViews": 1556,
     "stayed": 49.0,
     "avgPct": 65.5,
@@ -551,7 +542,7 @@
    "world-trip.wav": {
     "n": 17,
     "avgViews": 486,
-    "medianViews": 257,
+    "medianViews": 258,
     "bestViews": 1189,
     "stayed": 51.5,
     "avgPct": 67.2,
@@ -560,12 +551,12 @@
   },
   "short.slot": {
    "–": {
-    "n": 2,
-    "avgViews": 966,
-    "medianViews": 966,
-    "bestViews": 1435,
-    "stayed": 47.1,
-    "avgPct": 67.4,
+    "n": 1,
+    "avgViews": 498,
+    "medianViews": 498,
+    "bestViews": 498,
+    "stayed": 37.1,
+    "avgPct": 73.6,
     "subs": 0
    },
    "10:00": {
@@ -578,9 +569,9 @@
     "subs": 0
    },
    "16:00": {
-    "n": 29,
-    "avgViews": 531,
-    "medianViews": 303,
+    "n": 30,
+    "avgViews": 547,
+    "medianViews": 317,
     "bestViews": 1556,
     "stayed": 48.1,
     "avgPct": 70.5,
@@ -588,7 +579,7 @@
    },
    "21:00": {
     "n": 30,
-    "avgViews": 502,
+    "avgViews": 503,
     "medianViews": 320,
     "bestViews": 1189,
     "stayed": 51.6,
@@ -597,15 +588,6 @@
    }
   },
   "long.format": {
-   "20 Fragen": {
-    "n": 2,
-    "avgViews": 7,
-    "medianViews": 7,
-    "bestViews": 8,
-    "stayed": 77.1,
-    "avgPct": 52.8,
-    "subs": 0
-   },
    "35 Fragen": {
     "n": 3,
     "avgViews": 98,
@@ -613,6 +595,15 @@
     "bestViews": 186,
     "stayed": 49.3,
     "avgPct": 25.8,
+    "subs": 0
+   },
+   "20 Fragen": {
+    "n": 1,
+    "avgViews": 8,
+    "medianViews": 8,
+    "bestViews": 8,
+    "stayed": 87.5,
+    "avgPct": 45.4,
     "subs": 0
    },
    "40 Fragen": {
@@ -625,30 +616,30 @@
     "subs": 1.0
    },
    "50 Fragen": {
-    "n": 11,
-    "avgViews": 5,
+    "n": 12,
+    "avgViews": 12,
     "medianViews": 4,
-    "bestViews": 15,
+    "bestViews": 85,
     "stayed": 67.0,
     "avgPct": 44.6,
     "subs": 0
    },
    "12 Fragen": {
     "n": 2,
-    "avgViews": 114,
-    "medianViews": 114,
-    "bestViews": 228,
+    "avgViews": 116,
+    "medianViews": 116,
+    "bestViews": 231,
     "stayed": 80.2,
     "avgPct": 9.7,
     "subs": 0
    },
    "15 Fragen": {
-    "n": 2,
-    "avgViews": 2,
-    "medianViews": 2,
-    "bestViews": 3,
-    "stayed": 66.7,
-    "avgPct": 43.5,
+    "n": 1,
+    "avgViews": 0,
+    "medianViews": 0,
+    "bestViews": 0,
+    "stayed": null,
+    "avgPct": null,
     "subs": 0
    },
    "30 Fragen": {
@@ -671,15 +662,6 @@
    }
   },
   "long.topic": {
-   "Fußball": {
-    "n": 2,
-    "avgViews": 7,
-    "medianViews": 7,
-    "bestViews": 8,
-    "stayed": 77.1,
-    "avgPct": 52.8,
-    "subs": 0
-   },
    "Halloween": {
     "n": 2,
     "avgViews": 117,
@@ -687,6 +669,15 @@
     "bestViews": 186,
     "stayed": 55.5,
     "avgPct": 24.4,
+    "subs": 0
+   },
+   "Fußball": {
+    "n": 1,
+    "avgViews": 8,
+    "medianViews": 8,
+    "bestViews": 8,
+    "stayed": 87.5,
+    "avgPct": 45.4,
     "subs": 0
    },
    "Memory/Alters-Titel": {
@@ -700,9 +691,9 @@
    },
    "IQ-Titel": {
     "n": 2,
-    "avgViews": 127,
-    "medianViews": 127,
-    "bestViews": 228,
+    "avgViews": 128,
+    "medianViews": 128,
+    "bestViews": 231,
     "stayed": 80.5,
     "avgPct": 22.9,
     "subs": 1.0
@@ -754,11 +745,11 @@
    },
    "Sonstiges": {
     "n": 7,
-    "avgViews": 30,
-    "medianViews": 5,
+    "avgViews": 42,
+    "medianViews": 21,
     "bestViews": 133,
-    "stayed": 66.4,
-    "avgPct": 24.5,
+    "stayed": 66.3,
+    "avgPct": 20.7,
     "subs": 2.0
    },
    "Geografie": {
@@ -782,21 +773,21 @@
   },
   "long.layout": {
    "neon": {
-    "n": 8,
-    "avgViews": 42,
-    "medianViews": 17,
+    "n": 7,
+    "avgViews": 48,
+    "medianViews": 26,
     "bestViews": 186,
     "stayed": 66.6,
-    "avgPct": 52.4,
+    "avgPct": 51.3,
     "subs": 1.0
    },
    "tvshow": {
     "n": 18,
-    "avgViews": 21,
-    "medianViews": 5,
-    "bestViews": 228,
-    "stayed": 70.4,
-    "avgPct": 26.5,
+    "avgViews": 26,
+    "medianViews": 6,
+    "bestViews": 231,
+    "stayed": 70.7,
+    "avgPct": 25.4,
     "subs": 0
    },
    "comic": {
@@ -811,21 +802,21 @@
   },
   "long.music": {
    "game-show.wav": {
-    "n": 10,
-    "avgViews": 49,
-    "medianViews": 7,
-    "bestViews": 228,
-    "stayed": 76.7,
-    "avgPct": 27.7,
+    "n": 9,
+    "avgViews": 54,
+    "medianViews": 8,
+    "bestViews": 231,
+    "stayed": 77.8,
+    "avgPct": 24.1,
     "subs": 1.0
    },
    "brain-pulse.wav": {
     "n": 7,
-    "avgViews": 17,
-    "medianViews": 3,
-    "bestViews": 60,
-    "stayed": 74.8,
-    "avgPct": 40.5,
+    "avgViews": 28,
+    "medianViews": 4,
+    "bestViews": 85,
+    "stayed": 76.9,
+    "avgPct": 39.8,
     "subs": 0
    },
    "world-trip.wav": {
@@ -840,21 +831,21 @@
   },
   "long.slot": {
    "–": {
-    "n": 2,
-    "avgViews": 96,
-    "medianViews": 96,
+    "n": 1,
+    "avgViews": 186,
+    "medianViews": 186,
     "bestViews": 186,
-    "stayed": 53.5,
-    "avgPct": 42.5,
+    "stayed": 40.3,
+    "avgPct": 24.7,
     "subs": 0
    },
    "14:00": {
     "n": 25,
-    "avgViews": 28,
-    "medianViews": 8,
-    "bestViews": 228,
-    "stayed": 67.9,
-    "avgPct": 35.2,
+    "avgViews": 31,
+    "medianViews": 13,
+    "bestViews": 231,
+    "stayed": 68.0,
+    "avgPct": 34.8,
     "subs": 3.0
    },
    "19:00": {
@@ -869,44 +860,6 @@
   }
  },
  "videos": [
-  {
-   "file": "2026-10-18-cl-quiz-20.json",
-   "id": "cl-quiz-20",
-   "videoId": "kgWV2rM_BLc",
-   "kind": "long",
-   "title": "Champions League Quiz: Only REAL Fans Get 20/20 🏆⚽",
-   "format": "20 Fragen",
-   "topic": "Fußball",
-   "layout": "neon",
-   "music": "game-show.wav",
-   "slot": "–",
-   "publicViews": 6.0,
-   "engagedShare": 0.667,
-   "avgPct": 60.19,
-   "subs": 0.0,
-   "durationSec": 184,
-   "ageDays": 35.6,
-   "search": null
-  },
-  {
-   "file": "2026-10-18-genius-6-1.json",
-   "id": "genius-6-1",
-   "videoId": "FyEfeQscyqI",
-   "kind": "short",
-   "title": "Only Geniuses Get 6/6 🧠 Hard Trivia Quiz #shorts",
-   "format": "6+ Fragen",
-   "topic": "GENIUS TEST",
-   "layout": "neon",
-   "music": "brain-pulse.wav",
-   "slot": "–",
-   "publicViews": 1435.0,
-   "engagedShare": 0.571,
-   "avgPct": 61.13000000000001,
-   "subs": 0.0,
-   "durationSec": 43,
-   "ageDays": 35.6,
-   "search": null
-  },
   {
    "file": "2026-10-19-halloween-quiz-35.json",
    "id": "halloween-quiz-35",
@@ -923,7 +876,7 @@
    "avgPct": 24.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 34.5,
+   "ageDays": 35.0,
    "search": null
   },
   {
@@ -942,7 +895,7 @@
    "avgPct": 73.58,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 34.5,
+   "ageDays": 35.0,
    "search": null
   },
   {
@@ -961,7 +914,7 @@
    "avgPct": 45.37,
    "subs": 0.0,
    "durationSec": 207,
-   "ageDays": 34.8,
+   "ageDays": 35.3,
    "search": null
   },
   {
@@ -980,7 +933,7 @@
    "avgPct": 46.25,
    "subs": 0.0,
    "durationSec": 46,
-   "ageDays": 34.9,
+   "ageDays": 35.5,
    "search": null
   },
   {
@@ -999,7 +952,7 @@
    "avgPct": 56.830000000000005,
    "subs": 0.0,
    "durationSec": 24,
-   "ageDays": 33.9,
+   "ageDays": 34.5,
    "search": null
   },
   {
@@ -1018,7 +971,7 @@
    "avgPct": 28.499999999999996,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 33.8,
+   "ageDays": 34.3,
    "search": null
   },
   {
@@ -1037,7 +990,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 32.8,
+   "ageDays": 33.3,
    "search": null
   },
   {
@@ -1056,7 +1009,7 @@
    "avgPct": 213.79000000000002,
    "subs": 0.0,
    "durationSec": 35,
-   "ageDays": 32.9,
+   "ageDays": 33.5,
    "search": null
   },
   {
@@ -1075,7 +1028,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 31.8,
+   "ageDays": 32.3,
    "search": null
   },
   {
@@ -1094,7 +1047,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 31.7,
+   "ageDays": 32.2,
    "search": null
   },
   {
@@ -1113,7 +1066,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 31.5,
+   "ageDays": 32.0,
    "search": null
   },
   {
@@ -1132,7 +1085,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 30.7,
+   "ageDays": 31.2,
    "search": null
   },
   {
@@ -1151,7 +1104,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 30.8,
+   "ageDays": 31.3,
    "search": null
   },
   {
@@ -1170,7 +1123,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 30.5,
+   "ageDays": 31.0,
    "search": null
   },
   {
@@ -1189,7 +1142,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 29.8,
+   "ageDays": 30.3,
    "search": null
   },
   {
@@ -1208,7 +1161,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 29.7,
+   "ageDays": 30.2,
    "search": null
   },
   {
@@ -1227,7 +1180,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 29.5,
+   "ageDays": 30.0,
    "search": null
   },
   {
@@ -1246,7 +1199,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 30.0,
+   "ageDays": 30.6,
    "search": null
   },
   {
@@ -1265,7 +1218,7 @@
    "avgPct": 95.46,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 28.6,
+   "ageDays": 29.2,
    "search": null
   },
   {
@@ -1284,7 +1237,7 @@
    "avgPct": 54.63,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 28.7,
+   "ageDays": 29.3,
    "search": null
   },
   {
@@ -1303,7 +1256,7 @@
    "avgPct": 58.01,
    "subs": 0.0,
    "durationSec": 39,
-   "ageDays": 28.4,
+   "ageDays": 29.0,
    "search": null
   },
   {
@@ -1322,7 +1275,7 @@
    "avgPct": 31.629999999999995,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 27.7,
+   "ageDays": 28.3,
    "search": null
   },
   {
@@ -1341,7 +1294,7 @@
    "avgPct": 71.99,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 27.6,
+   "ageDays": 28.2,
    "search": null
   },
   {
@@ -1360,7 +1313,7 @@
    "avgPct": 42.79,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 27.4,
+   "ageDays": 28.0,
    "search": null
   },
   {
@@ -1379,7 +1332,7 @@
    "avgPct": 0.0,
    "subs": 0.0,
    "durationSec": 628,
-   "ageDays": 23.7,
+   "ageDays": 24.3,
    "search": null
   },
   {
@@ -1398,7 +1351,7 @@
    "avgPct": 77.11,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 23.6,
+   "ageDays": 24.2,
    "search": null
   },
   {
@@ -1417,7 +1370,7 @@
    "avgPct": 80.24,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 23.4,
+   "ageDays": 24.0,
    "search": null
   },
   {
@@ -1436,7 +1389,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 278,
-   "ageDays": 22.7,
+   "ageDays": 23.3,
    "search": null
   },
   {
@@ -1455,7 +1408,7 @@
    "avgPct": 88.36,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 22.6,
+   "ageDays": 23.2,
    "search": null
   },
   {
@@ -1474,7 +1427,7 @@
    "avgPct": 67.43,
    "subs": 1.0,
    "durationSec": 40,
-   "ageDays": 22.4,
+   "ageDays": 23.0,
    "search": null
   },
   {
@@ -1493,7 +1446,7 @@
    "avgPct": 51.41,
    "subs": 1.0,
    "durationSec": 45,
-   "ageDays": 21.6,
+   "ageDays": 22.2,
    "search": null
   },
   {
@@ -1512,7 +1465,7 @@
    "avgPct": 92.89,
    "subs": 0.0,
    "durationSec": 40,
-   "ageDays": 21.4,
+   "ageDays": 22.0,
    "search": null
   },
   {
@@ -1531,7 +1484,7 @@
    "avgPct": 33.51,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 21.7,
+   "ageDays": 22.3,
    "search": null
   },
   {
@@ -1550,7 +1503,7 @@
    "avgPct": 91.14,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 20.6,
+   "ageDays": 21.2,
    "search": null
   },
   {
@@ -1569,7 +1522,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 381,
-   "ageDays": 20.7,
+   "ageDays": 21.3,
    "search": null
   },
   {
@@ -1588,7 +1541,7 @@
    "avgPct": 66.25,
    "subs": 0.0,
    "durationSec": 45,
-   "ageDays": 20.4,
+   "ageDays": 21.0,
    "search": null
   },
   {
@@ -1607,7 +1560,7 @@
    "avgPct": 53.53,
    "subs": 0.0,
    "durationSec": 649,
-   "ageDays": 19.7,
+   "ageDays": 20.3,
    "search": null
   },
   {
@@ -1626,7 +1579,7 @@
    "avgPct": 49.24,
    "subs": 0.0,
    "durationSec": 57,
-   "ageDays": 19.6,
+   "ageDays": 20.2,
    "search": null
   },
   {
@@ -1645,26 +1598,7 @@
    "avgPct": 44.8,
    "subs": 1.0,
    "durationSec": 40,
-   "ageDays": 19.4,
-   "search": null
-  },
-  {
-   "file": "2026-11-04-gk-well-educated-5-15.json",
-   "id": "gk-well-educated-5-15",
-   "videoId": "ifkBW33NomU",
-   "kind": "long",
-   "title": "Are You Well Educated? Hard Quiz – Score 5/15 to Pass 🎓",
-   "format": "15 Fragen",
-   "topic": "Sonstiges",
-   "layout": "tvshow",
-   "music": "brain-pulse.wav",
-   "slot": "14:00",
-   "publicViews": 3.0,
-   "engagedShare": 0.667,
-   "avgPct": 43.47,
-   "subs": 0.0,
-   "durationSec": 388,
-   "ageDays": 18.7,
+   "ageDays": 20.0,
    "search": null
   },
   {
@@ -1683,7 +1617,7 @@
    "avgPct": 45.65,
    "subs": 2.0,
    "durationSec": 51,
-   "ageDays": 18.6,
+   "ageDays": 19.2,
    "search": null
   },
   {
@@ -1702,7 +1636,7 @@
    "avgPct": 60.6,
    "subs": 2.0,
    "durationSec": 41,
-   "ageDays": 18.4,
+   "ageDays": 19.0,
    "search": null
   },
   {
@@ -1721,7 +1655,7 @@
    "avgPct": 2.23,
    "subs": 0.0,
    "durationSec": 646,
-   "ageDays": 17.7,
+   "ageDays": 18.3,
    "search": null
   },
   {
@@ -1740,7 +1674,7 @@
    "avgPct": 39.67,
    "subs": 0.0,
    "durationSec": 52,
-   "ageDays": 17.6,
+   "ageDays": 18.2,
    "search": null
   },
   {
@@ -1759,7 +1693,7 @@
    "avgPct": 52.61,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 17.4,
+   "ageDays": 18.0,
    "search": null
   },
   {
@@ -1778,7 +1712,7 @@
    "avgPct": 11.39,
    "subs": 0.0,
    "durationSec": 683,
-   "ageDays": 16.5,
+   "ageDays": 17.1,
    "search": null
   },
   {
@@ -1797,7 +1731,7 @@
    "avgPct": 58.39,
    "subs": 0.0,
    "durationSec": 53,
-   "ageDays": 16.6,
+   "ageDays": 17.2,
    "search": null
   },
   {
@@ -1816,7 +1750,7 @@
    "avgPct": 55.91,
    "subs": 0.0,
    "durationSec": 47,
-   "ageDays": 16.4,
+   "ageDays": 17.0,
    "search": null
   },
   {
@@ -1835,7 +1769,7 @@
    "avgPct": 23.81,
    "subs": 0.0,
    "durationSec": 385,
-   "ageDays": 15.7,
+   "ageDays": 16.3,
    "search": null
   },
   {
@@ -1854,7 +1788,7 @@
    "avgPct": 54.15,
    "subs": 1.0,
    "durationSec": 44,
-   "ageDays": 15.6,
+   "ageDays": 16.2,
    "search": null
   },
   {
@@ -1873,7 +1807,7 @@
    "avgPct": 82.77,
    "subs": 2.0,
    "durationSec": 42,
-   "ageDays": 15.4,
+   "ageDays": 16.0,
    "search": null
   },
   {
@@ -1892,7 +1826,7 @@
    "avgPct": 58.37,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 14.6,
+   "ageDays": 15.2,
    "search": null
   },
   {
@@ -1911,7 +1845,7 @@
    "avgPct": 6.480000000000001,
    "subs": 0.0,
    "durationSec": 402,
-   "ageDays": 14.7,
+   "ageDays": 15.3,
    "search": null
   },
   {
@@ -1930,7 +1864,7 @@
    "avgPct": 65.07,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 14.4,
+   "ageDays": 15.0,
    "search": null
   },
   {
@@ -1949,7 +1883,7 @@
    "avgPct": 18.69,
    "subs": 0.0,
    "durationSec": 380,
-   "ageDays": 13.7,
+   "ageDays": 14.3,
    "search": null
   },
   {
@@ -1968,7 +1902,7 @@
    "avgPct": 47.55,
    "subs": 0.0,
    "durationSec": 48,
-   "ageDays": 13.6,
+   "ageDays": 14.2,
    "search": null
   },
   {
@@ -1987,7 +1921,7 @@
    "avgPct": 64.79,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 13.4,
+   "ageDays": 14.0,
    "search": null
   },
   {
@@ -2006,7 +1940,7 @@
    "avgPct": 81.43,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 12.4,
+   "ageDays": 13.0,
    "search": null
   },
   {
@@ -2025,7 +1959,7 @@
    "avgPct": 34.52,
    "subs": 0.0,
    "durationSec": 219,
-   "ageDays": 12.7,
+   "ageDays": 13.3,
    "search": null
   },
   {
@@ -2044,7 +1978,7 @@
    "avgPct": 10.8,
    "subs": 0.0,
    "durationSec": 404,
-   "ageDays": 10.7,
+   "ageDays": 11.3,
    "search": null
   },
   {
@@ -2063,7 +1997,7 @@
    "avgPct": 52.53,
    "subs": 5.0,
    "durationSec": 48,
-   "ageDays": 12.6,
+   "ageDays": 13.2,
    "search": null
   },
   {
@@ -2082,7 +2016,7 @@
    "avgPct": 20.9,
    "subs": 0.0,
    "durationSec": 424,
-   "ageDays": 8.7,
+   "ageDays": 9.3,
    "search": null
   },
   {
@@ -2101,7 +2035,7 @@
    "avgPct": 55.99000000000001,
    "subs": 0.0,
    "durationSec": 54,
-   "ageDays": 11.6,
+   "ageDays": 12.2,
    "search": null
   },
   {
@@ -2120,7 +2054,7 @@
    "avgPct": 57.00999999999999,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 11.4,
+   "ageDays": 12.0,
    "search": null
   },
   {
@@ -2139,7 +2073,7 @@
    "avgPct": 38.46,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 10.4,
+   "ageDays": 11.0,
    "search": null
   },
   {
@@ -2158,7 +2092,7 @@
    "avgPct": 56.720000000000006,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 10.6,
+   "ageDays": 11.2,
    "search": null
   },
   {
@@ -2177,7 +2111,7 @@
    "avgPct": 39.93,
    "subs": 0.0,
    "durationSec": 58,
-   "ageDays": 9.6,
+   "ageDays": 10.2,
    "search": null
   },
   {
@@ -2196,7 +2130,7 @@
    "avgPct": 61.03000000000001,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 9.4,
+   "ageDays": 10.0,
    "search": null
   },
   {
@@ -2215,7 +2149,7 @@
    "avgPct": 74.1,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 8.4,
+   "ageDays": 9.0,
    "search": null
   },
   {
@@ -2234,7 +2168,7 @@
    "avgPct": 45.92,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 8.6,
+   "ageDays": 9.2,
    "search": null
   },
   {
@@ -2253,7 +2187,7 @@
    "avgPct": 43.73,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 7.6,
+   "ageDays": 8.2,
    "search": null
   },
   {
@@ -2272,7 +2206,7 @@
    "avgPct": 47.8,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 7.4,
+   "ageDays": 8.0,
    "search": null
   },
   {
@@ -2291,7 +2225,7 @@
    "avgPct": 33.6,
    "subs": 0.0,
    "durationSec": 56,
-   "ageDays": 6.6,
+   "ageDays": 7.2,
    "search": null
   },
   {
@@ -2310,7 +2244,7 @@
    "avgPct": 60.58,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 6.4,
+   "ageDays": 7.0,
    "search": null
   },
   {
@@ -2329,8 +2263,8 @@
    "avgPct": 27.36,
    "subs": 2.0,
    "durationSec": 217,
-   "ageDays": 5.7,
-   "search": 3
+   "ageDays": 6.3,
+   "search": null
   },
   {
    "file": "2026-11-17-six-q-genius-geography.json",
@@ -2348,8 +2282,8 @@
    "avgPct": 81.27,
    "subs": 0.0,
    "durationSec": 58,
-   "ageDays": 5.6,
-   "search": 2
+   "ageDays": 6.2,
+   "search": null
   },
   {
    "file": "2026-11-17-six-q-genius-usa-pop.json",
@@ -2362,12 +2296,12 @@
    "layout": "pop",
    "music": "game-show.wav",
    "slot": "21:00",
-   "publicViews": 288.0,
+   "publicViews": 289.0,
    "engagedShare": 0.479,
    "avgPct": 56.88999999999999,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 5.4,
+   "ageDays": 6.0,
    "search": 12
   },
   {
@@ -2381,12 +2315,12 @@
    "layout": "pop",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1052.0,
+   "publicViews": 1054.0,
    "engagedShare": 0.527,
-   "avgPct": 71.67,
+   "avgPct": 71.77,
    "subs": 2.0,
    "durationSec": 38,
-   "ageDays": 4.6,
+   "ageDays": 5.2,
    "search": 19
   },
   {
@@ -2400,12 +2334,12 @@
    "layout": "atlas",
    "music": "game-show.wav",
    "slot": "21:00",
-   "publicViews": 952.0,
-   "engagedShare": 0.519,
-   "avgPct": 68.17,
+   "publicViews": 953.0,
+   "engagedShare": 0.511,
+   "avgPct": 69.07,
    "subs": 1.0,
    "durationSec": 41,
-   "ageDays": 4.4,
+   "ageDays": 5.0,
    "search": 8
   },
   {
@@ -2419,12 +2353,12 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "14:00",
-   "publicViews": 228.0,
+   "publicViews": 231.0,
    "engagedShare": 0.802,
    "avgPct": 9.72,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 3.5,
+   "ageDays": 4.1,
    "search": null
   },
   {
@@ -2438,12 +2372,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 257.0,
-   "engagedShare": 0.454,
+   "publicViews": 258.0,
+   "engagedShare": 0.456,
    "avgPct": 72.76,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 3.4,
+   "ageDays": 4.0,
    "search": 7
   },
   {
@@ -2457,12 +2391,12 @@
    "layout": "atlas",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1035.0,
+   "publicViews": 1037.0,
    "engagedShare": 0.456,
-   "avgPct": 63.1,
+   "avgPct": 63.029999999999994,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 3.6,
+   "ageDays": 4.1,
    "search": 30
   },
   {
@@ -2476,12 +2410,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 1065.0,
+   "publicViews": 1066.0,
    "engagedShare": 0.497,
    "avgPct": 73.82,
    "subs": 1.0,
    "durationSec": 36,
-   "ageDays": 2.4,
+   "ageDays": 3.0,
    "search": 11
   },
   {
@@ -2495,13 +2429,51 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1014.0,
+   "publicViews": 1016.0,
    "engagedShare": 0.538,
    "avgPct": 60.95,
    "subs": 1.0,
    "durationSec": 44,
-   "ageDays": 2.6,
+   "ageDays": 3.2,
    "search": 11
+  },
+  {
+   "file": "2026-11-21-six-q-which-first-3.json",
+   "id": "six-q-which-first-3",
+   "videoId": "uXyl9faBKeg",
+   "kind": "short",
+   "title": "Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts",
+   "format": "6+ Fragen",
+   "topic": "WHICH CAME FIRST?",
+   "layout": "tvshow",
+   "music": "game-show.wav",
+   "slot": "16:00",
+   "publicViews": 1019.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 42,
+   "ageDays": 2.2,
+   "search": null
+  },
+  {
+   "file": "2026-11-21-thanksgiving-quiz-50-1.json",
+   "id": "thanksgiving-quiz-50-1",
+   "videoId": "R-Oqrw1B_9o",
+   "kind": "long",
+   "title": "Thanksgiving Trivia Quiz 🦃 50 Questions – Can You Get 40?",
+   "format": "50 Fragen",
+   "topic": "Sonstiges",
+   "layout": "tvshow",
+   "music": "brain-pulse.wav",
+   "slot": "14:00",
+   "publicViews": 85.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 664,
+   "ageDays": 2.3,
+   "search": null
   },
   {
    "file": "auto-2026-10-28-long.json",
@@ -2519,7 +2491,7 @@
    "avgPct": 3.5000000000000004,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 26.4,
+   "ageDays": 26.9,
    "search": null
   },
   {
@@ -2538,7 +2510,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 26.4,
+   "ageDays": 26.9,
    "search": null
   },
   {
@@ -2557,7 +2529,7 @@
    "avgPct": 103.37,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 26.4,
+   "ageDays": 27.0,
    "search": null
   },
   {
@@ -2576,7 +2548,7 @@
    "avgPct": 120.85,
    "subs": 0.0,
    "durationSec": 8,
-   "ageDays": 25.6,
+   "ageDays": 26.2,
    "search": null
   },
   {
@@ -2595,7 +2567,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 24.5,
+   "ageDays": 25.0,
    "search": null
   },
   {
@@ -2614,7 +2586,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 24.5,
+   "ageDays": 25.1,
    "search": null
   },
   {
@@ -2633,7 +2605,7 @@
    "avgPct": 94.3,
    "subs": 0.0,
    "durationSec": 15,
-   "ageDays": 24.4,
+   "ageDays": 25.0,
    "search": null
   }
  ]

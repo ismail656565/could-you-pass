@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-23 06:18
+# Zuschauer-Kommentare – Stand 2026-11-23 19:18
 
-Letzte 21 Tage, ohne unsere eigenen. 23 Kommentare, 2 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 24 Kommentare, 2 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -43,8 +43,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-10 · This Map Is Lying To You 🌍 Which Is REALLY Bigger? · @RageG23 · id `UgwiIuNyUL_iK-DLhIp4AaABAg`  
   „3/4“
 
-## SONSTIGES (13)
+## SONSTIGES (14)
 
+- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @LinaDuenas-w8x · id `UgzEsRGnUoJ51ajd6Jd4AaABAg`  
+  „4“
 - 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @emanalsulaimani3096 · id `UgwEyaEI9TdThPlk_l54AaABAg`  
   „4 ez“
 - 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @BRIANKL-d8p · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdX9EkWULxt`  

@@ -7,8 +7,8 @@
    "quizzes",
    "quiz dino",
    "quiz blitz",
-   "quiz for kids",
    "quizas si quizas no",
+   "quiz for kids",
    "quiz game for kids",
    "quiz show",
    "quiz rainbow"
@@ -22,37 +22,37 @@
    "trivia quiz",
    "trivia music",
    "trivial pursuit",
-   "trivia movie",
-   "trivia hard"
+   "trivia questions for kids",
+   "trivia questions hard"
   ],
   "general knowledge quiz": [
    "general knowledge quiz",
    "general knowledge quiz hard",
    "general knowledge quiz for kids",
    "general knowledge quiz chunkz",
+   "general knowledge quizzes",
    "general knowledge quiz multiple choice",
    "general knowledge quiz cdl",
    "general knowledge quiz 100 questions",
    "general knowledge quiz beta squad",
-   "general knowledge quiz not multiple choice",
-   "general knowledge quiz asmr"
+   "general knowledge quiz not multiple choice"
   ],
   "animal quiz": [
    "animal quiz",
    "animal quiz for kids",
    "animal quiz game",
+   "animal quizzes",
    "animal quizzes for kids",
    "animal quiz hard",
    "animal quiz challenge",
    "animal quiz lose get wet",
    "animal quiz for toddlers",
-   "animal quiz blitz",
-   "animal quiz videos"
+   "animal quiz blitz"
   ],
   "geography quiz": [
    "geography quiz",
-   "geography quiz hard",
    "geography quiz for kids",
+   "geography quiz hard",
    "geography quiz asmr",
    "geography quiz challenge",
    "geography quizzes",
@@ -76,8 +76,8 @@
   "science quiz": [
    "science quiz",
    "science quiz for grade 5",
-   "science quiz questions",
    "science quiz for kids",
+   "science quiz questions",
    "science quiz for grade 4",
    "science quiz grade 6",
    "science quiz for grade 2",
@@ -172,8 +172,8 @@
  "ranked": [
   {
    "keyword": "true or false quiz",
-   "score": 17.7,
-   "hits": 23
+   "score": 16.9,
+   "hits": 22
   },
   {
    "keyword": "how to make a true or false quiz in scratch",
@@ -181,24 +181,34 @@
    "hits": 6
   },
   {
-   "keyword": "true or false quiz answers",
-   "score": 4.3,
-   "hits": 6
-  },
-  {
-   "keyword": "country guess the country",
-   "score": 4.3,
-   "hits": 8
-  },
-  {
    "keyword": "true or false quiz game",
    "score": 4.0,
    "hits": 5
   },
   {
+   "keyword": "emoji quiz new",
+   "score": 3.8,
+   "hits": 7
+  },
+  {
    "keyword": "geography quiz 8th grade",
-   "score": 3.4,
+   "score": 3.6,
    "hits": 8
+  },
+  {
+   "keyword": "true or false quiz answers",
+   "score": 3.5,
+   "hits": 4
+  },
+  {
+   "keyword": "country guess the country",
+   "score": 3.5,
+   "hits": 6
+  },
+  {
+   "keyword": "animal quiz kids",
+   "score": 3.2,
+   "hits": 7
   },
   {
    "keyword": "history quiz bee",
@@ -207,17 +217,12 @@
   },
   {
    "keyword": "memory test adults",
-   "score": 3.1,
-   "hits": 8
+   "score": 3.0,
+   "hits": 7
   },
   {
-   "keyword": "history quizzes",
-   "score": 3.0,
-   "hits": 5
-  },
-  {
-   "keyword": "interactive true or false quiz game in ms powerpoint",
-   "score": 3.0,
+   "keyword": "history quiz",
+   "score": 2.9,
    "hits": 4
   },
   {
@@ -226,24 +231,19 @@
    "hits": 3
   },
   {
-   "keyword": "question true or false",
+   "keyword": "interactive true or false quiz game in ms powerpoint",
    "score": 2.9,
    "hits": 4
   },
   {
-   "keyword": "emoji quiz new",
-   "score": 2.7,
-   "hits": 5
-  },
-  {
-   "keyword": "animal quiz on youtube",
-   "score": 2.6,
-   "hits": 3
-  },
-  {
    "keyword": "geography quiz americans",
-   "score": 2.6,
+   "score": 2.8,
    "hits": 7
+  },
+  {
+   "keyword": "history quizzes",
+   "score": 2.8,
+   "hits": 5
   },
   {
    "keyword": "can you pass high school quiz",
@@ -262,7 +262,7 @@
   },
   {
    "keyword": "geography quiz hard",
-   "score": 2.6,
+   "score": 2.5,
    "hits": 3
   },
   {
@@ -281,47 +281,12 @@
    "hits": 3
   },
   {
-   "keyword": "emoji picture quiz",
-   "score": 2.3,
-   "hits": 4
-  },
-  {
    "keyword": "history quiz dying light 2",
    "score": 2.3,
    "hits": 3
   },
   {
-   "keyword": "country guess by flag",
-   "score": 2.3,
-   "hits": 3
-  },
-  {
-   "keyword": "animal quizzes for kids",
-   "score": 2.2,
-   "hits": 4
-  },
-  {
-   "keyword": "animal trivia kids",
-   "score": 2.2,
-   "hits": 5
-  },
-  {
-   "keyword": "animal quiz kids",
-   "score": 2.2,
-   "hits": 6
-  },
-  {
-   "keyword": "geography quiz no multiple choice",
-   "score": 2.2,
-   "hits": 3
-  },
-  {
-   "keyword": "history quiz 8th grade",
-   "score": 2.2,
-   "hits": 4
-  },
-  {
-   "keyword": "emoji quiz guess the word",
+   "keyword": "geography quiz difficult",
    "score": 2.2,
    "hits": 3
   },
@@ -331,22 +296,37 @@
    "hits": 3
   },
   {
+   "keyword": "animal quizzes for kids",
+   "score": 2.1,
+   "hits": 4
+  },
+  {
    "keyword": "geography quiz on the street",
    "score": 2.1,
    "hits": 4
   },
   {
-   "keyword": "country guessing game flag",
+   "keyword": "memory test for dementia",
    "score": 2.1,
    "hits": 3
   },
   {
-   "keyword": "animal quiz lose get wet",
-   "score": 2.0,
+   "keyword": "emoji quiz guess the word",
+   "score": 2.1,
    "hits": 3
   },
   {
-   "keyword": "geography quiz difficult",
+   "keyword": "country guessing game flag",
+   "score": 2.1,
+   "hits": 4
+  },
+  {
+   "keyword": "geography quiz no multiple choice",
+   "score": 2.1,
+   "hits": 3
+  },
+  {
+   "keyword": "geography quiz high school",
    "score": 2.0,
    "hits": 3
   },
@@ -366,17 +346,22 @@
    "hits": 2
   },
   {
-   "keyword": "memory test for dementia",
+   "keyword": "country and flags quiz",
    "score": 2.0,
    "hits": 3
   },
   {
-   "keyword": "emoji 2013",
-   "score": 2.0,
-   "hits": 5
+   "keyword": "animal quiz for 4 year old",
+   "score": 1.9,
+   "hits": 3
   },
   {
    "keyword": "general knowledge quiz hard",
+   "score": 1.9,
+   "hits": 2
+  },
+  {
+   "keyword": "general knowledge quiz kids",
    "score": 1.9,
    "hits": 2
   },
@@ -386,7 +371,12 @@
    "hits": 2
   },
   {
-   "keyword": "geography quiz kids",
+   "keyword": "animal quiz lose get wet",
+   "score": 1.9,
+   "hits": 3
+  },
+  {
+   "keyword": "geography quiz for kids",
    "score": 1.9,
    "hits": 2
   },
@@ -426,6 +416,11 @@
    "hits": 2
   },
   {
+   "keyword": "emoji choice",
+   "score": 1.9,
+   "hits": 4
+  },
+  {
    "keyword": "true or false quiz peppa pig",
    "score": 1.9,
    "hits": 2
@@ -436,17 +431,17 @@
    "hits": 2
   },
   {
+   "keyword": "country guess by flag",
+   "score": 1.9,
+   "hits": 2
+  },
+  {
    "keyword": "trivia games",
    "score": 1.8,
    "hits": 2
   },
   {
    "keyword": "general knowledge quiz for kids",
-   "score": 1.8,
-   "hits": 2
-  },
-  {
-   "keyword": "general knowledge quiz for adults",
    "score": 1.8,
    "hits": 2
   },
@@ -471,14 +466,14 @@
    "hits": 2
   },
   {
-   "keyword": "geography quiz for kids",
-   "score": 1.8,
-   "hits": 2
-  },
-  {
    "keyword": "geography quiz challenge",
    "score": 1.8,
    "hits": 3
+  },
+  {
+   "keyword": "geography quiz kids",
+   "score": 1.8,
+   "hits": 2
   },
   {
    "keyword": "geography quiz us states",
@@ -497,11 +492,6 @@
   },
   {
    "keyword": "geography quiz year 7",
-   "score": 1.8,
-   "hits": 2
-  },
-  {
-   "keyword": "science quiz questions",
    "score": 1.8,
    "hits": 2
   },
@@ -531,18 +521,18 @@
    "hits": 2
   },
   {
-   "keyword": "emoji choice",
-   "score": 1.8,
-   "hits": 4
-  },
-  {
    "keyword": "country quiz for kids",
    "score": 1.8,
    "hits": 2
   },
   {
-   "keyword": "geography quiz high school",
-   "score": 1.8,
+   "keyword": "science quiz for kids",
+   "score": 1.7,
+   "hits": 2
+  },
+  {
+   "keyword": "emoji pop quiz",
+   "score": 1.7,
    "hits": 3
   },
   {
@@ -559,16 +549,6 @@
    "keyword": "general knowledge quiz chunkz",
    "score": 1.7,
    "hits": 2
-  },
-  {
-   "keyword": "general knowledge quiz kids",
-   "score": 1.7,
-   "hits": 2
-  },
-  {
-   "keyword": "animal quiz for 4 year old",
-   "score": 1.7,
-   "hits": 3
   },
   {
    "keyword": "geography quiz asmr",
@@ -591,14 +571,19 @@
    "hits": 2
   },
   {
-   "keyword": "memory test challenges",
+   "keyword": "historical quiz",
+   "score": 1.7,
+   "hits": 3
+  },
+  {
+   "keyword": "science quiz questions",
    "score": 1.7,
    "hits": 2
   },
   {
-   "keyword": "memory test ram",
+   "keyword": "memory test challenges",
    "score": 1.7,
-   "hits": 3
+   "hits": 2
   },
   {
    "keyword": "emoji quiz movie",
@@ -611,17 +596,12 @@
    "hits": 2
   },
   {
-   "keyword": "country outline quiz",
-   "score": 1.7,
-   "hits": 3
-  },
-  {
    "keyword": "quiz blitz",
    "score": 1.6,
    "hits": 2
   },
   {
-   "keyword": "general knowledge quiz multiple choice",
+   "keyword": "general knowledge quiz for adults",
    "score": 1.6,
    "hits": 2
   },
@@ -631,17 +611,12 @@
    "hits": 2
   },
   {
-   "keyword": "animal quiz hard",
+   "keyword": "animal trivia kids",
    "score": 1.6,
-   "hits": 2
+   "hits": 4
   },
   {
    "keyword": "geography quiz drop a pin",
-   "score": 1.6,
-   "hits": 2
-  },
-  {
-   "keyword": "geography quiz ks2",
    "score": 1.6,
    "hits": 2
   },
@@ -651,17 +626,12 @@
    "hits": 2
   },
   {
-   "keyword": "history quiz hard",
+   "keyword": "geography quiz year 8",
    "score": 1.6,
    "hits": 2
   },
   {
-   "keyword": "historical quiz",
-   "score": 1.6,
-   "hits": 3
-  },
-  {
-   "keyword": "science quiz for kids",
+   "keyword": "history quiz hard",
    "score": 1.6,
    "hits": 2
   },
@@ -686,6 +656,11 @@
    "hits": 2
   },
   {
+   "keyword": "emoji quiz hard level",
+   "score": 1.6,
+   "hits": 2
+  },
+  {
    "keyword": "country quiz flag",
    "score": 1.6,
    "hits": 2
@@ -701,11 +676,6 @@
    "hits": 3
   },
   {
-   "keyword": "quiz for kids",
-   "score": 1.5,
-   "hits": 2
-  },
-  {
    "keyword": "trivia for kids",
    "score": 1.5,
    "hits": 2
@@ -716,12 +686,22 @@
    "hits": 3
   },
   {
+   "keyword": "general knowledge quiz multiple choice",
+   "score": 1.5,
+   "hits": 2
+  },
+  {
    "keyword": "general knowledge quiz teens",
    "score": 1.5,
    "hits": 2
   },
   {
-   "keyword": "animal quiz challenge",
+   "keyword": "animal quiz hard",
+   "score": 1.5,
+   "hits": 2
+  },
+  {
+   "keyword": "geography quiz ks2",
    "score": 1.5,
    "hits": 2
   },
@@ -746,12 +726,22 @@
    "hits": 2
   },
   {
+   "keyword": "history trivia",
+   "score": 1.5,
+   "hits": 3
+  },
+  {
    "keyword": "science quiz grade 6",
    "score": 1.5,
    "hits": 2
   },
   {
    "keyword": "which is bigger kb or mb",
+   "score": 1.5,
+   "hits": 2
+  },
+  {
+   "keyword": "which bed is bigger king or queen",
    "score": 1.5,
    "hits": 2
   },
@@ -766,7 +756,17 @@
    "hits": 2
   },
   {
+   "keyword": "did you just pass wind",
+   "score": 1.5,
+   "hits": 2
+  },
+  {
    "keyword": "memory test asmr",
+   "score": 1.5,
+   "hits": 2
+  },
+  {
+   "keyword": "memory test unlimited education",
    "score": 1.5,
    "hits": 2
   }
@@ -775,24 +775,24 @@
   "quiz": {
    "top": [
     [
-     "game quiz",
+     "quiz game",
      "100"
     ],
     [
-     "quiz trivia",
-     "61"
+     "trivia quiz",
+     "56"
     ],
     [
      "trivia",
-     "58"
+     "56"
     ],
     [
      "quiz song",
-     "37"
+     "36"
     ],
     [
      "kids quiz",
-     "28"
+     "27"
     ],
     [
      "hero quiz",
@@ -800,19 +800,23 @@
     ],
     [
      "quiz questions",
-     "23"
-    ],
-    [
-     "quiz football",
      "21"
     ],
     [
-     "quiz math",
+     "football quiz",
      "21"
     ],
     [
      "music quiz",
      "21"
+    ],
+    [
+     "quiz math",
+     "20"
+    ],
+    [
+     "math",
+     "20"
     ],
     [
      "general knowledge quiz",
@@ -824,37 +828,33 @@
     ],
     [
      "english quiz",
-     "18"
+     "19"
     ],
     [
-     "anime quiz",
-     "17"
-    ],
-    [
-     "quiz anime",
+     "dino quiz",
      "17"
     ]
    ],
    "rising": [
     [
      "kerala piravi quiz",
-     "+2,150%"
+     "+2,000%"
     ],
     [
-     "quiz trivia",
+     "trivia quiz",
      "+250%"
     ],
     [
      "trivia",
-     "+200%"
+     "+250%"
     ],
     [
      "christmas quiz",
-     "+100%"
+     "+110%"
     ],
     [
      "pub quiz",
-     "+40%"
+     "+50%"
     ]
    ]
   },
@@ -873,11 +873,11 @@
      "15"
     ],
     [
-     "trivia movie",
+     "movie trivia",
      "13"
     ],
     [
-     "music trivia",
+     "trivia music",
      "9"
     ],
     [
@@ -889,11 +889,11 @@
      "7"
     ],
     [
-     "kids trivia",
+     "trivia kids",
      "6"
     ],
     [
-     "song trivia",
+     "trivia song",
      "5"
     ],
     [
@@ -901,16 +901,16 @@
      "5"
     ],
     [
-     "general knowledge trivia",
-     "4"
+     "trivia general knowledge",
+     "5"
     ],
     [
      "trivia games",
      "4"
     ],
     [
-     "disney trivia",
-     "3"
+     "trivia disney",
+     "4"
     ],
     [
      "halloween trivia",
@@ -923,16 +923,16 @@
    ],
    "rising": [
     [
-     "geography trivia game",
-     "+400%"
+     "veterans day trivia",
+     "Breakout"
     ],
     [
      "thanksgiving trivia",
-     "+300%"
+     "+350%"
     ],
     [
-     "veterans day trivia",
-     "+200%"
+     "geography trivia game",
+     "+150%"
     ],
     [
      "quiz trivia",
@@ -944,10 +944,10 @@
     ],
     [
      "christmas trivia",
-     "+70%"
+     "+60%"
     ],
     [
-     "halloween trivia for kids",
+     "trivia games for adults",
      "+50%"
     ]
    ]
@@ -955,8 +955,12 @@
   "general knowledge quiz": {
    "top": [
     [
-     "general knowledge quiz questions",
+     "general knowledge questions",
      "100"
+    ],
+    [
+     "hard general knowledge quiz",
+     "79"
     ],
     [
      "kids general knowledge quiz",
@@ -968,23 +972,39 @@
     ],
     [
      "general knowledge quiz multiple choice",
-     "28"
+     "30"
     ],
     [
      "pub quiz general knowledge",
-     "22"
+     "23"
     ],
     [
      "general knowledge quiz music",
      "21"
     ],
     [
+     "general knowledge quiz easy",
+     "19"
+    ],
+    [
      "quiz general knowledge questions and answers",
      "18"
     ],
     [
-     "general knowledge quiz easy",
+     "general knowledge questions and answers",
      "17"
+    ],
+    [
+     "general knowledge quiz malayalam",
+     "17"
+    ],
+    [
+     "trivia questions",
+     "17"
+    ],
+    [
+     "trivia questions general knowledge",
+     "16"
     ],
     [
      "general knowledge quiz for kids with answers",
@@ -994,11 +1014,19 @@
    "rising": [
     [
      "general knowledge quiz for kids with answers",
-     "+190%"
+     "Breakout"
     ],
     [
      "general knowledge quiz multiple choice",
-     "+60%"
+     "+70%"
+    ],
+    [
+     "hard general knowledge quiz",
+     "+40%"
+    ],
+    [
+     "general knowledge quiz easy",
+     "+40%"
     ]
    ]
   },
@@ -1010,7 +1038,7 @@
     ],
     [
      "guess the country",
-     "33"
+     "35"
     ],
     [
      "guess the logo",
@@ -1022,11 +1050,11 @@
     ],
     [
      "guess the emoji",
-     "19"
+     "21"
     ],
     [
      "guess the game",
-     "17"
+     "18"
     ],
     [
      "guess the player",
@@ -1035,10 +1063,6 @@
     [
      "guess the word",
      "15"
-    ],
-    [
-     "quiz",
-     "13"
     ],
     [
      "guess the animal",
@@ -1054,7 +1078,7 @@
     ],
     [
      "guess the character",
-     "8"
+     "9"
     ],
     [
      "guess the food",
@@ -1063,36 +1087,40 @@
     [
      "guess the name",
      "8"
+    ],
+    [
+     "the guess who",
+     "7"
     ]
    ],
    "rising": [
     [
      "guess the movie by the frame",
-     "+1,100%"
+     "+1,200%"
     ],
     [
      "guess the animal challenge",
      "+190%"
     ],
     [
-     "gothamchess guess the elo",
-     "+120%"
+     "guess the christmas song",
+     "+180%"
     ],
     [
      "guess the youtuber challenge",
      "+120%"
     ],
     [
+     "gothamchess guess the elo",
+     "+120%"
+    ],
+    [
      "guess the elo",
-     "+90%"
+     "+80%"
     ],
     [
      "guess the disney movie",
-     "+40%"
-    ],
-    [
-     "guess the language",
-     "+40%"
+     "+50%"
     ]
    ]
   },
@@ -1104,15 +1132,23 @@
     ],
     [
      "which country is bigger",
-     "46"
+     "42"
     ],
     [
      "which number is bigger",
-     "24"
+     "25"
     ],
     [
-     "which is bigger moon or earth",
-     "7"
+     "guess which country is bigger",
+     "18"
+    ],
+    [
+     "which fraction is bigger",
+     "18"
+    ],
+    [
+     "which is bigger earth or moon",
+     "8"
     ],
     [
      "which planet is bigger than sun",
@@ -1125,7 +1161,11 @@
    ],
    "rising": [
     [
-     "which is bigger moon or earth",
+     "guess which country is bigger",
+     "Breakout"
+    ],
+    [
+     "which is bigger earth or moon",
      "Breakout"
     ],
     [
@@ -1135,10 +1175,6 @@
     [
      "which lung is bigger",
      "Breakout"
-    ],
-    [
-     "which country is bigger",
-     "+50%"
     ]
    ]
   }
