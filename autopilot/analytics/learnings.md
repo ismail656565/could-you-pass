@@ -735,3 +735,6 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Thumbnails: CTR per API weiter HttpError 400; Christmas-Long ohne Foto (kein Weihnachtsbild in image-credits.json) → TvThumb mit 🎄, B „CAN YOU GET 40/50?“ zuerst.
 - Angelegt: christmas-quiz-50-1 (Duplikat-grep strich A Christmas Carol/Dickens, Trafalgar-Baum, Nightmare-Regisseur, Snowman), flag-duel-3 (Plan-Paare, alle 8 SVGs vorhanden), map-lie-10 (Mongolia/Alaska verworfen: offiziell Alaska größer, Kontrolle Mongolei größer → Widerspruch; Iran/Mongolia nur 4 % Kontrolle). one-q-further-west → 27.11.
 - vidIQ heute nicht erneut abgefragt (Manager-Plan 23.11. hat die Montags-Keywords schon: „flag quiz“ 131.700/Monat).
+
+## 2026-11-23 07:30 – STRATEGIE (Manager, nach Besitzer-Screenshots) – GILT AB SOFORT
+- Flag Duel #1 n. 15 h: 2.600 Views, **+17 Abos (≈6,5/1.000)**, 61,4 % stayed, überdurchschnittlich geteilt → Flag Duel = Haupt-Abo-Format. Takt alle 2 Tage 16:00 (24./26./28.11.), täglich ab 29.11. wenn #2/#3 ≥ 1.000 n. 24 h. Fester Look, nur Doppelgänger-Flaggen, Titel „Flag Quiz: …“, Schluss „Follow for flag duel number N+1!“.

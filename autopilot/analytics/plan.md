@@ -71,3 +71,11 @@ Bandit 24.–26.11. (9 Slots): 7 Exploit (Karten-VS ×3, Flag Duel, Rätsel-Long
 - Christmas-Long: 50 Fragen fakten-geprüft, Fragen ≤ 95 Zeichen, Antworten ≤ 30 Zeichen, hook/finalLabel ohne Emoji, thumbTexts[1] = „CAN YOU GET **40/50**?“; Duplikat-grep gegen thanksgiving-quiz-50-1 und alle Winter-Shorts.
 - Serien-Schluss Pflicht (Karten-VS „Follow, number N+1 drops tomorrow!“, Flag Duel „Follow for flag duel number N+1!“).
 - Weiter verboten: Halloween, Alters-Titel, Politik, Longs Mo/Mi/Fr/So, 3. Short pro Tag.
+
+## NACHTRAG 23.11. 07:30 – Flag Duel #1 explodiert (Besitzer-Screenshots)
+- flag-duel-1 nach 15 h: **2.600 Views (+2.500 über normal), +17 Abos, 61,4 % stayed, 1.500 engaged Views**, YouTube: „wird öfter geteilt als üblich“. = **≈6,5 Abos/1.000 Views** (Kanal-Schnitt 0,70 → ≈9× besser). Kanal ≈ 49 Abos.
+- **Entscheidung: Flag Duel alle 2 Tage 16:00 ab sofort, täglich ab 29.11., wenn #2/#3 ≥ 1.000 Views n. 24 h.**
+- Queue umgebaut (git mv): **flag-duel-3 → Di 24.11. 16:00** (passt zum Schluss von #2 „Follow for number three!“), Science-Wunsch → Fr 27.11. 16:00, Reno-1-Frage → So 29.11. 16:00 (vorläufig).
+- Neu für Produktions-Agent 24.11.: **`2026-11-26-flag-duel-4.json` (16:00)** – 4 neue Doppelgänger-Paare, keine aus #1–#3 (#3: Austria/Latvia, Colombia/Ecuador, Haiti/Liechtenstein, Qatar/Bahrain), nichts Politisches, Schluss „Follow for flag duel number five!“. Titelmuster „Flag Quiz: Who Is <X>? 90% Pick Wrong 🌍“. Danach **flag-duel-5 Sa 28.11. 16:00**.
+- Karten-VS 21:00 bleibt (Serienversprechen bis #10); ab 27.11. Prüfung: Flag Duel auch 21:00?
+- Backlog #10 hochgestuft: **Flag-Long „Flag Quiz: 50 Look-Alike Flags – Can You Get 40?“** (exam/Flag-Duel-Look) – prüfen, ob QuizLong Flaggen-Bilder rendern kann; Ziel Sa 5.12.
