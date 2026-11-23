@@ -97,6 +97,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('channel'); ap.add_argument('--shorts', type=int, default=None)
     ap.add_argument('--dry', action='store_true'); ap.add_argument('--list', action='store_true')
+    ap.add_argument('--force', action='store_true', help='auch wenn heute schon hochgeladen wurde')
     a = ap.parse_args()
     cid = a.channel
     c, st = cfg(cid), load_state(cid)
@@ -108,6 +109,9 @@ def main():
     if not c.get('enabled', True):
         print(f'{cid}: deaktiviert'); return
     n = a.shorts if a.shorts is not None else c.get('shorts_per_day', 2)
+    today = dt.datetime.now(dt.timezone.utc).date().isoformat()
+    if not a.force and any(u.get('uploaded', '').startswith(today) for u in st['uploads'].values()):
+        print(f'{cid}: heute schon hochgeladen'); return
     if n == 0:
         print(f'{cid}: 0 Shorts angefordert'); return
     if len(eps) < c.get('warn_below', 6):

@@ -46,6 +46,9 @@ def main():
     cid = a.channel
     c, st = P.cfg(cid), P.load_state(cid)
     st.setdefault('longs_done', {})
+    today = dt.datetime.now(dt.timezone.utc).date().isoformat()
+    if not a.project and not a.dry and any(u.get('uploaded', '').startswith(today) for u in st['longs_done'].values()):
+        print(f'{cid}: heute schon ein langes Video hochgeladen'); return
     if a.project:
         projects = [Path(a.project)]
     else:

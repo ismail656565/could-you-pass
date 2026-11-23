@@ -4,7 +4,9 @@ name: Studio – Kanäle produzieren
 # Welche Kanäle laufen und wann veröffentlicht wird: studio/channels/<kanal>/channel.json
 on:
   schedule:
-    - cron: '30 4 * * *'   # 05:30 Berlin (Winterzeit) – Videos gehen um 13:00 und 19:30 online
+    - cron: '41 3 * * *'   # 04:41 Berlin (Winterzeit)
+    - cron: '23 6 * * *'   # Reserve 07:23 Berlin, falls GitHub den ersten Lauf auslässt (macht nichts doppelt)
+    - cron: '7 9 * * *'    # Reserve 10:07 Berlin
   workflow_dispatch:
     inputs:
       channel:
