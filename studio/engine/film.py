@@ -377,7 +377,7 @@ def build(episode_py, work, out_mp4, voice=None, stills=None, size=(1080, 1920))
     work = Path(work); work.mkdir(parents=True, exist_ok=True)
     if not all((work / s).exists() for p in E['plates'] for s in p['stages']):
         mod.paint(work)
-    narrate(E['lines'], work / 'vo', voice or E.get('voice', 'bm_george'), E.get('speed', 1.0))
+    narrate(E['lines'], work / 'vo', voice or E.get('voice', 'bm_george'), E.get('speed', 1.0), E.get('say'))
     film = Film(E, work, *size)
     if stills:
         for s in stills:

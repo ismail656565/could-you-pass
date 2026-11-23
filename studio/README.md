@@ -26,6 +26,11 @@ keine Stock-Fotos). Daraus entsteht eine durchgehende Welt, durch die eine Kamer
 (Text, Kamera, Schnipsel, Stempel, Musik) – Vorlage: `channels/mythdugup/episodes/001-troy`.
 Testen: `python studio/engine/film.py <episode.py> --work /tmp/x --stills 1,5,10` (Hochformat) oder `--landscape`.
 
+**Aussprache:** Namen und Fachwörter immer richtig geschrieben in `lines` lassen. Was die Stimme sagen soll, steht in
+`engine/pronunciations.json` (für alle Episoden, z. B. `"Pyke": "Pike"`) oder pro Episode in `EPISODE['say'] = {...}`
+(hat Vorrang). Nur die Stimme hört die Aussprache-Form; Untertitel, Cues (`'L1:pykrete'`) und `display` nutzen weiter
+das geschriebene Wort. Kein Trick mehr mit falsch geschriebenen Zeilen + `display`-Korrektur.
+
 ## Kanäle
 | Kanal | Status | Stil |
 |---|---|---|

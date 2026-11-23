@@ -1,0 +1,8 @@
+{
+ "_comment": "Shared pronunciation dictionary for the Kokoro voice. Key = written term (as in EPISODE lines, case-insensitive, whole words, multi-word allowed); value = what the voice says. Captions keep the written form. Per-episode overrides: EPISODE['say'] = {...}.",
+ "Pyke": "Pike",
+ "pykrete": "pie-kreet",
+ "Lytle": "Little",
+ "Bågenholm": "Bogenholm",
+ "Tromsø": "Tromso"
+}
