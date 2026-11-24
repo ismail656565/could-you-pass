@@ -1,0 +1,124 @@
+{
+ "id": "map-lie-11",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "This Map Is Lying To You #11 🌍 Which Is REALLY Bigger? #shorts",
+  "description": "Flat maps stretch everything near the poles. Watch each shape slide to its real size 🌍 Did Nevada vs New Zealand get you?\nComment your score out of 4 👇\n\nFollow – number 12 drops tomorrow! 🧠\n\n#map #geography #truesize #whichisbigger #quiz #shorts\n\nData: total area in km² – Madagascar 587,041; Finland 338,145; Thailand 513,120; Germany 357,022; Mexico 1,964,375; Iran 1,648,195; Nevada 286,380; New Zealand 268,838 (countries: CIA World Factbook; US states: US Census Bureau).\nOutlines: Natural Earth (public domain). The shapes are moved on the globe and re-projected (Mercator) – no resizing by hand.\nMusic: original.",
+  "tags": [
+   "true size of countries",
+   "mercator map",
+   "which is bigger",
+   "map quiz",
+   "geography quiz",
+   "map lies",
+   "nevada vs new zealand",
+   "germany vs thailand",
+   "quiz",
+   "shorts"
+  ],
+  "comment": "Nevada vs New Zealand – did the map fool you? 🌍 Comment your score /4 👇"
+ },
+ "story": {
+  "id": "map-lie-11",
+  "type": "truesize",
+  "title": "This Map Is Lying To You #11",
+  "kicker": "MAP TEST #11",
+  "hookText": [
+   "THIS MAP",
+   "IS LYING",
+   "TO YOU"
+  ],
+  "hookLine": "Episode eleven. Can you beat the map?",
+  "question": "Which is really bigger?",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.09,
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "a": {
+     "shape": "finland",
+     "name": "Finland",
+     "km2": 338145
+    },
+    "b": {
+     "shape": "madagascar",
+     "name": "Madagascar",
+     "km2": 587041
+    },
+    "mover": "a",
+    "verdict": "74% bigger",
+    "lines": {
+     "q": "Finland, or Madagascar?",
+     "a": "Madagascar! Almost twice as big."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "MEDIUM",
+    "a": {
+     "shape": "thailand",
+     "name": "Thailand",
+     "km2": 513120
+    },
+    "b": {
+     "shape": "germany",
+     "name": "Germany",
+     "km2": 357022
+    },
+    "mover": "b",
+    "verdict": "44% bigger",
+    "lines": {
+     "q": "Thailand, or Germany?",
+     "a": "Thailand! Germany just looks huge."
+    },
+    "winner": "a"
+   },
+   {
+    "level": "HARD",
+    "a": {
+     "shape": "iran",
+     "name": "Iran",
+     "km2": 1648195
+    },
+    "b": {
+     "shape": "mexico",
+     "name": "Mexico",
+     "km2": 1964375
+    },
+    "mover": "a",
+    "verdict": "19% bigger",
+    "lines": {
+     "q": "Iran, or Mexico?",
+     "a": "Mexico! By a lot."
+    },
+    "winner": "b"
+   },
+   {
+    "level": "LEGEND",
+    "a": {
+     "shape": "nevada",
+     "name": "Nevada",
+     "km2": 286380
+    },
+    "b": {
+     "shape": "newzealand",
+     "name": "New Zealand",
+     "km2": 268838
+    },
+    "mover": "b",
+    "verdict": "7% bigger",
+    "lines": {
+     "q": "Last one. Nevada, or New Zealand?",
+     "a": "Nevada! Follow, number twelve drops tomorrow!"
+    },
+    "winner": "a"
+   }
+  ],
+  "sources": [
+   "Areas (total, km²): Madagascar 587,041; Finland 338,145; Thailand 513,120; Germany 357,022; Mexico 1,964,375; Iran 1,648,195; Nevada 286,380; New Zealand 268,838 – CIA World Factbook / US Census Bureau",
+   "Outlines: Natural Earth (public domain)"
+  ]
+ }
+}

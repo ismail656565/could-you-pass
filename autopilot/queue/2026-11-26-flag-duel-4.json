@@ -1,0 +1,107 @@
+{
+ "id": "flag-duel-4",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz #4: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts",
+  "description": "Two flags, almost the same – pick the right country before the countdown ends 🌍 Mexico, Bulgaria, Honduras and Guinea.\nComment your score out of 4 👇\n\nFollow – a new flag duel drops every other day! 🧠\n\n#flagquiz #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "mexico vs italy",
+   "bulgaria vs hungary",
+   "honduras vs nicaragua",
+   "guinea vs mali",
+   "geography quiz",
+   "left or right",
+   "shorts"
+  ],
+  "comment": "Which pair fooled you? Comment your score /4 👇"
+ },
+ "story": {
+  "id": "flag-duel-4",
+  "type": "flagduel",
+  "title": "Who Is MEXICO? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "Only one in ten get all four.",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 3.0,
+   "move": 0.8,
+   "tail": 0.35
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "MEXICO",
+    "a": {
+     "flag": "it",
+     "name": "Italy"
+    },
+    "b": {
+     "flag": "mx",
+     "name": "Mexico"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Mexico? Left, or right?",
+     "a": "Right! The eagle gives it away."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "BULGARIA",
+    "a": {
+     "flag": "bg",
+     "name": "Bulgaria"
+    },
+    "b": {
+     "flag": "hu",
+     "name": "Hungary"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Bulgaria?",
+     "a": "Left! White on top, red below."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "HONDURAS",
+    "a": {
+     "flag": "ni",
+     "name": "Nicaragua"
+    },
+    "b": {
+     "flag": "hn",
+     "name": "Honduras"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Honduras?",
+     "a": "Right! Five blue stars."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "GUINEA",
+    "a": {
+     "flag": "gn",
+     "name": "Guinea"
+    },
+    "b": {
+     "flag": "ml",
+     "name": "Mali"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. Who is Guinea?",
+     "a": "Left! Red comes first. Follow for flag duel number five!"
+    }
+   }
+  ]
+ }
+}

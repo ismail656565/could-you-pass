@@ -746,3 +746,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Karten-VS jetzt mit Abos in Analytics (#4/#5 je +1 bei ≈1.000 Views ≈ 1,0/1.000) → Bewährung bestanden, 21:00 bleibt Karten-VS.
 - vidIQ outliers Flag-Shorts Nov.: „Real Flag or Sneaky Fake? 5/5“ (WonderQ) 334k/50×, „Flag Quiz (1) Name 10 Flags“ 108k/82×, ThinkBop „Which One Is MALAYSIA? Left or Right?! 4 Levels“ 22,6k/13× → Flag-Nische boomt, Folgennummern üblich; „Real or Fake Flag“ als nächstes Flag-Experiment (Renderer-Check).
 - Kommentare 4/4 beantwortet (20 gesamt), kein Faktenfehler. 1. Advent = 29.11.
+
+## 2026-11-24 07:20 – Produktion (Queue 26./27.11.)
+- Technik: alle Läufe 23.11. grün; 23.11. (Mo, kein Long-Tag) = 2 Shorts (flag-duel-2 16:00, map-lie-7 21:00) – Soll erfüllt. Heute (Di, Long-Tag) liegen iq-riddles-12-2 (14:00, erstes exam-Long) + flag-duel-3 + map-lie-8 bereit. Kein Code-Fix nötig.
+- Shorts (report.json 23.11. 22:31, 43 Abos): Flag Duel #1 3.119 / #2 1.155 (≈6,5 h); Karten-VS #6 1.178, #7 266 n. ≈1,5 h.
+- Longs: Rätsel-Long #1 231 Views, stayed 80,1 %, aber Ø angesehen nur 10,7 % → Zuschauer springen früh ab; exam-Look heute ist der Test. Thanksgiving-Long 95 (stayed 73 %, Ø 28,6 %).
+- Thumbnails: CTR per API weiter HttpError 400; Rätsel-Long #1 Variante A ≈48 Views/Tag, jetzt B im Test.
+- Angelegt: flag-duel-4 (26.11. 16:00, E22-Titel, Mexico/Italy, Bulgaria/Hungary, Honduras/Nicaragua, Guinea/Mali – kein Paar aus #1–#3, Gewinner b/a/b/a, 50 Wörter) und map-lie-11 (27.11. 21:00, 42 Wörter, Gewinner b/a/b/a): Madagascar 587.041 > Finland 338.145 (+74 %, Kontrolle +80 %), Thailand 513.120 > Germany 357.022 (+44 %, +45 %), Mexico 1.964.375 > Iran 1.648.195 (+19 %, +21 %), Nevada 286.380 > New Zealand 268.838 (+7 %, +8 %). Verworfen: Iran/Alaska + Saudi/Mexico (Kontrollspalte widerspricht), Finland/Montana (Paar schon in #8), Thailand/Spain, Chile/Turkey (< 5 %).
