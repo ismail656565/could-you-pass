@@ -1,12 +1,16 @@
-# Zuschauer-Kommentare – Stand 2026-11-24 06:30
+# Zuschauer-Kommentare – Stand 2026-11-24 18:55
 
-Letzte 21 Tage, ohne unsere eigenen. 28 Kommentare, 0 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 33 Kommentare, 1 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts | 4/4 |
+| Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 4/4 |
+| Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 4/4 |
+| Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 4/4 |
 | Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 4/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 3/4 |
@@ -29,8 +33,16 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (10)
+## SCORE (14)
 
+- 2026-11-24 · Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts · @mayhomestays · id `Ugzr6w6lvaf8IzLXVC54AaABAg`  
+  „4/4“
+- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @walterlim2624 · id `UgyI2IsAIrxLZ5w-i694AaABAg`  
+  „4/4“
+- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @Jobengskie · id `UgxQbBxtfEH3p1j3DHB4AaABAg`  
+  „4/4“
+- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @neptuneee_official **[OFFEN]** · id `Ugx-XE0pOon7iw-1Jxx4AaABAg`  
+  „4/4!“
 - 2026-11-23 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @JetsBigAdventures · id `UgxQ4Q0fN4LZfw-L3PZ4AaABAg`  
   „4/4“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @BashyWashy29 · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdZxvQ9M9Uh`  
@@ -52,8 +64,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-10 · This Map Is Lying To You 🌍 Which Is REALLY Bigger? · @RageG23 · id `UgwiIuNyUL_iK-DLhIp4AaABAg`  
   „3/4“
 
-## SONSTIGES (15)
+## SONSTIGES (16)
 
+- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @veronikameskova8616 · id `Ugwe9hv8CMmzQ3F8Cvp4AaABAg`  
+  „Yes!!!“
 - 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @nickolawright3724y · id `Ugwop203Ikyt2WieGSN4AaABAg.AdZc7eT_wSnAd_N0o90xCy`  
   „4000000/20000000“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @LinaDuenas-w8x · id `UgzEsRGnUoJ51ajd6Jd4AaABAg`  
