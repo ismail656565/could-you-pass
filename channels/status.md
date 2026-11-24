@@ -1,34 +1,34 @@
 # Studio – Status aller Kanäle
 
-Stand: 2026-11-23 16:30 UTC · verbunden: **9/9**
+Stand: 2026-11-24 16:28 UTC · verbunden: **9/9**
 
 | Kanal | Zugang | Abos | Videos | Views | Pipeline |
 |---|---|---:|---:|---:|---|
-| COULD YOU PASS? | ✅ verbunden | 42 | 107 | 42618 | live (Quiz Autopilot) |
-| WILDLY TRUE | ✅ verbunden | 49 | 127 | 75933 | fertig (wartet nur auf Token) |
-| PERCEPT LAB | ✅ verbunden | 7 | 14 | 11121 | geplant |
-| RageLoop Clips | ✅ verbunden | 1 | 5 | 742 | geplant (Clipping-Kampagnen) |
-| PlotMelt | ✅ verbunden | 1 | 3 | 5 | geplant |
+| COULD YOU PASS? | ✅ verbunden | 51 | 110 | 51706 | live (Quiz Autopilot) |
+| WILDLY TRUE | ✅ verbunden | 50 | 128 | 75936 | fertig (wartet nur auf Token) |
+| PERCEPT LAB | ✅ verbunden | 7 | 14 | 11125 | geplant |
+| RageLoop Clips | ✅ verbunden | 1 | 5 | 744 | geplant (Clipping-Kampagnen) |
+| PlotMelt | ✅ verbunden | 1 | 3 | 1121 | geplant |
 | The Podcast Cut | ✅ verbunden | 1 | 8 | 2142 | geplant (Clipping-Kampagnen) |
-| HiddenFrontlines | ✅ verbunden | 0 | 3 | 20 | geplant |
-| HUMAN LIMIT | ✅ verbunden | 0 | 2 | 1 | geplant |
-| Myth Dug Up | ✅ verbunden | 1 | 4 | 339 | geplant |
+| HiddenFrontlines | ✅ verbunden | 0 | 5 | 44 | geplant |
+| HUMAN LIMIT | ✅ verbunden | 0 | 3 | 1 | geplant |
+| Myth Dug Up | ✅ verbunden | 1 | 5 | 998 | geplant |
 
 Token fehlt → einmalig lokal `autopilot/kanaele-anmelden.bat` (Windows) bzw. `kanaele-anmelden.command` (Mac).
 
 ## COULD YOU PASS? 
 Konto: - · Typ: original
 > Think you're smart? Prove it. 🧠  Quick quizzes with real test questions: citizenship tests, IQ puzzles, general knowledge, history, geography and trick questions. 3 seconds per question. No googling.  Count your score and drop it in the com
-- 2026-11-23 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts
-- 2026-11-23 · This Map Is Lying To You #7 🌍 Which Is REALLY Bigger? #shorts
-- 2026-11-22 · This Map Is Lying To You #6 🌍 Which Is REALLY Bigger? #shorts
+- 2026-11-24 · Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts
+- 2026-11-24 · Test Your IQ: 12 Hard Riddles – Can You Solve 5? 🧠
+- 2026-11-24 · This Map Is Lying To You #8 🌍 Which Is REALLY Bigger? #shorts
 
 ## WILDLY TRUE @WildlyTrue65
 Konto: isot65isot65@gmail.com · Typ: original
 > Reality is crazier than fiction.  WILDLY TRUE brings you unbelievable real events, extreme nature, disasters, survival stories, shocking moments and stories that seem impossible — but actually happened.  Fast stories. Insane moments. No bor
+- 2026-11-23 · This Shark Can Live Almost 400 Years 🦈 #shorts
 - 2026-11-01 · Sponge Divers Found a Gear Machine From Ancient Greece #shorts
 - 2026-11-01 · This Bird Collects Blue Objects for an Audience #shorts
-- 2026-10-15 · This Bridge Collapsed. The Only Victim Was a Dog. #shorts
 
 ## PERCEPT LAB @PERCEPTLAB
 Konto: isot65isot65@gmail.com · Typ: original
@@ -61,9 +61,9 @@ Konto: isot65isot65@gmail.com · Typ: clips
 ## HiddenFrontlines @HiddenFrontlinesHQ
 Konto: isi65isi65@gmail.com · Typ: original
 > Hidden Frontlines tells the true stories history almost forgot. From secret WWII operations and incredible battlefield decisions to survival stories, military engineering, spies, ships, aircraft and Cold War mysteries — we uncover the momen
+- 2026-11-23 · The US Army Fought With Rubber Tanks. It Worked. #shorts
+- 2026-11-23 · The Ghost Army: The Artists Who Fooled an Enemy With Rubber Tanks
 - 2026-10-04 · The Secret Army Made of Rubber Tanks
-- 2026-09-23 · The Fake Army That Fooled Germany Before D-Day
-- 2026-09-21 · USS Texas Was Out of Range — So Her Crew Flooded the Ship
 
 ## HUMAN LIMIT @HumanLimitLabb
 Konto: isi65isi65@gmail.com · Typ: original
@@ -75,6 +75,6 @@ Konto: isi65isi65@gmail.com · Typ: original
 ## Myth Dug Up @MythDugUp
 Konto: isi65isi65@gmail.com · Typ: original
 > Stories that sounded like myths. Then someone started digging.  Myth Dug Up follows legends, lost cities and vanished civilizations that archaeologists later found to be real: a giant eagle from Māori stories, a Hittite empire once known on
+- 2026-11-23 · This Dog Has Guarded a Door for 2,000 Years #shorts
 - 2026-11-23 · 3 Legends That Turned Out to Be Real (Troy, Pompeii, Vinland)
 - 2026-11-23 · Everyone Said Troy Was a Myth. Then Someone Dug. #shorts
-- 2026-10-04 · This Eagle Hunted Birds 15x Heavier Than Itself. It Was Real.
