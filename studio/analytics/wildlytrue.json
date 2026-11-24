@@ -1,17 +1,26 @@
 {
  "id": "wildlytrue",
  "name": "WILDLY TRUE",
- "checked": "2026-11-23",
- "subs": 49,
- "views": 75933,
+ "checked": "2026-11-24",
+ "subs": 50,
+ "views": 75936,
  "videos": [
+  {
+   "id": "PidNeOcugUM",
+   "title": "These Animals Survived 10 Days in Open Space 🐻 #shorts",
+   "published": "2026-11-24T00:27:37Z",
+   "seconds": 31,
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "jgP2jPmLKac",
    "title": "This Shark Can Live Almost 400 Years 🦈 #shorts",
    "published": "2026-11-23T17:00:20Z",
    "seconds": 30,
-   "views": 74,
-   "likes": 1,
+   "views": 240,
+   "likes": 3,
    "comments": 1
   },
   {
@@ -49,7 +58,7 @@
    "title": "This Bridge Collapsed. The Only Victim Was a Dog. #shorts",
    "published": "2026-10-15T19:01:24Z",
    "seconds": 27,
-   "views": 18,
+   "views": 22,
    "likes": 1,
    "comments": 1,
    "a_views": 18,
@@ -229,7 +238,7 @@
    "title": "Arnold Schwarzenegger He escaped from the army to win a bodybuilding contest. they threw him in jail",
    "published": "2026-10-06T19:29:17Z",
    "seconds": 34,
-   "views": 1338,
+   "views": 1339,
    "likes": 29,
    "comments": 0,
    "a_views": 1338,
@@ -871,21 +880,6 @@
    "avgSec": 22,
    "subs": 0,
    "stayed": 36.1
-  },
-  {
-   "id": "hbkJSmLHFFA",
-   "title": "The I-35W Bridge Collapsed — During Rush Hour #shorts",
-   "published": "2026-09-21T16:43:10Z",
-   "seconds": 25,
-   "views": 257,
-   "likes": 3,
-   "comments": 0,
-   "a_views": 257,
-   "engaged": 85,
-   "avgPct": 65.5,
-   "avgSec": 16,
-   "subs": 0,
-   "stayed": 33.1
   }
  ]
 }
