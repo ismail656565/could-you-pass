@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-24 00:49
+# Zuschauer-Kommentare – Stand 2026-11-24 02:20
 
-Letzte 21 Tage, ohne unsere eigenen. 27 Kommentare, 3 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 28 Kommentare, 4 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -52,8 +52,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-10 · This Map Is Lying To You 🌍 Which Is REALLY Bigger? · @RageG23 · id `UgwiIuNyUL_iK-DLhIp4AaABAg`  
   „3/4“
 
-## SONSTIGES (14)
+## SONSTIGES (15)
 
+- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @nickolawright3724y **[OFFEN]** · id `Ugwop203Ikyt2WieGSN4AaABAg.AdZc7eT_wSnAd_N0o90xCy`  
+  „4000000/20000000“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @LinaDuenas-w8x · id `UgzEsRGnUoJ51ajd6Jd4AaABAg`  
   „4“
 - 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @emanalsulaimani3096 · id `UgwEyaEI9TdThPlk_l54AaABAg`  
