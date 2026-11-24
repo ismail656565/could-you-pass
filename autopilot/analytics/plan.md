@@ -1,81 +1,69 @@
-# Plan – 2026-11-23 (Mo)
+# Plan – 2026-11-24 (Di)
 
-Kanal **32 Abos** (report.json 22.11. 18:17; Besitzer-Screenshot 22:54: Flag Duel #1 allein +6). Analytics: 33.022 Views → 23 Abos = **0,70 Abos/1.000 Views** (Shorts 0,62 · Longs 3,84; Ziel ≥ 2,0 bis 15.12.).
-**Neuer Gewinner: Flag Duel** – #1 1.760 Views in 7 h, 80,5 % angesehen, 59,6 % stayed, 43 Likes, **≈3,4 Abos/1.000** = erstes Format über dem Ziel. Konsequenz: Flag Duel wird feste Serie **jeden 2.–3. Tag 16:00** (#3 rückt von Fr 27.11. auf **Do 26.11.** vor, Reno-1-Frage auf Fr 27.11.).
-Kommentare: 2 offene → beide beantwortet (gesamt 16/16). Kein bestätigter Faktenfehler.
-Do 26.11.: erstes **Christmas-Long (exam, 50 Fragen)** – Saisonsuche startet, Thanksgiving-Long (37 Views n. 1 T) zeigt, dass Feiertags-Longs früher kommen müssen.
+Kanal **43 Abos** (report.json 23.11. 22:31) – **+11 in ≈28 h** (32 → 43) bei ≈4.500 neuen Views ≈ **2,4 Abos/1.000 im aktuellen Fenster** (Ziel 2,0 erstmals erreicht). Analytics gesamt (2–3 T Verzug): 35.881 Views → 26 Abos = 0,72/1.000.
+Flag Duel trägt: #1 3.119 Views (+18 Abos), #2 1.155 Views n. ≈6,5 h (≈35 % unter #1 im gleichen Fenster). Karten-VS jetzt messbar ≈1,0 Abos/1.000 (#4/#5 je +1) → bleibt.
+Kommentare: 4 offen → alle 4 beantwortet (gesamt 20). Kein Faktenfehler.
+Änderungen: Flag Duel #4 (Do 26.11.) testet wieder den #1-Titel mit Folgennummer („Left or Right?“), Flag Duel #5 Sa 28.11.; Sa-Long = Rätsel #3.
 
 ## TECHNIK-PROBLEM
-- Keine Fehler im Log (22.11.: 2 Shorts hochgeladen, Kommentare/Antworten gepostet, Analytics 18:17). Kein Code-Fix nötig.
-- report.json ist von 22.11. 18:17 (Nacht-Läufe holen nur Kommentare) – normal.
-- Thumbnail-CTR per API weiter HttpError 400 (bekannt).
+- Keine. Log 23.11.: 2 Shorts hochgeladen, Kommentare/Antworten gepostet, Analytics 19:18 + 22:31 ok. Thumbnail-CTR per API weiter HttpError 400 (bekannt, kein Fix nötig).
+- Hinweis: `2026-11-26-flag-duel-4.json` (Nachtrag 23.11.) wurde noch NICHT angelegt → heute Pflicht für den Produktions-Agenten.
 
 ## Zuschauer
-- 21 Kommentare (21 T), **2 offen → beantwortet**: @jilliancunanan-h2f „4/4“ (gelobt + auf Flag Duel #2 eingeladen), @BRIANKL-d8p „four out of 4“ (gelobt + Frage „Which pair almost got you?“).
-- FEHLER-HINWEIS (1) = „I only got 1 wrong“ (@AdnanSadaqat) – Score-Meldung, kein Faktenfehler, längst beantwortet.
-- Flag Duel #1 = 6 von 7 neuen Kommentaren → Format erzeugt Interaktion (Score-Kommentare).
-- Wünsche: @Jo-wl5fj Science (Di 24.11. in Queue), Art + classical music bleiben Backlog #4/#6.
+- 28 Kommentare (21 T), 4 offen → beantwortet: @BashyWashy29 4/4, @Wolfy2026-7wc 4/4, @cloudynbarlan6435 3/4 (alle auf Flag Duel #3 heute eingeladen), @nickolawright3724y „4000000/20000000“ (Witz aufgenommen + Frage zurück).
+- FEHLER-HINWEIS (1) = „I only got 1 wrong“ (Score, kein Fehler, längst beantwortet).
+- 8 von 9 gemeldeten Scores kommen aus Flag Duel → Score-Kommentar-Mechanik wirkt.
+- Wünsche: Science (@Jo-wl5fj) Fr 27.11. 16:00 in Queue; Art + classical music Backlog #5/#7.
 
 ## Diagnose (Videos ≥ 3 T unter Format-Median)
 | Video | Views | Ursache | Fix |
 |---|---|---|---|
-| map-lie-3 (19.11.) | 258 | Grönland in R1 zum 3. Mal → kein Überraschungs-Hook | Grönland gesperrt (läuft) |
-| Geography / Landmarks / Country / USA Quiz (15.–17.11.) | 68–286 | 50–58 s + abgenutzter „Only Geniuses“-Titel | erledigt: ≤ 80 Wörter, neue Titelmuster (Median seither ≈1.010) |
-| US-Karten-Long (17.11.) | 41 | Karten-Longs ziehen nicht | gestrichen |
-| Thanksgiving-Long (21.11., noch < 3 T) | 37 | spät (5 Tage vor Fest), tvshow-Look, Konkurrenz (Still Sharp) startete 2–3 Wochen früher | Christmas-Long jetzt (26.11.), Advent-Themen ab 29.11.; Longs nur exam |
-- **KPI Abos/1.000 Views je Format:** Flag Duel ≈ 3,4 (1 Video) · Longs 3,8 · VS ≈ 0,9 · 6+ Fragen ≈ 0,7 · 1-Frage ≈ 0,6 · 4-Fragen-Trap ≈ 0,3 (gestrichen) · Karten-VS 0 nach 4 Videos mit Daten (Analytics-Verzug; #5–#7 mit Serien-Schluss laufen) → **Karten-VS Bewährung**: wenn map-lie-6…9 im Schnitt < 0,5 Abos/1.000 → ab 30.11. 21:00 abwechselnd Flag Duel.
+| Keine neuen Flops ≥ 3 T | – | which-first-3 1.024, map-lie-5 1.002 = im Median | – |
+| map-lie-7 (23.11., < 3 T) | 266 n. 1,5 h | zu früh; Beobachten (map-lie-3 fiel wegen Wiederholung) | Verdict 26.11. |
+| flag-duel-2 (< 3 T) | 1.155 n. 6,5 h (#1: 1.760 n. 7 h) | Titel „Who Is Slovakia?“ weniger Klick-Neugier als „Left or Right? Only 1 in 10 Get 4/4“ (Hypothese) | #4 mit #1-Titelmuster + Nummer → Vergleich |
+| Thanksgiving-Long | 95 n. 3 T | spät gestartet | erledigt (Christmas-Long Do) |
+- **KPI Abos/1.000 je Format (Analytics):** Flag Duel ≈ 5,8 (#1, Besitzer-Zahlen) · Longs ≈ 3,8 · Karten-VS ≈ 1,0 · 6+ Fragen ≈ 0,7 · VS ≈ 0,9 · 1-Frage ≈ 0,6 · 4-Fragen-Trap ≈ 0,3 (gestrichen). Karten-VS-Bewährung bestanden (> 0,5).
 
-## Konkurrenz-Gewinner heute (competitors.md 22.11.)
+## Konkurrenz-Gewinner heute (vidIQ outliers „flag quiz“, Shorts, Nov.)
 | # | Video (Kanal) | Views / × | Länge | Muster | → Slot |
 |---|---|---|---|---|---|
-| 1 | „Can You Pass the U.S. Citizenship Test? / 50 Questions“ (Trivia Square) | 2,79 Mio / 74× | 15:49 | Prüfungs-Rahmen + 50 Fragen + „Can you pass“ = unser Kanalname | Backlog #2: Citizenship-Long im exam-Look (Sa 5.12.) |
-| 2 | „Test Your iQ in just 7 minutes“ (Clear Think) | 1,88 Mio / 1.556× | 6:48 | Zeitversprechen + IQ | Rätsel-Long Di 24.11. (Queue), Sa 28.11. #3 |
-| 3 | „10 Tricky IQ Riddles / Test Your Intelligence!“ (Quiz World) | 521k / 278× | 6:48 | Zahl + Rätsel, ~7 min | Sa 28.11. „10 Tricky Riddles“ |
-| 4 | „trivia challenge quiz 😌“ (Think Nova) | 489k / 466× | 1:02 | Mini-Titel, 1-min-Quiz | bestätigt kurze Shorts; kein Titel-Wechsel |
-| 5 | „English QuizZ iq test time“ (Math Quiz) | 153k / 33× | 1:11 | Wortschatz als IQ-Test, Serie | Backlog #3 Vokabel-IQ-Short |
-- vidIQ: „flag quiz“ 131.700 Suchen/Monat (Wettbewerb 58), „guess the flag quiz“ 29.600, „country flag quiz“ 22.100 → Flag-Duel-Titel mit „Flag Quiz“ vorn beibehalten.
+| 1 | „Real Flag or Sneaky Fake? Can You Get 5/5?“ (WonderQ, 4,4k Abos) | 334k / 50× (3.400 Views/h) | 1:16 | echte vs. manipulierte Flagge, Score-Hürde | Backlog #2 „Real or Fake Flag“ (Renderer-Check) |
+| 2 | „(1) Flag Quiz Can You Name These 10 Flags?“ (Quizzes Mania, 1k) | 108k / 82× | 1:39 | Serie mit Nummer, 10 Flaggen | bestätigt Folgennummer → „Flag Quiz #4“ |
+| 3 | „Guess the correct flag!“ (MB GeoPlay, 15,6k) | 160k / 39× | 0:43 | richtige Flagge aus Varianten | = Flag-Duel-Prinzip, Bestätigung |
+| 4 | „Which One Is MALAYSIA? Left or Right?! 4 Levels…“ (ThinkBop!, 2,4k) | 22,6k / 13× | 0:26 | exakt Flag-Duel-Struktur, Levels im Titel | Titel #4: „Left or Right?“ zurück (eigene Formulierung) |
+| 5 | „Test Your iQ in just 7 minutes“ (Clear Think) | 1,88 Mio / 1.518× | 6:48 | Zeit + IQ, ~7 min Rätsel | Rätsel-Long Sa 28.11. |
+- Events: Black Friday Fr 27.11. (Backlog), **1. Advent So 29.11.** → Advent-Serie ab 1.12.
 
 ## 3-Tage-Plan
 | Datum / Slot | Format | Thema | Titel (YouTube) | Fragen + timing | Hook / Fragen | Musik | cardColors | Thumbnail | Warum | Erfolg |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 23.11. 16:00 (Queue) | Flag Duel #2 | Iceland/Norway, Senegal/Mali, NL/Lux, Slovakia/Slovenia | Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 | 4 Runden | Queue, Schluss „Follow for number three!“ | game-show | – | – | Exploit E19 | ≥ 800 n. 3 T, ≥ 2 Abos/1k |
-| 23.11. 21:00 (Queue) | Karten-VS #7 | Iceland/Cuba … | This Map Is Lying To You #7 🌍 … | 4 | Queue | world-trip | – | – | Exploit | ≥ 800 |
-| **24.11. (Di) Long 14:00** (Queue) | QuizLong **exam**, 12 Rätsel | IQ-Rätsel | Test Your IQ: 12 Hard Riddles – Can You Solve 5? 🧠 | 12 | Queue | brain-pulse | Queue | B zuerst: „F“ + „CAN YOU SOLVE **5**?“ | Exploit (bestes Long 218) + Konkurrenz #2/#3 | ≥ 100 n. 3 T, ≥ 1 Abo |
-| 24.11. 16:00 (Queue) | 6-Q tvshow | Science (Wunsch) | Science Trivia: 90% Get #4 Wrong 🔬 | 6 | Queue; Kommentar „You asked for it – science! 🔬“ | game-show | Queue | – | Zuschauer-Wunsch | ≥ 600 |
-| 24.11. 21:00 (Queue) | Karten-VS #8 | Turkey/Ukraine … | This Map Is Lying To You #8 🌍 … | 4 | Queue | world-trip | – | – | Exploit | ≥ 800 |
-| 25.11. 16:00 (Queue) | Wahr/Falsch tvshow | Thanksgiving | Thanksgiving True or False 🦃 90% Get #4 Wrong | 6 | Queue | game-show | Queue | – | E18 Event | ≥ 500 |
-| 25.11. 21:00 (Queue) | Karten-VS #9 | Algeria/Alaska … | This Map Is Lying To You #9 🌍 … | 4 | Queue, Schluss „number ten drops tomorrow!“ | world-trip | – | – | Exploit | ≥ 800 |
-| **26.11. (Do) Long 14:00 – NEU ANLEGEN** | QuizLong **exam**, 50 Fragen, 5 Runden à 10 (Easy → Legend) | Christmas (Traditionen, Weihnachtsfilme nur Fakten, Geschichte, Essen weltweit, Wissenschaft im Winter) | **Christmas Quiz 2026 🎄 50 Questions – Can You Get 40?** | 50, Standard-timing | Q1 leicht: „What color are Santa's suit and hat traditionally?“ (Rot) – keine Fragen aus thanksgiving-quiz-50-1 wiederholen, kein Alters-/„for Adults“-Titel; jede Antwort per WebSearch prüfen | brain-pulse | ["#B91C1C","#14532D"] | A: „CHRISTMAS QUIZ“ · **B (zuerst): „F“ + „CAN YOU GET **40/50**?“** · C: „ONLY 1 IN 10 PASS“ | Saison + Konkurrenz Still Sharp Christmas 62,9k | ≥ 100 n. 3 T, ≥ 300 bis 20.12. |
-| **26.11. 16:00 – NEU ANLEGEN** | **Flag Duel #3** (flagduel) | 4 neue Doppelgänger-Paare, nur vorhandene public/flags/*.svg | **Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍** #shorts | 4 Runden, timing wie #2 | Vorschlag: R1 EASY **Austria vs Latvia** · R2 MEDIUM **Colombia vs Ecuador** · R3 HARD **Haiti vs Liechtenstein** · R4 LEGEND **Qatar vs Bahrain**. Keine Paare aus #1/#2. Schluss: „Follow for flag duel number four!“ (≤ 80 Wörter) | game-show | – | – | **Exploit: bester Abo-Treiber (3,4/1k)** | ≥ 1.000 n. 3 T, ≥ 2 Abos/1k |
-| **26.11. 21:00 – NEU ANLEGEN** | Karten-VS #10 (truesize) | nur vorhandene Formen, kein Grönland, keine Paare aus #1–#9 | This Map Is Lying To You #10 🌍 Which Is REALLY Bigger? | 4 Runden, ≤ 55 Wörter | R1 muss überraschen (Vorschlag: Mongolia vs Alaska, nur wenn Kontrolle ≥ 5 %, sonst Iran vs Mongolia); Gewinner mischen. Jubiläum: Hook „Episode ten – the hardest one yet.“ Schluss „Follow, number eleven drops tomorrow!“ | world-trip | – | – | Exploit (Median ≈1.000) | ≥ 800 |
+| 24.11. Long 14:00 (Queue) | QuizLong exam, 12 Rätsel | IQ-Rätsel #2 | Test Your IQ: 12 Hard Riddles – Can You Solve 5? 🧠 | 12 | Queue | brain-pulse | Queue | B zuerst „F“ + „CAN YOU SOLVE **5**?“ | Exploit + erster exam-Look | ≥ 100 n. 3 T, ≥ 1 Abo |
+| 24.11. 16:00 (Queue) | Flag Duel #3 | Austria/Latvia, Colombia/Ecuador, Haiti/Liechtenstein, Qatar/Bahrain | Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 | 4 | Queue | game-show | – | – | Exploit E21 | ≥ 1.000 n. 3 T |
+| 24.11. 21:00 (Queue) | Karten-VS #8 | Queue | This Map Is Lying To You #8 🌍 … | 4 | Queue | world-trip | – | – | Exploit | ≥ 800 |
+| 25.11. 16:00 (Queue) | Wahr/Falsch | Thanksgiving | Thanksgiving True or False 🦃 90% Get #4 Wrong | 6 | Queue | game-show | Queue | – | E18 Event | ≥ 500 |
+| 25.11. 21:00 (Queue) | Karten-VS #9 | Queue | This Map Is Lying To You #9 🌍 … | 4 | Queue | world-trip | – | – | Exploit | ≥ 800 |
+| 26.11. Long 14:00 (Queue) | QuizLong exam, 50 Q | Christmas | Christmas Quiz 2026 🎄 50 Questions – Can You Get 40? | 50 | Queue | brain-pulse | #B91C1C/#14532D | B zuerst „CAN YOU GET **40/50**?“ | Saison | ≥ 100 n. 3 T |
+| **26.11. 16:00 – NEU ANLEGEN** | **Flag Duel #4** (flagduel) | 4 neue Doppelgänger-Paare | **Flag Quiz #4: Left or Right? Only 1 in 10 Get 4/4 🌍** #shorts | 4 Runden, timing wie #3 | Vorschlag: EASY **Mexico vs Italy** (Ziel Mexico) · MEDIUM **Bulgaria vs Hungary** (Ziel Bulgaria) · HARD **Honduras vs Nicaragua** (Ziel Honduras) · LEGEND **Guinea vs Mali** (Ziel Guinea). Schluss „Follow for flag duel number five!“ | game-show | – | – | **E22 Titel-Test**: #1-Muster + Nummer vs. „Who Is X?“ (#2/#3) | Views n. 24 h > Ø(#2,#3) |
+| 26.11. 21:00 (Queue) | Karten-VS #10 | Queue | This Map Is Lying To You #10 🌍 … | 4 | Queue | world-trip | – | – | Exploit | ≥ 800 |
+| 27.11. 16:00 (Queue) | 6-Q tvshow | Science (Wunsch) | Science Trivia: 90% Get #4 Wrong 🔬 | 6 | Queue; Kommentar „You asked for it – science! 🔬“ | game-show | Queue | – | Zuschauer-Wunsch | ≥ 600 |
+| **27.11. 21:00 – NEU ANLEGEN** | Karten-VS #11 (truesize) | nur vorhandene Formen, kein Grönland, keine Paare aus #1–#10 | This Map Is Lying To You #11 🌍 Which Is REALLY Bigger? | 4 Runden, ≤ 55 Wörter | R1 muss überraschen, Kontrollspalte ≥ 5 % je Paar, Gewinner mischen. Schluss „Follow, number twelve drops tomorrow!“ | world-trip | – | – | Exploit (≈1,0 Abos/1k, Median ≈1.000) | ≥ 800 |
 
-Vorschau: Fr 27.11. 16:00 Reno-1-Frage (Datei umbenennen) + 21:00 map-lie-11 · Sa 28.11. Long Rätsel #3 „10 Tricky Riddles – Can You Solve 4?“ (exam) + 16:00 Flag Duel #4 · So 29.11. Advent-Start.
-Bandit 24.–26.11. (9 Slots): 7 Exploit (Karten-VS ×3, Flag Duel, Rätsel-Long, Science-Wunsch, Christmas-Long im Gewinner-Muster), 2 Experimente (E18 T/F, E21 Flag-Duel-Takt).
+Vorschau: **Sa 28.11.** Long 14:00 Rätsel #3 „IQ Test: 10 Riddles 90% Fail – Can You Solve 4? 🧠“ (exam, B „CAN YOU SOLVE **4**?“) + 16:00 **Flag Duel #5** (Vorschlag USA/Liberia, Belgium/Germany, Bolivia/Lithuania, Kuwait/UAE; Titel nach E22-Ergebnis) + 21:00 map-lie-12 · So 29.11. 16:00 Reno-1-Frage, 21:00 map-lie-13 (1. Advent).
+Bandit 24.–27.11. (11 Slots): 8 Exploit, 3 Experimente (E18 T/F, E21 Takt, E22 Flag-Titel).
 
 ## Ideen-Backlog
-1. Flag Duel alle 2 Tage 16:00 – 3,4 Abos/1k, 1.760 Views in 7 h (bester Start ever).
-2. „Can You Pass the U.S. Citizenship Test?“ exam-Long – Trivia Square 2,79 Mio; passt 1:1 zum Kanalnamen + Prüfungs-Look.
-3. Vokabel-IQ-Short („What does ‚ubiquitous' mean?“) – Math Quiz 153k/123k.
-4. Art-Trivia-Short „Art Trivia: 90% Get #4 Wrong 🎨“ – Zuschauer-Wunsch @Jo-wl5fj.
-5. Advent-Serie „Christmas Trivia #1–24“ ab 1.12. (16:00 an Nicht-Flag-Tagen) – Serie + Saison.
-6. Klassik-Fakten-Short (ohne Musik-Ausschnitte) – Wunsch @Jo-wl5fj.
-7. Rätsel-Long jeden Di/Sa – bestes Long-Format (218).
-8. Black Friday „Which Costs More?“-Short 27.11. – nur Listenpreise, Event.
-9. „Hidden Flag“-Variante im Flag Duel (vidIQ 9.661 Suchen) – erst prüfen, ob Renderer das kann.
-10. Flag-Long „Flag Quiz: 50 Look-Alike Flags“ – nur wenn Flag Duel #2/#3 ≥ 1.000 (Long-Version des Gewinners).
+1. Flag Duel täglich ab 29.11., wenn #3/#4 ≥ 1.000 n. 24 h – einziges Format > 2 Abos/1k.
+2. „Real or Fake Flag?“ – WonderQ 334k/50×; eine echte + eine manipulierte Flagge (Farbe/Stern/Streifen geändert). Erst prüfen, ob flagduel eigene SVGs (public/flags/fake/…) laden kann.
+3. Flag-Long „Flag Quiz: 50 Look-Alike Flags – Can You Get 40?“ (exam) – Long-Version des Gewinners, Sa 5.12.
+4. „Can You Pass the U.S. Citizenship Test?“ exam-Long – Trivia Square 2,8 Mio, passt zum Kanalnamen.
+5. Art-Trivia-Short – Wunsch @Jo-wl5fj.
+6. Advent-Serie „Christmas Trivia #1–24“ ab 1.12. 16:00 an Nicht-Flag-Tagen.
+7. Klassik-Fakten-Short (ohne Musikausschnitte) – Wunsch @Jo-wl5fj.
+8. Black Friday „Which Costs More?“-Short – nur Listenpreise (Fr 27.11. belegt → nächstes Jahr / Cyber Monday 30.11.).
+9. Vokabel-IQ-Short – Math Quiz 153k.
+10. „Name These 10 Flags“ 10-Flaggen-Short (Quizzes Mania 108k/82×) – Variante der 6-Q, wenn Flag Duel ermüdet.
 
 ## Für den Produktions-Agenten (heute)
-- Anlegen: `2026-11-26-christmas-quiz-50-1.json` (Long, layout "exam", 14:00), `2026-11-26-flag-duel-3.json` (16:00), `2026-11-26-map-lie-10.json` (21:00).
-- `git mv queue/2026-11-26-one-q-further-west.json queue/2026-11-27-one-q-further-west.json` (publishAt 16:00 bleibt).
-- Flag Duel #3: nur Flaggen, die in public/flags existieren; Paare nie aus #1/#2; nichts Politisches (kein Palestine/Israel, Taiwan, Kosovo); Indonesia/Monaco verboten; jede Seite muss klar unterscheidbar sein. Pinned comment: „Which pair fooled you? Comment your score /4 👇“.
-- Christmas-Long: 50 Fragen fakten-geprüft, Fragen ≤ 95 Zeichen, Antworten ≤ 30 Zeichen, hook/finalLabel ohne Emoji, thumbTexts[1] = „CAN YOU GET **40/50**?“; Duplikat-grep gegen thanksgiving-quiz-50-1 und alle Winter-Shorts.
-- Serien-Schluss Pflicht (Karten-VS „Follow, number N+1 drops tomorrow!“, Flag Duel „Follow for flag duel number N+1!“).
-- Weiter verboten: Halloween, Alters-Titel, Politik, Longs Mo/Mi/Fr/So, 3. Short pro Tag.
-
-## NACHTRAG 23.11. 07:30 – Flag Duel #1 explodiert (Besitzer-Screenshots)
-- flag-duel-1 nach 15 h: **2.600 Views (+2.500 über normal), +17 Abos, 61,4 % stayed, 1.500 engaged Views**, YouTube: „wird öfter geteilt als üblich“. = **≈6,5 Abos/1.000 Views** (Kanal-Schnitt 0,70 → ≈9× besser). Kanal ≈ 49 Abos.
-- **Entscheidung: Flag Duel alle 2 Tage 16:00 ab sofort, täglich ab 29.11., wenn #2/#3 ≥ 1.000 Views n. 24 h.**
-- Queue umgebaut (git mv): **flag-duel-3 → Di 24.11. 16:00** (passt zum Schluss von #2 „Follow for number three!“), Science-Wunsch → Fr 27.11. 16:00, Reno-1-Frage → So 29.11. 16:00 (vorläufig).
-- Neu für Produktions-Agent 24.11.: **`2026-11-26-flag-duel-4.json` (16:00)** – 4 neue Doppelgänger-Paare, keine aus #1–#3 (#3: Austria/Latvia, Colombia/Ecuador, Haiti/Liechtenstein, Qatar/Bahrain), nichts Politisches, Schluss „Follow for flag duel number five!“. Titelmuster „Flag Quiz: Who Is <X>? 90% Pick Wrong 🌍“. Danach **flag-duel-5 Sa 28.11. 16:00**.
-- Karten-VS 21:00 bleibt (Serienversprechen bis #10); ab 27.11. Prüfung: Flag Duel auch 21:00?
-- Backlog #10 hochgestuft: **Flag-Long „Flag Quiz: 50 Look-Alike Flags – Can You Get 40?“** (exam/Flag-Duel-Look) – prüfen, ob QuizLong Flaggen-Bilder rendern kann; Ziel Sa 5.12.
+- Anlegen: `2026-11-26-flag-duel-4.json` (16:00, Titel exakt „Flag Quiz #4: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts“) und `2026-11-27-map-lie-11.json` (21:00).
+- Flag Duel #4: nur Flaggen aus public/flags; keine Paare aus #1–#3; nichts Politisches; Indonesia/Monaco verboten; jedes Paar muss sichtbar unterscheidbar sein (sonst Ersatzpaar). Pinned comment „Which pair fooled you? Comment your score /4 👇“. ≤ 80 Wörter.
+- Serien-Schluss Pflicht. Keine Halloween-, Alters- oder Politik-Themen; keine Longs Mo/Mi/Fr/So; max. 2 Shorts/Tag.

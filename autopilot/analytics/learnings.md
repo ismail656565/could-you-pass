@@ -740,3 +740,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Flag Duel #1 n. 15 h: 2.600 Views, **+17 Abos (≈6,5/1.000)**, 61,4 % stayed, überdurchschnittlich geteilt → Flag Duel = Haupt-Abo-Format. Takt alle 2 Tage 16:00 (24./26./28.11.), täglich ab 29.11. wenn #2/#3 ≥ 1.000 n. 24 h. Fester Look, nur Doppelgänger-Flaggen, Titel „Flag Quiz: …“, Schluss „Follow for flag duel number N+1!“.
 - 23.11. 17:51 (Besitzer-Screenshot): flag-duel-1 n. 25 h **3.000 Views, +18 Abos** – Kurve flacht ab ≈2.600 ab (15 h → 25 h nur +400, Abos +1). Normales Shorts-Abklingen nach dem 2. Test-Pool; 17 von 18 Abos kamen in den ersten 15 h → Abos entstehen im Push-Fenster, daher Folgen in kurzem Takt nachlegen statt am alten Video zu drehen. Video nicht bearbeiten (Titel/Thumbnail bleiben).
 - 23.11. 17:52 (Besitzer-Screenshot): **flag-duel-2 n. 112 min 853 Views (6,1× andere Shorts), +1 Abo**, zweite Welle startet schon ab ≈70 min (Kurve steigt steil). #1 lag bei 1.000 n. 2 h 15 → #2 gleicher Kurs = Format bestätigt, kein Glückstreffer. Täglich-Takt ab 29.11. wird wahrscheinlich.
+
+## 2026-11-24 – Research
+- Kanal 43 Abos (+11 in ≈28 h bei ≈4.500 Views ≈ 2,4/1.000 im aktuellen Fenster; Analytics gesamt 26/35.881 = 0,72). Flag Duel #1 3.119 Views/+18 Abos; #2 1.155 n. 6,5 h (≈35 % unter #1) → E22: #4 mit #1-Titel „Left or Right? Only 1 in 10 Get 4/4“ + Folgennummer.
+- Karten-VS jetzt mit Abos in Analytics (#4/#5 je +1 bei ≈1.000 Views ≈ 1,0/1.000) → Bewährung bestanden, 21:00 bleibt Karten-VS.
+- vidIQ outliers Flag-Shorts Nov.: „Real Flag or Sneaky Fake? 5/5“ (WonderQ) 334k/50×, „Flag Quiz (1) Name 10 Flags“ 108k/82×, ThinkBop „Which One Is MALAYSIA? Left or Right?! 4 Levels“ 22,6k/13× → Flag-Nische boomt, Folgennummern üblich; „Real or Fake Flag“ als nächstes Flag-Experiment (Renderer-Check).
+- Kommentare 4/4 beantwortet (20 gesamt), kein Faktenfehler. 1. Advent = 29.11.
