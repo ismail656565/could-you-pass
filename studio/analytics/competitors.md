@@ -6,100 +6,100 @@ Stand: 2026-11-24. Faktor = Views ÷ Median der letzten Videos desselben Konkurr
 
 | Faktor | Views | Typ | Kanal | Titel | ID |
 |---:|---:|---|---|---|---|
-| 4.1× | 540208 | Short | Kings and Generals | 10,000 Nubian Archers Destroyed an Entire Arab Army #history #africanh | gGZQxHO0y8U |
-| 3.8× | 505614 | Long 19m | Kings and Generals | Why Spain Collapsed Into Civil War - Kings and Generals Modern | H2xV6FnbSkQ |
-| 3.2× | 262717 | Long 12m | Ancient Architects | Ancient CART RUTS of Malta: Mystery SOLVED?! | QwJz_KR6oqo |
-| 2.7× | 357481 | Long 24m | Kings and Generals | Yugoslavia 1991: How the Wars Began | ytmwsMU1DMA |
-| 2.5× | 339661 | Long 19m | Kings and Generals | Not only Janissaries - The Ottoman Empire’s Elite Army | U8qHNk0xPss |
-| 2.2× | 289589 | Long 16m | Kings and Generals | Why Iran Couldn't Defeat Saddam Hussein - Iran-Iraq War DOCUMENTARY | vhmHhCEwoSk |
-| 2.0× | 273067 | Long 19m | Kings and Generals | Russian Invasion of Ukraine Before the Midterm Blue Tsunami | BK42hlcV-Gs |
-| 2.0× | 262971 | Short | Kings and Generals | Why Rome didn't care about Britain #romanempire #history | lSZx1OiSjwg |
-| 1.9× | 251639 | Long 80m | Kings and Generals | Hunyadi vs the Ottomans: The Full Story Behind the Legend | scZAjqFA7kk |
-| 1.9× | 9506 | Short | See U in History / Mytho | Necrons: The Terrible Price of Immortality in Warhammer40k | gIY1g7Dq4_A |
-| 1.8× | 238843 | Long 20m | Kings and Generals | Spanish Civil War: How Franco Seized Power | BTs75T-Ree8 |
-| 1.7× | 223323 | Long 20m | Kings and Generals | From India to Europe: The Romani Odyssey | HARdgJjiR7s |
+| 102.9× | 742846 | Long 25m | Rap Underworld | T.I. Tried To Warn Yella Beezy. He Didn't Listen... | NxtE25hhgu0 |
+| 75.1× | 542066 | Long 24m | Rap Underworld | Yella Beezy's Girlfriend Just Inherited His $10M Fortune, How She Live | JnKb7omoLc0 |
+| 27.0× | 195089 | Long 25m | Rap Underworld | Yella Beezy's Jeweler Finally Breaks Silence In Court... | XPqBkvM2OK0 |
+| 18.7× | 135310 | Long 24m | Rap Underworld | The ONLY Witness Who Died Knowing Who Killed Tupac (The Story Of Yaki  | QC1VVrW9mos |
+| 9.7× | 70165 | Long 25m | Rap Underworld | Yella Beezy Left Behind 2 Little Sons, How They Live Is INSANE! | ZdbeN2FY7IA |
+| 7.2× | 51858 | Long 30m | Rap Underworld | Yella Beezy Finally Breaks Silence in Court... | iLAKKlHdEMg |
+| 5.0× | 35996 | Long 25m | Rap Underworld | Yella Beezy Is In SERIOUS Trouble After Kewon White’s Friend Testifies | Zzr8InCSOo0 |
+| 3.5× | 469890 | Long 29m | Matt Cullen | The Tamara Joseph Rabbit Hole Is So Much Darker Than Anyone Realized… | O6c_UFv_428 |
+| 3.5× | 21358 | Long 37m | Fervent | A Haunting in Canton - A Film by Fervent x ExhibitAli  | OmzyXVaWQFQ |
+| 3.4× | 20965 | Short | Fervent | The Trials of Karen Read Trailer Review | Or-vHqZM1fI |
+| 3.1× | 416059 | Long 11m | Matt Cullen | MAGA IS FULLY CRASHING OUT... (This is Getting Out of Control) | 4U2Lm8i5NPE |
+| 2.5× | 18250 | Long 23m | Rap Underworld | How Yella Beezy's Crew Self Snitched About Mo3's Murder On Camera | sfZZUDO-oqA |
 
 ## perceptlab
 
 | Faktor | Views | Typ | Kanal | Titel | ID |
 |---:|---:|---|---|---|---|
-| 14.7× | 2383898 | Long 5m | AsapSCIENCE | Nobody has EVER seen the ocean do this before | gMur01WsXZU |
-| 13.1× | 2933979 | Long 7m | SciShow | Why Isn’t Heart Cancer a Thing? | uALjsKI-ceE |
-| 5.2× | 1157098 | Long 15m | SciShow | Why Is There No Vitamin F? | i7esSCr2UJk |
-| 4.6× | 1029709 | Long 17m | SciShow | AI Psychosis Is Killing People. It’s Time to Talk About It | 1nVwqDL3XCI |
-| 2.6× | 1337871 | Long 5m | TED-Ed | What if you didn’t brush your teeth for a year? - Justin Merritt | 8RPK5KwYhgA |
-| 2.6× | 192360 | Long 5m | MindYourDecisions | The Game Show Question That Stumped Everyone | QtCL5pYI8Zc |
-| 2.1× | 183155 | Long 5m | Psych2Go | Smart People Can't Find Love. Here's Why | POUF4fhMZ6c |
-| 2.0× | 1018782 | Long 6m | TED-Ed | Can you solve the Billy Bonka riddle? - Edwin F. Meyer | 8EtdC9Bjubk |
-| 1.9× | 422071 | Long 5m | SciShow | The Man O' War Is Scarier Than You Think | 1EX702Au9oQ |
-| 1.8× | 164042 | Long 7m | Psych2Go | You're NOT As BAD as You THINK You Are (Watch Till The End) | na_BKbmwOQo |
-| 1.5× | 330756 | Long 13m | SciShow | 4 Supervolcanoes You’ve Never Heard Of | N9zYE5Ui97g |
-| 1.5× | 328885 | Long 15m | SciShow | Those Ape Sign Language Studies May Have Been Bogus | ZDlcqG7Kuho |
+| 27.2× | 251767 | Short | ManifestationLaw | What the Gnostics knew was so dangerous they were wiped out for it. 👁️ | DB6f-NIxzOA |
+| 13.0× | 1285655 | Short | Dramatic_science | Can you reverse the spin using your brain ?! | 3j_BH1oT_SE |
+| 6.8× | 28952 | Short | MindWarp 3D 2.0 | 🧠 This Mind-Bending Illusion Will Trick Your Brain! #shorts #usa | Z3GmTopETSA |
+| 6.3× | 58558 | Short | ManifestationLaw | They lied about prayer. It was never about asking. It's about this. 🙏  | eMrJ2qH5j3g |
+| 5.9× | 25112 | Short | MindWarp 3D 2.0 | 🧠 This Mind-Bending Illusion Will Trick Your Brain! #shorts #usa | 9WJbPnDhsNU |
+| 5.8× | 24515 | Short | MindWarp 3D 2.0 | 😵 This Visual Trick Will Leave You Speechless! #shorts #usa | ZP4wjmfjSw0 |
+| 5.5× | 23601 | Short | MindWarp 3D 2.0 | 🧠 This Mind-Bending Illusion Will Trick Your Brain! #shorts #usa | bXpM1xO5QjE |
+| 4.3× | 18466 | Short | MindWarp 3D 2.0 | 🚨 Don’t Blink! This Illusion Will Trick Your Eyes! #shorts #usa | FUwrRXSMTgs |
+| 3.9× | 16380 | Short | MindWarp 3D 2.0 | 🧠 This Mind-Bending Illusion Will Trick Your Brain! #shorts #usa | bfBrq4ZartM |
+| 3.7× | 370206 | Short | Dramatic_science | Can you reverse the spin for this now ? LEVEL - INTERMEDIATE | e5Kuif7KFeM |
+| 3.7× | 365754 | Short | Dramatic_science | Can you reverse the spin of golden ball ? | XcS6A7RT55A |
+| 3.4× | 340268 | Short | Dramatic_science | Can you reverse spin of this moving arrow ? | KP_1flZscMg |
 
 ## hiddenfrontlines
 
 | Faktor | Views | Typ | Kanal | Titel | ID |
 |---:|---:|---|---|---|---|
-| 37.8× | 579403 | Long 10m | Simple History | The Stupidest Gun Mistakes Ever | BDGczmBFJtw |
-| 32.1× | 492540 | Long 10m | Simple History | Guns Turned Auto | Lq-UiynF0VY |
-| 26.6× | 407576 | Short | Simple History | An AK 47 M16 Hybrid | H1jn5LPXiKQ |
-| 21.7× | 332389 | Long 36m | Simple History | Weirdest Tanks Ever Made | fGJx14vE-8w |
-| 17.5× | 268278 | Long 12m | Simple History | Why Soldiers Love Duct Tape | PNO_l4_P_TQ |
-| 14.8× | 227228 | Long 34m | Simple History | Strange Secrets of the AK 47 | M0RZasms4sA |
-| 12.4× | 190202 | Short | Simple History | Cambodia's 'Frankengun' | xYg_KRB6Gaw |
-| 9.8× | 150755 | Long 9m | Simple History | Weirdest Grenades | KawZ8FcBpCw |
-| 7.7× | 117513 | Long 9m | Simple History | The Deadliest Secret of Unit 731 | 6XfjUF1C828 |
-| 6.3× | 96031 | Long 37m | Simple History | Habits only Soldiers will understand | fBHbt4cYvjU |
-| 6.1× | 18506439 | Long 19m | Yarnhub | When the US Hit Tokyo After Pearl Harbor | 2ZKANCH80-M |
-| 2.1× | 775836 | Long 14m | The Armchair Historian | Korea Under Japanese Rule | EtGLIBsJuec |
+| 46.9× | 146966 | Short | AAF - After Action Files | The 20-Year-Old American Who Threw Out His P-38 Parachute | gxp8SL9e3m0 |
+| 15.1× | 47149 | Short | AAF - After Action Files | The Wounded U.S. Lieutenant Who Threw Rocks at an Oliveto Bunker | cujzPAp9Gss |
+| 8.0× | 213566 | Short | American Veterans Center | The Captain Turned The Carrier For Me To Land | x_Q7mNi5-wA |
+| 7.7× | 206803 | Long 34m | American Veterans Center | Making Every Shot Count: A Vietnam Sniper's Story | Al Hockaday | PgxneQmo_p8 |
+| 7.4× | 198667 | Short | American Veterans Center | We Didn't Hold Back On The SS Officers | jbkCQG-b3bE |
+| 7.2× | 22640 | Short | AAF - After Action Files | The B-29 Radioman Who Carried a Burning Bomb to the Cockpit | fx4N0MLL_CQ |
+| 4.5× | 14107 | Short | AAF - After Action Files | The Navy Skyraider Pilots Who Turned Into Diving Soviet MiGs | p8TVZLxZ_7M |
+| 4.3× | 185503 | Short | Forgotten Highlights | She survived 18 years alone on a remote island. She died 7 weeks after | Fv5VmhgzKGc |
+| 4.0× | 12384 | Short | AAF - After Action Files | The Bulge Private Who Waited in the Dark for Five Tanks | pSNpDV4Cquk |
+| 3.6× | 153030 | Short | Forgotten Highlights | Given one year to live, he gave away billions and gained 44 years. | lFe__rL2c6Y |
+| 3.6× | 11251 | Short | AAF - After Action Files | The B-17 Co-Pilot Who Flew Two Hours Holding Back His Own Pilot | CecOCrMP_0g |
+| 3.4× | 147442 | Short | Forgotten Highlights | Her solar still saved WWII sailors. She held 20+ patents. History forg | 1yHIAcE7HJI |
 
 ## humanlimit
 
 | Faktor | Views | Typ | Kanal | Titel | ID |
 |---:|---:|---|---|---|---|
-| 14.7× | 2383898 | Long 5m | AsapSCIENCE | Nobody has EVER seen the ocean do this before | gMur01WsXZU |
-| 7.8× | 2873035 | Long 18m | The Infographics Show | History Is Repeating. This Is Where It Goes Wrong. | 0DYYdcGrbMM |
-| 7.8× | 47 | Short | BodyScribble | What If You Aged 10x Slower? You’d Live 500 Years 🤯 | Z5KITeOVzwE |
-| 3.2× | 19 | Short | BodyScribble | What if you had 1000 IQ? | ddVskpimX3o |
-| 2.7× | 995538 | Long 16m | The Infographics Show | The Big Bang Theory Is Wrong, This New Theory Is Even Stranger | eOZblHcqkvo |
-| 2.7× | 994658 | Long 14m | The Infographics Show | Foreign Nations JUST Left the US Bond Market. Wall Street Panics RIGHT | f1MGkmM28wA |
-| 2.6× | 12231434 | Short | Zack D. Films | How Mouth Breathing Can Change Your Face 😬 | 2ll9ClpJ3x8 |
-| 2.4× | 883591 | Long 13m | The Infographics Show | Karma Just Hit HP Printers. Hard. | JnP0pahxRt8 |
-| 2.3× | 10683409 | Short | Zack D. Films | The Elephant That Walked Up To A Vet 😮 | buxxsDdLtP8 |
-| 2.3× | 10510374 | Short | Zack D. Films | Turning Your Finger Into A Gun 😨 | fhpFTshEXAc |
-| 1.9× | 8692787 | Short | Zack D. Films | The Tsunami Baby Claimed By Nine Families 🤨 | AMlsGz_YJD8 |
-| 1.9× | 711657 | Long 19m | The Infographics Show | Why Phone Scammers Wait Exactly 3 Seconds Before Speaking | j16_OPRTT4g |
+| 529.9× | 1585710 | Short | Morbidly Curious | This Fish Becomes Part of His Mate's Body | z11KybjFy_c |
+| 246.7× | 738272 | Short | Morbidly Curious | This Bug Becomes A Fish's Tongue | S6jnIYRWIUE |
+| 108.7× | 325155 | Short | Morbidly Curious | This Fish Eats a Dead Whale From the Inside | qOYNrwIcRpA |
+| 33.5× | 966086 | Short | Fizzyfern | How a Mountain Becomes A Nuclear Fortress | C2JMHNKs4T4 |
+| 27.4× | 788711 | Short | Fizzyfern | How A Hole Becomes A Skyscraper | vQdqBE_JX2s |
+| 18.3× | 395048 | Short | THE UNFILMED | Why the Glastonbury Crowd Sang Lewis Capaldi's Song for Him | wesmdhwx-2I |
+| 16.0× | 48025 | Short | Morbidly Curious | A Prisoner Poured His Only Water on His Cell Wall | _bMn926DBOA |
+| 15.2× | 122820 | Short | I Found Out | Rarest Phenomena In The World #shorts | hRGj8SYdW2w |
+| 14.6× | 43789 | Short | Morbidly Curious | A Particle Beam Went Through His Head | 31_ZwnumQWg |
+| 9.4× | 28086 | Short | Morbidly Curious | He Pushed a Tube Into His Own Heart and Won a Nobel Prize | lN9NECu-k8M |
+| 9.1× | 27129 | Short | Morbidly Curious | A Fake Surgeon Pulled a Bullet From Beside a Heart | p9NKIWnm9mQ |
+| 7.6× | 22597 | Short | Morbidly Curious | A Prisoner Spat His Soup on His Handcuffs Every Day | YRe1LfnTa1A |
 
 ## plotmelt
 
 | Faktor | Views | Typ | Kanal | Titel | ID |
 |---:|---:|---|---|---|---|
-| 18.6× | 10875439 | Long 47m | MSA | I Have Two Sisters No One Knows About | ohUGaz1nkx4 |
-| 11.4× | 6654698 | Long 59m | MSA | My Mom Thinks I'm a Curse | x86_c3eeJxs |
-| 8.2× | 4787834 | Long 24m | MSA | I Had My Own Room In An Orphanage | kpVb1C7R5Fg |
-| 6.9× | 213792 | Short | storybooth | My "BF" Broke Up With Me Over Text | BdBQ029KPrU |
-| 3.6× | 111207 | Long 3m | storybooth | My Bully Had A WEIRD Obsession With Me | wb7U34Z7d68 |
-| 3.5× | 110031 | Long 3m | storybooth | How I Learned To Be Myself | FGMGMhF9JDc |
-| 3.5× | 107422 | Long 3m | storybooth | My Online BF Wasn't Who Everyone Thought | -NAwXP4iPds |
-| 0.9× | 28727 | Short | storybooth | When your bully has a weird obsession with you...full video on our cha | qQ8u3nyAvWw |
-| 0.7× | 396509 | Short | MSA | Our best movie this Friday - Trailer 1 | yRPvOXcVp-g |
-| 0.2× | 6847 | Short | storybooth | Find out what happens NEXT when Faith opens a text from her bf  #anima | Sv2WIvGlSnU |
-| 0.2× | 4863 | Short | storybooth | Watch Andre’s full story, “Am I Even Gay Enough?” - now live on our ch | Gg2eWcFbIOI |
-| 0.1× | 814870 | Short | Haminations | I Gotta Tell You Something | 1R-IIFDuLCY |
+| 7.7× | 2027628 | Short | Zealot | When you start feeding your pet power ups | gKYMcV4AbPg |
+| 4.0× | 1042378 | Short | Zealot | When the game’s boss joins your party | _Lq8avSG64Y |
+| 3.7× | 982145 | Short | Zealot | When the game has cute magical creatures | cY0sgvOhTN8 |
+| 3.5× | 930701 | Short | Zealot | When your favorite character in the entire game finally gets what’s co | a0FhA_RqKRc |
+| 2.4× | 620456 | Short | Zealot | When you have to use an ancient dungeon artifact to go visit god | kcUGWzLT8KE |
+| 2.2× | 589430 | Short | Zealot | When it turns out you were the game’s villain the whole time | QKmwUQSfxyw |
+| 2.1× | 541782 | Short | Zealot | When even god can’t save the game’s hero | GmAslMqHGK4 |
+| 2.0× | 519950 | Short | Zealot | When you learn your character is crazy OP | Guk2bmdNv4Q |
+| 1.9× | 503153 | Short | Zealot | When the game tells you a riddle for the next quest | k3UAMe8dQgI |
+| 1.6× | 428178 | Short | Zealot | When the quest is hard because the NPCs won’t help you | IXJfW79vhMk |
+| 1.6× | 422913 | Short | Zealot | When you learn your favorite character in the entire game is voiced by | DIhkv9rw2Kk |
+| 1.6× | 415894 | Short | Zealot | When you have to start over with no levels or items | wljRjJOOQBY |
 
 ## wildlytrue
 
 | Faktor | Views | Typ | Kanal | Titel | ID |
 |---:|---:|---|---|---|---|
-| 37.8× | 579403 | Long 10m | Simple History | The Stupidest Gun Mistakes Ever | BDGczmBFJtw |
-| 32.1× | 492540 | Long 10m | Simple History | Guns Turned Auto | Lq-UiynF0VY |
-| 26.6× | 407576 | Short | Simple History | An AK 47 M16 Hybrid | H1jn5LPXiKQ |
-| 21.7× | 332389 | Long 36m | Simple History | Weirdest Tanks Ever Made | fGJx14vE-8w |
-| 17.5× | 268278 | Long 12m | Simple History | Why Soldiers Love Duct Tape | PNO_l4_P_TQ |
-| 14.8× | 227129 | Long 34m | Simple History | Strange Secrets of the AK 47 | M0RZasms4sA |
-| 12.4× | 190202 | Short | Simple History | Cambodia's 'Frankengun' | xYg_KRB6Gaw |
-| 9.8× | 150755 | Long 9m | Simple History | Weirdest Grenades | KawZ8FcBpCw |
-| 7.7× | 117513 | Long 9m | Simple History | The Deadliest Secret of Unit 731 | 6XfjUF1C828 |
-| 6.3× | 96031 | Long 37m | Simple History | Habits only Soldiers will understand | fBHbt4cYvjU |
-| 2.6× | 12231434 | Short | Zack D. Films | How Mouth Breathing Can Change Your Face 😬 | 2ll9ClpJ3x8 |
-| 2.6× | 1337871 | Long 5m | TED-Ed | What if you didn’t brush your teeth for a year? - Justin Merritt | 8RPK5KwYhgA |
+| 20.7× | 8472889 | Short | E. FRANK | 5 Extinct Animals Scientists Are Bringing Back 😨   #animalfacts #extin | iykYjcSycNg |
+| 18.1× | 1258017 | Short | The Wildest Dose | What is THAT?! | dP0-jKtFhzY |
+| 12.7× | 5199285 | Short | E. FRANK | 5 Animals That Can Survive Without Sleep 😱  #animalfacts #sleepdepriva | j7MMYEKv9g4 |
+| 10.6× | 4359462 | Short | E. FRANK | 5 Hybrid Animals Created by Humans 😱   #animalfacts #animalhybrids #us | 3CRpIIT5Uvs |
+| 10.6× | 734943 | Short | The Wildest Dose | Why this ROOSTER is stronger than YOU | BIqhYQfqX3Y |
+| 6.9× | 2813291 | Short | E. FRANK | 5 Animals That Actually Hunt Humans 😱   #animalfacts #predator #usa | fSIlQncWQ2k |
+| 6.9× | 447554 | Short | ferawild | Insane Animal Facts Nature Never Wanted You To Know! 😳 | xTqjyJgFFOQ |
+| 5.3× | 2152126 | Short | E. FRANK | 5 Animals That Look TERRIFYING but Are Totally Harmless 🤯  #animalfact | 3IEcD1syYTg |
+| 4.7× | 270385 | Short | Facts Retold | Why Super Glue Was Initially Rejected | cfbN-8oFVb0 |
+| 4.0× | 1645565 | Short | E. FRANK | 5 Animals That Are Technically Immortal 🤯 #Animalfacts #wildlife #usa | 1IQPD_th20g |
+| 4.0× | 257315 | Short | ferawild | Insane Animal Facts Nature Never Wanted You To Know! 😰 | TLiK7jmL_Xo |
+| 3.8× | 1538960 | Short | E. FRANK | 5 Animal Facts That Sound Completely Unreal 😱  #animalfacts #animals # | gx8KEjauask |
