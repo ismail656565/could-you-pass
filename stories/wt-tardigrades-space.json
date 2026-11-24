@@ -1,0 +1,619 @@
+{
+ "hookText": "SURVIVED SPACE.",
+ "sources": [
+  "https://doi.org/10.1016/j.cub.2008.06.048",
+  "https://en.wikipedia.org/wiki/Tardigrade"
+ ],
+ "beats": [
+  {
+   "text": "In 2007, scientists sent tiny animals into open space. No suit. No protection.",
+   "broll": [
+    "rocket launch",
+    "satellite orbit earth"
+   ],
+   "start": 0.25,
+   "end": 7.25,
+   "video": "broll/wt-tardigrades-space-t0-0.mp4"
+  },
+  {
+   "text": "They were tardigrades, also called water bears, less than a millimeter long.",
+   "broll": [
+    "tardigrade",
+    "water bear microscope"
+   ],
+   "start": 7.25,
+   "end": 11.64,
+   "video": "broll/wt-tardigrades-space-t0-1.mp4"
+  },
+  {
+   "text": "For ten days they rode on the outside of a satellite, in the vacuum of space.",
+   "broll": [
+    "earth from space",
+    "satellite space"
+   ],
+   "start": 11.64,
+   "end": 16.18,
+   "video": "broll/wt-tardigrades-space-t0-2.mp4"
+  },
+  {
+   "text": "Back on Earth, many of them woke up. Some even laid eggs that hatched.",
+   "broll": [
+    "tardigrade",
+    "microscope organism"
+   ],
+   "impact": true,
+   "start": 16.18,
+   "end": 20.47,
+   "video": "broll/wt-tardigrades-space-t0-3.mp4"
+  },
+  {
+   "text": "Their trick: they dry out, curl into a ball, and almost stop living.",
+   "broll": [
+    "moss close up",
+    "microscope water"
+   ],
+   "start": 20.47,
+   "end": 24.39,
+   "video": "broll/wt-tardigrades-space-t1-0.mp4"
+  },
+  {
+   "text": "The first animals known to survive open space were smaller than a grain of sand.",
+   "broll": [
+    "sand grains macro",
+    "tardigrade"
+   ],
+   "start": 24.39,
+   "end": 30.0
+  }
+ ],
+ "audio": "audio/wt-tardigrades-space.mp3",
+ "captions": [
+  {
+   "word": "In",
+   "start": 0.25,
+   "end": 0.509
+  },
+  {
+   "word": "2007,",
+   "start": 0.531,
+   "end": 0.919
+  },
+  {
+   "word": "scientists",
+   "start": 0.952,
+   "end": 1.728
+  },
+  {
+   "word": "sent",
+   "start": 1.795,
+   "end": 2.183
+  },
+  {
+   "word": "tiny",
+   "start": 2.217,
+   "end": 2.605
+  },
+  {
+   "word": "animals",
+   "start": 2.638,
+   "end": 3.22
+  },
+  {
+   "word": "into",
+   "start": 3.271,
+   "end": 3.658
+  },
+  {
+   "word": "open",
+   "start": 3.692,
+   "end": 4.08
+  },
+  {
+   "word": "space.",
+   "start": 4.114,
+   "end": 4.566
+  },
+  {
+   "word": "No",
+   "start": 4.785,
+   "end": 5.146
+  },
+  {
+   "word": "suit.",
+   "start": 5.177,
+   "end": 5.718
+  },
+  {
+   "word": "No",
+   "start": 5.945,
+   "end": 6.205
+  },
+  {
+   "word": "protection.",
+   "start": 6.227,
+   "end": 7.006
+  },
+  {
+   "word": "They",
+   "start": 7.254,
+   "end": 7.523
+  },
+  {
+   "word": "were",
+   "start": 7.547,
+   "end": 7.817
+  },
+  {
+   "word": "tardigrades,",
+   "start": 7.84,
+   "end": 8.425
+  },
+  {
+   "word": "also",
+   "start": 8.476,
+   "end": 8.745
+  },
+  {
+   "word": "called",
+   "start": 8.769,
+   "end": 9.128
+  },
+  {
+   "word": "water",
+   "start": 9.16,
+   "end": 9.474
+  },
+  {
+   "word": "bears,",
+   "start": 9.502,
+   "end": 9.817
+  },
+  {
+   "word": "less",
+   "start": 9.844,
+   "end": 10.114
+  },
+  {
+   "word": "than",
+   "start": 10.137,
+   "end": 10.407
+  },
+  {
+   "word": "a",
+   "start": 10.43,
+   "end": 10.565
+  },
+  {
+   "word": "millimeter",
+   "start": 10.577,
+   "end": 11.117
+  },
+  {
+   "word": "long.",
+   "start": 11.163,
+   "end": 11.433
+  },
+  {
+   "word": "For",
+   "start": 11.637,
+   "end": 11.855
+  },
+  {
+   "word": "ten",
+   "start": 11.874,
+   "end": 12.092
+  },
+  {
+   "word": "days",
+   "start": 12.111,
+   "end": 12.373
+  },
+  {
+   "word": "they",
+   "start": 12.396,
+   "end": 12.657
+  },
+  {
+   "word": "rode",
+   "start": 12.68,
+   "end": 12.942
+  },
+  {
+   "word": "on",
+   "start": 12.965,
+   "end": 13.139
+  },
+  {
+   "word": "the",
+   "start": 13.154,
+   "end": 13.373
+  },
+  {
+   "word": "outside",
+   "start": 13.391,
+   "end": 13.784
+  },
+  {
+   "word": "of",
+   "start": 13.818,
+   "end": 13.993
+  },
+  {
+   "word": "a",
+   "start": 14.008,
+   "end": 14.139
+  },
+  {
+   "word": "satellite,",
+   "start": 14.15,
+   "end": 14.63
+  },
+  {
+   "word": "in",
+   "start": 14.672,
+   "end": 14.847
+  },
+  {
+   "word": "the",
+   "start": 14.862,
+   "end": 15.08
+  },
+  {
+   "word": "vacuum",
+   "start": 15.099,
+   "end": 15.448
+  },
+  {
+   "word": "of",
+   "start": 15.478,
+   "end": 15.653
+  },
+  {
+   "word": "space.",
+   "start": 15.668,
+   "end": 15.973
+  },
+  {
+   "word": "Back",
+   "start": 16.18,
+   "end": 16.448
+  },
+  {
+   "word": "on",
+   "start": 16.472,
+   "end": 16.651
+  },
+  {
+   "word": "Earth,",
+   "start": 16.666,
+   "end": 16.98
+  },
+  {
+   "word": "many",
+   "start": 17.007,
+   "end": 17.276
+  },
+  {
+   "word": "of",
+   "start": 17.299,
+   "end": 17.478
+  },
+  {
+   "word": "them",
+   "start": 17.493,
+   "end": 17.762
+  },
+  {
+   "word": "woke",
+   "start": 17.785,
+   "end": 18.054
+  },
+  {
+   "word": "up.",
+   "start": 18.077,
+   "end": 18.256
+  },
+  {
+   "word": "Some",
+   "start": 18.452,
+   "end": 18.712
+  },
+  {
+   "word": "even",
+   "start": 18.734,
+   "end": 18.994
+  },
+  {
+   "word": "laid",
+   "start": 19.017,
+   "end": 19.276
+  },
+  {
+   "word": "eggs",
+   "start": 19.299,
+   "end": 19.559
+  },
+  {
+   "word": "that",
+   "start": 19.581,
+   "end": 19.841
+  },
+  {
+   "word": "hatched.",
+   "start": 19.864,
+   "end": 20.253
+  },
+  {
+   "word": "Their",
+   "start": 20.467,
+   "end": 20.776
+  },
+  {
+   "word": "trick:",
+   "start": 20.803,
+   "end": 21.113
+  },
+  {
+   "word": "they",
+   "start": 21.14,
+   "end": 21.405
+  },
+  {
+   "word": "dry",
+   "start": 21.428,
+   "end": 21.649
+  },
+  {
+   "word": "out,",
+   "start": 21.668,
+   "end": 21.889
+  },
+  {
+   "word": "curl",
+   "start": 21.908,
+   "end": 22.173
+  },
+  {
+   "word": "into",
+   "start": 22.196,
+   "end": 22.462
+  },
+  {
+   "word": "a",
+   "start": 22.485,
+   "end": 22.617
+  },
+  {
+   "word": "ball,",
+   "start": 22.629,
+   "end": 22.894
+  },
+  {
+   "word": "and",
+   "start": 22.917,
+   "end": 23.138
+  },
+  {
+   "word": "almost",
+   "start": 23.157,
+   "end": 23.511
+  },
+  {
+   "word": "stop",
+   "start": 23.541,
+   "end": 23.807
+  },
+  {
+   "word": "living.",
+   "start": 23.83,
+   "end": 24.183
+  },
+  {
+   "word": "The",
+   "start": 24.394,
+   "end": 24.632
+  },
+  {
+   "word": "first",
+   "start": 24.653,
+   "end": 24.987
+  },
+  {
+   "word": "animals",
+   "start": 25.016,
+   "end": 25.445
+  },
+  {
+   "word": "known",
+   "start": 25.483,
+   "end": 25.816
+  },
+  {
+   "word": "to",
+   "start": 25.845,
+   "end": 26.036
+  },
+  {
+   "word": "survive",
+   "start": 26.053,
+   "end": 26.482
+  },
+  {
+   "word": "open",
+   "start": 26.519,
+   "end": 26.805
+  },
+  {
+   "word": "space",
+   "start": 26.83,
+   "end": 27.164
+  },
+  {
+   "word": "were",
+   "start": 27.193,
+   "end": 27.479
+  },
+  {
+   "word": "smaller",
+   "start": 27.504,
+   "end": 27.933
+  },
+  {
+   "word": "than",
+   "start": 27.971,
+   "end": 28.257
+  },
+  {
+   "word": "a",
+   "start": 28.282,
+   "end": 28.425
+  },
+  {
+   "word": "grain",
+   "start": 28.437,
+   "end": 28.771
+  },
+  {
+   "word": "of",
+   "start": 28.8,
+   "end": 28.991
+  },
+  {
+   "word": "sand.",
+   "start": 29.008,
+   "end": 29.294
+  }
+ ],
+ "durationInSeconds": 30.0,
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-0.mp4"
+  },
+  {
+   "start": 2.0,
+   "end": 3.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-0.mp4",
+   "trimStart": 2.5
+  },
+  {
+   "start": 3.5,
+   "end": 5.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-0.mp4",
+   "trimStart": 4.5
+  },
+  {
+   "start": 5.0,
+   "end": 7.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-0.mp4",
+   "trimStart": 6.5
+  },
+  {
+   "start": 7.0,
+   "end": 8.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-1.mp4"
+  },
+  {
+   "start": 8.5,
+   "end": 10.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-1.mp4",
+   "trimStart": 2.0
+  },
+  {
+   "start": 10.0,
+   "end": 11.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-1.mp4",
+   "trimStart": 4.0
+  },
+  {
+   "start": 11.5,
+   "end": 13.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-2.mp4"
+  },
+  {
+   "start": 13.0,
+   "end": 14.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-2.mp4",
+   "trimStart": 2.0
+  },
+  {
+   "start": 14.5,
+   "end": 16.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-2.mp4",
+   "trimStart": 4.0
+  },
+  {
+   "start": 16.0,
+   "end": 17.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-3.mp4"
+  },
+  {
+   "start": 17.5,
+   "end": 19.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-3.mp4",
+   "trimStart": 2.0
+  },
+  {
+   "start": 19.0,
+   "end": 20.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t0-3.mp4",
+   "trimStart": 4.0
+  },
+  {
+   "start": 20.5,
+   "end": 22.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t1-0.mp4"
+  },
+  {
+   "start": 22.5,
+   "end": 24.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t1-0.mp4",
+   "trimStart": 2.5
+  },
+  {
+   "start": 24.5,
+   "end": 26.5,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t1-0.mp4",
+   "trimStart": 1.5
+  },
+  {
+   "start": 26.5,
+   "end": 28.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t1-0.mp4",
+   "trimStart": 4.0
+  },
+  {
+   "start": 28.0,
+   "end": 30.0,
+   "kind": "video",
+   "src": "broll/wt-tardigrades-space-t1-0.mp4",
+   "trimStart": 6.0
+  }
+ ],
+ "music": "sfx/wt-pulse.wav",
+ "title": "These Animals Survived 10 Days in Open Space 🐻 #shorts",
+ "script": "In 2007, scientists sent tiny animals into open space. No suit. No protection. They were tardigrades, also called water bears, less than a millimeter long. For ten days they rode on the outside of a satellite, in the vacuum of space. Back on Earth, many of them woke up. Some even laid eggs that hatched. Their trick: they dry out, curl into a ball, and almost stop living. The first animals known to survive open space were smaller than a grain of sand.",
+ "energy": "normal",
+ "brand": "WILDLY TRUE",
+ "datelines": [],
+ "counters": [],
+ "musicVolume": 0.11
+}

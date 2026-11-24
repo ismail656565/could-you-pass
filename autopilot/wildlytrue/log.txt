@@ -32,3 +32,25 @@
 [2026-11-23 21:42:09] Analytics gespeichert (100 Videos)
 [2026-11-23 21:42:09] Heute schon hochgeladen – nächstes morgen.
 [2026-11-23 21:42:10] greenland-shark: Kommentar gepostet
+[2026-11-24 00:23:45] Kanal ok: WILDLY TRUE (49 Abos)
+[2026-11-24 00:24:46] Kanal: WILDLY TRUE | Kontrollnummer: 3C0I
+[2026-11-24 00:24:46] Analytics gespeichert (100 Videos)
+[2026-11-24 00:24:46] Produziere tardigrades-space
+[2026-11-24 00:24:46] Stimme: Kokoro am_michael:60+am_onyx:40 ×1.05
+[2026-11-24 00:24:58] Ton: 30.0 s, 83 Wörter, 6 Beats
+[2026-11-24 00:25:06] B-Roll Frage 1 ("rocket launch"): Riding on a Sounding Rocket.webm
+[2026-11-24 00:25:12] B-Roll Frage 2 ("tardigrade"): Tardigrade FlynnBurhoe.webm
+[2026-11-24 00:25:19] B-Roll Frage 3 ("earth from space"): Earth from Space- Lake Trasimeno ESA471008.webm
+[2026-11-24 00:25:25] B-Roll Frage 4 ("tardigrade"): Tardigrade in real time.ogv
+[2026-11-24 00:25:26] B-Roll Frage 5 ("moss close up"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-24 00:25:28] B-Roll Frage 6 ("sand grains macro"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-24 00:25:34] B-Roll Frage 1 ("microscope water"): Tardigrade under a microscope, from a Scottish high school p
+[2026-11-24 00:25:36] B-Roll Frage 2 ("tardigrade"): kein passender Clip – bleibt bei Foto/Emoji
+[2026-11-24 00:25:36] Beat 6: kein Clip – nutze Clip von Beat 5
+[2026-11-24 00:25:36] Szenen: 5/6 Beats mit eigenem Clip, 18 Schnitte auf 120-BPM-Raster
+[2026-11-24 00:27:31] Gerendert
+[2026-11-24 00:27:37] QA: -23.5 LUFS, TP -5.2 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 53.7
+[2026-11-24 00:27:39] Hochgeladen: https://youtube.com/watch?v=PidNeOcugUM (private)
+[2026-11-24 00:27:39] In Playlist "Wildly True Facts 🌍"
+[2026-11-24 00:27:39] Geplant für 24.11. 18:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-24 00:27:39] tardigrades-space: noch nicht öffentlich – Kommentar später

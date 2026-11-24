@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-23T21:42",
+ "fetched": "2026-11-24T00:24",
  "channel": "WILDLY TRUE",
  "subscribers": "49",
  "audience": {
@@ -28,17 +28,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 1148,
-    "engagedViews": 378
+    "views": 1152,
+    "engagedViews": 379
    },
    {
     "deviceType": "TABLET",
-    "views": 67,
+    "views": 70,
     "engagedViews": 26
    },
    {
     "deviceType": "DESKTOP",
-    "views": 52,
+    "views": 51,
     "engagedViews": 12
    },
    {
@@ -78,7 +78,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 30,
-   "publicViews": "68",
+   "publicViews": "88",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1692,7 +1692,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 27,
-   "publicViews": "18",
+   "publicViews": "20",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
