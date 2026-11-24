@@ -881,17 +881,49 @@ def qa_check(mp4, item):
         y0 = _re.search(r'YAVG=([\d.]+)', f0)
         if y0:
             res['frame0Luma'] = round(float(y0.group(1)), 1)
+        # ganzes Video: Tonspur/Dauer, schwarze Strecken, Stille (ein Durchlauf, klein skaliert)
+        bd = subprocess.run([ff, '-hide_banner', '-i', str(mp4), '-vf', 'fps=10,scale=240:-1,blackdetect=d=0.5:pic_th=0.98:pix_th=0.10',
+                             '-af', 'silencedetect=n=-50dB:d=1.5', '-f', 'null', '-'], capture_output=True, text=True, timeout=1800).stderr
+        res['hasAudio'] = bool(_re.search(r'Stream #\d+:\d+.*Audio:', bd))
+        du = _re.search(r'Duration:\s*(\d+):(\d+):([\d.]+)', bd)
+        if du:
+            res['durationSec'] = round(int(du.group(1)) * 3600 + int(du.group(2)) * 60 + float(du.group(3)), 1)
+        blacks = [float(x) for x in _re.findall(r'black_duration:([\d.]+)', bd)]
+        silences = [float(x) for x in _re.findall(r'silence_duration:\s*([\d.]+)', bd)]
+        res['longestBlackSec'] = round(max(blacks), 1) if blacks else 0.0
+        res['longestSilenceSec'] = round(max(silences), 1) if silences else 0.0
         warn = []
         if res.get('longestFreezeSec', 0) > 6:
             warn.append(f"Standbild {res['longestFreezeSec']} s")
         if res.get('frame0Luma', 100) < 12:
             warn.append('erstes Bild fast schwarz')
+        if res['longestBlackSec'] >= 0.5:
+            warn.append(f"schwarze Strecke {res['longestBlackSec']} s")
+        if res['longestSilenceSec'] >= 1.5:
+            warn.append(f"Stille {res['longestSilenceSec']} s")
+        if fmt_of(item) == 'short' and res.get('durationSec', 0) > 45:
+            warn.append(f"Short {res['durationSec']} s lang (Ziel ≤ 27–40 s)")
         res['warnings'] = warn
+        # Upload-Sperre nur bei eindeutig kaputten Videos (kein Ton, lange schwarze/stumme Strecke, leer)
+        block = []
+        if not res['hasAudio']:
+            block.append('keine Tonspur')
+        if res['longestBlackSec'] >= 4 and not item.get('story', {}).get('allowDark'):
+            block.append(f"{res['longestBlackSec']} s schwarzes Bild")
+        if res['longestSilenceSec'] >= 5:
+            block.append(f"{res['longestSilenceSec']} s Stille")
+        if res.get('durationSec') is not None and res['durationSec'] < 5:
+            block.append(f"nur {res['durationSec']} s lang")
+        res['blocked'] = block
         log(f"QA: {res.get('lufs')} LUFS, TP {res.get('truePeak')} dBTP{' → normalisiert auf −14' if res.get('normalized') else ''}, "
-            f"Standbild max {res.get('longestFreezeSec')} s, Frame0-Luma {res.get('frame0Luma')}" + (f" | WARNUNG: {'; '.join(warn)}" if warn else ''))
+            f"Standbild max {res.get('longestFreezeSec')} s, Frame0-Luma {res.get('frame0Luma')}, Dauer {res.get('durationSec')} s, "
+            f"schwarz max {res['longestBlackSec']} s, Stille max {res['longestSilenceSec']} s" + (f" | WARNUNG: {'; '.join(warn)}" if warn else ''))
     except Exception as ex:
         log('QA übersprungen:', str(ex)[:200])
     item['qa'] = res
+    if res.get('blocked'):
+        # bewusst außerhalb des try: kaputtes Video nicht hochladen (Datei landet in queue/failed, Lauf wird rot)
+        raise RuntimeError('QA-Sperre, Upload abgebrochen: ' + '; '.join(res['blocked']))
     return res
 
 

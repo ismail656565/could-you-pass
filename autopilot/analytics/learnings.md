@@ -765,3 +765,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **21:00 = „Real or Fake Flag? #N“** (flagduel-Renderer, `ask: "WHICH IS THE REAL"`, Fälschung = `"flag": "fake/<iso2>"` aus public/flags/fake/, Name der Fälschung "Fake"). vidIQ: echte-vs-gefälschte-Flagge ist das stärkste Nischenmuster im Nov. (WonderQ 525k/79×, 345k/59×; MB GeoPlay 151k/35×; Globonk 63k/32× mit 0:27).
 - Fälschungen: nur Farben tauschen, Streifen/Kreuz/Kreis verschieben oder Proportionen ändern. Das Ergebnis darf nie die echte Flagge eines anderen Landes sein (Irland gespiegelt = Elfenbeinküste; Polen umgedreht = Indonesien/Monaco).
 - 16:00 bleibt Flag Duel. Beide Serien ohne Hook-Vorrede, ≤ 27 s.
+
+## 2026-11-24 23:00 – Technik: erweiterte QA (gilt für COULD YOU PASS? + WILDLY TRUE)
+- qa_check prüft jetzt das ganze Video: Tonspur vorhanden, Dauer, schwarze Strecken (blackdetect), Stille (silencedetect −50 dB).
+- **Upload-Sperre** (Datei → queue/failed, Lauf rot): keine Tonspur, ≥ 4 s schwarz (außer story.allowDark), ≥ 5 s Stille, < 5 s Dauer. Warnung im Log: schwarz ≥ 0,5 s, Stille ≥ 1,5 s, Short > 45 s.
+- Getestet mit 3 Testvideos (ok / 5 s schwarz + 7 s stumm / ohne Ton) → Ergebnis wie erwartet.
