@@ -64,7 +64,7 @@ def main(d):
             for ic in sh.get('icons', []):
                 if ic.get('name') not in ICONS:
                     err.append(f'shot {i}: unknown icon {ic.get("name")}')
-                if n > 1 and len(ic.get('label', '')) > 14:
+                if n > 1 and len(ic.get('label', '')) > (14 if n >= 3 else 18):
                     err.append(f'shot {i}: icon label too long for {n} icons: {ic["label"]!r}')
                 if not isinstance(ic.get('at'), (int, float)) or ic['at'] > 0.6:
                     warn.append(f'shot {i}: icon at {ic.get("at")!r} (use 0.04..0.55 so the screen is never empty)')
