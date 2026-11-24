@@ -13,7 +13,7 @@ Competitors: Zack D. Films 2ll9ClpJ3x8 "How Mouth Breathing Can Change Your Face
 - Style: lab notebook + X-ray / thermal colours; stamps for numbers.
 
 ## Next 3 episodes (after 003)
-1. 004-death-zone – "Above 8,000 m, Your Body Starts Dying 🏔️ #shorts". Hook: "Above eight thousand metres, your body is slowly dying." Line 2: "Each breath brings about a third of the oxygen you get at sea level." Facts: HACE/HAPE, bottled oxygen. Counter "HOUR {n}". Why: second-person experiment.
+1. 004-death-zone – "Above 8,000 m, Your Body Starts Dying 🏔️ #shorts". Hook: "Above eight thousand metres, your body is slowly dying." Line 2: "Each breath brings about a third of the oxygen you get at sea level." Facts: HACE/HAPE, bottled oxygen. Counter "HOUR {n}". Why: second-person experiment. (written: 004-death-zone)
 2. 005-no-water – "What If You Didn't Drink Water for 3 Days? 💧 #shorts". Hook: "No water. Here's your body, hour by hour." Line 2: "Hour 24: your mouth is dry, your blood is getting thicker." Counter "HOUR {n}" to 72; facts only from medical sources (thirst, reduced urine, headache, kidney strain, ~3 days rough survival limit, varies with heat). Description: safety line. Why: competitor 8RPK5KwYhgA (what-if timeline) – EXPERIMENT what-if title.
 3. 006-round-heart – "Space Changes the Shape of Your Heart 🚀 #shorts". Hook: "Stay in space long enough, and your heart changes shape." Line 2: "It gets rounder – almost like a ball." Facts: NASA-funded ultrasound study (Hughson et al., 2014): astronauts' hearts became ~9.4 % more spherical on long missions, returned after landing. Split figure with heart. Why: exploit space-body angle (002).
 
