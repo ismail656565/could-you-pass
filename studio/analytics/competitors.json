@@ -11,7 +11,9 @@
   "perceptlab": [
    "@Psych2Go",
    "@MindYourDecisions",
-   "@AsapSCIENCE"
+   "@AsapSCIENCE",
+   "@TEDEd",
+   "@SciShow"
   ],
   "hiddenfrontlines": [
    "@Yarnhub",
@@ -28,12 +30,15 @@
   "plotmelt": [
    "@Cartoonbox",
    "@StoryBooth",
-   "@Haminations"
+   "@Haminations",
+   "UCYzEMRKqrh01-tauv7MYyVQ",
+   "UCXQy7mNd4Wa29huq2SL-kkA"
   ],
   "wildlytrue": [
    "@ZackDFilms",
    "@WeirdHistory",
-   "@FactsVerse"
+   "@TEDEd",
+   "@SimpleHistory"
   ]
  }
 }
