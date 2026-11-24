@@ -96,3 +96,12 @@ Weitere Muster: „Guess 10 Flags From EASY to IMPOSSIBLE“ (Quizora 112k/17×)
 **Für den Produktions-Agenten (25.11.):** `2026-11-27-real-fake-flag-3.json` (21:00) anlegen. Fälschungen dk (Kreuz mittig), at (weißer Streifen zu breit), fi (Kreuz mittig) sind schon da. Für die 4. Runde selbst ein Fake-SVG in public/flags/fake/ erzeugen (nur Farben tauschen oder verschieben). Eine Fälschung darf **nie** die echte Flagge eines anderen Landes ergeben (z. B. Irland gespiegelt = Elfenbeinküste, Polen umgedreht = Indonesien/Monaco → verboten). Seite des Originals mischen, Titel „Real or Fake Flag? #3 Only 1 in 10 Spot All 4 🧐 #shorts“, Schluss „Follow for number four!“. Danach täglich 21:00 bis auf Widerruf.
 **Erfolg E24:** Real-or-Fake #1–#3 Median ≥ 1.500 Views n. 3 T und stayed ≥ 60 %. Abbruch: 3 Folgen unter dem Shorts-Median.
 **Ideen-Backlog neu (vidIQ):** (1) „Guess 10 Flags From EASY to IMPOSSIBLE“ als 10-Runden-Flag-Short (Quizora 112k), (2) „Missing Letters: Guess the Country“ (Trivia Quiz 89k, 4.700/h) – tvshow-Short mit Lücken-Wörtern, (3) „Blind Ranking Countries by Size: Day N“ – Serie mit Tagesnummer (Goober 44k), (4) Flag-Long „50 Real or Fake Flags – Can You Get 40?“ (exam).
+
+## NACHTRAG 24.11. 23:15 – Besitzer-Screenshot Flag Duel #2 („Who Is Slovakia?“)
+- Nach ≈31 h: **2.463 Views, +12 Abos (≈4,9 pro 1.000), 65,1 % stayed, 47 Likes**, 94 % Shorts-Feed, 131 aus der Suche. Die Kurve ist ab ≈20 h ein zweites Mal gestiegen (zweiter Test-Pool).
+- Damit ist das Format bestätigt: #1 3.000+/+18, #2 2.463/+12. Die Titel-Hypothese von heute früh („Who Is X?“ schwächer) ist widerlegt. E22 läuft trotzdem, hat aber geringe Priorität.
+- **Entscheidung: Flag Duel täglich um 16:00 ab Sa 28.11.** (Kriterium „#2 ≥ 1.000 n. 24 h“ erfüllt).
+- **Für den Produktions-Agenten:**
+  - `2026-11-28-flag-duel-5.json` und ab dann jeden Tag eine Folge anlegen. Paare nie wiederholen, E23-Timing beibehalten.
+  - `2026-11-29-one-q-further-west.json` ins Backlog verschieben (aus der Queue nehmen), weil 16:00 ab dann Flag Duel ist.
+  - Wissenschafts-Short bleibt Fr 27.11. 16:00 (Zuschauerwunsch).

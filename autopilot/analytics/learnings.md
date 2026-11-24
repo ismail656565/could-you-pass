@@ -770,3 +770,7 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - qa_check prüft jetzt das ganze Video: Tonspur vorhanden, Dauer, schwarze Strecken (blackdetect), Stille (silencedetect −50 dB).
 - **Upload-Sperre** (Datei → queue/failed, Lauf rot): keine Tonspur, ≥ 4 s schwarz (außer story.allowDark), ≥ 5 s Stille, < 5 s Dauer. Warnung im Log: schwarz ≥ 0,5 s, Stille ≥ 1,5 s, Short > 45 s.
 - Getestet mit 3 Testvideos (ok / 5 s schwarz + 7 s stumm / ohne Ton) → Ergebnis wie erwartet.
+
+## 2026-11-24 23:15 – Flag Duel #2 bestätigt (Besitzer-Screenshot)
+- flag-duel-2 n. ≈31 h: 2.463 Views, +12 Abos (≈4,9/1.000), 65,1 % stayed. Zweite Welle ab ≈20 h. → Flag Duel täglich 16:00 ab 28.11.
+- Lehre: Ein Short nicht nach 6–8 h beurteilen, die zweite Welle kommt oft erst nach 15–25 h.
