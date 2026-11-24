@@ -34,7 +34,7 @@ das geschriebene Wort. Kein Trick mehr mit falsch geschriebenen Zeilen + `displa
 ## Kanäle
 | Kanal | Status | Stil |
 |---|---|---|
-| Myth Dug Up | läuft | Kunst der jeweiligen Kultur + Feldbuch des Ausgräbers |
+| Myth Dug Up | läuft – seit 25.11. AKTUELLE NEWS (Owner-Entscheidung, keine Archäologie mehr; alte Folgen in parked/) | News-Stile: newscollage, blueprint, letterpress, notebook; Proven/Debated |
 | HiddenFrontlines | als Nächstes | Geheimakte / Blaupause |
 | HUMAN LIMIT | geplant | Röntgen / Wärmebild |
 | PlotMelt | geplant | 1930er-Cartoon |
