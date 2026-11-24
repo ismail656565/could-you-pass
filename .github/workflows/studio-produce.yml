@@ -21,6 +21,10 @@ on:
         description: 'nur rendern, nicht hochladen (true/false)'
         required: false
         default: 'false'
+      retro_thumbs:
+        description: 'nur Thumbnails für schon hochgeladene lange Videos nachreichen (true/false)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -105,16 +109,18 @@ jobs:
           bash studio/kits/unpack.sh
           bash studio/kits/_unpacked/reachmora-2d-longform/scripts/setup.sh
           ARGS=""; [ "${{ github.event.inputs.dry }}" = "true" ] && ARGS="--dry"
+          [ "${{ github.event.inputs.retro_thumbs }}" = "true" ] && ARGS="--retro-thumbs"
           python studio/longform.py ${{ matrix.channel }} $ARGS
 
       - name: Vorschau behalten (Probelauf)
-        if: github.event.inputs.dry == 'true'
+        if: github.event.inputs.dry == 'true' || github.event.inputs.retro_thumbs == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: preview-${{ matrix.channel }}
           path: |
             /tmp/studio/**/final.mp4
             /tmp/studio/**/out/*.mp4
+            /tmp/studio/**/out/thumb.jpg
           retention-days: 7
 
       - name: Stand speichern

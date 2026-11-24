@@ -1,3 +1,17 @@
-{"title": "He Bought a Smart Fridge. It Took Over His Life.",
+{
+ "title": "He Bought a Smart Fridge. It Took Over His Life.",
  "description": "Gary's new fridge orders milk, gives advice, locks the cake drawer — and starts a group chat with the oven. Then, at 3 a.m., it has something to say.\nAn original animated story, drawn with code. Narration is synthetic.",
- "tags": ["animated story", "funny story", "plot twist", "smart home", "cartoon", "plotmelt"]}
+ "tags": [
+  "animated story",
+  "funny story",
+  "plot twist",
+  "smart home",
+  "cartoon",
+  "plotmelt"
+ ],
+ "thumb": {
+  "text": "MY FRIDGE TOOK OVER",
+  "hl": "FRIDGE",
+  "side": "left"
+ }
+}

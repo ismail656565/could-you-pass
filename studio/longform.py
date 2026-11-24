@@ -6,6 +6,10 @@ A long video project lives in studio/channels/<channel>/longs/NNN-slug/:
   script.txt   the narration, one paragraph per line; chapter cards as lines starting with "# "
   story.json   the storyboard for the kit (see the kit's references/story-format.md)
   meta.json    {"title": ..., "description": ..., "tags": [...]}  (+ optional "voice")
+               + "thumb": {"text": "2-4 HUGE WORDS", "hl": "accent word(s)", "shot": N, "side": "left|right"}
+                 (custom thumbnail, studio/thumb.py; without it: first 3 title words, auto-picked frame)
+
+  python studio/longform.py <channel> --retro-thumbs   thumbnails for already uploaded longs without one
 The oldest project that is not yet in state.json "longs_done" is voiced (Kokoro), aligned, rendered and
 uploaded as a scheduled video (channel.json "long_time", default 17:00 Berlin, today if ≥ 2 h ahead, else tomorrow).
 """
@@ -16,6 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'studio'))
 sys.path.insert(0, str(ROOT / 'studio' / 'engine'))
 import produce as P
+import thumb as T
 
 KIT = ROOT / 'studio' / 'kits' / '_unpacked' / 'reachmora-2d-longform'
 
@@ -42,10 +47,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('channel'); ap.add_argument('--dry', action='store_true'); ap.add_argument('--res', default='1080')
     ap.add_argument('--project', default=None, help='a project folder to render instead of the queue (tests)')
+    ap.add_argument('--retro-thumbs', action='store_true')
     a = ap.parse_args()
     cid = a.channel
     c, st = P.cfg(cid), P.load_state(cid)
     st.setdefault('longs_done', {})
+    if a.retro_thumbs:
+        return retro_thumbs(cid, c, st)
     today = dt.datetime.now(dt.timezone.utc).date().isoformat()
     if not a.project and not a.dry and any(u.get('uploaded', '').startswith(today) for u in st['longs_done'].values()):
         print(f'{cid}: heute schon ein langes Video hochgeladen'); return
@@ -75,6 +83,7 @@ def main():
     run('all', work, '--res', a.res)
     mp4 = sorted((work / 'out').glob('*.mp4'))[-1]
     print('fertig:', mp4, flush=True)
+    thumb = make_thumb(work, meta, a.res, mp4)
     if a.dry:
         return
     now = dt.datetime.now(P.BERLIN)
@@ -85,10 +94,68 @@ def main():
     E = dict(title=meta.get('title') or json.loads((work / 'story.json').read_text()).get('title', src.name),
              description=meta.get('description', ''), tags=meta.get('tags', []))
     vid = P.upload(cid, mp4, E, c, when)
-    st['longs_done'][src.name] = dict(video_id=vid, publish_at=when.isoformat(), title=E['title'],
+    ok = bool(thumb) and T.set_thumbnail(cid, vid, thumb)
+    st['longs_done'][src.name] = dict(video_id=vid, publish_at=when.isoformat(), title=E['title'], thumb=ok,
                                       uploaded=dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'))
     P.save_state(cid, st)
     print(f'OK langes Video https://youtu.be/{vid}  (öffentlich ab {when:%d.%m. %H:%M})')
+
+
+def _segs(work, res):
+    return work / 'work' / ('segs' if str(res) == '1080' else f'segs{res}')
+
+
+def _thumb_shots(work, meta):
+    t = meta.get('thumb') or {}
+    if 'shot' in t:
+        return [int(t['shot'])]
+    shots = json.loads((work / 'story.json').read_text()).get('shots', [])
+    good = [i for i, s in enumerate(shots) if s.get('kind') in ('closeup', 'versus', 'wide', 'crowd', 'skyline', 'map')]
+    return good[:8] or list(range(min(6, len(shots))))
+
+
+def make_thumb(work, meta, res, mp4=None):
+    """Thumbnail from the chosen/auto shots of the rendered segments (fallback: whole video)."""
+    try:
+        t = meta.get('thumb') or {}
+        text = t.get('text') or T.default_text(meta.get('title') or 'WATCH THIS')
+        segs = _segs(work, res)
+        tmp = work / 'thumbsrc'
+        shutil.rmtree(tmp, ignore_errors=True); tmp.mkdir()
+        for i in _thumb_shots(work, meta):
+            f = segs / f'{i:04d}.mp4'
+            if f.exists():
+                shutil.copy(f, tmp / f.name)
+        src = tmp if any(tmp.iterdir()) else mp4
+        out = work / 'out' / 'thumb.jpg'
+        out.parent.mkdir(exist_ok=True)
+        T.make(src, text, out, t.get('hl', ''), t.get('color', '#FFD400'), t.get('side', 'left'))
+        print('Thumbnail:', out, flush=True)
+        return out
+    except Exception as ex:
+        print(f'::warning::Thumbnail fehlgeschlagen: {ex}')
+        return None
+
+
+def retro_thumbs(cid, c, st):
+    d = P.STUDIO / 'channels' / cid / 'longs'
+    for name, info in st['longs_done'].items():
+        if info.get('thumb') or not (d / name / 'story.json').exists():
+            continue
+        src = d / name
+        meta = json.loads((src / 'meta.json').read_text()) if (src / 'meta.json').exists() else {}
+        work = Path(os.environ.get('STUDIO_WORK', '/tmp/studio')) / cid / f'thumb-{name}'
+        shutil.rmtree(work, ignore_errors=True); work.mkdir(parents=True)
+        for f in ('script.txt', 'story.json'):
+            shutil.copy(src / f, work / f)
+        print(f'== {cid}: Thumbnail nachträglich für {name}', flush=True)
+        voice_wav(work / 'script.txt', work / 'voice.wav', meta.get('voice') or c.get('voice', 'bm_george'))
+        run('align', work); run('plan', work)
+        run('render', work, '--res', '720', '--shots', ','.join(map(str, _thumb_shots(work, meta))))
+        th = make_thumb(work, meta, 720)
+        if th and T.set_thumbnail(cid, info['video_id'], th):
+            info['thumb'] = True
+            P.save_state(cid, st)
 
 
 if __name__ == '__main__':
