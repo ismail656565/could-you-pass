@@ -39,6 +39,7 @@ def main(path, autopilot_module=None):
     d.mkdir(parents=True, exist_ok=True)
     tm = story.get('timing') or {}
     think, move, tail = tm.get('think', THINK), tm.get('move', MOVE), tm.get('tail', TAIL)
+    outro = tm.get('outro', OUTRO)  # Schlusskarte: kurz halten, sonst wischen alle am Ende weg (Retention-Kurve flag-duel-1)
     long = story.get('format') == 'long'
     t = 0.0
     if story.get('type') == 'flagduel' and not (story.get('hookLine') or '').strip():
@@ -59,7 +60,7 @@ def main(path, autopilot_module=None):
         r['moveEnd'] = round(r['reveal'] + move, 2)
         # Antwort wird gesprochen, sobald die Form unterwegs ist
         r['aStart'] = round(r['reveal'] + 0.55, 2)
-        r['end'] = round(max(r['moveEnd'] + 1.6, r['aStart'] + da) + (OUTRO if last and not long else tail), 2)
+        r['end'] = round(max(r['moveEnd'] + 1.6, r['aStart'] + da) + (outro if last and not long else tail), 2)
         t = r['end']
     if long and story.get('outroLine'):
         # Abspann: Auswertung + Abo-Zeile, danach Standzeit für die YouTube-Endkarten

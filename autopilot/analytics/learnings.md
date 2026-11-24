@@ -774,3 +774,7 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 ## 2026-11-24 23:15 – Flag Duel #2 bestätigt (Besitzer-Screenshot)
 - flag-duel-2 n. ≈31 h: 2.463 Views, +12 Abos (≈4,9/1.000), 65,1 % stayed. Zweite Welle ab ≈20 h. → Flag Duel täglich 16:00 ab 28.11.
 - Lehre: Ein Short nicht nach 6–8 h beurteilen, die zweite Welle kommt oft erst nach 15–25 h.
+
+## 2026-11-24 23:20 – Flag Duel #1 Retention-Kurve (Besitzer-Screenshot)
+- flag-duel-1 n. ≈55 h: 3.797 Views, +18 Abos, 62,0 % stayed, 88 Likes. Kurve startet bei ≈120 % (Wiederholungen), hält bis ≈0:29 bei ≈90 % und **fällt in den letzten ≈3 s auf ≈20 %**. Dort steht die Schlusskarte „How many did you get?“ (2,2 s).
+- Fix: `timing.outro` (atlas_voice.py, Standard 2,2 s) für Flag Duel / Real or Fake auf **0,6 s**. Das Video endet direkt nach der letzten Auflösung und dem kurzen CTA, damit es nahtlos in den Loop geht. flag-duel-4, real-fake-flag-1/2 sind schon umgestellt; neue Folgen immer mit `"outro": 0.6`.
