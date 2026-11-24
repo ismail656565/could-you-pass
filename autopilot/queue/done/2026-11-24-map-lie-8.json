@@ -53,7 +53,15 @@
      "q": "Turkey, or Ukraine?",
      "a": "Turkey! By almost a third."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 3.04,
+    "qAudio": "audio/map-lie-8/q1.mp3",
+    "aAudio": "audio/map-lie-8/a1.mp3",
+    "thinkStart": 4.35,
+    "reveal": 6.75,
+    "moveEnd": 8.25,
+    "aStart": 7.3,
+    "end": 10.4
    },
    {
     "level": "MEDIUM",
@@ -73,7 +81,15 @@
      "q": "Japan, or Thailand?",
      "a": "Thailand! Japan only looks bigger."
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 10.4,
+    "qAudio": "audio/map-lie-8/q2.mp3",
+    "aAudio": "audio/map-lie-8/a2.mp3",
+    "thinkStart": 11.77,
+    "reveal": 14.17,
+    "moveEnd": 15.67,
+    "aStart": 14.72,
+    "end": 17.82
    },
    {
     "level": "HARD",
@@ -93,7 +109,15 @@
      "q": "Montana, or Finland?",
      "a": "Montana! Big Sky wins."
     },
-    "winner": "a"
+    "winner": "a",
+    "start": 17.82,
+    "qAudio": "audio/map-lie-8/q3.mp3",
+    "aAudio": "audio/map-lie-8/a3.mp3",
+    "thinkStart": 19.31,
+    "reveal": 21.71,
+    "moveEnd": 23.21,
+    "aStart": 22.26,
+    "end": 25.36
    },
    {
     "level": "LEGEND",
@@ -113,12 +137,44 @@
      "q": "Last one. Svalbard, or Sri Lanka?",
      "a": "Sri Lanka! Follow, number nine drops tomorrow!"
     },
-    "winner": "b"
+    "winner": "b",
+    "start": 25.36,
+    "qAudio": "audio/map-lie-8/q4.mp3",
+    "aAudio": "audio/map-lie-8/a4.mp3",
+    "thinkStart": 27.46,
+    "reveal": 29.86,
+    "moveEnd": 31.36,
+    "aStart": 30.41,
+    "end": 35.16
    }
   ],
   "sources": [
    "Areas (total, km²): Turkey 783,562; Ukraine 603,550; Thailand 513,120; Japan 377,915; Montana 380,831; Finland 338,145; Sri Lanka 65,610; Svalbard 62,045 – CIA World Factbook / US Census Bureau",
    "Outlines: Natural Earth (public domain)"
-  ]
- }
+  ],
+  "hook": {
+   "audio": "audio/map-lie-8/hook.mp3",
+   "start": 0.0,
+   "end": 3.04
+  },
+  "durationInSeconds": 35.16
+ },
+ "qa": {
+  "lufs": -21.0,
+  "truePeak": -4.3,
+  "lra": 5.8,
+  "normalized": true,
+  "frozenShare": 0.571,
+  "longestFreezeSec": 2.6,
+  "frame0Luma": 205.4,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-24T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "NfdySlM8pEo",
+  "at": "2026-11-24T06:33"
+ },
+ "linkedLong": "pMS8OcHVf0U"
 }

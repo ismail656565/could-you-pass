@@ -1,28 +1,28 @@
 {
- "fetched": "2026-11-23T22:31",
+ "fetched": "2026-11-24T06:30",
  "channel": "COULD YOU PASS?",
- "subscribers": "43",
+ "subscribers": "46",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 17612,
-    "engagedViews": 8727
+    "views": 16720,
+    "engagedViews": 8294
    },
    {
     "country": "GB",
-    "views": 2546,
-    "engagedViews": 1286
+    "views": 2481,
+    "engagedViews": 1256
    },
    {
     "country": "PH",
-    "views": 901,
-    "engagedViews": 463
+    "views": 835,
+    "engagedViews": 429
    },
    {
     "country": "CA",
-    "views": 648,
-    "engagedViews": 337
+    "views": 624,
+    "engagedViews": 327
    },
    {
     "country": "AU",
@@ -36,8 +36,8 @@
    },
    {
     "country": "ID",
-    "views": 391,
-    "engagedViews": 210
+    "views": 370,
+    "engagedViews": 199
    },
    {
     "country": "NL",
@@ -46,8 +46,8 @@
    },
    {
     "country": "DE",
-    "views": 292,
-    "engagedViews": 150
+    "views": 268,
+    "engagedViews": 134
    },
    {
     "country": "IE",
@@ -83,29 +83,29 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 20915,
-    "engagedViews": 9633
+    "views": 20057,
+    "engagedViews": 9272
    },
    {
     "deviceType": "TABLET",
-    "views": 5017,
-    "engagedViews": 2679
+    "views": 4783,
+    "engagedViews": 2559
    },
    {
     "deviceType": "DESKTOP",
-    "views": 2253,
-    "engagedViews": 1326
+    "views": 2186,
+    "engagedViews": 1283
    },
    {
     "deviceType": "TV",
-    "views": 2231,
-    "engagedViews": 1624
+    "views": 2098,
+    "engagedViews": 1521
    }
   ],
   "ageGroups": [
    {
     "ageGroup": "age13-17",
-    "viewerPercentage": 8.9
+    "viewerPercentage": 8
    },
    {
     "ageGroup": "age18-24",
@@ -113,23 +113,23 @@
    },
    {
     "ageGroup": "age25-34",
-    "viewerPercentage": 9
+    "viewerPercentage": 8.9
    },
    {
     "ageGroup": "age35-44",
-    "viewerPercentage": 15.3
+    "viewerPercentage": 14.8
    },
    {
     "ageGroup": "age45-54",
-    "viewerPercentage": 9
+    "viewerPercentage": 9.3
    },
    {
     "ageGroup": "age55-64",
-    "viewerPercentage": 9.2
+    "viewerPercentage": 9.4
    },
    {
     "ageGroup": "age65-",
-    "viewerPercentage": 48.4
+    "viewerPercentage": 49.4
    }
   ]
  },
@@ -141,7 +141,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 36,
-   "publicViews": "266",
+   "publicViews": "430",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -165,7 +165,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 34,
-   "publicViews": "1155",
+   "publicViews": "1444",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -189,7 +189,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 36,
-   "publicViews": "1178",
+   "publicViews": "1183",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 34,
-   "publicViews": "3119",
+   "publicViews": "3520",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1289,7 +1289,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 42,
-   "publicViews": "1024",
+   "publicViews": "1039",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1827,7 +1827,7 @@
     "SUBSCRIBER": 1
    },
    "durationSec": 664,
-   "publicViews": "95",
+   "publicViews": "101",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2367,7 +2367,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "1066",
+   "publicViews": "1067",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3480,7 +3480,7 @@
     "SUBSCRIBER": 2
    },
    "durationSec": 400,
-   "publicViews": "231",
+   "publicViews": "232",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,

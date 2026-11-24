@@ -2282,3 +2282,33 @@
 [2026-11-24 00:49:15] Kommentare: 27 Zuschauer-Kommentare (21 T), 3 unbeantwortet, 1 Fehler-Hinweise
 [2026-11-24 02:20:10] Kommentare: 28 Zuschauer-Kommentare (21 T), 4 unbeantwortet, 1 Fehler-Hinweise
 [2026-11-24 04:52:08] Kommentare: 28 Zuschauer-Kommentare (21 T), 4 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-24 06:30:09] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-24 06:30:09] Analytics gespeichert (100 Videos)
+[2026-11-24 06:30:12] Kommentar-Antworten gepostet: 4
+[2026-11-24 06:30:13] Kommentare: 28 Zuschauer-Kommentare (21 T), 0 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-24 06:30:13] Produziere flag-duel-3 (short)
+[2026-11-24 06:31:12] Gerendert
+[2026-11-24 06:31:15] QA: -19.7 LUFS, TP -4.2 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 89.3
+[2026-11-24 06:31:18] Hochgeladen: https://youtube.com/watch?v=nRfmP5VG4Ys (private)
+[2026-11-24 06:31:18] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-24 06:31:18] Geplant für 24.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-24 06:31:18] Produziere map-lie-8 (short)
+[2026-11-24 06:33:36] Gerendert
+[2026-11-24 06:33:40] QA: -21.0 LUFS, TP -4.3 dBTP → normalisiert auf −14, Standbild max 2.6 s, Frame0-Luma 205.4
+[2026-11-24 06:33:43] Hochgeladen: https://youtube.com/watch?v=NfdySlM8pEo (private)
+[2026-11-24 06:33:43] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-24 06:33:43] Geplant für 24.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-24 06:33:43] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-24 06:33:43] Produziere iq-riddles-12-2 (long)
+[2026-11-24 06:33:43] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-24 06:34:25] Ton fertig: 269.5 s
+[2026-11-24 06:42:42] Gerendert
+[2026-11-24 06:43:13] QA: -22.0 LUFS, TP -2.4 dBTP → normalisiert auf −14, Standbild max 7.2 s, Frame0-Luma 190.7 | WARNUNG: Standbild 7.2 s
+[2026-11-24 06:43:24] Hochgeladen: https://youtube.com/watch?v=pMS8OcHVf0U (private)
+[2026-11-24 06:43:29] Vorschaubild gesetzt
+[2026-11-24 06:43:29] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-11-24 06:43:29] Geplant für 24.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-24 06:43:29] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-24 06:43:30] Short-Beschreibung (map-lie-8) verlinkt auf langes Video pMS8OcHVf0U
+[2026-11-24 06:43:31] Short-Beschreibung (flag-duel-3) verlinkt auf langes Video pMS8OcHVf0U
+[2026-11-24 06:43:39] Konkurrenz: 25 Kanäle, 126 Gewinner-Videos

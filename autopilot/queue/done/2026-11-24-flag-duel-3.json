@@ -49,7 +49,15 @@
     "lines": {
      "q": "Who is Austria? Left, or right?",
      "a": "Right! Bright red, equal stripes."
-    }
+    },
+    "start": 2.05,
+    "qAudio": "audio/flag-duel-3/q1.mp3",
+    "aAudio": "audio/flag-duel-3/a1.mp3",
+    "thinkStart": 3.88,
+    "reveal": 6.88,
+    "moveEnd": 7.68,
+    "aStart": 7.43,
+    "end": 9.63
    },
    {
     "level": "MEDIUM",
@@ -66,7 +74,15 @@
     "lines": {
      "q": "Who is Ecuador?",
      "a": "Left! It has the coat of arms."
-    }
+    },
+    "start": 9.63,
+    "qAudio": "audio/flag-duel-3/q2.mp3",
+    "aAudio": "audio/flag-duel-3/a2.mp3",
+    "thinkStart": 10.78,
+    "reveal": 13.78,
+    "moveEnd": 14.58,
+    "aStart": 14.33,
+    "end": 16.53
    },
    {
     "level": "HARD",
@@ -83,7 +99,15 @@
     "lines": {
      "q": "Who is Liechtenstein?",
      "a": "Right! The golden crown."
-    }
+    },
+    "start": 16.53,
+    "qAudio": "audio/flag-duel-3/q3.mp3",
+    "aAudio": "audio/flag-duel-3/a3.mp3",
+    "thinkStart": 17.86,
+    "reveal": 20.86,
+    "moveEnd": 21.66,
+    "aStart": 21.41,
+    "end": 23.61
    },
    {
     "level": "LEGEND",
@@ -100,8 +124,40 @@
     "lines": {
      "q": "Last one. Who is Qatar?",
      "a": "Left! Nine points, darker maroon. Follow for flag duel number four!"
-    }
+    },
+    "start": 23.61,
+    "qAudio": "audio/flag-duel-3/q4.mp3",
+    "aAudio": "audio/flag-duel-3/a4.mp3",
+    "thinkStart": 25.07,
+    "reveal": 28.07,
+    "moveEnd": 28.87,
+    "aStart": 28.62,
+    "end": 34.44
    }
-  ]
- }
+  ],
+  "hook": {
+   "audio": "audio/flag-duel-3/hook.mp3",
+   "start": 0.0,
+   "end": 2.05
+  },
+  "durationInSeconds": 34.44
+ },
+ "qa": {
+  "lufs": -19.7,
+  "truePeak": -4.2,
+  "lra": 11.7,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 89.3,
+  "warnings": []
+ },
+ "scheduledFor": "2026-11-24T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "nRfmP5VG4Ys",
+  "at": "2026-11-24T06:31"
+ },
+ "linkedLong": "pMS8OcHVf0U"
 }

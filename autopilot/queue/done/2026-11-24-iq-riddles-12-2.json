@@ -68,7 +68,11 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "1·4·9·16·25·?"
+    "cardText": "1·4·9·16·25·?",
+    "start": 0.0,
+    "countdownStart": 8.544,
+    "reveal": 18.544,
+    "end": 23.313
    },
    {
     "q": "3 haystacks here, 5 there. Put them all **together**. How many?",
@@ -80,7 +84,12 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🌾"
+    "cardText": "🌾",
+    "start": 23.313,
+    "keywordAt": 27.851,
+    "countdownStart": 30.491,
+    "reveal": 40.491,
+    "end": 45.631
    },
    {
     "q": "A rooster lays an egg on a **roof**. Which way does it roll?",
@@ -92,7 +101,12 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🐓"
+    "cardText": "🐓",
+    "start": 45.631,
+    "keywordAt": 48.264,
+    "countdownStart": 50.493,
+    "reveal": 60.493,
+    "end": 65.309
    },
    {
     "q": "Doctor: **3 pills**, one every 30 minutes. How long do they last?",
@@ -104,7 +118,11 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "💊"
+    "cardText": "💊",
+    "start": 65.309,
+    "countdownStart": 71.963,
+    "reveal": 81.963,
+    "end": 87.196
    },
    {
     "q": "Divide **30 by half**, then add 10. What do you get?",
@@ -116,7 +134,11 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "➗"
+    "cardText": "➗",
+    "start": 87.196,
+    "countdownStart": 90.792,
+    "reveal": 100.792,
+    "end": 106.134
    },
    {
     "q": "What comes next: **1, 1, 2, 3, 5, 8, ?**",
@@ -128,7 +150,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "1·1·2·3·5·8·?"
+    "cardText": "1·1·2·3·5·8·?",
+    "start": 106.134,
+    "countdownStart": 109.134,
+    "reveal": 119.134,
+    "end": 125.693
    },
    {
     "q": "Odd one out: **8, 27, 64, 100, 125**",
@@ -140,7 +166,11 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "8·27·64·100·125"
+    "cardText": "8·27·64·100·125",
+    "start": 125.693,
+    "countdownStart": 132.109,
+    "reveal": 142.109,
+    "end": 147.822
    },
    {
     "q": "How many times does the digit **9** appear from 1 to 100?",
@@ -152,7 +182,11 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "9️⃣"
+    "cardText": "9️⃣",
+    "start": 147.822,
+    "countdownStart": 153.235,
+    "reveal": 163.235,
+    "end": 169.858
    },
    {
     "q": "Snail: up 3 m by day, down 2 m by night. **10 m wall**. Days?",
@@ -164,7 +198,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🐌"
+    "cardText": "🐌",
+    "start": 169.858,
+    "countdownStart": 177.892,
+    "reveal": 187.892,
+    "end": 194.182
    },
    {
     "q": "Which word doesn't belong with **LISTEN**?",
@@ -176,7 +214,12 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🔤"
+    "cardText": "🔤",
+    "start": 194.182,
+    "keywordAt": 196.057,
+    "countdownStart": 198.789,
+    "reveal": 208.789,
+    "end": 215.214
    },
    {
     "q": "What comes next: **2, 3, 5, 9, 17, ?**",
@@ -188,7 +231,11 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "2·3·5·9·17·?"
+    "cardText": "2·3·5·9·17·?",
+    "start": 215.214,
+    "countdownStart": 219.929,
+    "reveal": 229.929,
+    "end": 234.483
    },
    {
     "q": "Dad is **4×** his son's age. In 20 years, 2×. Son's age now?",
@@ -200,9 +247,16 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "👨‍👦"
+    "cardText": "👨‍👦",
+    "start": 234.483,
+    "countdownStart": 242.411,
+    "reveal": 252.411,
+    "end": 258.284
    }
-  ]
+  ],
+  "audio": "audio/iq-riddles-12-2.mp3",
+  "outroStart": 258.284,
+  "durationInSeconds": 269.519
  },
  "lines": [
   {
@@ -253,5 +307,36 @@
    "q": "Final question. A dad is four times as old as his son. In twenty years, he'll be only twice as old. How old is the son now?",
    "a": "Ten! Dad is forty. In twenty years, sixty and thirty. Exactly double."
   }
- ]
+ ],
+ "qa": {
+  "lufs": -22.0,
+  "truePeak": -2.4,
+  "lra": 8.2,
+  "normalized": true,
+  "frozenShare": 0.793,
+  "longestFreezeSec": 7.2,
+  "frame0Luma": 190.7,
+  "warnings": [
+   "Standbild 7.2 s"
+  ]
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/iq-riddles-12-2-B.jpg",
+ "thumbTest": {
+  "order": [
+   "B",
+   "A",
+   "C"
+  ],
+  "current": "B",
+  "since": "2026-11-24",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-24T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "pMS8OcHVf0U",
+  "at": "2026-11-24T06:43"
+ }
 }

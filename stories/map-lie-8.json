@@ -1,0 +1,141 @@
+{
+ "id": "map-lie-8",
+ "type": "truesize",
+ "title": "This Map Is Lying To You #8",
+ "kicker": "MAP TEST #8",
+ "hookText": [
+  "THIS MAP",
+  "IS LYING",
+  "TO YOU"
+ ],
+ "hookLine": "This map is lying to you. Four rounds, can you beat it?",
+ "question": "Which is really bigger?",
+ "music": "sfx/world-trip.wav",
+ "musicVolume": 0.09,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "a": {
+    "shape": "turkey",
+    "name": "Turkey",
+    "km2": 783562
+   },
+   "b": {
+    "shape": "ukraine",
+    "name": "Ukraine",
+    "km2": 603550
+   },
+   "mover": "b",
+   "verdict": "30% bigger",
+   "lines": {
+    "q": "Turkey, or Ukraine?",
+    "a": "Turkey! By almost a third."
+   },
+   "winner": "a",
+   "start": 3.04,
+   "qAudio": "audio/map-lie-8/q1.mp3",
+   "aAudio": "audio/map-lie-8/a1.mp3",
+   "thinkStart": 4.35,
+   "reveal": 6.75,
+   "moveEnd": 8.25,
+   "aStart": 7.3,
+   "end": 10.4
+  },
+  {
+   "level": "MEDIUM",
+   "a": {
+    "shape": "japan",
+    "name": "Japan",
+    "km2": 377915
+   },
+   "b": {
+    "shape": "thailand",
+    "name": "Thailand",
+    "km2": 513120
+   },
+   "mover": "a",
+   "verdict": "36% bigger",
+   "lines": {
+    "q": "Japan, or Thailand?",
+    "a": "Thailand! Japan only looks bigger."
+   },
+   "winner": "b",
+   "start": 10.4,
+   "qAudio": "audio/map-lie-8/q2.mp3",
+   "aAudio": "audio/map-lie-8/a2.mp3",
+   "thinkStart": 11.77,
+   "reveal": 14.17,
+   "moveEnd": 15.67,
+   "aStart": 14.72,
+   "end": 17.82
+  },
+  {
+   "level": "HARD",
+   "a": {
+    "shape": "montana",
+    "name": "Montana",
+    "km2": 380831
+   },
+   "b": {
+    "shape": "finland",
+    "name": "Finland",
+    "km2": 338145
+   },
+   "mover": "b",
+   "verdict": "13% bigger",
+   "lines": {
+    "q": "Montana, or Finland?",
+    "a": "Montana! Big Sky wins."
+   },
+   "winner": "a",
+   "start": 17.82,
+   "qAudio": "audio/map-lie-8/q3.mp3",
+   "aAudio": "audio/map-lie-8/a3.mp3",
+   "thinkStart": 19.31,
+   "reveal": 21.71,
+   "moveEnd": 23.21,
+   "aStart": 22.26,
+   "end": 25.36
+  },
+  {
+   "level": "LEGEND",
+   "a": {
+    "shape": "svalbard",
+    "name": "Svalbard",
+    "km2": 62045
+   },
+   "b": {
+    "shape": "srilanka",
+    "name": "Sri Lanka",
+    "km2": 65610
+   },
+   "mover": "a",
+   "verdict": "6% bigger",
+   "lines": {
+    "q": "Last one. Svalbard, or Sri Lanka?",
+    "a": "Sri Lanka! Follow, number nine drops tomorrow!"
+   },
+   "winner": "b",
+   "start": 25.36,
+   "qAudio": "audio/map-lie-8/q4.mp3",
+   "aAudio": "audio/map-lie-8/a4.mp3",
+   "thinkStart": 27.46,
+   "reveal": 29.86,
+   "moveEnd": 31.36,
+   "aStart": 30.41,
+   "end": 35.16
+  }
+ ],
+ "sources": [
+  "Areas (total, km²): Turkey 783,562; Ukraine 603,550; Thailand 513,120; Japan 377,915; Montana 380,831; Finland 338,145; Sri Lanka 65,610; Svalbard 62,045 – CIA World Factbook / US Census Bureau",
+  "Outlines: Natural Earth (public domain)"
+ ],
+ "hook": {
+  "audio": "audio/map-lie-8/hook.mp3",
+  "start": 0.0,
+  "end": 3.04
+ },
+ "durationInSeconds": 35.16
+}

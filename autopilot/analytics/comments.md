@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-24 04:52
+# Zuschauer-Kommentare – Stand 2026-11-24 06:30
 
-Letzte 21 Tage, ohne unsere eigenen. 28 Kommentare, 4 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 28 Kommentare, 0 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -33,13 +33,13 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 - 2026-11-23 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @JetsBigAdventures · id `UgxQ4Q0fN4LZfw-L3PZ4AaABAg`  
   „4/4“
-- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @BashyWashy29 **[OFFEN]** · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdZxvQ9M9Uh`  
+- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @BashyWashy29 · id `UgwlJeS1R0fIHN7K2iF4AaABAg.AdWbv5lpSroAdZxvQ9M9Uh`  
   „4/4“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @FilipMagnes · id `UgxPMnS2UhFKX9nvPkV4AaABAg`  
   „3/4“
-- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @Wolfy2026-7wc **[OFFEN]** · id `UgxZsINo0ci1outXNAF4AaABAg`  
+- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @Wolfy2026-7wc · id `UgxZsINo0ci1outXNAF4AaABAg`  
   „4/4“
-- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @cloudynbarlan6435 **[OFFEN]** · id `UgyAPg-jnVZz_9YWjpd4AaABAg`  
+- 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @cloudynbarlan6435 · id `UgyAPg-jnVZz_9YWjpd4AaABAg`  
   „3/4, 95-236“
 - 2026-11-22 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @jilliancunanan-h2f · id `UgzhmugeGevGvIl3FGd4AaABAg`  
   „4/4“
@@ -54,7 +54,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SONSTIGES (15)
 
-- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @nickolawright3724y **[OFFEN]** · id `Ugwop203Ikyt2WieGSN4AaABAg.AdZc7eT_wSnAd_N0o90xCy`  
+- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @nickolawright3724y · id `Ugwop203Ikyt2WieGSN4AaABAg.AdZc7eT_wSnAd_N0o90xCy`  
   „4000000/20000000“
 - 2026-11-23 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @LinaDuenas-w8x · id `UgzEsRGnUoJ51ajd6Jd4AaABAg`  
   „4“

@@ -1,0 +1,124 @@
+{
+ "id": "flag-duel-3",
+ "type": "flagduel",
+ "title": "Who Is AUSTRIA? Left or Right?",
+ "kicker": "CAN YOU GET 4/4?",
+ "hookLine": "Only one in ten get all four.",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.08,
+ "timing": {
+  "think": 3.0,
+  "move": 0.8,
+  "tail": 0.35
+ },
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "target": "AUSTRIA",
+   "a": {
+    "flag": "lv",
+    "name": "Latvia"
+   },
+   "b": {
+    "flag": "at",
+    "name": "Austria"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "Who is Austria? Left, or right?",
+    "a": "Right! Bright red, equal stripes."
+   },
+   "start": 2.05,
+   "qAudio": "audio/flag-duel-3/q1.mp3",
+   "aAudio": "audio/flag-duel-3/a1.mp3",
+   "thinkStart": 3.88,
+   "reveal": 6.88,
+   "moveEnd": 7.68,
+   "aStart": 7.43,
+   "end": 9.63
+  },
+  {
+   "level": "MEDIUM",
+   "target": "ECUADOR",
+   "a": {
+    "flag": "ec",
+    "name": "Ecuador"
+   },
+   "b": {
+    "flag": "co",
+    "name": "Colombia"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Who is Ecuador?",
+    "a": "Left! It has the coat of arms."
+   },
+   "start": 9.63,
+   "qAudio": "audio/flag-duel-3/q2.mp3",
+   "aAudio": "audio/flag-duel-3/a2.mp3",
+   "thinkStart": 10.78,
+   "reveal": 13.78,
+   "moveEnd": 14.58,
+   "aStart": 14.33,
+   "end": 16.53
+  },
+  {
+   "level": "HARD",
+   "target": "LIECHTENSTEIN",
+   "a": {
+    "flag": "ht",
+    "name": "Haiti"
+   },
+   "b": {
+    "flag": "li",
+    "name": "Liechtenstein"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "Who is Liechtenstein?",
+    "a": "Right! The golden crown."
+   },
+   "start": 16.53,
+   "qAudio": "audio/flag-duel-3/q3.mp3",
+   "aAudio": "audio/flag-duel-3/a3.mp3",
+   "thinkStart": 17.86,
+   "reveal": 20.86,
+   "moveEnd": 21.66,
+   "aStart": 21.41,
+   "end": 23.61
+  },
+  {
+   "level": "LEGEND",
+   "target": "QATAR",
+   "a": {
+    "flag": "qa",
+    "name": "Qatar"
+   },
+   "b": {
+    "flag": "bh",
+    "name": "Bahrain"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Last one. Who is Qatar?",
+    "a": "Left! Nine points, darker maroon. Follow for flag duel number four!"
+   },
+   "start": 23.61,
+   "qAudio": "audio/flag-duel-3/q4.mp3",
+   "aAudio": "audio/flag-duel-3/a4.mp3",
+   "thinkStart": 25.07,
+   "reveal": 28.07,
+   "moveEnd": 28.87,
+   "aStart": 28.62,
+   "end": 34.44
+  }
+ ],
+ "hook": {
+  "audio": "audio/flag-duel-3/hook.mp3",
+  "start": 0.0,
+  "end": 2.05
+ },
+ "durationInSeconds": 34.44
+}
