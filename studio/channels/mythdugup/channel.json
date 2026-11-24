@@ -8,16 +8,17 @@
     "19:30"
   ],
   "warn_below": 6,
-  "category": 27,
+  "category": 25,
   "tags": [
     "myth dug up",
-    "archaeology",
-    "history",
-    "ancient history",
-    "legends",
+    "news",
+    "news explained",
+    "breaking news",
+    "tech news",
+    "world news",
     "shorts"
   ],
-  "footer": "Myth Dug Up — legends that turned out to be (partly) real. Every episode says what is proven and what is still debated.\n#archaeology #history #shorts",
-  "style": "Each myth is painted in the art style of its own culture (claude-drawing-skill: blackfigure, tomb, mosaic, codex, ukiyoe, ...); the dig is always an old field notebook (codex). Camera moves through one continuous world (bang-motion), paper cut-outs and stamps (vox-director).",
+  "footer": "Myth Dug Up — today's biggest stories, dug up. Every video says what is proven and what is still debated.\nIllustrations painted with code (no photos), narration is synthetic.\n#news #shorts",
+  "style": "Current news stories (last 24-72 h). Plates in news styles: newscollage, blueprint, letterpress, notebook, bauhaus, ballpoint; maps/charts via kit; paper cut-outs and stamps PROVEN / DEBATED / ALLEGED.",
   "long_time": "17:00"
 }
