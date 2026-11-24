@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-24T00:24",
+ "fetched": "2026-11-24T15:56",
  "channel": "WILDLY TRUE",
- "subscribers": "49",
+ "subscribers": "50",
  "audience": {
   "countries": [
    {
@@ -28,17 +28,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 1152,
-    "engagedViews": 379
+    "views": 1146,
+    "engagedViews": 376
    },
    {
     "deviceType": "TABLET",
-    "views": 70,
+    "views": 67,
     "engagedViews": 26
    },
    {
     "deviceType": "DESKTOP",
-    "views": 51,
+    "views": 50,
     "engagedViews": 12
    },
    {
@@ -72,13 +72,37 @@
  },
  "videos": [
   {
+   "id": "PidNeOcugUM",
+   "title": "These Animals Survived 10 Days in Open Space 🐻 #shorts",
+   "published": "2026-11-24T00:27:37Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 31,
+   "publicViews": "0",
+   "status": {
+    "privacyStatus": "private",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
+  },
+  {
    "id": "jgP2jPmLKac",
    "title": "This Shark Can Live Almost 400 Years 🦈 #shorts",
    "published": "2026-11-23T17:00:20Z",
    "retention": [],
    "trafficSources": {},
    "durationSec": 30,
-   "publicViews": "88",
+   "publicViews": "251",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1692,7 +1716,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 27,
-   "publicViews": "20",
+   "publicViews": "22",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -4423,508 +4447,6 @@
    "likes": 7,
    "comments": 0,
    "subscribersGained": 3,
-   "retention": [
-    [
-     0.01,
-     1.366,
-     0.599
-    ],
-    [
-     0.02,
-     1.354,
-     0.57
-    ],
-    [
-     0.03,
-     1.304,
-     0.541
-    ],
-    [
-     0.04,
-     1.271,
-     0.516
-    ],
-    [
-     0.05,
-     1.259,
-     0.494
-    ],
-    [
-     0.06,
-     1.244,
-     0.478
-    ],
-    [
-     0.07,
-     1.241,
-     0.465
-    ],
-    [
-     0.08,
-     1.241,
-     0.457
-    ],
-    [
-     0.09,
-     1.217,
-     0.45
-    ],
-    [
-     0.1,
-     1.217,
-     0.446
-    ],
-    [
-     0.11,
-     1.205,
-     0.443
-    ],
-    [
-     0.12,
-     1.176,
-     0.441
-    ],
-    [
-     0.13,
-     1.137,
-     0.439
-    ],
-    [
-     0.14,
-     1.116,
-     0.439
-    ],
-    [
-     0.15,
-     1.065,
-     0.438
-    ],
-    [
-     0.16,
-     1.012,
-     0.439
-    ],
-    [
-     0.17,
-     0.979,
-     0.44
-    ],
-    [
-     0.18,
-     0.941,
-     0.441
-    ],
-    [
-     0.19,
-     0.905,
-     0.442
-    ],
-    [
-     0.2,
-     0.869,
-     0.444
-    ],
-    [
-     0.21,
-     0.842,
-     0.446
-    ],
-    [
-     0.22,
-     0.801,
-     0.448
-    ],
-    [
-     0.23,
-     0.789,
-     0.451
-    ],
-    [
-     0.24,
-     0.777,
-     0.453
-    ],
-    [
-     0.25,
-     0.75,
-     0.455
-    ],
-    [
-     0.26,
-     0.726,
-     0.458
-    ],
-    [
-     0.27,
-     0.717,
-     0.461
-    ],
-    [
-     0.28,
-     0.691,
-     0.463
-    ],
-    [
-     0.29,
-     0.664,
-     0.466
-    ],
-    [
-     0.3,
-     0.646,
-     0.468
-    ],
-    [
-     0.31,
-     0.64,
-     0.471
-    ],
-    [
-     0.32,
-     0.616,
-     0.473
-    ],
-    [
-     0.33,
-     0.601,
-     0.475
-    ],
-    [
-     0.34,
-     0.595,
-     0.477
-    ],
-    [
-     0.35,
-     0.58,
-     0.479
-    ],
-    [
-     0.36,
-     0.569,
-     0.481
-    ],
-    [
-     0.37,
-     0.566,
-     0.483
-    ],
-    [
-     0.38,
-     0.562,
-     0.484
-    ],
-    [
-     0.39,
-     0.556,
-     0.486
-    ],
-    [
-     0.4,
-     0.548,
-     0.488
-    ],
-    [
-     0.41,
-     0.542,
-     0.489
-    ],
-    [
-     0.42,
-     0.545,
-     0.491
-    ],
-    [
-     0.43,
-     0.536,
-     0.492
-    ],
-    [
-     0.44,
-     0.533,
-     0.493
-    ],
-    [
-     0.45,
-     0.53,
-     0.495
-    ],
-    [
-     0.46,
-     0.53,
-     0.496
-    ],
-    [
-     0.47,
-     0.521,
-     0.497
-    ],
-    [
-     0.48,
-     0.518,
-     0.499
-    ],
-    [
-     0.49,
-     0.503,
-     0.5
-    ],
-    [
-     0.5,
-     0.497,
-     0.502
-    ],
-    [
-     0.51,
-     0.494,
-     0.503
-    ],
-    [
-     0.52,
-     0.494,
-     0.506
-    ],
-    [
-     0.53,
-     0.491,
-     0.508
-    ],
-    [
-     0.54,
-     0.491,
-     0.512
-    ],
-    [
-     0.55,
-     0.488,
-     0.516
-    ],
-    [
-     0.56,
-     0.479,
-     0.521
-    ],
-    [
-     0.57,
-     0.464,
-     0.526
-    ],
-    [
-     0.58,
-     0.458,
-     0.533
-    ],
-    [
-     0.59,
-     0.458,
-     0.542
-    ],
-    [
-     0.6,
-     0.458,
-     0.552
-    ],
-    [
-     0.61,
-     0.452,
-     0.563
-    ],
-    [
-     0.62,
-     0.452,
-     0.577
-    ],
-    [
-     0.63,
-     0.452,
-     0.593
-    ],
-    [
-     0.64,
-     0.449,
-     0.611
-    ],
-    [
-     0.65,
-     0.449,
-     0.63
-    ],
-    [
-     0.66,
-     0.444,
-     0.651
-    ],
-    [
-     0.67,
-     0.444,
-     0.672
-    ],
-    [
-     0.68,
-     0.44,
-     0.694
-    ],
-    [
-     0.69,
-     0.438,
-     0.716
-    ],
-    [
-     0.7,
-     0.438,
-     0.737
-    ],
-    [
-     0.71,
-     0.435,
-     0.756
-    ],
-    [
-     0.72,
-     0.435,
-     0.774
-    ],
-    [
-     0.73,
-     0.435,
-     0.791
-    ],
-    [
-     0.74,
-     0.435,
-     0.806
-    ],
-    [
-     0.75,
-     0.435,
-     0.819
-    ],
-    [
-     0.76,
-     0.435,
-     0.831
-    ],
-    [
-     0.77,
-     0.431,
-     0.842
-    ],
-    [
-     0.78,
-     0.431,
-     0.851
-    ],
-    [
-     0.79,
-     0.431,
-     0.86
-    ],
-    [
-     0.8,
-     0.429,
-     0.868
-    ],
-    [
-     0.81,
-     0.426,
-     0.875
-    ],
-    [
-     0.82,
-     0.426,
-     0.882
-    ],
-    [
-     0.83,
-     0.423,
-     0.887
-    ],
-    [
-     0.84,
-     0.42,
-     0.893
-    ],
-    [
-     0.85,
-     0.42,
-     0.897
-    ],
-    [
-     0.86,
-     0.42,
-     0.901
-    ],
-    [
-     0.87,
-     0.42,
-     0.905
-    ],
-    [
-     0.88,
-     0.414,
-     0.908
-    ],
-    [
-     0.89,
-     0.411,
-     0.911
-    ],
-    [
-     0.9,
-     0.408,
-     0.914
-    ],
-    [
-     0.91,
-     0.399,
-     0.916
-    ],
-    [
-     0.92,
-     0.399,
-     0.919
-    ],
-    [
-     0.93,
-     0.399,
-     0.92
-    ],
-    [
-     0.94,
-     0.393,
-     0.922
-    ],
-    [
-     0.95,
-     0.387,
-     0.924
-    ],
-    [
-     0.96,
-     0.384,
-     0.925
-    ],
-    [
-     0.97,
-     0.384,
-     0.926
-    ],
-    [
-     0.98,
-     0.378,
-     0.927
-    ],
-    [
-     0.99,
-     0.378,
-     0.927
-    ],
-    [
-     1,
-     0.378,
-     0.928
-    ]
-   ],
    "trafficSources": {
     "SHORTS": 831,
     "YT_SEARCH": 29,
@@ -5109,14 +4631,6 @@
    "likes": 12,
    "comments": 1,
    "subscribersGained": 2,
-   "trafficSources": {
-    "SHORTS": 1368,
-    "YT_OTHER_PAGE": 23,
-    "YT_SEARCH": 21,
-    "SUBSCRIBER": 3,
-    "PLAYLIST": 1,
-    "NO_LINK_OTHER": 0
-   },
    "durationSec": 32,
    "publicViews": "1416",
    "status": {
@@ -5148,7 +4662,7 @@
    "comments": 0,
    "subscribersGained": 2,
    "durationSec": 34,
-   "publicViews": "1338",
+   "publicViews": "1339",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -6894,7 +6408,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 24,
-   "publicViews": "459",
+   "publicViews": "460",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -7623,36 +7137,6 @@
     "license": "youtube"
    },
    "engagedShare": 0.667
-  },
-  {
-   "id": "Z5cJozXJtzk",
-   "title": "AI automation works best on repeatable tasks #shorts",
-   "published": "2026-09-11T18:04:09Z",
-   "views": 2,
-   "engagedViews": 1,
-   "averageViewDuration": 16,
-   "averageViewPercentage": 47.56,
-   "likes": 0,
-   "comments": 0,
-   "subscribersGained": 0,
-   "durationSec": 34,
-   "publicViews": "2",
-   "status": {
-    "privacyStatus": "public",
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false,
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "uploadStatus": "processed",
-    "ytRating": null,
-    "regionRestriction": null,
-    "contentRating": null,
-    "licensedContent": false,
-    "rejectionReason": null,
-    "failureReason": null,
-    "license": "youtube"
-   },
-   "engagedShare": 0.5
   }
  ]
 }
