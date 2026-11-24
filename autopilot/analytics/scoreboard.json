@@ -57,10 +57,10 @@
     "subs": 0
    },
    "Karten-VS (TrueSize)": {
-    "n": 5,
-    "avgViews": 857,
-    "medianViews": 1006,
-    "bestViews": 1067,
+    "n": 6,
+    "avgViews": 912,
+    "medianViews": 1014,
+    "bestViews": 1185,
     "stayed": 49.8,
     "avgPct": 75.3,
     "subs": 2.0
@@ -311,9 +311,9 @@
     "subs": 0
    },
    "–": {
-    "n": 6,
-    "avgViews": 1334,
-    "medianViews": 1014,
+    "n": 7,
+    "avgViews": 1313,
+    "medianViews": 1021,
     "bestViews": 3717,
     "stayed": 49.8,
     "avgPct": 75.3,
@@ -493,9 +493,9 @@
     "subs": 0
    },
    "comic": {
-    "n": 6,
-    "avgViews": 1334,
-    "medianViews": 1014,
+    "n": 7,
+    "avgViews": 1313,
+    "medianViews": 1021,
     "bestViews": 3717,
     "stayed": 49.8,
     "avgPct": 75.3,
@@ -540,9 +540,9 @@
     "subs": 14.0
    },
    "world-trip.wav": {
-    "n": 18,
-    "avgViews": 515,
-    "medianViews": 356,
+    "n": 19,
+    "avgViews": 550,
+    "medianViews": 454,
     "bestViews": 1189,
     "stayed": 51.3,
     "avgPct": 67.6,
@@ -569,9 +569,9 @@
     "subs": 14.0
    },
    "21:00": {
-    "n": 31,
-    "avgViews": 519,
-    "medianViews": 327,
+    "n": 32,
+    "avgViews": 540,
+    "medianViews": 360,
     "bestViews": 1189,
     "stayed": 51.5,
     "avgPct": 67.0,
@@ -963,7 +963,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 33.2,
+   "ageDays": 33.3,
    "search": null
   },
   {
@@ -1001,7 +1001,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 32.2,
+   "ageDays": 32.3,
    "search": null
   },
   {
@@ -1077,7 +1077,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 31.2,
+   "ageDays": 31.3,
    "search": null
   },
   {
@@ -2430,6 +2430,25 @@
    "search": null
   },
   {
+   "file": "2026-11-22-map-lie-6.json",
+   "id": "map-lie-6",
+   "videoId": "HpIiecf_igY",
+   "kind": "short",
+   "title": "This Map Is Lying To You #6 🌍 Which Is REALLY Bigger? #shorts",
+   "format": "Karten-VS (TrueSize)",
+   "topic": "–",
+   "layout": "comic",
+   "music": "world-trip.wav",
+   "slot": "21:00",
+   "publicViews": 1185.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 36,
+   "ageDays": 2.0,
+   "search": null
+  },
+  {
    "file": "auto-2026-10-28-long.json",
    "id": "auto-2026-10-28-long",
    "videoId": "zZDclzxCTSg",
@@ -2464,7 +2483,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 27.9,
+   "ageDays": 28.0,
    "search": null
   },
   {

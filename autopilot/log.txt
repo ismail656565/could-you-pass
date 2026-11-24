@@ -2324,3 +2324,5 @@
 [2026-11-24 18:55:23] Konkurrenz: 25 Kanäle, 126 Gewinner-Videos
 [2026-11-24 19:28:49] map-lie-8: noch nicht öffentlich – Kommentar später
 [2026-11-24 19:28:49] Kommentare: 33 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-24 20:06:39] map-lie-8: Kommentar gepostet (mit Long-Link)
+[2026-11-24 20:06:40] Kommentare: 33 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise
