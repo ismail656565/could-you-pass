@@ -13,5 +13,10 @@
   "tech news",
   "news explained"
  ],
- "hold": true
+ "thumb": {
+  "text": "THE CEO AND THE SPY?",
+  "hl": "SPY",
+  "shot": 3,
+  "side": "left"
+ }
 }
