@@ -1,23 +1,24 @@
-# Plan 2026-11-23
+# Plan 2026-11-24
 
-Data: none yet (11-days-awake short + long published today; old upload 1 view). Verdict from 25.11.
-Competitor Zack D. Films (huge outliers): "How Mouth Breathing Can Change Your Face 😬" 2ll9ClpJ3x8 (11M), split image: half face / half skull; plain body-change promise + emoji in title. BodyScribble: "What If You Aged 10x Slower?" style what-if body questions.
-Pattern to adopt: ONE body change, shown visibly (X-ray / cut-away split), promise in the title = what happens to YOUR body.
+Data: 11-days-awake short 9 views, long 0, Space-taller (today) 0 – all < 48 h, no verdict, no retention curves yet.
+Retention finding (other channels): steepest drop at 4.5–6.7 s = line 2 → line 2 must show the body changing, not explain.
+Competitors: Zack D. Films 2ll9ClpJ3x8 "How Mouth Breathing Can Change Your Face 😬" (12M) = half face / half skull split, caption words on screen; NEW TED-Ed 8RPK5KwYhgA "What if you didn't brush your teeth for a year?" (2.6×, 1.3M) = what-if timeline of your own body; BodyScribble what-if titles.
 
 ## Rules
-- Format: "Your body under X" – 25–40 s, max ~85 words. Line 1 speaks to the viewer or states the extreme: "Above 8,000 metres, your body is slowly dying." Never start with a date or a name.
-- First frame: a split figure – left half normal, right half X-ray / anatomy (lab notebook drawing), with the affected organ highlighted. Use the counter for time/day ("DAY {n}", "HOUR {n}") when the story has a timeline.
-- Title pattern: "[Condition] Does THIS to Your Body [emoji] #shorts" or "[Extreme situation]. [What the body does]." – the body is always the subject.
-- End with the real case/number and one safety line in the description (science story, not a challenge).
-- Style: lab notebook + X-ray / thermal colours; stamps for numbers ("13.7 °C", "−3 % O₂").
+- Format "Your body under X", 25–35 s, max ~80 words. Line 1 speaks to the viewer or states the extreme; never a date or name.
+- Line 2 (2.5–6 s) = the first visible change with a number ("By hour 24, your blood thickens."). Highlight changes on the split figure at ~4.5 s.
+- First frame: split figure (left normal, right X-ray/anatomy) with the affected organ highlighted. Counter "DAY {n}" / "HOUR {n}" for timelines.
+- Titles: "[Condition] Does THIS to Your Body [emoji] #shorts", "What If You [didn't X] for [time]? [emoji] #shorts" (new), or "[Extreme situation]. [What the body does]."
+- End with the real case/number; safety line in the description.
+- Style: lab notebook + X-ray / thermal colours; stamps for numbers.
 
-## Next 3 episodes
-1. 002-space-taller – "Space Makes You Taller. Then It Hurts. 🚀 #shorts". Hook: "Go to space, and you come back taller." Facts (NASA): spine lengthens up to ~3 % in microgravity, back pain common, height returns on Earth. Split X-ray spine, counter "DAY {n}". Why: competitor 2ll9ClpJ3x8 (visible body change). (written: 002-space-taller)
-2. 003-coldest-survivor – "Her Body Cooled to 13.7 °C. She Survived. 🧊 #shorts". Hook: "Her heart stopped for hours. Her body was 13.7 degrees." Facts: Anna Bågenholm, Norway 1999, trapped under ice, core temp 13.7 °C, revived at Tromsø hospital. Thermal-colour silhouette, NO likeness. Why: extreme number + survival (exploit sleep-story idea). (written: 003-coldest-survivor)
-3. 004-death-zone – "Above 8,000 m, Your Body Starts Dying 🏔️ #shorts". Hook: "Above eight thousand metres, your body is slowly dying." Facts: air has ~1/3 of sea-level oxygen pressure; brain and lung swelling (HACE/HAPE), climbers use bottled oxygen. Counter "HOUR {n}". Why: experiment "your body" second-person framing.
+## Next 3 episodes (after 003)
+1. 004-death-zone – "Above 8,000 m, Your Body Starts Dying 🏔️ #shorts". Hook: "Above eight thousand metres, your body is slowly dying." Line 2: "Each breath brings about a third of the oxygen you get at sea level." Facts: HACE/HAPE, bottled oxygen. Counter "HOUR {n}". Why: second-person experiment.
+2. 005-no-water – "What If You Didn't Drink Water for 3 Days? 💧 #shorts". Hook: "No water. Here's your body, hour by hour." Line 2: "Hour 24: your mouth is dry, your blood is getting thicker." Counter "HOUR {n}" to 72; facts only from medical sources (thirst, reduced urine, headache, kidney strain, ~3 days rough survival limit, varies with heat). Description: safety line. Why: competitor 8RPK5KwYhgA (what-if timeline) – EXPERIMENT what-if title.
+3. 006-round-heart – "Space Changes the Shape of Your Heart 🚀 #shorts". Hook: "Stay in space long enough, and your heart changes shape." Line 2: "It gets rounder – almost like a ball." Facts: NASA-funded ultrasound study (Hughson et al., 2014): astronauts' hearts became ~9.4 % more spherical on long missions, returned after landing. Split figure with heart. Why: exploit space-body angle (002).
 
 ## Experiments
-- Second-person "your body" titles (002, 004) vs case-story title (003). Verdict after 7 days.
+- Second-person "your body" titles (002, 004) vs case-story title (003) vs what-if title (005). Verdict after 7 days each.
 
 ## Do not
-- No challenges or instructions to try anything, no gore, no real faces, no medical advice. No copied Zack D. topics (mouth breathing, finger gun, etc.).
+- No challenges or instructions to try anything dangerous, no gore, no real faces, no medical advice. No copied Zack D./TED-Ed topics (mouth breathing, finger gun, teeth brushing).
