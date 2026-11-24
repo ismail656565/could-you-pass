@@ -1,0 +1,1670 @@
+{
+ "title": "The CEO, the Alleged Spy and the 11 Days That Shook Nvidia",
+ "mood": "tense",
+ "cast": {
+  "jensen": {
+   "skin": "light",
+   "outfit": "suit",
+   "color": "#1C1B22",
+   "shirt": "#2B2D3C",
+   "tie": "none",
+   "hair": "slick",
+   "hair_col": "#8A8A92"
+  },
+  "alice": {
+   "skin": "light",
+   "outfit": "dress",
+   "color": "#7A3B8A",
+   "hair": "long",
+   "hair_col": "#1C1B22"
+  },
+  "colette": {
+   "skin": "fair",
+   "outfit": "suit",
+   "color": "#3B4660",
+   "tie": "none",
+   "hair": "bun",
+   "hair_col": "#C9A56A"
+  },
+  "chair": {
+   "skin": "fair",
+   "outfit": "suit",
+   "color": "#5B5B66",
+   "tie": "#7A1F1F",
+   "hair": "short",
+   "hair_col": "#D8D8D8",
+   "glasses": true
+  },
+  "agent": {
+   "skin": "brown",
+   "outfit": "suit",
+   "color": "#2F6B4E",
+   "tie": "#1C1B22",
+   "hair": "short",
+   "hair_col": "#1C1B22",
+   "hat": "fedora",
+   "hat_col": "#3B2A1E"
+  },
+  "ava": {
+   "skin": "olive",
+   "outfit": "sweater",
+   "color": "#C9822F",
+   "hair": "bun",
+   "hair_col": "#3B2A1E",
+   "hat": "fedora",
+   "hat_col": "#6B4A2E"
+  }
+ },
+ "shots": [
+  {
+   "kind": "walk",
+   "s": [
+    0
+   ],
+   "set": "street",
+   "time": "night",
+   "chars": [
+    {
+     "id": "jensen"
+    }
+   ],
+   "labels": [
+    {
+     "text": "NOV 12",
+     "at": "twelfth",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    1
+   ],
+   "set": "office",
+   "time": "day",
+   "chars": [
+    {
+     "id": "jensen",
+     "x": 960,
+     "emotion": "confident",
+     "pose": "celebrate",
+     "enter": "left"
+    }
+   ],
+   "labels": [
+    {
+     "text": "11 DAYS LATER",
+     "at": "eleven",
+     "color": "lime"
+    },
+    {
+     "text": "BACK IN",
+     "at": "back",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    2
+   ],
+   "icons": [
+    {
+     "name": "warning",
+     "label": "AN ALLEGED SPY",
+     "at": "spy"
+    },
+    {
+     "name": "book",
+     "label": "A SECRET MEMO",
+     "at": "memo",
+     "text": "MEMO"
+    },
+    {
+     "name": "calendar",
+     "label": "IN MARKET VALUE",
+     "at": "trillion",
+     "top": "LOST",
+     "text": "$2.7T"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    3
+   ],
+   "left": {
+    "who": "jensen",
+    "title": "NVIDIA CEO",
+    "emotion": "nervous",
+    "at": 0.05
+   },
+   "right": {
+    "who": "alice",
+    "title": "ALLEGED SPY?",
+    "emotion": "thinking",
+    "at": 0.45
+   }
+  },
+  {
+   "kind": "wide",
+   "s": [
+    4,
+    6
+   ],
+   "set": "void",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 760,
+     "emotion": "thinking",
+     "pose": "think",
+     "face": 0.5
+    }
+   ],
+   "labels": [
+    {
+     "text": "PROVEN",
+     "at": "proven",
+     "color": "lime"
+    },
+    {
+     "text": "DEBATED",
+     "at": "debate",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    7
+   ],
+   "who": "ava",
+   "set": "office",
+   "time": "night",
+   "emotion": "excited",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "WHICH IS WHICH?",
+     "at": "which",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "The Most Powerful CEO on Earth",
+   "sub": "CHAPTER ONE"
+  },
+  {
+   "kind": "skyline",
+   "s": [
+    8,
+    9
+   ],
+   "time": "day",
+   "tag": "NVIDIA · SANTA CLARA"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    10,
+    12
+   ],
+   "icons": [
+    {
+     "name": "brain",
+     "label": "AI MODELS",
+     "at": "models"
+    },
+    {
+     "name": "trophy",
+     "label": "MOST WANTED",
+     "at": "wanted"
+    },
+    {
+     "name": "target",
+     "label": "CHINA",
+     "at": "china"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    13
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "EXPORT CONTROLS",
+     "text": "OCT 2022 · ADVANCED AI CHIPS",
+     "at": 0.1
+    }
+   ],
+   "stamp": {
+    "text": "RESTRICTED",
+    "at": "restricted",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    14,
+    15
+   ],
+   "icons": [
+    {
+     "name": "warning",
+     "label": "MILITARY",
+     "at": "military"
+    },
+    {
+     "name": "target",
+     "label": "WEAPONS",
+     "at": "weapons"
+    },
+    {
+     "name": "lock",
+     "label": "SURVEILLANCE",
+     "at": "surveillance"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    16
+   ],
+   "who": "agent",
+   "set": "office",
+   "time": "night",
+   "emotion": "confident",
+   "pose": "arms_crossed",
+   "labels": [
+    {
+     "text": "LICENSE ONLY",
+     "at": "license",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    17
+   ],
+   "set": "office",
+   "time": "night",
+   "chars": [
+    {
+     "id": "jensen",
+     "x": 960,
+     "emotion": "confident",
+     "pose": "hips",
+     "enter": "left"
+    }
+   ],
+   "labels": [
+    {
+     "text": "ONE MAN",
+     "at": "man",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    18
+   ],
+   "who": "jensen",
+   "side": "right",
+   "set": "office",
+   "time": "night",
+   "emotion": "confident",
+   "pose": "present",
+   "lower_third": {
+    "name": "JENSEN HUANG",
+    "sub": "NVIDIA CO-FOUNDER · CEO",
+    "at": "jensen"
+   },
+   "labels": [
+    {
+     "text": "SINCE 1993",
+     "at": "nineteen",
+     "color": "gold"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    19
+   ],
+   "icons": [
+    {
+     "name": "laptop",
+     "label": "GRAPHICS CARDS",
+     "at": "graphics"
+    },
+    {
+     "name": "trophy",
+     "label": "TRILLIONS",
+     "at": "trillions"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    20,
+    21
+   ],
+   "set": "board",
+   "time": "night",
+   "chars": [
+    {
+     "id": "jensen",
+     "x": 620,
+     "emotion": "smug",
+     "pose": "present",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "LEATHER JACKET",
+     "at": "leather",
+     "color": "cream"
+    },
+    {
+     "text": "INFLUENCE ON EXPORT POLICY",
+     "at": "export",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    22
+   ],
+   "who": "jensen",
+   "set": "office",
+   "time": "night",
+   "emotion": "shocked",
+   "pose": "stressed",
+   "labels": [
+    {
+     "text": "EARTHQUAKE",
+     "at": "earthquake",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "A Customer Called Megaspeed",
+   "sub": "CHAPTER TWO"
+  },
+  {
+   "kind": "table",
+   "s": [
+    23,
+    24
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "2015",
+     "text": "A FIRM IS SET UP · LATER: MEGASPEED",
+     "at": "fifteen"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    25,
+    26
+   ],
+   "items": [
+    {
+     "type": "newspaper",
+     "title": "2023",
+     "text": "SOLD TO SINGAPORE FIRM · NVIDIA CLOUD PARTNER",
+     "at": "twenty",
+     "ring_at": "partner"
+    }
+   ]
+  },
+  {
+   "kind": "map",
+   "s": [
+    27
+   ],
+   "places": [
+    {
+     "name": "SINGAPORE"
+    },
+    {
+     "name": "MALAYSIA"
+    },
+    {
+     "name": "SOUTHEAST ASIA"
+    }
+   ],
+   "vehicle": "ship",
+   "at": "asia"
+  },
+  {
+   "kind": "counter",
+   "s": [
+    28,
+    30
+   ],
+   "value": {
+    "from": 0,
+    "to": 4,
+    "prefix": "$",
+    "suffix": " BILLION+",
+    "at": "billion"
+   },
+   "caption": "IN NVIDIA CHIPS (NYT)",
+   "icon": "laptop"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    31
+   ],
+   "icons": [
+    {
+     "name": "shopping",
+     "label": "CUSTOMER & BACKER: ALIBABA",
+     "at": "alibaba",
+     "text": "ALI"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    32
+   ],
+   "who": "alice",
+   "side": "left",
+   "set": "office",
+   "time": "night",
+   "emotion": "confident",
+   "pose": "present",
+   "lower_third": {
+    "name": "ALICE HUANG",
+    "sub": "MEGASPEED EXECUTIVE",
+    "at": "alice"
+   }
+  },
+  {
+   "kind": "versus",
+   "s": [
+    33,
+    35
+   ],
+   "left": {
+    "who": "jensen",
+    "title": "JENSEN HUANG",
+    "emotion": "smile",
+    "at": 0.05
+   },
+   "right": {
+    "who": "alice",
+    "title": "ALICE HUANG",
+    "emotion": "smile",
+    "at": 0.3
+   },
+   "stamp": {
+    "text": "NOT RELATED",
+    "at": "related",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "table",
+   "s": [
+    36
+   ],
+   "items": [
+    {
+     "type": "photo",
+     "text": "DEC 2023",
+     "at": "december"
+    },
+    {
+     "type": "photo",
+     "text": "MAY 2025",
+     "at": "may"
+    }
+   ],
+   "stamp": {
+    "text": "PHOTOGRAPHED",
+    "at": "photographed",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "wide",
+   "s": [
+    37,
+    38
+   ],
+   "set": "office",
+   "time": "night",
+   "era": "old",
+   "calendar": "2024",
+   "chars": [
+    {
+     "id": "agent",
+     "x": 700,
+     "emotion": "thinking",
+     "pose": "think",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "EXPORT CONTROL PROBE",
+     "at": "investigators",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    39
+   ],
+   "items": [
+    {
+     "type": "photo",
+     "text": "NVIDIA GEAR · STILL BOXED",
+     "at": "boxes"
+    }
+   ],
+   "stamp": {
+    "text": "MALAYSIA",
+    "at": "malaysia",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "walk",
+   "s": [
+    40
+   ],
+   "set": "street",
+   "time": "day",
+   "chars": [
+    {
+     "id": "agent"
+    }
+   ],
+   "tag": "SINGAPORE · JUNE 2025",
+   "labels": [
+    {
+     "text": "IN-PERSON INTERVIEW",
+     "at": "interviewed",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    41
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "NVIDIA",
+     "text": "MEGASPEED: NO-SELL LIST",
+     "at": 0.1
+    }
+   ],
+   "stamp": {
+    "text": "NO SELL",
+    "at": "list",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    42
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "ALICE HUANG LEAVES",
+     "at": "left",
+     "top": "AUG",
+     "text": "2025"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    43,
+    44
+   ],
+   "who": "ava",
+   "set": "home",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "think",
+   "labels": [
+    {
+     "text": "IT WASN'T.",
+     "at": "wasn't",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "The Story Breaks",
+   "sub": "CHAPTER THREE"
+  },
+  {
+   "kind": "table",
+   "s": [
+    45
+   ],
+   "items": [
+    {
+     "type": "newspaper",
+     "title": "OCT 29, 2026",
+     "text": "REPORT: CEO TARGETED BY SPY PLOT",
+     "at": "october",
+     "ring_at": "bombshell"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    46
+   ],
+   "who": "alice",
+   "side": "right",
+   "set": "void",
+   "time": "night",
+   "emotion": "smug",
+   "pose": "arms_crossed",
+   "labels": [
+    {
+     "text": "INTELLIGENCE ASSET?",
+     "at": "asset",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    47,
+    48
+   ],
+   "icons": [
+    {
+     "name": "warning",
+     "label": "CHINA: 'GROUNDLESS'",
+     "at": "groundless"
+    },
+    {
+     "name": "lock",
+     "label": "CHINA: 'PURE FABRICATION'",
+     "at": "fabrication"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    49,
+    50
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "MEMO",
+     "text": "ALLEGED: MINISTRY OF STATE SECURITY",
+     "at": "memo"
+    }
+   ],
+   "stamp": {
+    "text": "CLASSIFIED",
+    "at": "ministry",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    51
+   ],
+   "icons": [
+    {
+     "name": "heart",
+     "label": "FT: ROMANTIC RELATIONSHIP",
+     "at": "romantic"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    52,
+    53
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "TO: ALL EMPLOYEES",
+     "text": "NOV 8 · AN APOLOGY",
+     "at": "memo"
+    }
+   ],
+   "stamp": {
+    "text": "ADMITTED",
+    "at": "unfaithful",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "wide",
+   "s": [
+    54,
+    55
+   ],
+   "set": "office",
+   "time": "night",
+   "chars": [
+    {
+     "id": "chair",
+     "x": 620,
+     "emotion": "worried",
+     "pose": "present"
+    },
+    {
+     "id": "colette",
+     "x": 1300,
+     "emotion": "thinking",
+     "pose": "think"
+    }
+   ],
+   "labels": [
+    {
+     "text": "INDEPENDENT INVESTIGATION",
+     "at": "independent",
+     "color": "lime"
+    },
+    {
+     "text": "NO SIGN OF A LEAK",
+     "at": "compromised",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    56,
+    57
+   ],
+   "icons": [
+    {
+     "name": "target",
+     "label": "SEN. COONS: PROBE",
+     "at": "coons"
+    },
+    {
+     "name": "lock",
+     "label": "CIA + DNI BRIEF CONGRESS",
+     "at": "briefed"
+    }
+   ]
+  },
+  {
+   "kind": "crowd",
+   "s": [
+    58
+   ],
+   "count": 16,
+   "emotion": "thinking",
+   "at": "lawmaker"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    59,
+    61
+   ],
+   "icons": [
+    {
+     "name": "book",
+     "label": "NYT: BRIEFED MONTHS EARLIER",
+     "at": "briefed",
+     "text": "NYT"
+    },
+    {
+     "name": "warning",
+     "label": "WHITE HOUSE: DISPUTED",
+     "at": "disputed"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    62,
+    64
+   ],
+   "icons": [
+    {
+     "name": "target",
+     "label": "BOTH PARTIES",
+     "at": "parties"
+    },
+    {
+     "name": "book",
+     "label": "ELITE LAW FIRM",
+     "at": "law",
+     "text": "LAW"
+    },
+    {
+     "name": "warning",
+     "label": "PRESSURE",
+     "at": "pressure"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    65
+   ],
+   "who": "ava",
+   "set": "office",
+   "time": "night",
+   "emotion": "shocked",
+   "pose": "stressed",
+   "labels": [
+    {
+     "text": "WALL STREET PANICS",
+     "at": "panic",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "Eleven Days",
+   "sub": "CHAPTER FOUR"
+  },
+  {
+   "kind": "table",
+   "s": [
+    66,
+    68
+   ],
+   "items": [
+    {
+     "type": "newspaper",
+     "title": "NOV 11",
+     "text": "REPORT: RELATIONSHIP WITH SENIOR EMPLOYEE",
+     "at": "eleventh",
+     "ring_at": "employee"
+    }
+   ],
+   "stamp": {
+    "text": "CODE OF CONDUCT",
+    "at": "conduct",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "wide",
+   "s": [
+    69,
+    70
+   ],
+   "set": "office",
+   "time": "night",
+   "calendar": "NOV 11",
+   "chars": [
+    {
+     "id": "chair",
+     "x": 620,
+     "emotion": "angry",
+     "pose": "point"
+    },
+    {
+     "id": "colette",
+     "x": 1300,
+     "emotion": "worried",
+     "pose": "arms_crossed"
+    }
+   ],
+   "labels": [
+    {
+     "text": "EMERGENCY MEETING",
+     "at": "emergency",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "walk",
+   "s": [
+    71,
+    72
+   ],
+   "set": "street",
+   "time": "night",
+   "chars": [
+    {
+     "id": "jensen"
+    }
+   ],
+   "tag": "NOV 12, 2026",
+   "labels": [
+    {
+     "text": "RESIGNED",
+     "at": "resigned",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    73
+   ],
+   "who": "colette",
+   "side": "right",
+   "set": "office",
+   "time": "day",
+   "emotion": "confident",
+   "pose": "present",
+   "lower_third": {
+    "name": "COLETTE KRESS",
+    "sub": "CFO · INTERIM CEO",
+    "at": "colette"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    74,
+    75
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "LOST SINCE OCTOBER PEAK",
+     "at": "trillion",
+     "top": "NVDA",
+     "text": "-$2.7T"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    76
+   ],
+   "icons": [
+    {
+     "name": "warning",
+     "label": "WORST CHIP WEEK SINCE 2001",
+     "at": "worst"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    77,
+    78
+   ],
+   "who": "jensen",
+   "set": "home",
+   "time": "night",
+   "emotion": "sad",
+   "pose": "idle",
+   "bubble": {
+    "who": "jensen",
+    "text": "Serious mistakes.",
+    "at": "mistakes",
+    "thought": false
+   },
+   "labels": [
+    {
+     "text": "HONORED TO RETURN",
+     "at": "honored",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    79
+   ],
+   "who": "chair",
+   "side": "left",
+   "set": "office",
+   "time": "night",
+   "emotion": "confident",
+   "pose": "arms_crossed",
+   "lower_third": {
+    "name": "HARVEY JONES",
+    "sub": "NVIDIA BOARD CHAIR",
+    "at": "chair"
+   },
+   "stamp": {
+    "text": "NO RETURN",
+    "at": "reinstate",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    80,
+    81
+   ],
+   "icons": [
+    {
+     "name": "phone",
+     "label": "TRUMP: TIM COOK?",
+     "at": "cook"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    82
+   ],
+   "icons": [
+    {
+     "name": "target",
+     "label": "BESSENT: LOOK OUTSIDE",
+     "at": "outside"
+    }
+   ]
+  },
+  {
+   "kind": "counter",
+   "s": [
+    83
+   ],
+   "value": {
+    "from": 0,
+    "to": 178000,
+    "suffix": "+",
+    "at": "thousand"
+   },
+   "caption": "'STAND WITH JENSEN' SIGNATURES",
+   "icon": "trophy"
+  },
+  {
+   "kind": "table",
+   "s": [
+    84,
+    85
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "JUSTICE DEPARTMENT",
+     "text": "CRIMINAL PROBE: MEGASPEED",
+     "at": "justice"
+    }
+   ],
+   "stamp": {
+    "text": "CRIMINAL",
+    "at": "criminal",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    86,
+    88
+   ],
+   "icons": [
+    {
+     "name": "book",
+     "label": "SEC PROBE (WSJ)",
+     "at": "sec",
+     "text": "SEC"
+    },
+    {
+     "name": "lock",
+     "label": "CALIFORNIA SUBPOENA",
+     "at": "subpoena"
+    },
+    {
+     "name": "calendar",
+     "label": "HOUSE INTERVIEW",
+     "at": "december",
+     "top": "DEC",
+     "text": "1"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    89,
+    90
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "NEW EXPORT RULE",
+     "at": "nineteenth",
+     "top": "NOV",
+     "text": "19"
+    }
+   ]
+  },
+  {
+   "kind": "map",
+   "s": [
+    91
+   ],
+   "places": [
+    {
+     "name": "SINGAPORE"
+    },
+    {
+     "name": "MALAYSIA"
+    },
+    {
+     "name": "THAILAND"
+    },
+    {
+     "name": "INDONESIA"
+    },
+    {
+     "name": "BRAZIL"
+    }
+   ],
+   "vehicle": "ship",
+   "at": "license"
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    92
+   ],
+   "who": "agent",
+   "set": "office",
+   "time": "day",
+   "emotion": "smug",
+   "pose": "hips",
+   "stamp": {
+    "text": "LICENSE REQUIRED",
+    "at": "harder",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    93,
+    94
+   ],
+   "who": "ava",
+   "set": "void",
+   "time": "night",
+   "emotion": "shocked",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "THEN IT FLIPPED",
+     "at": "flipped",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "The Comeback",
+   "sub": "CHAPTER FIVE"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    95,
+    97
+   ],
+   "icons": [
+    {
+     "name": "warning",
+     "label": "'HORRIBLE AND SAD'",
+     "at": "horrible"
+    },
+    {
+     "name": "heart",
+     "label": "'A SECOND CHANCE'",
+     "at": "second"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    98
+   ],
+   "icons": [
+    {
+     "name": "phone",
+     "label": "CAMPAIGN BEHIND THE SCENES",
+     "at": "campaign"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    99,
+    100
+   ],
+   "set": "office",
+   "time": "day",
+   "calendar": "NOV 23",
+   "chars": [
+    {
+     "id": "chair",
+     "x": 620,
+     "emotion": "happy",
+     "pose": "present"
+    },
+    {
+     "id": "jensen",
+     "x": 1300,
+     "emotion": "happy",
+     "pose": "celebrate",
+     "enter": "left"
+    }
+   ],
+   "labels": [
+    {
+     "text": "UNANIMOUS",
+     "at": "unanimously",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    101
+   ],
+   "who": "chair",
+   "side": "right",
+   "set": "office",
+   "time": "day",
+   "emotion": "smile",
+   "pose": "explain",
+   "labels": [
+    {
+     "text": "CANDOR · ABILITY TO LEAD",
+     "at": "candor",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    102
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "BOARD STATEMENT",
+     "text": "INPUT FROM US GOVERNMENT · NO SECURITY RISK",
+     "at": 0.1
+    }
+   ],
+   "stamp": {
+    "text": "REINSTATED",
+    "at": "risk",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "counter",
+   "s": [
+    103,
+    104
+   ],
+   "value": {
+    "from": 0,
+    "to": 30,
+    "prefix": "+",
+    "suffix": "%",
+    "at": "thirty"
+   },
+   "caption": "NVIDIA STOCK IN ONE DAY",
+   "icon": "trophy"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    105
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "BEST DAY SINCE",
+     "at": "best",
+     "top": "BEST",
+     "text": "2003"
+    },
+    {
+     "name": "trophy",
+     "label": "+ NEARLY $1 TRILLION",
+     "at": "trillion"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    106,
+    107
+   ],
+   "who": "agent",
+   "set": "office",
+   "time": "night",
+   "emotion": "angry",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "'RECKLESS'",
+     "at": "reckless",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "walk",
+   "s": [
+    108,
+    110
+   ],
+   "set": "street",
+   "time": "day",
+   "chars": [
+    {
+     "id": "jensen"
+    }
+   ],
+   "tag": "11 DAYS",
+   "labels": [
+    {
+     "text": "OUT, THEN BACK IN",
+     "at": "back",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "What We Still Don't Know",
+   "sub": "CHAPTER SIX"
+  },
+  {
+   "kind": "wide",
+   "s": [
+    111,
+    114
+   ],
+   "set": "board",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 520,
+     "emotion": "confident",
+     "pose": "explain",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "PROVEN",
+     "at": "proven",
+     "color": "lime"
+    },
+    {
+     "text": "DEBATED",
+     "at": "debated",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    115,
+    116
+   ],
+   "icons": [
+    {
+     "name": "heart",
+     "label": "AFFAIR ADMITTED",
+     "at": "affair"
+    },
+    {
+     "name": "calendar",
+     "label": "RESIGNED & REINSTATED",
+     "at": "reinstated",
+     "top": "11",
+     "text": "DAYS"
+    }
+   ],
+   "stamp": {
+    "text": "PROVEN",
+    "at": "resigned",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "table",
+   "s": [
+    117
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "SINCE 2024",
+     "text": "MEGASPEED UNDER INVESTIGATION",
+     "at": "investigating"
+    }
+   ],
+   "stamp": {
+    "text": "PROVEN",
+    "at": "criminal",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "versus",
+   "s": [
+    118,
+    120
+   ],
+   "left": {
+    "who": "alice",
+    "title": "A SPY?",
+    "emotion": "thinking",
+    "at": 0.05
+   },
+   "right": {
+    "who": "agent",
+    "title": "NO CONCLUSION",
+    "emotion": "worried",
+    "at": 0.45
+   },
+   "stamp": {
+    "text": "DEBATED",
+    "at": "conclusion",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    121,
+    122
+   ],
+   "icons": [
+    {
+     "name": "house",
+     "label": "SINGAPORE: NOT FOR ESPIONAGE",
+     "at": "singapore",
+     "text": "SG"
+    },
+    {
+     "name": "warning",
+     "label": "CHINA: 'FABRICATED'",
+     "at": "fabricated"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    123,
+    124
+   ],
+   "who": "ava",
+   "set": "home",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "think",
+   "labels": [
+    {
+     "text": "CHIPS TO THE MILITARY?",
+     "at": "military",
+     "color": "red"
+    }
+   ],
+   "stamp": {
+    "text": "NOT SHOWN",
+    "at": "publicly",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    125,
+    126
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "QUESTIONS FROM CONGRESS",
+     "at": "congress",
+     "top": "DEC",
+     "text": "2026"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    127,
+    128
+   ],
+   "icons": [
+    {
+     "name": "lock",
+     "label": "CRIMINAL PROBE: OPEN",
+     "at": "open"
+    },
+    {
+     "name": "book",
+     "label": "SEC PROBE: EARLY",
+     "at": "sec",
+     "text": "SEC"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    129,
+    131
+   ],
+   "left": {
+    "who": "jensen",
+    "title": "ONE CEO",
+    "emotion": "nervous",
+    "at": 0.05
+   },
+   "right": {
+    "who": "alice",
+    "title": "ONE ALLEGED SPY",
+    "emotion": "thinking",
+    "at": 0.3
+   },
+   "stamp": {
+    "text": "11 DAYS",
+    "at": "eleven",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "wide",
+   "s": [
+    132,
+    133
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 900,
+     "emotion": "happy",
+     "pose": "wave",
+     "talk": true
+    }
+   ],
+   "polaroid": {
+    "at": "subscribe",
+    "who": "ava",
+    "caption": "STILL BEING DUG UP"
+   }
+  }
+ ]
+}

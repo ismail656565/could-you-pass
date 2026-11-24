@@ -55,6 +55,8 @@ def main():
         d = P.STUDIO / 'channels' / cid / 'longs'
         projects = sorted(p for p in d.iterdir() if (p / 'story.json').exists() and (p / 'script.txt').exists()) if d.exists() else []
         projects = [p for p in projects if p.name not in st['longs_done']]
+        if not a.dry:  # meta.json "hold": true = nur Probelauf, kein Upload bis zur Freigabe
+            projects = [p for p in projects if not ((p / 'meta.json').exists() and json.loads((p / 'meta.json').read_text()).get('hold'))]
     if not projects:
         print(f'{cid}: kein langes Video in der Warteschlange'); return
     if not KIT.exists():

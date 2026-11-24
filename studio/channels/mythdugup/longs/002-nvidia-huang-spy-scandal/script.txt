@@ -1,0 +1,48 @@
+On November twelfth, the man who built the most valuable chip company in the world walked out the door. Eleven days later, he walked right back in.
+In between, there was an alleged Chinese spy, a secret memo, a mysterious company in Singapore, and roughly two point seven trillion dollars in stock market value that simply vanished.
+This is the story of Jensen Huang, Nvidia, and the woman American officials reportedly believe was working for Beijing. And here's the twist. Some of it is proven. Some of it is still very much up for debate. By the end of this video, you'll know exactly which is which.
+# The Most Powerful CEO on Earth
+To understand why this matters, you need to understand Nvidia. Nvidia makes the chips that power artificial intelligence. Most of the big AI models on the planet were trained on them. That makes these chips some of the most wanted technology in the world. And that includes China.
+Since October twenty twenty-two, the United States has restricted the sale of advanced AI chips to China. Washington's reasoning is simple. It believes those chips could help China's military, its weapons programs, and its surveillance systems. So the best chips are not allowed to go there without a license.
+At the center of all of this stood one man. Jensen Huang co-founded Nvidia in nineteen ninety-three, and he ran it for thirty-three years. He turned a small graphics card company into a giant worth trillions of dollars. He was famous for his black leather jacket, and for his influence in Washington. One industry analyst said he had never seen a chip CEO with this much direct influence on export policy.
+Which is exactly why, when the spy story broke, it hit like an earthquake.
+# A Customer Called Megaspeed
+The story starts with a company. In twenty fifteen, a firm was set up that would later become Megaspeed International. In twenty twenty-three, it was sold to a company based in Singapore. Just four days later, it became an official Nvidia cloud partner.
+Megaspeed ran data centers across Southeast Asia. And it bought Nvidia chips. A lot of them. According to the New York Times, more than four billion dollars' worth. Its customer and financial backer, the Times reported, was the Chinese tech giant Alibaba.
+The woman at the center of Megaspeed was a Chinese businesswoman named Alice Huang. She is not related to Jensen Huang. They just share a surname. But they did know each other. Between December twenty twenty-three and May twenty twenty-five, the two were photographed together on several occasions.
+Meanwhile, the American government was getting suspicious. In twenty twenty-four, American investigators began looking at Megaspeed for possible export control violations. That September, a Commerce Department official visited Megaspeed's data center in Malaysia, and found Nvidia equipment still sitting in its boxes.
+In June twenty twenty-five, American officials and Singapore police inspected Megaspeed and interviewed Alice Huang in person. That same month, Nvidia put Megaspeed on its own no-sell list. Two months later, Alice Huang left the company.
+For a while, that seemed to be the end of it. It wasn't.
+# The Story Breaks
+On October twenty-ninth, twenty twenty-six, the New York Times dropped a bombshell. It reported that Jensen Huang had been the target of a Chinese spy operation, and that American officials had concluded Alice Huang was a Chinese intelligence asset.
+China's foreign ministry called the report groundless speculation. Later, it called the spy claims pure fabrication.
+But the reports kept coming. On November sixth, the Times reported on a memo circulating among top officials that described Alice Huang as a spy for China's Ministry of State Security. A day later, the Financial Times reported that American officials believed the relationship was romantic.
+On November eighth, Jensen Huang sent a memo to Nvidia employees. In it, he admitted to being unfaithful to his wife. The same day, Nvidia's board opened an independent investigation. But it also said it had no reason to believe that national security or company secrets had been compromised.
+Senator Chris Coons had already promised an investigation. On November ninth, the director of the CIA and the Director of National Intelligence briefed members of Congress behind closed doors. Even after that briefing, at least one senior lawmaker said he still wasn't sure whether Alice Huang had knowingly gathered information for China.
+Then the questions turned political. The New York Times reported that the president had been briefed about the relationship months earlier. The White House disputed that report. Lawmakers from both parties demanded answers.
+Nvidia hired an elite law firm and a former federal prosecutor to run its internal investigation. But the pressure only grew.
+And Wall Street started to panic.
+# Eleven Days
+On November eleventh, the Times reported something new. Citing Nvidia employees, it said Huang had also had a relationship with a senior employee who reported directly to him. Nvidia's own code of conduct forbids that.
+That same night, the board held an emergency meeting. The next morning, the world found out. Jensen Huang was out. After thirty-three years, the founder had resigned as CEO, effective immediately. Chief financial officer Colette Kress became interim CEO.
+The stock market reacted hard. By November twentieth, Nvidia had lost about two point seven trillion dollars in value from its October peak. It was the worst week for chip stocks since two thousand one.
+At first, the board stood firm. On November seventeenth, Huang posted that he had made serious mistakes, and that he would be honored to come back. The board chair answered that the board did not intend to reinstate him.
+Outside the boardroom, the fight got loud. President Trump posted that Apple's Tim Cook should replace Huang. Treasury Secretary Scott Bessent said Nvidia should look for an outside leader. And on the other side, an open letter called Stand With Jensen collected more than one hundred and seventy-eight thousand signatures, although some people listed on it said they had never signed.
+Meanwhile, the investigations piled up. The Justice Department took the lead in a criminal investigation of Megaspeed. The Wall Street Journal reported that the SEC was looking into Nvidia. California's attorney general sent a subpoena. And House committees scheduled an interview with Huang for December first.
+Washington also changed the rules. On November nineteenth, a new Commerce Department rule took effect. Companies now need an export license to send advanced chips to Singapore, Malaysia, Thailand, Indonesia, and Brazil. In other words, the exact route that Megaspeed allegedly used got a lot harder.
+At this point, it looked like the end of the Jensen Huang era. Then everything flipped.
+# The Comeback
+President Trump had spoken about the case several times. At first, he called the developments horrible and sad. A few days later, he said he would love to see Jensen get a second chance.
+Bloomberg reported that the president pressed for Huang's return, and that a campaign to bring him back was running behind the scenes.
+On Monday, November twenty-third, Nvidia's board did something almost nobody expected. It voted unanimously to bring Jensen Huang back as president and CEO, effective immediately.
+The board said it was satisfied with his candor and his ability to lead. It also said it had received input from senior levels of the American government, and that based on that input, it was confident his return posed no national security risk.
+Investors loved it. Nvidia's stock jumped more than thirty percent in a single day. It was the company's best day since two thousand three, and it added nearly a trillion dollars in value.
+Critics did not love it. Democrats vowed to keep investigating, and one called the decision reckless.
+Eleven days. Out, and back in. One of the most startling corporate comebacks in history.
+# What We Still Don't Know
+So what is actually proven here? On this channel, we keep it simple. Proven is proven. Debated is debated.
+Proven: Jensen Huang admitted to an affair. Proven: he resigned, and eleven days later he was reinstated. Proven: American authorities have been investigating Megaspeed since twenty twenty-four, and the Justice Department is running a criminal investigation.
+Debated: was Alice Huang actually a spy? American officials reportedly disagree among themselves. The Justice Department says it has reached no conclusion. Singapore says it investigated her as a company executive, not for espionage. And China says the whole thing is fabricated.
+Also debated: did Nvidia chips bought through Megaspeed end up with China's military? That has not been shown publicly.
+And this story is not over. Huang is expected to answer questions from Congress in December. The criminal investigation into Megaspeed is still open. And the SEC probe is only just getting started.
+One CEO. One alleged spy. Eleven days that shook the world's most valuable chip company. When new facts come out, we'll dig them up. Subscribe, so you don't miss the next chapter.
