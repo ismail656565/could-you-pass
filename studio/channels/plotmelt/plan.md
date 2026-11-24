@@ -13,7 +13,7 @@ Competitors (new: MSA): MSA ohUGaz1nkx4 "I Have Two Sisters No One Knows About" 
 - Stories original (no fan-fiction, no known characters).
 
 ## Next 3 episodes (after 003)
-1. 004-3am-pizza – "He Ordered Pizza at 3 AM. He Delivered It. #shorts". Hook: "At 3 AM the doorbell rang. The pizza guy had his face." Line 2: "Same scar. Same shirt. Same voice." Twist: time loop – he wakes up in the delivery uniform. Why: exploit (Couch two-sentence pattern).
+1. 004-3am-pizza – "He Ordered Pizza at 3 AM. He Delivered It. #shorts". Hook: "At 3 AM the doorbell rang. The pizza guy had his face." Line 2: "Same scar. Same shirt. Same voice." Twist: time loop – he wakes up in the delivery uniform. Why: exploit (Couch two-sentence pattern). (written: 004-3am-pizza)
 2. 005-grandma-room – "My Grandma Had a Room I Was Never Allowed In. I Went In. #shorts". Hook: "For 20 years, one door in Grandma's house stayed locked." Line 2: "Today I found the key in her cookie jar." Twist (wholesome): a birthday card for every year of the narrator's life up to 100, already written. Why: EXPERIMENT first-person secret (competitor ohUGaz1nkx4 / BdBQ029KPrU).
 3. 006-old-photo – "He Found Himself in a 100-Year-Old Photo. #shorts". Hook: "In a flea-market photo from 1925, he saw his own face." Line 2: "Same mole. Same watch – the one on his wrist right now." Twist: the photo's back has his handwriting: "Don't buy the watch." Why: exploit (object + mystery).
 
