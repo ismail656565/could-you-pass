@@ -1,0 +1,27 @@
+{
+ "id": "pac-man-name",
+ "publishAt": "18:00",
+ "youtube": {
+  "title": "Pac-Man's First Name Had to Be Changed 🟡 #shorts",
+  "description": "Pac-Man launched in Japan in 1980 as \"Puck Man\" – from \"paku paku\", the Japanese sound for munching. When Midway brought it to the US, the name was changed to Pac-Man, because people feared vandals would scratch the P on the cabinets into an F.\n\n#pacman #namco #arcade #gaminghistory #wildlytrue #shorts\n\nSources:\nhttps://www.computerhistory.org/revolution/computer-games/16/192/796\nhttps://en.wikipedia.org/wiki/Pac-Man",
+  "tags": ["pac-man", "puck man", "pac-man name", "arcade history", "namco", "gaming history", "retro gaming", "wildly true", "shorts"],
+  "comment": "Did you know Pac-Man's original name? 👇"
+ },
+ "story": {
+  "hookText": "WRONG NAME.",
+  "music": "sfx/wt-pulse.wav",
+  "sources": [
+   "https://www.computerhistory.org/revolution/computer-games/16/192/796",
+   "https://en.wikipedia.org/wiki/Pac-Man"
+  ],
+  "beats": [
+   {"text": "Pac-Man was not born Pac-Man. His first name was a problem.", "broll": ["pac-man arcade", "arcade cabinet"]},
+   {"text": "One single letter could be scratched into a very rude word.", "broll": ["scratched metal", "arcade machine"]},
+   {"text": "In Japan, in nineteen eighty, the game was called Puck Man.", "broll": ["tokyo", "japanese arcade"]},
+   {"text": "It came from paku paku, the Japanese sound of munching.", "broll": ["eating", "mouth eating"]},
+   {"text": "But in America, a P turns into an F with one scratch.", "broll": ["arcade", "video arcade"], "impact": true},
+   {"text": "So before it crossed the ocean, Puck Man became Pac-Man.", "broll": ["pac-man", "arcade game"]},
+   {"text": "And that is why Pac-Man was not born Pac-Man.", "broll": ["pac-man arcade", "arcade cabinet"]}
+  ]
+ }
+}

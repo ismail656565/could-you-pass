@@ -13,7 +13,7 @@ Competitors: Zack D. Films "The [Thing] That [Unusual Act] + emoji" (AMlsGz_YJD8
 - B-roll: objects, places, animals only. No celebrity faces. ≥2 sources per story; numbers must match.
 
 ## Next 3 episodes
-1. pac-man-name – "Pac-Man's First Name Had to Be Changed 🟡 #shorts". Hook "WRONG NAME." Beat 2: "One letter could be scratched into a rude word." Facts: Japan 1980 "Puck Man", renamed Pac-Man for the US. Why: exploit.
+1. pac-man-name – "Pac-Man's First Name Had to Be Changed 🟡 #shorts". Hook "WRONG NAME." Beat 2: "One letter could be scratched into a rude word." Facts: Japan 1980 "Puck Man", renamed Pac-Man for the US. Why: exploit. (written: queue/2026-11-22-pac-man-name.json)
 2. nintendo-cards – "Nintendo Is Older Than Cars. It Sold Playing Cards. 🃏 #shorts" (only use "older than cars" phrasing as "Nintendo Was Founded in 1889. It Sold Playing Cards." if unsure). Hook "1889." Beat 2: "Before Mario, before electricity in most homes – cards." Facts: founded 1889 in Kyoto by Fusajiro Yamauchi, hanafuda cards; later taxis, love hotels, instant rice before toys/games (verify each). Why: exploit gaming history.
 3. moscow-subway-dogs – "The Stray Dogs That Learned to Ride the Subway 🐕 #shorts". Hook "THEY COMMUTE." Beat 2: "They know which stop is theirs." Facts: some Moscow strays ride the metro (Andrei Poyarkov, A. N. Severtsov Institute). Why: EXPERIMENT animals (bird retention).
 
