@@ -4,7 +4,16 @@
  "youtube": {
   "title": "This Game Boy Survived a Bomb. It Still Turns On. 🎮 #shorts",
   "description": "During the 1991 Gulf War, an explosive hit the barracks where US Army nurse Stephan Scoggins kept his Game Boy. The fire charred and blistered its front – but Nintendo found it still ran Tetris. It was shown, still switched on, at the Nintendo store in New York for years, until it was retired to Nintendo's headquarters in 2023.\n\n#gameboy #nintendo #tetris #gaminghistory #wildlytrue #shorts\n\nSources:\nhttps://www.military.com/off-duty/games/game-boy-survived-iraqi-bombing-during-gulf-war.html\nhttps://www.gamespot.com/articles/the-gulf-war-game-boy-is-finally-being-put-to-rest/1100-6515607/",
-  "tags": ["gulf war game boy", "game boy", "nintendo", "tetris", "gaming history", "retro gaming", "wildly true", "shorts"],
+  "tags": [
+   "gulf war game boy",
+   "game boy",
+   "nintendo",
+   "tetris",
+   "gaming history",
+   "retro gaming",
+   "wildly true",
+   "shorts"
+  ],
   "comment": "What's the toughest gadget you've ever owned? 👇"
  },
  "story": {
@@ -15,13 +24,74 @@
    "https://www.gamespot.com/articles/the-gulf-war-game-boy-is-finally-being-put-to-rest/1100-6515607/"
   ],
   "beats": [
-   {"text": "This Game Boy survived a bomb. And it still worked.", "broll": ["game boy", "nintendo game boy"]},
-   {"text": "In nineteen ninety-one, an army nurse took it to the Gulf War.", "broll": ["desert", "saudi arabia desert"]},
-   {"text": "Then an explosive hit his barracks, and a fire destroyed everything.", "broll": ["fire", "burning building"]},
-   {"text": "The Game Boy came out charred, blistered, its buttons melted.", "broll": ["game boy", "handheld game console"]},
-   {"text": "Nintendo switched it on. Tetris started playing.", "broll": ["tetris", "game boy"], "impact": true},
-   {"text": "For years it ran nonstop in Nintendo's New York store.", "broll": ["rockefeller center", "new york city"]},
-   {"text": "In twenty twenty-three, it finally retired. Its screen had worn out first.", "broll": ["game boy", "nintendo"]}
-  ]
+   {
+    "text": "This Game Boy survived a bomb. And it still worked.",
+    "visual": {
+     "type": "hero",
+     "emoji": "🎮",
+     "label": "Survived a bomb"
+    }
+   },
+   {
+    "text": "In nineteen ninety-one, an army nurse took it to the Gulf War.",
+    "visual": {
+     "type": "number",
+     "value": 1991,
+     "raw": true,
+     "emoji": "🏜️",
+     "label": "Gulf War"
+    }
+   },
+   {
+    "text": "Then an explosive hit his barracks, and a fire destroyed everything.",
+    "visual": {
+     "type": "emojis",
+     "items": [
+      "💥",
+      "🔥"
+     ],
+     "label": "Barracks destroyed"
+    }
+   },
+   {
+    "text": "The Game Boy came out charred, blistered, its buttons melted.",
+    "visual": {
+     "type": "hero",
+     "emoji": "🫠",
+     "label": "Charred & melted"
+    }
+   },
+   {
+    "text": "Nintendo switched it on. Tetris started playing.",
+    "impact": true,
+    "visual": {
+     "type": "emojis",
+     "items": [
+      "🎮",
+      "🧱"
+     ],
+     "label": "Tetris still played"
+    }
+   },
+   {
+    "text": "For years it ran nonstop in Nintendo's New York store.",
+    "visual": {
+     "type": "hero",
+     "emoji": "🗽",
+     "label": "Nintendo New York store"
+    }
+   },
+   {
+    "text": "In twenty twenty-three, it finally retired. Its screen had worn out first.",
+    "visual": {
+     "type": "number",
+     "value": 2023,
+     "raw": true,
+     "emoji": "📺",
+     "label": "Finally retired"
+    }
+   }
+  ],
+  "look": "motion"
  }
 }

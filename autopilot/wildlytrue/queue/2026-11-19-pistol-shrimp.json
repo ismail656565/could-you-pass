@@ -23,59 +23,85 @@
   "beats": [
    {
     "text": "This shrimp can stun a fish without even touching it.",
-    "broll": [
-     "pistol shrimp",
-     "Alpheidae"
-    ]
+    "visual": {
+     "type": "hero",
+     "emoji": "🦐",
+     "label": "Pistol shrimp"
+    }
    },
    {
     "text": "The pistol shrimp snaps its giant claw shut so fast, it fires a jet of water.",
-    "broll": [
-     "snapping shrimp",
-     "pistol shrimp",
-     "shrimp underwater"
-    ]
+    "visual": {
+     "type": "emojis",
+     "items": [
+      "🦐",
+      "💨",
+      "🐟"
+     ],
+     "label": "A jet of water"
+    }
    },
    {
     "text": "That jet creates a bubble, and the bubble collapses with a loud bang.",
-    "broll": [
-     "cavitation bubble",
-     "bubbles underwater",
-     "underwater bubbles"
-    ]
+    "visual": {
+     "type": "emojis",
+     "items": [
+      "🫧",
+      "💥"
+     ],
+     "label": "Bubble bang"
+    }
    },
    {
     "text": "For a split second, the inside reaches around 4,700 degrees Celsius.",
-    "broll": [
-     "sun surface",
-     "solar flare"
-    ],
-    "impact": true
+    "impact": true,
+    "visual": {
+     "type": "number",
+     "value": 4700,
+     "suffix": "°C",
+     "emoji": "🔥",
+     "label": "Inside the bubble"
+    }
    },
    {
     "text": "That's nearly as hot as the surface of the Sun.",
-    "broll": [
-     "sun",
-     "solar dynamics observatory"
-    ]
+    "visual": {
+     "type": "compare",
+     "a": {
+      "emoji": "🫧",
+      "label": "Shrimp bubble",
+      "value": 4700
+     },
+     "b": {
+      "emoji": "☀️",
+      "label": "Sun surface",
+      "value": 5500
+     },
+     "unit": "°C"
+    }
    },
    {
     "text": "It even gives off a tiny flash of light. Scientists call it shrimpoluminescence.",
-    "broll": [
-     "coral reef night",
-     "coral reef",
-     "reef fish"
-    ]
+    "visual": {
+     "type": "hero",
+     "emoji": "✨",
+     "label": "Shrimpoluminescence"
+    }
    },
    {
     "text": "Whole colonies crackle so loudly, they can mess with submarine sonar.",
-    "broll": [
-     "coral reef fish",
-     "reef fish",
-     "coral reef"
-    ]
+    "visual": {
+     "type": "emojis",
+     "items": [
+      "🦐",
+      "🔊",
+      "📡"
+     ],
+     "label": "Jams submarine sonar"
+    }
    }
-  ]
+  ],
+  "look": "motion"
  },
  "publishAt": "18:00"
 }

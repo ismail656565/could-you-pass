@@ -1,6 +1,8 @@
 import React from 'react';
 import {Composition} from 'remotion';
 import {WildlyTrue} from './WildlyTrue';
+import {WildlyTrueMotion, type MotionStory} from './WildlyTrueMotion';
+import wtMotionDemo from '../stories/wt-motion-demo.json';
 import type {Story} from './types';
 import beispiel from '../stories/beispiel.json';
 import {Quiz, type QuizStory} from './Quiz';
@@ -24,6 +26,18 @@ export const RemotionRoot: React.FC = () => {
       fps={FPS}
       durationInFrames={Math.ceil((beispiel as Story).durationInSeconds * FPS)}
       defaultProps={beispiel as Story}
+      calculateMetadata={({props}) => ({
+        durationInFrames: Math.ceil(props.durationInSeconds * FPS),
+      })}
+    />
+    <Composition
+      id="WildlyTrueMotion"
+      component={WildlyTrueMotion}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={Math.ceil((wtMotionDemo as unknown as MotionStory).durationInSeconds * FPS)}
+      defaultProps={wtMotionDemo as unknown as MotionStory}
       calculateMetadata={({props}) => ({
         durationInFrames: Math.ceil(props.durationInSeconds * FPS),
       })}

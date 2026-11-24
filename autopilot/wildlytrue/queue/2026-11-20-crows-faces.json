@@ -22,55 +22,75 @@
   "beats": [
    {
     "text": "Scientists in Seattle put on a creepy mask, and caught a few wild crows.",
-    "broll": [
-     "crow",
-     "american crow"
-    ]
+    "visual": {
+     "type": "hero",
+     "emoji": "👹",
+     "label": "The creepy mask"
+    }
    },
    {
     "text": "The birds were tagged and released, completely unharmed.",
-    "broll": [
-     "crow flying",
-     "bird release"
-    ]
+    "visual": {
+     "type": "emojis",
+     "items": [
+      "🐦",
+      "🏷️",
+      "🕊️"
+     ],
+     "label": "Tagged & released"
+    }
    },
    {
     "text": "But the crows remembered that face.",
-    "broll": [
-     "crow close up",
-     "corvus brachyrhynchos"
-    ]
+    "visual": {
+     "type": "hero",
+     "emoji": "🧠",
+     "label": "They remembered"
+    }
    },
    {
     "text": "For years, crows scolded and dive-bombed anyone wearing that mask.",
-    "broll": [
-     "crows flock",
-     "crow calling"
-    ],
-    "impact": true
+    "impact": true,
+    "visual": {
+     "type": "emojis",
+     "items": [
+      "🐦",
+      "😡",
+      "👹"
+     ],
+     "label": "Dive-bombed for years"
+    }
    },
    {
     "text": "Even crows that were never caught joined in. Young crows learned it from their parents.",
-    "broll": [
-     "crows on tree",
-     "crow birds"
-    ]
+    "visual": {
+     "type": "emojis",
+     "items": [
+      "🐦",
+      "🐦",
+      "🐣"
+     ],
+     "label": "Even the young ones"
+    }
    },
    {
     "text": "People in a neutral mask? Mostly ignored.",
-    "broll": [
-     "crow walking",
-     "crow on grass"
-    ]
+    "visual": {
+     "type": "hero",
+     "emoji": "😐",
+     "label": "Neutral mask? Ignored"
+    }
    },
    {
     "text": "So be nice to crows. They're keeping score.",
-    "broll": [
-     "crow looking",
-     "crow"
-    ]
+    "visual": {
+     "type": "text",
+     "text": "Be nice to crows",
+     "emoji": "🐦"
+    }
    }
-  ]
+  ],
+  "look": "motion"
  },
  "publishAt": "18:00"
 }

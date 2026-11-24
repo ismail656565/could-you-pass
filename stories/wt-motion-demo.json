@@ -1,0 +1,95 @@
+{
+ "title": "demo",
+ "look": "motion",
+ "durationInSeconds": 33.09,
+ "script": "This shrimp can stun a fish without even touching it. The pistol shrimp snaps its giant claw shut so fast, it fires a jet of water. That jet creates a bubble, and the bubble collapses with a loud bang. For a split second, the inside reaches around 4,700 degrees Celsius. That's nearly as hot as the surface of the Sun. It even gives off a tiny flash of light. Scientists call it shrimpoluminescence. Whole colonies crackle so loudly, they can mess with submarine sonar.",
+ "hookText": "HOTTER THAN LAVA.",
+ "scenes": [
+  {
+   "start": 0,
+   "end": 4.15,
+   "visual": {
+    "type": "hero",
+    "emoji": "🦐",
+    "label": "Pistol shrimp"
+   }
+  },
+  {
+   "start": 4.15,
+   "end": 10.21,
+   "visual": {
+    "type": "emojis",
+    "items": [
+     "🦐",
+     "💨",
+     "🐟"
+    ],
+    "label": "A jet of water"
+   }
+  },
+  {
+   "start": 10.21,
+   "end": 15.19,
+   "visual": {
+    "type": "emojis",
+    "items": [
+     "🫧",
+     "💥"
+    ],
+    "label": "Bubble bang"
+   }
+  },
+  {
+   "start": 15.19,
+   "end": 19.45,
+   "visual": {
+    "type": "number",
+    "value": 4700,
+    "suffix": "°C",
+    "emoji": "🔥",
+    "label": "Inside the bubble"
+   }
+  },
+  {
+   "start": 19.45,
+   "end": 23.35,
+   "visual": {
+    "type": "compare",
+    "a": {
+     "emoji": "🫧",
+     "label": "Shrimp bubble",
+     "value": 4700
+    },
+    "b": {
+     "emoji": "☀️",
+     "label": "Sun surface",
+     "value": 5500
+    },
+    "unit": "°C"
+   }
+  },
+  {
+   "start": 23.35,
+   "end": 28.33,
+   "visual": {
+    "type": "hero",
+    "emoji": "✨",
+    "label": "Shrimpoluminescence"
+   }
+  },
+  {
+   "start": 28.33,
+   "end": 33.09,
+   "visual": {
+    "type": "emojis",
+    "items": [
+     "🦐",
+     "🔊",
+     "📡"
+    ],
+    "label": "Jams submarine sonar"
+   }
+  }
+ ],
+ "brand": "WILDLY TRUE"
+}

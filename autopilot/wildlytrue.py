@@ -322,10 +322,28 @@ def render(item, name):
     return mp4
 
 
+def build_motion_scenes(item, name):
+    """Look "motion": keine Fremd-Clips, pro Beat eine animierte Grafik (beat.visual → src/WildlyTrueMotion.tsx).
+    Fehlt ein visual, wird das vorige wiederverwendet bzw. ein Text-Visual aus dem Hook gebaut."""
+    story = item['story']
+    scenes, last = [], None
+    for i, b in enumerate(story['beats']):
+        v = b.get('visual') or last or {'type': 'text', 'text': story.get('hookText', '')}
+        last = v
+        nxt = story['beats'][i + 1]['start'] if i + 1 < len(story['beats']) else story['durationInSeconds']
+        scenes.append({'start': 0.0 if i == 0 else round(b['start'] - 0.1, 3), 'end': round(nxt - 0.1, 3) if i + 1 < len(story['beats']) else nxt,
+                       'visual': v, '_beat': i})
+    story['scenes'] = scenes
+    log(f"Szenen (motion): {len(scenes)} Grafik-Beats ({', '.join(s['visual']['type'] for s in scenes)})")
+
+
 def make_video(item):
     name = 'wt-' + item['id']
     build_voice(item, name)
-    build_scenes(item, name)
+    if item['story'].get('look') == 'motion':
+        build_motion_scenes(item, name)
+    else:
+        build_scenes(item, name)
     item['story'].setdefault('music', MUSIC)
     mix_audio(item, name)
     return render(item, name)

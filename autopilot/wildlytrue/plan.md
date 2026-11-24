@@ -24,3 +24,16 @@ Competitors: Zack D. Films "The [Thing] That [Unusual Act] + emoji" (AMlsGz_YJD8
 
 ## Do not
 - No lowercase/slug titles, no real-person faces, no old-disaster stories, no background in beat 2, no copied Zack D. topics or scripts.
+
+## STRATEGIE 24.11. (Besitzer: „Videos gefallen mir nicht“) – GILT AB SOFORT
+- **Kein Wikimedia-B-Roll mehr.** Grund: Laborvideos mit eingebranntem Messtext, Skalenbalken, unscharf, Motiv passt nicht (Sternhimmel bei „lava“).
+- **Neuer Look `"look": "motion"`** (src/WildlyTrueMotion.tsx): animierte Grafik, feste Markenpalette, Hook-Text + Motiv ab Frame 0, Wort-Untertitel.
+- Jeder Beat braucht statt `broll` ein **`visual`**:
+  - `{"type":"hero","emoji":"🦐","label":"Pistol shrimp"}` – großes Motiv
+  - `{"type":"number","value":4700,"suffix":"°C","emoji":"🔥","label":"Inside the bubble"}` – Zahl zählt hoch; Jahreszahlen mit `"raw": true`
+  - `{"type":"compare","a":{"emoji":"🫧","label":"Shrimp bubble","value":4700},"b":{"emoji":"☀️","label":"Sun surface","value":5500},"unit":"°C"}`
+  - `{"type":"emojis","items":["🦐","💨","🐟"],"label":"A jet of water"}` – 2–4 Emojis
+  - `{"type":"flag","iso":"jp","label":"Puck Man, 1980"}` – Flagge aus public/flags
+  - `{"type":"text","text":"Be nice to crows","emoji":"🐦"}`
+- Labels max. ~22 Zeichen. Keine echten Personen, keine Marken-Maskottchen als Bild (nur generische Emojis).
+- Produktion ist pausiert (autopilot/wildlytrue/PAUSE), bis der Besitzer den Look freigibt. Alle 4 Queue-Items sind schon umgestellt.
