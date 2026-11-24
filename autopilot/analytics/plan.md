@@ -67,3 +67,13 @@ Bandit 24.–27.11. (11 Slots): 8 Exploit, 3 Experimente (E18 T/F, E21 Takt, E22
 - Anlegen: `2026-11-26-flag-duel-4.json` (16:00, Titel exakt „Flag Quiz #4: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts“) und `2026-11-27-map-lie-11.json` (21:00).
 - Flag Duel #4: nur Flaggen aus public/flags; keine Paare aus #1–#3; nichts Politisches; Indonesia/Monaco verboten; jedes Paar muss sichtbar unterscheidbar sein (sonst Ersatzpaar). Pinned comment „Which pair fooled you? Comment your score /4 👇“. ≤ 80 Wörter.
 - Serien-Schluss Pflicht. Keine Halloween-, Alters- oder Politik-Themen; keine Longs Mo/Mi/Fr/So; max. 2 Shorts/Tag.
+
+## NACHTRAG 24.11. 22:30 – Besitzer: „über 60 % Engagement, aber immer noch 1–2k Views“
+**Diagnose (report.json, Shorts):** Fast alle Shorts enden bei ≈1.000 Views, also im ersten Test-Pool. Nur Flag Duel #1 kam weiter (2.752 Analytics-Views). Engaged/stayed liegt bei 45–62 %. Damit wischen 4 von 10 Zuschauern in den ersten 1–2 Sekunden weg. Für den nächsten, größeren Pool braucht ein Short erfahrungsgemäß ≈ 70 %+ stayed **und** Ø angesehen ≥ 90–100 % (Loop). Wir haben: Flag Duel 56 % / 84 %, Karten-VS 50–52 % / 74–79 %, 6-Q 45–56 % / 51–71 %. 95 % der Views kommen aus dem Shorts-Feed. Titel und Thumbnail zählen dort kaum, **Sekunde 1 und Länge entscheiden**.
+**Ursachen:** (1) Vorrede: Jedes Short beginnt mit einem Hook-Satz („Only one in ten get all four.“, ≈1,8 s), bevor die erste Frage kommt. (2) Zu lang: 34–36 s gegenüber 21–26 s bei den Flag-Gewinnern der Konkurrenz (ThinkBop 0:26, Map Buzzer 0:21, Flag Atlas 0:21). (3) Lange Antwortsätze nach jedem Reveal.
+**Fix ab Flag Duel #4 (Produktion 25.11.):**
+- `hookLine: ""` (leer) → atlas_voice.py überspringt die Vorrede bei flagduel (Code-Fix heute). Die erste gesprochene Zeile ist die Frage: „Who is Mexico? Left or right?“. Der Kicker „CAN YOU GET 4/4?“ bleibt als Text.
+- Antwortzeilen max. 3 Wörter („Right – Mexico!“), timing `{"think": 2.6, "move": 0.7, "tail": 0.2}`, Ziel **≤ 27 s** (log „Dauer“ prüfen; > 28 s → Zeilen kürzen).
+- Letzte gesprochene Zeile nur „Follow for number five!“ (≤ 1,5 s).
+- Karten-VS #11: hookLine max. 4 Wörter, Antworten max. 4 Wörter, Ziel ≤ 30 s.
+- Erfolg (E23): stayed ≥ 65 % und Ø angesehen ≥ 90 % bei #4. Wenn ja → Standard für alle Shorts.

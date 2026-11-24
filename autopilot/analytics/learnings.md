@@ -753,3 +753,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Longs: Rätsel-Long #1 231 Views, stayed 80,1 %, aber Ø angesehen nur 10,7 % → Zuschauer springen früh ab; exam-Look heute ist der Test. Thanksgiving-Long 95 (stayed 73 %, Ø 28,6 %).
 - Thumbnails: CTR per API weiter HttpError 400; Rätsel-Long #1 Variante A ≈48 Views/Tag, jetzt B im Test.
 - Angelegt: flag-duel-4 (26.11. 16:00, E22-Titel, Mexico/Italy, Bulgaria/Hungary, Honduras/Nicaragua, Guinea/Mali – kein Paar aus #1–#3, Gewinner b/a/b/a, 50 Wörter) und map-lie-11 (27.11. 21:00, 42 Wörter, Gewinner b/a/b/a): Madagascar 587.041 > Finland 338.145 (+74 %, Kontrolle +80 %), Thailand 513.120 > Germany 357.022 (+44 %, +45 %), Mexico 1.964.375 > Iran 1.648.195 (+19 %, +21 %), Nevada 286.380 > New Zealand 268.838 (+7 %, +8 %). Verworfen: Iran/Alaska + Saudi/Mexico (Kontrollspalte widerspricht), Finland/Montana (Paar schon in #8), Thailand/Spain, Chile/Turkey (< 5 %).
+
+## 2026-11-24 22:30 – STRATEGIE (Besitzer: „über 60 % Engagement, aber immer noch 1–2k Views“) – GILT AB SOFORT
+- Shorts bleiben im 1.000er-Test-Pool hängen. stayed 45–62 % reicht nicht, Ziel ≥ 70 % stayed + Ø angesehen ≥ 90 % (Loop). 95 % Traffic = Shorts-Feed → Sekunde 1 + Länge entscheiden, nicht der Titel.
+- **Keine Vorrede mehr:** Flag Duel `hookLine: ""` (Code: atlas_voice.py überspringt den Hook) → das erste Wort ist Frage 1. Andere Formate: Hook max. 4 Wörter oder gleich die Frage.
+- **Kürzer:** Flag Duel ≤ 27 s (timing think 2.6 / move 0.7 / tail 0.2, Antworten max. 3 Wörter), Karten-VS ≤ 30 s, 6-Q ≤ 40 s. Konkurrenz-Gewinner 21–26 s.
+- Serien-Schluss nur noch kurz („Follow for number N+1!“).

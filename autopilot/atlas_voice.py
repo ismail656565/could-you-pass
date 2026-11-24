@@ -41,8 +41,12 @@ def main(path, autopilot_module=None):
     think, move, tail = tm.get('think', THINK), tm.get('move', MOVE), tm.get('tail', TAIL)
     long = story.get('format') == 'long'
     t = 0.0
-    dur = clip(story['hookLine'], d / 'hook.mp3')
-    story['hook'] = {'audio': f'audio/{sid}/hook.mp3', 'start': 0.0, 'end': round(dur + HOOK_PAD, 2)}
+    if story.get('type') == 'flagduel' and not (story.get('hookLine') or '').strip():
+        # Flag Duel ohne Vorrede: erste gesprochene Worte = Frage 1 (Retention in Sekunde 1)
+        story['hook'] = {'start': 0.0, 'end': 0.0}
+    else:
+        dur = clip(story['hookLine'], d / 'hook.mp3')
+        story['hook'] = {'audio': f'audio/{sid}/hook.mp3', 'start': 0.0, 'end': round(dur + HOOK_PAD, 2)}
     t = story['hook']['end']
     for i, r in enumerate(story['rounds']):
         dq = clip(r['lines']['q'], d / f'q{i + 1}.mp3')
