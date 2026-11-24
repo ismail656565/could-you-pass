@@ -371,6 +371,10 @@ def uploaded_today():
 
 def produce():
     QUEUE.mkdir(parents=True, exist_ok=True)
+    pause = WT / 'PAUSE'
+    if pause.exists():
+        log('PAUSE: ' + (pause.read_text(encoding='utf-8').strip().splitlines() or ['Produktion angehalten'])[0])
+        return
     items = sorted(QUEUE.glob('*.json'))
     if uploaded_today() >= PER_DAY:
         log('Heute schon hochgeladen – nächstes morgen.')
