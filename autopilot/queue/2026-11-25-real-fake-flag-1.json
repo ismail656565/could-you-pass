@@ -1,0 +1,110 @@
+{
+ "id": "real-fake-flag-1",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts",
+  "description": "One flag is real, one is a sneaky fake – pick the real one before the countdown ends 🧐 France, Germany, Lithuania and Sweden.\nComment your score out of 4 👇\n\nFollow – Real or Fake Flag #2 drops tomorrow! 🌍\n\n#flagquiz #fakeflag #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), fakes edited by us. Music: original.",
+  "tags": [
+   "real or fake flag",
+   "fake flag",
+   "spot the fake flag",
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "france flag",
+   "germany flag",
+   "lithuania flag",
+   "sweden flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Which fake almost fooled you? Comment your score /4 👇"
+ },
+ "story": {
+  "id": "real-fake-flag-1",
+  "type": "flagduel",
+  "title": "Real or Fake Flag? #1",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "FRANCE",
+    "a": {
+     "flag": "fake/fr",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "fr",
+     "name": "France"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Which is the real France? Left, or right?",
+     "a": "Right! Blue comes first."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "GERMANY",
+    "a": {
+     "flag": "de",
+     "name": "Germany"
+    },
+    "b": {
+     "flag": "fake/de",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Germany?",
+     "a": "Left! Red in the middle."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "LITHUANIA",
+    "a": {
+     "flag": "fake/lt",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "lt",
+     "name": "Lithuania"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Lithuania?",
+     "a": "Right! Green in the middle."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "SWEDEN",
+    "a": {
+     "flag": "se",
+     "name": "Sweden"
+    },
+    "b": {
+     "flag": "fake/se",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. The real Sweden?",
+     "a": "Left! The cross sits off-centre. Follow for number two!"
+    }
+   }
+  ]
+ }
+}

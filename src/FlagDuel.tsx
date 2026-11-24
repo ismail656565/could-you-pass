@@ -54,6 +54,8 @@ export type FlagDuelStory = {
   kicker?: string;
   hookLine: string;
   hook: {audio?: string; start: number; end: number};
+  /** Fragezeile über dem Ziel, Standard "WHO IS" (z. B. "WHICH IS THE REAL" für Real-or-Fake) */
+  ask?: string;
   rounds: FlagRound[];
   music?: string;
   musicVolume?: number;
@@ -252,7 +254,7 @@ export const FlagDuel: React.FC<FlagDuelStory> = (story) => {
     return {x, y, rot, sq, mood};
   };
 
-  const header = inOutro ? ['HOW MANY', 'DID YOU GET?'] : ['WHO IS', `${r.target}?`];
+  const header = inOutro ? ['HOW MANY', 'DID YOU GET?'] : [story.ask ?? 'WHO IS', `${r.target}?`];
   const targetSize = header[1].length > 11 ? 112 : header[1].length > 8 ? 132 : 158;
   const countdown = thinking ? Math.max(1, 3 - Math.floor(t - r.thinkStart)) : 0;
   const cdP = thinking ? (t - r.thinkStart) % 1 : 0;

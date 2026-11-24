@@ -77,3 +77,22 @@ Bandit 24.–27.11. (11 Slots): 8 Exploit, 3 Experimente (E18 T/F, E21 Takt, E22
 - Letzte gesprochene Zeile nur „Follow for number five!“ (≤ 1,5 s).
 - Karten-VS #11: hookLine max. 4 Wörter, Antworten max. 4 Wörter, Ziel ≤ 30 s.
 - Erfolg (E23): stayed ≥ 65 % und Ø angesehen ≥ 90 % bei #4. Wenn ja → Standard für alle Shorts.
+
+## NACHTRAG 24.11. 23:15 – STRATEGIE Besitzer: „This Map Is Lying raus, Flag Duel bleibt, mit vidIQ neue Ideen“
+**vidIQ (3 Outlier-Abfragen, Shorts Nov. 2026)** – mit Abstand stärkstes Muster in unserer Nische ist **echte gegen gefälschte Flagge**:
+| Video (Kanal, Abos) | Views / × Kanal | Länge |
+|---|---|---|
+| „Can You Spot the Real Lithuania Flag? 5/5“ (WonderQ, 4,6k) | 525k / 79× | 1:15 |
+| „Real Flag or Sneaky Fake? 5/5“ (WonderQ) | 345k / 59× | 1:16 |
+| „GUESS THE REAL FLAG!“ (MB GeoPlay, 15,6k) | 151k / 35× | 0:43 |
+| „Can You Find The Real Flag? 99% Fail The Last One!“ (Globonk, 1,9k) | 63k / 32× | 0:27 |
+| „(1) Flag Quiz Can You Name These 10 Flags?“ (Quizzes Mania, 1k) | 110k / 91× | 1:39 |
+Weitere Muster: „Guess 10 Flags From EASY to IMPOSSIBLE“ (Quizora 112k/17×), „Blind Ranking Countries by Size: Day 30“ (Goober 44k/8×), „Missing Letters Quiz“ (Trivia Quiz 89k, 4.700 Views/h).
+**Entscheidung:**
+- **Karten-VS („This Map Is Lying“) eingestellt.** map-lie-9/10/11 aus der Queue gelöscht. Die Serie hängt bei ≈1.000 Views und 50 % stayed fest.
+- **21:00 = neue Serie „Real or Fake Flag? #N“.** Sie läuft im Flag-Duel-Renderer (story.type "flagduel", neues Feld `ask: "WHICH IS THE REAL"`). Fälschungen liegen in public/flags/fake/<iso2>.svg (fr, de, lt, se, ca, it, ch, jp, dk, at, fi). Probe-Stills sind gerendert und in Ordnung.
+- Angelegt (Manager, eilig, weil die Action vor 07:07 läuft): `2026-11-25-real-fake-flag-1.json` (France/Germany/Lithuania/Sweden) und `2026-11-26-real-fake-flag-2.json` (Canada/Italy/Switzerland/Japan). Beide nach E23: ohne Hook-Vorrede, Ziel ≤ 27 s. flag-duel-4 ebenfalls auf E23 umgestellt.
+- 16:00 Flag Duel bleibt (#4 Do, #5 Sa).
+**Für den Produktions-Agenten (25.11.):** `2026-11-27-real-fake-flag-3.json` (21:00) anlegen. Fälschungen dk (Kreuz mittig), at (weißer Streifen zu breit), fi (Kreuz mittig) sind schon da. Für die 4. Runde selbst ein Fake-SVG in public/flags/fake/ erzeugen (nur Farben tauschen oder verschieben). Eine Fälschung darf **nie** die echte Flagge eines anderen Landes ergeben (z. B. Irland gespiegelt = Elfenbeinküste, Polen umgedreht = Indonesien/Monaco → verboten). Seite des Originals mischen, Titel „Real or Fake Flag? #3 Only 1 in 10 Spot All 4 🧐 #shorts“, Schluss „Follow for number four!“. Danach täglich 21:00 bis auf Widerruf.
+**Erfolg E24:** Real-or-Fake #1–#3 Median ≥ 1.500 Views n. 3 T und stayed ≥ 60 %. Abbruch: 3 Folgen unter dem Shorts-Median.
+**Ideen-Backlog neu (vidIQ):** (1) „Guess 10 Flags From EASY to IMPOSSIBLE“ als 10-Runden-Flag-Short (Quizora 112k), (2) „Missing Letters: Guess the Country“ (Trivia Quiz 89k, 4.700/h) – tvshow-Short mit Lücken-Wörtern, (3) „Blind Ranking Countries by Size: Day N“ – Serie mit Tagesnummer (Goober 44k), (4) Flag-Long „50 Real or Fake Flags – Can You Get 40?“ (exam).

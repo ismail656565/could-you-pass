@@ -759,3 +759,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **Keine Vorrede mehr:** Flag Duel `hookLine: ""` (Code: atlas_voice.py überspringt den Hook) → das erste Wort ist Frage 1. Andere Formate: Hook max. 4 Wörter oder gleich die Frage.
 - **Kürzer:** Flag Duel ≤ 27 s (timing think 2.6 / move 0.7 / tail 0.2, Antworten max. 3 Wörter), Karten-VS ≤ 30 s, 6-Q ≤ 40 s. Konkurrenz-Gewinner 21–26 s.
 - Serien-Schluss nur noch kurz („Follow for number N+1!“).
+
+## 2026-11-24 23:15 – STRATEGIE (Besitzer: „This Map Is Lying funktioniert nicht mehr, raus. Flag Duel bleibt. Mit vidIQ neue Ideen“) – GILT AB SOFORT
+- **Karten-VS / „This Map Is Lying“ eingestellt** (keine truesize-Shorts mehr).
+- **21:00 = „Real or Fake Flag? #N“** (flagduel-Renderer, `ask: "WHICH IS THE REAL"`, Fälschung = `"flag": "fake/<iso2>"` aus public/flags/fake/, Name der Fälschung "Fake"). vidIQ: echte-vs-gefälschte-Flagge ist das stärkste Nischenmuster im Nov. (WonderQ 525k/79×, 345k/59×; MB GeoPlay 151k/35×; Globonk 63k/32× mit 0:27).
+- Fälschungen: nur Farben tauschen, Streifen/Kreuz/Kreis verschieben oder Proportionen ändern. Das Ergebnis darf nie die echte Flagge eines anderen Landes sein (Irland gespiegelt = Elfenbeinküste; Polen umgedreht = Indonesien/Monaco).
+- 16:00 bleibt Flag Duel. Beide Serien ohne Hook-Vorrede, ≤ 27 s.

@@ -23,13 +23,13 @@
   "type": "flagduel",
   "title": "Who Is MEXICO? Left or Right?",
   "kicker": "CAN YOU GET 4/4?",
-  "hookLine": "Only one in ten get all four.",
+  "hookLine": "",
   "music": "sfx/game-show.wav",
   "musicVolume": 0.08,
   "timing": {
-   "think": 3.0,
-   "move": 0.8,
-   "tail": 0.35
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2
   },
   "outroText": "How many did you get?",
   "outroSub": "Comment your score out of 4",
@@ -48,7 +48,7 @@
     "winner": "b",
     "lines": {
      "q": "Who is Mexico? Left, or right?",
-     "a": "Right! The eagle gives it away."
+     "a": "Right! The eagle."
     }
    },
    {
@@ -65,7 +65,7 @@
     "winner": "a",
     "lines": {
      "q": "Who is Bulgaria?",
-     "a": "Left! White on top, red below."
+     "a": "Left! White on top."
     }
    },
    {
@@ -82,7 +82,7 @@
     "winner": "b",
     "lines": {
      "q": "Who is Honduras?",
-     "a": "Right! Five blue stars."
+     "a": "Right! Five stars."
     }
    },
    {
@@ -99,7 +99,7 @@
     "winner": "a",
     "lines": {
      "q": "Last one. Who is Guinea?",
-     "a": "Left! Red comes first. Follow for flag duel number five!"
+     "a": "Left! Red first. Follow for number five!"
     }
    }
   ]

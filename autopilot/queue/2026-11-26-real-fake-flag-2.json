@@ -1,0 +1,110 @@
+{
+ "id": "real-fake-flag-2",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "Real or Fake Flag? #2 Only 1 in 10 Spot All 4 🧐 #shorts",
+  "description": "One flag is real, one is a sneaky fake – pick the real one before the countdown ends 🧐 Canada, Italy, Switzerland and Japan.\nComment your score out of 4 👇\n\nFollow – Real or Fake Flag #3 drops tomorrow! 🌍\n\n#flagquiz #fakeflag #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), fakes edited by us. Music: original.",
+  "tags": [
+   "real or fake flag",
+   "fake flag",
+   "spot the fake flag",
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "canada flag",
+   "italy flag",
+   "switzerland flag",
+   "japan flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Which fake almost fooled you? Comment your score /4 👇"
+ },
+ "story": {
+  "id": "real-fake-flag-2",
+  "type": "flagduel",
+  "title": "Real or Fake Flag? #2",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "CANADA",
+    "a": {
+     "flag": "ca",
+     "name": "Canada"
+    },
+    "b": {
+     "flag": "fake/ca",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Which is the real Canada? Left, or right?",
+     "a": "Left! Red, not blue."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "ITALY",
+    "a": {
+     "flag": "fake/it",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "it",
+     "name": "Italy"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Italy?",
+     "a": "Right! Green comes first."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "SWITZERLAND",
+    "a": {
+     "flag": "ch",
+     "name": "Switzerland"
+    },
+    "b": {
+     "flag": "fake/ch",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Switzerland?",
+     "a": "Left! Short, thick arms."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "JAPAN",
+    "a": {
+     "flag": "fake/jp",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "jp",
+     "name": "Japan"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. The real Japan?",
+     "a": "Right! The sun sits dead centre. Follow for number three!"
+    }
+   }
+  ]
+ }
+}
