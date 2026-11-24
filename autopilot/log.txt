@@ -2322,3 +2322,5 @@
 [2026-11-24 18:55:02] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
 [2026-11-24 18:55:14] Ausreißer-Scan: 496 Videos geprüft, 25 lange + 25 Shorts gespeichert
 [2026-11-24 18:55:23] Konkurrenz: 25 Kanäle, 126 Gewinner-Videos
+[2026-11-24 19:28:49] map-lie-8: noch nicht öffentlich – Kommentar später
+[2026-11-24 19:28:49] Kommentare: 33 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise
