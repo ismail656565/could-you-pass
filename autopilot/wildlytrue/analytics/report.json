@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-25T15:39",
+ "fetched": "2026-11-25T19:37",
  "channel": "WILDLY TRUE",
  "subscribers": "50",
  "audience": {
@@ -28,17 +28,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 1153,
-    "engagedViews": 380
+    "views": 1147,
+    "engagedViews": 377
    },
    {
     "deviceType": "TABLET",
-    "views": 70,
+    "views": 67,
     "engagedViews": 26
    },
    {
     "deviceType": "DESKTOP",
-    "views": 49,
+    "views": 48,
     "engagedViews": 12
    },
    {
@@ -1716,7 +1716,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 27,
-   "publicViews": "29",
+   "publicViews": "32",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -4556,13 +4556,7 @@
    "likes": 16,
    "comments": 0,
    "subscribersGained": 0,
-   "trafficSources": {
-    "SHORTS": 861,
-    "YT_SEARCH": 14,
-    "YT_OTHER_PAGE": 11,
-    "YT_CHANNEL": 2,
-    "NO_LINK_OTHER": 0
-   },
+   "trafficError": "<HttpError 500 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2020-01-01&endDate=2026-11-25&metric",
    "durationSec": 38,
    "publicViews": "888",
    "status": {
@@ -4752,7 +4746,7 @@
    "comments": 0,
    "subscribersGained": 3,
    "durationSec": 40,
-   "publicViews": "1666",
+   "publicViews": "1667",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
