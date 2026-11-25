@@ -835,3 +835,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - story.type "flagblitz" (src/FlagBlitz.tsx, 16:9, Flag-Duel-Farben): großes Flaggenbild im Papierrahmen, 3-s-Balkentimer, Schwierigkeitsleiter links (EASY/MEDIUM/HARD/IMPOSSIBLE), Hintergrundfarbe wechselt jede Flagge, Level-Blende bei jedem Levelwechsel, Intro ≈ 8 s mit Versprechen + Abo-Bitte. Zeiten über atlas_voice.py (think 3.0) → ≈ 6,4 s pro Flagge, 100 Flaggen ≈ 11 min. Vorschaubild FlagBlitzThumb (Collage + „GUESS THE FLAG IN 3 SECONDS“).
 - Bauen: `python autopilot/make_flagblitz.py <id> <YYYY-MM-DD>` → Queue-Datei (14:00, 25 Flaggen pro Level; frische Flaggen zuerst; keine politisch umstrittenen Flaggen).
 - Sa 28.11. 14:00 = flag-blitz-1 (100 Flaggen) statt Rätsel #3 (→ queue/backlog/). Erfolg: ≥ 150 Views n. 3 T, Ø angesehen ≥ 25 %, ≥ 1 Abo.
+
+## 2026-11-25 20:48 – Real or Fake Flag #1 erster Push (Besitzer-Screenshot)
+- n. ≈12 min: 224 Views (+144 über „typisch“), **71,9 % stayed / 28,1 % weggewischt = Kanal-Rekord**, erstmals über dem Ziel 70 % (Flag Duel #2: 65,1 %). 0:29 lang, ohne Hook-Vorrede (E23). 6 Likes, 0 Abos. Quellen: Shorts-Feed 166, weitere YouTube-Funktionen 57.
+- Spitze ≈50 Views/min, danach fallen die Balken auf ≈0 → Ende des ersten Test-Pools. Zweite Welle kommt bei uns typisch nach 15–25 h. Video nicht anfassen.
+- → E23 (ohne Vorrede, ≤ 30 s) bestätigt sich auch bei Real or Fake. Standard für alle Flaggen-Shorts beibehalten.
