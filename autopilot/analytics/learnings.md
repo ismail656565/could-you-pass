@@ -844,3 +844,4 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - 21:15 (n. ≈40 min): 760 Views, **dritte Welle läuft**, stayed 70,6 %, 11 Likes, Abos 0 (Studio zeigt Abos pro Video oft mit Verzug).
 - ≈21:30: **vierte Welle** startet (Besitzer). Jede Welle bisher etwa gleich stark (≈50 Views/min) → YouTube testet weiter, noch kein großer Pool.
 - 21:30 (n. ≈55 min): **1.124 Views** (schnellster Short über 1.000), Welle 4 mit Spitze ≈60/min (höher als 1–3), stayed 70,2 %, 12 Likes (≈1 % – schwach), Abos 0.
+- 22:06 (n. ≈1,5 h): 1.417 Views, Kurve flacht ab (nur noch wenige Views/min), stayed 71,9 %, 11 Likes, 0 Abos. Vermutung: Zuschauen stark, Reaktionen (≈0,8 % Likes, 0 Abos) zu schwach für den nächsten Pool → Like/Follow-CTA ab #4. Späte Welle nach 15–25 h noch möglich (wie Flag Duel #1/#2).
