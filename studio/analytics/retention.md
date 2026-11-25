@@ -1,15 +1,15 @@
 # Zuschauerbindung der Shorts
 
-Stand: 2026-11-25 00:34 UTC. Werte = Anteil der Zuschauer, der an dieser Stelle noch zuschaut (YouTube audienceWatchRatio; über 100 % = Wiederholungen/Loop). „nach 3 s“ niedrig = Hook-Problem; „Größter Abbruch“ = Sekunde mit dem steilsten Verlust und der Satz, der dort gesprochen wurde (nur Studio-Episoden mit gespeicherten Satz-Zeiten).
+Stand: 2026-11-25 14:51 UTC. Werte = Anteil der Zuschauer, der an dieser Stelle noch zuschaut (YouTube audienceWatchRatio; über 100 % = Wiederholungen/Loop). „nach 3 s“ niedrig = Hook-Problem; „Größter Abbruch“ = Sekunde mit dem steilsten Verlust und der Satz, der dort gesprochen wurde (nur Studio-Episoden mit gespeicherten Satz-Zeiten).
 
 ## COULD YOU PASS?
 
 | Short | Views | Start % | nach 3 s % | Mitte % | Ende % | Größter Abbruch (Sekunde, gesprochen) |
 |---|---:|---:|---:|---:|---:|---|
-| This Map Is Lying To You #6 🌍 Which Is REALLY Bigg | 1189 | 133 | 114 | 77 | 17 | 35.6 s (−13.1) ; 10.1 s (−2.7)  |
-| Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # | 3760 | 128 | 118 | 81 | 32 | 32.0 s (−6.3) ; 8.8 s (−2.3)  |
-| This Map Is Lying To You #5 🌍 Which Is REALLY Bigg | 1007 | 124 | 112 | 72 | 32 | 35.3 s (−4.1) ; 10.8 s (−2.3)  |
-| Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts | 1041 | 113 | 107 | 31 | 14 | 6.3 s (−8.9) ; 12.2 s (−5.1)  |
+| This Map Is Lying To You #6 🌍 Which Is REALLY Bigg | 1195 | 133 | 114 | 77 | 17 | 35.6 s (−13.1) ; 10.1 s (−2.7)  |
+| Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # | 3799 | 128 | 118 | 81 | 32 | 32.0 s (−6.3) ; 8.8 s (−2.3)  |
+| This Map Is Lying To You #5 🌍 Which Is REALLY Bigg | 1011 | 124 | 112 | 72 | 32 | 35.3 s (−4.2) ; 6.5 s (−2.3)  |
+| Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts | 1045 | 113 | 107 | 31 | 14 | 6.3 s (−8.9) ; 12.2 s (−5.1)  |
 
 ## WILDLY TRUE
 
@@ -26,9 +26,9 @@ Stand: 2026-11-25 00:34 UTC. Werte = Anteil der Zuschauer, der an dieser Stelle 
 
 | Short | Views | Start % | nach 3 s % | Mitte % | Ende % | Größter Abbruch (Sekunde, gesprochen) |
 |---|---:|---:|---:|---:|---:|---|
-| Why Slow Walkers Make You Furious 🧠 #shorts | 143 | 107 | 98 | 27 | 6 | 8.3 s (−7.3) ; 19.5 s (−6.2)  |
-| 6 Facts Your Brain Hides From You 👁️ #psychology # | 1414 | 139 | 133 | 76 | 30 | 55.7 s (−7.2) ; 11.0 s (−3.6)  |
-| Stare at the Spiral, Then Look at Your Hand 🌀 | 1273 | 114 | 108 | 83 | 16 | 4.8 s (−3.9) ; 28.9 s (−3.6)  |
+| Why Slow Walkers Make You Furious 🧠 #shorts | 144 | 107 | 98 | 27 | 6 | 8.3 s (−7.3) ; 19.5 s (−6.2)  |
+| 6 Facts Your Brain Hides From You 👁️ #psychology # | 1415 | 139 | 133 | 76 | 30 | 55.7 s (−7.2) ; 11.0 s (−3.6)  |
+| Stare at the Spiral, Then Look at Your Hand 🌀 | 1274 | 114 | 108 | 83 | 16 | 4.8 s (−3.9) ; 28.9 s (−3.6)  |
 | Stare at the Dot, Then Look at the Clock 👁️ | 1098 | 117 | 116 | 30 | 8 | 7.3 s (−4.7) ; 27.4 s (−4.5)  |
 | 5 Heads in a Row: Is Tails "Due"? We Flipped 1,000 | 322 | 142 | 121 | 60 | 45 | 5.4 s (−9.3) ; 23.8 s (−2.8)  |
 | Why Switching Doors Wins 2 Out of 3 Times (Monty H | 1234 | 154 | 116 | 72 | 42 | 37.6 s (−18.6) ; 4.6 s (−4.8)  |
@@ -38,7 +38,7 @@ Stand: 2026-11-25 00:34 UTC. Werte = Anteil der Zuschauer, der an dieser Stelle 
 
 | Short | Views | Start % | nach 3 s % | Mitte % | Ende % | Größter Abbruch (Sekunde, gesprochen) |
 |---|---:|---:|---:|---:|---:|---|
-| IShowSpeed Took Over Singapore 😳 | 723 | 135 | 153 | 130 | 85 | 5.4 s (−2.6) ; 8.4 s (−1.7)  |
+| IShowSpeed Took Over Singapore 😳 | 727 | 135 | 153 | 130 | 85 | 5.4 s (−2.6) ; 8.4 s (−1.7)  |
 
 ## PlotMelt
 
