@@ -857,3 +857,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
   2. **Keine Labels in gesperrten Großbuchstaben, keine Punkt-verbundenen Meta-Zeilen** („TRUE OR FALSE? · EXAM“, „PAGE 1 OF 6“, „WHO IS MOST LIKELY TO… · 1/4“) → normale Schreibweise, ungesperrt (exam-Short, Mom or Dad, Flag Blitz angepasst).
   3. **Kein Emoji als Icon-Ersatz, wo ein echtes Bild möglich ist** (Flaggen/Fotos/Zeichnungen vor Emoji-Aufkleber). Kein Lila-Blau-Verlauf, keine Karte in der Karte.
 - Flag-Duel-/Real-or-Fake-Look bleibt unverändert (läuft, 70 % stayed).
+
+## 2026-11-26 06:20 – Kommentar-Schlüsselwort, aber ehrlich (Besitzer-Referenz speedy_devv „/full-visual“: 14,5k Likes, **21,6k Kommentare**, 12,8k Shares durch „Comment FOLDER to get the link“)
+- Prinzip: Ein Grund zum Kommentieren, der etwas bringt → Kommentare > Likes. Wir versprechen nur, was der Autopilot einlöst: **„Comment your score AND your country – we pick countries from the comments for the next episodes!“** (angepinnter Kommentar aller Flaggen-Shorts ab heute).
+- **Pflicht für den Research-Agenten:** Ländernamen aus Kommentaren (comments.md) sammeln, in die nächsten Flag-Duel-/Real-or-Fake-Folgen einbauen (Paar/Fälschung mit dem Land; politisch umstrittene Flaggen ausgenommen) und der Person antworten: „Your country is in #N tomorrow!“. Beschreibung der Folge: „Requested by @name“.
+- /full-visual selbst (Animations-Skill) nicht nötig – wir haben die Remotion-Pipeline.
