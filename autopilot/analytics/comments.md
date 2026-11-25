@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-25 22:28
+# Zuschauer-Kommentare – Stand 2026-11-25 23:42
 
-Letzte 21 Tage, ohne unsere eigenen. 39 Kommentare, 1 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 39 Kommentare, 0 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -24,7 +24,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## FEHLER-HINWEIS (2)
 
-- 2026-11-25 · This Map Is Lying To You #8 🌍 Which Is REALLY Bigg · @s_1keb **[OFFEN]** · id `UgyqsndOtJeulTqVu1J4AaABAg`  
+- 2026-11-25 · This Map Is Lying To You #8 🌍 Which Is REALLY Bigg · @s_1keb · id `UgyqsndOtJeulTqVu1J4AaABAg`  
   „Ohhh , so by the map fools you , you meant the map has bigger proportions for some countries , but a real one would show it actually smaller . Cuz those shi aint bigger“
 - 2026-11-05 · Which Has More People? 4 Rounds 90% Get Wrong 👥 #s · @AdnanSadaqat-q7d · id `Ugz_46qaxIYdWtQay5d4AaABAg`  
   „I only got 1 wrong“

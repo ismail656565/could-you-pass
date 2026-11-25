@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-25T22:28",
+ "fetched": "2026-11-25T23:42",
  "comments": [
   {
    "commentId": "UgyKFsyl1czKJJfZlkN4AaABAg",
@@ -50,7 +50,7 @@
    "likes": 0,
    "published": "2026-11-25T19:06:11Z",
    "kind": "FEHLER-HINWEIS",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
