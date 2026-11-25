@@ -72,3 +72,9 @@ Bandit 25.–28.11. (10 Slots): 7 Exploit (Flag Duel, Feiertage, Wunsch, Rätsel
 - Fakes: nur Farben tauschen, Elemente verschieben/spiegeln, Proportionen ändern; Ergebnis gegen alle 270 Flaggen in public/flags prüfen (darf keiner echten gleichen). Probe-Still rendern.
 - Rätsel-Long #3: Duplikat-grep gegen iq-riddles-12-1/-2, jede Lösung zweimal nachrechnen, count ≤ 10 (QA-Standbild), Texte ohne Emoji in hook/finalLabel/ctaText/outroText.
 - Keine Halloween-, Alters- oder Politik-Themen; keine Longs Mo/Mi/Fr/So; max. 2 Shorts/Tag.
+
+## NACHTRAG 25.11. 11:05 – Besitzer: tvshow-Short-Layout „gefällt gar nicht“
+- **Entscheidung:** Es gibt keine tvshow-Shorts mehr. Alle Shorts laufen im FlagDuel-Renderer (16:00 Flag Duel, 21:00 Real or Fake Flag). Das ist auch das einzige Short-Format über dem Abo-Ziel (≈6,9/1k gegenüber ≈0,7 bei tvshow).
+- Der Science-Short 27.11. liegt jetzt in queue/backlog/. Der Wunsch wird als exam-Long am Di 1.12. erfüllt („Science Quiz: 30 Questions – Can You Pass?“, B „CAN YOU GET **25/30**?“).
+- **Für den Produktions-Agenten (26.11.):** `2026-11-27-flag-duel-5.json` (16:00) anlegen und das bisherige 28.11.-Item zu #6 machen. Konkret: Flag Duel #5 = Paare aus dem jetzigen `2026-11-28-flag-duel-5.json` → Datei auf 27.11. umbenennen. Für 28.11. ein neues flag-duel-6 anlegen (Paare aus der Vorschau 29.11.: Denmark/Switzerland, Ghana/Cameroon, Egypt/Yemen, Niger/India), Schluss jeweils „Follow for number N+1!“. Danach täglich eine Folge.
+- Long Di 1.12.: science-quiz-30-1 (exam) anlegen, Fakten per WebSearch prüfen, Kommentar „You asked for it – science! 🔬“.

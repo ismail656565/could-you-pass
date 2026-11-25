@@ -793,3 +793,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Thumbnails: CTR per API weiter HttpError 400 – keine neuen Thumbnail-Zahlen; exam-Longs starten mit Variante B.
 - Angelegt: real-fake-flag-3 (27.11. 21:00), flag-duel-5 + real-fake-flag-4 (28.11.), iq-riddles-10-3 (Sa-Long). Neue Fakes: no, us, br, gb, tr (keiner = echte Flagge eines Landes). one-q-further-west → autopilot/backlog/ (16:00 ab 28.11. täglich Flag Duel).
 - Achtung Wiederholung: Klassiker bat/ball, Mary's father, 28 Tage, 5 Maschinen, 17 Schafe, O-T-T-F, Everest-vorher sind schon verbraucht (iq-test-1, six-q-iq-quiz, gk-well-educated) → für künftige Rätsel-Longs neue Rätsel suchen.
+
+## 2026-11-25 11:05 – STRATEGIE (Besitzer zum tvshow-Short „Thanksgiving True or False“: „Mir gefällt das Layout gar nicht“) – GILT AB SOFORT
+- **tvshow-Layout für Shorts eingestellt.** Schwächen im Screenshot: große leere Karte mit kleinem Emoji, Timer überdeckt die Kartenkante, Label „SCORE SO FAR?“ ohne Sinn, 0:44 lang. Dazu die Zahlen: tvshow-Shorts liegen bei ≈0,7 Abos/1k, Flag-Serien bei ≈6,9.
+- **Shorts ab jetzt nur noch im FlagDuel-Renderer:** 16:00 Flag Duel, 21:00 Real or Fake Flag. Flag Duel läuft täglich schon ab **Fr 27.11.** (nicht erst 28.11.).
+- six-q-science-trivia (27.11.) → queue/backlog/. Der Science-Wunsch (@Jo-wl5fj) kommt als **exam-Long** an einem Long-Tag (Vorschlag Di 1.12. „Science Quiz: 30 Questions – Can You Pass?“).
+- thanksgiving-true-false (25.11. 16:00) ist schon hochgeladen. Empfehlung an den Besitzer: in Studio auf „Privat“ stellen.
+- Neue Nicht-Flaggen-Shorts erst wieder, wenn ein Layout existiert, das der Besitzer abgenommen hat (Idee: Prüfungsbogen-Look „exam“ im Hochformat, eigener Code-Auftrag).
