@@ -807,3 +807,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Texte in hook/finalLabel/ctaText/outroText ohne Emoji. cardText = 1 Emoji (wird als Aufkleber gezeigt). Antworten ≤ 14 Zeichen, sonst wird die Schrift kleiner.
 - Vorschau-Referenz: Thanksgiving T/F, 4 Fragen, 28,8 s.
 - Slots bleiben: 16:00 Flag Duel, 21:00 Real or Fake. exam-Shorts nur auf ausdrücklichen Plan-Platz (z. B. Zuschauer-Wunsch Science).
+
+## 2026-11-25 12:00 – ZIEL-LEITER Monetarisierung (Besitzer: „55 Abos, wie sollen wir 9 Mio. Klicks schaffen?“)
+- YPP-Stand (Tubefilter/NewscastStudio, 10.08.2026): Werbeeinnahmen ab 1.000 Abos + 10 Mio. Shorts-Views in 90 T (oder 4.000 Watch-Stunden in 12 Monaten). **Ab 01.02.2027 für Neue 20 Mio. Shorts-Views in 90 T oder 8.000 Std.** Unteres Tier (Fan-Funding) bleibt bei 500 Abos + 3 Mio. Shorts-Views in 90 T oder 3.000 Std.
+- Ist-Stand: ≈4–5k Views/Tag. 10 Mio. in 90 T = 111k/Tag (≈25×), 3 Mio. = 33k/Tag (≈7×). 10 Mio. vor dem 01.02. ist ohne mehrere virale Treffer unrealistisch.
+- Leiter: (1) 100 Abos bis 31.12., (2) 500 Abos + 3 Mio. Views in 90 T (Fan-Funding), (3) 1.000 Abos + 20 Mio. Views oder 8.000 Std.
+- Hebel: Views kommen aus wenigen Ausreißern (WonderQ 525k bei 4,6k Abos). Also mehr Versuche pro Tag im Gewinner-Format, ≥ 70 % stayed, Loop-Ende, und schnell nachlegen, wenn ein Short abhebt (gleiche Serie, gleicher Titeltyp, innerhalb von 24 h).
