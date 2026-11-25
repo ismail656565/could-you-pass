@@ -818,3 +818,7 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Der Besitzer schickt Referenz-Longs. Bis dahin keine neuen Long-Formate oder -Experimente, nur die geplanten Longs (Christmas 26.11., Rätsel #3 28.11., Science 1.12.).
 - Bekannte Long-Schwächen: Median ≈ 5–20 Views, Rätsel-Long #1 Ø angesehen 11,7 % (Absprung nach 1–2 Rätseln), Zähler startet oft 0 für 5–8 h. Longs bringen aber ≈ 3 Abos/1k (Shorts ≈ 0,7) und Watch-Stunden.
 - Wenn Referenzen da sind: Hook der ersten 30 s, Länge, Fragenzahl, Tempo, Thumbnail-Versprechen auswerten und mit unseren Retention-Kurven vergleichen.
+
+## 2026-11-25 16:50 – Besitzer: „Ich wusste, dass es ein Flop wird – lösch dieses Layout“ (Thanksgiving T/F im tvshow-Look: 81 Views n. 46 min, 0 Abos)
+- **tvshow ist gelöscht.** Code-Sperre in autopilot.py (produce_one): Jedes Quiz, das nicht flagduel/truesize ist, wird vor dem Rendern auf `exam` gezwungen, auch wenn in der Queue noch tvshow/pop/atlas/neon/stick/comic steht. Der Generator setzt ohnehin exam.
+- Bleibt: Shorts = Flag Duel / Real or Fake (flagduel) + exam-Hochformat (≤ 4 Fragen, ≤ 30 s). Longs = exam.

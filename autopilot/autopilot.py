@@ -933,6 +933,10 @@ def produce_one(p):
     log(f'Produziere {name} ({fmt_of(item)})')
     try:
         story = item['story']
+        if story.get('type') not in ('truesize', 'flagduel') and story.get('layout') != 'exam':
+            # Besitzer 25.11.: tvshow (und alle alten Quiz-Layouts) gelöscht – jedes Quiz läuft im Prüfungsbogen-Look
+            log(f"Layout {story.get('layout') or 'comic'} ist abgeschaltet – nutze exam")
+            story['layout'] = 'exam'
         if story.get('type') in ('truesize', 'flagduel'):
             # Karten-Short / Flaggen-Duell "The map is lying" (Komposition TrueSize): eigene Stimme/Zeitplan, keine Fragenliste
             import atlas_voice
