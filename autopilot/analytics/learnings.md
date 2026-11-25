@@ -842,3 +842,4 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - → E23 (ohne Vorrede, ≤ 30 s) bestätigt sich auch bei Real or Fake. Standard für alle Flaggen-Shorts beibehalten.
 - 21:04 (n. ≈29 min): 556 Views, **zweite Welle schon nach ≈20 min** (zweiter Balkenblock ≈50/min). stayed hält 70,0 %, 9 Likes, Shorts-Feed 468. Schnellste zweite Welle des Kanals (Flag Duel #2: ≈70 min, #1: ≈4,5 h).
 - 21:15 (n. ≈40 min): 760 Views, **dritte Welle läuft**, stayed 70,6 %, 11 Likes, Abos 0 (Studio zeigt Abos pro Video oft mit Verzug).
+- ≈21:30: **vierte Welle** startet (Besitzer). Jede Welle bisher etwa gleich stark (≈50 Views/min) → YouTube testet weiter, noch kein großer Pool.
