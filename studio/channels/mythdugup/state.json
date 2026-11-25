@@ -83,6 +83,76 @@
      "Proven: the sunken port was real. Debated: whether Helen of Troy was ever here."
     ]
    ]
+  },
+  "008-senegal-afcon": {
+   "video_id": "6Np_HlvX8NM",
+   "publish_at": "2026-11-25T19:30:00+01:00",
+   "kind": "short",
+   "title": "Senegal Lost Its Africa Cup Title. A Court Just Gave It Back. #shorts",
+   "uploaded": "2026-11-25T13:34:28+00:00",
+   "duration": 35.2,
+   "lines": [
+    [
+     0.15,
+     2.73,
+     "Senegal's trophy was taken away."
+    ],
+    [
+     3.08,
+     11.96,
+     "In January, Senegal won the Africa Cup final, one-nil. Then African football's appeals board handed Morocco a three-nil win."
+    ],
+    [
+     12.36,
+     17.43,
+     "On Tuesday, the Court of Arbitration for Sport overturned it. Unanimously."
+    ],
+    [
+     17.83,
+     24.93,
+     "Senegal had walked off for over fifteen minutes. But restarting was the referee's call alone, the court ruled."
+    ],
+    [
+     25.38,
+     33.9,
+     "Proven: Senegal are champions again. Debated: whether Morocco, which vows to fight on, can still overturn it in a Swiss court."
+    ]
+   ]
+  },
+  "009-crowdstrike-zscaler": {
+   "video_id": "r9ytMY-mo_c",
+   "publish_at": "2026-11-26T13:00:00+01:00",
+   "kind": "short",
+   "title": "CrowdStrike Is Buying Its Rival Zscaler for $43.9 Billion #shorts",
+   "uploaded": "2026-11-25T13:38:00+00:00",
+   "duration": 37.49,
+   "lines": [
+    [
+     0.15,
+     2.77,
+     "Two cyber rivals just became one."
+    ],
+    [
+     3.12,
+     10.11,
+     "On Monday, CrowdStrike agreed to buy Zscaler, in a stock deal worth nearly forty-four billion dollars."
+    ],
+    [
+     10.51,
+     19.85,
+     "Zscaler holders get about a third more than Friday's price. Together, they expect over ten billion dollars in yearly recurring revenue."
+    ],
+    [
+     20.25,
+     28.28,
+     "Zscaler says it protects half the Fortune five hundred. CrowdStrike is targeting a billion a year in extra sales."
+    ],
+    [
+     28.73,
+     36.19,
+     "Proven: both boards approved it. Debated: whether shareholders and regulators will, and whether those gains are real."
+    ]
+   ]
   }
  },
  "longs_done": {
@@ -92,6 +162,13 @@
    "title": "3 Legends That Turned Out to Be Real (Troy, Pompeii, Vinland)",
    "uploaded": "2026-11-23T06:17:59+00:00",
    "thumb": true
+  },
+  "002-nvidia-huang-spy-scandal": {
+   "video_id": "WZIV_2v6Y3w",
+   "publish_at": "2026-11-26T17:00:00+01:00",
+   "title": "Nvidia's CEO, an Alleged Chinese Spy, and the 11 Days That Shook a Trillion-Dollar Company",
+   "thumb": true,
+   "uploaded": "2026-11-25T14:05:36+00:00"
   }
  }
 }
