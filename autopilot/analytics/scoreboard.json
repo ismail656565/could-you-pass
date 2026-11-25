@@ -1,16 +1,7 @@
 {
- "fetched": "2026-11-25T06:14",
+ "fetched": "2026-11-25T17:59",
  "groups": {
   "short.format": {
-   "3 Fragen": {
-    "n": 3,
-    "avgViews": 1433,
-    "medianViews": 327,
-    "bestViews": 3778,
-    "stayed": 45.8,
-    "avgPct": 68.2,
-    "subs": 19.0
-   },
    "4-Fragen-Trap": {
     "n": 9,
     "avgViews": 372,
@@ -28,6 +19,15 @@
     "stayed": 44.2,
     "avgPct": 101.4,
     "subs": 2.0
+   },
+   "3 Fragen": {
+    "n": 3,
+    "avgViews": 2259,
+    "medianViews": 2645,
+    "bestViews": 3806,
+    "stayed": 53.4,
+    "avgPct": 73.9,
+    "subs": 19.0
    },
    "VS-Vergleich": {
     "n": 11,
@@ -58,8 +58,8 @@
    },
    "Karten-VS (TrueSize)": {
     "n": 6,
-    "avgViews": 914,
-    "medianViews": 1015,
+    "avgViews": 915,
+    "medianViews": 1017,
     "bestViews": 1195,
     "stayed": 50.2,
     "avgPct": 75.9,
@@ -77,12 +77,12 @@
   },
   "short.topic": {
    "HALLOWEEN TRIVIA": {
-    "n": 2,
-    "avgViews": 266,
-    "medianViews": 266,
+    "n": 1,
+    "avgViews": 338,
+    "medianViews": 338,
     "bestViews": 338,
-    "stayed": 34.4,
-    "avgPct": 135.3,
+    "stayed": 37.9,
+    "avgPct": 213.8,
     "subs": 0
    },
    "SCIENCE QUIZ": {
@@ -204,9 +204,9 @@
    },
    "WHICH CAME FIRST?": {
     "n": 2,
-    "avgViews": 602,
-    "medianViews": 602,
-    "bestViews": 1043,
+    "avgViews": 604,
+    "medianViews": 604,
+    "bestViews": 1046,
     "stayed": 65.0,
     "avgPct": 45.6,
     "subs": 0
@@ -311,10 +311,10 @@
     "subs": 0
    },
    "–": {
-    "n": 7,
-    "avgViews": 1323,
-    "medianViews": 1021,
-    "bestViews": 3778,
+    "n": 8,
+    "avgViews": 1492,
+    "medianViews": 1044,
+    "bestViews": 3806,
     "stayed": 51.1,
     "avgPct": 77.0,
     "subs": 21.0
@@ -438,9 +438,9 @@
    },
    "IQ QUIZ": {
     "n": 1,
-    "avgViews": 1016,
-    "medianViews": 1016,
-    "bestViews": 1016,
+    "avgViews": 1017,
+    "medianViews": 1017,
+    "bestViews": 1017,
     "stayed": 53.8,
     "avgPct": 60.8,
     "subs": 1.0
@@ -466,17 +466,17 @@
   },
   "short.layout": {
    "neon": {
-    "n": 10,
-    "avgViews": 360,
-    "medianViews": 322,
+    "n": 9,
+    "avgViews": 379,
+    "medianViews": 327,
     "bestViews": 1033,
-    "stayed": 42.3,
-    "avgPct": 128.5,
+    "stayed": 43.7,
+    "avgPct": 137.5,
     "subs": 0
    },
    "tvshow": {
     "n": 30,
-    "avgViews": 590,
+    "avgViews": 591,
     "medianViews": 469,
     "bestViews": 1223,
     "stayed": 52.7,
@@ -493,10 +493,10 @@
     "subs": 0
    },
    "comic": {
-    "n": 7,
-    "avgViews": 1323,
-    "medianViews": 1021,
-    "bestViews": 3778,
+    "n": 8,
+    "avgViews": 1492,
+    "medianViews": 1044,
+    "bestViews": 3806,
     "stayed": 51.1,
     "avgPct": 77.0,
     "subs": 21.0
@@ -522,19 +522,19 @@
   },
   "short.music": {
    "brain-pulse.wav": {
-    "n": 17,
-    "avgViews": 371,
-    "medianViews": 312,
+    "n": 16,
+    "avgViews": 382,
+    "medianViews": 314,
     "bestViews": 1092,
-    "stayed": 46.6,
-    "avgPct": 97.8,
+    "stayed": 47.7,
+    "avgPct": 100.5,
     "subs": 3.0
    },
    "game-show.wav": {
-    "n": 30,
-    "avgViews": 720,
-    "medianViews": 458,
-    "bestViews": 3778,
+    "n": 31,
+    "avgViews": 783,
+    "medianViews": 484,
+    "bestViews": 3806,
     "stayed": 49.7,
     "avgPct": 65.2,
     "subs": 33.0
@@ -551,19 +551,19 @@
   },
   "short.slot": {
    "10:00": {
-    "n": 3,
-    "avgViews": 283,
-    "medianViews": 316,
+    "n": 2,
+    "avgViews": 327,
+    "medianViews": 327,
     "bestViews": 338,
-    "stayed": 34.4,
-    "avgPct": 187.1,
+    "stayed": 36.2,
+    "avgPct": 252.2,
     "subs": 0
    },
    "16:00": {
-    "n": 31,
-    "avgViews": 652,
-    "medianViews": 331,
-    "bestViews": 3778,
+    "n": 32,
+    "avgViews": 716,
+    "medianViews": 382,
+    "bestViews": 3806,
     "stayed": 48.7,
     "avgPct": 69.9,
     "subs": 33.0
@@ -580,12 +580,12 @@
   },
   "long.format": {
    "35 Fragen": {
-    "n": 3,
-    "avgViews": 98,
-    "medianViews": 60,
-    "bestViews": 186,
-    "stayed": 49.3,
-    "avgPct": 25.8,
+    "n": 2,
+    "avgViews": 54,
+    "medianViews": 54,
+    "bestViews": 60,
+    "stayed": 53.8,
+    "avgPct": 26.3,
     "subs": 0
    },
    "40 Fragen": {
@@ -598,19 +598,19 @@
     "subs": 1.0
    },
    "50 Fragen": {
-    "n": 11,
-    "avgViews": 14,
-    "medianViews": 5,
+    "n": 12,
+    "avgViews": 13,
+    "medianViews": 4,
     "bestViews": 99,
-    "stayed": 64.1,
-    "avgPct": 48.2,
+    "stayed": 67.0,
+    "avgPct": 44.3,
     "subs": 0
    },
    "12 Fragen": {
     "n": 2,
-    "avgViews": 117,
-    "medianViews": 117,
-    "bestViews": 234,
+    "avgViews": 118,
+    "medianViews": 118,
+    "bestViews": 237,
     "stayed": 77.5,
     "avgPct": 11.7,
     "subs": 0
@@ -644,15 +644,6 @@
    }
   },
   "long.topic": {
-   "Halloween": {
-    "n": 2,
-    "avgViews": 117,
-    "medianViews": 117,
-    "bestViews": 186,
-    "stayed": 55.5,
-    "avgPct": 24.4,
-    "subs": 0
-   },
    "Memory/Alters-Titel": {
     "n": 3,
     "avgViews": 22,
@@ -662,11 +653,20 @@
     "avgPct": 61.0,
     "subs": 0
    },
+   "Halloween": {
+    "n": 1,
+    "avgViews": 48,
+    "medianViews": 48,
+    "bestViews": 48,
+    "stayed": 70.8,
+    "avgPct": 24.2,
+    "subs": 0
+   },
    "IQ-Titel": {
     "n": 2,
-    "avgViews": 130,
-    "medianViews": 130,
-    "bestViews": 234,
+    "avgViews": 132,
+    "medianViews": 132,
+    "bestViews": 237,
     "stayed": 79.2,
     "avgPct": 24.0,
     "subs": 1.0
@@ -735,32 +735,32 @@
     "subs": 0
    },
    "Emoji-Raten": {
-    "n": 2,
-    "avgViews": 26,
-    "medianViews": 26,
+    "n": 3,
+    "avgViews": 17,
+    "medianViews": 20,
     "bestViews": 31,
-    "stayed": 83.0,
-    "avgPct": 15.8,
+    "stayed": 88.7,
+    "avgPct": 11.3,
     "subs": 0
    }
   },
   "long.layout": {
    "neon": {
-    "n": 6,
-    "avgViews": 54,
-    "medianViews": 37,
-    "bestViews": 186,
-    "stayed": 63.1,
-    "avgPct": 52.3,
+    "n": 5,
+    "avgViews": 28,
+    "medianViews": 26,
+    "bestViews": 60,
+    "stayed": 67.7,
+    "avgPct": 57.8,
     "subs": 1.0
    },
    "tvshow": {
-    "n": 18,
-    "avgViews": 27,
-    "medianViews": 6,
-    "bestViews": 234,
-    "stayed": 68.2,
-    "avgPct": 30.6,
+    "n": 19,
+    "avgViews": 26,
+    "medianViews": 5,
+    "bestViews": 237,
+    "stayed": 70.1,
+    "avgPct": 28.9,
     "subs": 0
    },
    "comic": {
@@ -774,15 +774,6 @@
    }
   },
   "long.music": {
-   "game-show.wav": {
-    "n": 7,
-    "avgViews": 68,
-    "medianViews": 20,
-    "bestViews": 234,
-    "stayed": 72.9,
-    "avgPct": 24.5,
-    "subs": 1.0
-   },
    "brain-pulse.wav": {
     "n": 8,
     "avgViews": 27,
@@ -791,6 +782,15 @@
     "stayed": 73.9,
     "avgPct": 42.4,
     "subs": 0
+   },
+   "game-show.wav": {
+    "n": 7,
+    "avgViews": 42,
+    "medianViews": 6,
+    "bestViews": 237,
+    "stayed": 81.4,
+    "avgPct": 21.3,
+    "subs": 1.0
    },
    "world-trip.wav": {
     "n": 11,
@@ -803,22 +803,13 @@
    }
   },
   "long.slot": {
-   "–": {
-    "n": 1,
-    "avgViews": 186,
-    "medianViews": 186,
-    "bestViews": 186,
-    "stayed": 40.3,
-    "avgPct": 24.7,
-    "subs": 0
-   },
    "14:00": {
-    "n": 24,
-    "avgViews": 33,
-    "medianViews": 14,
-    "bestViews": 234,
-    "stayed": 65.8,
-    "avgPct": 37.9,
+    "n": 25,
+    "avgViews": 32,
+    "medianViews": 13,
+    "bestViews": 237,
+    "stayed": 67.3,
+    "avgPct": 36.3,
     "subs": 3.0
    },
    "19:00": {
@@ -833,44 +824,6 @@
   }
  },
  "videos": [
-  {
-   "file": "2026-10-19-halloween-quiz-35.json",
-   "id": "halloween-quiz-35",
-   "videoId": "Feubf7dVX7Y",
-   "kind": "long",
-   "title": "Halloween Quiz 🎃 Can You Get 30 out of 35? | Spooky Trivia, Easy to Legend",
-   "format": "35 Fragen",
-   "topic": "Halloween",
-   "layout": "neon",
-   "music": "game-show.wav",
-   "slot": "–",
-   "publicViews": 186.0,
-   "engagedShare": 0.403,
-   "avgPct": 24.72,
-   "subs": 0.0,
-   "durationSec": 400,
-   "ageDays": 36.5,
-   "search": null
-  },
-  {
-   "file": "2026-10-20-halloween-trap-3-0.json",
-   "id": "halloween-trap-3-0",
-   "videoId": "yOvhr5AtBmg",
-   "kind": "short",
-   "title": "3 Spooky Questions 90% Get Wrong 🎃 #shorts",
-   "format": "3 Fragen",
-   "topic": "HALLOWEEN TRIVIA",
-   "layout": "neon",
-   "music": "brain-pulse.wav",
-   "slot": "10:00",
-   "publicViews": 195.0,
-   "engagedShare": 0.308,
-   "avgPct": 56.830000000000005,
-   "subs": 0.0,
-   "durationSec": 24,
-   "ageDays": 35.9,
-   "search": null
-  },
   {
    "file": "2026-10-20-memory-check-35-1.json",
    "id": "memory-check-35-1",
@@ -887,7 +840,7 @@
    "avgPct": 28.499999999999996,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 35.8,
+   "ageDays": 36.2,
    "search": null
   },
   {
@@ -906,7 +859,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 34.8,
+   "ageDays": 35.2,
    "search": null
   },
   {
@@ -925,7 +878,7 @@
    "avgPct": 213.79000000000002,
    "subs": 0.0,
    "durationSec": 35,
-   "ageDays": 34.9,
+   "ageDays": 35.4,
    "search": null
   },
   {
@@ -944,7 +897,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 33.8,
+   "ageDays": 34.2,
    "search": null
   },
   {
@@ -963,7 +916,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 33.7,
+   "ageDays": 34.2,
    "search": null
   },
   {
@@ -982,7 +935,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 33.5,
+   "ageDays": 34.0,
    "search": null
   },
   {
@@ -1001,7 +954,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 32.7,
+   "ageDays": 33.2,
    "search": null
   },
   {
@@ -1020,7 +973,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 32.8,
+   "ageDays": 33.2,
    "search": null
   },
   {
@@ -1039,7 +992,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 32.5,
+   "ageDays": 33.0,
    "search": null
   },
   {
@@ -1058,7 +1011,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 31.8,
+   "ageDays": 32.2,
    "search": null
   },
   {
@@ -1077,7 +1030,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 31.7,
+   "ageDays": 32.2,
    "search": null
   },
   {
@@ -1096,7 +1049,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 31.5,
+   "ageDays": 32.0,
    "search": null
   },
   {
@@ -1115,7 +1068,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 32.0,
+   "ageDays": 32.5,
    "search": null
   },
   {
@@ -1134,7 +1087,7 @@
    "avgPct": 95.46,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 30.6,
+   "ageDays": 31.1,
    "search": null
   },
   {
@@ -1153,7 +1106,7 @@
    "avgPct": 54.63,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 30.7,
+   "ageDays": 31.2,
    "search": null
   },
   {
@@ -1172,7 +1125,7 @@
    "avgPct": 58.01,
    "subs": 0.0,
    "durationSec": 39,
-   "ageDays": 30.4,
+   "ageDays": 30.9,
    "search": null
   },
   {
@@ -1191,7 +1144,7 @@
    "avgPct": 45.3,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 29.7,
+   "ageDays": 30.2,
    "search": null
   },
   {
@@ -1210,7 +1163,7 @@
    "avgPct": 71.99,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 29.6,
+   "ageDays": 30.1,
    "search": null
   },
   {
@@ -1229,7 +1182,7 @@
    "avgPct": 42.79,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 29.4,
+   "ageDays": 29.9,
    "search": null
   },
   {
@@ -1248,7 +1201,7 @@
    "avgPct": 0.0,
    "subs": 0.0,
    "durationSec": 628,
-   "ageDays": 25.7,
+   "ageDays": 26.2,
    "search": null
   },
   {
@@ -1267,7 +1220,7 @@
    "avgPct": 77.11,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 25.6,
+   "ageDays": 26.1,
    "search": null
   },
   {
@@ -1286,7 +1239,7 @@
    "avgPct": 80.24,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 25.4,
+   "ageDays": 25.9,
    "search": null
   },
   {
@@ -1305,7 +1258,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 278,
-   "ageDays": 24.7,
+   "ageDays": 25.2,
    "search": null
   },
   {
@@ -1324,7 +1277,7 @@
    "avgPct": 88.36,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 24.6,
+   "ageDays": 25.1,
    "search": null
   },
   {
@@ -1343,7 +1296,7 @@
    "avgPct": 67.43,
    "subs": 1.0,
    "durationSec": 40,
-   "ageDays": 24.4,
+   "ageDays": 24.9,
    "search": null
   },
   {
@@ -1362,7 +1315,7 @@
    "avgPct": 51.36999999999999,
    "subs": 1.0,
    "durationSec": 45,
-   "ageDays": 23.6,
+   "ageDays": 24.1,
    "search": null
   },
   {
@@ -1381,7 +1334,7 @@
    "avgPct": 92.89,
    "subs": 0.0,
    "durationSec": 40,
-   "ageDays": 23.4,
+   "ageDays": 23.9,
    "search": null
   },
   {
@@ -1400,7 +1353,7 @@
    "avgPct": 33.51,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 23.7,
+   "ageDays": 24.2,
    "search": null
   },
   {
@@ -1419,7 +1372,7 @@
    "avgPct": 91.14,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 22.6,
+   "ageDays": 23.1,
    "search": null
   },
   {
@@ -1438,7 +1391,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 381,
-   "ageDays": 22.7,
+   "ageDays": 23.2,
    "search": null
   },
   {
@@ -1457,7 +1410,7 @@
    "avgPct": 66.25,
    "subs": 0.0,
    "durationSec": 45,
-   "ageDays": 22.4,
+   "ageDays": 22.9,
    "search": null
   },
   {
@@ -1476,7 +1429,7 @@
    "avgPct": 53.53,
    "subs": 0.0,
    "durationSec": 649,
-   "ageDays": 21.7,
+   "ageDays": 22.2,
    "search": null
   },
   {
@@ -1490,12 +1443,12 @@
    "layout": "tvshow",
    "music": "brain-pulse.wav",
    "slot": "16:00",
-   "publicViews": 162.0,
+   "publicViews": 163.0,
    "engagedShare": 0.7,
    "avgPct": 49.24,
    "subs": 0.0,
    "durationSec": 57,
-   "ageDays": 21.6,
+   "ageDays": 22.1,
    "search": null
   },
   {
@@ -1514,7 +1467,7 @@
    "avgPct": 44.8,
    "subs": 1.0,
    "durationSec": 40,
-   "ageDays": 21.4,
+   "ageDays": 21.9,
    "search": null
   },
   {
@@ -1533,7 +1486,7 @@
    "avgPct": 43.47,
    "subs": 0.0,
    "durationSec": 388,
-   "ageDays": 20.7,
+   "ageDays": 21.2,
    "search": null
   },
   {
@@ -1552,7 +1505,7 @@
    "avgPct": 45.65,
    "subs": 2.0,
    "durationSec": 51,
-   "ageDays": 20.6,
+   "ageDays": 21.1,
    "search": null
   },
   {
@@ -1571,7 +1524,26 @@
    "avgPct": 60.6,
    "subs": 2.0,
    "durationSec": 41,
-   "ageDays": 20.4,
+   "ageDays": 20.9,
+   "search": null
+  },
+  {
+   "file": "2026-11-05-emoji-word-50-1.json",
+   "id": "emoji-word-50-1",
+   "videoId": "G6JJ4HGXJ9g",
+   "kind": "long",
+   "title": "Emoji Quiz: Guess the Word – 50 Rounds, Easy to Legend 🧩",
+   "format": "50 Fragen",
+   "topic": "Emoji-Raten",
+   "layout": "tvshow",
+   "music": "game-show.wav",
+   "slot": "14:00",
+   "publicViews": 1.0,
+   "engagedShare": 1.0,
+   "avgPct": 2.23,
+   "subs": 0.0,
+   "durationSec": 646,
+   "ageDays": 20.2,
    "search": null
   },
   {
@@ -1590,7 +1562,7 @@
    "avgPct": 39.67,
    "subs": 0.0,
    "durationSec": 52,
-   "ageDays": 19.6,
+   "ageDays": 20.1,
    "search": null
   },
   {
@@ -1609,7 +1581,7 @@
    "avgPct": 52.61,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 19.4,
+   "ageDays": 19.9,
    "search": null
   },
   {
@@ -1628,7 +1600,7 @@
    "avgPct": 11.39,
    "subs": 0.0,
    "durationSec": 683,
-   "ageDays": 18.5,
+   "ageDays": 19.0,
    "search": null
   },
   {
@@ -1647,7 +1619,7 @@
    "avgPct": 58.39,
    "subs": 0.0,
    "durationSec": 53,
-   "ageDays": 18.6,
+   "ageDays": 19.1,
    "search": null
   },
   {
@@ -1666,7 +1638,7 @@
    "avgPct": 55.91,
    "subs": 0.0,
    "durationSec": 47,
-   "ageDays": 18.4,
+   "ageDays": 18.9,
    "search": null
   },
   {
@@ -1685,7 +1657,7 @@
    "avgPct": 23.81,
    "subs": 0.0,
    "durationSec": 385,
-   "ageDays": 17.7,
+   "ageDays": 18.2,
    "search": null
   },
   {
@@ -1704,7 +1676,7 @@
    "avgPct": 54.15,
    "subs": 1.0,
    "durationSec": 44,
-   "ageDays": 17.6,
+   "ageDays": 18.1,
    "search": null
   },
   {
@@ -1723,7 +1695,7 @@
    "avgPct": 82.81,
    "subs": 2.0,
    "durationSec": 42,
-   "ageDays": 17.4,
+   "ageDays": 17.9,
    "search": null
   },
   {
@@ -1742,7 +1714,7 @@
    "avgPct": 58.37,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 16.6,
+   "ageDays": 17.1,
    "search": null
   },
   {
@@ -1761,7 +1733,7 @@
    "avgPct": 29.82,
    "subs": 0.0,
    "durationSec": 402,
-   "ageDays": 16.7,
+   "ageDays": 17.2,
    "search": null
   },
   {
@@ -1780,7 +1752,7 @@
    "avgPct": 65.07,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 16.4,
+   "ageDays": 16.9,
    "search": null
   },
   {
@@ -1799,7 +1771,7 @@
    "avgPct": 18.69,
    "subs": 0.0,
    "durationSec": 380,
-   "ageDays": 15.7,
+   "ageDays": 16.2,
    "search": null
   },
   {
@@ -1818,7 +1790,7 @@
    "avgPct": 47.55,
    "subs": 0.0,
    "durationSec": 48,
-   "ageDays": 15.6,
+   "ageDays": 16.1,
    "search": null
   },
   {
@@ -1837,7 +1809,7 @@
    "avgPct": 64.79,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 15.4,
+   "ageDays": 15.9,
    "search": null
   },
   {
@@ -1856,7 +1828,7 @@
    "avgPct": 81.43,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 14.4,
+   "ageDays": 14.9,
    "search": null
   },
   {
@@ -1875,7 +1847,7 @@
    "avgPct": 34.52,
    "subs": 0.0,
    "durationSec": 219,
-   "ageDays": 14.7,
+   "ageDays": 15.2,
    "search": null
   },
   {
@@ -1894,7 +1866,7 @@
    "avgPct": 10.8,
    "subs": 0.0,
    "durationSec": 404,
-   "ageDays": 12.7,
+   "ageDays": 13.2,
    "search": null
   },
   {
@@ -1913,7 +1885,7 @@
    "avgPct": 52.51,
    "subs": 5.0,
    "durationSec": 48,
-   "ageDays": 14.6,
+   "ageDays": 15.1,
    "search": null
   },
   {
@@ -1932,7 +1904,7 @@
    "avgPct": 20.9,
    "subs": 0.0,
    "durationSec": 424,
-   "ageDays": 10.7,
+   "ageDays": 11.2,
    "search": null
   },
   {
@@ -1951,7 +1923,7 @@
    "avgPct": 55.99000000000001,
    "subs": 0.0,
    "durationSec": 54,
-   "ageDays": 13.6,
+   "ageDays": 14.1,
    "search": null
   },
   {
@@ -1970,7 +1942,7 @@
    "avgPct": 57.00999999999999,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 13.4,
+   "ageDays": 13.9,
    "search": null
   },
   {
@@ -1989,7 +1961,7 @@
    "avgPct": 38.46,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 12.4,
+   "ageDays": 12.9,
    "search": null
   },
   {
@@ -2008,7 +1980,7 @@
    "avgPct": 56.720000000000006,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 12.6,
+   "ageDays": 13.1,
    "search": null
   },
   {
@@ -2027,7 +1999,7 @@
    "avgPct": 39.93,
    "subs": 0.0,
    "durationSec": 58,
-   "ageDays": 11.6,
+   "ageDays": 12.1,
    "search": null
   },
   {
@@ -2046,7 +2018,7 @@
    "avgPct": 61.03000000000001,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 11.4,
+   "ageDays": 11.9,
    "search": null
   },
   {
@@ -2065,7 +2037,7 @@
    "avgPct": 74.1,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 10.4,
+   "ageDays": 10.9,
    "search": null
   },
   {
@@ -2084,7 +2056,7 @@
    "avgPct": 45.92,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 10.6,
+   "ageDays": 11.1,
    "search": null
   },
   {
@@ -2103,7 +2075,7 @@
    "avgPct": 43.16,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 9.6,
+   "ageDays": 10.1,
    "search": null
   },
   {
@@ -2122,7 +2094,7 @@
    "avgPct": 47.8,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 9.4,
+   "ageDays": 9.9,
    "search": null
   },
   {
@@ -2141,7 +2113,7 @@
    "avgPct": 33.6,
    "subs": 0.0,
    "durationSec": 56,
-   "ageDays": 8.6,
+   "ageDays": 9.1,
    "search": null
   },
   {
@@ -2160,7 +2132,7 @@
    "avgPct": 60.58,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 8.4,
+   "ageDays": 8.9,
    "search": null
   },
   {
@@ -2179,7 +2151,7 @@
    "avgPct": 31.879999999999995,
    "subs": 2.0,
    "durationSec": 217,
-   "ageDays": 7.7,
+   "ageDays": 8.2,
    "search": null
   },
   {
@@ -2198,7 +2170,7 @@
    "avgPct": 80.64,
    "subs": 0.0,
    "durationSec": 58,
-   "ageDays": 7.6,
+   "ageDays": 8.1,
    "search": null
   },
   {
@@ -2217,7 +2189,7 @@
    "avgPct": 55.88999999999999,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 7.4,
+   "ageDays": 7.9,
    "search": null
   },
   {
@@ -2236,7 +2208,7 @@
    "avgPct": 71.39,
    "subs": 2.0,
    "durationSec": 38,
-   "ageDays": 6.6,
+   "ageDays": 7.1,
    "search": null
   },
   {
@@ -2255,7 +2227,7 @@
    "avgPct": 68.99,
    "subs": 1.0,
    "durationSec": 41,
-   "ageDays": 6.4,
+   "ageDays": 6.9,
    "search": null
   },
   {
@@ -2269,12 +2241,12 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "14:00",
-   "publicViews": 234.0,
+   "publicViews": 237.0,
    "engagedShare": 0.775,
    "avgPct": 11.74,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 5.5,
+   "ageDays": 6.0,
    "search": null
   },
   {
@@ -2293,7 +2265,7 @@
    "avgPct": 72.27,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 5.4,
+   "ageDays": 5.9,
    "search": 7
   },
   {
@@ -2312,8 +2284,8 @@
    "avgPct": 62.06,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 5.6,
-   "search": 34
+   "ageDays": 6.0,
+   "search": null
   },
   {
    "file": "2026-11-20-map-lie-4.json",
@@ -2331,7 +2303,7 @@
    "avgPct": 73.87,
    "subs": 1.0,
    "durationSec": 36,
-   "ageDays": 4.4,
+   "ageDays": 4.9,
    "search": 12
   },
   {
@@ -2345,12 +2317,12 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1016.0,
+   "publicViews": 1017.0,
    "engagedShare": 0.538,
    "avgPct": 60.84,
    "subs": 1.0,
    "durationSec": 44,
-   "ageDays": 4.6,
+   "ageDays": 5.1,
    "search": 13
   },
   {
@@ -2364,12 +2336,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 1009.0,
+   "publicViews": 1013.0,
    "engagedShare": 0.479,
    "avgPct": 74.71,
    "subs": 1.0,
    "durationSec": 36,
-   "ageDays": 3.4,
+   "ageDays": 3.9,
    "search": 24
   },
   {
@@ -2383,12 +2355,12 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1043.0,
+   "publicViews": 1046.0,
    "engagedShare": 0.599,
    "avgPct": 42.05,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 3.6,
+   "ageDays": 4.1,
    "search": 15
   },
   {
@@ -2407,7 +2379,7 @@
    "avgPct": 28.15,
    "subs": 0.0,
    "durationSec": 664,
-   "ageDays": 3.7,
+   "ageDays": 4.2,
    "search": null
   },
   {
@@ -2421,12 +2393,12 @@
    "layout": "comic",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 3778.0,
+   "publicViews": 3806.0,
    "engagedShare": 0.562,
    "avgPct": 83.63,
    "subs": 19.0,
    "durationSec": 34,
-   "ageDays": 2.6,
+   "ageDays": 3.1,
    "search": 146
   },
   {
@@ -2445,8 +2417,27 @@
    "avgPct": 79.11,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 2.4,
+   "ageDays": 2.9,
    "search": 18
+  },
+  {
+   "file": "2026-11-23-flag-duel-2.json",
+   "id": "flag-duel-2",
+   "videoId": "76QnVBBPOc0",
+   "kind": "short",
+   "title": "Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts",
+   "format": "3 Fragen",
+   "topic": "–",
+   "layout": "comic",
+   "music": "game-show.wav",
+   "slot": "16:00",
+   "publicViews": 2645.0,
+   "engagedShare": null,
+   "avgPct": null,
+   "subs": null,
+   "durationSec": 34,
+   "ageDays": 2.1,
+   "search": null
   },
   {
    "file": "auto-2026-10-28-long.json",
@@ -2464,7 +2455,7 @@
    "avgPct": 3.42,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 28.4,
+   "ageDays": 28.8,
    "search": null
   },
   {
@@ -2483,7 +2474,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 28.4,
+   "ageDays": 28.9,
    "search": null
   },
   {
@@ -2502,7 +2493,7 @@
    "avgPct": 103.37,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 28.4,
+   "ageDays": 28.9,
    "search": null
   },
   {
@@ -2521,7 +2512,7 @@
    "avgPct": 120.85,
    "subs": 0.0,
    "durationSec": 8,
-   "ageDays": 27.6,
+   "ageDays": 28.1,
    "search": null
   },
   {
@@ -2540,7 +2531,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 26.5,
+   "ageDays": 27.0,
    "search": null
   },
   {
@@ -2559,7 +2550,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 26.5,
+   "ageDays": 27.0,
    "search": null
   },
   {
@@ -2578,7 +2569,7 @@
    "avgPct": 94.3,
    "subs": 0.0,
    "durationSec": 15,
-   "ageDays": 26.4,
+   "ageDays": 26.9,
    "search": null
   }
  ]
