@@ -1,9 +1,9 @@
 {
  "id": "plotmelt",
  "name": "PlotMelt",
- "checked": "2026-11-24",
+ "checked": "2026-11-25",
  "subs": 1,
- "views": 5,
+ "views": 1121,
  "videos": [
   {
    "id": "S3xQkO6V9wk",
@@ -21,7 +21,13 @@
    "seconds": 19,
    "views": 1105,
    "likes": 17,
-   "comments": 0
+   "comments": 0,
+   "a_views": 2,
+   "engaged": 1,
+   "avgPct": 97.9,
+   "avgSec": 18,
+   "subs": 0,
+   "stayed": 50.0
   },
   {
    "id": "l9zaJ9YEhOE",
