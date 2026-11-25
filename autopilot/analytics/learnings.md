@@ -778,3 +778,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 ## 2026-11-24 23:20 – Flag Duel #1 Retention-Kurve (Besitzer-Screenshot)
 - flag-duel-1 n. ≈55 h: 3.797 Views, +18 Abos, 62,0 % stayed, 88 Likes. Kurve startet bei ≈120 % (Wiederholungen), hält bis ≈0:29 bei ≈90 % und **fällt in den letzten ≈3 s auf ≈20 %**. Dort steht die Schlusskarte „How many did you get?“ (2,2 s).
 - Fix: `timing.outro` (atlas_voice.py, Standard 2,2 s) für Flag Duel / Real or Fake auf **0,6 s**. Das Video endet direkt nach der letzten Auflösung und dem kurzen CTA, damit es nahtlos in den Loop geht. flag-duel-4, real-fake-flag-1/2 sind schon umgestellt; neue Folgen immer mit `"outro": 0.6`.
+
+## 2026-11-25 – Research
+- Abos 43 → 53 in ≈22 h (50er-Marke); Analytics gesamt 45 Abos / 38.162 Views = 1,18 pro 1.000 (Vortag 0,72). Flag Duel ≈6,9/1k (#1 3.717 Views/+19), Longs ≈3,1, übrige Shorts ≈0,7, Karten-VS 0,37 nach 8 Folgen → Streichung bestätigt.
+- Flag Duel #2 2.417, #3 988 n. 6 h (#2: 1.155 n. 6,5 h) → Kurs gehalten; täglich ab 28.11.
+- vidIQ (Flag-Shorts diese Woche): Globonk „Can You Find The Real Grenada Flag?“ 48,8k (0:25), WonderQ „One Flag Is a Total Fake!“ 31k, Ballandia „Missing Symbol Part 3“ 95k, ThinkBop „Which One Is INDONESIA?“ 14,6k → Ländername im Titel ab Real or Fake #4 / Flag Duel #5.
+- vidIQ (Long-Rätsel Nov.): „Can You Solve These 10 Tricky Riddles? Only a Genius Can Pass“ 27,8k/152× (5:45) → Rätsel-Long #3 Sa 28.11. mit 10 Rätseln.
+- Long-Zähler startet oft bei 0 (Rätsel-Long #2 0 n. 8 h, Thanksgiving 0 n. 5 h) → Longs frühestens n. 48 h beurteilen. Kommentare 3/3 beantwortet (23 gesamt), kein Faktenfehler.
