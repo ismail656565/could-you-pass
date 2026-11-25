@@ -208,7 +208,7 @@ export const MomDad: React.FC<MomDadStory> = (story) => {
     <AbsoluteFill style={{backgroundColor: C.wall}}>
       {story.hook.end > 0.05 ? (
         <Sequence from={0} durationInFrames={Math.max(1, f(story.hook.end))} name="Hook">
-          <MomDadScene r={{...story.rounds[0], start: 0, thinkStart: 1e9, reveal: 1e9, end: story.hook.end}} index={0} story={story} />
+          <MomDadScene r={{...story.rounds[0], start: 0, thinkStart: 1e9, reveal: 1e9 + 1, end: story.hook.end}} index={0} story={story} />
         </Sequence>
       ) : null}
       {story.rounds.map((r, i) => (
