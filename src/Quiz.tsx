@@ -3,6 +3,7 @@ import {AbsoluteFill, Audio, Img, Sequence, interpolate, random, spring, staticF
 import {loadFont} from '@remotion/google-fonts/Montserrat';
 import {NeonScene} from './QuizNeon';
 import {TvScene, CompareScene} from './QuizTV';
+import {ExamShortScene, ExamShortOutro} from './QuizExamShort';
 import {QuizMascot, type MascotSetting} from './components/Mascot';
 import {StickScene, StickCompareScene, StickHostOverlay, StickOutro, K as STICK} from './QuizStick';
 import {AtlasScene, AtlasCompareScene, AtlasOutro, AtlasGrain} from './QuizAtlas';
@@ -706,12 +707,12 @@ export const Quiz: React.FC<QuizStory> = (story) => {
     <AbsoluteFill style={{backgroundColor: story.layout === 'atlas' ? '#F1EADB' : story.layout === 'stick' ? STICK.paper : story.layout === 'tvshow' ? '#14213D' : story.layout === 'neon' ? '#07000F' : story.bg ?? C.yellow, overflow: 'hidden'}}>
       {story.questions.map((q, i) => (
         <Sequence key={i} from={f(q.start)} durationInFrames={Math.max(1, f(q.end) - f(q.start))} name={`Frage ${i + 1}`}>
-          {story.layout === 'pop' && !(q.values && q.answers.length === 2) ? <PopScene q={q} index={i} total={total} story={story} /> : story.layout === 'atlas' ? (q.values && q.answers.length === 2 ? <AtlasCompareScene q={q} index={i} total={total} story={story} /> : <AtlasScene q={q} index={i} total={total} story={story} />) : q.values && q.answers.length === 2 && story.layout === 'stick' ? <StickCompareScene q={q} index={i} total={total} story={story} /> : q.values && q.answers.length === 2 ? <CompareScene q={q} index={i} total={total} story={story} /> : story.layout === 'stick' ? <StickScene q={q} index={i} total={total} story={story} /> : story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
+          {story.layout === 'exam' ? <ExamShortScene q={q} index={i} total={total} story={story} /> : story.layout === 'pop' && !(q.values && q.answers.length === 2) ? <PopScene q={q} index={i} total={total} story={story} /> : story.layout === 'atlas' ? (q.values && q.answers.length === 2 ? <AtlasCompareScene q={q} index={i} total={total} story={story} /> : <AtlasScene q={q} index={i} total={total} story={story} />) : q.values && q.answers.length === 2 && story.layout === 'stick' ? <StickCompareScene q={q} index={i} total={total} story={story} /> : q.values && q.answers.length === 2 ? <CompareScene q={q} index={i} total={total} story={story} /> : story.layout === 'stick' ? <StickScene q={q} index={i} total={total} story={story} /> : story.layout === 'tvshow' ? <TvScene q={q} index={i} total={total} story={story} /> : story.layout === 'neon' ? <NeonScene q={q} index={i} total={total} story={story} /> : <QuestionScene q={q} index={i} total={total} story={story} />}
         </Sequence>
       ))}
       {hasOutro ? (
         <Sequence from={f(story.outroStart)} name="Outro">
-          {story.layout === 'pop' ? <PopOutro story={story} /> : story.layout === 'atlas' ? <AtlasOutro story={story} /> : story.layout === 'stick' ? <StickOutro story={story} /> : <Outro story={story} />}
+          {story.layout === 'exam' ? <ExamShortOutro story={story} /> : story.layout === 'pop' ? <PopOutro story={story} /> : story.layout === 'atlas' ? <AtlasOutro story={story} /> : story.layout === 'stick' ? <StickOutro story={story} /> : <Outro story={story} />}
         </Sequence>
       ) : null}
       {story.layout === 'atlas' ? <AtlasGrain /> : null}

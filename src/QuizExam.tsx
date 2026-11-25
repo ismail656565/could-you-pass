@@ -79,7 +79,7 @@ const Sheet: React.FC<{story: QuizStory; children?: React.ReactNode; style?: Rea
 );
 
 /** Schlüsselwort mit gelbem Textmarker, der beim gesprochenen Wort drübergezogen wird */
-const Marked: React.FC<{text: string; at?: number}> = ({text, at}) => {
+export const Marked: React.FC<{text: string; at?: number}> = ({text, at}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const sweep = at == null ? 1 : interpolate(frame - Math.round(at * fps), [0, 8], [0, 1], clamp);
@@ -99,12 +99,12 @@ const Marked: React.FC<{text: string; at?: number}> = ({text, at}) => {
 };
 
 /** Handgezogene Linie (leicht zittrig) als SVG-Pfad mit Zeichen-Animation */
-const Drawn: React.FC<{d: string; p: number; color?: string; width?: number; len?: number}> = ({d, p, color = K.redPen, width = 9, len = 1400}) => (
+export const Drawn: React.FC<{d: string; p: number; color?: string; width?: number; len?: number}> = ({d, p, color = K.redPen, width = 9, len = 1400}) => (
   <path d={d} fill="none" stroke={color} strokeWidth={width} strokeLinecap="round" strokeLinejoin="round" strokeDasharray={len} strokeDashoffset={len * (1 - p)} />
 );
 
 /** Bleistift (Spitze im Ursprung, Körper nach rechts) */
-const Pencil: React.FC<{x: number; y: number; angle: number}> = ({x, y, angle}) => (
+export const Pencil: React.FC<{x: number; y: number; angle: number}> = ({x, y, angle}) => (
   <div style={{position: 'absolute', left: x, top: y - 18, width: 400, height: 36, transformOrigin: '0px 18px', transform: `rotate(${angle}deg)`, filter: 'drop-shadow(6px 10px 6px rgba(30,15,5,0.4))'}}>
     <svg width={400} height={36} viewBox="0 0 400 36">
       <path d="M0 18 L52 2 L52 34 Z" fill="#E9C893" />
