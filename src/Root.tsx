@@ -14,6 +14,8 @@ import {FlagDuel, type FlagDuelStory} from './FlagDuel';
 import flagDuel from '../stories/flag-duel-1.json';
 import {FlagBlitz, FlagBlitzThumb, type FlagBlitzStory} from './FlagBlitz';
 import flagBlitzDemo from '../stories/flag-blitz-demo.json';
+import {MomDad, type MomDadStory} from './MomDad';
+import momDadDemo from '../stories/mom-or-dad-demo.json';
 
 export const FPS = 30;
 
@@ -119,6 +121,18 @@ export const RemotionRoot: React.FC = () => {
       })}
     />
     <Composition id="FlagBlitzThumb" component={FlagBlitzThumb} width={1280} height={720} fps={FPS} durationInFrames={1} defaultProps={flagBlitzDemo as unknown as FlagBlitzStory} />
+    <Composition
+      id="MomDad"
+      component={MomDad}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={Math.ceil(((momDadDemo as unknown as MomDadStory).durationInSeconds || 30) * FPS)}
+      defaultProps={momDadDemo as unknown as MomDadStory}
+      calculateMetadata={({props}) => ({
+        durationInFrames: Math.ceil(props.durationInSeconds * FPS),
+      })}
+    />
     </>
   );
 };

@@ -1,0 +1,87 @@
+{
+ "id": "mom-or-dad-demo",
+ "type": "momdad",
+ "title": "Mom or Dad? #1",
+ "episode": 1,
+ "hookLine": "Mom or dad? Be honest!",
+ "timing": {
+  "think": 2.4,
+  "move": 0.0,
+  "tail": 0.1,
+  "outro": 0.4
+ },
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.07,
+ "rounds": [
+  {
+   "q": "burn the toast",
+   "emoji": "🍞",
+   "lines": {
+    "q": "Who's most likely to burn the toast?",
+    "a": "Be honest!"
+   },
+   "start": 1.74,
+   "qAudio": "audio/mom-or-dad-demo/q1.mp3",
+   "aAudio": "audio/mom-or-dad-demo/a1.mp3",
+   "thinkStart": 3.64,
+   "reveal": 6.04,
+   "moveEnd": 6.04,
+   "aStart": 6.59,
+   "end": 7.74
+  },
+  {
+   "q": "lose the car keys",
+   "emoji": "🔑",
+   "lines": {
+    "q": "Lose the car keys?",
+    "a": "Every single time."
+   },
+   "start": 7.74,
+   "qAudio": "audio/mom-or-dad-demo/q2.mp3",
+   "aAudio": "audio/mom-or-dad-demo/a2.mp3",
+   "thinkStart": 9.09,
+   "reveal": 11.49,
+   "moveEnd": 11.49,
+   "aStart": 12.04,
+   "end": 13.29
+  },
+  {
+   "q": "cry at a sad movie",
+   "emoji": "😭",
+   "lines": {
+    "q": "Cry at a sad movie?",
+    "a": "Hmm…"
+   },
+   "start": 13.29,
+   "qAudio": "audio/mom-or-dad-demo/q3.mp3",
+   "aAudio": "audio/mom-or-dad-demo/a3.mp3",
+   "thinkStart": 14.64,
+   "reveal": 17.04,
+   "moveEnd": 17.04,
+   "aStart": 17.59,
+   "end": 18.74
+  },
+  {
+   "q": "get lost without GPS",
+   "emoji": "🗺️",
+   "lines": {
+    "q": "Get lost without GPS?",
+    "a": "Follow for part two!"
+   },
+   "start": 18.74,
+   "qAudio": "audio/mom-or-dad-demo/q4.mp3",
+   "aAudio": "audio/mom-or-dad-demo/a4.mp3",
+   "thinkStart": 20.49,
+   "reveal": 22.89,
+   "moveEnd": 22.89,
+   "aStart": 23.44,
+   "end": 25.09
+  }
+ ],
+ "hook": {
+  "audio": "audio/mom-or-dad-demo/hook.mp3",
+  "start": 0.0,
+  "end": 1.74
+ },
+ "durationInSeconds": 25.09
+}
