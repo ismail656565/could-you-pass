@@ -65,10 +65,18 @@ def torn(w, h, seed, col=(238, 228, 205), jag=7):
 
 def card(text, font='Cinzel-700', size=100, seed=0, paper=(238, 228, 205), ink=(26, 22, 18), pad=(34, 18), tape=True):
     f = F(font, size)
-    bb = f.getbbox(text)
+    if '\n' in text:   # multi-line caption card (e.g. meme-style top caption), centred lines
+        d0 = ImageDraw.Draw(Image.new('L', (8, 8)))
+        bb = [int(round(v)) for v in d0.multiline_textbbox((0, 0), text, font=f, spacing=int(size * 0.22), align='center')]
+    else:
+        bb = f.getbbox(text)
     w, h = bb[2] - bb[0] + 2 * pad[0], bb[3] - bb[1] + 2 * pad[1]
     im = torn(w, h, seed, paper)
-    ImageDraw.Draw(im).text((20 + pad[0] - bb[0], 20 + pad[1] - bb[1]), text, font=f, fill=ink)
+    if '\n' in text:
+        ImageDraw.Draw(im).multiline_text((20 + pad[0] - bb[0], 20 + pad[1] - bb[1]), text, font=f, fill=ink,
+                                          spacing=int(size * 0.22), align='center')
+    else:
+        ImageDraw.Draw(im).text((20 + pad[0] - bb[0], 20 + pad[1] - bb[1]), text, font=f, fill=ink)
     if tape:
         tp = Image.new('RGBA', (110, 34), (232, 222, 170, 150)).rotate(-8, expand=True)
         im.alpha_composite(tp, (int(w * 0.5 - 30), 4))
@@ -129,7 +137,8 @@ class Film:
         self.keys.sort(key=lambda k: k[0])
         self.cards = [dict(c, t_in=self.cue(c['at']), t_out=self.cue(c.get('until', 'END')),
                            img=card(c['text'], c.get('font', 'Cinzel-700'), c.get('size', 100), seed=i * 7 + 3,
-                                    paper=tuple(c.get('paper', (238, 228, 205))), ink=tuple(c.get('ink', (26, 22, 18)))))
+                                    paper=tuple(c.get('paper', (238, 228, 205))), ink=tuple(c.get('ink', (26, 22, 18))),
+                                    tape=c.get('tape', True)))
                       for i, c in enumerate(ep.get('cards', []))]
         self.stamps = [dict(s, t=self.cue(s['at']), img=stamp(s['text'], s.get('size', 82), tuple(s.get('color', (160, 32, 24))), i + 5))
                        for i, s in enumerate(ep.get('stamps', []))]
