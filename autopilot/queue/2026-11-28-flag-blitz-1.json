@@ -1,0 +1,943 @@
+{
+ "id": "flag-blitz-1",
+ "publishAt": "14:00",
+ "format": "long",
+ "youtube": {
+  "title": "Guess the Flag in 3 Seconds 🌍 100 Flags – Easy to Impossible",
+  "description": "Guess the flag in 3 seconds! 100 flags from EASY to IMPOSSIBLE 🌍\nKeep score and comment your result 👇\n\nNew flag quiz every day – subscribe!\n\n#flagquiz #guesstheflag #geography #quiz #flags\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "guess the flag",
+   "flag quiz",
+   "guess the flag in 3 seconds",
+   "flags of the world",
+   "geography quiz",
+   "country flags",
+   "flag quiz easy to impossible",
+   "quiz"
+  ],
+  "comment": "What was your score out of 100? Which flag got you? 👇"
+ },
+ "story": {
+  "id": "flag-blitz-1",
+  "type": "flagblitz",
+  "format": "long",
+  "title": "Guess the Flag in 3 Seconds – 100 Flags",
+  "hookLine": "Guess the flag in three seconds! 100 flags, from easy to impossible. Keep score, and subscribe for a new flag quiz every day. Let's go!",
+  "outroLine": "How many did you get out of 100? Comment your score, and follow for more flag quizzes!",
+  "outroHold": 5.0,
+  "timing": {
+   "think": 3.0,
+   "move": 0.4,
+   "tail": 0.25
+  },
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.06,
+  "rounds": [
+   {
+    "level": "EASY",
+    "flag": "ie",
+    "name": "Ireland",
+    "lines": {
+     "q": "Level one. Easy. What country is this?",
+     "a": "Ireland."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "mx",
+    "name": "Mexico",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Mexico."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "es",
+    "name": "Spain",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Spain."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "it",
+    "name": "Italy",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Italy."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "no",
+    "name": "Norway",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Norway."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "fr",
+    "name": "France",
+    "lines": {
+     "q": "Quick!",
+     "a": "France."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "gb",
+    "name": "United Kingdom",
+    "lines": {
+     "q": "Quick!",
+     "a": "United Kingdom."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "pt",
+    "name": "Portugal",
+    "lines": {
+     "q": "Which country?",
+     "a": "Portugal."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "us",
+    "name": "USA",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "The U S A."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "br",
+    "name": "Brazil",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "Brazil."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "ch",
+    "name": "Switzerland",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Switzerland."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "au",
+    "name": "Australia",
+    "lines": {
+     "q": "What country is this?",
+     "a": "Australia."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "in",
+    "name": "India",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "India."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "za",
+    "name": "South Africa",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "South Africa."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "ar",
+    "name": "Argentina",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Argentina."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "cn",
+    "name": "China",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "China."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "se",
+    "name": "Sweden",
+    "lines": {
+     "q": "Quick!",
+     "a": "Sweden."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "jm",
+    "name": "Jamaica",
+    "lines": {
+     "q": "Quick!",
+     "a": "Jamaica."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "jp",
+    "name": "Japan",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "Japan."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "kr",
+    "name": "South Korea",
+    "lines": {
+     "q": "Which country?",
+     "a": "South Korea."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "gr",
+    "name": "Greece",
+    "lines": {
+     "q": "What country is this?",
+     "a": "Greece."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "de",
+    "name": "Germany",
+    "lines": {
+     "q": "Which country?",
+     "a": "Germany."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "eg",
+    "name": "Egypt",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Egypt."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "ca",
+    "name": "Canada",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "Canada."
+    }
+   },
+   {
+    "level": "EASY",
+    "flag": "tr",
+    "name": "Turkey",
+    "lines": {
+     "q": "Quick!",
+     "a": "Turkey."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "sa",
+    "name": "Saudi Arabia",
+    "lines": {
+     "q": "Level two. Medium. Do you know this one?",
+     "a": "Saudi Arabia."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "sg",
+    "name": "Singapore",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Singapore."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "pk",
+    "name": "Pakistan",
+    "lines": {
+     "q": "Got it?",
+     "a": "Pakistan."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "th",
+    "name": "Thailand",
+    "lines": {
+     "q": "Which country?",
+     "a": "Thailand."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "fi",
+    "name": "Finland",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Finland."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "ae",
+    "name": "UAE",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "The U A E."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "my",
+    "name": "Malaysia",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Malaysia."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "ph",
+    "name": "Philippines",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "Philippines."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "be",
+    "name": "Belgium",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "Belgium."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "ng",
+    "name": "Nigeria",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Nigeria."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "co",
+    "name": "Colombia",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Colombia."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "ke",
+    "name": "Kenya",
+    "lines": {
+     "q": "What country is this?",
+     "a": "Kenya."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "cu",
+    "name": "Cuba",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "Cuba."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "cl",
+    "name": "Chile",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Chile."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "pl",
+    "name": "Poland",
+    "lines": {
+     "q": "Quick!",
+     "a": "Poland."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "hu",
+    "name": "Hungary",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Hungary."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "id",
+    "name": "Indonesia",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Indonesia."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "dk",
+    "name": "Denmark",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Denmark."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "cz",
+    "name": "Czechia",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Czechia."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "is",
+    "name": "Iceland",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Iceland."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "hr",
+    "name": "Croatia",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "Croatia."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "pe",
+    "name": "Peru",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "Peru."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "nz",
+    "name": "New Zealand",
+    "lines": {
+     "q": "Which country?",
+     "a": "New Zealand."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "ma",
+    "name": "Morocco",
+    "lines": {
+     "q": "What country is this?",
+     "a": "Morocco."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "flag": "at",
+    "name": "Austria",
+    "lines": {
+     "q": "Quick!",
+     "a": "Austria."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "uz",
+    "name": "Uzbekistan",
+    "lines": {
+     "q": "Level three. Hard. Which flag is this?",
+     "a": "Uzbekistan."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "kz",
+    "name": "Kazakhstan",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Kazakhstan."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "mn",
+    "name": "Mongolia",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Mongolia."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "np",
+    "name": "Nepal",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Nepal."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "ro",
+    "name": "Romania",
+    "lines": {
+     "q": "Got it?",
+     "a": "Romania."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "sn",
+    "name": "Senegal",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Senegal."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "ec",
+    "name": "Ecuador",
+    "lines": {
+     "q": "What country is this?",
+     "a": "Ecuador."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "sk",
+    "name": "Slovakia",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Slovakia."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "lk",
+    "name": "Sri Lanka",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Sri Lanka."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "qa",
+    "name": "Qatar",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "Qatar."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "al",
+    "name": "Albania",
+    "lines": {
+     "q": "Which country?",
+     "a": "Albania."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "dz",
+    "name": "Algeria",
+    "lines": {
+     "q": "What country is this?",
+     "a": "Algeria."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "am",
+    "name": "Armenia",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "Armenia."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "lv",
+    "name": "Latvia",
+    "lines": {
+     "q": "What country is this?",
+     "a": "Latvia."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "py",
+    "name": "Paraguay",
+    "lines": {
+     "q": "Which country?",
+     "a": "Paraguay."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "ge",
+    "name": "Georgia",
+    "lines": {
+     "q": "Got it?",
+     "a": "Georgia."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "ci",
+    "name": "Ivory Coast",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "Ivory Coast."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "uy",
+    "name": "Uruguay",
+    "lines": {
+     "q": "Got it?",
+     "a": "Uruguay."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "mk",
+    "name": "North Macedonia",
+    "lines": {
+     "q": "Too easy?",
+     "a": "North Macedonia."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "tn",
+    "name": "Tunisia",
+    "lines": {
+     "q": "Got it?",
+     "a": "Tunisia."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "ba",
+    "name": "Bosnia",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "Bosnia and Herzegovina."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "lt",
+    "name": "Lithuania",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Lithuania."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "ee",
+    "name": "Estonia",
+    "lines": {
+     "q": "Name this flag.",
+     "a": "Estonia."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "gh",
+    "name": "Ghana",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "Ghana."
+    }
+   },
+   {
+    "level": "HARD",
+    "flag": "si",
+    "name": "Slovenia",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Slovenia."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "fm",
+    "name": "Micronesia",
+    "lines": {
+     "q": "Final level. Impossible! What country is this?",
+     "a": "Micronesia."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "gd",
+    "name": "Grenada",
+    "lines": {
+     "q": "Which flag is this?",
+     "a": "Grenada."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "gq",
+    "name": "Equatorial Guinea",
+    "lines": {
+     "q": "Which country?",
+     "a": "Equatorial Guinea."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "lc",
+    "name": "Saint Lucia",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Saint Lucia."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "vc",
+    "name": "Saint Vincent",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Saint Vincent and the Grenadines."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "ls",
+    "name": "Lesotho",
+    "lines": {
+     "q": "Which country?",
+     "a": "Lesotho."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "mr",
+    "name": "Mauritania",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Mauritania."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "cf",
+    "name": "Central African Rep.",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Central African Republic."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "ws",
+    "name": "Samoa",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Samoa."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "bt",
+    "name": "Bhutan",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Bhutan."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "ki",
+    "name": "Kiribati",
+    "lines": {
+     "q": "Do you know this one?",
+     "a": "Kiribati."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "kn",
+    "name": "Saint Kitts and Nevis",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Saint Kitts and Nevis."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "mh",
+    "name": "Marshall Islands",
+    "lines": {
+     "q": "What country is this?",
+     "a": "Marshall Islands."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "sb",
+    "name": "Solomon Islands",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Solomon Islands."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "nr",
+    "name": "Nauru",
+    "lines": {
+     "q": "Got it?",
+     "a": "Nauru."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "tl",
+    "name": "East Timor",
+    "lines": {
+     "q": "Quick!",
+     "a": "East Timor."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "bf",
+    "name": "Burkina Faso",
+    "lines": {
+     "q": "Quick!",
+     "a": "Burkina Faso."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "er",
+    "name": "Eritrea",
+    "lines": {
+     "q": "Quick!",
+     "a": "Eritrea."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "to",
+    "name": "Tonga",
+    "lines": {
+     "q": "Which country?",
+     "a": "Tonga."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "st",
+    "name": "São Tomé",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Sao Tome and Principe."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "tv",
+    "name": "Tuvalu",
+    "lines": {
+     "q": "Got it?",
+     "a": "Tuvalu."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "pw",
+    "name": "Palau",
+    "lines": {
+     "q": "Too easy?",
+     "a": "Palau."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "km",
+    "name": "Comoros",
+    "lines": {
+     "q": "Got it?",
+     "a": "Comoros."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "dm",
+    "name": "Dominica",
+    "lines": {
+     "q": "Think fast!",
+     "a": "Dominica."
+    }
+   },
+   {
+    "level": "IMPOSSIBLE",
+    "flag": "sc",
+    "name": "Seychelles",
+    "lines": {
+     "q": "Look closely.",
+     "a": "Seychelles."
+    }
+   }
+  ],
+  "thumbTexts": [
+   "GUESS THE **FLAG**",
+   "IN **3** SECONDS",
+   "CAN YOU GET 80?"
+  ]
+ }
+}

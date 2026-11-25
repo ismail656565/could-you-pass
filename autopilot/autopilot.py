@@ -448,7 +448,7 @@ def with_chapters(item, desc):
         return desc
     fmt = lambda t: f"{int(t // 60)}:{int(t % 60):02d}"
     ch, last = [], None
-    unit = 'Round' if story.get('type') == 'truesize' else 'Question'
+    unit = 'Round' if story.get('type') == 'truesize' else 'Flag' if story.get('type') == 'flagblitz' else 'Question'
     for i, q in enumerate(story.get('questions') or story.get('rounds') or []):
         lv = (q.get('level') or '').strip()
         if lv and lv != last:
@@ -933,11 +933,11 @@ def produce_one(p):
     log(f'Produziere {name} ({fmt_of(item)})')
     try:
         story = item['story']
-        if story.get('type') not in ('truesize', 'flagduel') and story.get('layout') != 'exam':
+        if story.get('type') not in ('truesize', 'flagduel', 'flagblitz') and story.get('layout') != 'exam':
             # Besitzer 25.11.: tvshow (und alle alten Quiz-Layouts) gelöscht – jedes Quiz läuft im Prüfungsbogen-Look
             log(f"Layout {story.get('layout') or 'comic'} ist abgeschaltet – nutze exam")
             story['layout'] = 'exam'
-        if story.get('type') in ('truesize', 'flagduel'):
+        if story.get('type') in ('truesize', 'flagduel', 'flagblitz'):
             # Karten-Short / Flaggen-Duell "The map is lying" (Komposition TrueSize): eigene Stimme/Zeitplan, keine Fragenliste
             import atlas_voice
             story['id'] = name
@@ -948,7 +948,7 @@ def produce_one(p):
         else:
             story['audio'] = f'audio/{name}.mp3'
             build_audio(item, ROOT / 'public' / 'audio' / f'{name}.mp3')
-        if story.get('type') in ('truesize', 'flagduel'):
+        if story.get('type') in ('truesize', 'flagduel', 'flagblitz'):
             pass
         elif story.get('layout') == 'stick':
             # 2D-Strichmännchen-Look: KI-Doodle-Clips von LTX statt echter B-Roll-Fotos
@@ -970,7 +970,17 @@ def produce_one(p):
             raise RuntimeError('Rendern fehlgeschlagen: ' + (r.stdout[-1500:] + r.stderr[-1500:]).replace('\n', ' | '))
         log('Gerendert')
         qa_check(mp4, item)
-        if story.get('type') == 'truesize' and story.get('format') == 'long':
+        if story.get('type') == 'flagblitz':
+            # Flaggen-Long: festes Vorschaubild (Flaggen-Collage + „GUESS THE FLAG IN 3 SECONDS“)
+            THUMBS.mkdir(exist_ok=True)
+            tf = THUMBS / f'{name}-A.jpg'
+            cmd = ['npx', 'remotion', 'still', 'FlagBlitzThumb', str(tf), f'--props=stories/{name}.json', '--jpeg-quality=90']
+            if os.environ.get('BROWSER_EXECUTABLE'):
+                cmd.append(f"--browser-executable={os.environ['BROWSER_EXECUTABLE']}")
+            subprocess.run(cmd, cwd=ROOT, shell=(os.name == 'nt'), capture_output=True, text=True)
+            if tf.exists():
+                item['_thumb'] = str(tf)
+        elif story.get('type') == 'truesize' and story.get('format') == 'long':
             # Karten-Long: ein festes Vorschaubild (Grönland in echter Größe auf Afrika), kein A/B/C-Test
             THUMBS.mkdir(exist_ok=True)
             tf = THUMBS / f'{name}-A.jpg'

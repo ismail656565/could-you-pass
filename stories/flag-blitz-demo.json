@@ -1,0 +1,305 @@
+{
+ "id": "flag-blitz-demo",
+ "type": "flagblitz",
+ "format": "long",
+ "title": "Guess the Flag in 3 Seconds – 16 Flags",
+ "hookLine": "Guess the flag in three seconds! 16 flags, from easy to impossible. Keep score, and subscribe for a new flag quiz every day. Let's go!",
+ "outroLine": "How many did you get out of 16? Comment your score, and follow for more flag quizzes!",
+ "outroHold": 5.0,
+ "timing": {
+  "think": 3.0,
+  "move": 0.4,
+  "tail": 0.25
+ },
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.06,
+ "rounds": [
+  {
+   "level": "EASY",
+   "flag": "ar",
+   "name": "Argentina",
+   "lines": {
+    "q": "Level one. Easy. Which flag is this?",
+    "a": "Argentina."
+   },
+   "start": 8.24,
+   "qAudio": "audio/flag-blitz-demo/q1.mp3",
+   "aAudio": "audio/flag-blitz-demo/a1.mp3",
+   "thinkStart": 10.51,
+   "reveal": 13.51,
+   "moveEnd": 13.91,
+   "aStart": 14.06,
+   "end": 15.76
+  },
+  {
+   "level": "EASY",
+   "flag": "no",
+   "name": "Norway",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Norway."
+   },
+   "start": 15.76,
+   "qAudio": "audio/flag-blitz-demo/q2.mp3",
+   "aAudio": "audio/flag-blitz-demo/a2.mp3",
+   "thinkStart": 16.67,
+   "reveal": 19.67,
+   "moveEnd": 20.07,
+   "aStart": 20.22,
+   "end": 21.92
+  },
+  {
+   "level": "EASY",
+   "flag": "ie",
+   "name": "Ireland",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "Ireland."
+   },
+   "start": 21.92,
+   "qAudio": "audio/flag-blitz-demo/q3.mp3",
+   "aAudio": "audio/flag-blitz-demo/a3.mp3",
+   "thinkStart": 23.06,
+   "reveal": 26.06,
+   "moveEnd": 26.46,
+   "aStart": 26.61,
+   "end": 28.31
+  },
+  {
+   "level": "EASY",
+   "flag": "it",
+   "name": "Italy",
+   "lines": {
+    "q": "Quick!",
+    "a": "Italy."
+   },
+   "start": 28.31,
+   "qAudio": "audio/flag-blitz-demo/q4.mp3",
+   "aAudio": "audio/flag-blitz-demo/a4.mp3",
+   "thinkStart": 29.01,
+   "reveal": 32.01,
+   "moveEnd": 32.41,
+   "aStart": 32.56,
+   "end": 34.26
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "ke",
+   "name": "Kenya",
+   "lines": {
+    "q": "Level two. Medium. Which country?",
+    "a": "Kenya."
+   },
+   "start": 34.26,
+   "qAudio": "audio/flag-blitz-demo/q5.mp3",
+   "aAudio": "audio/flag-blitz-demo/a5.mp3",
+   "thinkStart": 36.29,
+   "reveal": 39.29,
+   "moveEnd": 39.69,
+   "aStart": 39.84,
+   "end": 41.54
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "th",
+   "name": "Thailand",
+   "lines": {
+    "q": "Got it?",
+    "a": "Thailand."
+   },
+   "start": 41.54,
+   "qAudio": "audio/flag-blitz-demo/q6.mp3",
+   "aAudio": "audio/flag-blitz-demo/a6.mp3",
+   "thinkStart": 42.32,
+   "reveal": 45.32,
+   "moveEnd": 45.72,
+   "aStart": 45.87,
+   "end": 47.57
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "pe",
+   "name": "Peru",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Peru."
+   },
+   "start": 47.57,
+   "qAudio": "audio/flag-blitz-demo/q7.mp3",
+   "aAudio": "audio/flag-blitz-demo/a7.mp3",
+   "thinkStart": 48.64,
+   "reveal": 51.64,
+   "moveEnd": 52.04,
+   "aStart": 52.19,
+   "end": 53.89
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "cl",
+   "name": "Chile",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Chile."
+   },
+   "start": 53.89,
+   "qAudio": "audio/flag-blitz-demo/q8.mp3",
+   "aAudio": "audio/flag-blitz-demo/a8.mp3",
+   "thinkStart": 55.24,
+   "reveal": 58.24,
+   "moveEnd": 58.64,
+   "aStart": 58.79,
+   "end": 60.49
+  },
+  {
+   "level": "HARD",
+   "flag": "mn",
+   "name": "Mongolia",
+   "lines": {
+    "q": "Level three. Hard. Think fast!",
+    "a": "Mongolia."
+   },
+   "start": 60.49,
+   "qAudio": "audio/flag-blitz-demo/q9.mp3",
+   "aAudio": "audio/flag-blitz-demo/a9.mp3",
+   "thinkStart": 62.37,
+   "reveal": 65.37,
+   "moveEnd": 65.77,
+   "aStart": 65.92,
+   "end": 67.62
+  },
+  {
+   "level": "HARD",
+   "flag": "kz",
+   "name": "Kazakhstan",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Kazakhstan."
+   },
+   "start": 67.62,
+   "qAudio": "audio/flag-blitz-demo/q10.mp3",
+   "aAudio": "audio/flag-blitz-demo/a10.mp3",
+   "thinkStart": 68.69,
+   "reveal": 71.69,
+   "moveEnd": 72.09,
+   "aStart": 72.24,
+   "end": 73.94
+  },
+  {
+   "level": "HARD",
+   "flag": "al",
+   "name": "Albania",
+   "lines": {
+    "q": "Which country?",
+    "a": "Albania."
+   },
+   "start": 73.94,
+   "qAudio": "audio/flag-blitz-demo/q11.mp3",
+   "aAudio": "audio/flag-blitz-demo/a11.mp3",
+   "thinkStart": 74.98,
+   "reveal": 77.98,
+   "moveEnd": 78.38,
+   "aStart": 78.53,
+   "end": 80.23
+  },
+  {
+   "level": "HARD",
+   "flag": "am",
+   "name": "Armenia",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Armenia."
+   },
+   "start": 80.23,
+   "qAudio": "audio/flag-blitz-demo/q12.mp3",
+   "aAudio": "audio/flag-blitz-demo/a12.mp3",
+   "thinkStart": 81.3,
+   "reveal": 84.3,
+   "moveEnd": 84.7,
+   "aStart": 84.85,
+   "end": 86.55
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "mh",
+   "name": "Marshall Islands",
+   "lines": {
+    "q": "Final level. Impossible! Think fast!",
+    "a": "Marshall Islands."
+   },
+   "start": 86.55,
+   "qAudio": "audio/flag-blitz-demo/q13.mp3",
+   "aAudio": "audio/flag-blitz-demo/a13.mp3",
+   "thinkStart": 88.77,
+   "reveal": 91.77,
+   "moveEnd": 92.17,
+   "aStart": 92.32,
+   "end": 94.02
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "sz",
+   "name": "Eswatini",
+   "lines": {
+    "q": "Which country?",
+    "a": "Eswatini."
+   },
+   "start": 94.02,
+   "qAudio": "audio/flag-blitz-demo/q14.mp3",
+   "aAudio": "audio/flag-blitz-demo/a14.mp3",
+   "thinkStart": 95.06,
+   "reveal": 98.06,
+   "moveEnd": 98.46,
+   "aStart": 98.61,
+   "end": 100.31
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "km",
+   "name": "Comoros",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Comoros."
+   },
+   "start": 100.31,
+   "qAudio": "audio/flag-blitz-demo/q15.mp3",
+   "aAudio": "audio/flag-blitz-demo/a15.mp3",
+   "thinkStart": 101.22,
+   "reveal": 104.22,
+   "moveEnd": 104.62,
+   "aStart": 104.77,
+   "end": 106.47
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "sc",
+   "name": "Seychelles",
+   "lines": {
+    "q": "Which country?",
+    "a": "Seychelles."
+   },
+   "start": 106.47,
+   "qAudio": "audio/flag-blitz-demo/q16.mp3",
+   "aAudio": "audio/flag-blitz-demo/a16.mp3",
+   "thinkStart": 107.51,
+   "reveal": 110.51,
+   "moveEnd": 110.91,
+   "aStart": 111.06,
+   "end": 112.76
+  }
+ ],
+ "thumbTexts": [
+  "GUESS THE **FLAG**",
+  "IN **3** SECONDS",
+  "CAN YOU GET 80?"
+ ],
+ "hook": {
+  "audio": "audio/flag-blitz-demo/hook.mp3",
+  "start": 0.0,
+  "end": 8.24
+ },
+ "outro": {
+  "start": 112.76,
+  "audio": "audio/flag-blitz-demo/outro.mp3"
+ },
+ "durationInSeconds": 122.17
+}

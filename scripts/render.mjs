@@ -23,7 +23,8 @@ if (!story.durationInSeconds) problems.push('durationInSeconds fehlt');
 const isQuiz = story.type === 'quiz';
 const isAtlas = story.type === 'truesize';
 const isFlag = story.type === 'flagduel';
-if (isAtlas || isFlag) {
+const isBlitz = story.type === 'flagblitz';
+if (isAtlas || isFlag || isBlitz) {
   if (!Array.isArray(story.rounds) || story.rounds.length === 0) problems.push('keine Runden');
 } else if (isQuiz) {
   if (!Array.isArray(story.questions) || story.questions.length === 0) problems.push('keine Fragen');
@@ -46,7 +47,7 @@ if (missing.length) {
   console.warn(`Hinweis: ${missing.length} Datei(en) fehlen noch, dort erscheint ein Platzhalter:`);
   for (const m of missing) console.warn(`  - public/${m}`);
 }
-if (!isQuiz && !isAtlas && !isFlag && !story.captions?.length) console.warn('Hinweis: keine Whisper-Wörter – Untertitel-Timing wird nur geschätzt.');
+if (!isQuiz && !isAtlas && !isFlag && !isBlitz && !story.captions?.length) console.warn('Hinweis: keine Whisper-Wörter – Untertitel-Timing wird nur geschätzt.');
 
 mkdirSync('out', {recursive: true});
 const name = basename(path, extname(path));
@@ -56,7 +57,7 @@ const propsFile = `out/.props-${name}.json`;
 writeFileSync(propsFile, JSON.stringify(story));
 
 const result = spawnSync('npx', [
-  'remotion', 'render', isFlag ? 'FlagDuel' : isAtlas ? (story.format === 'long' ? 'TrueSizeLong' : 'TrueSize') : isQuiz ? (story.format === 'long' ? 'QuizLong' : 'Quiz') : story.look === 'motion' ? 'WildlyTrueMotion' : 'WildlyTrue', out, `--props=${propsFile}`,
+  'remotion', 'render', isBlitz ? 'FlagBlitz' : isFlag ? 'FlagDuel' : isAtlas ? (story.format === 'long' ? 'TrueSizeLong' : 'TrueSize') : isQuiz ? (story.format === 'long' ? 'QuizLong' : 'Quiz') : story.look === 'motion' ? 'WildlyTrueMotion' : 'WildlyTrue', out, `--props=${propsFile}`,
   // Speicher sparen: weniger parallele Frames und kleiner Video-Cache (sonst "memory allocation failed")
   `--concurrency=${process.env.RENDER_CONCURRENCY || 2}`,
   '--offthreadvideo-cache-size-in-bytes=536870912',

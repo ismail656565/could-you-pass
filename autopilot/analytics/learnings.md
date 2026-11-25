@@ -830,3 +830,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **Regeln für neue Longs:** ≤ 10 s pro Frage (Timer 3–5 s), ein großes Bild statt Text, sichtbare Schwierigkeitsleiter, Bildwechsel/Farbwechsel jede Frage, Intro ≤ 15 s mit Versprechen + Spielregel, 30–100 Fragen.
 - **Format-Idee Nr. 1:** „Guess the Flag in 3 Seconds – Easy to Impossible (100 Flags)“, Long mit unseren 270 Flaggen-SVGs im Flag-Duel-Look (einziges Gewinnerformat, „flag quiz“ ≈131k Suchen/Monat). Braucht einen neuen 16:9-Renderer.
 - vidIQ: nur noch 4 Credits übrig → keine vidIQ-Abfragen mehr, bis aufgeladen ist (Research nur per WebSearch).
+
+## 2026-11-25 20:30 – Neues Long-Format „Flag Blitz“ (Besitzer: „ja“ zur Referenz-Analyse)
+- story.type "flagblitz" (src/FlagBlitz.tsx, 16:9, Flag-Duel-Farben): großes Flaggenbild im Papierrahmen, 3-s-Balkentimer, Schwierigkeitsleiter links (EASY/MEDIUM/HARD/IMPOSSIBLE), Hintergrundfarbe wechselt jede Flagge, Level-Blende bei jedem Levelwechsel, Intro ≈ 8 s mit Versprechen + Abo-Bitte. Zeiten über atlas_voice.py (think 3.0) → ≈ 6,4 s pro Flagge, 100 Flaggen ≈ 11 min. Vorschaubild FlagBlitzThumb (Collage + „GUESS THE FLAG IN 3 SECONDS“).
+- Bauen: `python autopilot/make_flagblitz.py <id> <YYYY-MM-DD>` → Queue-Datei (14:00, 25 Flaggen pro Level; frische Flaggen zuerst; keine politisch umstrittenen Flaggen).
+- Sa 28.11. 14:00 = flag-blitz-1 (100 Flaggen) statt Rätsel #3 (→ queue/backlog/). Erfolg: ≥ 150 Views n. 3 T, Ø angesehen ≥ 25 %, ≥ 1 Abo.

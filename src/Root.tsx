@@ -12,6 +12,8 @@ import {TrueSize, TrueSizeThumb, type TrueSizeStory} from './TrueSize';
 import mapLie from '../stories/map-lie-1.json';
 import {FlagDuel, type FlagDuelStory} from './FlagDuel';
 import flagDuel from '../stories/flag-duel-1.json';
+import {FlagBlitz, FlagBlitzThumb, type FlagBlitzStory} from './FlagBlitz';
+import flagBlitzDemo from '../stories/flag-blitz-demo.json';
 
 export const FPS = 30;
 
@@ -104,6 +106,19 @@ export const RemotionRoot: React.FC = () => {
         durationInFrames: Math.ceil(props.durationInSeconds * FPS),
       })}
     />
+    <Composition
+      id="FlagBlitz"
+      component={FlagBlitz}
+      width={1920}
+      height={1080}
+      fps={FPS}
+      durationInFrames={Math.ceil((flagBlitzDemo as unknown as FlagBlitzStory).durationInSeconds * FPS)}
+      defaultProps={flagBlitzDemo as unknown as FlagBlitzStory}
+      calculateMetadata={({props}) => ({
+        durationInFrames: Math.ceil(props.durationInSeconds * FPS),
+      })}
+    />
+    <Composition id="FlagBlitzThumb" component={FlagBlitzThumb} width={1280} height={720} fps={FPS} durationInFrames={1} defaultProps={flagBlitzDemo as unknown as FlagBlitzStory} />
     </>
   );
 };
