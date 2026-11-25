@@ -1,4 +1,4 @@
-# Zuschauer-Kommentare – Stand 2026-11-25 17:59
+# Zuschauer-Kommentare – Stand 2026-11-25 18:37
 
 Letzte 21 Tage, ohne unsere eigenen. 35 Kommentare, 0 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
