@@ -78,3 +78,8 @@ Bandit 25.–28.11. (10 Slots): 7 Exploit (Flag Duel, Feiertage, Wunsch, Rätsel
 - Der Science-Short 27.11. liegt jetzt in queue/backlog/. Der Wunsch wird als exam-Long am Di 1.12. erfüllt („Science Quiz: 30 Questions – Can You Pass?“, B „CAN YOU GET **25/30**?“).
 - **Für den Produktions-Agenten (26.11.):** `2026-11-27-flag-duel-5.json` (16:00) anlegen und das bisherige 28.11.-Item zu #6 machen. Konkret: Flag Duel #5 = Paare aus dem jetzigen `2026-11-28-flag-duel-5.json` → Datei auf 27.11. umbenennen. Für 28.11. ein neues flag-duel-6 anlegen (Paare aus der Vorschau 29.11.: Denmark/Switzerland, Ghana/Cameroon, Egypt/Yemen, Niger/India), Schluss jeweils „Follow for number N+1!“. Danach täglich eine Folge.
 - Long Di 1.12.: science-quiz-30-1 (exam) anlegen, Fakten per WebSearch prüfen, Kommentar „You asked for it – science! 🔬“.
+
+## NACHTRAG 25.11. 11:30 – Besitzer gibt exam-Hochformat für Shorts frei („besser und kürzer“)
+- Nicht-Flaggen-Shorts ab jetzt `layout: "exam"`, ≤ 4 Fragen, ≤ 30 s (Regel in learnings.md).
+- queue/backlog/six-q-science-trivia.json: Wenn er wieder eingeplant wird, dann auf exam umstellen und auf 4 Fragen kürzen (Silber-Falle als #4). Der Science-Long am 1.12. bleibt.
+- Der Thanksgiving T/F von heute 16:00 ist noch im alten Look hochgeladen. Die neue 29-s-Fassung wurde dem Besitzer als Datei geschickt, damit er sie selbst hochladen kann.

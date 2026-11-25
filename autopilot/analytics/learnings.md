@@ -800,3 +800,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - six-q-science-trivia (27.11.) → queue/backlog/. Der Science-Wunsch (@Jo-wl5fj) kommt als **exam-Long** an einem Long-Tag (Vorschlag Di 1.12. „Science Quiz: 30 Questions – Can You Pass?“).
 - thanksgiving-true-false (25.11. 16:00) ist schon hochgeladen. Empfehlung an den Besitzer: in Studio auf „Privat“ stellen.
 - Neue Nicht-Flaggen-Shorts erst wieder, wenn ein Layout existiert, das der Besitzer abgenommen hat (Idee: Prüfungsbogen-Look „exam“ im Hochformat, eigener Code-Auftrag).
+
+## 2026-11-25 11:30 – STRATEGIE (Besitzer zur Vorschau im exam-Hochformat: „Ja, besser und kürzer wegen Engagement“) – GILT AB SOFORT
+- **Alle Shorts, die keine Flaggen-Serie sind, laufen im Layout `exam`** (src/QuizExamShort.tsx: Prüfungsbogen auf Holztisch, Bleistift, Rotstift, Stoppuhr, Stempel). tvshow ist für Shorts tot. generate_queue.py setzt "exam" jetzt auch für Shorts.
+- **Kürzer:** höchstens 4 Fragen (Wahr/Falsch, Trivia), Ziel ≤ 30 s, absolute Grenze 35 s. Hook als Stempel ≤ 4 Wörter (z. B. „90% GET #4 WRONG“), die Fangfrage kommt als letzte Frage. Keine Fakten-Sätze nach der Antwort.
+- Texte in hook/finalLabel/ctaText/outroText ohne Emoji. cardText = 1 Emoji (wird als Aufkleber gezeigt). Antworten ≤ 14 Zeichen, sonst wird die Schrift kleiner.
+- Vorschau-Referenz: Thanksgiving T/F, 4 Fragen, 28,8 s.
+- Slots bleiben: 16:00 Flag Duel, 21:00 Real or Fake. exam-Shorts nur auf ausdrücklichen Plan-Platz (z. B. Zuschauer-Wunsch Science).
