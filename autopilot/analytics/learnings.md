@@ -813,3 +813,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Ist-Stand: ≈4–5k Views/Tag. 10 Mio. in 90 T = 111k/Tag (≈25×), 3 Mio. = 33k/Tag (≈7×). 10 Mio. vor dem 01.02. ist ohne mehrere virale Treffer unrealistisch.
 - Leiter: (1) 100 Abos bis 31.12., (2) 500 Abos + 3 Mio. Views in 90 T (Fan-Funding), (3) 1.000 Abos + 20 Mio. Views oder 8.000 Std.
 - Hebel: Views kommen aus wenigen Ausreißern (WonderQ 525k bei 4,6k Abos). Also mehr Versuche pro Tag im Gewinner-Format, ≥ 70 % stayed, Loop-Ende, und schnell nachlegen, wenn ein Short abhebt (gleiche Serie, gleicher Titeltyp, innerhalb von 24 h).
+
+## 2026-11-25 12:10 – Longs (Besitzer: „Unser Problem sind auch die Longvideos – ich schicke Referenz-Videos“)
+- Der Besitzer schickt Referenz-Longs. Bis dahin keine neuen Long-Formate oder -Experimente, nur die geplanten Longs (Christmas 26.11., Rätsel #3 28.11., Science 1.12.).
+- Bekannte Long-Schwächen: Median ≈ 5–20 Views, Rätsel-Long #1 Ø angesehen 11,7 % (Absprung nach 1–2 Rätseln), Zähler startet oft 0 für 5–8 h. Longs bringen aber ≈ 3 Abos/1k (Shorts ≈ 0,7) und Watch-Stunden.
+- Wenn Referenzen da sind: Hook der ersten 30 s, Länge, Fragenzahl, Tempo, Thumbnail-Versprechen auswerten und mit unseren Retention-Kurven vergleichen.
