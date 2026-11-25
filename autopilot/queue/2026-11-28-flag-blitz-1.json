@@ -22,7 +22,7 @@
   "type": "flagblitz",
   "format": "long",
   "title": "Guess the Flag in 3 Seconds – 100 Flags",
-  "hookLine": "Guess the flag in three seconds! 100 flags, from easy to impossible. Keep score, and subscribe for a new flag quiz every day. Let's go!",
+  "hookLine": "100 flags. Three seconds each. From easy to impossible. Keep score!",
   "outroLine": "How many did you get out of 100? Comment your score, and follow for more flag quizzes!",
   "outroHold": 5.0,
   "timing": {
@@ -263,7 +263,7 @@
     "flag": "sa",
     "name": "Saudi Arabia",
     "lines": {
-     "q": "Level two. Medium. Do you know this one?",
+     "q": "Still with us? Subscribe! Level two. Medium. Do you know this one?",
      "a": "Saudi Arabia."
     }
    },
@@ -935,9 +935,9 @@
    }
   ],
   "thumbTexts": [
-   "GUESS THE **FLAG**",
-   "IN **3** SECONDS",
-   "CAN YOU GET 80?"
+   "**80/100**?",
+   "",
+   "IMPOSSIBLE?"
   ]
  }
 }

@@ -18,7 +18,7 @@
    "geography quiz",
    "shorts"
   ],
-  "comment": "Which Nordic cross fooled you? Comment your score /4 👇"
+  "comment": "Which fake fooled you? Comment your score /4 👇 Got 4/4? Like it so we know 👍"
  },
  "story": {
   "id": "real-fake-flag-3",
@@ -35,8 +35,8 @@
    "tail": 0.2,
    "outro": 0.6
   },
-  "outroText": "How many did you get?",
-  "outroSub": "Comment your score out of 4",
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 4",
   "rounds": [
    {
     "level": "EASY",
@@ -103,7 +103,7 @@
     "winner": "a",
     "lines": {
      "q": "Last one. The real Norway?",
-     "a": "Left! Shifted toward the pole. Follow for number four!"
+     "a": "Left! Shifted toward the pole. Got all four? Hit like, and follow!"
     }
    }
   ]

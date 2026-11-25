@@ -295,9 +295,9 @@ export const FlagBlitzThumb: React.FC<FlagBlitzStory & {variant?: string}> = (st
           <Img src={staticFile(`flags/${f}.svg`)} style={{width: 230, height: 168, objectFit: 'cover'}} />
         </div>
       ))}
-      <div style={{position: 'absolute', left: 50, top: 70, width: 680, fontFamily: FONT, fontWeight: 900, fontSize: 108, lineHeight: 1.02, color: C.white, textShadow: outline(C.ink, 6)}}>
+      <div style={{position: 'absolute', left: 50, top: t[1] ? 70 : 150, width: 680, fontFamily: FONT, fontWeight: 900, fontSize: t[1] ? 108 : 140, lineHeight: 1.02, color: C.white, textShadow: outline(C.ink, 6)}}>
         <div>{md(t[0])}</div>
-        <div>{md(t[1])}</div>
+        {t[1] ? <div>{md(t[1])}</div> : null}
       </div>
       <div style={{position: 'absolute', left: 54, top: 520, background: C.red, color: C.white, fontFamily: FONT, fontWeight: 900, fontSize: 52, padding: '10px 26px', borderRadius: 14, transform: 'rotate(-3deg)', border: `5px solid ${C.white}`}}>{t[2]}</div>
     </AbsoluteFill>

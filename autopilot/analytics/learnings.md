@@ -845,3 +845,8 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - ≈21:30: **vierte Welle** startet (Besitzer). Jede Welle bisher etwa gleich stark (≈50 Views/min) → YouTube testet weiter, noch kein großer Pool.
 - 21:30 (n. ≈55 min): **1.124 Views** (schnellster Short über 1.000), Welle 4 mit Spitze ≈60/min (höher als 1–3), stayed 70,2 %, 12 Likes (≈1 % – schwach), Abos 0.
 - 22:06 (n. ≈1,5 h): 1.417 Views, Kurve flacht ab (nur noch wenige Views/min), stayed 71,9 %, 11 Likes, 0 Abos. Vermutung: Zuschauen stark, Reaktionen (≈0,8 % Likes, 0 Abos) zu schwach für den nächsten Pool → Like/Follow-CTA ab #4. Späte Welle nach 15–25 h noch möglich (wie Flag Duel #1/#2).
+
+## 2026-11-25 22:40 – Manager-Entscheid (Besitzer: „Du bist der Manager, du entscheidest“) – Regeln aus youtube-agent-skill (MIT, nur gelesen, nicht installiert)
+- **Reaktions-CTA in Flaggen-Shorts ab Real or Fake #2:** letzte Antwortzeile endet mit „Got all four? Hit like, and follow!“, Schlusskarte „GOT 4/4? HIT LIKE“ / „Follow for number N“, angepinnter Kommentar fragt nach Score + Like. Grund: Real or Fake #1 70–72 % stayed, aber nur ≈0,8 % Likes, 0 Abos. Erfolg: Likes ≥ 2 % der Views, ≥ 2 Abos/1k.
+- **Thumbnail wiederholt nie den Titel, ≤ 3 Wörter** (yt-package). Flag Blitz: „80/100?“ + „IMPOSSIBLE?“ + Flaggen-Collage.
+- **Kein Abo-Aufruf in den ersten 15–45 s eines Longs** (yt-script). Intro bestätigt nur den Titel; Abo-Bitte beim Start von Level 2 und am Schluss.

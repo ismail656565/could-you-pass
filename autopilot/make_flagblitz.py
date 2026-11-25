@@ -44,19 +44,22 @@ def build(sid, per_level=25, seed=None):
             q = rng.choice(Q_LINES)
             if k == 0:
                 q = f'{LEVEL_INTRO[lv]} {q}'
+                if lv == 'MEDIUM':
+                    # Abo-Bitte erst nach Level 1 (yt-script-Regel: kein Abo-Pitch in den ersten 15–45 s)
+                    q = f'Still with us? Subscribe! {q}'
             name = pool[c]
             rounds.append({'level': lv, 'flag': c, 'name': name, 'lines': {'q': q, 'a': SPOKEN.get(name, name) + '.'}})
     n = len(rounds)
     return {
         'id': sid, 'type': 'flagblitz', 'format': 'long',
         'title': f'Guess the Flag in 3 Seconds – {n} Flags',
-        'hookLine': f'Guess the flag in three seconds! {n} flags, from easy to impossible. Keep score, and subscribe for a new flag quiz every day. Let\'s go!',
+        'hookLine': f'{n} flags. Three seconds each. From easy to impossible. Keep score!',
         'outroLine': f'How many did you get out of {n}? Comment your score, and follow for more flag quizzes!',
         'outroHold': 5.0,
         'timing': {'think': 3.0, 'move': 0.4, 'tail': 0.25},
         'music': 'sfx/game-show.wav', 'musicVolume': 0.06,
         'rounds': rounds,
-        'thumbTexts': ['GUESS THE **FLAG**', 'IN **3** SECONDS', 'CAN YOU GET 80?'],
+        'thumbTexts': ['**80/100**?', '', 'IMPOSSIBLE?'],  # Thumbnail wiederholt den Titel nicht, ≤ 3 Wörter
     }
 
 
