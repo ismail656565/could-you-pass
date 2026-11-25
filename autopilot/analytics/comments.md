@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-25 20:25
+# Zuschauer-Kommentare – Stand 2026-11-25 21:37
 
-Letzte 21 Tage, ohne unsere eigenen. 36 Kommentare, 1 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 39 Kommentare, 1 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 4/4 |
 | Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts | 4/4 |
 | Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 4/4 |
 | Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 4/4 |
@@ -35,8 +36,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (14)
+## SCORE (15)
 
+- 2026-11-25 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @WildlyTrue65 · id `UgyKFsyl1czKJJfZlkN4AaABAg`  
+  „4/4“
 - 2026-11-24 · Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts · @mayhomestays · id `Ugzr6w6lvaf8IzLXVC54AaABAg`  
   „4/4“
 - 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @walterlim2624 · id `UgyI2IsAIrxLZ5w-i694AaABAg`  
@@ -66,8 +69,12 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-10 · This Map Is Lying To You 🌍 Which Is REALLY Bigger? · @RageG23 · id `UgwiIuNyUL_iK-DLhIp4AaABAg`  
   „3/4“
 
-## SONSTIGES (18)
+## SONSTIGES (20)
 
+- 2026-11-25 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @Pirl1776 · id `UgwHB5dcTtoP2vJ_esp4AaABAg.AddujkeE1pIAddvDKxgUr1`  
+  „@CouldYouPassItyeah“
+- 2026-11-25 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @Pirl1776 · id `UgwHB5dcTtoP2vJ_esp4AaABAg`  
+  „lets go lithuania mentioned“
 - 2026-11-24 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @FakeDianaNeedsToBeStoped · id `UgyeMM0PPYPPPW0SSBF4AaABAg`  
   „Yesssss!!!!!!!!!“
 - 2026-11-24 · Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts · @WildlyTrue65 · id `UgzfsLhBDKPW3XmEqiB4AaABAg`  
