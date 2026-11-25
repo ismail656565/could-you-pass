@@ -1,26 +1,27 @@
-# Plan 2026-11-24
+# Plan 2026-11-25
 
-Data (median ~1,060 views): interactive "do this, then look" shorts win (Spiral 1,273 / 83 % still watching at the middle; Stare at the Dot 1,098); "6 Facts Your Brain Hides" 1,414 + 5 subs. Müller-Lyer (23.11.) 4 views, Afterimage flag (24.11.) 0 – both < 48 h, no verdict yet.
-Retention: Monty Hall lost 18.6 % at 37.6 s (long explanation) → explanations kill; Slow Walkers fell to 27 % at the middle (no test). Every short loses most at 4.4–7.3 s = line 2.
-Competitors (new: SciShow, TED-Ed): SciShow uALjsKI-ceE "Why Isn't Heart Cancer a Thing?" (13×, 2.9M) = "Why isn't X a thing?" curiosity question about something you never noticed; TED-Ed riddles "Can you solve…?" (2×); MindYourDecisions QtCL5pYI8Zc game-show A/B.
+Data (median ~1,060 views, old shorts): interactive "do this, then look" wins (Spiral 1,274; Dot 1,098; "6 Facts" 1,415 + 5 subs). New: Afterimage flag 592 (day 1, good), Müller-Lyer "Which Line Is Longer?" 6 views after 2 days = FLOP, Ebbinghaus (Brain Test #1) today 0.
+Flop cause Müller-Lyer: static, over-used classic + generic title ("Which line is longer" is the most-posted illusion on YouTube) → nothing moves in frame 1, no reason to stay. Afterimage worked because the viewer DOES something for 20 s.
+Competitors: Dramatic_science "Can you reverse the spin using your brain?" 3j_BH1oT_SE (12.9×, 1.3M) + 5 more spin videos at 3.3–3.7× = bistable ROTATING dot-sphere on black, level label ("LEVEL – HARD"), one line of text top and bottom. MindWarp 3D: hypnotic op-art rings full screen. ManifestationLaw removed (off-niche).
 
 ## Rules
 - Every short is a TEST the viewer does: line 1 = instruction or question to "you". Never open with a fact or a name.
-- Line 2 (2.5–6 s) = raise the stakes ("Most people get this wrong.", "Keep staring – it's about to move."), never an explanation. Visual change at ~4.5 s (zoom or new card).
-- First frame: the illusion full screen + question card ("A or B?") at 0 s. No intro.
-- Length 20–30 s (shortened from 35), max ~65 words. Reveal at ~60 %, explanation max 2 lines after the reveal, stamp "YOUR BRAIN: FOOLED", last line loops ("Now look again.").
-- Title: "[Instruction/question] + [promise] + emoji #shorts"; quiz episodes use "Brain Test #N".
-- Style: chalkboard / lab drawings; high contrast, object large and centred. Fact (illusion name + year) only in the last line.
+- Something MOVES from frame 0 (rotation, pulsing rings, zoom). No static line/bar comparisons any more.
+- Line 2 (2.5–6 s) raises the stakes ("Now make it spin the other way. Only with your mind."), never an explanation. Visual change at ~4.5 s.
+- Length 15–30 s, max ~60 words. Reveal ~60 %, explanation max 2 lines, last line loops ("Now look again.").
+- Titles: "[Instruction/question to you] + [challenge] + emoji #shorts". Series "Brain Test #N" in the description (not required in title).
+- Style: dark/black background, neon or white dots/lines, object large and centred (competitor look) OR chalkboard lab; high contrast.
+- ANIMATION TRICK (engine supports it): paint 16–24 stages of one plate (e.g. a sphere of dots rotated by 360/N degrees each, orthographic projection, NO size/brightness depth cues = ambiguous direction) and cycle them with a long `show` list, e.g. show=[(i/12, i % 24) for i in range(12*30)] → 12 fps rotation loop. Camera static (slow push max). Keep N ≤ 24 (memory).
+- Fact (illusion name + year) only in the last 1–2 lines; all facts verified.
 
-## Next 3 episodes (after 003)
-1. 004-blind-spot – "Close Your Left Eye. This Dot Will Disappear 👁️ #shorts". Hook: "Close your left eye. Look only at the cross." Line 2: "Now move closer. Slowly." Plate: cross left, dot right, camera zoom in; stamp "BLIND SPOT". Fact: optic disc has no photoreceptors; brain fills the gap. Why: exploit (interactive). (written: 004-blind-spot)
-2. 005-ponzo – "Which Bar Is Longer? Brain Test #2 🧠 #shorts". Hook: "Top bar or bottom bar – which is longer? Pick now." Line 2: "Eight out of ten brains get this wrong" is NOT allowed (no fake stats) → use "Lock in your answer. No changing." Railway-track plate, bars A/B, tracks fade away, stamp "SAME LENGTH". Fact: Ponzo illusion (Mario Ponzo, 1911). Why: Brain Test series #2 (competitor QtCL5pYI8Zc).
-3. 006-tickle – "Why Can't You Tickle Yourself? Try It 🧠 #shorts". Hook: "Try to tickle your own palm. Right now." Line 2: "Nothing. Now imagine someone else doing it." Lab plate: brain with cerebellum highlighted, arrows "prediction → cancel"; stamp "PREDICTED". Fact: the cerebellum predicts the sensation of your own movements and dampens it (Blakemore, Wolpert & Frith, 1998–2000). Why: EXPERIMENT "Why can't you…?" question title (competitor uALjsKI-ceE) – still a test the viewer does.
+## Next 3 episodes (after 004-blind-spot)
+1. 005-spin-sphere – "Which Way Is It Spinning? Now Flip It With Your Mind 🧠 #shorts". Hook (L1): "Which way is this ball spinning? Decide now." L2: "Now make it spin the other way. Only with your mind." L3: "Blink. Look at the left edge. Try again." Reveal: "It never changed. The dots have no depth – your brain picks a side." Last: "So which way is it spinning now?" Plate: black, 400–600 white/purple dots on a sphere, 24 rotation stages (see trick), card "LEVEL: EASY" → at L3 "LEVEL: HARD"; stamp "YOUR BRAIN CHOSE". Fact: bistable perception / kinetic depth effect (Wallach & O'Connell, 1953). Why: competitor 3j_BH1oT_SE (pattern, own visual + wording).
+2. 006-tickle – "Why Can't You Tickle Yourself? Try It 🧠 #shorts" (unchanged from last plan: cerebellum predicts own touch, Blakemore/Wolpert/Frith 1998–2000). Why: experiment "Why can't you…?" (SciShow uALjsKI-ceE).
+3. 007-see-first-1 – "What Did You See First? 👇 #1 #shorts" (10–14 s, 3–4 lines). Hook: "What did you see first? Don't think." L2: "Look again. There are two." Reveal: "A vase – or two faces. Your brain can't see both at once." Last: "Comment what you saw first 👇". Plate: our own drawn Rubin vase (black/white, slow breathing zoom, stage 2 tints the faces). Fact: Rubin's vase, Edgar Rubin 1915. Why: vidIQ pattern (4.2M "what did you see first"), EXPERIMENT ultra-short + comment bait.
 
 ## Experiments
-- Running: "Brain Test #N" A/B quiz series (003 Ebbinghaus, 005 Ponzo). Stop after 3 below median (~1,000 views at 7 days).
-- New: "Why can't you…?" question titles (006). Verdict after 3.
-- Verdicts: probability paradoxes paused (34–38 % stayed); opinion topics stopped (143).
+- Running: "Brain Test #N" (003 Ebbinghaus). Spin/motion tests (005) new. Ultra-short ambiguous figures (007) new. Verdict each after 7 days; stop a type after 3 below median (~1,000).
+- Verdicts: static length comparisons STOPPED (Müller-Lyer 6 views; Ponzo dropped). Probability paradoxes paused. Opinion topics stopped.
 
 ## Do not
-- No slow openings, no opinion topics, no invented statistics or fake poll percentages, no explanations longer than 2 lines, no real-person likeness.
+- No static two-line/bar comparisons, no slow openings, no opinion/spiritual topics, no invented statistics or fake poll percentages, no explanations > 2 lines, no real-person likeness, no copying competitor visuals 1:1 (own colours, own wording).

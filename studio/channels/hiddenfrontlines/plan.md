@@ -1,25 +1,27 @@
-# Plan 2026-11-24
+# Plan 2026-11-25
 
-Data: Rubber-tanks short 32 views, Ghost Army long 0, Habakkuk (today) 0 – all < 48 h, no verdict; no retention curves yet (< 30 views).
-Retention finding (other channels, 20 curves): the steepest drop sits at 4.5–6.7 s = line 2. Apply here from the start: line 2 must escalate, not explain.
-Competitors: Simple History still dominates with WEIRD HARDWARE (Stupidest Gun Mistakes 38×, short H1jn5LPXiKQ "An AK 47 M16 Hybrid" 27× / 408k, Weirdest Tanks 22×). Frame 1 of their short: the absurd object piled on a table, huge yellow/green caption words ("BUT SOME SPECIAL").
+Data: Rubber-tanks short 62 views (2 days), Habakkuk 90 (1 day), bat bomb today 0. Channel is cold (0 subs) – low numbers mainly = no audience yet, but the first frames show objects/blueprints without a PERSON, which the top competitor does differently.
+Competitors: AAF – After Action Files gxp8SL9e3m0 "The 20-Year-Old American Who Threw Out His P-38 Parachute" (60.8×, 220k), fDSXNy_IPn0 (20×), cujzPAp9Gss (15.7×) = ONE young person + ONE crazy decision, title "The [age/rank] Who [did unbelievable thing]", first frame cinematic figure in landscape + 1–3 word caption at the bottom ("8 MEN", "who spoke no German"). Forgotten Highlights 7.8× "She survived 18 years alone…" = same person-decision core.
+Retention rule (all channels): line 2 at 4.5–6.7 s is the biggest drop → line 2 must escalate.
 
 ## Rules
-- Series "Weird War Tech" – one strange real WW2-era invention per short. Title ends with "#shorts"; description "Weird War Tech #N".
-- Hook (< 2.5 s): absurd fact as a flat statement ("In 1943, Britain tried to build an aircraft carrier out of ice."). First frame = blueprint of the object, full screen.
-- Line 2 (2.5–6 s): the craziest detail/number, not how it worked ("It would have been 600 metres long."). No names in lines 1–2. New callout/camera move at ~4.5 s.
-- Structure: absurd claim → craziest detail → test → what killed it → stamp ("CANCELLED", "IT WORKED", "OOPS").
-- Length 25–35 s, max ~80 words. Title: "[Country/Army] [did absurd thing]. [Short payoff]."
-- Style: blueprints + declassified file cards + red stamps, object large and centred; big 1–3-word cards like the competitor's captions.
-- Every fact verified with 2 sources.
+- Two formats now (one variable each):
+  A) "Weird War Tech" (running series): one strange real invention; title "[Country/Army] [did absurd thing]. [Short payoff]. #shorts"; first frame = blueprint of the object.
+  B) NEW "One Soldier, One Decision": title "The [Age]-Year-Old Who [Unbelievable Act] #shorts"; first frame = a generic painted figure (no real likeness, back view/silhouette) in a huge landscape + 1–3 word card at the lower third.
+- Hook (< 2.5 s) = the act itself as a flat statement. Line 2 = the craziest number/detail. No names/dates in lines 1–2 (name may appear later as text).
+- Length 25–40 s, max ~85 words. Stamp at the twist ("IT WORKED", "CANCELLED", "SURVIVED").
+- Style: blueprints + declassified file cards + red stamps (A); painted dusk landscape, silhouette, file card (B).
+- Every fact verified with 2 sources; use "he later said" for personal accounts.
 
-## Next 3 episodes (after 003)
-1. 004-project-pigeon – "A Scientist Trained Pigeons to Steer Missiles. It Worked. #shorts". Hook: "Inside this missile's nose: three pigeons. Steering." Line 2: "They pecked at the target – and the missile followed." Facts: Project Pigeon, B. F. Skinner (text only), 1940s, never used in combat; revived as Project Orcon, cancelled 1953. Stamp "IT WORKED" → "CANCELLED". Why: competitor pattern. (written: 004-project-pigeon)
-2. 005-panjandrum – "Britain Built a Rocket Wheel Bomb. It Chased the Cameraman. #shorts" (only keep "chased the cameraman" if the source supports that it veered toward spectators/photographers; else "It Went Out of Control."). Hook: "Britain built a giant wheel. With rockets on it. Filled with explosives." Line 2: "On the beach test, it lost a rocket – and turned around." Facts: Great Panjandrum, 1943–44, tested at Westward Ho!, Devon, erratic, never used. Stamp "OOPS" → "CANCELLED". Why: competitor H1jn5LPXiKQ (absurd object) + humour.
-3. 006-paradummies – "On D-Day, Britain Dropped Fake Soldiers From the Sky. #shorts". Hook: "These soldiers falling from the sky were made of sacks." Line 2: "Some of them came with firecrackers and gunfire recordings." Facts: Operation Titanic, night of 5–6 June 1944, dummy paratroopers ("Ruperts") plus a few SAS men; diverted German troops. Stamp "IT WORKED". Why: exploit Ghost-Army/deception theme + weird object.
+## Next 3 episodes (after 004-project-pigeon)
+1. 005-panjandrum – "Britain Built a Rocket Wheel Bomb. It Went Out of Control. #shorts" (keep "chased the cameraman" only if a source supports it). Hook: "Britain built a giant wheel. With rockets on it. Full of explosives." L2: "On the beach test, the rockets tore loose – and it turned around." Facts: Great Panjandrum, 1943–44, Westward Ho!, never used. Stamp "OOPS" → "CANCELLED". Format A, exploit series.
+2. 006-d-day-piper – "The 21-Year-Old Who Played Bagpipes Through the D-Day Landing #shorts". Hook: "He walked onto a beach under fire. Armed with bagpipes." L2: "His commander ordered him to play. So he did – up and down the sand." Later: Piper Bill Millin, Sword Beach, 6 June 1944, Lord Lovat's commandos (names as text only); "German snipers later said they didn't shoot because they thought he was mad" – only as "he later said he was told…". Bagpipes now at a museum (verify which). Stamp "HE SURVIVED". Format B, EXPERIMENT, competitor gxp8SL9e3m0.
+3. 007-paradummies – "On D-Day, Britain Dropped Fake Soldiers From the Sky. #shorts". Hook: "These paratroopers were made of sacks." L2: "Some carried firecrackers and recorded gunfire." Facts: Operation Titanic, night 5–6 June 1944, dummies ("Ruperts") + a few SAS men. Stamp "IT WORKED". Format A.
+Long videos: any new long needs meta.json "thumb" with 2–4 huge words ≠ title, e.g. "PLAYED UNDER FIRE" (hl "FIRE"), shot = closeup of the single figure/object.
 
 ## Experiments
-- The whole series is the experiment (vs. story style). Verdict after 3 shorts at 7 days (from 30.11.); if all below channel median → back to story format.
+- Weird War Tech series: verdict on 30.11. (3 shorts at 7 days vs. median); if all three below, switch fully to format B.
+- Format B "The [Age]-Year-Old Who…" (006) – verdict after 7 days.
 
 ## Do not
-- No glorifying violence, no gore, no real-person portraits, no swastikas or banned symbols. No copied Simple History objects (no AK/M16 hybrids, no Frankengun, no gun-mistake lists).
+- No glorifying violence, no gore, no real-person portraits, no swastikas or banned symbols. No copied AAF stories (no P-38 parachute, no 82nd Airborne gun story, no Oliveto bunker) and no Simple History objects.

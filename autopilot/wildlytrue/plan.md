@@ -1,29 +1,30 @@
-# Plan 2026-11-24
+# Plan 2026-11-25
 
-Data (median ~890 views): gaming history wins (tetris 1,932, nintendosony 1,774, gameboy 1,642). Shark short 240 (day 1), space animals (today) 0 – < 48 h.
-Retention: "This Bird Collects Blue Objects" held 183 % after 3 s and 94 % at the end (best loop on the channel → animal behaviour keeps viewers even with fewer views); EVERY curve has its steepest drop at 4.5–6.7 s = beat 2 (Hindenburg −14.5 at 4.5 s, Bird −11.4 at 5.1 s).
-Competitors: Zack D. Films "The [Thing] That [Unusual Act] + emoji" (AMlsGz_YJD8 8.6M, buxxsDdLtP8 10M). Removed Facts Verse and Simple History (off-niche), added TED-Ed.
+Data (median ~890 views): gaming history still best (tetris 1,932, nintendosony 1,774, gameboy 1,642). New animal shorts: Greenland shark 385 (2 days), space animals 172 (1 day) – below median; Zack-style "The X That…" alone is not enough. Production PAUSED (owner reviewing the new motion look) – plan stays ready.
+Retention: bird short 94 % at the end (best loop); every curve loses most at 4.5–6.7 s = beat 2.
+Competitors: E. FRANK iykYjcSycNg "5 Extinct Animals Scientists Are Bringing Back 😨" (27×, 8.5M), j7MMYEKv9g4 "5 Animals That Can Survive Without Sleep 😱" (17×, 5.2M), 3CRpIIT5Uvs hybrids (14×) = LIST of 5, each item = one huge animal close-up + one shock word caption ("CROSS", "UNGUARDED"), ~5 s per item, numbered title + 😱/😨. Wildest Dose "What is THAT?!" (18×) = mystery creature close-up.
 
 ## Rules
-- Mix: ~70 % gaming / pop-culture history, ~30 % odd true animal stories with Zack-style titles.
-- Beat 1 (< 2.5 s): the surprising result first; hookText ≤4 words, all caps.
-- Beat 2 (2.5–6 s): a second surprise or a number – NEVER background/date/"in 1980…". Background goes to beat 4+.
-- Length 25–35 s, 5–7 beats, each ≤14 words, one "impact": true beat at the twist. Last beat loops back to beat 1.
-- Titles: "The [Thing] That [Did Unusual Thing] [emoji] #shorts" or "[Thing] [Did X]. [Payoff]. #shorts". Title case, never slugs.
-- B-roll: objects, places, animals only. No celebrity faces. ≥2 sources per story; numbers must match.
+- Mix: ~60 % gaming / pop-culture history (proven), ~40 % animal LISTS "5 Animals That…" (new, competitor-proven) – single animal stories only if the claim is extreme.
+- Beat 1 (< 2.5 s): the surprising result / list promise ("Number five breathes through its butt."), hookText ≤ 4 words, all caps.
+- Beat 2 (2.5–6 s): first item or a second surprise with a number – NEVER background/date.
+- Lists: 5 items, 1 beat each (≤ 12 words), count DOWN 5→1, best item last, each beat a `hero` visual with emoji + label ≤ 22 chars; 30–40 s.
+- Single stories: 25–35 s, 5–7 beats ≤ 14 words, one "impact": true at the twist, last beat loops.
+- Titles: "5 Animals That [Shock Claim] [😱/😨] #shorts" or "The [Thing] That [Did Unusual Thing] [emoji] #shorts". Title case, never slugs.
+- Visuals only via the motion look (see below). ≥ 2 sources per fact, numbers must match.
 
 ## Next 3 episodes
-1. pac-man-name – "Pac-Man's First Name Had to Be Changed 🟡 #shorts". Hook "WRONG NAME." Beat 2: "One letter could be scratched into a rude word." Facts: Japan 1980 "Puck Man", renamed Pac-Man for the US. Why: exploit. (written: queue/2026-11-22-pac-man-name.json)
-2. nintendo-cards – "Nintendo Is Older Than Cars. It Sold Playing Cards. 🃏 #shorts" (only use "older than cars" phrasing as "Nintendo Was Founded in 1889. It Sold Playing Cards." if unsure). Hook "1889." Beat 2: "Before Mario, before electricity in most homes – cards." Facts: founded 1889 in Kyoto by Fusajiro Yamauchi, hanafuda cards; later taxis, love hotels, instant rice before toys/games (verify each). Why: exploit gaming history.
-3. moscow-subway-dogs – "The Stray Dogs That Learned to Ride the Subway 🐕 #shorts". Hook "THEY COMMUTE." Beat 2: "They know which stop is theirs." Facts: some Moscow strays ride the metro (Andrei Poyarkov, A. N. Severtsov Institute). Why: EXPERIMENT animals (bird retention).
+1. 5-butt-breathers – "5 Animals That Breathe Through Their Butts 😳 #shorts". Items (verify each, 2 sources): Fitzroy River turtle (cloacal respiration), sea cucumber (respiratory trees via cloaca), dragonfly nymph (rectal gills), weather loach (swallows air, intestinal breathing, gas out the vent), and #1 mammals: 2021 study (Takebe lab, Tokyo/Cincinnati) – mice and pigs absorbed oxygen through the rectum (lab only). Hook "BUTT BREATHERS." Why: EXPERIMENT list format, competitor j7MMYEKv9g4 (own topic).
+2. nintendo-cards – "Nintendo Was Founded in 1889. It Sold Playing Cards. 🃏 #shorts". Hook "1889." Beat 2: "Before Mario – hand-painted cards." Facts: Fusajiro Yamauchi, Kyoto, hanafuda; later taxi company, love hotels, instant rice (verify each). Why: EXPLOIT gaming history.
+3. moscow-subway-dogs – "The Stray Dogs That Ride the Subway to Work 🐕 #shorts". Hook "THEY COMMUTE." Beat 2: "They know which stop is theirs." Facts: Moscow metro strays (Andrei Poyarkov, Severtsov Institute). Why: animal behaviour (bird-loop retention); last single-animal test – stop single animal stories if it lands below median.
 
 ## Experiments
-- Running: animal stories with "The X That…" titles (shark, space animals, moscow dogs). Stop after 3 below median.
-- New (all beats): beat-2 escalation rule – compare 5 s retention vs. old curves.
-- Verdict: ancient-history/disaster topics – stopped.
+- Animal "The X That…" singles: shark 385, space animals 172 → 2 of 3 below median; moscow dogs is the third and decides.
+- New: "5 Animals That…" lists – verdict after 3.
+- Stopped: ancient-history/disaster topics.
 
 ## Do not
-- No lowercase/slug titles, no real-person faces, no old-disaster stories, no background in beat 2, no copied Zack D. topics or scripts.
+- No lowercase/slug titles, no real-person faces, no old-disaster stories, no background in beat 2, no copied E. FRANK/Zack D. lists (no "without sleep", "bringing back", "hybrids", "hunt humans", "immortal").
 
 ## STRATEGIE 24.11. (Besitzer: „Videos gefallen mir nicht“) – GILT AB SOFORT
 - **Kein Wikimedia-B-Roll mehr.** Grund: Laborvideos mit eingebranntem Messtext, Skalenbalken, unscharf, Motiv passt nicht (Sternhimmel bei „lava“).
