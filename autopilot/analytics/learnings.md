@@ -822,3 +822,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 ## 2026-11-25 16:50 – Besitzer: „Ich wusste, dass es ein Flop wird – lösch dieses Layout“ (Thanksgiving T/F im tvshow-Look: 81 Views n. 46 min, 0 Abos)
 - **tvshow ist gelöscht.** Code-Sperre in autopilot.py (produce_one): Jedes Quiz, das nicht flagduel/truesize ist, wird vor dem Rendern auf `exam` gezwungen, auch wenn in der Queue noch tvshow/pop/atlas/neon/stick/comic steht. Der Generator setzt ohnehin exam.
 - Bleibt: Shorts = Flag Duel / Real or Fake (flagduel) + exam-Hochformat (≤ 4 Fragen, ≤ 30 s). Longs = exam.
+
+## 2026-11-25 17:30 – Referenz-Longs vom Besitzer (Analyse: Bildraster + Transkript der ersten 90 s)
+- **A „Guess the Logo in 3 Seconds – Easy/Medium/Hard/Impossible“ (Quiz Blitz, 15:14, ≈100 Logos):** ≈9 s pro Logo (3-s-Balkentimer, Auflösung mit Namen). Bildzentriert: ein großes Logo in der Mitte, kaum Text. Hintergrundfarbe wechselt jede Frage. Schwierigkeitsleiter links (Easy→Impossible) und Fragenummer im Stern. Wischblende bei jedem Levelwechsel. Intro 20 s: Versprechen („3 seconds, easy to impossible“) + Abo-Bitte bei 0:13, danach kurze Sprechzeilen ohne Erklärung („Take a close look…“, „Apple.“).
+- **B „Who Is Most Likely To – Parents Edition, 30 Questions“ (4:13):** ≈8 s pro Frage, 5-s-Timer, Foto in der Mitte, Knöpfe MOM/DAD links/rechts. Es gibt keine richtige Antwort, es ist ein Mitmach-Spiel für Familien und Paare (TV-Publikum, Kommentar „Mom or Dad?“). Intro 10 s mit klarer Spielregel.
+- **Unterschied zu unseren Longs:** wir 13–22 s pro Frage, textlastig (Prüfungsbogen), lange Sprechzeilen, gleiches Bild die ganze Zeit → Absprung nach 1–2 Fragen (Ø angesehen 11,7 %).
+- **Regeln für neue Longs:** ≤ 10 s pro Frage (Timer 3–5 s), ein großes Bild statt Text, sichtbare Schwierigkeitsleiter, Bildwechsel/Farbwechsel jede Frage, Intro ≤ 15 s mit Versprechen + Spielregel, 30–100 Fragen.
+- **Format-Idee Nr. 1:** „Guess the Flag in 3 Seconds – Easy to Impossible (100 Flags)“, Long mit unseren 270 Flaggen-SVGs im Flag-Duel-Look (einziges Gewinnerformat, „flag quiz“ ≈131k Suchen/Monat). Braucht einen neuen 16:9-Renderer.
+- vidIQ: nur noch 4 Credits übrig → keine vidIQ-Abfragen mehr, bis aufgeladen ist (Research nur per WebSearch).
