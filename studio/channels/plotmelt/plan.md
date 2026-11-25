@@ -12,7 +12,7 @@ Competitors: Zealot gKYMcV4AbPg "When you start feeding your pet power ups" (9×
 - Long videos: meta.json "thumb" = 2–4 huge words ≠ title ("IT WAS ALIVE"), shot = character face + object close-up.
 
 ## Next 3 episodes (after 004-3am-pizza)
-1. 005-old-photo – "He Found His Face in a 100-Year-Old Photo. #shorts". Hook: "In a flea-market photo from 1925, he saw his own face." L2: "Same mole. Same watch – the one on his wrist right now." Twist: back of the photo in his handwriting: "Don't buy the watch." Why: EXPLOIT (object + mystery, Couch pattern).
+1. 005-old-photo – "He Found His Face in a 100-Year-Old Photo. #shorts". Hook: "In a flea-market photo from 1925, he saw his own face." L2: "Same mole. Same watch – the one on his wrist right now." Twist: back of the photo in his handwriting: "Don't buy the watch." Why: EXPLOIT (object + mystery, Couch pattern). (written: 005-old-photo)
 2. 006-dragon-weakness – "When the Dragon Has One Weird Weakness". Top caption: "When the dragon\nhas ONE weakness". Lines: "The knight tried fire." / "He tried swords. Arrows. A catapult." / "Then the dragon saw it… a tiny spider." Punchline: the giant dragon on a chair screaming, knight holding the spider; stamp "CRITICAL HIT". Why: EXPERIMENT competitor gKYMcV4AbPg/_Lq8avSG64Y "When…" format (own fantasy gag, no game IP).
 3. 007-cheap-plumber – "He Hired the Cheapest Plumber in Town. Big Mistake. #shorts". Hook: "The plumber cost five dollars. He brought a spoon." L2: "Then he said: 'Stand back.'" Escalation: water everywhere → fish in the kitchen; twist: plumber leaves, the leak is fixed and the house is now an aquarium he likes. Why: EXPLOIT + vidIQ pattern (1.7M "let his friend fix the leak").
 (Grandma-room first-person idea parked until robot-vacuum verdict.)
