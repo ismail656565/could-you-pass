@@ -840,3 +840,4 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - n. ≈12 min: 224 Views (+144 über „typisch“), **71,9 % stayed / 28,1 % weggewischt = Kanal-Rekord**, erstmals über dem Ziel 70 % (Flag Duel #2: 65,1 %). 0:29 lang, ohne Hook-Vorrede (E23). 6 Likes, 0 Abos. Quellen: Shorts-Feed 166, weitere YouTube-Funktionen 57.
 - Spitze ≈50 Views/min, danach fallen die Balken auf ≈0 → Ende des ersten Test-Pools. Zweite Welle kommt bei uns typisch nach 15–25 h. Video nicht anfassen.
 - → E23 (ohne Vorrede, ≤ 30 s) bestätigt sich auch bei Real or Fake. Standard für alle Flaggen-Shorts beibehalten.
+- 21:04 (n. ≈29 min): 556 Views, **zweite Welle schon nach ≈20 min** (zweiter Balkenblock ≈50/min). stayed hält 70,0 %, 9 Likes, Shorts-Feed 468. Schnellste zweite Welle des Kanals (Flag Duel #2: ≈70 min, #1: ≈4,5 h).
