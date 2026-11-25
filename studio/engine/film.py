@@ -192,7 +192,7 @@ class Film:
 
     def world(self, st):
         if st not in self._cache:
-            if len(self._cache) > 5: self._cache.pop(next(iter(self._cache)))
+            if len(self._cache) > self.E.get('cache', 5): self._cache.pop(next(iter(self._cache)))
             w = self.desk() if self.pad else Image.new('RGB', (PW, PH * len(self.plates)), tuple(self.E.get('bg', (26, 33, 36))))
             for k, (p, i) in enumerate(zip(self.plates, st)):
                 w.paste(p['ims'][i], (self.pad, k * PH))
@@ -294,14 +294,15 @@ class Film:
             out = np.asarray(self.view(img, cx, cy, vh)).astype(np.float32)
         else:
             out = sum(np.asarray(self.view(img, *self.cam(t + (k / n) / FPS))).astype(np.float32) for k in range(n)) / n
-        pst = self.state(t - 0.25)
+        fd = self.E.get('fade', 0.25)   # stage cross-fade; 0 = hard cuts (e.g. cycling stages as an animation loop)
+        pst = self.state(t - fd) if fd > 0 else st
         if pst != st:
-            a, b = t - 0.25, t
+            a, b = t - fd, t
             for _ in range(10):
                 m_ = (a + b) / 2
                 if self.state(m_) == st: b = m_
                 else: a = m_
-            k = sm((t - b) / 0.25)
+            k = sm((t - b) / fd)
             out = np.asarray(self.view(self.world(pst), cx, cy, vh)).astype(np.float32) * (1 - k) + out * k
         out = out * self.vig + self.grain[f % 6]
         im = Image.fromarray(out.clip(0, 255).astype(np.uint8)).convert('RGBA')
