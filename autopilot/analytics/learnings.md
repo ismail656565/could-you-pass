@@ -785,3 +785,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - vidIQ (Flag-Shorts diese Woche): Globonk „Can You Find The Real Grenada Flag?“ 48,8k (0:25), WonderQ „One Flag Is a Total Fake!“ 31k, Ballandia „Missing Symbol Part 3“ 95k, ThinkBop „Which One Is INDONESIA?“ 14,6k → Ländername im Titel ab Real or Fake #4 / Flag Duel #5.
 - vidIQ (Long-Rätsel Nov.): „Can You Solve These 10 Tricky Riddles? Only a Genius Can Pass“ 27,8k/152× (5:45) → Rätsel-Long #3 Sa 28.11. mit 10 Rätseln.
 - Long-Zähler startet oft bei 0 (Rätsel-Long #2 0 n. 8 h, Thanksgiving 0 n. 5 h) → Longs frühestens n. 48 h beurteilen. Kommentare 3/3 beantwortet (23 gesamt), kein Faktenfehler.
+
+## 2026-11-25 07:30 – Produktion (Queue 27./28.11.)
+- Technik: alle Läufe 24.11. grün (14 Läufe, 0 Fehler); 24.11. (Di) = 3/3 (Rätsel-Long 14:00, flag-duel-3 16:00, map-lie-8 21:00). Heute Mi (kein Long-Tag) liegen thanksgiving-T/F 16:00 + real-fake-flag-1 21:00 bereit. Kein Code-Fix nötig.
+- Shorts (report.json 24.11. 21:03): Flag Duel #1 3.717 Views/+19 Abos (83,6 % angesehen, 56 % stayed) · #2 2.417 · #3 988 n. ≈6 h. Karten-VS #8 394 n. 1 T (eingestellt).
+- Longs: Rätsel-Long #1 234 Views, stayed 77,5 %, Ø angesehen 11,7 %; Thanksgiving-Long 95 (Ø 28,2 %); Rätsel-Long #2 noch 0 (Zähler-Verzug). → Rätsel #3 mit nur 10 Rätseln, count 9 s statt 10.
+- Thumbnails: CTR per API weiter HttpError 400 – keine neuen Thumbnail-Zahlen; exam-Longs starten mit Variante B.
+- Angelegt: real-fake-flag-3 (27.11. 21:00), flag-duel-5 + real-fake-flag-4 (28.11.), iq-riddles-10-3 (Sa-Long). Neue Fakes: no, us, br, gb, tr (keiner = echte Flagge eines Landes). one-q-further-west → autopilot/backlog/ (16:00 ab 28.11. täglich Flag Duel).
+- Achtung Wiederholung: Klassiker bat/ball, Mary's father, 28 Tage, 5 Maschinen, 17 Schafe, O-T-T-F, Everest-vorher sind schon verbraucht (iq-test-1, six-q-iq-quiz, gk-well-educated) → für künftige Rätsel-Longs neue Rätsel suchen.

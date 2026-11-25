@@ -1,0 +1,111 @@
+{
+ "id": "real-fake-flag-3",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "Real or Fake Flag? #3 Only 1 in 10 Spot All 4 🧐 #shorts",
+  "description": "One flag is real, one is a sneaky fake – pick the real one before the countdown ends 🧐 Denmark, Austria, Finland and Norway.\nComment your score out of 4 👇\n\nFollow – Real or Fake Flag #4 drops tomorrow! 🌍\n\n#flagquiz #fakeflag #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), fakes edited by us. Music: original.",
+  "tags": [
+   "real or fake flag",
+   "fake flag",
+   "spot the fake flag",
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "denmark flag",
+   "austria flag",
+   "finland flag",
+   "norway flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Which Nordic cross fooled you? Comment your score /4 👇"
+ },
+ "story": {
+  "id": "real-fake-flag-3",
+  "type": "flagduel",
+  "title": "Real or Fake Flag? #3",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "DENMARK",
+    "a": {
+     "flag": "dk",
+     "name": "Denmark"
+    },
+    "b": {
+     "flag": "fake/dk",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Which is the real Denmark? Left, or right?",
+     "a": "Left! The cross sits off-centre."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "AUSTRIA",
+    "a": {
+     "flag": "fake/at",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "at",
+     "name": "Austria"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Austria?",
+     "a": "Right! Three equal stripes."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "FINLAND",
+    "a": {
+     "flag": "fake/fi",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "fi",
+     "name": "Finland"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Finland?",
+     "a": "Right! Cross hugs the pole."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "NORWAY",
+    "a": {
+     "flag": "no",
+     "name": "Norway"
+    },
+    "b": {
+     "flag": "fake/no",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. The real Norway?",
+     "a": "Left! Shifted toward the pole. Follow for number four!"
+    }
+   }
+  ]
+ }
+}

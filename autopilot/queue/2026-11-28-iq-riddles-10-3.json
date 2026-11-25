@@ -1,0 +1,226 @@
+{
+ "id": "iq-riddles-10-3",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 9.0,
+  "tail": 1.5,
+  "tempo": 0.95
+ },
+ "outroLine": "How many did you solve? Comment your score below, did you get seven? Subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Tricky Riddles IQ Test: Can You Solve 7 of 10? 🧠",
+  "description": "10 tricky riddles and brain teasers, from easy to legend, in about 5 minutes 🧠 Can you solve 7 of 10?\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#Riddles #TrickyRiddles #BrainTeasers #IQTest #LogicPuzzles #Quiz\n\nMusic: original.",
+  "tags": [
+   "tricky riddles",
+   "riddles",
+   "riddles with answers",
+   "brain teasers",
+   "iq test",
+   "test your iq",
+   "logic puzzles",
+   "only a genius can solve",
+   "hard riddles",
+   "riddle quiz"
+  ],
+  "categoryId": "24",
+  "comment": "How many did you solve out of 10? 🧠 Did the clock or the photo get you? 👇"
+ },
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "exam",
+  "title": "Tricky Riddles",
+  "header": "TRICKY RIDDLES",
+  "hook": "CAN YOU SOLVE 7/10?",
+  "finalLabel": "FINAL QUESTION",
+  "ctaText": "Comment your score",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you solve 7?",
+  "outroSub": "Comment your score",
+  "midCtaIndex": 4,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbTexts": [
+   "10 TRICKY **RIDDLES**",
+   "CAN YOU SOLVE **7**?",
+   "ONLY A **GENIUS**"
+  ],
+  "thumbEmoji": "🧠",
+  "thumbBadge": "10 RIDDLES",
+  "thumbPuzzle": [
+   "🕰️",
+   "🪶",
+   "❓"
+  ],
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "questions": [
+   {
+    "q": "You overtake the runner in **2nd place**. Your place now?",
+    "answers": [
+     "1st",
+     "2nd",
+     "3rd",
+     "Last"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "🏃🏁"
+   },
+   {
+    "q": "Which is heavier: a **kilo** of feathers or a kilo of bricks?",
+    "answers": [
+     "Same weight",
+     "Feathers",
+     "Bricks",
+     "Depends"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🪶🧱"
+   },
+   {
+    "q": "How many animals of each kind did **Moses** take on the ark?",
+    "answers": [
+     "One",
+     "Two",
+     "None",
+     "Seven"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🚢"
+   },
+   {
+    "q": "A ship's ladder: 3 rungs underwater. The **tide** rises 1 m. Now?",
+    "answers": [
+     "3",
+     "4",
+     "6",
+     "0"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🚢🌊"
+   },
+   {
+    "q": "What comes next: **2, 5, 10, 17, 26, ?**",
+    "answers": [
+     "35",
+     "36",
+     "37",
+     "39"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "2·5·10·17·26·?"
+   },
+   {
+    "q": "If **yesterday** was Thursday, what is the day after tomorrow?",
+    "answers": [
+     "Saturday",
+     "Sunday",
+     "Monday",
+     "Thursday"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "📅"
+   },
+   {
+    "q": "2 people paint 2 walls in 2 hours. **4 people**, 4 hours?",
+    "answers": [
+     "4",
+     "6",
+     "8",
+     "16"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🖌️"
+   },
+   {
+    "q": "Odd number: drop **one letter** and I'm even. Which?",
+    "answers": [
+     "Three",
+     "Seven",
+     "Five",
+     "Nine"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🔤"
+   },
+   {
+    "q": "A clock strikes **6** in 5 seconds. How long to strike 12?",
+    "answers": [
+     "10 seconds",
+     "12 seconds",
+     "9 seconds",
+     "11 seconds"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🕰️"
+   },
+   {
+    "q": "No siblings: \"His father is my **father's son**.\" Who?",
+    "answers": [
+     "Himself",
+     "His father",
+     "His son",
+     "His nephew"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "🖼️"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "q": "Ten tricky riddles, and they get harder every round, so keep score! Round one, easy. You overtake the runner in second place. What place are you in now?",
+   "a": "Second! You took their spot, not the leader's."
+  },
+  {
+   "q": "Which is heavier? A kilo of feathers, or a kilo of bricks?",
+   "a": "Neither! A kilo is a kilo. The bricks just hurt more if you drop them."
+  },
+  {
+   "q": "How many animals of each kind did Moses take on the ark?",
+   "a": "None! It was Noah's ark, not Moses. Nice and easy so far?"
+  },
+  {
+   "q": "Round two, medium. A rope ladder hangs over the side of a ship, with three rungs underwater. The tide rises one metre. How many rungs are underwater now?",
+   "a": "Still three! The ship floats, so it rises with the tide."
+  },
+  {
+   "q": "What comes next? Two, five, ten, seventeen, twenty six...",
+   "a": "Thirty seven! The gaps grow by two each time. Three, five, seven, nine, eleven. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "If yesterday was Thursday, what is the day after tomorrow?",
+   "a": "Sunday! Today is Friday, tomorrow is Saturday. How many have you got so far?"
+  },
+  {
+   "q": "Round three, hard. Two people paint two walls in two hours. How many walls do four people paint in four hours?",
+   "a": "Eight! Twice the people, twice the time. Two times two times two. Three left, stay with me!"
+  },
+  {
+   "q": "I'm an odd number. Take away one letter, and I become even. Which number am I?",
+   "a": "Seven! Drop the S, and you get even. Sneaky, right?"
+  },
+  {
+   "q": "Final round, legend. A clock takes five seconds to strike six. How long does it take to strike twelve?",
+   "a": "Eleven seconds! Six strikes have five gaps, one second each. Twelve strikes have eleven gaps."
+  },
+  {
+   "q": "Final question. A man with no brothers or sisters points at a photo and says: that man's father is my father's son. Who is in the photo?",
+   "a": "His son! My father's son is me, so that man's father is me."
+  }
+ ]
+}

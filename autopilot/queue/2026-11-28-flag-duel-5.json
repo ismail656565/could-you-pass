@@ -1,0 +1,108 @@
+{
+ "id": "flag-duel-5",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz #5: Which One Is Liberia? 99% Miss the Last 🌍 #shorts",
+  "description": "Two flags, almost the same – pick the right country before the countdown ends 🌍 Liberia, Belgium, Bolivia and Kuwait.\nComment your score out of 4 👇\n\nFollow – a new flag duel drops every day! 🧠\n\n#flagquiz #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "liberia vs usa",
+   "belgium vs germany",
+   "bolivia vs lithuania",
+   "kuwait vs uae",
+   "geography quiz",
+   "left or right",
+   "shorts"
+  ],
+  "comment": "Kuwait or UAE – did the last one get you? Comment your score /4 👇"
+ },
+ "story": {
+  "id": "flag-duel-5",
+  "type": "flagduel",
+  "title": "Who Is LIBERIA? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "LIBERIA",
+    "a": {
+     "flag": "us",
+     "name": "USA"
+    },
+    "b": {
+     "flag": "lr",
+     "name": "Liberia"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Liberia? Left, or right?",
+     "a": "Right! Just one star."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "BELGIUM",
+    "a": {
+     "flag": "be",
+     "name": "Belgium"
+    },
+    "b": {
+     "flag": "de",
+     "name": "Germany"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Belgium?",
+     "a": "Left! Stripes stand upright."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "BOLIVIA",
+    "a": {
+     "flag": "lt",
+     "name": "Lithuania"
+    },
+    "b": {
+     "flag": "bo",
+     "name": "Bolivia"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Bolivia?",
+     "a": "Right! Red on top."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "KUWAIT",
+    "a": {
+     "flag": "kw",
+     "name": "Kuwait"
+    },
+    "b": {
+     "flag": "ae",
+     "name": "UAE"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. Who is Kuwait?",
+     "a": "Left! The black trapezoid. Follow for number six!"
+    }
+   }
+  ]
+ }
+}

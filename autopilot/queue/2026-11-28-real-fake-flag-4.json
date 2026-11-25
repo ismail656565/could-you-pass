@@ -1,0 +1,111 @@
+{
+ "id": "real-fake-flag-4",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "Real or Fake Flag? #4 Can You Spot the Real USA? 🧐 #shorts",
+  "description": "One flag is real, one is a sneaky fake – pick the real one before the countdown ends 🧐 USA, Brazil, Turkey and the United Kingdom.\nComment your score out of 4 👇\n\nFollow – Real or Fake Flag #5 drops tomorrow! 🌍\n\n#flagquiz #fakeflag #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), fakes edited by us. Music: original.",
+  "tags": [
+   "real or fake flag",
+   "fake flag",
+   "spot the fake flag",
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "usa flag",
+   "brazil flag",
+   "turkey flag",
+   "uk flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Did the Union Jack get you? Comment your score /4 👇"
+ },
+ "story": {
+  "id": "real-fake-flag-4",
+  "type": "flagduel",
+  "title": "Real or Fake Flag? #4",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "How many did you get?",
+  "outroSub": "Comment your score out of 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "USA",
+    "a": {
+     "flag": "fake/us",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "us",
+     "name": "USA"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Which is the real USA? Left, or right?",
+     "a": "Right! Red stripes top and bottom."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "BRAZIL",
+    "a": {
+     "flag": "br",
+     "name": "Brazil"
+    },
+    "b": {
+     "flag": "fake/br",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Brazil?",
+     "a": "Left! It needs its motto."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "TURKEY",
+    "a": {
+     "flag": "tr",
+     "name": "Turkey"
+    },
+    "b": {
+     "flag": "fake/tr",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Turkey?",
+     "a": "Left! Crescent near the pole."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "UNITED KINGDOM",
+    "a": {
+     "flag": "fake/gb",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "gb",
+     "name": "United Kingdom"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. The real United Kingdom?",
+     "a": "Right! The red diagonals are offset. Follow for number five!"
+    }
+   }
+  ]
+ }
+}
