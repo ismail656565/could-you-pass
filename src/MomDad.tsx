@@ -173,8 +173,8 @@ export const MomDadScene: React.FC<{r: MomDadRound; index: number; story: MomDad
       <div style={{position: 'absolute', left: 0, right: 0, top: 70, textAlign: 'center', fontFamily: FONT, fontWeight: 900, fontSize: 92, color: C.white, textShadow: outline(C.ink, 7)}}>
         <span style={{color: C.mom}}>MOM</span> or <span style={{color: C.dad}}>DAD</span>?
       </div>
-      <div style={{position: 'absolute', left: 0, right: 0, top: 190, textAlign: 'center', fontFamily: FONT, fontWeight: 800, fontSize: 36, color: C.ink, letterSpacing: 4}}>
-        WHO IS MOST LIKELY TO… · {index + 1}/{total}
+      <div style={{position: 'absolute', left: 0, right: 0, top: 190, textAlign: 'center', fontFamily: FONT, fontWeight: 800, fontSize: 40, color: C.ink}}>
+        Who is most likely to… ({index + 1}/{total})
       </div>
       {/* Fragekarte */}
       <div style={{position: 'absolute', left: 70, top: 270, width: 940, minHeight: 290, background: C.paper, borderRadius: 34, boxShadow: '0 14px 0 rgba(60,35,10,0.35)', border: `6px solid ${C.ink}`, padding: '44px 50px 44px 50px', boxSizing: 'border-box', transform: `scale(${0.7 + 0.3 * pop}) rotate(${(1 - pop) * 4 - 1}deg)`, opacity: pop}}>

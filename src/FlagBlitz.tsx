@@ -119,7 +119,7 @@ const Ladder: React.FC<{levels: string[]; cur: number; index: number; total: num
 
 const ScoreNote: React.FC<{total: number}> = ({total}) => (
   <div style={{position: 'absolute', right: 56, top: 250, width: 270, padding: '20px 22px', background: C.paper, borderRadius: 14, transform: 'rotate(3deg)', boxShadow: '0 10px 0 rgba(0,0,0,0.25)', textAlign: 'center'}}>
-    <div style={{fontFamily: FONT, fontWeight: 800, fontSize: 26, color: C.ink, letterSpacing: 1}}>KEEP SCORE</div>
+    <div style={{fontFamily: FONT, fontWeight: 800, fontSize: 28, color: C.ink}}>Keep score</div>
     <div style={{fontFamily: SERIF, fontSize: 58, color: C.red, lineHeight: 1.1}}>?/{total}</div>
     <div style={{fontFamily: FONT, fontWeight: 700, fontSize: 22, color: C.ink, opacity: 0.7}}>comment it at the end</div>
   </div>
@@ -184,7 +184,7 @@ export const BlitzScene: React.FC<{r: BlitzRound; index: number; story: FlagBlit
       {/* Level-Blende */}
       {card > 0 ? (
         <AbsoluteFill style={{transform: `translateX(${cardX}px)`, background: `linear-gradient(135deg, ${lvlColor} 0%, ${bg[0]} 100%)`, alignItems: 'center', justifyContent: 'center'}}>
-          <div style={{fontFamily: FONT, fontWeight: 800, fontSize: 54, color: C.white, letterSpacing: 10, opacity: 0.85}}>LEVEL {cur + 1}</div>
+          <div style={{fontFamily: FONT, fontWeight: 800, fontSize: 58, color: C.white, opacity: 0.85}}>Level {cur + 1}</div>
           <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 200, color: C.white, lineHeight: 1, textShadow: outline(C.ink, 8), transform: `scale(${0.8 + 0.2 * spring({frame, fps, config: {damping: 10}})})`}}>{r.level}</div>
         </AbsoluteFill>
       ) : null}
@@ -234,7 +234,7 @@ const Outro: React.FC<{story: FlagBlitzStory}> = ({story}) => {
       <AbsoluteFill style={{alignItems: 'center', justifyContent: 'center', transform: `scale(${0.8 + 0.2 * s})`, opacity: s}}>
         <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 96, color: C.white, textShadow: outline(C.ink, 6)}}>How many did you get?</div>
         <div style={{marginTop: 30, background: C.paper, borderRadius: 26, padding: '6px 70px', fontFamily: SERIF, fontSize: 200, color: C.red, boxShadow: '0 14px 0 rgba(0,0,0,0.3)', transform: 'rotate(-3deg)'}}>?/{story.rounds.length}</div>
-        <div style={{marginTop: 46, fontFamily: FONT, fontWeight: 800, fontSize: 48, color: C.white}}>Comment your score · New flag quiz every day</div>
+        <div style={{marginTop: 46, fontFamily: FONT, fontWeight: 800, fontSize: 48, color: C.white}}>Comment your score – new flag quiz every day</div>
       </AbsoluteFill>
     </AbsoluteFill>
   );

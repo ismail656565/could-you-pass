@@ -850,3 +850,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **Reaktions-CTA in Flaggen-Shorts ab Real or Fake #2:** letzte Antwortzeile endet mit „Got all four? Hit like, and follow!“, Schlusskarte „GOT 4/4? HIT LIKE“ / „Follow for number N“, angepinnter Kommentar fragt nach Score + Like. Grund: Real or Fake #1 70–72 % stayed, aber nur ≈0,8 % Likes, 0 Abos. Erfolg: Likes ≥ 2 % der Views, ≥ 2 Abos/1k.
 - **Thumbnail wiederholt nie den Titel, ≤ 3 Wörter** (yt-package). Flag Blitz: „80/100?“ + „IMPOSSIBLE?“ + Flaggen-Collage.
 - **Kein Abo-Aufruf in den ersten 15–45 s eines Longs** (yt-script). Intro bestätigt nur den Titel; Abo-Bitte beim Start von Level 2 und am Schluss.
+
+## 2026-11-25 23:00 – Anti-KI-Look + Ehrlichkeit (Besitzer: „Repo Hallmark soll AI-Slop verschwinden lassen“; Nutlope/hallmark, MIT, gelesen, nicht installiert)
+- Hallmark ist ein Webseiten-Design-Skill (HTML/CSS, Themes, sloplint im Browser) – für Remotion-Videos nicht direkt nutzbar. Übernommen werden die „Floor“-Regeln, die auch in Grafiken als KI-gemacht auffallen:
+  1. **Keine erfundenen Zahlen.** Titel/Hooks ohne „90% Get #4 Wrong“, „Only 1 in 10“, „99% Miss“ (nicht belegt). Stattdessen echte Hürde: „Can You Get 4/4?“, „Can You Spot All 4?“, „The Last One Is Brutal“. Queue-Titel flag-duel-4/-5, real-fake-2/-3 umgestellt.
+  2. **Keine Labels in gesperrten Großbuchstaben, keine Punkt-verbundenen Meta-Zeilen** („TRUE OR FALSE? · EXAM“, „PAGE 1 OF 6“, „WHO IS MOST LIKELY TO… · 1/4“) → normale Schreibweise, ungesperrt (exam-Short, Mom or Dad, Flag Blitz angepasst).
+  3. **Kein Emoji als Icon-Ersatz, wo ein echtes Bild möglich ist** (Flaggen/Fotos/Zeichnungen vor Emoji-Aufkleber). Kein Lila-Blau-Verlauf, keine Karte in der Karte.
+- Flag-Duel-/Real-or-Fake-Look bleibt unverändert (läuft, 70 % stayed).

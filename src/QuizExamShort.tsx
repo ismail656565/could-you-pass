@@ -59,7 +59,7 @@ const Sheet: React.FC<{story: QuizStory; children?: React.ReactNode; style?: Rea
         <div style={{position: 'absolute', left: 72, top: 34, fontFamily: SERIF, fontSize: 72, color: K.ink, letterSpacing: -0.5}}>
           COULD YOU <span style={{color: K.red}}>PASS?</span>
         </div>
-        <div style={{position: 'absolute', left: 76, top: 126, fontFamily: TYPE, fontSize: 27, letterSpacing: 3, color: K.grey}}>{noEmoji(story.header || story.title).toUpperCase()} · EXAM</div>
+        <div style={{position: 'absolute', left: 76, top: 126, fontFamily: TYPE, fontSize: 30, color: K.grey}}>{noEmoji(story.title || story.header)}</div>
       </>
     )}
     {children}
@@ -231,7 +231,7 @@ export const ExamShortScene: React.FC<{q: QuizQuestion; index: number; total: nu
                 {noEmoji(q.fact)}
               </div>
             ) : null}
-            <div style={{position: "absolute", right: 50, top: 1180, fontFamily: TYPE, fontSize: 26, letterSpacing: 3, color: K.grey}}>PAGE {index + 1} OF {total}</div>
+            <div style={{position: "absolute", right: 50, top: 1180, fontFamily: TYPE, fontSize: 28, color: K.grey}}>page {index + 1} of {total}</div>
           </div>
         </Sheet>
 
@@ -256,7 +256,7 @@ export const ExamShortOutro: React.FC<{story: QuizStory}> = ({story}) => {
     <AbsoluteFill style={{overflow: 'hidden'}}>
       <Desk />
       <Sheet story={story}>
-        <div style={{position: 'absolute', left: 0, right: 0, top: 250, textAlign: 'center', fontFamily: TYPE, fontSize: 44, letterSpacing: 8, color: K.grey}}>RESULTS</div>
+        <div style={{position: 'absolute', left: 0, right: 0, top: 250, textAlign: 'center', fontFamily: TYPE, fontSize: 46, color: K.grey}}>Results</div>
         <div style={{position: 'absolute', left: 40, right: 40, top: 320, textAlign: 'center', fontFamily: HAND, fontWeight: 700, fontSize: 92, lineHeight: 1.1, color: K.redPen, transform: 'rotate(-2deg)'}}>{noEmoji(story.outroText) || 'How many did you get?'}</div>
         <div style={{position: 'absolute', left: 0, right: 0, top: 580, display: 'flex', justifyContent: 'center'}}>
           <div style={{position: 'relative', fontFamily: MARKER, fontSize: 230, color: K.redPen, lineHeight: 1}}>
