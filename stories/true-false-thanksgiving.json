@@ -1,0 +1,116 @@
+{
+ "type": "quiz",
+ "layout": "tvshow",
+ "title": "Thanksgiving True or False",
+ "header": "TRUE OR FALSE?",
+ "hook": "90% GET #4 WRONG 😏",
+ "teaser": "WAIT FOR #6 🤯",
+ "midLabel": "SCORE SO FAR? 👇",
+ "finalLabel": "FINAL ONE 🔥",
+ "ctaText": "How many did you get? Comment 👇",
+ "correctLabel": "CORRECT!",
+ "revealIcon": "",
+ "cardColors": [
+  "#B45309",
+  "#7C2D12"
+ ],
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.1,
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score 👇",
+ "questions": [
+  {
+   "q": "Wild turkeys can **fly**.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "TRUE OR FALSE",
+   "cardText": "🦃",
+   "start": 0.0,
+   "keywordAt": 1.925,
+   "countdownStart": 2.455,
+   "reveal": 4.955,
+   "end": 6.793
+  },
+  {
+   "q": "The Pilgrims ate **pumpkin pie** in 1621.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "TRUE OR FALSE",
+   "cardText": "🥧",
+   "start": 6.793,
+   "keywordAt": 7.706,
+   "countdownStart": 9.671,
+   "reveal": 12.171,
+   "end": 14.55
+  },
+  {
+   "q": "**Minnesota** raises the most turkeys in the US.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "TRUE OR FALSE",
+   "cardText": "🗺️",
+   "start": 14.55,
+   "keywordAt": 14.63,
+   "countdownStart": 17.317,
+   "reveal": 19.817,
+   "end": 21.572
+  },
+  {
+   "q": "The turkey bird is **named after** the country Turkey.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 0,
+   "level": "TRUE OR FALSE",
+   "cardText": "🌍",
+   "start": 21.572,
+   "keywordAt": 22.488,
+   "countdownStart": 24.153,
+   "reveal": 26.653,
+   "end": 28.794
+  },
+  {
+   "q": "Cranberries grow **underwater**.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "TRUE OR FALSE",
+   "cardText": "🫐",
+   "start": 28.794,
+   "keywordAt": 29.766,
+   "countdownStart": 30.643,
+   "reveal": 33.143,
+   "end": 35.839
+  },
+  {
+   "q": "Turkey makes you **sleepier** than other meats.",
+   "answers": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "level": "TRUE OR FALSE",
+   "cardText": "😴",
+   "start": 35.839,
+   "keywordAt": 37.139,
+   "countdownStart": 38.613,
+   "reveal": 41.113,
+   "end": 43.725
+  }
+ ],
+ "audio": "audio/true-false-thanksgiving.mp3",
+ "outroStart": 43.725,
+ "durationInSeconds": 43.725
+}

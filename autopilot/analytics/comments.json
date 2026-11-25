@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-25T03:35",
+ "fetched": "2026-11-25T06:14",
  "comments": [
   {
    "commentId": "UgyeMM0PPYPPPW0SSBF4AaABAg",
@@ -11,7 +11,7 @@
    "likes": 0,
    "published": "2026-11-24T23:28:01Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -24,7 +24,7 @@
    "likes": 0,
    "published": "2026-11-24T22:30:46Z",
    "kind": "SONSTIGES",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {
@@ -89,7 +89,7 @@
    "likes": 1,
    "published": "2026-11-24T07:27:54Z",
    "kind": "SCORE",
-   "answered": false,
+   "answered": true,
    "underOurComment": false
   },
   {

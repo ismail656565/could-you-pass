@@ -1125,9 +1125,17 @@
    "B",
    "C"
   ],
-  "current": "A",
-  "since": "2026-11-21",
-  "results": {},
+  "current": "B",
+  "since": "2026-11-25",
+  "results": {
+   "A": {
+    "views": 72,
+    "ctr": 18.0,
+    "metric": "views/day",
+    "from": "2026-11-21",
+    "to": "2026-11-25"
+   }
+  },
   "done": false
  },
  "scheduledFor": "2026-11-21T14:00+01:00",

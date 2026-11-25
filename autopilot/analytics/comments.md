@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-25 03:35
+# Zuschauer-Kommentare – Stand 2026-11-25 06:14
 
-Letzte 21 Tage, ohne unsere eigenen. 35 Kommentare, 3 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 35 Kommentare, 0 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -41,7 +41,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
   „4/4“
 - 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @Jobengskie · id `UgxQbBxtfEH3p1j3DHB4AaABAg`  
   „4/4“
-- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @neptuneee_official **[OFFEN]** · id `Ugx-XE0pOon7iw-1Jxx4AaABAg`  
+- 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @neptuneee_official · id `Ugx-XE0pOon7iw-1Jxx4AaABAg`  
   „4/4!“
 - 2026-11-23 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @JetsBigAdventures · id `UgxQ4Q0fN4LZfw-L3PZ4AaABAg`  
   „4/4“
@@ -66,9 +66,9 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SONSTIGES (18)
 
-- 2026-11-24 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @FakeDianaNeedsToBeStoped **[OFFEN]** · id `UgyeMM0PPYPPPW0SSBF4AaABAg`  
+- 2026-11-24 · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # · @FakeDianaNeedsToBeStoped · id `UgyeMM0PPYPPPW0SSBF4AaABAg`  
   „Yesssss!!!!!!!!!“
-- 2026-11-24 · Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts · @WildlyTrue65 **[OFFEN]** · id `UgzfsLhBDKPW3XmEqiB4AaABAg`  
+- 2026-11-24 · Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts · @WildlyTrue65 · id `UgzfsLhBDKPW3XmEqiB4AaABAg`  
   „4“
 - 2026-11-24 · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor · @veronikameskova8616 · id `Ugwe9hv8CMmzQ3F8Cvp4AaABAg`  
   „Yes!!!“

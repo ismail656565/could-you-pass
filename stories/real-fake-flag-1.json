@@ -1,0 +1,125 @@
+{
+ "id": "real-fake-flag-1",
+ "type": "flagduel",
+ "title": "Real or Fake Flag? #1",
+ "ask": "WHICH IS THE REAL",
+ "kicker": "CAN YOU GET 4/4?",
+ "hookLine": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.08,
+ "timing": {
+  "think": 2.6,
+  "move": 0.7,
+  "tail": 0.2,
+  "outro": 0.6
+ },
+ "outroText": "How many did you get?",
+ "outroSub": "Comment your score out of 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "target": "FRANCE",
+   "a": {
+    "flag": "fake/fr",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "fr",
+    "name": "France"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "Which is the real France? Left, or right?",
+    "a": "Right! Blue comes first."
+   },
+   "start": 0.0,
+   "qAudio": "audio/real-fake-flag-1/q1.mp3",
+   "aAudio": "audio/real-fake-flag-1/a1.mp3",
+   "thinkStart": 2.31,
+   "reveal": 4.91,
+   "moveEnd": 5.61,
+   "aStart": 5.46,
+   "end": 7.41
+  },
+  {
+   "level": "MEDIUM",
+   "target": "GERMANY",
+   "a": {
+    "flag": "de",
+    "name": "Germany"
+   },
+   "b": {
+    "flag": "fake/de",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "The real Germany?",
+    "a": "Left! Red in the middle."
+   },
+   "start": 7.41,
+   "qAudio": "audio/real-fake-flag-1/q2.mp3",
+   "aAudio": "audio/real-fake-flag-1/a2.mp3",
+   "thinkStart": 8.6,
+   "reveal": 11.2,
+   "moveEnd": 11.9,
+   "aStart": 11.75,
+   "end": 13.7
+  },
+  {
+   "level": "HARD",
+   "target": "LITHUANIA",
+   "a": {
+    "flag": "fake/lt",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "lt",
+    "name": "Lithuania"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "The real Lithuania?",
+    "a": "Right! Green in the middle."
+   },
+   "start": 13.7,
+   "qAudio": "audio/real-fake-flag-1/q3.mp3",
+   "aAudio": "audio/real-fake-flag-1/a3.mp3",
+   "thinkStart": 15.07,
+   "reveal": 17.67,
+   "moveEnd": 18.37,
+   "aStart": 18.22,
+   "end": 20.17
+  },
+  {
+   "level": "LEGEND",
+   "target": "SWEDEN",
+   "a": {
+    "flag": "se",
+    "name": "Sweden"
+   },
+   "b": {
+    "flag": "fake/se",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Last one. The real Sweden?",
+    "a": "Left! The cross sits off-centre. Follow for number two!"
+   },
+   "start": 20.17,
+   "qAudio": "audio/real-fake-flag-1/q4.mp3",
+   "aAudio": "audio/real-fake-flag-1/a4.mp3",
+   "thinkStart": 21.79,
+   "reveal": 24.39,
+   "moveEnd": 25.09,
+   "aStart": 24.94,
+   "end": 28.47
+  }
+ ],
+ "hook": {
+  "start": 0.0,
+  "end": 0.0
+ },
+ "durationInSeconds": 28.47
+}

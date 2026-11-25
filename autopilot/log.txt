@@ -2336,3 +2336,33 @@
 [2026-11-24 23:00:22] Kommentare: 34 Zuschauer-Kommentare (21 T), 2 unbeantwortet, 1 Fehler-Hinweise
 [2026-11-24 23:57:00] Kommentare: 35 Zuschauer-Kommentare (21 T), 3 unbeantwortet, 1 Fehler-Hinweise
 [2026-11-25 03:35:49] Kommentare: 35 Zuschauer-Kommentare (21 T), 3 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-25 06:14:43] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-25 06:14:43] Analytics gespeichert (100 Videos)
+[2026-11-25 06:14:43] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-25 06:14:43] Thumbnail-Test capital-cities-quiz-30-1: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-25 06:14:45] Thumbnail-Test capital-cities-quiz-30-1: jetzt Variante A (Gewinner)
+[2026-11-25 06:14:45] Thumbnail-Test flag-quiz-30-1: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-25 06:14:50] Thumbnail-Test flag-quiz-30-1: jetzt Variante A (Gewinner)
+[2026-11-25 06:14:50] Thumbnail-Test movie-emoji-30-1: Variante C → {'views': 0, 'ctr': 0.0, 'metric': 'views/day'}
+[2026-11-25 06:14:52] Thumbnail-Test movie-emoji-30-1: jetzt Variante A (Gewinner)
+[2026-11-25 06:14:52] Thumbnail-Test thanksgiving-quiz-50-1: Variante A → {'views': 72, 'ctr': 18.0, 'metric': 'views/day'}
+[2026-11-25 06:14:54] Thumbnail-Test thanksgiving-quiz-50-1: jetzt Variante B
+[2026-11-25 06:14:55] Kommentar-Antworten gepostet: 3
+[2026-11-25 06:14:56] Kommentare: 35 Zuschauer-Kommentare (21 T), 0 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-25 06:14:56] Produziere real-fake-flag-1 (short)
+[2026-11-25 06:15:58] Gerendert
+[2026-11-25 06:16:03] QA: -19.7 LUFS, TP -4.6 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 91.9, Dauer 28.6 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-25 06:16:07] Hochgeladen: https://youtube.com/watch?v=mKttO2L8cds (private)
+[2026-11-25 06:16:08] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-25 06:16:08] Geplant für 25.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-25 06:16:08] Produziere true-false-thanksgiving (short)
+[2026-11-25 06:16:08] Stimme: Kokoro bf_emma:70+bf_isabella:30
+[2026-11-25 06:16:19] Ton fertig: 43.7 s
+[2026-11-25 06:17:17] Gerendert
+[2026-11-25 06:17:24] QA: -19.7 LUFS, TP -3.2 dBTP → normalisiert auf −14, Standbild max 3.4 s, Frame0-Luma 98.8, Dauer 43.8 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-25 06:17:27] Hochgeladen: https://youtube.com/watch?v=Eq6-MXbYEk8 (private)
+[2026-11-25 06:17:27] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-25 06:17:27] Geplant für 25.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-25 06:17:27] Heute schon 2 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-25 06:17:27] Heute kein Long-Tag (Di/Do/Sa) – langes Video bleibt in der Warteschlange.
+[2026-11-25 06:17:35] Konkurrenz: 25 Kanäle, 125 Gewinner-Videos

@@ -49,7 +49,12 @@
     ],
     "correct": 0,
     "level": "TRUE OR FALSE",
-    "cardText": "🦃"
+    "cardText": "🦃",
+    "start": 0.0,
+    "keywordAt": 1.925,
+    "countdownStart": 2.455,
+    "reveal": 4.955,
+    "end": 6.793
    },
    {
     "q": "The Pilgrims ate **pumpkin pie** in 1621.",
@@ -59,7 +64,12 @@
     ],
     "correct": 1,
     "level": "TRUE OR FALSE",
-    "cardText": "🥧"
+    "cardText": "🥧",
+    "start": 6.793,
+    "keywordAt": 7.706,
+    "countdownStart": 9.671,
+    "reveal": 12.171,
+    "end": 14.55
    },
    {
     "q": "**Minnesota** raises the most turkeys in the US.",
@@ -69,7 +79,12 @@
     ],
     "correct": 0,
     "level": "TRUE OR FALSE",
-    "cardText": "🗺️"
+    "cardText": "🗺️",
+    "start": 14.55,
+    "keywordAt": 14.63,
+    "countdownStart": 17.317,
+    "reveal": 19.817,
+    "end": 21.572
    },
    {
     "q": "The turkey bird is **named after** the country Turkey.",
@@ -79,7 +94,12 @@
     ],
     "correct": 0,
     "level": "TRUE OR FALSE",
-    "cardText": "🌍"
+    "cardText": "🌍",
+    "start": 21.572,
+    "keywordAt": 22.488,
+    "countdownStart": 24.153,
+    "reveal": 26.653,
+    "end": 28.794
    },
    {
     "q": "Cranberries grow **underwater**.",
@@ -89,7 +109,12 @@
     ],
     "correct": 1,
     "level": "TRUE OR FALSE",
-    "cardText": "🫐"
+    "cardText": "🫐",
+    "start": 28.794,
+    "keywordAt": 29.766,
+    "countdownStart": 30.643,
+    "reveal": 33.143,
+    "end": 35.839
    },
    {
     "q": "Turkey makes you **sleepier** than other meats.",
@@ -99,9 +124,17 @@
     ],
     "correct": 1,
     "level": "TRUE OR FALSE",
-    "cardText": "😴"
+    "cardText": "😴",
+    "start": 35.839,
+    "keywordAt": 37.139,
+    "countdownStart": 38.613,
+    "reveal": 41.113,
+    "end": 43.725
    }
-  ]
+  ],
+  "audio": "audio/true-false-thanksgiving.mp3",
+  "outroStart": 43.725,
+  "durationInSeconds": 43.725
  },
  "lines": [
   {
@@ -128,5 +161,27 @@
    "q": "Last one. Turkey makes you sleepier than other meats.",
    "a": "False! Blame the big meal. Go again!"
   }
- ]
+ ],
+ "qa": {
+  "lufs": -19.7,
+  "truePeak": -3.2,
+  "lra": 7.0,
+  "normalized": true,
+  "frozenShare": 0.633,
+  "longestFreezeSec": 3.4,
+  "frame0Luma": 98.8,
+  "hasAudio": true,
+  "durationSec": 43.8,
+  "longestBlackSec": 0.0,
+  "longestSilenceSec": 0.0,
+  "warnings": [],
+  "blocked": []
+ },
+ "scheduledFor": "2026-11-25T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "Eq6-MXbYEk8",
+  "at": "2026-11-25T06:17"
+ }
 }
