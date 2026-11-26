@@ -2440,3 +2440,5 @@
 [2026-11-26 17:47:23] Konkurrenz: 25 Kanäle, 119 Gewinner-Videos
 [2026-11-26 18:22:52] real-fake-flag-2: noch nicht öffentlich – Kommentar später
 [2026-11-26 18:22:52] Kommentare: 39 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-26 18:57:53] real-fake-flag-2: noch nicht öffentlich – Kommentar später
+[2026-11-26 18:57:53] Kommentare: 40 Zuschauer-Kommentare (21 T), 2 unbeantwortet, 1 Fehler-Hinweise

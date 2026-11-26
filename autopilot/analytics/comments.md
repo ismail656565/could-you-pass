@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-26 18:22
+# Zuschauer-Kommentare – Stand 2026-11-26 18:57
 
-Letzte 21 Tage, ohne unsere eigenen. 39 Kommentare, 1 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 40 Kommentare, 2 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 4/4 |
 | Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 4/4 |
 | Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 4/4 |
 | Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts | 4/4 |
@@ -35,8 +36,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (16)
+## SCORE (17)
 
+- 2026-11-26 · Flag Quiz #5: Which One Is Liberia? The Last One I · @gloriausuman7264 **[OFFEN]** · id `Ugz5EM8RBKzoXXvcJud4AaABAg`  
+  „4/4“
 - 2026-11-26 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @aroomacanvas · id `Ugy1F_ghLiEAk5U1ytB4AaABAg`  
   „4/4“
 - 2026-11-25 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @WildlyTrue65 · id `UgyKFsyl1czKJJfZlkN4AaABAg`  
