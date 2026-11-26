@@ -1,8 +1,8 @@
-# Plan 2026-11-25
+# Plan 2026-11-26
 
-Data (median ~890 views): gaming history still best (tetris 1,932, nintendosony 1,774, gameboy 1,642). New animal shorts: Greenland shark 385 (2 days), space animals 172 (1 day) – below median; Zack-style "The X That…" alone is not enough. Production PAUSED (owner reviewing the new motion look) – plan stays ready.
-Retention: bird short 94 % at the end (best loop); every curve loses most at 4.5–6.7 s = beat 2.
-Competitors: E. FRANK iykYjcSycNg "5 Extinct Animals Scientists Are Bringing Back 😨" (27×, 8.5M), j7MMYEKv9g4 "5 Animals That Can Survive Without Sleep 😱" (17×, 5.2M), 3CRpIIT5Uvs hybrids (14×) = LIST of 5, each item = one huge animal close-up + one shock word caption ("CROSS", "UNGUARDED"), ~5 s per item, numbered title + 😱/😨. Wildest Dose "What is THAT?!" (18×) = mystery creature close-up.
+Data (median ~890): gaming history still best (tetris 1,932, nintendosony 1,774, gameboy 1,642). Greenland shark 388 (43 % stayed), space animals 175 – single-animal stories below median. Production PAUSED (owner reviewing the new motion look) – plan stays ready.
+Retention: every curve loses most at 4.5–6.7 s = beat 2.
+Competitors: E. FRANK iykYjcSycNg "5 Extinct Animals Scientists Are Bringing Back 😨" (28×, 8.6M), j7MMYEKv9g4 (17×), 3CRpIIT5Uvs (14×) = LIST of 5 with one huge animal close-up per item; The Wildest Dose dP0-jKtFhzY "What is THAT?!" (18×) = one bizarre creature on plain background (thumbnail checked).
 
 ## Rules
 - Mix: ~60 % gaming / pop-culture history (proven), ~40 % animal LISTS "5 Animals That…" (new, competitor-proven) – single animal stories only if the claim is extreme.

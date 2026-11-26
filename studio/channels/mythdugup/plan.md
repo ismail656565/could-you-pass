@@ -1,10 +1,8 @@
-# Plan 2026-11-25 (evening) – NEWS PIVOT (owner decision)
+# Plan 2026-11-26
 
-Owner 2026-11-24/25: Myth Dug Up now covers CURRENT NEWS only ("die alten Geschichten interessieren keinen"). Archaeology episodes 005–007 were moved to parked/ (do not upload; do not write new archaeology topics). Long videos: separate news task (3x/week). This is a TEST of news Shorts – compare views/stayed % with Troy short (774 views).
-
-Data: first news shorts today (Senegal AFCON, CrowdStrike–Zscaler: 0, still scheduled); last archaeology shorts Heracleion 40, Vikings 123, Troy 913. Nvidia long goes live 26.11. 17:00. No verdict before 02.12. (compare with Troy 913).
-Competitors: Rap Underworld NxtE25hhgu0 (97×, 754k) / XPqBkvM2OK0 (25×) = ONGOING court case told as a series ("…Finally Breaks Silence In Court", "…Is In SERIOUS Trouble After X Testifies"), thumbnail = two people + 2–3 word red/white text ("LIFE WASTED", "HE KNEW") + "BREAKING NEWS" bar. Matt Cullen O6c_UFv_428 "The X Rabbit Hole Is So Much Darker Than Anyone Realized…" (3.6×, 489k). Added @ColdFusion (tech/business explainers) as a cleaner news competitor.
-Pattern adopted: FOLLOW-UP SERIES – when a story from our own shorts/longs gets a new development, do a follow-up short ("Update #2") with the new fact in line 1; titles with "Just" + development ("…Just Got Its Title Back", "…Just Lost in Court").
+NEWS PIVOT TEST (owner decision 25.11.): only current news (last 24–72 h), no archaeology. Verdict on 02.12. vs. Troy short (913 views).
+Data: first news short Senegal AFCON 49 views after 1 day (last archaeology shorts: Vikings 145, Heracleion 103, Troy 913). CrowdStrike, Huawei, Tidal shorts + Nvidia long go live today → no verdict yet.
+Early signal: the Senegal title explained a sports ruling (low curiosity outside fans). Prefer stories with a number + a villain/twist that affects the viewer (tech, money, AI, space). Competitors: Rap Underworld NxtE25hhgu0 (75×) = follow-up series on one ongoing case; ColdFusion PptRrzYY61w "The NVIDIA Scandal Goes Deeper than You Think" (4.1×, 2.9M) – matches our Nvidia long → do an "Update #2" short if the story moves. Competitors: Fervent (trailer reviews, off-niche) replaced by @TLDRnews + @LogicallyAnswered (faceless news/business explainers).
 
 ## Rules
 - Topic: one story from the last 24–72 h with a twist or a big number (tech, business, science, space, world, courts against companies/institutions). Must be confirmed by ≥ 2 reliable outlets.

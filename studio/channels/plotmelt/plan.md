@@ -1,8 +1,8 @@
-# Plan 2026-11-25
+# Plan 2026-11-26
 
-Data: "He Bought a $50 Couch. Something Was Living In It." 1,340 views, 50 % stayed, 98 % avg viewed (best Studio short). Cat-keys 196 (today), Robot vacuum (first-person title, today) 0. Smart-fridge long 0.
-What works: object everyone owns + cheap/strange purchase + "Something…" mystery in two short sentences; 25–30 s.
-Competitors: Zealot gKYMcV4AbPg "When you start feeding your pet power ups" (9×, 2.2M) and 11 more at 1.5–4.4× = MEME CAPTION format: white band at the top with "When the game's boss joins your party" (black bold text, 2–4 lines), cartoon gag below, no narration needed for the joke, title = the caption. Added competitors: Cas van de Pol, Haminations (animated gag shorts).
+Data: "He Bought a $50 Couch. Something Was Living In It." 1,345 views (98 % avg viewed) and "A Cat Kept Leaving Him Keys. Then He Found the Door." 1,225 (was 196 on day 1) = two hits in a row. Robot vacuum (first-person) + 3 AM pizza no data yet; smart-fridge long 0.
+What works: everyday thing + strange repeated behaviour/purchase + mystery in two short sentences, 22–30 s, twist reveal at the end. This is now the PROVEN formula (2 of 3 shorts).
+Competitors: Zealot gKYMcV4AbPg "When you start feeding your pet power ups" (10.8×, 2.4M), kcUGWzLT8KE (3×) = meme caption in a white top band, bold black text 3–4 lines, bright flat cartoon below (thumbnail checked). Our version = 006 "When…" experiment (own characters only).
 
 ## Rules
 - Exploit format (2 of 3): tiny original story, 25–35 s, max ~80 words, one location, one main character, twist in the final 5 s, last frame loops to the first. Hook = the strange detail immediately; line 2 = a second, stranger detail. Title: two short sentences, setup + unease (≤ 60 chars).
@@ -11,13 +11,13 @@ Competitors: Zealot gKYMcV4AbPg "When you start feeding your pet power ups" (9×
 - Style: inked cartoon, bold outlines, 2–3 colours per scene, big expressions. Stories original, no known characters/brands/games.
 - Long videos: meta.json "thumb" = 2–4 huge words ≠ title ("IT WAS ALIVE"), shot = character face + object close-up.
 
-## Next 3 episodes (after 004-3am-pizza)
-1. 005-old-photo – "He Found His Face in a 100-Year-Old Photo. #shorts". Hook: "In a flea-market photo from 1925, he saw his own face." L2: "Same mole. Same watch – the one on his wrist right now." Twist: back of the photo in his handwriting: "Don't buy the watch." Why: EXPLOIT (object + mystery, Couch pattern). (written: 005-old-photo)
-2. 006-dragon-weakness – "When the Dragon Has One Weird Weakness". Top caption: "When the dragon\nhas ONE weakness". Lines: "The knight tried fire." / "He tried swords. Arrows. A catapult." / "Then the dragon saw it… a tiny spider." Punchline: the giant dragon on a chair screaming, knight holding the spider; stamp "CRITICAL HIT". Why: EXPERIMENT competitor gKYMcV4AbPg/_Lq8avSG64Y "When…" format (own fantasy gag, no game IP).
-3. 007-cheap-plumber – "He Hired the Cheapest Plumber in Town. Big Mistake. #shorts". Hook: "The plumber cost five dollars. He brought a spoon." L2: "Then he said: 'Stand back.'" Escalation: water everywhere → fish in the kitchen; twist: plumber leaves, the leak is fixed and the house is now an aquarium he likes. Why: EXPLOIT + vidIQ pattern (1.7M "let his friend fix the leak").
-(Grandma-room first-person idea parked until robot-vacuum verdict.)
+## Next 3 episodes (after 005-old-photo)
+1. 006-dragon-weakness – EXPERIMENT "When…" caption: "When the Dragon Has One Weird Weakness". Top caption: "When the dragon\nhas ONE weakness". Lines: "The knight tried fire." / "He tried swords. Arrows. A catapult." / "Then the dragon saw it… a tiny spider." Punchline: the giant dragon on a chair, screaming; stamp "WEAKNESS FOUND". Why: competitor Zealot gKYMcV4AbPg pattern (own story).
+2. 007-dog-wall – EXPLOIT (pet + repeated strange behaviour, like cat-keys): "His Dog Stared at One Wall for a Week. Then He Opened It. #shorts". Hook: "For seven days, his dog stared at the same spot on the wall." L2: "It didn't bark. It just sniffed – and wagged." Then: "He knocked. Something knocked back – very softly." Twist: behind the plaster, a tiny mouse bakery with lights and fresh bread; last line: "The dog had smelled the bread all week." Loop: last frame = dog staring at the wall again. Cosy, not horror. Why: exploit of 002 (1,225) + 001 (1,345).
+3. 008-cheap-plumber – "He Hired the Cheapest Plumber in Town. Big Mistake. #shorts". Hook: "The plumber cost five dollars. He brought a spoon." L2: "Then he said: 'Stand back.'" Escalation: water everywhere → fish in the kitchen; twist: plumber leaves, the leak is fixed – the house is now an aquarium. Why: vidIQ "friend fixes the leak" pattern (1.7M), own story.
 
 ## Experiments
+- EXPLOIT confirmed 26.11.: "[Pet/thing] kept [strange act]. Then he found …" (Couch 1,345, Cat keys 1,225).
 - First-person titles (003 robot vacuum) – verdict 02.12.; only continue if ≥ median.
 - "When…" meme caption format (006) – verdict after 7 days; if ≥ Couch level, make it a weekly series.
 
