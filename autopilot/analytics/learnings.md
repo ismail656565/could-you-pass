@@ -879,3 +879,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 ## 2026-11-26 14:55 – Real or Fake #1 n. ≈18 h (Besitzer-Screenshot: „es bleibt einfach hängen“)
 - 2,1k Views (+93 % vs. andere Shorts, „mehr geteilt“), 1,2k Engaged Views, **72,6 % stayed** (Rekord gehalten), +2 Abos (≈1/1k), 0 Hypes. Kurve: 0→1,4k in ≈2 h, dann flach ≈12 h, ab ≈14 h leichter Anstieg (späte Welle wie Flag Duel #1/#2).
 - Deutung: Zuschauen ist nicht mehr das Problem; es fehlen Reaktionen (Likes/Kommentare/Abos pro View) und Anzahl Versuche. Ausreißer im Flaggen-Nischenmarkt kommen bei Kanälen mit vielen Folgen (WonderQ, Globonk) → mehr Folgen pro Tag im Gewinnerformat ist der größte Hebel.
+
+## 2026-11-26 15:45 – STRATEGIE (Besitzer: „Ja“ zu 3 Shorts pro Tag) – GILT AB SOFORT
+- **3 Shorts pro Tag ab Fr 27.11.:** 12:00 „Missing Symbol Flag Quiz #N“ · 16:00 Flag Duel · 21:00 Real or Fake. Longs bleiben Di/Do/Sa 14:00.
+- Code: SHORT_SLOTS = 12:00/16:00/21:00 (autopilot.py), Fallback-Generator füllt bis 3, Erst-Kommentar-Lauf 11:20 UTC.
+- Missing Symbol = flagduel-Renderer wie Real or Fake; Fälschung = echte Flagge ohne Wappen/Symbol (public/flags/fake/). Nur Flaggen, deren symbolfreie Version KEINE echte Flagge ist (verboten: Mexiko≈Italien, Spanien/Guatemala/Argentinien/Haiti/Costa Rica/Dom. Rep. = echte Zivilflaggen, Libanon≈Österreich, Paraguay≈Niederlande, Kanada≈Peru, Ecuador≈Kolumbien, Albanien/China/Vietnam/Japan = einfarbig, Israel/Saudi-Arabien sensibel).
+- Fakes benutzt (Missing Symbol): pt ke kh kz ug bb cy mt bt pg mn sz.
+- Verdict nach 7 Tagen (03.12.): Bleibt der Median Views pro Short ≥ Median der 2-Shorts-Woche, bleiben es 3; fällt er um > 30 %, zurück auf 2.

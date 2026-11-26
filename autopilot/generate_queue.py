@@ -145,7 +145,7 @@ def ensure_queue():
                 queued_keys.add(key)
 
     missing = {
-        "short": max(0, 2 - done_today["short"] - len(queued["short"])),
+        "short": max(0, 3 - done_today["short"] - len(queued["short"])),
         # lange Videos nur Di/Do/Sa (siehe LONG_DAYS in autopilot.py)
         "long": max(0, (1 if today.weekday() in (1, 3, 5) else 0) - done_today["long"] - len(queued["long"])),
     }
@@ -249,7 +249,7 @@ def ensure_queue():
     for offset in range(missing["short"]):
         slot = done_today["short"] + len(queued["short"]) + offset
         suffix = f"short-{slot + 1}"
-        specs.append((suffix, "short", pool[cursor:cursor + 1], ("16:00", "21:00")[min(slot, 1)]))
+        specs.append((suffix, "short", pool[cursor:cursor + 1], ("12:00", "16:00", "21:00")[min(slot, 2)]))
         cursor += 1
     if missing["long"]:
         rank = {"EASY": 0, "MEDIUM": 1, "HARD": 2, "VERY HARD": 3, "EXPERT": 3, "LEGEND": 4}

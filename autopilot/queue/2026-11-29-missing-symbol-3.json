@@ -1,0 +1,110 @@
+{
+ "id": "missing-symbol-3",
+ "publishAt": "12:00",
+ "youtube": {
+  "title": "Missing Symbol Flag Quiz #3: Spot the Real Bhutan 🔍 #shorts",
+  "description": "One flag is real, the other lost its symbol – pick the real one before the countdown ends 🔍 Bhutan, Papua New Guinea, Mongolia and Eswatini.\nComment your score out of 4 👇\n\nFollow – a new Missing Symbol quiz drops every day! 🌍\n\n#flagquiz #missingsymbol #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), edited versions by us. Music: original.",
+  "tags": [
+   "missing symbol flag",
+   "flag quiz",
+   "guess the flag",
+   "real or fake flag",
+   "flags of the world",
+   "bhutan flag",
+   "papua new guinea flag",
+   "mongolia flag",
+   "eswatini flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "missing-symbol-3",
+  "type": "flagduel",
+  "title": "Missing Symbol #3",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 4",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "BHUTAN",
+    "a": {
+     "flag": "bt",
+     "name": "Bhutan"
+    },
+    "b": {
+     "flag": "fake/bt",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Which is the real Bhutan? Left, or right?",
+     "a": "Left! The thunder dragon."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "PAPUA NEW GUINEA",
+    "a": {
+     "flag": "fake/pg",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "pg",
+     "name": "Papua New Guinea"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Papua New Guinea?",
+     "a": "Right! The bird of paradise."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "MONGOLIA",
+    "a": {
+     "flag": "mn",
+     "name": "Mongolia"
+    },
+    "b": {
+     "flag": "fake/mn",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Mongolia?",
+     "a": "Left! The Soyombo symbol."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "ESWATINI",
+    "a": {
+     "flag": "fake/sz",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "sz",
+     "name": "Eswatini"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. The real Eswatini?",
+     "a": "Right! Shield and spears. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

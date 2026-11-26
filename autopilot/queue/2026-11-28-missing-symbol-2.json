@@ -1,0 +1,110 @@
+{
+ "id": "missing-symbol-2",
+ "publishAt": "12:00",
+ "youtube": {
+  "title": "Missing Symbol Flag Quiz #2: Spot the Real Uganda 🔍 #shorts",
+  "description": "One flag is real, the other lost its symbol – pick the real one before the countdown ends 🔍 Uganda, Barbados, Cyprus and Malta.\nComment your score out of 4 👇\n\nFollow – a new Missing Symbol quiz drops every day! 🌍\n\n#flagquiz #missingsymbol #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), edited versions by us. Music: original.",
+  "tags": [
+   "missing symbol flag",
+   "flag quiz",
+   "guess the flag",
+   "real or fake flag",
+   "flags of the world",
+   "uganda flag",
+   "barbados flag",
+   "cyprus flag",
+   "malta flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "missing-symbol-2",
+  "type": "flagduel",
+  "title": "Missing Symbol #2",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 3",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "UGANDA",
+    "a": {
+     "flag": "fake/ug",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "ug",
+     "name": "Uganda"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Which is the real Uganda? Left, or right?",
+     "a": "Right! The crowned crane."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "BARBADOS",
+    "a": {
+     "flag": "bb",
+     "name": "Barbados"
+    },
+    "b": {
+     "flag": "fake/bb",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Barbados?",
+     "a": "Left! The broken trident."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "CYPRUS",
+    "a": {
+     "flag": "cy",
+     "name": "Cyprus"
+    },
+    "b": {
+     "flag": "fake/cy",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Cyprus?",
+     "a": "Left! The island itself."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "MALTA",
+    "a": {
+     "flag": "fake/mt",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "mt",
+     "name": "Malta"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. The real Malta?",
+     "a": "Right! The George Cross. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

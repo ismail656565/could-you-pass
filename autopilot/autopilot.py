@@ -375,7 +375,7 @@ def build_audio(item, out_mp3):
 
 # ---------------------------------------------------------------- Upload
 PUBLISH_AT = {'short': '16:00', 'long': '14:00'}  # deutsche Uhrzeit
-SHORT_SLOTS = ['16:00', '21:00']  # bis zu 2 Shorts pro Tag (UK-Nachmittag / US-Nachmittag)
+SHORT_SLOTS = ['12:00', '16:00', '21:00']  # bis zu 3 Shorts pro Tag (UK-Mittag / UK-Nachmittag / US-Nachmittag) – Besitzer 26.11.
 PER_DAY = {'short': len(SHORT_SLOTS), 'long': 1}
 # Lange Videos nur noch an festen Tagen (0 = Montag): Di, Do, Sa. Grund (09.11.): 20 tägliche Longs seit 22.10.
 # mit 0–14 Views – lieber 3 starke pro Woche als 7 gleichförmige; spart außerdem Action-Minuten.

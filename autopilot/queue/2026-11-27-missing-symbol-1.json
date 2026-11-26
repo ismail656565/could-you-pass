@@ -1,0 +1,110 @@
+{
+ "id": "missing-symbol-1",
+ "publishAt": "12:00",
+ "youtube": {
+  "title": "Missing Symbol Flag Quiz #1: Spot the Real Portugal 🔍 #shorts",
+  "description": "One flag is real, the other lost its symbol – pick the real one before the countdown ends 🔍 Portugal, Kenya, Cambodia and Kazakhstan.\nComment your score out of 4 👇\n\nFollow – a new Missing Symbol quiz drops every day! 🌍\n\n#flagquiz #missingsymbol #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), edited versions by us. Music: original.",
+  "tags": [
+   "missing symbol flag",
+   "flag quiz",
+   "guess the flag",
+   "real or fake flag",
+   "flags of the world",
+   "portugal flag",
+   "kenya flag",
+   "cambodia flag",
+   "kazakhstan flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "missing-symbol-1",
+  "type": "flagduel",
+  "title": "Missing Symbol #1",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 2",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "PORTUGAL",
+    "a": {
+     "flag": "pt",
+     "name": "Portugal"
+    },
+    "b": {
+     "flag": "fake/pt",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Which is the real Portugal? Left, or right?",
+     "a": "Left! It keeps its shield."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "KENYA",
+    "a": {
+     "flag": "fake/ke",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "ke",
+     "name": "Kenya"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Kenya?",
+     "a": "Right! The Maasai shield."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "CAMBODIA",
+    "a": {
+     "flag": "fake/kh",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "kh",
+     "name": "Cambodia"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Cambodia?",
+     "a": "Right! Angkor Wat stays."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "KAZAKHSTAN",
+    "a": {
+     "flag": "kz",
+     "name": "Kazakhstan"
+    },
+    "b": {
+     "flag": "fake/kz",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. The real Kazakhstan?",
+     "a": "Left! The golden pattern by the pole. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

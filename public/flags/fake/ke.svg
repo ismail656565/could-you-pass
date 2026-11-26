@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="fake-ke" viewBox="0 0 640 480">
+  <path fill="#fff" d="M0 0h640v480H0z"/>
+  <path fill="#000001" d="M0 0h640v144H0z"/>
+  <path fill="#060" d="M0 336h640v144H0z"/>
+  <path fill="#b00" d="M0 168h640v144H0z"/>
+</svg>
