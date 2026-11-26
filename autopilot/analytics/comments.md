@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-26 06:12
+# Zuschauer-Kommentare – Stand 2026-11-26 17:46
 
-Letzte 21 Tage, ohne unsere eigenen. 39 Kommentare, 0 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 39 Kommentare, 1 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 4/4 |
 | Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 4/4 |
 | Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts | 4/4 |
 | Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 4/4 |
@@ -22,12 +23,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4/4 |
 | This Map Is Lying To You 🌍 Which Is REALLY Bigger? #shorts | 3/4 |
 
-## FEHLER-HINWEIS (2)
+## FEHLER-HINWEIS (1)
 
 - 2026-11-25 · This Map Is Lying To You #8 🌍 Which Is REALLY Bigg · @s_1keb · id `UgyqsndOtJeulTqVu1J4AaABAg`  
   „Ohhh , so by the map fools you , you meant the map has bigger proportions for some countries , but a real one would show it actually smaller . Cuz those shi aint bigger“
-- 2026-11-05 · Which Has More People? 4 Rounds 90% Get Wrong 👥 #s · @AdnanSadaqat-q7d · id `Ugz_46qaxIYdWtQay5d4AaABAg`  
-  „I only got 1 wrong“
 
 ## FRAGE (2)
 
@@ -36,8 +35,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (15)
+## SCORE (16)
 
+- 2026-11-26 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @aroomacanvas · id `Ugy1F_ghLiEAk5U1ytB4AaABAg`  
+  „4/4“
 - 2026-11-25 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @WildlyTrue65 · id `UgyKFsyl1czKJJfZlkN4AaABAg`  
   „4/4“
 - 2026-11-24 · Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts · @mayhomestays · id `Ugzr6w6lvaf8IzLXVC54AaABAg`  
@@ -71,6 +72,8 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SONSTIGES (20)
 
+- 2026-11-26 · Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #s · @michaeltomassi5202 **[OFFEN]** · id `UgxvpoLqrvwhF-ILrEx4AaABAg`  
+  „uhijh“
 - 2026-11-25 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @Pirl1776 · id `UgwHB5dcTtoP2vJ_esp4AaABAg.AddujkeE1pIAddvDKxgUr1`  
   „@CouldYouPassItyeah“
 - 2026-11-25 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @Pirl1776 · id `UgwHB5dcTtoP2vJ_esp4AaABAg`  
@@ -109,5 +112,3 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
   „Jupiter, I think you could throw the rings in and it would still be bigger; let’s ask Dr . Degrass Tysen“
 - 2026-11-07 · Only Geniuses Get 6/6 🧠 Capital Cities Quiz #short · @softdooggy · id `Ugy0UgXIvujfFC9Bui54AaABAg`  
   „Paris“
-- 2026-11-05 · Which Has More People? 4 Rounds 90% Get Wrong 👥 #s · @AdnanSadaqat-q7d · id `UgyQIHHCmKw_n62fVsx4AaABAg`  
-  „First comment“

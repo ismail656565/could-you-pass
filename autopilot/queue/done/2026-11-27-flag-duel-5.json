@@ -50,7 +50,15 @@
     "lines": {
      "q": "Who is Liberia? Left, or right?",
      "a": "Right! Just one star."
-    }
+    },
+    "start": 0.0,
+    "qAudio": "audio/flag-duel-5/q1.mp3",
+    "aAudio": "audio/flag-duel-5/a1.mp3",
+    "thinkStart": 2.03,
+    "reveal": 4.63,
+    "moveEnd": 5.33,
+    "aStart": 5.18,
+    "end": 7.13
    },
    {
     "level": "MEDIUM",
@@ -67,7 +75,15 @@
     "lines": {
      "q": "Who is Belgium?",
      "a": "Left! Stripes stand upright."
-    }
+    },
+    "start": 7.13,
+    "qAudio": "audio/flag-duel-5/q2.mp3",
+    "aAudio": "audio/flag-duel-5/a2.mp3",
+    "thinkStart": 8.24,
+    "reveal": 10.84,
+    "moveEnd": 11.54,
+    "aStart": 11.39,
+    "end": 13.34
    },
    {
     "level": "HARD",
@@ -84,7 +100,15 @@
     "lines": {
      "q": "Who is Bolivia?",
      "a": "Right! Red on top."
-    }
+    },
+    "start": 13.34,
+    "qAudio": "audio/flag-duel-5/q3.mp3",
+    "aAudio": "audio/flag-duel-5/a3.mp3",
+    "thinkStart": 14.55,
+    "reveal": 17.15,
+    "moveEnd": 17.85,
+    "aStart": 17.7,
+    "end": 19.65
    },
    {
     "level": "LEGEND",
@@ -101,8 +125,42 @@
     "lines": {
      "q": "Last one. Who is Kuwait?",
      "a": "Left! The black trapezoid. Got all four? Hit like, and follow!"
-    }
+    },
+    "start": 19.65,
+    "qAudio": "audio/flag-duel-5/q4.mp3",
+    "aAudio": "audio/flag-duel-5/a4.mp3",
+    "thinkStart": 21.16,
+    "reveal": 23.76,
+    "moveEnd": 24.46,
+    "aStart": 24.31,
+    "end": 28.07
    }
-  ]
- }
+  ],
+  "hook": {
+   "start": 0.0,
+   "end": 0.0
+  },
+  "durationInSeconds": 28.07
+ },
+ "qa": {
+  "lufs": -19.6,
+  "truePeak": -4.5,
+  "lra": 11.7,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 92.6,
+  "hasAudio": true,
+  "durationSec": 28.2,
+  "longestBlackSec": 0.0,
+  "longestSilenceSec": 0.0,
+  "warnings": [],
+  "blocked": []
+ },
+ "playlistAdded": true,
+ "uploaded": {
+  "videoId": "bLaUQ0g1SZM",
+  "at": "2026-11-26T17:47"
+ },
+ "linkedLong": "N1oIAEWgKZ8"
 }

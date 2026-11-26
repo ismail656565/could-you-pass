@@ -2422,3 +2422,19 @@
 [2026-11-26 06:44:26] Short-Beschreibung (real-fake-flag-2) verlinkt auf langes Video N1oIAEWgKZ8
 [2026-11-26 06:44:26] Short-Beschreibung (flag-duel-4) verlinkt auf langes Video N1oIAEWgKZ8
 [2026-11-26 06:44:36] Konkurrenz: 25 Kanäle, 120 Gewinner-Videos
+[2026-11-26 17:46:00] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-26 17:46:00] Analytics gespeichert (100 Videos)
+[2026-11-26 17:46:01] christmas-quiz-50-1: Kommentar gepostet
+[2026-11-26 17:46:01] flag-duel-4: Kommentar gepostet (mit Long-Link)
+[2026-11-26 17:46:01] real-fake-flag-2: noch nicht öffentlich – Kommentar später
+[2026-11-26 17:46:02] Kommentare: 39 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-26 17:46:02] Produziere flag-duel-5 (short)
+[2026-11-26 17:47:02] Gerendert
+[2026-11-26 17:47:07] QA: -19.6 LUFS, TP -4.5 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 92.6, Dauer 28.2 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-26 17:47:10] Hochgeladen: https://youtube.com/watch?v=bLaUQ0g1SZM (public)
+[2026-11-26 17:47:11] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-26 17:47:12] Kommentar gepostet
+[2026-11-26 17:47:12] Heute schon 3 short-Video(s) hochgeladen – nächstes morgen.
+[2026-11-26 17:47:12] Heute schon 1 long-Video(s) hochgeladen – nächstes morgen.
+[2026-11-26 17:47:13] Short-Beschreibung (flag-duel-5) verlinkt auf langes Video N1oIAEWgKZ8
+[2026-11-26 17:47:23] Konkurrenz: 25 Kanäle, 119 Gewinner-Videos
