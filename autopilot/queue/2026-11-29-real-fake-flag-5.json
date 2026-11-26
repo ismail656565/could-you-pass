@@ -1,0 +1,111 @@
+{
+ "id": "real-fake-flag-5",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "Real or Fake Flag? #5 Can You Spot the Real South Korea? 🧐 #shorts",
+  "description": "One flag is real, one is a sneaky fake – pick the real one before the countdown ends 🧐 South Korea, Greece, Spain and Chile.\nComment your score out of 4 👇\n\nFollow – Real or Fake Flag #6 drops tomorrow! 🌍\n\n#flagquiz #fakeflag #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), fakes edited by us. Music: original.",
+  "tags": [
+   "real or fake flag",
+   "fake flag",
+   "spot the fake flag",
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "south korea flag",
+   "greece flag",
+   "spain flag",
+   "chile flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "real-fake-flag-5",
+  "type": "flagduel",
+  "title": "Real or Fake Flag? #5",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 6",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "SOUTH KOREA",
+    "a": {
+     "flag": "kr",
+     "name": "South Korea"
+    },
+    "b": {
+     "flag": "fake/kr",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Which is the real South Korea? Left, or right?",
+     "a": "Left! Red sits on top."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "GREECE",
+    "a": {
+     "flag": "fake/gr",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "gr",
+     "name": "Greece"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Greece?",
+     "a": "Right! The cross sits top left."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "SPAIN",
+    "a": {
+     "flag": "fake/es",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "es",
+     "name": "Spain"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Spain?",
+     "a": "Right! The yellow band is double width."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "CHILE",
+    "a": {
+     "flag": "cl",
+     "name": "Chile"
+    },
+    "b": {
+     "flag": "fake/cl",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. The real Chile?",
+     "a": "Left! The star sits by the pole. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

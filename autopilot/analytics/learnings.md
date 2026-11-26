@@ -868,3 +868,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Flag Duel #3 (Qatar) 1.060 n. 1,2 T < #2 2.649 → LEGEND-Paare härter (13/14 gemeldete Scores 4/4); #7 LEGEND Cuba/Puerto Rico.
 - Lücke entdeckt: Fr 27.11. 16:00 ohne Short → flag-duel-5 auf 27.11. vorziehen (Produktion heute).
 - Publikum 40,5 % 65+ (report.json audience) → Long-Idee „Brain Test“ (GK STUDIO PRO 46,8k/50×), ohne Altersangabe im Titel. Kommentare 0 offen, kein Faktenfehler; Länderwunsch Lithuania (@Pirl1776) steckt in Flag Duel #5.
+
+## 2026-11-26 07:20 – Produktion (Queue 27.–29.11.)
+- Technik: alle Läufe 25.11. grün (0 Fehler); 25.11. (Mi, kein Long-Tag) = 2/2 Shorts (true-false-thanksgiving 16:00, real-fake-flag-1 21:00). Heute (Do, Long-Tag) liegen christmas-quiz-50-1 + flag-duel-4 + real-fake-flag-2 bereit. Kein Code-Fix nötig.
+- Lücke Fr 27.11. 16:00 geschlossen: flag-duel-5 → 2026-11-27 (Beschreibung „Lithuania requested by @Pirl1776“).
+- Shorts (report.json 25.11. 20:25, publicViews): Flag Duel #2 2.649 (Analytics 1.552 Views, 56 % stayed, +5 Abos), #3 1.060 n. ≈1,2 T, Real or Fake #1 696 (Zählerstand vor Besitzer-Screenshot 1.417); Karten-VS #8 699.
+- Longs: Rätsel-Long #2 26 Views n. ≈1,7 T (✗-Kurs). Thumbnails: CTR per API weiter HttpError 400.
+- Angelegt: flag-duel-6 (28.11., DK/CH, GH/CM, EG/YE, NE/IN, Gewinner a/b/a/b), flag-duel-7 (29.11., JP/BD, PE/CA, GR/UY, CU/PR, b/a/b/a), real-fake-flag-5 (29.11.; neue Fakes kr = Taegeuk-Farben vertauscht statt Trigramme – deutlicher sichtbar, gr = Kanton unten links, es = drei gleich breite Streifen, cl = blaues Feld rechts; a/b/b/a). Like-CTA („Got all four? Hit like, and follow!“, Schlusskarte GOT 4/4? HIT LIKE) jetzt auch in flag-duel-5/-6/-7 und real-fake-flag-4.

@@ -1,0 +1,108 @@
+{
+ "id": "flag-duel-6",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz #6: Which One Is Niger? The Last One Is Brutal 🌍 #shorts",
+  "description": "Two flags, almost the same – pick the right country before the countdown ends 🌍 Denmark, Ghana, Egypt and Niger.\nComment your score out of 4 👇\n\nFollow – a new flag duel drops every day! 🧠\n\n#flagquiz #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "niger vs india",
+   "denmark vs switzerland",
+   "ghana vs cameroon",
+   "egypt vs yemen",
+   "geography quiz",
+   "left or right",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "flag-duel-6",
+  "type": "flagduel",
+  "title": "Who Is DENMARK? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 7",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "DENMARK",
+    "a": {
+     "flag": "dk",
+     "name": "Denmark"
+    },
+    "b": {
+     "flag": "ch",
+     "name": "Switzerland"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Denmark? Left, or right?",
+     "a": "Left! The cross sits off-centre."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "GHANA",
+    "a": {
+     "flag": "cm",
+     "name": "Cameroon"
+    },
+    "b": {
+     "flag": "gh",
+     "name": "Ghana"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Ghana?",
+     "a": "Right! Black star, flat stripes."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "EGYPT",
+    "a": {
+     "flag": "eg",
+     "name": "Egypt"
+    },
+    "b": {
+     "flag": "ye",
+     "name": "Yemen"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Egypt?",
+     "a": "Left! The golden eagle."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "NIGER",
+    "a": {
+     "flag": "in",
+     "name": "India"
+    },
+    "b": {
+     "flag": "ne",
+     "name": "Niger"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. Who is Niger?",
+     "a": "Right! An orange circle. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

@@ -35,8 +35,8 @@
    "tail": 0.2,
    "outro": 0.6
   },
-  "outroText": "How many did you get?",
-  "outroSub": "Comment your score out of 4",
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 5",
   "rounds": [
    {
     "level": "EASY",
@@ -103,7 +103,7 @@
     "winner": "b",
     "lines": {
      "q": "Last one. The real United Kingdom?",
-     "a": "Right! The red diagonals are offset. Follow for number five!"
+     "a": "Right! The red diagonals are offset. Got all four? Hit like, and follow!"
     }
    }
   ]

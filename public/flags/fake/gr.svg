@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="fake-gr" viewBox="0 0 640 480">
+  <path fill="#0d5eaf" d="M0 0h640V53.3H0z"/>
+  <path fill="#fff" d="M0 53.3h640V106.7H0z"/>
+  <path fill="#0d5eaf" d="M0 106.7h640V160H0z"/>
+  <path fill="#fff" d="M0 160h640V213.3H0z"/>
+  <path fill="#0d5eaf" d="M0 213.3h640V266.7H0z"/>
+  <path fill="#fff" d="M0 266.7h640V320H0z"/>
+  <path fill="#0d5eaf" d="M0 320h640V373.3H0z"/>
+  <path fill="#fff" d="M0 373.3h640V426.7H0z"/>
+  <path fill="#0d5eaf" d="M0 426.7h640V480H0z"/>
+  <path fill="#0d5eaf" d="M0 213.3h266.7V480H0z"/>
+  <path fill="#fff" d="M106.7 213.3H160V480h-53.3z"/>
+  <path fill="#fff" d="M0 320h266.7v53.3H0z"/>
+</svg>
