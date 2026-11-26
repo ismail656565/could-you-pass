@@ -1,17 +1,17 @@
 {
  "id": "hiddenfrontlines",
  "name": "HiddenFrontlines",
- "checked": "2026-11-25",
+ "checked": "2026-11-26",
  "subs": 0,
- "views": 149,
+ "views": 168,
  "videos": [
   {
    "id": "cF6iJAGfPvg",
    "title": "The US Strapped Firebombs to Bats. They Burned Their Own Base. #shorts",
-   "published": "2026-11-25T13:35:32Z",
+   "published": "2026-11-25T17:30:02Z",
    "seconds": 35,
-   "views": 0,
-   "likes": 0,
+   "views": 36,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -19,8 +19,8 @@
    "title": "Britain Tried to Build an Aircraft Carrier Out of Ice #shorts",
    "published": "2026-11-24T17:30:25Z",
    "seconds": 34,
-   "views": 90,
-   "likes": 2,
+   "views": 202,
+   "likes": 5,
    "comments": 0
   },
   {
@@ -28,9 +28,15 @@
    "title": "The US Army Fought With Rubber Tanks. It Worked. #shorts",
    "published": "2026-11-23T17:30:36Z",
    "seconds": 29,
-   "views": 62,
-   "likes": 0,
-   "comments": 0
+   "views": 104,
+   "likes": 1,
+   "comments": 0,
+   "a_views": 9,
+   "engaged": 1,
+   "avgPct": 29.7,
+   "avgSec": 8,
+   "subs": 0,
+   "stayed": 11.1
   },
   {
    "id": "5d75kaUXnF8",

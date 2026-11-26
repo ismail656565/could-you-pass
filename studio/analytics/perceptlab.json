@@ -1,9 +1,9 @@
 {
  "id": "perceptlab",
  "name": "PERCEPT LAB",
- "checked": "2026-11-25",
+ "checked": "2026-11-26",
  "subs": 7,
- "views": 11369,
+ "views": 11675,
  "videos": [
   {
    "id": "90dY-p_l2WE",
@@ -19,8 +19,8 @@
    "title": "Stare at This Flag for 20 Seconds, Then Look at the White 👁️ #shorts",
    "published": "2026-11-24T19:11:44Z",
    "seconds": 38,
-   "views": 592,
-   "likes": 11,
+   "views": 1084,
+   "likes": 14,
    "comments": 0
   },
   {
@@ -30,7 +30,13 @@
    "seconds": 27,
    "views": 6,
    "likes": 0,
-   "comments": 0
+   "comments": 0,
+   "a_views": 4,
+   "engaged": 2,
+   "avgPct": 13.9,
+   "avgSec": 3,
+   "subs": 0,
+   "stayed": 50.0
   },
   {
    "id": "mV2kSVh4juo",

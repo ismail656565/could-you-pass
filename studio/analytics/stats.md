@@ -1,36 +1,36 @@
 # Eigene Kanäle – Zahlen
 
-Stand: 2026-11-25 14:51 UTC. Stayed = engagedViews/views (≈ „Stayed to watch“). Analytics-Zahlen hängen 1–2 Tage hinterher, Views (live) kommen direkt aus der Data-API.
+Stand: 2026-11-26 00:12 UTC. Stayed = engagedViews/views (≈ „Stayed to watch“). Analytics-Zahlen hängen 1–2 Tage hinterher, Views (live) kommen direkt aus der Data-API.
 
-## COULD YOU PASS? – 55 Abos, 53954 Views
-
-| Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
-|---|---|---|---:|---:|---:|---:|---:|
-| 2026-11-25 | Short | Thanksgiving True or False 🦃 90% Get #4 Wrong #shorts | 0 | – | – | – | 0 |
-| 2026-11-25 | Short | Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 0 | – | – | – | 0 |
-| 2026-11-24 | Short | This Map Is Lying To You #8 🌍 Which Is REALLY Bigger? #short | 574 | – | – | – | 3 |
-| 2026-11-24 | Short | Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts | 1062 | – | – | – | 10 |
-| 2026-11-24 | Long 4m | Test Your IQ: 12 Hard Riddles – Can You Solve 5? 🧠 | 25 | – | – | – | 0 |
-| 2026-11-23 | Short | This Map Is Lying To You #7 🌍 Which Is REALLY Bigger? #short | 945 | – | – | – | 12 |
-| 2026-11-23 | Short | Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 2616 | – | – | – | 48 |
-| 2026-11-22 | Short | This Map Is Lying To You #6 🌍 Which Is REALLY Bigger? #short | 1195 | 52.2 | 79.1 | 0 | 14 |
-| 2026-11-22 | Short | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 3799 | 56.2 | 83.6 | 19 | 89 |
-| 2026-11-21 | Short | This Map Is Lying To You #5 🌍 Which Is REALLY Bigger? #short | 1011 | 47.9 | 74.7 | 1 | 5 |
-| 2026-11-21 | Short | Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts | 1045 | 59.9 | 42.0 | 0 | 10 |
-| 2026-11-21 | Long 11m | Thanksgiving Trivia Quiz 🦃 50 Questions – Can You Get 40? | 99 | 69.4 | 28.1 | 0 | 0 |
-| 2026-11-20 | Short | This Map Is Lying To You #4 🌍 Which Is REALLY Bigger? #short | 1067 | 49.7 | 73.9 | 1 | 9 |
-| 2026-11-20 | Short | Quick IQ Test: Can You Get 6/6? 🧠 #shorts | 1017 | 53.8 | 60.8 | 1 | 7 |
-| 2026-11-19 | Short | This Map Is Lying To You #3 🌍 Which Is REALLY Bigger? #short | 258 | 45.9 | 72.3 | 0 | 0 |
-
-## WILDLY TRUE – 50 Abos, 76496 Views
+## COULD YOU PASS? – 56 Abos, 55010 Views
 
 | Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
 |---|---|---|---:|---:|---:|---:|---:|
-| 2026-11-24 | Short | These Animals Survived 10 Days in Open Space 🐻 #shorts | 172 | – | – | – | 3 |
-| 2026-11-23 | Short | This Shark Can Live Almost 400 Years 🦈 #shorts | 385 | – | – | – | 3 |
+| 2026-11-25 | Short | Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 1571 | – | – | – | 16 |
+| 2026-11-25 | Short | Thanksgiving True or False 🦃 90% Get #4 Wrong #shorts | 137 | – | – | – | 5 |
+| 2026-11-24 | Short | This Map Is Lying To You #8 🌍 Which Is REALLY Bigger? #short | 804 | – | – | – | 5 |
+| 2026-11-24 | Short | Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts | 1075 | – | – | – | 12 |
+| 2026-11-24 | Long 4m | Test Your IQ: 12 Hard Riddles – Can You Solve 5? 🧠 | 27 | – | – | – | 0 |
+| 2026-11-23 | Short | This Map Is Lying To You #7 🌍 Which Is REALLY Bigger? #short | 945 | 47.6 | 81.3 | 0 | 12 |
+| 2026-11-23 | Short | Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts | 2683 | 56.2 | 79.5 | 5 | 52 |
+| 2026-11-22 | Short | This Map Is Lying To You #6 🌍 Which Is REALLY Bigger? #short | 1196 | 52.0 | 79.8 | 0 | 14 |
+| 2026-11-22 | Short | Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 3808 | 55.3 | 84.7 | 19 | 91 |
+| 2026-11-21 | Short | This Map Is Lying To You #5 🌍 Which Is REALLY Bigger? #short | 1014 | 47.9 | 74.8 | 1 | 5 |
+| 2026-11-21 | Short | Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts | 1047 | 59.9 | 41.6 | 0 | 10 |
+| 2026-11-21 | Long 11m | Thanksgiving Trivia Quiz 🦃 50 Questions – Can You Get 40? | 101 | 58.5 | 23.7 | 0 | 0 |
+| 2026-11-20 | Short | This Map Is Lying To You #4 🌍 Which Is REALLY Bigger? #short | 1067 | 49.6 | 73.9 | 1 | 9 |
+| 2026-11-20 | Short | Quick IQ Test: Can You Get 6/6? 🧠 #shorts | 1018 | 53.9 | 60.7 | 1 | 7 |
+| 2026-11-19 | Short | This Map Is Lying To You #3 🌍 Which Is REALLY Bigger? #short | 259 | 45.7 | 72.3 | 0 | 0 |
+
+## WILDLY TRUE – 50 Abos, 76510 Views
+
+| Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
+|---|---|---|---:|---:|---:|---:|---:|
+| 2026-11-24 | Short | These Animals Survived 10 Days in Open Space 🐻 #shorts | 175 | – | – | – | 3 |
+| 2026-11-23 | Short | This Shark Can Live Almost 400 Years 🦈 #shorts | 387 | 43.4 | 53.1 | 1 | 3 |
 | 2026-11-01 | Short | Sponge Divers Found a Gear Machine From Ancient Greece #shor | 339 | 34.2 | 58.9 | 0 | 5 |
 | 2026-11-01 | Short | This Bird Collects Blue Objects for an Audience #shorts | 762 | 31.1 | 117.9 | 1 | 13 |
-| 2026-10-15 | Short | This Bridge Collapsed. The Only Victim Was a Dog. #shorts | 29 | 61.1 | 90.0 | 0 | 1 |
+| 2026-10-15 | Short | This Bridge Collapsed. The Only Victim Was a Dog. #shorts | 32 | 63.6 | 85.8 | 0 | 1 |
 | 2026-10-15 | Short | A 14-Year-Old Was Inside the Hindenburg #shorts | 249 | 33.3 | 57.6 | 0 | 2 |
 | 2026-10-11 | Short | tetris | 1932 | 46.9 | 67.8 | 0 | 24 |
 | 2026-10-11 | Short | nintendosony | 1774 | 42.5 | 64.2 | 1 | 43 |
@@ -42,13 +42,13 @@ Stand: 2026-11-25 14:51 UTC. Stayed = engagedViews/views (≈ „Stayed to watch
 | 2026-10-07 | Short | One Cartoon Sent 685 People to the Hospital. In One Night. # | 888 | 36.8 | 73.9 | 0 | 16 |
 | 2026-10-06 | Short | They Buried Video Games in the Desert. Then Poured Concrete  | 1182 | 42.1 | 55.2 | 0 | 17 |
 
-## PERCEPT LAB – 7 Abos, 11369 Views
+## PERCEPT LAB – 7 Abos, 11675 Views
 
 | Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
 |---|---|---|---:|---:|---:|---:|---:|
 | 2026-11-25 | Short | Which Orange Circle Is Bigger? Brain Test #1 🧠 #shorts | 0 | – | – | – | 0 |
-| 2026-11-24 | Short | Stare at This Flag for 20 Seconds, Then Look at the White 👁️ | 592 | – | – | – | 11 |
-| 2026-11-23 | Short | Which Line Is Longer? Your Brain Gets This Wrong #shorts | 6 | – | – | – | 0 |
+| 2026-11-24 | Short | Stare at This Flag for 20 Seconds, Then Look at the White 👁️ | 1084 | – | – | – | 14 |
+| 2026-11-23 | Short | Which Line Is Longer? Your Brain Gets This Wrong #shorts | 6 | 50.0 | 13.9 | 0 | 0 |
 | 2026-11-10 | Short | Why Slow Walkers Make You Furious 🧠 #shorts | 144 | 67.1 | 37.9 | 0 | 7 |
 | 2026-10-31 | Short | 6 Facts Your Brain Hides From You 👁️ #psychology #brain #ill | 1415 | 51.4 | 81.6 | 5 | 17 |
 | 2026-10-31 | Short | 11 Days Without Sleep Broke His Brain | 4 | 100.0 | 24.2 | 0 | 0 |
@@ -62,7 +62,7 @@ Stand: 2026-11-25 14:51 UTC. Stayed = engagedViews/views (≈ „Stayed to watch
 | 2026-09-27 | Short | This Triangle Doesn't Actually Exist | 1263 | 39.0 | 77.4 | 0 | 7 |
 | 2026-09-27 | Short | These Two Greys Are Exactly the Same | 786 | 33.7 | 56.8 | 1 | 5 |
 
-## RageLoop Clips – 1 Abos, 752 Views
+## RageLoop Clips – 1 Abos, 755 Views
 
 | Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -73,16 +73,16 @@ Stand: 2026-11-25 14:51 UTC. Stayed = engagedViews/views (≈ „Stayed to watch
 | 2026-09-12 | Short | Building a Mob Farm and Enchanting Gear: Getting Ready for t | 8 | 37.5 | 25.8 | 0 | 0 |
 | 2026-09-12 | Short | IShowSpeed Took Over Singapore 😳 | 727 | 48.7 | 123.2 | 1 | 3 |
 
-## PlotMelt – 2 Abos, 1110 Views
+## PlotMelt – 3 Abos, 1122 Views
 
 | Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
 |---|---|---|---:|---:|---:|---:|---:|
-| 2026-11-25 | Short | A Cat Kept Leaving Him Keys. Then He Found the Door. #shorts | 196 | – | – | – | 4 |
+| 2026-11-25 | Short | A Cat Kept Leaving Him Keys. Then He Found the Door. #shorts | 1208 | – | – | – | 17 |
 | 2026-11-25 | Short | My Robot Vacuum Avoids One Spot. I Finally Checked. #shorts | 0 | – | – | – | 0 |
-| 2026-11-23 | Short | He Bought a $50 Couch. Something Was Living In It. #shorts | 1340 | 50.0 | 97.9 | 0 | 18 |
+| 2026-11-23 | Short | He Bought a $50 Couch. Something Was Living In It. #shorts | 1345 | 42.9 | 109.9 | 1 | 18 |
 | 2026-11-23 | Short | He Bought a Smart Fridge. It Took Over His Life. | 0 | – | – | – | 0 |
 | 2026-08-31 | Short | He Found $10,000 in a $50 Couch... 😳 #shorts | 0 | – | – | – | 0 |
-| 2026-08-31 | Short | He Found $10,000 in a $50 Couch... 😳 #shorts | 5 | 0.0 | 0 | 0 | 0 |
+| 2026-08-31 | Short | He Found $10,000 in a $50 Couch... 😳 #shorts | 9 | 0.0 | 0 | 0 | 0 |
 
 ## The Podcast Cut – 1 Abos, 2142 Views
 
@@ -103,39 +103,39 @@ Stand: 2026-11-25 14:51 UTC. Stayed = engagedViews/views (≈ „Stayed to watch
 | 2026-09-06 | Short | This Number Changes The Story | The Future of Humanity in th | 229 | 40.2 | 56.7 | 0 | 6 |
 | 2026-09-06 | Short | The Podcast Cut - Private Upload Test | 0 | – | – | – | 0 |
 
-## HiddenFrontlines – 0 Abos, 149 Views
+## HiddenFrontlines – 0 Abos, 168 Views
 
 | Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
 |---|---|---|---:|---:|---:|---:|---:|
-| 2026-11-25 | Short | The US Strapped Firebombs to Bats. They Burned Their Own Bas | 0 | – | – | – | 0 |
-| 2026-11-24 | Short | Britain Tried to Build an Aircraft Carrier Out of Ice #short | 90 | – | – | – | 2 |
-| 2026-11-23 | Short | The US Army Fought With Rubber Tanks. It Worked. #shorts | 62 | – | – | – | 0 |
+| 2026-11-25 | Short | The US Strapped Firebombs to Bats. They Burned Their Own Bas | 36 | – | – | – | 1 |
+| 2026-11-24 | Short | Britain Tried to Build an Aircraft Carrier Out of Ice #short | 202 | – | – | – | 5 |
+| 2026-11-23 | Short | The US Army Fought With Rubber Tanks. It Worked. #shorts | 104 | 11.1 | 29.7 | 0 | 1 |
 | 2026-11-23 | Short | The Ghost Army: The Artists Who Fooled an Enemy With Rubber  | 1 | – | – | – | 0 |
 | 2026-10-04 | Short | The Secret Army Made of Rubber Tanks | 3 | 0.0 | 0 | 0 | 0 |
 | 2026-09-23 | Long 4m | The Fake Army That Fooled Germany Before D-Day | 2 | 50.0 | 7.3 | 0 | 0 |
 | 2026-09-21 | Long 8m | USS Texas Was Out of Range — So Her Crew Flooded the Ship | 15 | 40.0 | 26.8 | 0 | 0 |
 
-## HUMAN LIMIT – 1 Abos, 1196 Views
+## HUMAN LIMIT – 1 Abos, 1324 Views
 
 | Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
 |---|---|---|---:|---:|---:|---:|---:|
-| 2026-11-25 | Short | Her Body Cooled to 13.7 °C. She Survived. 🧊 #shorts | 0 | – | – | – | 0 |
-| 2026-11-24 | Short | Space Makes You Taller. Then It Hurts. 🚀 #shorts | 1309 | – | – | – | 17 |
-| 2026-11-23 | Short | A 17-Year-Old Stayed Awake for 11 Days. Here's What Happened | 15 | – | – | – | 0 |
+| 2026-11-25 | Short | Her Body Cooled to 13.7 °C. She Survived. 🧊 #shorts | 70 | – | – | – | 1 |
+| 2026-11-24 | Short | Space Makes You Taller. Then It Hurts. 🚀 #shorts | 1376 | – | – | – | 17 |
+| 2026-11-23 | Short | A 17-Year-Old Stayed Awake for 11 Days. Here's What Happened | 16 | 50.0 | 82.3 | 0 | 0 |
 | 2026-11-23 | Short | The Teenager Who Stayed Awake for 11 Days (Randy Gardner, 19 | 1 | – | – | – | 0 |
 | 2026-09-23 | Short | What Happens If You Don’t Sleep for 7 Days? 😳 | 1 | 100.0 | 61.5 | 0 | 0 |
 
-## Myth Dug Up – 1 Abos, 1337 Views
+## Myth Dug Up – 1 Abos, 1429 Views
 
 | Datum | Typ | Titel | Views | Stayed % | Ø gesehen % | Abos | Likes |
 |---|---|---|---:|---:|---:|---:|---:|
+| 2026-11-25 | Short | Senegal Lost Its Africa Cup Title. A Court Just Gave It Back | 28 | – | – | – | 0 |
 | 2026-11-25 | Long 10m | Nvidia's CEO, an Alleged Chinese Spy, and the 11 Days That S | 0 | – | – | – | 0 |
 | 2026-11-25 | Short | CrowdStrike Is Buying Its Rival Zscaler for $43.9 Billion #s | 0 | – | – | – | 0 |
-| 2026-11-25 | Short | Senegal Lost Its Africa Cup Title. A Court Just Gave It Back | 0 | – | – | – | 0 |
-| 2026-11-25 | Short | Egypt's Legendary Port Sank Into the Sea. Divers Found It. # | 40 | – | – | – | 0 |
-| 2026-11-24 | Short | The Vikings Reached America First — and We Can Prove It #sho | 123 | – | – | – | 3 |
-| 2026-11-23 | Short | This Dog Has Guarded a Door for 2,000 Years #shorts | 56 | – | – | – | 0 |
-| 2026-11-23 | Long 4m | 3 Legends That Turned Out to Be Real (Troy, Pompeii, Vinland | 1 | – | – | – | 0 |
-| 2026-11-23 | Short | Everyone Said Troy Was a Myth. Then Someone Dug. #shorts | 913 | – | – | – | 5 |
-| 2026-10-04 | Short | This Eagle Hunted Birds 15x Heavier Than Itself. It Was Real | 327 | 43.6 | 65.2 | 0 | 0 |
+| 2026-11-25 | Short | Egypt's Legendary Port Sank Into the Sea. Divers Found It. # | 89 | – | – | – | 0 |
+| 2026-11-24 | Short | The Vikings Reached America First — and We Can Prove It #sho | 129 | – | – | – | 3 |
+| 2026-11-23 | Short | This Dog Has Guarded a Door for 2,000 Years #shorts | 69 | 40.5 | 47.2 | 0 | 0 |
+| 2026-11-23 | Long 4m | 3 Legends That Turned Out to Be Real (Troy, Pompeii, Vinland | 1 | 100.0 | 25.1 | 0 | 0 |
+| 2026-11-23 | Short | Everyone Said Troy Was a Myth. Then Someone Dug. #shorts | 913 | 47.7 | 101.6 | 0 | 5 |
+| 2026-10-04 | Short | This Eagle Hunted Birds 15x Heavier Than Itself. It Was Real | 327 | 43.7 | 64.9 | 0 | 0 |
 | 2026-10-04 | Short | 5 Myths That Turned Out to Be Real | 13 | 84.6 | 30.0 | 0 | 0 |

@@ -1,10 +1,19 @@
 {
  "id": "mythdugup",
  "name": "Myth Dug Up",
- "checked": "2026-11-25",
+ "checked": "2026-11-26",
  "subs": 1,
- "views": 1337,
+ "views": 1429,
  "videos": [
+  {
+   "id": "6Np_HlvX8NM",
+   "title": "Senegal Lost Its Africa Cup Title. A Court Just Gave It Back. #shorts",
+   "published": "2026-11-25T18:30:29Z",
+   "seconds": 36,
+   "views": 28,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "WZIV_2v6Y3w",
    "title": "Nvidia's CEO, an Alleged Chinese Spy, and the 11 Days That Shook a Trillion-Dollar Company",
@@ -24,20 +33,11 @@
    "comments": 0
   },
   {
-   "id": "6Np_HlvX8NM",
-   "title": "Senegal Lost Its Africa Cup Title. A Court Just Gave It Back. #shorts",
-   "published": "2026-11-25T13:33:59Z",
-   "seconds": 36,
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
    "id": "fp_wSKPhn9o",
    "title": "Egypt's Legendary Port Sank Into the Sea. Divers Found It. #shorts",
    "published": "2026-11-25T12:00:08Z",
    "seconds": 38,
-   "views": 40,
+   "views": 89,
    "likes": 0,
    "comments": 0
   },
@@ -46,7 +46,7 @@
    "title": "The Vikings Reached America First — and We Can Prove It #shorts",
    "published": "2026-11-24T18:30:18Z",
    "seconds": 44,
-   "views": 123,
+   "views": 129,
    "likes": 3,
    "comments": 0
   },
@@ -55,9 +55,15 @@
    "title": "This Dog Has Guarded a Door for 2,000 Years #shorts",
    "published": "2026-11-23T18:30:13Z",
    "seconds": 43,
-   "views": 56,
+   "views": 69,
    "likes": 0,
-   "comments": 0
+   "comments": 0,
+   "a_views": 42,
+   "engaged": 17,
+   "avgPct": 47.2,
+   "avgSec": 20,
+   "subs": 0,
+   "stayed": 40.5
   },
   {
    "id": "6kdKeaOFlwQ",
@@ -66,7 +72,13 @@
    "seconds": 256,
    "views": 1,
    "likes": 0,
-   "comments": 0
+   "comments": 0,
+   "a_views": 1,
+   "engaged": 1,
+   "avgPct": 25.1,
+   "avgSec": 64,
+   "subs": 0,
+   "stayed": 100.0
   },
   {
    "id": "NBc-bIQBLMs",
@@ -75,7 +87,13 @@
    "seconds": 33,
    "views": 913,
    "likes": 5,
-   "comments": 0
+   "comments": 0,
+   "a_views": 759,
+   "engaged": 362,
+   "avgPct": 101.6,
+   "avgSec": 33,
+   "subs": 0,
+   "stayed": 47.7
   },
   {
    "id": "azS-3-N5UGU",
@@ -85,12 +103,12 @@
    "views": 327,
    "likes": 0,
    "comments": 0,
-   "a_views": 326,
-   "engaged": 142,
-   "avgPct": 65.2,
+   "a_views": 327,
+   "engaged": 143,
+   "avgPct": 64.9,
    "avgSec": 24,
    "subs": 0,
-   "stayed": 43.6
+   "stayed": 43.7
   },
   {
    "id": "Z1JJp9CwsCw",

@@ -1,18 +1,18 @@
 {
  "id": "plotmelt",
  "name": "PlotMelt",
- "checked": "2026-11-25",
- "subs": 2,
- "views": 1110,
+ "checked": "2026-11-26",
+ "subs": 3,
+ "views": 1122,
  "videos": [
   {
    "id": "S3xQkO6V9wk",
    "title": "A Cat Kept Leaving Him Keys. Then He Found the Door. #shorts",
    "published": "2026-11-25T14:30:37Z",
    "seconds": 23,
-   "views": 196,
-   "likes": 4,
-   "comments": 0
+   "views": 1208,
+   "likes": 17,
+   "comments": 1
   },
   {
    "id": "fTSG3_kS1SQ",
@@ -28,15 +28,15 @@
    "title": "He Bought a $50 Couch. Something Was Living In It. #shorts",
    "published": "2026-11-23T14:30:36Z",
    "seconds": 19,
-   "views": 1340,
+   "views": 1345,
    "likes": 18,
    "comments": 0,
-   "a_views": 2,
-   "engaged": 1,
-   "avgPct": 97.9,
-   "avgSec": 18,
-   "subs": 0,
-   "stayed": 50.0
+   "a_views": 1117,
+   "engaged": 479,
+   "avgPct": 109.9,
+   "avgSec": 20,
+   "subs": 1,
+   "stayed": 42.9
   },
   {
    "id": "l9zaJ9YEhOE",
@@ -61,7 +61,7 @@
    "title": "He Found $10,000 in a $50 Couch... 😳 #shorts",
    "published": "2026-08-31T21:03:49Z",
    "seconds": 68,
-   "views": 5,
+   "views": 9,
    "likes": 0,
    "comments": 0,
    "a_views": 5,
