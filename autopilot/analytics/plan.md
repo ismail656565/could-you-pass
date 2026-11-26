@@ -1,85 +1,75 @@
-# Plan – 2026-11-25 (Mi)
+# Plan – 2026-11-26 (Do)
 
-Kanal **53 Abos** (report.json 24.11. 21:03) – **+10 in ≈22 h** (43 → 53), **50er-Marke geknackt**. Analytics gesamt (2–3 T Verzug): 38.162 Views → 45 Abos = **1,18 Abos/1.000** (Vortag 0,72).
-Flag Duel trägt allein: #1 3.717 Views (+19 Abos ≈ 6,9/1.000), #2 2.417, #3 988 n. ≈6 h (#2 lag n. 6,5 h bei 1.155 → gleicher Kurs). Karten-VS endgültig schwach (0,37/1.000 über 8 Folgen, #8 394 n. 1 T) → Streichung von gestern bestätigt.
-Kommentare: 3 offen → alle 3 beantwortet (23 Antworten gesamt). Kein Faktenfehler.
-Änderungen: heute Start „Real or Fake Flag? #1“ (21:00) + E23 Sofort-Start; Flag Duel täglich ab Sa 28.11.; Sa-Long = Rätsel #3 nach Konkurrenz-Muster „10 Tricky Riddles“ (152×).
+Kanal **55 Abos** (report.json 25.11. 20:25; +2 seit 24.11. 21:03). Analytics gesamt (2–3 T Verzug): 40.795 Views → 50 Abos = **1,23 Abos/1.000** (Vortag 1,18). Ziel 2,0 bis 15.12., 100 Abos bis 31.12. (noch 45 in 35 T ≈ 1,3/Tag – Kurs der letzten 3 T ≈ 4/Tag).
+Flaggen-Serien tragen den Kanal: Flag Duel #1 3.805 Views/+19 Abos, #2 2.649/+5 (Analytics noch unvollständig, Studio +12), #3 1.060 n. ≈1,2 T; Real or Fake #1 1.417 n. 1,5 h (Besitzer), 70–72 % stayed = Kanal-Rekord.
+Kommentare: 39 (21 T), **0 offen** – alle beantwortet (24 Antworten gesamt), kein bestätigter Faktenfehler.
+Änderungen heute: **Flag Duel ab Fr 27.11. täglich 16:00** (Datei-Umbenennung #5 → 27.11., neues #6 für 28.11.), neue Folgen #7 / Real or Fake #5 für So 29.11.; keine neuen Formate (Bandit: Flag Blitz Sa ist das laufende Experiment).
 
 ## TECHNIK-PROBLEM
-- Keine Ausfälle. Log 24.11.: 3/3 hochgeladen (Rätsel-Long 14:00, flag-duel-3 16:00, map-lie-8 21:00), Kommentare gepostet, Analytics 18:55 + 21:03 ok.
-- Beobachten (kein Bug): Rätsel-Long #2 (exam) **0 publicViews n. ≈8 h**, Status public/processed. Thanksgiving-Long zeigte dasselbe (0 n. 5 h → 37 n. 1 T) → Long-Zähler hängt am Anfang. Wenn n. 48 h < 20 → Titel/Thumbnail prüfen.
-- Offen aus gestern: `2026-11-27-real-fake-flag-3.json` fehlt noch, `2026-11-29-one-q-further-west.json` liegt noch in der Queue → beides heute Produktions-Agent (s. unten).
+- Keine Ausfälle. Log 25.11.: 2/2 Shorts hochgeladen (true-false-thanksgiving 16:00, real-fake-flag-1 21:00), Kommentare + 1 Antwort gepostet (23:41), Analytics 17:59 + 20:25 ok, QA ok.
+- **Offener Auftrag aus Nachtrag 25.11. noch nicht erledigt:** Für **Fr 27.11. 16:00 liegt kein Short in der Queue** (nur real-fake-flag-3 21:00). → Produktions-Agent heute zuerst (s. unten). Ohne Fix fehlt morgen ein Slot.
+- Rätsel-Long #2 (exam, 24.11.) 26 Views n. ≈1,7 T – kein Bug (Status public), aber Flop-Kurs → Verdict morgen.
 
 ## Zuschauer
-- 35 Kommentare (21 T), 3 offen → beantwortet: @neptuneee_official 4/4 Slovakia (auf Real-or-Fake heute eingeladen), @FakeDianaNeedsToBeStoped „Yesssss“ (Frage nach Score), @WildlyTrue65 4/4 Qatar.
-- FEHLER-HINWEIS (1) = alter Score-Kommentar „I only got 1 wrong“ (kein Fehler, beantwortet).
-- 12 von 13 gemeldeten Scores aus Flag Duel; fast alle 4/4 → Schwierigkeit hoch genug für Ego, aber LEGEND-Runde darf härter werden.
-- Wünsche: Science (@Jo-wl5fj) Fr 27.11. 16:00 in Queue (Kommentar „You asked for it – science! 🔬“); Art + classical music im Backlog.
+- 39 Kommentare, 0 offen → nichts zu posten. replies.json unverändert (24 Einträge, alle gepostet).
+- FEHLER-HINWEIS (2): @s_1keb (Karten-VS #8, Mercator-Verständnis – kein Fehler, am 25.11. erklärt beantwortet), @AdnanSadaqat-q7d (Score-Kommentar „1 wrong“, kein Fehler). Keine Korrektur nötig.
+- Länder aus Kommentaren (Regel 26.11.): @Pirl1776 „lets go lithuania mentioned“ → Lithuania ist im Flag Duel #5 (Fr 27.11., Bolivia/Lithuania) → Beschreibung #5 „Requested by @Pirl1776“; Antwort nach Upload: „Lithuania is back in Flag Duel #5 – did you spot it?“ (Research-Agent 28.11.).
+- Wünsche: Science (@Jo-wl5fj) → exam-Long Di 1.12.; Art/Klassik im Backlog.
+- 13 von 14 gemeldeten Scores sind 4/4 → LEGEND-Runde härter machen (echte Doppelgänger, s. #7 Cuba/Puerto Rico).
 
 ## Diagnose (Videos ≥ 3 T unter Format-Median)
 | Video | Views | Ursache | Fix |
 |---|---|---|---|
-| Keine neuen Flops ≥ 3 T | – | which-first-3 1.040, Quick IQ 1.016, map-lie-5/6 1.007/1.186 = im/über Median | – |
-| map-lie-7 (2 T) / map-lie-8 (1 T) | 631 / 394 | Format-Ermüdung (8 Folgen, stayed ≈50 %, 0,37 Abos/1k) | schon eingestellt → Real or Fake Flag 21:00 |
-| Thanksgiving-Long (4 T) | 95 | zu spät für Saisonsuche, Ø angesehen 28 % | Feiertags-Longs ≥ 3 Wochen vorher (Christmas Do 26.11. ok) |
-| Rätsel-Long #1 | 234 | stayed 79 %, aber Ø angesehen 11,7 % → Absprung nach Rätsel 1–2 | exam-Look (#2) + Sa #3: Rätsel 1 leicht, Antwort sofort, Timer ≤ 10 s |
-- **KPI Abos/1.000 je Format (Analytics):** Flag Duel ≈ 6,9 · Longs ≈ 3,1 · übrige Shorts ≈ 0,7 · Karten-VS 0,37 (eingestellt). Ziel 2,0 bis 15.12. gesamt: 1,18 und steigend.
+| Thanksgiving-Long (21.11., 5 T) | 101 | zu spät für Saisonsuche, Ø angesehen 28 %, Textlastig | Feiertags-Longs ≥ 3 Wochen vorher; neue Longs nach Referenz-Regeln (≤ 10 s/Frage, Bild statt Text) – Flag Blitz Sa |
+| Karten-VS #7 (23.11.) / #8 (24.11.) | 943 / 699 | Format-Ermüdung, 0,37 Abos/1k | eingestellt (Besitzer 24.11.) |
+| Rätsel-Long #2 (24.11., 1,7 T) | 26 | Titel „12 Hard Riddles“ ohne Suchvolumen + textlastiger exam-Look, Zähler-Verzug | nicht wiederholen; Rätsel #3 im Backlog nur mit 10 Rätseln + neuer Titelformel. Verdict 27.11. |
+| Thanksgiving T/F tvshow (25.11., 1 T) | 110 | Layout (Besitzer), 44 s zu lang | Layout gelöscht, Code-Sperre aktiv |
+- **KPI Abos/1.000 (Analytics):** Flag Duel ≈ 5,0 (24/6.454) · Longs ≈ 3 · übrige Shorts ≈ 0,7 · Karten-VS 0,37 (eingestellt) · gesamt 1,23.
+- Flag Duel #3 (Qatar) 1.060 n. 1,2 T liegt unter #2 (2.649) → Titel „90% Pick Wrong“ (erfunden, jetzt verboten) war bei #2/#3 gleich; Unterschied eher Paare (Austria/Latvia zu leicht). Verdict E22 morgen mit #4.
 
-## Konkurrenz-Gewinner heute (vidIQ outliers, 2 Abfragen)
+## Konkurrenz-Gewinner heute (competitors.md 25.11. + vidIQ-Outliers 24./25.11.; vidIQ heute nicht abgefragt – nur 4 Credits)
 | # | Video (Kanal, Abos) | Views / × | Länge | Muster | → Slot |
 |---|---|---|---|---|---|
-| 1 | „Can You Find The Real Grenada Flag? 🇬🇩“ (Globonk, 1,9k) | 48,8k / 65 Views/h | 0:25 | echte Flagge EINES Landes im Titel | Real or Fake #4/#5: Ländername in Titel |
-| 2 | „One Flag Is a Total Fake! 🧐 Can You Get 3/3?“ (WonderQ, 4,7k) | 31k / 5,5× | 0:46 | Fake-Flagge, Score-Hürde | bestätigt E24 |
-| 3 | „Guess the Flag by Its Missing Symbol 👀 Part 3“ (Ballandia, 27k) | 95,3k / 194 Views/h | 0:47 | Symbol fehlt, Teil-Nummer | Backlog #3 (Fake = Symbol entfernt, gleicher Renderer) |
-| 4 | „Which One Is INDONESIA? Left or Right?! 4 Levels… 99% Fail the Last!“ (ThinkBop!, 2,5k) | 14,6k / 14× | 0:26 | exakt Flag-Duel, Land im Titel | Flag Duel #5 Titel mit Zielland |
-| 5 | „CAN YOU SOLVE THESE 10 TRICKY RIDDLES? \| ONLY A GENIUS CAN PASS“ (Test And Quiz Institution, 6,9k) | 27,8k / 152× | 5:45 | 10 Rätsel, ~6 min, Genie-Hürde | Rätsel-Long #3 Sa 28.11. |
-- Weitere: „NIGERIA Waits in Round 5: Every Grid Hides One Wrong Flag“ (Flag Pals 18k), „54 flags, one odd one out“ (27,5k) → Gitter-Format braucht neuen Renderer (Backlog #6).
-- Events: Thanksgiving Do 26.11., Black Friday 27.11., 1. Advent So 29.11., St Andrew's Day 30.11., Rumänien-Nationaltag 1.12., **UAE National Day 2.12.** (Flag Duel Kuwait/UAE).
+| 1 | „Can You Find The Real Grenada Flag?“ (Globonk, 1,9k) | 48,8k | 0:25 | echte Flagge EINES Landes im Titel | Real or Fake #4 „Spot the Real USA“ (Sa), #5 „Spot the Real South Korea“ (So) |
+| 2 | „Which One Is INDONESIA? Left or Right?! 4 Levels“ (ThinkBop!, 2,5k) | 14,6k / 14× | 0:26 | exakt Flag Duel, Zielland im Titel | Flag Duel #5–#7 Titel „Which One Is X?“ |
+| 3 | „Guess the Flag by Its Missing Symbol Part 3“ (Ballandia, 27k) | 95,3k | 0:47 | Teil-Nummer, Symbol fehlt | Backlog #3 (Real or Fake Variante) |
+| 4 | „First To Connect The Words Wins 🚨“ (Studio Seven, 1,5k) | 100,8k / 18× | 1:57 | Duell-Rahmen „first to … wins“, Mitspielen zu zweit | Backlog #8 (Titelmuster „First to Spot the Real Flag Wins“) |
+| 5 | „Your Brain Is Ageless! 10-Question IQ Quiz“ (GK STUDIO PRO, 2k) | 46,8k / 50× | 7:14 | wenige Fragen, Senioren-Publikum (wir: 40 % 65+!) | Backlog #5 Long-Idee „Brain Test for Seniors“ (ohne Altersangabe im Titel) |
+- Events nächste 7 T: Thanksgiving heute, Black Friday 27.11., **1. Advent So 29.11.**, St Andrew's Day 30.11. (Schottland), Barbados 30.11., Rumänien 1.12., **UAE 2.12.** (Kuwait/UAE schon in #5 → Kommentar-Hinweis), Finnland 6.12.
 
 ## 3-Tage-Plan
 | Datum / Slot | Format | Thema | Titel (YouTube) | Fragen + timing | Hook / Fragen | Musik | cardColors | Thumbnail | Warum | Erfolg |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 25.11. 16:00 (Queue) | Wahr/Falsch tvshow | Thanksgiving | Thanksgiving True or False 🦃 90% Get #4 Wrong #shorts | 6 | Queue (Hook 4 Wörter) | game-show | Queue | – | E18 Event, Vorabend | ≥ 500 n. 3 T |
-| 25.11. 21:00 (Queue) | Real or Fake Flag #1 (flagduel) | FR/DE/LT/SE | Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 4, E23 (2.6/0.7/0.2, outro 0.6) | ohne Vorrede | game-show | – | – | E24 (WonderQ 525k/79×) | Median #1–#3 ≥ 1.500, stayed ≥ 60 % |
-| 26.11. Long 14:00 (Queue) | QuizLong exam, 50 Q | Christmas | Christmas Quiz 2026 🎄 50 Questions – Can You Get 40? | 50 | Queue | brain-pulse | #B91C1C/#14532D | B zuerst „CAN YOU GET **40/50**?“ | Saison | ≥ 100 n. 3 T |
-| 26.11. 16:00 (Queue) | Flag Duel #4 | IT/MX, BG/HU, NI/HN, GN/ML | Flag Quiz #4: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts | 4, E23 | ohne Vorrede | game-show | – | – | E22 + E23 | stayed ≥ 65 %, Ø angesehen ≥ 90 % |
-| 26.11. 21:00 (Queue) | Real or Fake Flag #2 | CA/IT/CH/JP | Real or Fake Flag? #2 Only 1 in 10 Spot All 4 🧐 #shorts | 4, E23 | ohne Vorrede | game-show | – | – | E24 | s. o. |
-| 27.11. 16:00 (Queue) | 6-Q tvshow | Science (Wunsch) | Science Trivia: 90% Get #4 Wrong 🔬 #shorts | 6 | Queue; Kommentar „You asked for it – science! 🔬“ | game-show | Queue | – | Zuschauer-Wunsch | ≥ 600 n. 3 T |
-| **27.11. 21:00 – NEU** | Real or Fake Flag #3 | **DK / AT / FI** (Fakes vorhanden) + 1 neues Fake (Vorschlag **Norway**: Kreuz mittig statt nach links versetzt) | Real or Fake Flag? #3 Only 1 in 10 Spot All 4 🧐 #shorts | 4, E23, outro 0.6 | Q1 „Which is the real Denmark? Left, or right?“ · Original-Seite mischen (a/b/b/a) · Schluss „Follow for number four!“ | game-show | – | – | E24 | s. o. |
-| **28.11. Long 14:00 – NEU** | QuizLong exam, 10 Rätsel (~6 min) | IQ-Rätsel #3 | **Tricky Riddles IQ Test: Can You Solve 7 of 10? 🧠** | 10, count ≤ 10 | Rätsel 1 leicht (Einstieg halten), Schwierigkeit steigend, Rätsel 10 = „Genius“-Stempel | brain-pulse | Queue-Standard | B zuerst „F“ + „CAN YOU SOLVE **7**?“, A „10 TRICKY **RIDDLES**“, C „ONLY A **GENIUS**“ | Konkurrenz #5 (152×) + E14 ✓ | ≥ 150 n. 3 T, ≥ 1 Abo |
-| **28.11. 16:00 – NEU** | Flag Duel #5 (täglich ab jetzt) | EASY **USA/Liberia** · MEDIUM **Belgium/Germany** · HARD **Bolivia/Lithuania** · LEGEND **Kuwait/UAE** | Flag Quiz #5: Which One Is Liberia? 99% Miss the Last 🌍 #shorts | 4, E23 | „Who is Liberia? Left or right?“ · Gewinner b/a/b/a · Schluss „Follow for number six!“ | game-show | – | – | Exploit + ThinkBop-Muster (Land im Titel) | ≥ 1.500 n. 3 T, ≥ 3 Abos/1k |
-| **28.11. 21:00 – NEU** | Real or Fake Flag #4 | **USA** (Kanton rechts), **UK** (Union Jack ohne Versatz), **Brazil** (Band verkehrt geneigt), **Turkey** (Halbmond gespiegelt) | Real or Fake Flag? #4 Can You Spot the Real USA? 🧐 #shorts | 4, E23 | Fakes selbst erzeugen, nie = Flagge eines anderen Landes · Schluss „Follow for number five!“ | game-show | – | – | E24 + Globonk-Muster (Land im Titel) | s. o. |
+| 26.11. 14:00 (Queue) | QuizLong exam, 50 Q | Christmas | Christmas Quiz 2026 🎄 50 Questions – Can You Get 40? | 50 | Queue | brain-pulse | #B91C1C/#14532D | B „CAN YOU GET **40/50**?“ | Saison | ≥ 100 n. 3 T |
+| 26.11. 16:00 (Queue) | Flag Duel #4 | IT/MX, BG/HU, NI/HN, GN/ML | Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #shorts | 4, E23 | ohne Vorrede | game-show | – | – | E22 | > Ø(#2,#3) n. 24 h |
+| 26.11. 21:00 (Queue) | Real or Fake #2 | CA/IT/CH/JP | Real or Fake Flag? #2 Can You Spot All 4? 🧐 #shorts | 4, E23 | ohne Vorrede, Like-CTA | game-show | – | – | E24 | Likes ≥ 2 %, stayed ≥ 65 % |
+| **27.11. 16:00 – UMZUG** | Flag Duel #5 | USA/Liberia · Belgium/Germany · Lithuania/Bolivia · Kuwait/UAE | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 #shorts | 4, E23, outro 0.6 | Datei `2026-11-28-flag-duel-5.json` → `2026-11-27-flag-duel-5.json`; Schluss „Follow for number six!“; Beschreibung „Requested by @Pirl1776 (Lithuania)“ | game-show | – | – | Exploit + E25 Land im Titel | ≥ 1.500 n. 3 T, ≥ 3 Abos/1k |
+| 27.11. 21:00 (Queue) | Real or Fake #3 | DK/AT/FI/NO | Real or Fake Flag? #3 Can You Spot All 4? 🧐 #shorts | 4, E23 | Queue | game-show | – | – | E24 | s. o. |
+| 28.11. 14:00 (Queue) | Flag Blitz #1 (Long, flagblitz) | 100 Flaggen | Guess the Flag in 3 Seconds 🌍 100 Flags – Easy to Impossible | 100, think 3.0 | Queue; Thumbnail „80/100?“ / „IMPOSSIBLE?“ | Queue | – | Collage | Experiment E26 (Referenz Quiz Blitz) | ≥ 150 n. 3 T, Ø angesehen ≥ 25 %, ≥ 1 Abo |
+| **28.11. 16:00 – NEU** | Flag Duel #6 | EASY Denmark/Switzerland · MEDIUM Ghana/Cameroon · HARD Egypt/Yemen · LEGEND Niger/India | Flag Quiz #6: Which One Is Niger? The Last One Is Brutal 🌍 #shorts | 4, E23, outro 0.6 | Q1 „Who is Denmark? Left, or right?“ · Gewinner a/b/a/b · Schluss „Follow for number seven!“ | game-show | – | – | Exploit + E25 | ≥ 1.500 n. 3 T |
+| 28.11. 21:00 (Queue) | Real or Fake #4 | USA/Brazil/Turkey/UK | Real or Fake Flag? #4 Can You Spot the Real USA? 🧐 #shorts | 4, E23 | Queue | game-show | – | – | E24/E25 | > Ø(#1–#3) n. 24 h |
+| **29.11. 16:00 – NEU** (1. Advent) | Flag Duel #7 | EASY Japan/Bangladesh · MEDIUM Peru/Canada · HARD Greece/Uruguay · LEGEND **Cuba/Puerto Rico** (Farben vertauscht – härter, weil 13/14 Scores 4/4) | Flag Quiz #7: Which One Is Cuba? The Last One Is Brutal 🌍 #shorts | 4, E23, outro 0.6 | Gewinner b/a/b/a · Schluss „Follow for number eight!“ | game-show | – | – | Exploit, härtere LEGEND | ≥ 1.500 n. 3 T |
+| **29.11. 21:00 – NEU** | Real or Fake #5 | **South Korea** (Trigramme vertauscht), **Greece** (Kanton unten links), **Spain** (3 gleich breite Streifen), **Chile** (blaues Feld mit Stern rechts statt links) | Real or Fake Flag? #5 Can You Spot the Real South Korea? 🧐 #shorts | 4, E23 | Fakes neu bauen (public/flags/fake/kr,gr,es,cl) · nicht Argentinien ohne Sonne (echte Variante) · Gewinner a/b/b/a · Schluss „Follow for number six!“ | game-show | – | – | E24/E25 | s. o. |
 
-Vorschau So 29.11. (1. Advent): 16:00 Flag Duel #6 (Denmark/Switzerland, Ghana/Cameroon, Egypt/Yemen, Niger/India), 21:00 Real or Fake #5 (South Korea Trigramme vertauscht, Greece Kanton unten, Spain gleich breite Streifen, Chile Stern rechts; Argentinien ohne Sonne NICHT – ist eine echte Flaggenvariante). Mo 30.11.: Flag Duel #7 (Japan/Bangladesh, Peru/Canada, Greece/Uruguay, Chile/Puerto Rico). Mi 2.12. (UAE National Day): Kuwait/UAE dann schon in #5 verbraucht → im Kommentar/Beschreibung auf #5 verweisen statt Paar wiederholen.
-Bandit 25.–28.11. (10 Slots): 7 Exploit (Flag Duel, Feiertage, Wunsch, Rätsel), 3 Experimente (E18 T/F, E23 Timing, E24 Real or Fake).
+Vorschau: Mo 30.11. Flag Duel #8 (Vorschlag Slovenia/Russia, Romania/Andorra, Ireland/Italy, Venezuela/Ecuador – vorher gegen Paare-Liste prüfen) + Real or Fake #6 (St Andrew's Day: Fake-Saltire, falls `gb-sct.svg` existiert). **Di 1.12. Long 14:00 = science-quiz-30-1 (exam, Zuschauer-Wunsch)**, Titel „Science Quiz: 30 Questions – Can You Get 25?“, B „CAN YOU GET **25/30**?“, Kommentar „You asked for it – science! 🔬“.
+Bandit 26.–29.11. (11 Slots): 8 Exploit (Flag Duel/Real or Fake/Christmas), 3 Experiment (E22 Titel, E25 Land im Titel, E26 Flag Blitz).
 
 ## Ideen-Backlog
-1. Real or Fake Flag täglich 21:00 – stärkstes Nischenmuster (WonderQ 525k, Globonk 48,8k in 3 T); Ländername im Titel ab #4.
-2. Flag Duel mit Zielland im Titel („Which One Is X?“) – ThinkBop 22,7k/14,6k bei 2,5k Abos, eigener #2 „Who Is Slovakia?“ 2.417.
-3. „Missing Symbol“-Variante (Flagge ohne Wappen/Stern gegen Original) – Ballandia 95k, 194 Views/h; gleicher flagduel-Renderer, nur andere Fakes.
-4. Flag-Long „50 Look-Alike Flags – Can You Get 40?“ (exam) – Long-Version des einzigen Gewinners, Sa 5.12.
-5. Rätsel-Long wöchentlich nach „10 Tricky Riddles“-Muster (152×), Rätsel 1 leicht gegen frühen Absprung.
-6. Flaggen-Gitter „One Flag Is Wrong – Find It“ (Flag Pals 18k, 54-Flaggen 27,5k) – neuer Renderer nötig, Aufwand mittel.
-7. Nationaltags-Flag-Duels (UAE 2.12., Finnland 6.12.) – Aktualität ohne Politik.
-8. „Can You Pass the U.S. Citizenship Test?“ exam-Long – Trivia Square 2,8 Mio, passt zum Kanalnamen.
-9. Art-Trivia-Short – Zuschauer-Wunsch @Jo-wl5fj.
-10. Klassik-Fakten-Short (ohne Musikausschnitte) – Zuschauer-Wunsch @Jo-wl5fj.
+1. Flag Duel + Real or Fake täglich – einziges Format über 2 Abos/1k (≈5,0).
+2. Science-Long (Wunsch @Jo-wl5fj) Di 1.12. – Viewer-Bindung + Longs ≈3 Abos/1k.
+3. „Missing Symbol“-Real-or-Fake (Wappen/Stern entfernt) – Ballandia 95k, gleicher Renderer.
+4. Flag Blitz #2 „Guess the Country by Its Shape in 3 Seconds“ – falls Flag Blitz #1 ≥ 150 n. 3 T (Formen in truesize.json vorhanden).
+5. „Brain Test“-Long für unser 65+-Publikum (40 %!) – GK STUDIO PRO 46,8k; nur 10–15 Fragen, großes Bild, ohne Alter im Titel.
+6. Nationaltags-Folgen (UAE 2.12., Finnland 6.12.) mit Ländernamen im Titel.
+7. „Can You Pass the U.S. Citizenship Test?“ exam-Long – Trivia Square 2,8 Mio, passt zum Kanalnamen, 44 % US-Publikum.
+8. Titelmuster „First to Spot the Real Flag Wins“ für Real or Fake (Studio Seven 100k) – Duell-Gefühl für Paare/Familien.
+9. Flaggen-Gitter „One Flag Is Wrong“ (Flag Pals 18k) – neuer Renderer nötig.
+10. Art-Trivia-Short im exam-Hochformat (≤ 4 Fragen) – Wunsch @Jo-wl5fj.
 
 ## Für den Produktions-Agenten (heute)
-- **Anlegen:** `2026-11-27-real-fake-flag-3.json` (21:00), `2026-11-28-iq-riddles-10-3.json` (Long 14:00, layout exam), `2026-11-28-flag-duel-5.json` (16:00), `2026-11-28-real-fake-flag-4.json` (21:00) – Titel exakt wie in der Tabelle.
-- **Aus der Queue nehmen:** `2026-11-29-one-q-further-west.json` (16:00 ist ab 28.11. täglich Flag Duel) → nach queue/backlog o. ä. verschieben, nicht hochladen.
-- Flag-Serien: hookLine "", timing {think 2.6, move 0.7, tail 0.2, outro 0.6}, Antworten ≤ 3 Wörter, ≤ 27 s (Log „Dauer“ prüfen), Schluss nur „Follow for number N+1!“. Paare/Fakes nie wiederholen (Liste: pl/id, ie/ci, au/nz, td/ro, is/no, ml/sn, nl/lu, si/sk, lv/at, ec/co, ht/li, qa/bh, it/mx, bg/hu, ni/hn, gn/ml; Fakes fr/de/lt/se/ca/it/ch/jp + dk/at/fi für #3). Indonesia/Monaco und politisch umstrittene Flaggen (Kosovo, Palästina, Taiwan, Westsahara usw.) verboten.
-- Fakes: nur Farben tauschen, Elemente verschieben/spiegeln, Proportionen ändern; Ergebnis gegen alle 270 Flaggen in public/flags prüfen (darf keiner echten gleichen). Probe-Still rendern.
-- Rätsel-Long #3: Duplikat-grep gegen iq-riddles-12-1/-2, jede Lösung zweimal nachrechnen, count ≤ 10 (QA-Standbild), Texte ohne Emoji in hook/finalLabel/ctaText/outroText.
-- Keine Halloween-, Alters- oder Politik-Themen; keine Longs Mo/Mi/Fr/So; max. 2 Shorts/Tag.
-
-## NACHTRAG 25.11. 11:05 – Besitzer: tvshow-Short-Layout „gefällt gar nicht“
-- **Entscheidung:** Es gibt keine tvshow-Shorts mehr. Alle Shorts laufen im FlagDuel-Renderer (16:00 Flag Duel, 21:00 Real or Fake Flag). Das ist auch das einzige Short-Format über dem Abo-Ziel (≈6,9/1k gegenüber ≈0,7 bei tvshow).
-- Der Science-Short 27.11. liegt jetzt in queue/backlog/. Der Wunsch wird als exam-Long am Di 1.12. erfüllt („Science Quiz: 30 Questions – Can You Pass?“, B „CAN YOU GET **25/30**?“).
-- **Für den Produktions-Agenten (26.11.):** `2026-11-27-flag-duel-5.json` (16:00) anlegen und das bisherige 28.11.-Item zu #6 machen. Konkret: Flag Duel #5 = Paare aus dem jetzigen `2026-11-28-flag-duel-5.json` → Datei auf 27.11. umbenennen. Für 28.11. ein neues flag-duel-6 anlegen (Paare aus der Vorschau 29.11.: Denmark/Switzerland, Ghana/Cameroon, Egypt/Yemen, Niger/India), Schluss jeweils „Follow for number N+1!“. Danach täglich eine Folge.
-- Long Di 1.12.: science-quiz-30-1 (exam) anlegen, Fakten per WebSearch prüfen, Kommentar „You asked for it – science! 🔬“.
-
-## NACHTRAG 25.11. 11:30 – Besitzer gibt exam-Hochformat für Shorts frei („besser und kürzer“)
-- Nicht-Flaggen-Shorts ab jetzt `layout: "exam"`, ≤ 4 Fragen, ≤ 30 s (Regel in learnings.md).
-- queue/backlog/six-q-science-trivia.json: Wenn er wieder eingeplant wird, dann auf exam umstellen und auf 4 Fragen kürzen (Silber-Falle als #4). Der Science-Long am 1.12. bleibt.
-- Der Thanksgiving T/F von heute 16:00 ist noch im alten Look hochgeladen. Die neue 29-s-Fassung wurde dem Besitzer als Datei geschickt, damit er sie selbst hochladen kann.
+1. **Zuerst:** `git mv autopilot/queue/2026-11-28-flag-duel-5.json autopilot/queue/2026-11-27-flag-duel-5.json` (publishAt 16:00 bleibt). Beschreibung ergänzen: „Lithuania requested by @Pirl1776 🇱🇹“.
+2. **Anlegen:** `2026-11-28-flag-duel-6.json` (16:00), `2026-11-29-flag-duel-7.json` (16:00), `2026-11-29-real-fake-flag-5.json` (21:00) – Paare/Fakes/Titel exakt wie in der Tabelle.
+3. Flag-Serien: hookLine "", timing {think 2.6, move 0.7, tail 0.2, outro 0.6}, Antworten ≤ 3 Wörter, ≤ 27 s, Schluss „Follow for number N+1!“, angepinnter Kommentar „Comment your score AND your country – we pick countries from the comments for the next episodes!“.
+4. Benutzte Paare nie wiederholen: pl/id, ie/ci, au/nz, td/ro, is/no, ml/sn, nl/lu, si/sk, lv/at, ec/co, ht/li, qa/bh, it/mx, bg/hu, ni/hn, gn/ml, us/lr, be/de, lt/bo, kw/ae (+ #6/#7 heute). Fakes benutzt: fr/de/lt/se/ca/it/ch/jp/dk/at/fi/no/us/br/tr/gb.
+5. Neue Fakes kr/gr/es/cl gegen alle 270 Flaggen prüfen (darf keiner echten gleichen), Probe-Still rendern. Keine politisch umstrittenen Flaggen.
+6. Titel ohne erfundene Prozente („90%“, „1 in 10“, „99%“ verboten). Keine Halloween-/Alters-/Politik-Themen, keine Longs Mo/Mi/Fr/So, max. 2 Shorts/Tag.

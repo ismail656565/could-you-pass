@@ -862,3 +862,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Prinzip: Ein Grund zum Kommentieren, der etwas bringt → Kommentare > Likes. Wir versprechen nur, was der Autopilot einlöst: **„Comment your score AND your country – we pick countries from the comments for the next episodes!“** (angepinnter Kommentar aller Flaggen-Shorts ab heute).
 - **Pflicht für den Research-Agenten:** Ländernamen aus Kommentaren (comments.md) sammeln, in die nächsten Flag-Duel-/Real-or-Fake-Folgen einbauen (Paar/Fälschung mit dem Land; politisch umstrittene Flaggen ausgenommen) und der Person antworten: „Your country is in #N tomorrow!“. Beschreibung der Folge: „Requested by @name“.
 - /full-visual selbst (Animations-Skill) nicht nötig – wir haben die Remotion-Pipeline.
+
+## 2026-11-26 – Research
+- KPI: 50 Abos / 40.795 Analytics-Views = 1,23 pro 1.000 (Vortag 1,18); Kanal 55 Abos. Flag Duel ≈ 5,0/1k (#1 3.805/+19, #2 2.649/+5 Analytics), Real or Fake #1 1.417 n. 1,5 h, 70–72 % stayed.
+- Flag Duel #3 (Qatar) 1.060 n. 1,2 T < #2 2.649 → LEGEND-Paare härter (13/14 gemeldete Scores 4/4); #7 LEGEND Cuba/Puerto Rico.
+- Lücke entdeckt: Fr 27.11. 16:00 ohne Short → flag-duel-5 auf 27.11. vorziehen (Produktion heute).
+- Publikum 40,5 % 65+ (report.json audience) → Long-Idee „Brain Test“ (GK STUDIO PRO 46,8k/50×), ohne Altersangabe im Titel. Kommentare 0 offen, kein Faktenfehler; Länderwunsch Lithuania (@Pirl1776) steckt in Flag Duel #5.
