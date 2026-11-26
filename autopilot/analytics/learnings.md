@@ -875,3 +875,7 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Shorts (report.json 25.11. 20:25, publicViews): Flag Duel #2 2.649 (Analytics 1.552 Views, 56 % stayed, +5 Abos), #3 1.060 n. ≈1,2 T, Real or Fake #1 696 (Zählerstand vor Besitzer-Screenshot 1.417); Karten-VS #8 699.
 - Longs: Rätsel-Long #2 26 Views n. ≈1,7 T (✗-Kurs). Thumbnails: CTR per API weiter HttpError 400.
 - Angelegt: flag-duel-6 (28.11., DK/CH, GH/CM, EG/YE, NE/IN, Gewinner a/b/a/b), flag-duel-7 (29.11., JP/BD, PE/CA, GR/UY, CU/PR, b/a/b/a), real-fake-flag-5 (29.11.; neue Fakes kr = Taegeuk-Farben vertauscht statt Trigramme – deutlicher sichtbar, gr = Kanton unten links, es = drei gleich breite Streifen, cl = blaues Feld rechts; a/b/b/a). Like-CTA („Got all four? Hit like, and follow!“, Schlusskarte GOT 4/4? HIT LIKE) jetzt auch in flag-duel-5/-6/-7 und real-fake-flag-4.
+
+## 2026-11-26 14:55 – Real or Fake #1 n. ≈18 h (Besitzer-Screenshot: „es bleibt einfach hängen“)
+- 2,1k Views (+93 % vs. andere Shorts, „mehr geteilt“), 1,2k Engaged Views, **72,6 % stayed** (Rekord gehalten), +2 Abos (≈1/1k), 0 Hypes. Kurve: 0→1,4k in ≈2 h, dann flach ≈12 h, ab ≈14 h leichter Anstieg (späte Welle wie Flag Duel #1/#2).
+- Deutung: Zuschauen ist nicht mehr das Problem; es fehlen Reaktionen (Likes/Kommentare/Abos pro View) und Anzahl Versuche. Ausreißer im Flaggen-Nischenmarkt kommen bei Kanälen mit vielen Folgen (WonderQ, Globonk) → mehr Folgen pro Tag im Gewinnerformat ist der größte Hebel.
