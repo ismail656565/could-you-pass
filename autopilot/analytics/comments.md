@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-26 18:57
+# Zuschauer-Kommentare – Stand 2026-11-26 20:02
 
-Letzte 21 Tage, ohne unsere eigenen. 40 Kommentare, 2 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 40 Kommentare, 1 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -38,7 +38,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SCORE (17)
 
-- 2026-11-26 · Flag Quiz #5: Which One Is Liberia? The Last One I · @gloriausuman7264 **[OFFEN]** · id `Ugz5EM8RBKzoXXvcJud4AaABAg`  
+- 2026-11-26 · Flag Quiz #5: Which One Is Liberia? The Last One I · @gloriausuman7264 · id `Ugz5EM8RBKzoXXvcJud4AaABAg`  
   „4/4“
 - 2026-11-26 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @aroomacanvas · id `Ugy1F_ghLiEAk5U1ytB4AaABAg`  
   „4/4“

@@ -1,33 +1,33 @@
 {
- "fetched": "2026-11-26T17:46",
+ "fetched": "2026-11-26T20:02",
  "groups": {
   "short.format": {
-   "4-Fragen-Trap": {
-    "n": 9,
-    "avgViews": 372,
-    "medianViews": 251,
-    "bestViews": 1082,
-    "stayed": 58.3,
-    "avgPct": 78.2,
-    "subs": 1.0
-   },
    "1-Frage-Ego-Hook": {
     "n": 8,
     "avgViews": 421,
     "medianViews": 382,
     "bestViews": 866,
     "stayed": 44.2,
-    "avgPct": 101.4,
+    "avgPct": 101.5,
     "subs": 2.0
    },
    "3 Fragen": {
     "n": 4,
-    "avgViews": 2008,
-    "medianViews": 1937,
-    "bestViews": 3831,
-    "stayed": 54.0,
-    "avgPct": 76.1,
-    "subs": 24.0
+    "avgViews": 2010,
+    "medianViews": 1938,
+    "bestViews": 3836,
+    "stayed": 54.9,
+    "avgPct": 78.6,
+    "subs": 33.0
+   },
+   "4-Fragen-Trap": {
+    "n": 8,
+    "avgViews": 376,
+    "medianViews": 220,
+    "bestViews": 1082,
+    "stayed": 61.2,
+    "avgPct": 58.8,
+    "subs": 1.0
    },
    "VS-Vergleich": {
     "n": 11,
@@ -57,12 +57,12 @@
     "subs": 0
    },
    "Karten-VS (TrueSize)": {
-    "n": 7,
-    "avgViews": 922,
-    "medianViews": 1016,
-    "bestViews": 1200,
-    "stayed": 49.8,
-    "avgPct": 76.8,
+    "n": 8,
+    "avgViews": 930,
+    "medianViews": 1003,
+    "bestViews": 1203,
+    "stayed": 50.2,
+    "avgPct": 78.0,
     "subs": 2.0
    },
    "Ersatz-Generator (1 Frage)": {
@@ -76,15 +76,6 @@
    }
   },
   "short.topic": {
-   "HALLOWEEN TRIVIA": {
-    "n": 1,
-    "avgViews": 338,
-    "medianViews": 338,
-    "bestViews": 338,
-    "stayed": 37.9,
-    "avgPct": 213.8,
-    "subs": 0
-   },
    "SCIENCE QUIZ": {
     "n": 1,
     "avgViews": 154,
@@ -163,7 +154,7 @@
     "medianViews": 458,
     "bestViews": 484,
     "stayed": 41.9,
-    "avgPct": 89.8,
+    "avgPct": 90.1,
     "subs": 1.0
    },
    "WHICH IS BIGGER?": {
@@ -204,11 +195,11 @@
    },
    "WHICH CAME FIRST?": {
     "n": 2,
-    "avgViews": 606,
-    "medianViews": 606,
-    "bestViews": 1050,
-    "stayed": 65.0,
-    "avgPct": 45.4,
+    "avgViews": 608,
+    "medianViews": 608,
+    "bestViews": 1052,
+    "stayed": 64.8,
+    "avgPct": 45.2,
     "subs": 0
    },
    "HISTORY TRIVIA": {
@@ -311,13 +302,13 @@
     "subs": 0
    },
    "–": {
-    "n": 10,
-    "avgViews": 1416,
-    "medianViews": 1045,
-    "bestViews": 3831,
-    "stayed": 51.1,
-    "avgPct": 78.0,
-    "subs": 26.0
+    "n": 11,
+    "avgViews": 1378,
+    "medianViews": 1021,
+    "bestViews": 3836,
+    "stayed": 51.8,
+    "avgPct": 79.5,
+    "subs": 35.0
    },
    "TRICKY TRIVIA": {
     "n": 1,
@@ -466,12 +457,12 @@
   },
   "short.layout": {
    "neon": {
-    "n": 9,
-    "avgViews": 379,
-    "medianViews": 327,
+    "n": 8,
+    "avgViews": 384,
+    "medianViews": 322,
     "bestViews": 1033,
-    "stayed": 43.7,
-    "avgPct": 137.5,
+    "stayed": 44.5,
+    "avgPct": 126.6,
     "subs": 0
    },
    "tvshow": {
@@ -493,13 +484,13 @@
     "subs": 0
    },
    "comic": {
-    "n": 10,
-    "avgViews": 1416,
-    "medianViews": 1045,
-    "bestViews": 3831,
-    "stayed": 51.1,
-    "avgPct": 78.0,
-    "subs": 26.0
+    "n": 11,
+    "avgViews": 1378,
+    "medianViews": 1021,
+    "bestViews": 3836,
+    "stayed": 51.8,
+    "avgPct": 79.5,
+    "subs": 35.0
    },
    "atlas": {
     "n": 14,
@@ -522,60 +513,60 @@
   },
   "short.music": {
    "brain-pulse.wav": {
-    "n": 16,
-    "avgViews": 382,
-    "medianViews": 314,
+    "n": 15,
+    "avgViews": 385,
+    "medianViews": 312,
     "bestViews": 1092,
-    "stayed": 47.7,
-    "avgPct": 100.5,
+    "stayed": 48.3,
+    "avgPct": 92.4,
     "subs": 3.0
    },
    "game-show.wav": {
     "n": 32,
     "avgViews": 798,
     "medianViews": 553,
-    "bestViews": 3831,
-    "stayed": 49.8,
-    "avgPct": 65.7,
-    "subs": 38.0
+    "bestViews": 3836,
+    "stayed": 50.1,
+    "avgPct": 66.4,
+    "subs": 47.0
    },
    "world-trip.wav": {
-    "n": 20,
-    "avgViews": 572,
-    "medianViews": 506,
-    "bestViews": 1200,
-    "stayed": 51.1,
-    "avgPct": 68.9,
+    "n": 21,
+    "avgViews": 592,
+    "medianViews": 558,
+    "bestViews": 1203,
+    "stayed": 51.2,
+    "avgPct": 69.7,
     "subs": 6.0
    }
   },
   "short.slot": {
-   "10:00": {
-    "n": 2,
-    "avgViews": 327,
-    "medianViews": 327,
-    "bestViews": 338,
-    "stayed": 36.2,
-    "avgPct": 252.2,
-    "subs": 0
-   },
    "16:00": {
     "n": 33,
-    "avgViews": 732,
+    "avgViews": 733,
     "medianViews": 432,
-    "bestViews": 3831,
-    "stayed": 49.0,
-    "avgPct": 70.3,
-    "subs": 38.0
+    "bestViews": 3836,
+    "stayed": 49.2,
+    "avgPct": 70.7,
+    "subs": 47.0
    },
    "21:00": {
-    "n": 33,
-    "avgViews": 553,
-    "medianViews": 393,
-    "bestViews": 1200,
+    "n": 34,
+    "avgViews": 566,
+    "medianViews": 406,
+    "bestViews": 1203,
     "stayed": 51.4,
-    "avgPct": 67.8,
+    "avgPct": 68.4,
     "subs": 9.0
+   },
+   "10:00": {
+    "n": 1,
+    "avgViews": 316,
+    "medianViews": 316,
+    "bestViews": 316,
+    "stayed": 34.5,
+    "avgPct": 290.6,
+    "subs": 0
    }
   },
   "long.format": {
@@ -602,7 +593,7 @@
     "avgViews": 13,
     "medianViews": 4,
     "bestViews": 101,
-    "stayed": 66.2,
+    "stayed": 66.0,
     "avgPct": 44.0,
     "subs": 0
    },
@@ -611,8 +602,8 @@
     "avgViews": 89,
     "medianViews": 29,
     "bestViews": 237,
-    "stayed": 77.6,
-    "avgPct": 11.7,
+    "stayed": 78.7,
+    "avgPct": 18.2,
     "subs": 0
    },
    "15 Fragen": {
@@ -658,8 +649,8 @@
     "avgViews": 97,
     "medianViews": 29,
     "bestViews": 237,
-    "stayed": 79.2,
-    "avgPct": 23.9,
+    "stayed": 79.4,
+    "avgPct": 24.2,
     "subs": 1.0
    },
    "Jahrzehnt": {
@@ -721,7 +712,7 @@
     "avgViews": 41,
     "medianViews": 5,
     "bestViews": 133,
-    "stayed": 67.2,
+    "stayed": 66.9,
     "avgPct": 29.1,
     "subs": 2.0
    },
@@ -759,7 +750,7 @@
     "avgViews": 26,
     "medianViews": 5,
     "bestViews": 237,
-    "stayed": 70.0,
+    "stayed": 69.8,
     "avgPct": 29.0,
     "subs": 0
    },
@@ -777,8 +768,8 @@
     "avgViews": 29,
     "medianViews": 29,
     "bestViews": 29,
-    "stayed": null,
-    "avgPct": null,
+    "stayed": 80.0,
+    "avgPct": 24.8,
     "subs": 0
    }
   },
@@ -788,8 +779,8 @@
     "avgViews": 23,
     "medianViews": 4,
     "bestViews": 101,
-    "stayed": 79.2,
-    "avgPct": 44.3,
+    "stayed": 79.0,
+    "avgPct": 41.0,
     "subs": 0
    },
    "game-show.wav": {
@@ -817,8 +808,8 @@
     "avgViews": 31,
     "medianViews": 10,
     "bestViews": 237,
-    "stayed": 68.5,
-    "avgPct": 37.0,
+    "stayed": 68.9,
+    "avgPct": 36.5,
     "subs": 3.0
    },
    "19:00": {
@@ -850,25 +841,6 @@
    "subs": 0.0,
    "durationSec": 384,
    "ageDays": 36.3,
-   "search": null
-  },
-  {
-   "file": "2026-10-21-halloween-trap-4-0.json",
-   "id": "halloween-trap-4-0",
-   "videoId": "fkrNaaz-gZE",
-   "kind": "short",
-   "title": "4 Halloween Questions 90% Get Wrong 🎃 #shorts",
-   "format": "4-Fragen-Trap",
-   "topic": "HALLOWEEN TRIVIA",
-   "layout": "neon",
-   "music": "brain-pulse.wav",
-   "slot": "10:00",
-   "publicViews": 338.0,
-   "engagedShare": 0.379,
-   "avgPct": 213.79000000000002,
-   "subs": 0.0,
-   "durationSec": 35,
-   "ageDays": 36.5,
    "search": null
   },
   {
@@ -906,7 +878,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 35.2,
+   "ageDays": 35.3,
    "search": null
   },
   {
@@ -944,7 +916,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 34.2,
+   "ageDays": 34.3,
    "search": null
   },
   {
@@ -1020,7 +992,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 33.2,
+   "ageDays": 33.3,
    "search": null
   },
   {
@@ -1096,7 +1068,7 @@
    "avgPct": 54.63,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 32.2,
+   "ageDays": 32.3,
    "search": null
   },
   {
@@ -1134,7 +1106,7 @@
    "avgPct": 45.3,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 31.2,
+   "ageDays": 31.3,
    "search": null
   },
   {
@@ -1191,7 +1163,7 @@
    "avgPct": 0.0,
    "subs": 0.0,
    "durationSec": 628,
-   "ageDays": 27.2,
+   "ageDays": 27.3,
    "search": null
   },
   {
@@ -1248,7 +1220,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 278,
-   "ageDays": 26.2,
+   "ageDays": 26.3,
    "search": null
   },
   {
@@ -1343,7 +1315,7 @@
    "avgPct": 33.51,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 25.2,
+   "ageDays": 25.3,
    "search": null
   },
   {
@@ -1359,7 +1331,7 @@
    "slot": "16:00",
    "publicViews": 432.0,
    "engagedShare": 0.41,
-   "avgPct": 91.14,
+   "avgPct": 91.9,
    "subs": 1.0,
    "durationSec": 14,
    "ageDays": 24.2,
@@ -1381,7 +1353,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 381,
-   "ageDays": 24.2,
+   "ageDays": 24.3,
    "search": null
   },
   {
@@ -1419,7 +1391,7 @@
    "avgPct": 53.53,
    "subs": 0.0,
    "durationSec": 649,
-   "ageDays": 23.2,
+   "ageDays": 23.3,
    "search": null
   },
   {
@@ -1434,8 +1406,8 @@
    "music": "brain-pulse.wav",
    "slot": "16:00",
    "publicViews": 163.0,
-   "engagedShare": 0.7,
-   "avgPct": 49.24,
+   "engagedShare": 0.698,
+   "avgPct": 48.88,
    "subs": 0.0,
    "durationSec": 57,
    "ageDays": 23.2,
@@ -1476,7 +1448,7 @@
    "avgPct": 43.47,
    "subs": 0.0,
    "durationSec": 388,
-   "ageDays": 22.2,
+   "ageDays": 22.3,
    "search": null
   },
   {
@@ -1533,7 +1505,7 @@
    "avgPct": 2.23,
    "subs": 0.0,
    "durationSec": 646,
-   "ageDays": 21.2,
+   "ageDays": 21.3,
    "search": null
   },
   {
@@ -1590,7 +1562,7 @@
    "avgPct": 11.39,
    "subs": 0.0,
    "durationSec": 683,
-   "ageDays": 20.0,
+   "ageDays": 20.1,
    "search": null
   },
   {
@@ -1704,7 +1676,7 @@
    "avgPct": 29.82,
    "subs": 0.0,
    "durationSec": 402,
-   "ageDays": 18.2,
+   "ageDays": 18.3,
    "search": null
   },
   {
@@ -1742,7 +1714,7 @@
    "avgPct": 18.69,
    "subs": 0.0,
    "durationSec": 380,
-   "ageDays": 17.2,
+   "ageDays": 17.3,
    "search": null
   },
   {
@@ -1818,7 +1790,7 @@
    "avgPct": 34.52,
    "subs": 0.0,
    "durationSec": 219,
-   "ageDays": 16.2,
+   "ageDays": 16.3,
    "search": null
   },
   {
@@ -1837,7 +1809,7 @@
    "avgPct": 10.8,
    "subs": 0.0,
    "durationSec": 404,
-   "ageDays": 14.2,
+   "ageDays": 14.3,
    "search": null
   },
   {
@@ -1875,7 +1847,7 @@
    "avgPct": 20.9,
    "subs": 0.0,
    "durationSec": 424,
-   "ageDays": 12.2,
+   "ageDays": 12.3,
    "search": null
   },
   {
@@ -2122,7 +2094,7 @@
    "avgPct": 31.269999999999996,
    "subs": 2.0,
    "durationSec": 217,
-   "ageDays": 9.2,
+   "ageDays": 9.3,
    "search": null
   },
   {
@@ -2213,8 +2185,8 @@
    "music": "game-show.wav",
    "slot": "14:00",
    "publicViews": 237.0,
-   "engagedShare": 0.776,
-   "avgPct": 11.69,
+   "engagedShare": 0.774,
+   "avgPct": 11.64,
    "subs": 0.0,
    "durationSec": 400,
    "ageDays": 7.1,
@@ -2307,13 +2279,13 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 1016.0,
-   "engagedShare": 0.48,
-   "avgPct": 74.75,
+   "publicViews": 1018.0,
+   "engagedShare": 0.479,
+   "avgPct": 74.52,
    "subs": 1.0,
    "durationSec": 36,
    "ageDays": 5.0,
-   "search": 24
+   "search": 25
   },
   {
    "file": "2026-11-21-six-q-which-first-3.json",
@@ -2326,13 +2298,13 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1050.0,
-   "engagedShare": 0.6,
-   "avgPct": 41.6,
+   "publicViews": 1052.0,
+   "engagedShare": 0.598,
+   "avgPct": 41.53,
    "subs": 0.0,
    "durationSec": 42,
    "ageDays": 5.2,
-   "search": 17
+   "search": 18
   },
   {
    "file": "2026-11-21-thanksgiving-quiz-50-1.json",
@@ -2346,12 +2318,12 @@
    "music": "brain-pulse.wav",
    "slot": "14:00",
    "publicViews": 101.0,
-   "engagedShare": 0.587,
-   "avgPct": 24.08,
+   "engagedShare": 0.564,
+   "avgPct": 24.06,
    "subs": 0.0,
    "durationSec": 664,
-   "ageDays": 5.2,
-   "search": 10
+   "ageDays": 5.3,
+   "search": null
   },
   {
    "file": "2026-11-22-flag-duel-1.json",
@@ -2364,13 +2336,13 @@
    "layout": "comic",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 3831.0,
-   "engagedShare": 0.553,
-   "avgPct": 84.68,
-   "subs": 19.0,
+   "publicViews": 3836.0,
+   "engagedShare": 0.555,
+   "avgPct": 84.62,
+   "subs": 20.0,
    "durationSec": 34,
    "ageDays": 4.2,
-   "search": 180
+   "search": 190
   },
   {
    "file": "2026-11-22-map-lie-6.json",
@@ -2383,9 +2355,9 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 1200.0,
-   "engagedShare": 0.52,
-   "avgPct": 79.8,
+   "publicViews": 1203.0,
+   "engagedShare": 0.519,
+   "avgPct": 80.05,
    "subs": 0.0,
    "durationSec": 36,
    "ageDays": 4.0,
@@ -2403,12 +2375,12 @@
    "music": "game-show.wav",
    "slot": "16:00",
    "publicViews": 2754.0,
-   "engagedShare": 0.562,
-   "avgPct": 79.53,
-   "subs": 5.0,
+   "engagedShare": 0.551,
+   "avgPct": 81.02,
+   "subs": 12.0,
    "durationSec": 34,
    "ageDays": 3.2,
-   "search": 86
+   "search": 140
   },
   {
    "file": "2026-11-23-map-lie-7.json",
@@ -2422,12 +2394,12 @@
    "music": "world-trip.wav",
    "slot": "21:00",
    "publicViews": 950.0,
-   "engagedShare": 0.476,
-   "avgPct": 81.3,
+   "engagedShare": 0.495,
+   "avgPct": 84.81,
    "subs": 0.0,
    "durationSec": 36,
    "ageDays": 3.0,
-   "search": 12
+   "search": 20
   },
   {
    "file": "2026-11-24-flag-duel-3.json",
@@ -2440,13 +2412,13 @@
    "layout": "comic",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1120.0,
-   "engagedShare": null,
-   "avgPct": null,
-   "subs": null,
+   "publicViews": 1122.0,
+   "engagedShare": 0.583,
+   "avgPct": 84.68,
+   "subs": 1.0,
    "durationSec": 35,
    "ageDays": 2.2,
-   "search": null
+   "search": 33
   },
   {
    "file": "2026-11-24-iq-riddles-12-2.json",
@@ -2460,12 +2432,31 @@
    "music": "brain-pulse.wav",
    "slot": "14:00",
    "publicViews": 29.0,
-   "engagedShare": null,
-   "avgPct": null,
-   "subs": null,
+   "engagedShare": 0.8,
+   "avgPct": 24.77,
+   "subs": 0.0,
    "durationSec": 270,
-   "ageDays": 2.2,
+   "ageDays": 2.3,
    "search": null
+  },
+  {
+   "file": "2026-11-24-map-lie-8.json",
+   "id": "map-lie-8",
+   "videoId": "NfdySlM8pEo",
+   "kind": "short",
+   "title": "This Map Is Lying To You #8 🌍 Which Is REALLY Bigger? #shorts",
+   "format": "Karten-VS (TrueSize)",
+   "topic": "–",
+   "layout": "comic",
+   "music": "world-trip.wav",
+   "slot": "21:00",
+   "publicViews": 988.0,
+   "engagedShare": 0.51,
+   "avgPct": 83.02,
+   "subs": 0.0,
+   "durationSec": 36,
+   "ageDays": 2.0,
+   "search": 4
   },
   {
    "file": "auto-2026-10-28-long.json",
@@ -2502,7 +2493,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 29.9,
+   "ageDays": 30.0,
    "search": null
   },
   {
@@ -2521,7 +2512,7 @@
    "avgPct": 103.37,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 29.9,
+   "ageDays": 30.0,
    "search": null
   },
   {
@@ -2578,7 +2569,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 28.0,
+   "ageDays": 28.1,
    "search": null
   },
   {
