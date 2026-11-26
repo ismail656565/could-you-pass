@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-25T22:00",
+ "fetched": "2026-11-26T15:18",
  "channel": "WILDLY TRUE",
  "subscribers": "50",
  "audience": {
@@ -28,23 +28,23 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 1343,
+    "views": 1342,
     "engagedViews": 459
    },
    {
     "deviceType": "TABLET",
-    "views": 88,
+    "views": 91,
     "engagedViews": 37
    },
    {
     "deviceType": "DESKTOP",
-    "views": 55,
+    "views": 56,
     "engagedViews": 14
    },
    {
     "deviceType": "TV",
-    "views": 38,
-    "engagedViews": 26
+    "views": 37,
+    "engagedViews": 25
    }
   ],
   "ageGroups": [
@@ -616,7 +616,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 30,
-   "publicViews": "387",
+   "publicViews": "388",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2231,7 +2231,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 27,
-   "publicViews": "32",
+   "publicViews": "38",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -5042,7 +5042,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 32,
-   "publicViews": "1209",
+   "publicViews": "1210",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -5957,7 +5957,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 28,
-   "publicViews": "1034",
+   "publicViews": "1036",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -6249,7 +6249,7 @@
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 27,
-   "publicViews": "1206",
+   "publicViews": "1207",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
