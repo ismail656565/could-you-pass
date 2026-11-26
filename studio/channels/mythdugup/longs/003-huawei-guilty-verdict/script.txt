@@ -1,0 +1,53 @@
+On Tuesday, a jury in Brooklyn, New York, delivered a verdict that China's most famous tech company had fought for eight years. It found Huawei, one of the biggest technology companies on Earth, guilty of serious federal crimes.
+Ten counts out of twelve. Bank fraud. Wire fraud. Breaking American sanctions on Iran. And a conspiracy to steal trade secrets from American companies. But the jury also threw out the biggest charge of all.
+This is the story of an eight-year legal war between Washington and China's national champion. It involves a secret company in Iran, an arrest at an airport in Canada, and a router code with a name spelled backwards. And here's the twist. Some of it is proven. Some of it is still very much up for debate. By the end of this video, you'll know exactly which is which.
+# China's National Champion
+To understand why this verdict matters, you need to understand Huawei. It was founded in nineteen eighty-seven by Ren Zhengfei, a former engineer in China's army. Then it grew. And grew.
+Today, Huawei builds the networks that carry phone calls and internet traffic in dozens of countries. It makes smartphones, laptops and cloud servers. According to its own annual report, it brought in eight hundred eighty point nine billion yuan in revenue last year. That's about one hundred twenty-six billion dollars.
+Fortune calls it China's national champion. It is also at the heart of China's push to build its own AI chips, a family of processors called Ascend.
+But for years, American officials have seen Huawei very differently. They have argued that its equipment could be a security risk. In twenty nineteen, the Commerce Department put Huawei on its Entity List, which cuts it off from many American suppliers. In twenty twenty, Washington tightened those controls even further.
+Huawei has always denied that it is a threat. And China has long accused the United States of economic bullying, and of oppressing Chinese companies.
+So when American prosecutors decided to take Huawei itself to trial, everyone knew this would be bigger than a normal court case. And it all started with one woman, and one flight.
+# The Arrest in Vancouver
+In December twenty eighteen, a Huawei executive landed in Vancouver, Canada. Her name was Meng Wanzhou. She was Huawei's chief financial officer. She was also the daughter of the founder, Ren Zhengfei.
+Canadian officers arrested her at the request of the United States. American prosecutors wanted her on charges of bank fraud.
+The accusation was about a company called Skycom. According to prosecutors, Skycom ran Huawei's business in Iran. But when Huawei dealt with banks like HSBC, it allegedly described Skycom as an independent partner. Not as part of Huawei.
+Why would that matter? Because of sanctions. The United States has strict sanctions on Iran. Banks that move money for Iranian business can get into serious trouble. Prosecutors said those false statements helped Huawei get billions of dollars in loans and banking services.
+In January twenty nineteen, a federal indictment in Brooklyn made the charges official. Meng was charged. And so was Huawei itself.
+What followed was a diplomatic storm. Meng spent nearly three years in Canada fighting extradition, living under house arrest in her Vancouver home.
+Then, in September twenty twenty-one, she reached a deal with American prosecutors. It was called a deferred prosecution agreement. She signed a four-page statement of facts. In it, according to Reuters, she acknowledged lying to a financial institution about Huawei's compliance with sanctions.
+The charges against her were later dropped. She flew home to China. And shortly after she was freed, China released two Canadians it had been holding.
+For Meng, the case was over. But for Huawei, it was just getting started. And that four-page statement would come back to haunt the company.
+# The Charges
+Over the years, prosecutors added more and more to the case. A superseding indictment accused Huawei of stealing trade secrets and of running a long-term criminal enterprise. That's the racketeering charge, a law often used against organized crime.
+According to the Justice Department, as reported by The Next Web, the trade secret claims involved five American companies. Cisco. T-Mobile. Fujitsu. CNEX. And Quintel.
+Some of the details sound almost like a movie. Prosecutors said Huawei engineers copied source code from Cisco routers. In their notes, they allegedly called the company "ocsic." That's Cisco, spelled backwards.
+Then there was Tappy. Tappy was a robot that T-Mobile used to test smartphones. Prosecutors said Huawei gathered details about it under a non-disclosure agreement. And one employee allegedly walked out of a restricted lab with a piece of the robot.
+Prosecutors also said Huawei rewarded employees who brought in confidential information from competitors. And they claimed equipment sold through Skycom helped Iran's authorities watch and censor internet users.
+Huawei pushed back hard. It said the trade secret fights were civil matters that ended long ago. It said no court had ever found it liable for willful intellectual property theft.
+The company also tried to get the case thrown out. In July twenty twenty-five, Judge Ann Donnelly said no. Huawei would have to stand trial.
+Then, in June twenty twenty-six, came another blow. The judge ruled that Meng's admissions from her deal could be used against Huawei at trial. Her reasoning was simple. Meng was, and still is, Huawei's chief financial officer.
+Now the stage was set. Twelve counts. One of the most powerful companies in China. And a jury of ordinary New Yorkers. Would the case hold up? Both sides were about to find out. And the answer was not a clean win for either of them.
+# The Verdict
+Jury selection was set for September eighth. Over the following weeks, jurors heard about bank records, router code, a testing robot, and a company in Iran.
+In late November, prosecutors made their final case. The defense made theirs. Twelve counts were now in the hands of the jury.
+Then the jury went behind closed doors. And on Tuesday, November twenty-fourth, they came back.
+Guilty on ten of the twelve counts. Those included bank fraud, wire fraud, conspiracy to launder money, breaking sanctions on Iran, and conspiracy to steal trade secrets.
+But there was a surprise. The jury found Huawei not guilty of racketeering conspiracy. And not guilty of conspiracy to obstruct justice. The charge that painted Huawei as a criminal enterprise did not stick. According to The Next Web, the verdict also covered three Huawei subsidiaries, including its American research arm, Futurewei Technologies.
+The Justice Department celebrated. Assistant Attorney General Tysen Duva said, "For over two decades, Huawei built its global empire on a foundation of fraud, theft, and deception."
+The top federal prosecutor in Brooklyn, Joseph Nocella Junior, called it a decades-long pattern of endangering national security.
+Huawei saw it very differently. In a statement, it said the racketeering acquittal "confirms that these allegations lack factual basis." It called the other charges "equally without legal or factual merit."
+Its lawyer, Brian Heberlig, said the racketeering acquittal reflected the company's good-faith compliance culture. And he told reporters, "We fully expect to appeal."
+So what happens now? Sentencing is set for September twenty twenty-seven. Because Huawei is a company, not a person, nobody goes to prison here. The penalties can include criminal fines, forfeiture and restitution.
+And here's the strange part. Fortune points out that the verdict is unlikely to slow Huawei down. The company already operates under heavy American restrictions, from the Entity List to the export controls of twenty twenty. Still, a criminal jury has now ruled on the government's accusations. And Huawei is officially convicted in an American federal court.
+# What We Still Don't Know
+So, let's separate what's proven from what's still debated.
+Proven: a federal jury in Brooklyn convicted Huawei on ten of twelve counts, including bank fraud, Iran sanctions violations and conspiracy to steal trade secrets.
+Proven: the same jury cleared Huawei of racketeering conspiracy and conspiracy to obstruct justice.
+Proven: Meng Wanzhou signed a statement of facts in twenty twenty-one, and the judge allowed it to be used at trial.
+Proven: sentencing is scheduled for September twenty twenty-seven.
+Debated: whether the verdict survives. Huawei says it fully expects to appeal, and an appeal could take years.
+Debated: how big the penalty will be. No fine has been set, and sentencing is still months away.
+Debated: whether this is about crime, or about the race for technology between America and China. Prosecutors say it's about fraud and theft. Huawei says the allegations lack merit. And China has long accused Washington of bullying Chinese companies.
+One company. Twelve charges. Ten guilty verdicts. And a fight that is far from over.
+When new facts come out, we'll dig them up. Subscribe, so you don't miss the next chapter.

@@ -1,0 +1,1852 @@
+{
+ "title": "Huawei Found Guilty: The 8-Year Case That Ended in Brooklyn",
+ "mood": "tense",
+ "cast": {
+  "ren": {
+   "skin": "light",
+   "outfit": "suit",
+   "color": "#2B2D3C",
+   "shirt": "#E8E8E8",
+   "tie": "#7A1F1F",
+   "hair": "short",
+   "hair_col": "#BDBDBD",
+   "glasses": true
+  },
+  "meng": {
+   "skin": "light",
+   "outfit": "suit",
+   "color": "#1C1B22",
+   "tie": "none",
+   "hair": "long",
+   "hair_col": "#1C1B22"
+  },
+  "prosecutor": {
+   "skin": "fair",
+   "outfit": "suit",
+   "color": "#3B4660",
+   "tie": "#1C1B22",
+   "hair": "short",
+   "hair_col": "#5A3E2B"
+  },
+  "lawyer": {
+   "skin": "fair",
+   "outfit": "suit",
+   "color": "#5B5B66",
+   "tie": "#2F6B4E",
+   "hair": "slick",
+   "hair_col": "#8A8A92"
+  },
+  "judge": {
+   "skin": "fair",
+   "outfit": "dress",
+   "color": "#1C1B22",
+   "hair": "bun",
+   "hair_col": "#C9A56A",
+   "glasses": true
+  },
+  "agent": {
+   "skin": "brown",
+   "outfit": "suit",
+   "color": "#2F6B4E",
+   "tie": "#1C1B22",
+   "hair": "short",
+   "hair_col": "#1C1B22",
+   "hat": "fedora",
+   "hat_col": "#3B2A1E"
+  },
+  "ava": {
+   "skin": "olive",
+   "outfit": "sweater",
+   "color": "#C9822F",
+   "hair": "bun",
+   "hair_col": "#3B2A1E",
+   "hat": "fedora",
+   "hat_col": "#6B4A2E"
+  }
+ },
+ "shots": [
+  {
+   "kind": "wide",
+   "s": [
+    0
+   ],
+   "set": "office",
+   "time": "night",
+   "chars": [
+    {
+     "id": "judge",
+     "x": 960,
+     "emotion": "confident",
+     "pose": "present",
+     "enter": "left"
+    }
+   ],
+   "labels": [
+    {
+     "text": "BROOKLYN",
+     "at": "brooklyn",
+     "color": "lime"
+    },
+    {
+     "text": "8 YEARS",
+     "at": "eight",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    1
+   ],
+   "who": "ren",
+   "set": "office",
+   "time": "night",
+   "emotion": "shocked",
+   "pose": "stressed",
+   "labels": [
+    {
+     "text": "GUILTY",
+     "at": "guilty",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "counter",
+   "s": [
+    2
+   ],
+   "value": {
+    "from": 0,
+    "to": 10,
+    "suffix": " OF 12",
+    "at": 0.06
+   },
+   "caption": "COUNTS GUILTY",
+   "icon": "warning"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    3,
+    5
+   ],
+   "icons": [
+    {
+     "name": "lock",
+     "label": "BANK FRAUD",
+     "at": 0.04
+    },
+    {
+     "name": "laptop",
+     "label": "WIRE FRAUD",
+     "at": 0.29
+    },
+    {
+     "name": "warning",
+     "label": "IRAN SANCTIONS",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    6
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "COUNT",
+     "text": "CONSPIRACY TO STEAL TRADE SECRETS",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "GUILTY",
+    "at": "conspiracy",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    7
+   ],
+   "who": "ava",
+   "set": "office",
+   "time": "night",
+   "emotion": "shocked",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "THROWN OUT",
+     "at": "threw",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    8
+   ],
+   "left": {
+    "who": "prosecutor",
+    "title": "WASHINGTON",
+    "emotion": "confident",
+    "at": 0.05
+   },
+   "right": {
+    "who": "ren",
+    "title": "HUAWEI",
+    "emotion": "angry",
+    "at": 0.4
+   },
+   "stamp": {
+    "text": "8-YEAR WAR",
+    "at": "war",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    9
+   ],
+   "icons": [
+    {
+     "name": "house",
+     "label": "IRAN COMPANY",
+     "at": 0.04
+    },
+    {
+     "name": "lock",
+     "label": "CANADA ARREST",
+     "at": 0.29
+    },
+    {
+     "name": "laptop",
+     "label": "'OCSIC'",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    10,
+    12
+   ],
+   "set": "void",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 760,
+     "emotion": "thinking",
+     "pose": "think",
+     "face": 0.5
+    }
+   ],
+   "labels": [
+    {
+     "text": "PROVEN",
+     "at": "proven",
+     "color": "lime"
+    },
+    {
+     "text": "DEBATED",
+     "at": "debate",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    13
+   ],
+   "who": "ava",
+   "set": "home",
+   "time": "night",
+   "emotion": "excited",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "WHICH IS WHICH?",
+     "at": "which",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "China's National Champion",
+   "sub": "CHAPTER ONE"
+  },
+  {
+   "kind": "skyline",
+   "s": [
+    14
+   ],
+   "time": "day",
+   "tag": "HUAWEI · SHENZHEN"
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    15
+   ],
+   "who": "ren",
+   "side": "right",
+   "set": "office",
+   "time": "day",
+   "emotion": "confident",
+   "pose": "present",
+   "lower_third": {
+    "name": "REN ZHENGFEI",
+    "sub": "HUAWEI FOUNDER",
+    "at": "ren"
+   },
+   "labels": [
+    {
+     "text": "SINCE 1987",
+     "at": "nineteen",
+     "color": "gold"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    16,
+    17
+   ],
+   "set": "office",
+   "time": "day",
+   "chars": [
+    {
+     "id": "ren",
+     "x": 960,
+     "emotion": "happy",
+     "pose": "celebrate"
+    }
+   ],
+   "labels": [
+    {
+     "text": "GREW",
+     "at": "grew",
+     "color": "lime"
+    },
+    {
+     "text": "AND GREW",
+     "at": "and grew",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "map",
+   "s": [
+    18
+   ],
+   "places": [
+    {
+     "name": "CHINA"
+    },
+    {
+     "name": "EUROPE"
+    },
+    {
+     "name": "AFRICA"
+    },
+    {
+     "name": "MIDDLE EAST"
+    }
+   ],
+   "vehicle": "ship",
+   "at": 0.1
+  },
+  {
+   "kind": "icon",
+   "s": [
+    19
+   ],
+   "icons": [
+    {
+     "name": "phone",
+     "label": "SMARTPHONES",
+     "at": 0.04
+    },
+    {
+     "name": "laptop",
+     "label": "LAPTOPS",
+     "at": 0.29
+    },
+    {
+     "name": "brain",
+     "label": "CLOUD",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "counter",
+   "s": [
+    20,
+    21
+   ],
+   "value": {
+    "from": 0,
+    "to": 126,
+    "prefix": "$",
+    "suffix": " BILLION",
+    "at": 0.06
+   },
+   "caption": "REVENUE LAST YEAR (880.9B YUAN)",
+   "icon": "trophy"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    22,
+    23
+   ],
+   "icons": [
+    {
+     "name": "trophy",
+     "label": "NATIONAL CHAMPION",
+     "at": 0.04
+    },
+    {
+     "name": "brain",
+     "label": "ASCEND AI CHIPS",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    24,
+    25
+   ],
+   "who": "agent",
+   "set": "office",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "arms_crossed",
+   "labels": [
+    {
+     "text": "SECURITY RISK?",
+     "at": "security",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    26
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "COMMERCE DEPARTMENT",
+     "text": "2019 · ENTITY LIST: HUAWEI",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "LISTED",
+    "at": "entity",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    27
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "TIGHTER CONTROLS",
+     "at": 0.04,
+     "top": "YEAR",
+     "text": "2020"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    28,
+    29
+   ],
+   "left": {
+    "who": "ren",
+    "title": "'NOT A THREAT'",
+    "emotion": "angry",
+    "at": 0.05
+   },
+   "right": {
+    "who": "agent",
+    "title": "'SECURITY RISK'",
+    "emotion": "confident",
+    "at": 0.3
+   },
+   "stamp": {
+    "text": "'BULLYING'",
+    "at": "bullying",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "wide",
+   "s": [
+    30
+   ],
+   "set": "board",
+   "time": "night",
+   "chars": [
+    {
+     "id": "prosecutor",
+     "x": 620,
+     "emotion": "confident",
+     "pose": "explain",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "TO TRIAL",
+     "at": "trial",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    31
+   ],
+   "who": "ava",
+   "set": "void",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "think",
+   "labels": [
+    {
+     "text": "ONE WOMAN",
+     "at": "woman",
+     "color": "lime"
+    },
+    {
+     "text": "ONE FLIGHT",
+     "at": "flight",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "The Arrest in Vancouver",
+   "sub": "CHAPTER TWO"
+  },
+  {
+   "kind": "map",
+   "s": [
+    32
+   ],
+   "places": [
+    {
+     "name": "HONG KONG"
+    },
+    {
+     "name": "VANCOUVER"
+    }
+   ],
+   "vehicle": "plane",
+   "at": 0.1
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    33,
+    34
+   ],
+   "who": "meng",
+   "side": "left",
+   "set": "office",
+   "time": "day",
+   "emotion": "confident",
+   "pose": "present",
+   "lower_third": {
+    "name": "MENG WANZHOU",
+    "sub": "HUAWEI CFO",
+    "at": "meng"
+   }
+  },
+  {
+   "kind": "versus",
+   "s": [
+    35
+   ],
+   "left": {
+    "who": "ren",
+    "title": "FOUNDER",
+    "emotion": "smile",
+    "at": 0.05
+   },
+   "right": {
+    "who": "meng",
+    "title": "DAUGHTER",
+    "emotion": "smile",
+    "at": 0.4
+   }
+  },
+  {
+   "kind": "walk",
+   "s": [
+    36,
+    37
+   ],
+   "set": "street",
+   "time": "night",
+   "chars": [
+    {
+     "id": "meng"
+    }
+   ],
+   "tag": "VANCOUVER · DEC 2018",
+   "labels": [
+    {
+     "text": "ARRESTED",
+     "at": "arrested",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    38,
+    39
+   ],
+   "icons": [
+    {
+     "name": "house",
+     "label": "SKYCOM",
+     "at": 0.04,
+     "text": "IRAN"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    40,
+    41
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "TO: HSBC",
+     "text": "SKYCOM: 'INDEPENDENT PARTNER'",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "ALLEGED",
+    "at": "allegedly",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    42,
+    43
+   ],
+   "who": "ava",
+   "set": "office",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "explain",
+   "labels": [
+    {
+     "text": "SANCTIONS",
+     "at": "sanctions",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    44,
+    45
+   ],
+   "icons": [
+    {
+     "name": "lock",
+     "label": "IRAN SANCTIONS",
+     "at": 0.04
+    },
+    {
+     "name": "warning",
+     "label": "BANKS AT RISK",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    46
+   ],
+   "icons": [
+    {
+     "name": "shopping",
+     "label": "BILLIONS IN LOANS",
+     "at": 0.04
+    },
+    {
+     "name": "warning",
+     "label": "FALSE STATEMENTS",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    47,
+    49
+   ],
+   "items": [
+    {
+     "type": "newspaper",
+     "title": "JAN 2019",
+     "text": "BROOKLYN INDICTMENT: MENG AND HUAWEI",
+     "at": 0.04,
+     "ring_at": "indictment"
+    }
+   ],
+   "stamp": {
+    "text": "CHARGED",
+    "at": "charged",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    50
+   ],
+   "who": "agent",
+   "set": "office",
+   "time": "night",
+   "emotion": "worried",
+   "pose": "stressed",
+   "labels": [
+    {
+     "text": "DIPLOMATIC STORM",
+     "at": "storm",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    51
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "meng",
+     "x": 900,
+     "emotion": "sad",
+     "pose": "idle"
+    }
+   ],
+   "labels": [
+    {
+     "text": "HOUSE ARREST",
+     "at": "house",
+     "color": "red"
+    },
+    {
+     "text": "NEARLY 3 YEARS",
+     "at": "three",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    52,
+    53
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "DEFERRED DEAL",
+     "at": 0.04,
+     "top": "SEPT",
+     "text": "2021"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    54,
+    55
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "STATEMENT OF FACTS",
+     "text": "4 PAGES · SIGNED BY MENG",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "ADMITTED",
+    "at": "acknowledged",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "walk",
+   "s": [
+    56,
+    57
+   ],
+   "set": "street",
+   "time": "day",
+   "chars": [
+    {
+     "id": "meng"
+    }
+   ],
+   "tag": "BACK TO CHINA",
+   "labels": [
+    {
+     "text": "CHARGES DROPPED",
+     "at": "dropped",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    58
+   ],
+   "icons": [
+    {
+     "name": "house",
+     "label": "2 CANADIANS",
+     "at": 0.04
+    },
+    {
+     "name": "heart",
+     "label": "RELEASED",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    59,
+    60
+   ],
+   "left": {
+    "who": "meng",
+    "title": "CASE OVER",
+    "emotion": "happy",
+    "at": 0.05
+   },
+   "right": {
+    "who": "ren",
+    "title": "JUST STARTING",
+    "emotion": "worried",
+    "at": 0.45
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    61
+   ],
+   "who": "ava",
+   "set": "home",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "think",
+   "labels": [
+    {
+     "text": "IT CAME BACK",
+     "at": "haunt",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "The Charges",
+   "sub": "CHAPTER THREE"
+  },
+  {
+   "kind": "table",
+   "s": [
+    62,
+    63
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "SUPERSEDING INDICTMENT",
+     "text": "TRADE SECRETS · CRIMINAL ENTERPRISE",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "EXPANDED",
+    "at": "superseding",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    64
+   ],
+   "who": "prosecutor",
+   "set": "office",
+   "time": "night",
+   "emotion": "confident",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "RACKETEERING",
+     "at": "racketeering",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "crowd",
+   "s": [
+    65
+   ],
+   "count": 5,
+   "emotion": "worried",
+   "at": 0.05
+  },
+  {
+   "kind": "icon",
+   "s": [
+    66,
+    68
+   ],
+   "icons": [
+    {
+     "name": "laptop",
+     "label": "CISCO",
+     "at": 0.04
+    },
+    {
+     "name": "phone",
+     "label": "T-MOBILE",
+     "at": 0.29
+    },
+    {
+     "name": "brain",
+     "label": "FUJITSU",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    69,
+    70
+   ],
+   "icons": [
+    {
+     "name": "lock",
+     "label": "CNEX",
+     "at": 0.04
+    },
+    {
+     "name": "target",
+     "label": "QUINTEL",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    71,
+    72
+   ],
+   "set": "office",
+   "time": "night",
+   "chars": [
+    {
+     "id": "agent",
+     "x": 700,
+     "emotion": "thinking",
+     "pose": "think",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "SOURCE CODE",
+     "at": "source",
+     "color": "lime"
+    },
+    {
+     "text": "CISCO ROUTERS",
+     "at": "routers",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    73
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "ENGINEER NOTES",
+     "text": "'OCSIC' = CISCO BACKWARDS",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "ALLEGED",
+    "at": "allegedly",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    74,
+    75
+   ],
+   "icons": [
+    {
+     "name": "phone",
+     "label": "TAPPY THE ROBOT",
+     "at": 0.04
+    },
+    {
+     "name": "target",
+     "label": "T-MOBILE TESTS",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    76
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "NDA",
+     "text": "NON-DISCLOSURE AGREEMENT",
+     "at": 0.04
+    }
+   ]
+  },
+  {
+   "kind": "walk",
+   "s": [
+    77
+   ],
+   "set": "street",
+   "time": "night",
+   "chars": [
+    {
+     "id": "agent"
+    }
+   ],
+   "tag": "RESTRICTED LAB",
+   "labels": [
+    {
+     "text": "A PIECE OF THE ROBOT",
+     "at": "piece",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    78,
+    79
+   ],
+   "icons": [
+    {
+     "name": "gift",
+     "label": "REWARDS",
+     "at": 0.04
+    },
+    {
+     "name": "warning",
+     "label": "CENSORSHIP",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    80,
+    81
+   ],
+   "who": "lawyer",
+   "side": "right",
+   "set": "office",
+   "time": "day",
+   "emotion": "angry",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "'CIVIL MATTERS'",
+     "at": "civil",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    82,
+    83
+   ],
+   "left": {
+    "who": "lawyer",
+    "title": "NEVER LIABLE",
+    "emotion": "confident",
+    "at": 0.05
+   },
+   "right": {
+    "who": "prosecutor",
+    "title": "THROW IT OUT?",
+    "emotion": "thinking",
+    "at": 0.5
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    84,
+    85
+   ],
+   "who": "judge",
+   "side": "left",
+   "set": "office",
+   "time": "day",
+   "emotion": "confident",
+   "pose": "arms_crossed",
+   "lower_third": {
+    "name": "ANN DONNELLY",
+    "sub": "FEDERAL JUDGE · BROOKLYN",
+    "at": "donnelly"
+   },
+   "stamp": {
+    "text": "TRIAL",
+    "at": "trial",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    86
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "ANOTHER BLOW",
+     "at": 0.04,
+     "top": "JUNE",
+     "text": "2026"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    87
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "RULING",
+     "text": "MENG'S ADMISSIONS ALLOWED",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "ADMISSIBLE",
+    "at": "admissions",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    88,
+    89
+   ],
+   "who": "meng",
+   "set": "office",
+   "time": "night",
+   "emotion": "nervous",
+   "pose": "idle",
+   "labels": [
+    {
+     "text": "STILL CFO",
+     "at": "still",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    90,
+    93
+   ],
+   "set": "office",
+   "time": "day",
+   "chars": [
+    {
+     "id": "judge",
+     "x": 960,
+     "emotion": "confident",
+     "pose": "present"
+    }
+   ],
+   "labels": [
+    {
+     "text": "12 COUNTS",
+     "at": "twelve",
+     "color": "lime"
+    },
+    {
+     "text": "ORDINARY NEW YORKERS",
+     "at": "ordinary",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    94,
+    96
+   ],
+   "who": "ava",
+   "set": "void",
+   "time": "night",
+   "emotion": "excited",
+   "pose": "point",
+   "labels": [
+    {
+     "text": "NOT A CLEAN WIN",
+     "at": "clean",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "The Verdict",
+   "sub": "CHAPTER FOUR"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    97,
+    98
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "JURY SELECTION",
+     "at": 0.04,
+     "top": "SEPT",
+     "text": "8"
+    },
+    {
+     "name": "book",
+     "label": "EVIDENCE",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    99,
+    100
+   ],
+   "left": {
+    "who": "prosecutor",
+    "title": "PROSECUTION",
+    "emotion": "confident",
+    "at": 0.05
+   },
+   "right": {
+    "who": "lawyer",
+    "title": "DEFENSE",
+    "emotion": "confident",
+    "at": 0.5
+   }
+  },
+  {
+   "kind": "crowd",
+   "s": [
+    101,
+    102
+   ],
+   "count": 12,
+   "emotion": "thinking",
+   "at": 0.05
+  },
+  {
+   "kind": "icon",
+   "s": [
+    103
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "VERDICT DAY",
+     "at": 0.04,
+     "top": "NOV",
+     "text": "24"
+    }
+   ]
+  },
+  {
+   "kind": "counter",
+   "s": [
+    104
+   ],
+   "value": {
+    "from": 0,
+    "to": 10,
+    "suffix": " OF 12",
+    "at": 0.06
+   },
+   "caption": "GUILTY COUNTS",
+   "icon": "warning"
+  },
+  {
+   "kind": "icon",
+   "s": [
+    105
+   ],
+   "icons": [
+    {
+     "name": "lock",
+     "label": "BANK FRAUD",
+     "at": 0.04
+    },
+    {
+     "name": "shopping",
+     "label": "LAUNDERING",
+     "at": 0.29
+    },
+    {
+     "name": "warning",
+     "label": "IRAN SANCTIONS",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    106
+   ],
+   "who": "ava",
+   "set": "office",
+   "time": "night",
+   "emotion": "shocked",
+   "pose": "stressed",
+   "labels": [
+    {
+     "text": "SURPRISE",
+     "at": "surprise",
+     "color": "lime"
+    }
+   ]
+  },
+  {
+   "kind": "table",
+   "s": [
+    107,
+    108
+   ],
+   "items": [
+    {
+     "type": "newspaper",
+     "title": "NOT GUILTY",
+     "text": "RACKETEERING · OBSTRUCTION",
+     "at": 0.04,
+     "ring_at": "racketeering"
+    }
+   ],
+   "stamp": {
+    "text": "ACQUITTED",
+    "at": "obstruct",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "wide",
+   "s": [
+    109,
+    110
+   ],
+   "set": "office",
+   "time": "day",
+   "chars": [
+    {
+     "id": "ren",
+     "x": 700,
+     "emotion": "thinking",
+     "pose": "think",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "DID NOT STICK",
+     "at": "stick",
+     "color": "lime"
+    },
+    {
+     "text": "+ 3 SUBSIDIARIES",
+     "at": "subsidiaries",
+     "color": "cream"
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    111,
+    112
+   ],
+   "who": "prosecutor",
+   "side": "right",
+   "set": "office",
+   "time": "day",
+   "emotion": "happy",
+   "pose": "present",
+   "lower_third": {
+    "name": "TYSEN DUVA",
+    "sub": "ASSISTANT ATTORNEY GENERAL",
+    "at": "duva"
+   },
+   "labels": [
+    {
+     "text": "'FRAUD, THEFT, DECEPTION'",
+     "at": "deception",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    113
+   ],
+   "icons": [
+    {
+     "name": "warning",
+     "label": "NATIONAL SECURITY",
+     "at": 0.04
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    114,
+    115
+   ],
+   "left": {
+    "who": "ren",
+    "title": "'NO BASIS'",
+    "emotion": "angry",
+    "at": 0.05
+   },
+   "right": {
+    "who": "prosecutor",
+    "title": "'FRAUD'",
+    "emotion": "confident",
+    "at": 0.3
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    116,
+    117
+   ],
+   "who": "lawyer",
+   "side": "left",
+   "set": "office",
+   "time": "day",
+   "emotion": "confident",
+   "pose": "explain",
+   "lower_third": {
+    "name": "BRIAN HEBERLIG",
+    "sub": "HUAWEI LAWYER",
+    "at": "heberlig"
+   },
+   "bubble": {
+    "who": "lawyer",
+    "text": "We fully expect to appeal.",
+    "at": "appeal",
+    "thought": false
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    118,
+    119
+   ],
+   "icons": [
+    {
+     "name": "calendar",
+     "label": "SENTENCING",
+     "at": 0.04,
+     "top": "SEPT",
+     "text": "2027"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    120,
+    121
+   ],
+   "icons": [
+    {
+     "name": "lock",
+     "label": "NO PRISON",
+     "at": 0.04
+    },
+    {
+     "name": "shopping",
+     "label": "FINES",
+     "at": 0.29
+    },
+    {
+     "name": "target",
+     "label": "RESTITUTION",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    122,
+    123
+   ],
+   "who": "ava",
+   "set": "home",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "think",
+   "labels": [
+    {
+     "text": "UNLIKELY TO SLOW IT",
+     "at": "unlikely",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    124,
+    126
+   ],
+   "set": "board",
+   "time": "night",
+   "chars": [
+    {
+     "id": "agent",
+     "x": 620,
+     "emotion": "confident",
+     "pose": "explain",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "ENTITY LIST",
+     "at": "entity",
+     "color": "lime"
+    },
+    {
+     "text": "CONVICTED",
+     "at": "convicted",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "title",
+   "text": "What We Still Don't Know",
+   "sub": "CHAPTER FIVE"
+  },
+  {
+   "kind": "wide",
+   "s": [
+    127
+   ],
+   "set": "board",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 520,
+     "emotion": "confident",
+     "pose": "explain",
+     "face": 0.6
+    }
+   ],
+   "labels": [
+    {
+     "text": "PROVEN",
+     "at": "proven",
+     "color": "lime"
+    },
+    {
+     "text": "DEBATED",
+     "at": "debated",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "counter",
+   "s": [
+    128
+   ],
+   "value": {
+    "from": 0,
+    "to": 10,
+    "suffix": " OF 12",
+    "at": 0.06
+   },
+   "caption": "PROVEN: CONVICTED",
+   "icon": "warning"
+  },
+  {
+   "kind": "table",
+   "s": [
+    129
+   ],
+   "items": [
+    {
+     "type": "newspaper",
+     "title": "CLEARED",
+     "text": "RACKETEERING · OBSTRUCTION",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "PROVEN",
+    "at": "cleared",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "table",
+   "s": [
+    130,
+    131
+   ],
+   "items": [
+    {
+     "type": "letter",
+     "title": "STATEMENT OF FACTS",
+     "text": "2021 · USED AT TRIAL",
+     "at": 0.04
+    }
+   ],
+   "stamp": {
+    "text": "PROVEN",
+    "at": "sentencing",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "versus",
+   "s": [
+    132,
+    133
+   ],
+   "left": {
+    "who": "lawyer",
+    "title": "APPEAL",
+    "emotion": "confident",
+    "at": 0.05
+   },
+   "right": {
+    "who": "judge",
+    "title": "VERDICT",
+    "emotion": "thinking",
+    "at": 0.4
+   },
+   "stamp": {
+    "text": "DEBATED",
+    "at": "survives",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "icon",
+   "s": [
+    134,
+    135
+   ],
+   "icons": [
+    {
+     "name": "hourglass",
+     "label": "NO FINE YET",
+     "at": 0.04
+    },
+    {
+     "name": "calendar",
+     "label": "MONTHS AWAY",
+     "at": 0.54,
+     "top": "SEPT",
+     "text": "2027"
+    }
+   ]
+  },
+  {
+   "kind": "versus",
+   "s": [
+    136,
+    138
+   ],
+   "left": {
+    "who": "prosecutor",
+    "title": "CRIME?",
+    "emotion": "confident",
+    "at": 0.05
+   },
+   "right": {
+    "who": "ren",
+    "title": "TECH RACE?",
+    "emotion": "angry",
+    "at": 0.4
+   },
+   "stamp": {
+    "text": "DEBATED",
+    "at": "race",
+    "color": "red"
+   }
+  },
+  {
+   "kind": "closeup",
+   "s": [
+    139
+   ],
+   "who": "ava",
+   "set": "office",
+   "time": "night",
+   "emotion": "thinking",
+   "pose": "think",
+   "labels": [
+    {
+     "text": "'BULLYING'",
+     "at": "bullying",
+     "color": "red"
+    }
+   ]
+  },
+  {
+   "kind": "icon",
+   "s": [
+    140,
+    143
+   ],
+   "icons": [
+    {
+     "name": "house",
+     "label": "1 COMPANY",
+     "at": 0.04
+    },
+    {
+     "name": "book",
+     "label": "12 CHARGES",
+     "at": 0.29
+    },
+    {
+     "name": "warning",
+     "label": "10 GUILTY",
+     "at": 0.54
+    }
+   ]
+  },
+  {
+   "kind": "wide",
+   "s": [
+    144,
+    145
+   ],
+   "set": "home",
+   "time": "night",
+   "chars": [
+    {
+     "id": "ava",
+     "x": 900,
+     "emotion": "happy",
+     "pose": "wave",
+     "talk": true
+    }
+   ],
+   "polaroid": {
+    "at": "subscribe",
+    "who": "ava",
+    "caption": "STILL BEING DUG UP"
+   }
+  }
+ ]
+}
