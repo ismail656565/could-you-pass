@@ -1,24 +1,24 @@
 # Zuschauerbindung der Shorts
 
-Stand: 2026-11-26 00:12 UTC. Werte = Anteil der Zuschauer, der an dieser Stelle noch zuschaut (YouTube audienceWatchRatio; über 100 % = Wiederholungen/Loop). „nach 3 s“ niedrig = Hook-Problem; „Größter Abbruch“ = Sekunde mit dem steilsten Verlust und der Satz, der dort gesprochen wurde (nur Studio-Episoden mit gespeicherten Satz-Zeiten).
+Stand: 2026-11-26 14:19 UTC. Werte = Anteil der Zuschauer, der an dieser Stelle noch zuschaut (YouTube audienceWatchRatio; über 100 % = Wiederholungen/Loop). „nach 3 s“ niedrig = Hook-Problem; „Größter Abbruch“ = Sekunde mit dem steilsten Verlust und der Satz, der dort gesprochen wurde (nur Studio-Episoden mit gespeicherten Satz-Zeiten).
 
 ## COULD YOU PASS?
 
 | Short | Views | Start % | nach 3 s % | Mitte % | Ende % | Größter Abbruch (Sekunde, gesprochen) |
 |---|---:|---:|---:|---:|---:|---|
-| This Map Is Lying To You #7 🌍 Which Is REALLY Bigg | 945 | 131 | 117 | 82 | 12 | 35.3 s (−15.0) ; 9.4 s (−3.9)  |
-| Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor | 2683 | 131 | 115 | 76 | 37 | 32.6 s (−4.8) ; 4.8 s (−3.0)  |
-| This Map Is Lying To You #6 🌍 Which Is REALLY Bigg | 1196 | 133 | 115 | 78 | 17 | 35.6 s (−13.1) ; 10.1 s (−2.8)  |
-| Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # | 3808 | 130 | 119 | 82 | 33 | 32.0 s (−5.9) ; 8.8 s (−2.1)  |
+| This Map Is Lying To You #7 🌍 Which Is REALLY Bigg | 950 | 131 | 117 | 82 | 12 | 35.3 s (−15.0) ; 9.4 s (−3.9)  |
+| Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shor | 2751 | 131 | 115 | 76 | 37 | 32.6 s (−4.8) ; 4.8 s (−3.0)  |
+| This Map Is Lying To You #6 🌍 Which Is REALLY Bigg | 1200 | 133 | 115 | 78 | 18 | 35.6 s (−13.2) ; 10.1 s (−2.8)  |
+| Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 # | 3833 | 130 | 119 | 82 | 33 | 32.0 s (−5.9) ; 8.8 s (−2.1)  |
 
 ## WILDLY TRUE
 
 | Short | Views | Start % | nach 3 s % | Mitte % | Ende % | Größter Abbruch (Sekunde, gesprochen) |
 |---|---:|---:|---:|---:|---:|---|
-| This Shark Can Live Almost 400 Years 🦈 #shorts | 387 | 122 | 111 | 45 | 24 | 6.6 s (−8.2) ; 13.2 s (−3.1)  |
+| This Shark Can Live Almost 400 Years 🦈 #shorts | 388 | 122 | 111 | 45 | 24 | 6.6 s (−8.2) ; 13.2 s (−3.1)  |
 | Sponge Divers Found a Gear Machine From Ancient Gr | 339 | 128 | 118 | 49 | 30 | 5.4 s (−7.8) ; 13.7 s (−2.6)  |
 | This Bird Collects Blue Objects for an Audience #s | 762 | 192 | 183 | 106 | 94 | 5.1 s (−11.4) ; 8.3 s (−3.8)  |
-| This Bridge Collapsed. The Only Victim Was a Dog.  | 32 | 150 | 114 | 79 | 57 | 5.4 s (−21.4) ; 24.6 s (−7.2)  |
+| This Bridge Collapsed. The Only Victim Was a Dog.  | 44 | 150 | 114 | 79 | 57 | 5.4 s (−21.4) ; 24.6 s (−7.2)  |
 | A 14-Year-Old Was Inside the Hindenburg #shorts | 249 | 140 | 106 | 51 | 40 | 4.5 s (−14.5) ; 14.5 s (−2.4)  |
 | tetris | 1932 | 145 | 124 | 57 | 44 | 5.4 s (−5.6) ; 9.3 s (−4.2)  |
 | nintendosony | 1774 | 138 | 117 | 55 | 42 | 6.7 s (−6.0) ; 9.8 s (−1.5)  |
