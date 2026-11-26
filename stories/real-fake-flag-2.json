@@ -1,0 +1,125 @@
+{
+ "id": "real-fake-flag-2",
+ "type": "flagduel",
+ "title": "Real or Fake Flag? #2",
+ "ask": "WHICH IS THE REAL",
+ "kicker": "CAN YOU GET 4/4?",
+ "hookLine": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.08,
+ "timing": {
+  "think": 2.6,
+  "move": 0.7,
+  "tail": 0.2,
+  "outro": 0.6
+ },
+ "outroText": "GOT 4/4? HIT LIKE",
+ "outroSub": "Follow for number 3",
+ "rounds": [
+  {
+   "level": "EASY",
+   "target": "CANADA",
+   "a": {
+    "flag": "ca",
+    "name": "Canada"
+   },
+   "b": {
+    "flag": "fake/ca",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Which is the real Canada? Left, or right?",
+    "a": "Left! Red, not blue."
+   },
+   "start": 0.0,
+   "qAudio": "audio/real-fake-flag-2/q1.mp3",
+   "aAudio": "audio/real-fake-flag-2/a1.mp3",
+   "thinkStart": 2.48,
+   "reveal": 5.08,
+   "moveEnd": 5.78,
+   "aStart": 5.63,
+   "end": 7.58
+  },
+  {
+   "level": "MEDIUM",
+   "target": "ITALY",
+   "a": {
+    "flag": "fake/it",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "it",
+    "name": "Italy"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "The real Italy?",
+    "a": "Right! Green comes first."
+   },
+   "start": 7.58,
+   "qAudio": "audio/real-fake-flag-2/q2.mp3",
+   "aAudio": "audio/real-fake-flag-2/a2.mp3",
+   "thinkStart": 8.66,
+   "reveal": 11.26,
+   "moveEnd": 11.96,
+   "aStart": 11.81,
+   "end": 13.76
+  },
+  {
+   "level": "HARD",
+   "target": "SWITZERLAND",
+   "a": {
+    "flag": "ch",
+    "name": "Switzerland"
+   },
+   "b": {
+    "flag": "fake/ch",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "The real Switzerland?",
+    "a": "Left! Short, thick arms."
+   },
+   "start": 13.76,
+   "qAudio": "audio/real-fake-flag-2/q3.mp3",
+   "aAudio": "audio/real-fake-flag-2/a3.mp3",
+   "thinkStart": 15.03,
+   "reveal": 17.63,
+   "moveEnd": 18.33,
+   "aStart": 18.18,
+   "end": 20.13
+  },
+  {
+   "level": "LEGEND",
+   "target": "JAPAN",
+   "a": {
+    "flag": "fake/jp",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "jp",
+    "name": "Japan"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "Last one. The real Japan?",
+    "a": "Right! The sun sits dead centre. Got all four? Hit like, and follow!"
+   },
+   "start": 20.13,
+   "qAudio": "audio/real-fake-flag-2/q4.mp3",
+   "aAudio": "audio/real-fake-flag-2/a4.mp3",
+   "thinkStart": 21.78,
+   "reveal": 24.38,
+   "moveEnd": 25.08,
+   "aStart": 24.93,
+   "end": 29.04
+  }
+ ],
+ "hook": {
+  "start": 0.0,
+  "end": 0.0
+ },
+ "durationInSeconds": 29.04
+}

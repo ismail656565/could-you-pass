@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-25T20:25",
+ "fetched": "2026-11-26T06:12",
  "groups": {
   "short.format": {
    "4-Fragen-Trap": {
@@ -22,9 +22,9 @@
    },
    "3 Fragen": {
     "n": 3,
-    "avgViews": 2260,
-    "medianViews": 2649,
-    "bestViews": 3805,
+    "avgViews": 2289,
+    "medianViews": 2716,
+    "bestViews": 3825,
     "stayed": 54.0,
     "avgPct": 76.1,
     "subs": 24.0
@@ -40,8 +40,8 @@
    },
    "6+ Fragen": {
     "n": 23,
-    "avgViews": 556,
-    "medianViews": 289,
+    "avgViews": 557,
+    "medianViews": 291,
     "bestViews": 1556,
     "stayed": 50.8,
     "avgPct": 52.8,
@@ -58,9 +58,9 @@
    },
    "Karten-VS (TrueSize)": {
     "n": 7,
-    "avgViews": 919,
-    "medianViews": 1013,
-    "bestViews": 1195,
+    "avgViews": 922,
+    "medianViews": 1016,
+    "bestViews": 1200,
     "stayed": 49.8,
     "avgPct": 76.8,
     "subs": 2.0
@@ -114,8 +114,8 @@
    },
    "GEOGRAPHY QUIZ": {
     "n": 2,
-    "avgViews": 418,
-    "medianViews": 418,
+    "avgViews": 420,
+    "medianViews": 420,
     "bestViews": 717,
     "stayed": 41.2,
     "avgPct": 97.5,
@@ -143,7 +143,7 @@
     "n": 2,
     "avgViews": 188,
     "medianViews": 188,
-    "bestViews": 196,
+    "bestViews": 197,
     "stayed": 47.3,
     "avgPct": 61.5,
     "subs": 1.0
@@ -204,9 +204,9 @@
    },
    "WHICH CAME FIRST?": {
     "n": 2,
-    "avgViews": 604,
-    "medianViews": 604,
-    "bestViews": 1046,
+    "avgViews": 606,
+    "medianViews": 606,
+    "bestViews": 1050,
     "stayed": 65.0,
     "avgPct": 45.4,
     "subs": 0
@@ -285,8 +285,8 @@
    },
    "WHICH HAS MORE PEOPLE?": {
     "n": 2,
-    "avgViews": 643,
-    "medianViews": 643,
+    "avgViews": 644,
+    "medianViews": 644,
     "bestViews": 1092,
     "stayed": 49.1,
     "avgPct": 71.9,
@@ -312,9 +312,9 @@
    },
    "–": {
     "n": 9,
-    "avgViews": 1432,
+    "avgViews": 1444,
     "medianViews": 1021,
-    "bestViews": 3805,
+    "bestViews": 3825,
     "stayed": 51.1,
     "avgPct": 78.0,
     "subs": 26.0
@@ -375,36 +375,36 @@
    },
    "WORLD GEOGRAPHY QUIZ": {
     "n": 1,
-    "avgViews": 153,
-    "medianViews": 153,
-    "bestViews": 153,
+    "avgViews": 154,
+    "medianViews": 154,
+    "bestViews": 154,
     "stayed": 43.8,
     "avgPct": 43.2,
     "subs": 0
    },
    "COUNTRY QUIZ": {
     "n": 1,
-    "avgViews": 149,
-    "medianViews": 149,
-    "bestViews": 149,
+    "avgViews": 150,
+    "medianViews": 150,
+    "bestViews": 150,
     "stayed": 46.3,
     "avgPct": 33.6,
     "subs": 0
    },
    "LANDMARKS QUIZ": {
     "n": 1,
-    "avgViews": 68,
-    "medianViews": 68,
-    "bestViews": 68,
+    "avgViews": 69,
+    "medianViews": 69,
+    "bestViews": 69,
     "stayed": 33.8,
     "avgPct": 60.6,
     "subs": 0
    },
    "USA QUIZ": {
     "n": 1,
-    "avgViews": 289,
-    "medianViews": 289,
-    "bestViews": 289,
+    "avgViews": 291,
+    "medianViews": 291,
+    "bestViews": 291,
     "stayed": 48.4,
     "avgPct": 55.9,
     "subs": 0
@@ -429,18 +429,18 @@
    },
    "GEOGRAPHY TRIVIA": {
     "n": 1,
-    "avgViews": 1038,
-    "medianViews": 1038,
-    "bestViews": 1038,
+    "avgViews": 1039,
+    "medianViews": 1039,
+    "bestViews": 1039,
     "stayed": 46.1,
     "avgPct": 61.9,
     "subs": 0
    },
    "IQ QUIZ": {
     "n": 1,
-    "avgViews": 1017,
-    "medianViews": 1017,
-    "bestViews": 1017,
+    "avgViews": 1019,
+    "medianViews": 1019,
+    "bestViews": 1019,
     "stayed": 53.9,
     "avgPct": 60.7,
     "subs": 1.0
@@ -494,9 +494,9 @@
    },
    "comic": {
     "n": 9,
-    "avgViews": 1432,
+    "avgViews": 1444,
     "medianViews": 1021,
-    "bestViews": 3805,
+    "bestViews": 3825,
     "stayed": 51.1,
     "avgPct": 78.0,
     "subs": 26.0
@@ -512,8 +512,8 @@
    },
    "pop": {
     "n": 3,
-    "avgViews": 497,
-    "medianViews": 289,
+    "avgViews": 498,
+    "medianViews": 291,
     "bestViews": 1054,
     "stayed": 49.2,
     "avgPct": 53.6,
@@ -532,18 +532,18 @@
    },
    "game-show.wav": {
     "n": 31,
-    "avgViews": 783,
+    "avgViews": 786,
     "medianViews": 484,
-    "bestViews": 3805,
+    "bestViews": 3825,
     "stayed": 49.8,
     "avgPct": 65.7,
     "subs": 38.0
    },
    "world-trip.wav": {
     "n": 20,
-    "avgViews": 570,
+    "avgViews": 572,
     "medianViews": 506,
-    "bestViews": 1195,
+    "bestViews": 1200,
     "stayed": 51.1,
     "avgPct": 68.9,
     "subs": 6.0
@@ -561,18 +561,18 @@
    },
    "16:00": {
     "n": 32,
-    "avgViews": 716,
+    "avgViews": 719,
     "medianViews": 382,
-    "bestViews": 3805,
+    "bestViews": 3825,
     "stayed": 49.0,
     "avgPct": 70.3,
     "subs": 38.0
    },
    "21:00": {
     "n": 33,
-    "avgViews": 552,
+    "avgViews": 553,
     "medianViews": 393,
-    "bestViews": 1195,
+    "bestViews": 1200,
     "stayed": 51.4,
     "avgPct": 67.8,
     "subs": 9.0
@@ -602,7 +602,7 @@
     "avgViews": 13,
     "medianViews": 4,
     "bestViews": 101,
-    "stayed": 66.1,
+    "stayed": 66.2,
     "avgPct": 44.0,
     "subs": 0
    },
@@ -779,7 +779,7 @@
     "avgViews": 27,
     "medianViews": 4,
     "bestViews": 101,
-    "stayed": 72.1,
+    "stayed": 72.2,
     "avgPct": 41.6,
     "subs": 0
    },
@@ -808,7 +808,7 @@
     "avgViews": 32,
     "medianViews": 13,
     "bestViews": 237,
-    "stayed": 66.8,
+    "stayed": 66.9,
     "avgPct": 36.1,
     "subs": 3.0
    },
@@ -840,7 +840,7 @@
    "avgPct": 28.499999999999996,
    "subs": 0.0,
    "durationSec": 367,
-   "ageDays": 36.6,
+   "ageDays": 36.8,
    "search": null
   },
   {
@@ -859,7 +859,7 @@
    "avgPct": 24.18,
    "subs": 0.0,
    "durationSec": 384,
-   "ageDays": 35.6,
+   "ageDays": 35.8,
    "search": null
   },
   {
@@ -878,7 +878,7 @@
    "avgPct": 213.79000000000002,
    "subs": 0.0,
    "durationSec": 35,
-   "ageDays": 35.8,
+   "ageDays": 35.9,
    "search": null
   },
   {
@@ -897,7 +897,7 @@
    "avgPct": 36.17,
    "subs": 1.0,
    "durationSec": 455,
-   "ageDays": 34.6,
+   "ageDays": 34.8,
    "search": null
   },
   {
@@ -916,7 +916,7 @@
    "avgPct": 178.67,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 34.5,
+   "ageDays": 34.7,
    "search": null
   },
   {
@@ -935,7 +935,7 @@
    "avgPct": 64.08,
    "subs": 0.0,
    "durationSec": 26,
-   "ageDays": 34.3,
+   "ageDays": 34.5,
    "search": null
   },
   {
@@ -954,7 +954,7 @@
    "avgPct": 94.26,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 33.5,
+   "ageDays": 33.7,
    "search": null
   },
   {
@@ -973,7 +973,7 @@
    "avgPct": 99.97,
    "subs": 0.0,
    "durationSec": 733,
-   "ageDays": 33.6,
+   "ageDays": 33.8,
    "search": null
   },
   {
@@ -992,7 +992,7 @@
    "avgPct": 49.99,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 33.3,
+   "ageDays": 33.5,
    "search": null
   },
   {
@@ -1011,7 +1011,7 @@
    "avgPct": 99.98,
    "subs": 0.0,
    "durationSec": 675,
-   "ageDays": 32.6,
+   "ageDays": 32.8,
    "search": null
   },
   {
@@ -1030,7 +1030,7 @@
    "avgPct": 114.26,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 32.5,
+   "ageDays": 32.7,
    "search": null
   },
   {
@@ -1049,7 +1049,7 @@
    "avgPct": 83.22,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 32.3,
+   "ageDays": 32.5,
    "search": null
   },
   {
@@ -1068,7 +1068,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 38,
-   "ageDays": 32.9,
+   "ageDays": 33.1,
    "search": null
   },
   {
@@ -1087,7 +1087,7 @@
    "avgPct": 95.46,
    "subs": 0.0,
    "durationSec": 17,
-   "ageDays": 31.5,
+   "ageDays": 31.7,
    "search": null
   },
   {
@@ -1106,7 +1106,7 @@
    "avgPct": 54.63,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 31.6,
+   "ageDays": 31.7,
    "search": null
   },
   {
@@ -1125,7 +1125,7 @@
    "avgPct": 58.01,
    "subs": 0.0,
    "durationSec": 39,
-   "ageDays": 31.3,
+   "ageDays": 31.4,
    "search": null
   },
   {
@@ -1144,7 +1144,7 @@
    "avgPct": 45.3,
    "subs": 0.0,
    "durationSec": 724,
-   "ageDays": 30.6,
+   "ageDays": 30.7,
    "search": null
   },
   {
@@ -1163,7 +1163,7 @@
    "avgPct": 71.99,
    "subs": 0.0,
    "durationSec": 19,
-   "ageDays": 30.5,
+   "ageDays": 30.7,
    "search": null
   },
   {
@@ -1182,7 +1182,7 @@
    "avgPct": 42.79,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 30.3,
+   "ageDays": 30.4,
    "search": null
   },
   {
@@ -1201,7 +1201,7 @@
    "avgPct": 0.0,
    "subs": 0.0,
    "durationSec": 628,
-   "ageDays": 26.6,
+   "ageDays": 26.7,
    "search": null
   },
   {
@@ -1220,7 +1220,7 @@
    "avgPct": 77.11,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 26.5,
+   "ageDays": 26.7,
    "search": null
   },
   {
@@ -1239,7 +1239,7 @@
    "avgPct": 80.24,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 26.3,
+   "ageDays": 26.4,
    "search": null
   },
   {
@@ -1258,7 +1258,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 278,
-   "ageDays": 25.6,
+   "ageDays": 25.7,
    "search": null
   },
   {
@@ -1277,7 +1277,7 @@
    "avgPct": 88.36,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 25.5,
+   "ageDays": 25.7,
    "search": null
   },
   {
@@ -1296,7 +1296,7 @@
    "avgPct": 67.43,
    "subs": 1.0,
    "durationSec": 40,
-   "ageDays": 25.3,
+   "ageDays": 25.4,
    "search": null
   },
   {
@@ -1315,7 +1315,7 @@
    "avgPct": 51.36999999999999,
    "subs": 1.0,
    "durationSec": 45,
-   "ageDays": 24.5,
+   "ageDays": 24.7,
    "search": null
   },
   {
@@ -1334,7 +1334,7 @@
    "avgPct": 92.89,
    "subs": 0.0,
    "durationSec": 40,
-   "ageDays": 24.3,
+   "ageDays": 24.4,
    "search": null
   },
   {
@@ -1353,7 +1353,7 @@
    "avgPct": 33.51,
    "subs": 0.0,
    "durationSec": 693,
-   "ageDays": 24.6,
+   "ageDays": 24.7,
    "search": null
   },
   {
@@ -1372,7 +1372,7 @@
    "avgPct": 91.14,
    "subs": 1.0,
    "durationSec": 14,
-   "ageDays": 23.5,
+   "ageDays": 23.7,
    "search": null
   },
   {
@@ -1391,7 +1391,7 @@
    "avgPct": null,
    "subs": null,
    "durationSec": 381,
-   "ageDays": 23.6,
+   "ageDays": 23.7,
    "search": null
   },
   {
@@ -1410,7 +1410,7 @@
    "avgPct": 66.25,
    "subs": 0.0,
    "durationSec": 45,
-   "ageDays": 23.3,
+   "ageDays": 23.4,
    "search": null
   },
   {
@@ -1429,7 +1429,7 @@
    "avgPct": 53.53,
    "subs": 0.0,
    "durationSec": 649,
-   "ageDays": 22.6,
+   "ageDays": 22.7,
    "search": null
   },
   {
@@ -1448,7 +1448,7 @@
    "avgPct": 49.24,
    "subs": 0.0,
    "durationSec": 57,
-   "ageDays": 22.5,
+   "ageDays": 22.7,
    "search": null
   },
   {
@@ -1467,7 +1467,7 @@
    "avgPct": 44.8,
    "subs": 1.0,
    "durationSec": 40,
-   "ageDays": 22.3,
+   "ageDays": 22.4,
    "search": null
   },
   {
@@ -1486,7 +1486,7 @@
    "avgPct": 43.47,
    "subs": 0.0,
    "durationSec": 388,
-   "ageDays": 21.6,
+   "ageDays": 21.7,
    "search": null
   },
   {
@@ -1505,7 +1505,7 @@
    "avgPct": 45.65,
    "subs": 2.0,
    "durationSec": 51,
-   "ageDays": 21.5,
+   "ageDays": 21.7,
    "search": null
   },
   {
@@ -1524,7 +1524,7 @@
    "avgPct": 60.6,
    "subs": 2.0,
    "durationSec": 41,
-   "ageDays": 21.3,
+   "ageDays": 21.4,
    "search": null
   },
   {
@@ -1543,7 +1543,7 @@
    "avgPct": 2.23,
    "subs": 0.0,
    "durationSec": 646,
-   "ageDays": 20.6,
+   "ageDays": 20.7,
    "search": null
   },
   {
@@ -1562,7 +1562,7 @@
    "avgPct": 39.67,
    "subs": 0.0,
    "durationSec": 52,
-   "ageDays": 20.5,
+   "ageDays": 20.7,
    "search": null
   },
   {
@@ -1581,7 +1581,7 @@
    "avgPct": 52.61,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 20.3,
+   "ageDays": 20.4,
    "search": null
   },
   {
@@ -1600,7 +1600,7 @@
    "avgPct": 11.39,
    "subs": 0.0,
    "durationSec": 683,
-   "ageDays": 19.4,
+   "ageDays": 19.5,
    "search": null
   },
   {
@@ -1619,7 +1619,7 @@
    "avgPct": 58.39,
    "subs": 0.0,
    "durationSec": 53,
-   "ageDays": 19.5,
+   "ageDays": 19.7,
    "search": null
   },
   {
@@ -1638,7 +1638,7 @@
    "avgPct": 55.91,
    "subs": 0.0,
    "durationSec": 47,
-   "ageDays": 19.3,
+   "ageDays": 19.4,
    "search": null
   },
   {
@@ -1657,7 +1657,7 @@
    "avgPct": 23.81,
    "subs": 0.0,
    "durationSec": 385,
-   "ageDays": 18.6,
+   "ageDays": 18.7,
    "search": null
   },
   {
@@ -1676,7 +1676,7 @@
    "avgPct": 54.15,
    "subs": 1.0,
    "durationSec": 44,
-   "ageDays": 18.5,
+   "ageDays": 18.7,
    "search": null
   },
   {
@@ -1695,7 +1695,7 @@
    "avgPct": 82.81,
    "subs": 2.0,
    "durationSec": 42,
-   "ageDays": 18.3,
+   "ageDays": 18.4,
    "search": null
   },
   {
@@ -1714,7 +1714,7 @@
    "avgPct": 58.37,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 17.5,
+   "ageDays": 17.7,
    "search": null
   },
   {
@@ -1733,7 +1733,7 @@
    "avgPct": 29.82,
    "subs": 0.0,
    "durationSec": 402,
-   "ageDays": 17.6,
+   "ageDays": 17.7,
    "search": null
   },
   {
@@ -1752,7 +1752,7 @@
    "avgPct": 65.07,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 17.3,
+   "ageDays": 17.4,
    "search": null
   },
   {
@@ -1771,7 +1771,7 @@
    "avgPct": 18.69,
    "subs": 0.0,
    "durationSec": 380,
-   "ageDays": 16.6,
+   "ageDays": 16.7,
    "search": null
   },
   {
@@ -1790,7 +1790,7 @@
    "avgPct": 47.55,
    "subs": 0.0,
    "durationSec": 48,
-   "ageDays": 16.5,
+   "ageDays": 16.7,
    "search": null
   },
   {
@@ -1809,7 +1809,7 @@
    "avgPct": 64.79,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 16.3,
+   "ageDays": 16.4,
    "search": null
   },
   {
@@ -1828,7 +1828,7 @@
    "avgPct": 81.43,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 15.3,
+   "ageDays": 15.4,
    "search": null
   },
   {
@@ -1847,7 +1847,7 @@
    "avgPct": 34.52,
    "subs": 0.0,
    "durationSec": 219,
-   "ageDays": 15.6,
+   "ageDays": 15.7,
    "search": null
   },
   {
@@ -1866,7 +1866,7 @@
    "avgPct": 10.8,
    "subs": 0.0,
    "durationSec": 404,
-   "ageDays": 13.6,
+   "ageDays": 13.7,
    "search": null
   },
   {
@@ -1885,7 +1885,7 @@
    "avgPct": 52.51,
    "subs": 5.0,
    "durationSec": 48,
-   "ageDays": 15.5,
+   "ageDays": 15.7,
    "search": null
   },
   {
@@ -1904,7 +1904,7 @@
    "avgPct": 20.9,
    "subs": 0.0,
    "durationSec": 424,
-   "ageDays": 11.6,
+   "ageDays": 11.7,
    "search": null
   },
   {
@@ -1923,7 +1923,7 @@
    "avgPct": 55.99000000000001,
    "subs": 0.0,
    "durationSec": 54,
-   "ageDays": 14.5,
+   "ageDays": 14.7,
    "search": null
   },
   {
@@ -1942,7 +1942,7 @@
    "avgPct": 57.00999999999999,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 14.3,
+   "ageDays": 14.4,
    "search": null
   },
   {
@@ -1961,7 +1961,7 @@
    "avgPct": 38.46,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 13.3,
+   "ageDays": 13.4,
    "search": null
   },
   {
@@ -1980,7 +1980,7 @@
    "avgPct": 56.720000000000006,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 13.5,
+   "ageDays": 13.7,
    "search": null
   },
   {
@@ -1999,7 +1999,7 @@
    "avgPct": 39.93,
    "subs": 0.0,
    "durationSec": 58,
-   "ageDays": 12.5,
+   "ageDays": 12.7,
    "search": null
   },
   {
@@ -2013,12 +2013,12 @@
    "layout": "atlas",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 194.0,
+   "publicViews": 195.0,
    "engagedShare": 0.423,
    "avgPct": 61.03000000000001,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 12.3,
+   "ageDays": 12.4,
    "search": null
   },
   {
@@ -2032,12 +2032,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 935.0,
+   "publicViews": 936.0,
    "engagedShare": 0.519,
    "avgPct": 74.1,
    "subs": 0.0,
    "durationSec": 38,
-   "ageDays": 11.3,
+   "ageDays": 11.4,
    "search": null
   },
   {
@@ -2051,12 +2051,12 @@
    "layout": "atlas",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 196.0,
+   "publicViews": 197.0,
    "engagedShare": 0.505,
    "avgPct": 45.92,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 11.5,
+   "ageDays": 11.7,
    "search": null
   },
   {
@@ -2070,12 +2070,12 @@
    "layout": "atlas",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 153.0,
+   "publicViews": 154.0,
    "engagedShare": 0.438,
    "avgPct": 43.16,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 10.5,
+   "ageDays": 10.7,
    "search": null
   },
   {
@@ -2089,12 +2089,12 @@
    "layout": "atlas",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 157.0,
+   "publicViews": 158.0,
    "engagedShare": 0.465,
    "avgPct": 47.8,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 10.3,
+   "ageDays": 10.4,
    "search": null
   },
   {
@@ -2108,12 +2108,12 @@
    "layout": "pop",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 149.0,
+   "publicViews": 150.0,
    "engagedShare": 0.463,
    "avgPct": 33.6,
    "subs": 0.0,
    "durationSec": 56,
-   "ageDays": 9.5,
+   "ageDays": 9.7,
    "search": null
   },
   {
@@ -2127,12 +2127,12 @@
    "layout": "atlas",
    "music": "game-show.wav",
    "slot": "21:00",
-   "publicViews": 68.0,
+   "publicViews": 69.0,
    "engagedShare": 0.338,
    "avgPct": 60.58,
    "subs": 0.0,
    "durationSec": 55,
-   "ageDays": 9.3,
+   "ageDays": 9.4,
    "search": null
   },
   {
@@ -2151,7 +2151,7 @@
    "avgPct": 31.269999999999996,
    "subs": 2.0,
    "durationSec": 217,
-   "ageDays": 8.6,
+   "ageDays": 8.7,
    "search": null
   },
   {
@@ -2165,12 +2165,12 @@
    "layout": "atlas",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 120.0,
+   "publicViews": 122.0,
    "engagedShare": 0.45,
    "avgPct": 80.64,
    "subs": 0.0,
    "durationSec": 58,
-   "ageDays": 8.5,
+   "ageDays": 8.7,
    "search": null
   },
   {
@@ -2184,12 +2184,12 @@
    "layout": "pop",
    "music": "game-show.wav",
    "slot": "21:00",
-   "publicViews": 289.0,
+   "publicViews": 291.0,
    "engagedShare": 0.484,
    "avgPct": 55.88999999999999,
    "subs": 0.0,
    "durationSec": 50,
-   "ageDays": 8.3,
+   "ageDays": 8.4,
    "search": null
   },
   {
@@ -2208,7 +2208,7 @@
    "avgPct": 71.32,
    "subs": 2.0,
    "durationSec": 38,
-   "ageDays": 7.5,
+   "ageDays": 7.7,
    "search": null
   },
   {
@@ -2227,7 +2227,7 @@
    "avgPct": 68.99,
    "subs": 1.0,
    "durationSec": 41,
-   "ageDays": 7.3,
+   "ageDays": 7.4,
    "search": null
   },
   {
@@ -2246,7 +2246,7 @@
    "avgPct": 11.69,
    "subs": 0.0,
    "durationSec": 400,
-   "ageDays": 6.4,
+   "ageDays": 6.6,
    "search": null
   },
   {
@@ -2260,12 +2260,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 258.0,
+   "publicViews": 259.0,
    "engagedShare": 0.457,
    "avgPct": 72.27,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 6.3,
+   "ageDays": 6.4,
    "search": 7
   },
   {
@@ -2279,12 +2279,12 @@
    "layout": "atlas",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1038.0,
+   "publicViews": 1039.0,
    "engagedShare": 0.461,
    "avgPct": 61.9,
    "subs": 0.0,
    "durationSec": 43,
-   "ageDays": 6.4,
+   "ageDays": 6.6,
    "search": null
   },
   {
@@ -2298,12 +2298,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 1067.0,
+   "publicViews": 1069.0,
    "engagedShare": 0.496,
    "avgPct": 73.87,
    "subs": 1.0,
    "durationSec": 36,
-   "ageDays": 5.3,
+   "ageDays": 5.4,
    "search": 12
   },
   {
@@ -2317,12 +2317,12 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1017.0,
+   "publicViews": 1019.0,
    "engagedShare": 0.539,
    "avgPct": 60.650000000000006,
    "subs": 1.0,
    "durationSec": 44,
-   "ageDays": 5.5,
+   "ageDays": 5.7,
    "search": 13
   },
   {
@@ -2336,12 +2336,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 1013.0,
-   "engagedShare": 0.479,
+   "publicViews": 1016.0,
+   "engagedShare": 0.48,
    "avgPct": 74.8,
    "subs": 1.0,
    "durationSec": 36,
-   "ageDays": 4.3,
+   "ageDays": 4.4,
    "search": 24
   },
   {
@@ -2355,12 +2355,12 @@
    "layout": "tvshow",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 1046.0,
-   "engagedShare": 0.599,
+   "publicViews": 1050.0,
+   "engagedShare": 0.6,
    "avgPct": 41.6,
    "subs": 0.0,
    "durationSec": 42,
-   "ageDays": 4.5,
+   "ageDays": 4.7,
    "search": 17
   },
   {
@@ -2375,11 +2375,11 @@
    "music": "brain-pulse.wav",
    "slot": "14:00",
    "publicViews": 101.0,
-   "engagedShare": 0.585,
+   "engagedShare": 0.587,
    "avgPct": 23.72,
    "subs": 0.0,
    "durationSec": 664,
-   "ageDays": 4.6,
+   "ageDays": 4.7,
    "search": 10
   },
   {
@@ -2393,12 +2393,12 @@
    "layout": "comic",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 3805.0,
+   "publicViews": 3825.0,
    "engagedShare": 0.553,
    "avgPct": 84.68,
    "subs": 19.0,
    "durationSec": 34,
-   "ageDays": 3.5,
+   "ageDays": 3.7,
    "search": 176
   },
   {
@@ -2412,12 +2412,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 1195.0,
+   "publicViews": 1200.0,
    "engagedShare": 0.52,
    "avgPct": 79.8,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 3.3,
+   "ageDays": 3.4,
    "search": 20
   },
   {
@@ -2431,12 +2431,12 @@
    "layout": "comic",
    "music": "game-show.wav",
    "slot": "16:00",
-   "publicViews": 2649.0,
+   "publicViews": 2716.0,
    "engagedShare": 0.562,
    "avgPct": 79.53,
    "subs": 5.0,
    "durationSec": 34,
-   "ageDays": 2.5,
+   "ageDays": 2.7,
    "search": 86
   },
   {
@@ -2450,12 +2450,12 @@
    "layout": "comic",
    "music": "world-trip.wav",
    "slot": "21:00",
-   "publicViews": 943.0,
+   "publicViews": 950.0,
    "engagedShare": 0.476,
    "avgPct": 81.3,
    "subs": 0.0,
    "durationSec": 36,
-   "ageDays": 2.3,
+   "ageDays": 2.4,
    "search": 12
   },
   {
@@ -2474,7 +2474,7 @@
    "avgPct": 3.42,
    "subs": 0.0,
    "durationSec": 674,
-   "ageDays": 29.2,
+   "ageDays": 29.4,
    "search": null
   },
   {
@@ -2493,7 +2493,7 @@
    "avgPct": 116.40000000000002,
    "subs": 0.0,
    "durationSec": 9,
-   "ageDays": 29.3,
+   "ageDays": 29.4,
    "search": null
   },
   {
@@ -2512,7 +2512,7 @@
    "avgPct": 103.37,
    "subs": 0.0,
    "durationSec": 13,
-   "ageDays": 29.3,
+   "ageDays": 29.4,
    "search": null
   },
   {
@@ -2531,7 +2531,7 @@
    "avgPct": 120.85,
    "subs": 0.0,
    "durationSec": 8,
-   "ageDays": 28.5,
+   "ageDays": 28.7,
    "search": null
   },
   {
@@ -2550,7 +2550,7 @@
    "avgPct": 99.86,
    "subs": 0.0,
    "durationSec": 652,
-   "ageDays": 27.3,
+   "ageDays": 27.5,
    "search": null
   },
   {
@@ -2569,7 +2569,7 @@
    "avgPct": 290.59,
    "subs": 0.0,
    "durationSec": 7,
-   "ageDays": 27.4,
+   "ageDays": 27.5,
    "search": null
   },
   {
@@ -2588,7 +2588,7 @@
    "avgPct": 94.3,
    "subs": 0.0,
    "durationSec": 15,
-   "ageDays": 27.3,
+   "ageDays": 27.4,
    "search": null
   }
  ]

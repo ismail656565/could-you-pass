@@ -53,7 +53,15 @@
     "lines": {
      "q": "Which is the real Canada? Left, or right?",
      "a": "Left! Red, not blue."
-    }
+    },
+    "start": 0.0,
+    "qAudio": "audio/real-fake-flag-2/q1.mp3",
+    "aAudio": "audio/real-fake-flag-2/a1.mp3",
+    "thinkStart": 2.48,
+    "reveal": 5.08,
+    "moveEnd": 5.78,
+    "aStart": 5.63,
+    "end": 7.58
    },
    {
     "level": "MEDIUM",
@@ -70,7 +78,15 @@
     "lines": {
      "q": "The real Italy?",
      "a": "Right! Green comes first."
-    }
+    },
+    "start": 7.58,
+    "qAudio": "audio/real-fake-flag-2/q2.mp3",
+    "aAudio": "audio/real-fake-flag-2/a2.mp3",
+    "thinkStart": 8.66,
+    "reveal": 11.26,
+    "moveEnd": 11.96,
+    "aStart": 11.81,
+    "end": 13.76
    },
    {
     "level": "HARD",
@@ -87,7 +103,15 @@
     "lines": {
      "q": "The real Switzerland?",
      "a": "Left! Short, thick arms."
-    }
+    },
+    "start": 13.76,
+    "qAudio": "audio/real-fake-flag-2/q3.mp3",
+    "aAudio": "audio/real-fake-flag-2/a3.mp3",
+    "thinkStart": 15.03,
+    "reveal": 17.63,
+    "moveEnd": 18.33,
+    "aStart": 18.18,
+    "end": 20.13
    },
    {
     "level": "LEGEND",
@@ -104,8 +128,44 @@
     "lines": {
      "q": "Last one. The real Japan?",
      "a": "Right! The sun sits dead centre. Got all four? Hit like, and follow!"
-    }
+    },
+    "start": 20.13,
+    "qAudio": "audio/real-fake-flag-2/q4.mp3",
+    "aAudio": "audio/real-fake-flag-2/a4.mp3",
+    "thinkStart": 21.78,
+    "reveal": 24.38,
+    "moveEnd": 25.08,
+    "aStart": 24.93,
+    "end": 29.04
    }
-  ]
- }
+  ],
+  "hook": {
+   "start": 0.0,
+   "end": 0.0
+  },
+  "durationInSeconds": 29.04
+ },
+ "qa": {
+  "lufs": -19.4,
+  "truePeak": -4.3,
+  "lra": 11.6,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 100.2,
+  "hasAudio": true,
+  "durationSec": 29.1,
+  "longestBlackSec": 0.0,
+  "longestSilenceSec": 0.0,
+  "warnings": [],
+  "blocked": []
+ },
+ "scheduledFor": "2026-11-26T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "A35T3IMDBis",
+  "at": "2026-11-26T06:15"
+ },
+ "linkedLong": "N1oIAEWgKZ8"
 }

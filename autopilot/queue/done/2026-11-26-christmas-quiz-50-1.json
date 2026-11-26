@@ -265,7 +265,12 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "🎅"
+    "cardText": "🎅",
+    "start": 0.0,
+    "keywordAt": 5.589,
+    "countdownStart": 7.948,
+    "reveal": 12.948,
+    "end": 16.417
    },
    {
     "q": "Which reindeer has a glowing red **nose**?",
@@ -277,7 +282,12 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🦌"
+    "cardText": "🦌",
+    "start": 16.417,
+    "keywordAt": 18.158,
+    "countdownStart": 18.71,
+    "reveal": 23.71,
+    "end": 27.062
    },
    {
     "q": "Christmas Day falls on which **date** in December?",
@@ -289,7 +299,12 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "📅"
+    "cardText": "📅",
+    "start": 27.062,
+    "keywordAt": 28.547,
+    "countdownStart": 29.67,
+    "reveal": 34.67,
+    "end": 38.651
    },
    {
     "q": "What do kids hang by the **fireplace** for Santa?",
@@ -301,7 +316,12 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🧦"
+    "cardText": "🧦",
+    "start": 38.651,
+    "keywordAt": 40.653,
+    "countdownStart": 41.938,
+    "reveal": 46.938,
+    "end": 50.322
    },
    {
     "q": "Where does Santa traditionally **live**?",
@@ -313,7 +333,12 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "❄️"
+    "cardText": "❄️",
+    "start": 50.322,
+    "keywordAt": 52.037,
+    "countdownStart": 52.601,
+    "reveal": 57.601,
+    "end": 62.108
    },
    {
     "q": "People kiss under which Christmas **plant**?",
@@ -325,7 +350,12 @@
     ],
     "correct": 3,
     "level": "EASY",
-    "cardText": "💋"
+    "cardText": "💋",
+    "start": 62.108,
+    "keywordAt": 62.967,
+    "countdownStart": 64.581,
+    "reveal": 69.581,
+    "end": 73.678
    },
    {
     "q": "What do US kids leave out for Santa on Christmas **Eve**?",
@@ -337,7 +367,12 @@
     ],
     "correct": 0,
     "level": "EASY",
-    "cardText": "🍪"
+    "cardText": "🍪",
+    "start": 73.678,
+    "keywordAt": 76.627,
+    "countdownStart": 77.129,
+    "reveal": 82.129,
+    "end": 86.201
    },
    {
     "q": "Frosty the Snowman comes to life thanks to an old silk **what**?",
@@ -349,7 +384,12 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "🎩"
+    "cardText": "🎩",
+    "start": 86.201,
+    "keywordAt": 89.879,
+    "countdownStart": 90.443,
+    "reveal": 95.443,
+    "end": 98.374
    },
    {
     "q": "How many reindeer pull Santa's sleigh, **Rudolph** included?",
@@ -361,7 +401,12 @@
     ],
     "correct": 2,
     "level": "EASY",
-    "cardText": "🛷"
+    "cardText": "🛷",
+    "start": 98.374,
+    "keywordAt": 100.718,
+    "countdownStart": 101.893,
+    "reveal": 106.893,
+    "end": 110.793
    },
    {
     "q": "The Grinch's heart is how many sizes too **small**?",
@@ -373,7 +418,12 @@
     ],
     "correct": 1,
     "level": "EASY",
-    "cardText": "💚"
+    "cardText": "💚",
+    "start": 110.793,
+    "keywordAt": 112.967,
+    "countdownStart": 113.574,
+    "reveal": 118.574,
+    "end": 125.548
    },
    {
     "q": "In Home Alone, where is Kevin's family **flying** to?",
@@ -385,7 +435,12 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "✈️"
+    "cardText": "✈️",
+    "start": 125.548,
+    "keywordAt": 128.909,
+    "countdownStart": 129.775,
+    "reveal": 134.775,
+    "end": 138.44
    },
    {
     "q": "Who sang All I Want for **Christmas** Is You (1994)?",
@@ -397,7 +452,12 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🎤"
+    "cardText": "🎤",
+    "start": 138.44,
+    "keywordAt": 139.692,
+    "countdownStart": 142.288,
+    "reveal": 147.288,
+    "end": 151.813
    },
    {
     "q": "In The Twelve Days of Christmas, what comes on **day one**?",
@@ -409,7 +469,11 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🐦"
+    "cardText": "🐦",
+    "start": 151.813,
+    "countdownStart": 155.69,
+    "reveal": 160.69,
+    "end": 165.378
    },
    {
     "q": "Feliz Navidad means Merry Christmas in which **language**?",
@@ -421,7 +485,12 @@
     ],
     "correct": 1,
     "level": "MEDIUM",
-    "cardText": "🗣️"
+    "cardText": "🗣️",
+    "start": 165.378,
+    "keywordAt": 167.721,
+    "countdownStart": 168.473,
+    "reveal": 173.473,
+    "end": 177.613
    },
    {
     "q": "Scrooge's famous grumpy phrase is Bah, **what**?",
@@ -433,7 +502,12 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "😤"
+    "cardText": "😤",
+    "start": 177.613,
+    "keywordAt": 180.313,
+    "countdownStart": 180.886,
+    "reveal": 185.886,
+    "end": 189.158
    },
    {
     "q": "Where was Jesus born, according to the **Gospels**?",
@@ -445,7 +519,12 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "⭐"
+    "cardText": "⭐",
+    "start": 189.158,
+    "keywordAt": 190.091,
+    "countdownStart": 192.298,
+    "reveal": 197.298,
+    "end": 200.464
    },
    {
     "q": "Which striped candy is shaped like a **hook**?",
@@ -457,7 +536,12 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🍬"
+    "cardText": "🍬",
+    "start": 200.464,
+    "keywordAt": 202.6,
+    "countdownStart": 203.118,
+    "reveal": 208.118,
+    "end": 212.039
    },
    {
     "q": "Which creamy Christmas drink is made with **eggs**?",
@@ -469,7 +553,12 @@
     ],
     "correct": 0,
     "level": "MEDIUM",
-    "cardText": "🥛"
+    "cardText": "🥛",
+    "start": 212.039,
+    "keywordAt": 214.904,
+    "countdownStart": 215.444,
+    "reveal": 220.444,
+    "end": 224.304
    },
    {
     "q": "Who plays Buddy in the 2003 movie **Elf**?",
@@ -481,7 +570,12 @@
     ],
     "correct": 3,
     "level": "MEDIUM",
-    "cardText": "🧝"
+    "cardText": "🧝",
+    "start": 224.304,
+    "keywordAt": 226.626,
+    "countdownStart": 227.113,
+    "reveal": 232.113,
+    "end": 235.859
    },
    {
     "q": "It's a Wonderful Life: a bell rings, an angel gets its **what**?",
@@ -493,7 +587,12 @@
     ],
     "correct": 2,
     "level": "MEDIUM",
-    "cardText": "🔔"
+    "cardText": "🔔",
+    "start": 235.859,
+    "keywordAt": 239.672,
+    "countdownStart": 240.242,
+    "reveal": 245.242,
+    "end": 250.497
    },
    {
     "q": "The Christmas tree tradition began mainly in which **country**?",
@@ -505,7 +604,12 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🎄"
+    "cardText": "🎄",
+    "start": 250.497,
+    "keywordAt": 254.202,
+    "countdownStart": 254.904,
+    "reveal": 259.904,
+    "end": 264.216
    },
    {
     "q": "What gifts did the Wise Men bring baby **Jesus**?",
@@ -517,7 +621,11 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🎁"
+    "cardText": "🎁",
+    "start": 264.216,
+    "countdownStart": 266.5,
+    "reveal": 271.5,
+    "end": 276.497
    },
    {
     "q": "In Japan, which fast-food chain is a Christmas **dinner** hit?",
@@ -529,7 +637,12 @@
     ],
     "correct": 3,
     "level": "HARD",
-    "cardText": "🍗"
+    "cardText": "🍗",
+    "start": 276.497,
+    "keywordAt": 279.771,
+    "countdownStart": 280.431,
+    "reveal": 285.431,
+    "end": 289.91
    },
    {
     "q": "Which ballet features the Sugar Plum **Fairy**?",
@@ -541,7 +654,12 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🩰"
+    "cardText": "🩰",
+    "start": 289.91,
+    "keywordAt": 292.227,
+    "countdownStart": 292.813,
+    "reveal": 297.813,
+    "end": 301.414
    },
    {
     "q": "Who sang White Christmas, the best-selling **single** ever?",
@@ -553,7 +671,12 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "💿"
+    "cardText": "💿",
+    "start": 301.414,
+    "keywordAt": 303.544,
+    "countdownStart": 304.75,
+    "reveal": 309.75,
+    "end": 316.214
    },
    {
     "q": "Boxing Day is celebrated on which **date**?",
@@ -565,7 +688,12 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "📦"
+    "cardText": "📦",
+    "start": 316.214,
+    "keywordAt": 318.026,
+    "countdownStart": 318.581,
+    "reveal": 323.581,
+    "end": 327.591
    },
    {
     "q": "The famous 1914 Christmas **truce** happened in which war?",
@@ -577,7 +705,12 @@
     ],
     "correct": 0,
     "level": "HARD",
-    "cardText": "🕊️"
+    "cardText": "🕊️",
+    "start": 327.591,
+    "keywordAt": 328.663,
+    "countdownStart": 331.465,
+    "reveal": 336.465,
+    "end": 340.902
    },
    {
     "q": "Which cartoonist drew Santa for Harper's **Weekly** in the 1800s?",
@@ -589,7 +722,12 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "✏️"
+    "cardText": "✏️",
+    "start": 340.902,
+    "keywordAt": 343.654,
+    "countdownStart": 345.378,
+    "reveal": 350.378,
+    "end": 354.581
    },
    {
     "q": "Krampus comes from the folklore of which **mountains**?",
@@ -601,7 +739,12 @@
     ],
     "correct": 2,
     "level": "HARD",
-    "cardText": "👹"
+    "cardText": "👹",
+    "start": 354.581,
+    "keywordAt": 358.321,
+    "countdownStart": 359.122,
+    "reveal": 364.122,
+    "end": 367.416
    },
    {
     "q": "Who composed Messiah, with the **Hallelujah** chorus?",
@@ -613,7 +756,12 @@
     ],
     "correct": 1,
     "level": "HARD",
-    "cardText": "🎼"
+    "cardText": "🎼",
+    "start": 367.416,
+    "keywordAt": 369.412,
+    "countdownStart": 370.619,
+    "reveal": 375.619,
+    "end": 379.318
    },
    {
     "q": "Which red Christmas plant is named after a US **diplomat**?",
@@ -625,7 +773,12 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🌺"
+    "cardText": "🌺",
+    "start": 379.318,
+    "keywordAt": 383.592,
+    "countdownStart": 384.388,
+    "reveal": 389.388,
+    "end": 395.253
    },
    {
     "q": "Rudolph was created in 1939 for which **store**?",
@@ -637,7 +790,12 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🏬"
+    "cardText": "🏬",
+    "start": 395.253,
+    "keywordAt": 399.268,
+    "countdownStart": 399.875,
+    "reveal": 404.875,
+    "end": 409.2
    },
    {
     "q": "Silent Night was first performed in which **country**?",
@@ -649,7 +807,12 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🎶"
+    "cardText": "🎶",
+    "start": 409.2,
+    "keywordAt": 411.218,
+    "countdownStart": 411.888,
+    "reveal": 416.888,
+    "end": 421.037
    },
    {
     "q": "In which year was the first Christmas **card** sold?",
@@ -661,7 +824,12 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "💌"
+    "cardText": "💌",
+    "start": 421.037,
+    "keywordAt": 423.427,
+    "countdownStart": 424.198,
+    "reveal": 429.198,
+    "end": 434.045
    },
    {
     "q": "The real Saint Nicholas was a bishop in which modern **country**?",
@@ -673,7 +841,12 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "⛪"
+    "cardText": "⛪",
+    "start": 434.045,
+    "keywordAt": 436.817,
+    "countdownStart": 437.494,
+    "reveal": 442.494,
+    "end": 447.216
    },
    {
     "q": "Which Italian witch brings gifts on **Epiphany**?",
@@ -685,7 +858,12 @@
     ],
     "correct": 0,
     "level": "VERY HARD",
-    "cardText": "🧹"
+    "cardText": "🧹",
+    "start": 447.216,
+    "keywordAt": 449.462,
+    "countdownStart": 450.195,
+    "reveal": 455.195,
+    "end": 459.658
    },
    {
     "q": "Which sweet Christmas bread comes from **Milan**?",
@@ -697,7 +875,12 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🍞"
+    "cardText": "🍞",
+    "start": 459.658,
+    "keywordAt": 461.824,
+    "countdownStart": 462.402,
+    "reveal": 467.402,
+    "end": 471.201
    },
    {
     "q": "Mele Kalikimaka means Merry Christmas in which **language**?",
@@ -709,7 +892,12 @@
     ],
     "correct": 2,
     "level": "VERY HARD",
-    "cardText": "🌺"
+    "cardText": "🌺",
+    "start": 471.201,
+    "keywordAt": 473.677,
+    "countdownStart": 474.436,
+    "reveal": 479.436,
+    "end": 483.592
    },
    {
     "q": "In Iceland, how many **Yule Lads** visit before Christmas?",
@@ -721,7 +909,12 @@
     ],
     "correct": 3,
     "level": "VERY HARD",
-    "cardText": "🧌"
+    "cardText": "🧌",
+    "start": 483.592,
+    "keywordAt": 484.738,
+    "countdownStart": 487.172,
+    "reveal": 492.172,
+    "end": 495.997
    },
    {
     "q": "Which US president made Christmas a federal **holiday** in 1870?",
@@ -733,7 +926,12 @@
     ],
     "correct": 1,
     "level": "VERY HARD",
-    "cardText": "🏛️"
+    "cardText": "🏛️",
+    "start": 495.997,
+    "keywordAt": 498.044,
+    "countdownStart": 499.688,
+    "reveal": 504.688,
+    "end": 508.46
    },
    {
     "q": "How many gifts in total in The **Twelve Days** of Christmas?",
@@ -745,7 +943,12 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🎁"
+    "cardText": "🎁",
+    "start": 508.46,
+    "keywordAt": 511.813,
+    "countdownStart": 513.432,
+    "reveal": 518.432,
+    "end": 523.251
    },
    {
     "q": "Who painted Coca-Cola's famous Santa, starting in **1931**?",
@@ -757,7 +960,11 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🥤"
+    "cardText": "🥤",
+    "start": 523.251,
+    "countdownStart": 528.255,
+    "reveal": 533.255,
+    "end": 537.755
    },
    {
     "q": "In the 1823 poem, the last reindeer were Dunder and **who**?",
@@ -769,7 +976,12 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "📜"
+    "cardText": "📜",
+    "start": 537.755,
+    "keywordAt": 541.844,
+    "countdownStart": 542.339,
+    "reveal": 547.339,
+    "end": 552.23
    },
    {
     "q": "In 1087, Saint Nicholas's remains were taken to which **city**?",
@@ -781,7 +993,12 @@
     ],
     "correct": 2,
     "level": "LEGEND",
-    "cardText": "⚓"
+    "cardText": "⚓",
+    "start": 552.23,
+    "keywordAt": 556.288,
+    "countdownStart": 556.857,
+    "reveal": 561.857,
+    "end": 565.209
    },
    {
     "q": "Which city's Striezelmarkt dates back to **1434**?",
@@ -793,7 +1010,11 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🎪"
+    "cardText": "🎪",
+    "start": 565.209,
+    "countdownStart": 568.994,
+    "reveal": 573.994,
+    "end": 579.447
    },
    {
     "q": "Which crew read from Genesis while orbiting the **Moon** at Christmas?",
@@ -805,7 +1026,12 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🌕"
+    "cardText": "🌕",
+    "start": 579.447,
+    "keywordAt": 582.288,
+    "countdownStart": 583.601,
+    "reveal": 588.601,
+    "end": 591.991
    },
    {
     "q": "In the 1640s, who banned Christmas in **England**?",
@@ -817,7 +1043,12 @@
     ],
     "correct": 3,
     "level": "LEGEND",
-    "cardText": "🚫"
+    "cardText": "🚫",
+    "start": 591.991,
+    "keywordAt": 594.416,
+    "countdownStart": 595.106,
+    "reveal": 600.106,
+    "end": 604.373
    },
    {
     "q": "Which Christmas song was played in **space** in 1965?",
@@ -829,7 +1060,12 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "🚀"
+    "cardText": "🚀",
+    "start": 604.373,
+    "keywordAt": 607.542,
+    "countdownStart": 609.311,
+    "reveal": 614.311,
+    "end": 619.513
    },
    {
     "q": "On December 13, which country celebrates **Saint Lucia** with candle crowns?",
@@ -841,7 +1077,12 @@
     ],
     "correct": 0,
     "level": "LEGEND",
-    "cardText": "🕯️"
+    "cardText": "🕯️",
+    "start": 619.513,
+    "keywordAt": 622.057,
+    "countdownStart": 624.117,
+    "reveal": 629.117,
+    "end": 633.118
    },
    {
     "q": "The first electric tree lights in 1882 came from which inventor's **team**?",
@@ -853,8 +1094,51 @@
     ],
     "correct": 1,
     "level": "LEGEND",
-    "cardText": "💡"
+    "cardText": "💡",
+    "start": 633.118,
+    "countdownStart": 639.736,
+    "reveal": 644.736,
+    "end": 651.979
    }
-  ]
+  ],
+  "audio": "audio/christmas-quiz-50-1.mp3",
+  "outroStart": 651.979,
+  "durationInSeconds": 661.767
+ },
+ "qa": {
+  "lufs": -21.6,
+  "truePeak": -2.6,
+  "lra": 7.7,
+  "normalized": true,
+  "frozenShare": 0.439,
+  "longestFreezeSec": 8.6,
+  "frame0Luma": 190.1,
+  "hasAudio": true,
+  "durationSec": 661.9,
+  "longestBlackSec": 0.0,
+  "longestSilenceSec": 0.0,
+  "warnings": [
+   "Standbild 8.6 s"
+  ],
+  "blocked": []
+ },
+ "_thumb": "/home/runner/work/could-you-pass/could-you-pass/autopilot/thumbs/christmas-quiz-50-1-B.jpg",
+ "thumbTest": {
+  "order": [
+   "B",
+   "A",
+   "C"
+  ],
+  "current": "B",
+  "since": "2026-11-26",
+  "results": {},
+  "done": false
+ },
+ "scheduledFor": "2026-11-26T14:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "N1oIAEWgKZ8",
+  "at": "2026-11-26T06:44"
  }
 }

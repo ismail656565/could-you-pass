@@ -1,13 +1,13 @@
 {
- "fetched": "2026-11-25T20:25",
+ "fetched": "2026-11-26T06:12",
  "channel": "COULD YOU PASS?",
- "subscribers": "55",
+ "subscribers": "57",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 18407,
-    "engagedViews": 9525
+    "views": 18039,
+    "engagedViews": 9400
    },
    {
     "country": "GB",
@@ -83,29 +83,29 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 21228,
-    "engagedViews": 10227
+    "views": 20838,
+    "engagedViews": 10090
    },
    {
     "deviceType": "TABLET",
-    "views": 5672,
-    "engagedViews": 3176
+    "views": 5610,
+    "engagedViews": 3148
    },
    {
     "deviceType": "TV",
-    "views": 3931,
-    "engagedViews": 2431
+    "views": 3920,
+    "engagedViews": 2424
    },
    {
     "deviceType": "DESKTOP",
-    "views": 2336,
-    "engagedViews": 1416
+    "views": 2312,
+    "engagedViews": 1408
    }
   ],
   "ageGroups": [
    {
     "ageGroup": "age13-17",
-    "viewerPercentage": 9.3
+    "viewerPercentage": 9.4
    },
    {
     "ageGroup": "age18-24",
@@ -113,23 +113,23 @@
    },
    {
     "ageGroup": "age25-34",
-    "viewerPercentage": 10.9
+    "viewerPercentage": 11
    },
    {
     "ageGroup": "age35-44",
-    "viewerPercentage": 18.6
+    "viewerPercentage": 18.8
    },
    {
     "ageGroup": "age45-54",
-    "viewerPercentage": 10.5
+    "viewerPercentage": 10.6
    },
    {
     "ageGroup": "age55-64",
-    "viewerPercentage": 9.2
+    "viewerPercentage": 9.3
    },
    {
     "ageGroup": "age65-",
-    "viewerPercentage": 40.5
+    "viewerPercentage": 39.7
    }
   ]
  },
@@ -141,7 +141,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 29,
-   "publicViews": "696",
+   "publicViews": "1817",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -165,7 +165,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 44,
-   "publicViews": "110",
+   "publicViews": "137",
    "status": {
     "privacyStatus": "private",
     "madeForKids": false,
@@ -189,7 +189,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 36,
-   "publicViews": "699",
+   "publicViews": "805",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 35,
-   "publicViews": "1060",
+   "publicViews": "1083",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 270,
-   "publicViews": "26",
+   "publicViews": "27",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -776,7 +776,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "943",
+   "publicViews": "950",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1315,7 +1315,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 34,
-   "publicViews": "2649",
+   "publicViews": "2716",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1854,7 +1854,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "1195",
+   "publicViews": "1200",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2395,7 +2395,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 34,
-   "publicViews": "3805",
+   "publicViews": "3825",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2417,8 +2417,8 @@
    "id": "d8RgTGhLdqU",
    "title": "This Map Is Lying To You #5 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-21T20:00:08Z",
-   "views": 1011,
-   "engagedViews": 484,
+   "views": 1005,
+   "engagedViews": 482,
    "averageViewDuration": 26,
    "averageViewPercentage": 74.8,
    "likes": 5,
@@ -2934,7 +2934,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "1013",
+   "publicViews": "1016",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2950,13 +2950,13 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.479
+   "engagedShare": 0.48
   },
   {
    "id": "uXyl9faBKeg",
    "title": "Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts",
    "published": "2026-11-21T15:00:34Z",
-   "views": 1040,
+   "views": 1039,
    "engagedViews": 623,
    "averageViewDuration": 17,
    "averageViewPercentage": 41.6,
@@ -2971,7 +2971,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 42,
-   "publicViews": "1046",
+   "publicViews": "1050",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2987,14 +2987,14 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.599
+   "engagedShare": 0.6
   },
   {
    "id": "R-Oqrw1B_9o",
    "title": "Thanksgiving Trivia Quiz 🦃 50 Questions – Can You Get 40?",
    "published": "2026-11-21T13:00:11Z",
-   "views": 106,
-   "engagedViews": 62,
+   "views": 104,
+   "engagedViews": 61,
    "averageViewDuration": 157,
    "averageViewPercentage": 23.72,
    "likes": 0,
@@ -3024,7 +3024,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.585
+   "engagedShare": 0.587
   },
   {
    "id": "J0f0JJrS5aE",
@@ -3046,7 +3046,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "1067",
+   "publicViews": "1069",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3084,7 +3084,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 44,
-   "publicViews": "1017",
+   "publicViews": "1019",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3121,7 +3121,7 @@
     "YT_OTHER_PAGE": 0
    },
    "durationSec": 36,
-   "publicViews": "258",
+   "publicViews": "259",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3181,7 +3181,7 @@
    "comments": 2,
    "subscribersGained": 0,
    "durationSec": 43,
-   "publicViews": "1038",
+   "publicViews": "1039",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3271,7 +3271,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 50,
-   "publicViews": "289",
+   "publicViews": "291",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3301,7 +3301,7 @@
    "comments": 2,
    "subscribersGained": 0,
    "durationSec": 58,
-   "publicViews": "120",
+   "publicViews": "122",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3361,7 +3361,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 55,
-   "publicViews": "68",
+   "publicViews": "69",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3391,7 +3391,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 56,
-   "publicViews": "149",
+   "publicViews": "150",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3421,7 +3421,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 42,
-   "publicViews": "157",
+   "publicViews": "158",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3451,7 +3451,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 55,
-   "publicViews": "153",
+   "publicViews": "154",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3481,7 +3481,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 38,
-   "publicViews": "935",
+   "publicViews": "936",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3511,7 +3511,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 50,
-   "publicViews": "196",
+   "publicViews": "197",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3571,7 +3571,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 42,
-   "publicViews": "194",
+   "publicViews": "195",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
