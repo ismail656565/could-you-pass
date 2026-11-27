@@ -1009,6 +1009,14 @@ def produce_one(p):
         raise RuntimeError(f'Produktion fehlgeschlagen für {name}; Datei liegt in {FAILED / p.name}')
 
 
+def queue_due(p, today):
+    """Queue-Datei mit Datum im Namen (YYYY-MM-DD-…) erst an diesem Tag produzieren.
+    Fix 27.11.: Mit 3 Short-Slots zog der Abendlauf 26.11. flag-duel-5 (für 27.11.) vor und stellte es
+    sofort öffentlich → Folgetag ohne 16:00-Short. Dateien ohne Datum oder mit Vergangenheitsdatum gelten als fällig."""
+    m = re.match(r'(\d{4}-\d{2}-\d{2})', p.name)
+    return not m or m.group(1) <= today
+
+
 def produce():
     """pro Tag höchstens 1 Short und 1 langes Video (außer "force": true)"""
     QUEUE.mkdir(parents=True, exist_ok=True)
@@ -1046,7 +1054,7 @@ def produce():
             pass
     for f in ('short', 'long'):
         while True:
-            cand = [p for p in sorted(QUEUE.glob('*.json')) if fmt_of(json.loads(p.read_text(encoding='utf-8'))) == f]
+            cand = [p for p in sorted(QUEUE.glob('*.json')) if queue_due(p, today) and fmt_of(json.loads(p.read_text(encoding='utf-8'))) == f]
             if not cand:
                 log(f'Kein {f}-Video in der Warteschlange.')
                 break

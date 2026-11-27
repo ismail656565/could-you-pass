@@ -137,7 +137,9 @@ def ensure_queue():
     for path in sorted(QUEUE.glob("*.json")):
         item = read_json(path)
         kind = fmt(item)
-        queued[kind].append(path)
+        m = re.match(r"(\d{4}-\d{2}-\d{2})", path.name)
+        if not m or m.group(1) <= today.isoformat():  # nur heute fällige zählen (autopilot.queue_due)
+            queued[kind].append(path)
         for question in item.get("story", {}).get("questions", []):
             key = re.sub(r"[^a-z0-9]+", " ", str(question.get("q", "")).lower()).strip()
             if key:
