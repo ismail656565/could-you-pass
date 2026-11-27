@@ -1,7 +1,7 @@
 {
  "id": "rageloop",
  "name": "RageLoop Clips",
- "checked": "2026-11-26",
+ "checked": "2026-11-27",
  "subs": 1,
  "views": 756,
  "videos": [
@@ -82,12 +82,12 @@
    "views": 727,
    "likes": 3,
    "comments": 0,
-   "a_views": 715,
-   "engaged": 348,
-   "avgPct": 123.2,
+   "a_views": 726,
+   "engaged": 352,
+   "avgPct": 123.4,
    "avgSec": 12,
    "subs": 1,
-   "stayed": 48.7
+   "stayed": 48.5
   }
  ]
 }

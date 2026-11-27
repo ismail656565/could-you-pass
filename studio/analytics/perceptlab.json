@@ -1,10 +1,19 @@
 {
  "id": "perceptlab",
  "name": "PERCEPT LAB",
- "checked": "2026-11-26",
- "subs": 7,
- "views": 12212,
+ "checked": "2026-11-27",
+ "subs": 8,
+ "views": 12521,
  "videos": [
+  {
+   "id": "90dY-p_l2WE",
+   "title": "Which Orange Circle Is Bigger? Brain Test #1 🧠 #shorts",
+   "published": "2026-11-26T15:30:33Z",
+   "seconds": 24,
+   "views": 33,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "86PpcKwuyQ4",
    "title": "Close Your Left Eye. This Dot Will Disappear 👁️ #shorts",
@@ -15,22 +24,19 @@
    "comments": 0
   },
   {
-   "id": "90dY-p_l2WE",
-   "title": "Which Orange Circle Is Bigger? Brain Test #1 🧠 #shorts",
-   "published": "2026-11-25T13:37:08Z",
-   "seconds": 24,
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
    "id": "Gli_F7sDMG0",
    "title": "Stare at This Flag for 20 Seconds, Then Look at the White 👁️ #shorts",
    "published": "2026-11-24T19:11:44Z",
    "seconds": 38,
-   "views": 1393,
+   "views": 1391,
    "likes": 15,
-   "comments": 0
+   "comments": 0,
+   "a_views": 544,
+   "engaged": 325,
+   "avgPct": 70.9,
+   "avgSec": 26,
+   "subs": 0,
+   "stayed": 59.7
   },
   {
    "id": "nFTNZ5Ir2vc",
@@ -40,10 +46,10 @@
    "views": 6,
    "likes": 0,
    "comments": 0,
-   "a_views": 4,
-   "engaged": 2,
-   "avgPct": 13.9,
-   "avgSec": 3,
+   "a_views": 6,
+   "engaged": 3,
+   "avgPct": 42.5,
+   "avgSec": 11,
    "subs": 0,
    "stayed": 50.0
   },
@@ -55,12 +61,12 @@
    "views": 144,
    "likes": 7,
    "comments": 0,
-   "a_views": 143,
-   "engaged": 96,
-   "avgPct": 37.9,
+   "a_views": 144,
+   "engaged": 97,
+   "avgPct": 37.7,
    "avgSec": 22,
    "subs": 0,
-   "stayed": 67.1
+   "stayed": 67.4
   },
   {
    "id": "FbHyfv2dYcg",
@@ -70,7 +76,7 @@
    "views": 1415,
    "likes": 17,
    "comments": 2,
-   "a_views": 1414,
+   "a_views": 1415,
    "engaged": 727,
    "avgPct": 81.6,
    "avgSec": 47,
@@ -100,12 +106,12 @@
    "views": 1274,
    "likes": 4,
    "comments": 0,
-   "a_views": 1273,
+   "a_views": 1274,
    "engaged": 561,
    "avgPct": 71.1,
    "avgSec": 26,
    "subs": 0,
-   "stayed": 44.1
+   "stayed": 44.0
   },
   {
    "id": "0wQiAALcRUY",
@@ -142,7 +148,7 @@
    "title": "Why Switching Doors Wins 2 Out of 3 Times (Monty Hall)",
    "published": "2026-10-04T10:16:50Z",
    "seconds": 38,
-   "views": 1234,
+   "views": 1235,
    "likes": 19,
    "comments": 0,
    "a_views": 1234,

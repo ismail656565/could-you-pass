@@ -1,10 +1,19 @@
 {
  "id": "plotmelt",
  "name": "PlotMelt",
- "checked": "2026-11-26",
- "subs": 3,
- "views": 2565,
+ "checked": "2026-11-27",
+ "subs": 5,
+ "views": 2579,
  "videos": [
+  {
+   "id": "fTSG3_kS1SQ",
+   "title": "My Robot Vacuum Avoids One Spot. I Finally Checked. #shorts",
+   "published": "2026-11-26T14:30:38Z",
+   "seconds": 23,
+   "views": 1199,
+   "likes": 7,
+   "comments": 0
+  },
   {
    "id": "lTN6n96KKGw",
    "title": "He Ordered Pizza at 3 AM. He Delivered It. #shorts",
@@ -19,18 +28,9 @@
    "title": "A Cat Kept Leaving Him Keys. Then He Found the Door. #shorts",
    "published": "2026-11-25T14:30:37Z",
    "seconds": 23,
-   "views": 1225,
+   "views": 1217,
    "likes": 17,
    "comments": 1
-  },
-  {
-   "id": "fTSG3_kS1SQ",
-   "title": "My Robot Vacuum Avoids One Spot. I Finally Checked. #shorts",
-   "published": "2026-11-25T13:39:32Z",
-   "seconds": 23,
-   "views": 0,
-   "likes": 0,
-   "comments": 0
   },
   {
    "id": "lqZh-0CHU9Q",
@@ -40,9 +40,9 @@
    "views": 1345,
    "likes": 18,
    "comments": 0,
-   "a_views": 1117,
-   "engaged": 479,
-   "avgPct": 109.9,
+   "a_views": 1118,
+   "engaged": 480,
+   "avgPct": 109.7,
    "avgSec": 20,
    "subs": 1,
    "stayed": 42.9

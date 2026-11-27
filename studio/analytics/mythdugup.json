@@ -1,10 +1,28 @@
 {
  "id": "mythdugup",
  "name": "Myth Dug Up",
- "checked": "2026-11-26",
+ "checked": "2026-11-27",
  "subs": 1,
- "views": 1576,
+ "views": 1614,
  "videos": [
+  {
+   "id": "mdewNjfk0Es",
+   "title": "Huawei Was Just Found Guilty in a U.S. Court. 10 of 12 Counts. #shorts",
+   "published": "2026-11-26T18:30:18Z",
+   "seconds": 41,
+   "views": 16,
+   "likes": 2,
+   "comments": 0
+  },
+  {
+   "id": "WZIV_2v6Y3w",
+   "title": "Nvidia's CEO, an Alleged Chinese Spy, and the 11 Days That Shook a Trillion-Dollar Company",
+   "published": "2026-11-26T16:00:33Z",
+   "seconds": 620,
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "nktsL-UuUiw",
    "title": "Tidal Is Deleting 29 Million AI Songs. Spotify Isn't. #shorts",
@@ -15,20 +33,11 @@
    "comments": 0
   },
   {
-   "id": "mdewNjfk0Es",
-   "title": "Huawei Was Just Found Guilty in a U.S. Court. 10 of 12 Counts. #shorts",
-   "published": "2026-11-26T13:13:42Z",
-   "seconds": 41,
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
    "id": "r9ytMY-mo_c",
    "title": "CrowdStrike Is Buying Its Rival Zscaler for $43.9 Billion #shorts",
    "published": "2026-11-26T12:00:14Z",
    "seconds": 38,
-   "views": 0,
+   "views": 12,
    "likes": 0,
    "comments": 0
   },
@@ -37,16 +46,7 @@
    "title": "Senegal Lost Its Africa Cup Title. A Court Just Gave It Back. #shorts",
    "published": "2026-11-25T18:30:29Z",
    "seconds": 36,
-   "views": 49,
-   "likes": 0,
-   "comments": 0
-  },
-  {
-   "id": "WZIV_2v6Y3w",
-   "title": "Nvidia's CEO, an Alleged Chinese Spy, and the 11 Days That Shook a Trillion-Dollar Company",
-   "published": "2026-11-25T14:05:20Z",
-   "seconds": 620,
-   "views": 0,
+   "views": 68,
    "likes": 0,
    "comments": 0
   },
@@ -55,7 +55,7 @@
    "title": "Egypt's Legendary Port Sank Into the Sea. Divers Found It. #shorts",
    "published": "2026-11-25T12:00:08Z",
    "seconds": 38,
-   "views": 103,
+   "views": 105,
    "likes": 0,
    "comments": 0
   },
@@ -64,9 +64,15 @@
    "title": "The Vikings Reached America First — and We Can Prove It #shorts",
    "published": "2026-11-24T18:30:18Z",
    "seconds": 44,
-   "views": 145,
+   "views": 149,
    "likes": 3,
-   "comments": 0
+   "comments": 0,
+   "a_views": 122,
+   "engaged": 51,
+   "avgPct": 138.8,
+   "avgSec": 61,
+   "subs": 0,
+   "stayed": 41.8
   },
   {
    "id": "_nfmqmTdKoQ",
@@ -76,12 +82,12 @@
    "views": 69,
    "likes": 0,
    "comments": 0,
-   "a_views": 42,
-   "engaged": 17,
-   "avgPct": 47.2,
-   "avgSec": 20,
+   "a_views": 50,
+   "engaged": 21,
+   "avgPct": 49.3,
+   "avgSec": 21,
    "subs": 0,
-   "stayed": 40.5
+   "stayed": 42.0
   },
   {
    "id": "6kdKeaOFlwQ",
@@ -106,12 +112,12 @@
    "views": 913,
    "likes": 5,
    "comments": 0,
-   "a_views": 759,
-   "engaged": 362,
-   "avgPct": 101.6,
-   "avgSec": 33,
+   "a_views": 909,
+   "engaged": 444,
+   "avgPct": 91.7,
+   "avgSec": 30,
    "subs": 0,
-   "stayed": 47.7
+   "stayed": 48.8
   },
   {
    "id": "azS-3-N5UGU",

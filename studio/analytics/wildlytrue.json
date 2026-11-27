@@ -1,9 +1,9 @@
 {
  "id": "wildlytrue",
  "name": "WILDLY TRUE",
- "checked": "2026-11-26",
+ "checked": "2026-11-27",
  "subs": 50,
- "views": 76521,
+ "views": 76530,
  "videos": [
   {
    "id": "PidNeOcugUM",
@@ -12,22 +12,28 @@
    "seconds": 31,
    "views": 175,
    "likes": 3,
-   "comments": 1
+   "comments": 1,
+   "a_views": 172,
+   "engaged": 54,
+   "avgPct": 50.5,
+   "avgSec": 15,
+   "subs": 0,
+   "stayed": 31.4
   },
   {
    "id": "jgP2jPmLKac",
    "title": "This Shark Can Live Almost 400 Years 🦈 #shorts",
    "published": "2026-11-23T17:00:20Z",
    "seconds": 30,
-   "views": 388,
+   "views": 390,
    "likes": 3,
    "comments": 1,
-   "a_views": 226,
-   "engaged": 98,
-   "avgPct": 53.1,
+   "a_views": 388,
+   "engaged": 179,
+   "avgPct": 53,
    "avgSec": 15,
    "subs": 1,
-   "stayed": 43.4
+   "stayed": 46.1
   },
   {
    "id": "IqxlukzcrGk",
@@ -52,27 +58,27 @@
    "views": 762,
    "likes": 13,
    "comments": 0,
-   "a_views": 760,
+   "a_views": 762,
    "engaged": 236,
    "avgPct": 117.9,
    "avgSec": 37,
    "subs": 1,
-   "stayed": 31.1
+   "stayed": 31.0
   },
   {
    "id": "7bfUY-R0l_0",
    "title": "This Bridge Collapsed. The Only Victim Was a Dog. #shorts",
    "published": "2026-10-15T19:01:24Z",
    "seconds": 27,
-   "views": 44,
+   "views": 60,
    "likes": 1,
    "comments": 1,
-   "a_views": 22,
-   "engaged": 14,
-   "avgPct": 85.8,
-   "avgSec": 23,
+   "a_views": 29,
+   "engaged": 18,
+   "avgPct": 82.3,
+   "avgSec": 22,
    "subs": 0,
-   "stayed": 63.6
+   "stayed": 62.1
   },
   {
    "id": "Jkne5L7h4VA",
@@ -184,7 +190,7 @@
    "title": "Jackie Chan „A stunt cracked his skull. He still has a hole in his head.\"",
    "published": "2026-10-07T10:00:02Z",
    "seconds": 32,
-   "views": 1210,
+   "views": 1211,
    "likes": 20,
    "comments": 0,
    "a_views": 1209,
@@ -247,9 +253,9 @@
    "views": 1340,
    "likes": 29,
    "comments": 0,
-   "a_views": 1339,
-   "engaged": 608,
-   "avgPct": 99.0,
+   "a_views": 1340,
+   "engaged": 609,
+   "avgPct": 98.9,
    "avgSec": 33,
    "subs": 2,
    "stayed": 45.4
@@ -334,7 +340,7 @@
    "title": "This Arctic Vault Holds Backup Seeds for the Whole World #shorts",
    "published": "2026-10-04T18:34:23Z",
    "seconds": 33,
-   "views": 1028,
+   "views": 1031,
    "likes": 15,
    "comments": 0,
    "a_views": 1028,
