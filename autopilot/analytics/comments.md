@@ -1,12 +1,14 @@
-# Zuschauer-Kommentare – Stand 2026-11-26 23:54
+# Zuschauer-Kommentare – Stand 2026-11-27 02:57
 
-Letzte 21 Tage, ohne unsere eigenen. 40 Kommentare, 1 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 42 Kommentare, 2 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 4/4 |
+| Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 0/4 |
 | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 4/4 |
 | Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 4/4 |
 | Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts | 4/4 |
@@ -36,8 +38,12 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (17)
+## SCORE (19)
 
+- 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @JellieMaeLopez **[OFFEN]** · id `UgziXOWg5C1-ohLaaxp4AaABAg`  
+  „4/4“
+- 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @VitalesCody · id `Ugw_PWZdVBxIzYAxSn54AaABAg`  
+  „0/4“
 - 2026-11-26 · Flag Quiz #5: Which One Is Liberia? The Last One I · @gloriausuman7264 · id `Ugz5EM8RBKzoXXvcJud4AaABAg`  
   „4/4“
 - 2026-11-26 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @aroomacanvas · id `Ugy1F_ghLiEAk5U1ytB4AaABAg`  
