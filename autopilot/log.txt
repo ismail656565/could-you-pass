@@ -2481,3 +2481,12 @@
 [2026-11-27 06:14:42] Kein short-Video in der Warteschlange.
 [2026-11-27 06:14:42] Kein long-Video in der Warteschlange.
 [2026-11-27 06:14:51] Konkurrenz: 25 Kanäle, 119 Gewinner-Videos
+[2026-11-27 17:29:39] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-27 17:29:39] Analytics gespeichert (100 Videos)
+[2026-11-27 17:29:46] flag-duel-6: Kommentar gepostet
+[2026-11-27 17:29:47] missing-symbol-1: Kommentar gepostet
+[2026-11-27 17:29:47] real-fake-flag-3: noch nicht öffentlich – Kommentar später
+[2026-11-27 17:29:48] Kommentare: 45 Zuschauer-Kommentare (21 T), 4 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-27 17:29:48] Kein short-Video in der Warteschlange.
+[2026-11-27 17:29:48] Kein long-Video in der Warteschlange.
+[2026-11-27 17:29:57] Konkurrenz: 25 Kanäle, 119 Gewinner-Videos

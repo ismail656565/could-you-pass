@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-27 06:11
+# Zuschauer-Kommentare – Stand 2026-11-27 17:29
 
-Letzte 21 Tage, ohne unsere eigenen. 42 Kommentare, 1 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 45 Kommentare, 4 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #shorts | 4/5 |
 | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 4/4 |
 | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 0/4 |
 | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 4/4 |
@@ -38,8 +39,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (19)
+## SCORE (20)
 
+- 2026-11-27 · Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #s · @JoannSison-y8i **[OFFEN]** · id `UgyKPkGQ9GrqyBkvQal4AaABAg`  
+  „4/5“
 - 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @JellieMaeLopez · id `UgziXOWg5C1-ohLaaxp4AaABAg`  
   „4/4“
 - 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @VitalesCody · id `Ugw_PWZdVBxIzYAxSn54AaABAg`  
@@ -79,8 +82,12 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-10 · This Map Is Lying To You 🌍 Which Is REALLY Bigger? · @RageG23 · id `UgwiIuNyUL_iK-DLhIp4AaABAg`  
   „3/4“
 
-## SONSTIGES (20)
+## SONSTIGES (22)
 
+- 2026-11-27 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @AkatoSema-z4e **[OFFEN]** · id `UgzyBYZ2MaQoh5cCO1N4AaABAg`  
+  „I 4 debate“
+- 2026-11-27 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @АйнурКемалашова **[OFFEN]** · id `UgyuhiranJkGZ9oYflp4AaABAg`  
+  „🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿“
 - 2026-11-26 · Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #s · @michaeltomassi5202 **[OFFEN]** · id `UgxvpoLqrvwhF-ILrEx4AaABAg`  
   „uhijh“
 - 2026-11-25 · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #s · @Pirl1776 · id `UgwHB5dcTtoP2vJ_esp4AaABAg.AddujkeE1pIAddvDKxgUr1`  
@@ -113,7 +120,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
   „Great quiz.  More please.“
 - 2026-11-19 · Geography Trivia: 90% Get #4 Wrong 🌍 #shorts · @eddiecromwell2954 · id `Ugzg2l7RZqLj9QE4PlJ4AaABAg`  
   „Right next to Poland.“
-- 2026-11-16 · The True Size of Countries: 20 Maps That Lie to Yo · @Thatguynull45 · id `UgysPk8zcE1u37uYKTp4AaABAg`  
+- 2026-11-16 · The True Size of Countries: 20 Maps That Lie to Yo · @EpicHexagon-z · id `UgysPk8zcE1u37uYKTp4AaABAg`  
   „I have no idea“
 - 2026-11-10 · Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz #shorts · @EileenRyan-v3b · id `UgwXnGJBu4MlF84Ty6F4AaABAg`  
   „C.“
