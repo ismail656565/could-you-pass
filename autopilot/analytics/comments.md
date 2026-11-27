@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-27 20:01
+# Zuschauer-Kommentare – Stand 2026-11-27 21:10
 
-Letzte 21 Tage, ohne unsere eigenen. 45 Kommentare, 4 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 46 Kommentare, 4 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 3/4 |
 | Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #shorts | 4/5 |
 | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 4/4 |
 | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 0/4 |
@@ -39,8 +40,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (20)
+## SCORE (21)
 
+- 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @seynaboudiokhane3442 · id `UgxrBgA-pN-ojjkhFyF4AaABAg`  
+  „3/4“
 - 2026-11-27 · Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #s · @JoannSison-y8i **[OFFEN]** · id `UgyKPkGQ9GrqyBkvQal4AaABAg`  
   „4/5“
 - 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @JellieMaeLopez · id `UgziXOWg5C1-ohLaaxp4AaABAg`  
