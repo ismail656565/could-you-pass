@@ -1,0 +1,108 @@
+{
+ "id": "flag-duel-8",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz #8: Which One Is Moldova? The Last One Is Brutal 🌍 #shorts",
+  "description": "Two flags, almost the same – pick the right country before the countdown ends 🌍 Ireland, Slovenia, Venezuela and Moldova.\nComment your score out of 4 👇\n\nFollow – a new flag duel drops every day! 🧠\n\n#flagquiz #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "andorra vs moldova",
+   "ireland vs italy",
+   "slovenia vs russia",
+   "venezuela vs ecuador",
+   "geography quiz",
+   "left or right",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "flag-duel-8",
+  "type": "flagduel",
+  "title": "Who Is IRELAND? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 9",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "IRELAND",
+    "a": {
+     "flag": "ie",
+     "name": "Ireland"
+    },
+    "b": {
+     "flag": "it",
+     "name": "Italy"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Ireland? Left, or right?",
+     "a": "Left! Orange, not red."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "SLOVENIA",
+    "a": {
+     "flag": "ru",
+     "name": "Russia"
+    },
+    "b": {
+     "flag": "si",
+     "name": "Slovenia"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Slovenia?",
+     "a": "Right! The one with the mountain."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "VENEZUELA",
+    "a": {
+     "flag": "ve",
+     "name": "Venezuela"
+    },
+    "b": {
+     "flag": "ec",
+     "name": "Ecuador"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Venezuela?",
+     "a": "Left! An arc of eight stars."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "MOLDOVA",
+    "a": {
+     "flag": "ad",
+     "name": "Andorra"
+    },
+    "b": {
+     "flag": "md",
+     "name": "Moldova"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. Who is Moldova?",
+     "a": "Right! Look for the eagle. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}
