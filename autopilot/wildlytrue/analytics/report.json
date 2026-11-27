@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-26T21:58",
+ "fetched": "2026-11-27T15:07",
  "channel": "WILDLY TRUE",
  "subscribers": "50",
  "audience": {
@@ -28,17 +28,17 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 1619,
-    "engagedViews": 567
+    "views": 1611,
+    "engagedViews": 569
    },
    {
     "deviceType": "TABLET",
-    "views": 127,
+    "views": 130,
     "engagedViews": 54
    },
    {
     "deviceType": "DESKTOP",
-    "views": 68,
+    "views": 69,
     "engagedViews": 21
    },
    {
@@ -1123,14 +1123,14 @@
     ]
    ],
    "trafficSources": {
-    "SHORTS": 381,
+    "SHORTS": 376,
+    "YT_SEARCH": 4,
     "YT_OTHER_PAGE": 4,
-    "YT_SEARCH": 2,
     "EXT_URL": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 30,
-   "publicViews": "388",
+   "publicViews": "392",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2745,7 +2745,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 27,
-   "publicViews": "60",
+   "publicViews": "72",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -5556,7 +5556,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 32,
-   "publicViews": "1211",
+   "publicViews": "1213",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -5931,7 +5931,7 @@
    "comments": 0,
    "subscribersGained": 1,
    "durationSec": 37,
-   "publicViews": "1469",
+   "publicViews": "1470",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -6471,7 +6471,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 28,
-   "publicViews": "1036",
+   "publicViews": "1037",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -7437,7 +7437,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 24,
-   "publicViews": "461",
+   "publicViews": "462",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
