@@ -2453,3 +2453,31 @@
 [2026-11-26 22:19:06] Kommentare: 40 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise
 [2026-11-26 23:54:41] Kommentare: 40 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise
 [2026-11-27 02:57:52] Kommentare: 42 Zuschauer-Kommentare (21 T), 2 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-27 06:11:28] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-27 06:11:28] Analytics gespeichert (100 Videos)
+[2026-11-27 06:11:28] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-27 06:11:28] Thumbnail-Test iq-riddles-12-1: Variante B → {'views': 3, 'ctr': 0.75, 'metric': 'views/day'}
+[2026-11-27 06:11:30] Thumbnail-Test iq-riddles-12-1: jetzt Variante C
+[2026-11-27 06:11:32] Kommentar-Antworten gepostet: 2
+[2026-11-27 06:11:33] Kommentare: 42 Zuschauer-Kommentare (21 T), 1 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-27 06:11:33] Produziere flag-duel-6 (short)
+[2026-11-27 06:12:30] Gerendert
+[2026-11-27 06:12:35] QA: -20.1 LUFS, TP -4.7 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 88.5, Dauer 27.8 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-27 06:12:37] Hochgeladen: https://youtube.com/watch?v=3PGS_reIIvk (private)
+[2026-11-27 06:12:38] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-27 06:12:38] Geplant für 27.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-27 06:12:38] Produziere missing-symbol-1 (short)
+[2026-11-27 06:13:34] Gerendert
+[2026-11-27 06:13:40] QA: -19.6 LUFS, TP -4.3 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 79.8, Dauer 29.9 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-27 06:13:42] Hochgeladen: https://youtube.com/watch?v=byIbXaPWSD8 (private)
+[2026-11-27 06:13:43] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-27 06:13:43] Geplant für 27.11. 12:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-27 06:13:43] Produziere real-fake-flag-3 (short)
+[2026-11-27 06:14:35] Gerendert
+[2026-11-27 06:14:40] QA: -19.6 LUFS, TP -4.5 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 91.1, Dauer 28.9 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-27 06:14:42] Hochgeladen: https://youtube.com/watch?v=Jm_p9jv8Dp0 (private)
+[2026-11-27 06:14:42] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-27 06:14:42] Geplant für 27.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-27 06:14:42] Kein short-Video in der Warteschlange.
+[2026-11-27 06:14:42] Kein long-Video in der Warteschlange.
+[2026-11-27 06:14:51] Konkurrenz: 25 Kanäle, 119 Gewinner-Videos

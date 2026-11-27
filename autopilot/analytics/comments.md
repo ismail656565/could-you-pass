@@ -1,6 +1,6 @@
-# Zuschauer-Kommentare – Stand 2026-11-27 02:57
+# Zuschauer-Kommentare – Stand 2026-11-27 06:11
 
-Letzte 21 Tage, ohne unsere eigenen. 42 Kommentare, 2 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 42 Kommentare, 1 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
@@ -40,7 +40,7 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SCORE (19)
 
-- 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @JellieMaeLopez **[OFFEN]** · id `UgziXOWg5C1-ohLaaxp4AaABAg`  
+- 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @JellieMaeLopez · id `UgziXOWg5C1-ohLaaxp4AaABAg`  
   „4/4“
 - 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @VitalesCody · id `Ugw_PWZdVBxIzYAxSn54AaABAg`  
   „0/4“

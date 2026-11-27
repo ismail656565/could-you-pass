@@ -1,0 +1,125 @@
+{
+ "id": "real-fake-flag-3",
+ "type": "flagduel",
+ "title": "Real or Fake Flag? #3",
+ "ask": "WHICH IS THE REAL",
+ "kicker": "CAN YOU GET 4/4?",
+ "hookLine": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.08,
+ "timing": {
+  "think": 2.6,
+  "move": 0.7,
+  "tail": 0.2,
+  "outro": 0.6
+ },
+ "outroText": "GOT 4/4? HIT LIKE",
+ "outroSub": "Follow for number 4",
+ "rounds": [
+  {
+   "level": "EASY",
+   "target": "DENMARK",
+   "a": {
+    "flag": "dk",
+    "name": "Denmark"
+   },
+   "b": {
+    "flag": "fake/dk",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Which is the real Denmark? Left, or right?",
+    "a": "Left! The cross sits off-centre."
+   },
+   "start": 0.0,
+   "qAudio": "audio/real-fake-flag-3/q1.mp3",
+   "aAudio": "audio/real-fake-flag-3/a1.mp3",
+   "thinkStart": 2.52,
+   "reveal": 5.12,
+   "moveEnd": 5.82,
+   "aStart": 5.67,
+   "end": 7.62
+  },
+  {
+   "level": "MEDIUM",
+   "target": "AUSTRIA",
+   "a": {
+    "flag": "fake/at",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "at",
+    "name": "Austria"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "The real Austria?",
+    "a": "Right! Three equal stripes."
+   },
+   "start": 7.62,
+   "qAudio": "audio/real-fake-flag-3/q2.mp3",
+   "aAudio": "audio/real-fake-flag-3/a2.mp3",
+   "thinkStart": 8.73,
+   "reveal": 11.33,
+   "moveEnd": 12.03,
+   "aStart": 11.88,
+   "end": 13.83
+  },
+  {
+   "level": "HARD",
+   "target": "FINLAND",
+   "a": {
+    "flag": "fake/fi",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "fi",
+    "name": "Finland"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "The real Finland?",
+    "a": "Right! Cross hugs the pole."
+   },
+   "start": 13.83,
+   "qAudio": "audio/real-fake-flag-3/q3.mp3",
+   "aAudio": "audio/real-fake-flag-3/a3.mp3",
+   "thinkStart": 14.98,
+   "reveal": 17.58,
+   "moveEnd": 18.28,
+   "aStart": 18.13,
+   "end": 20.08
+  },
+  {
+   "level": "LEGEND",
+   "target": "NORWAY",
+   "a": {
+    "flag": "no",
+    "name": "Norway"
+   },
+   "b": {
+    "flag": "fake/no",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Last one. The real Norway?",
+    "a": "Left! Shifted toward the pole. Got all four? Hit like, and follow!"
+   },
+   "start": 20.08,
+   "qAudio": "audio/real-fake-flag-3/q4.mp3",
+   "aAudio": "audio/real-fake-flag-3/a4.mp3",
+   "thinkStart": 21.61,
+   "reveal": 24.21,
+   "moveEnd": 24.91,
+   "aStart": 24.76,
+   "end": 28.77
+  }
+ ],
+ "hook": {
+  "start": 0.0,
+  "end": 0.0
+ },
+ "durationInSeconds": 28.77
+}

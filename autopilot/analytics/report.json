@@ -1,23 +1,23 @@
 {
- "fetched": "2026-11-26T20:02",
+ "fetched": "2026-11-27T06:11",
  "channel": "COULD YOU PASS?",
- "subscribers": "61",
+ "subscribers": "66",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 19459,
-    "engagedViews": 10181
+    "views": 19024,
+    "engagedViews": 10023
    },
    {
     "country": "GB",
-    "views": 2877,
-    "engagedViews": 1496
+    "views": 2848,
+    "engagedViews": 1484
    },
    {
     "country": "PH",
-    "views": 1408,
-    "engagedViews": 761
+    "views": 1387,
+    "engagedViews": 751
    },
    {
     "country": "CA",
@@ -83,29 +83,29 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 22546,
-    "engagedViews": 11023
+    "views": 22069,
+    "engagedViews": 10862
    },
    {
     "deviceType": "TABLET",
-    "views": 6367,
-    "engagedViews": 3588
+    "views": 6261,
+    "engagedViews": 3543
    },
    {
     "deviceType": "TV",
-    "views": 4735,
-    "engagedViews": 2838
+    "views": 4708,
+    "engagedViews": 2821
    },
    {
     "deviceType": "DESKTOP",
-    "views": 2415,
-    "engagedViews": 1472
+    "views": 2366,
+    "engagedViews": 1442
    }
   ],
   "ageGroups": [
    {
     "ageGroup": "age13-17",
-    "viewerPercentage": 9.8
+    "viewerPercentage": 10
    },
    {
     "ageGroup": "age18-24",
@@ -113,23 +113,23 @@
    },
    {
     "ageGroup": "age25-34",
-    "viewerPercentage": 12
+    "viewerPercentage": 12.2
    },
    {
     "ageGroup": "age35-44",
-    "viewerPercentage": 20.5
+    "viewerPercentage": 20.8
    },
    {
     "ageGroup": "age45-54",
-    "viewerPercentage": 11.1
+    "viewerPercentage": 11.3
    },
    {
     "ageGroup": "age55-64",
-    "viewerPercentage": 8.7
+    "viewerPercentage": 8.8
    },
    {
     "ageGroup": "age65-",
-    "viewerPercentage": 36.4
+    "viewerPercentage": 35.4
    }
   ]
  },
@@ -141,7 +141,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 30,
-   "publicViews": "0",
+   "publicViews": "1307",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -165,7 +165,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 29,
-   "publicViews": "880",
+   "publicViews": "1520",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -189,7 +189,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 28,
-   "publicViews": "1516",
+   "publicViews": "2158",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 662,
-   "publicViews": "3",
+   "publicViews": "27",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 29,
-   "publicViews": "2464",
+   "publicViews": "2685",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -800,7 +800,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "988",
+   "publicViews": "993",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1341,7 +1341,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 35,
-   "publicViews": "1122",
+   "publicViews": "1134",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1878,7 +1878,7 @@
     "NO_LINK_OTHER": 1
    },
    "durationSec": 270,
-   "publicViews": "29",
+   "publicViews": "30",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2412,7 +2412,7 @@
    "trafficSources": {
     "SHORTS": 906,
     "YT_SEARCH": 20,
-    "YT_OTHER_PAGE": 6,
+    "YT_OTHER_PAGE": 5,
     "YT_CHANNEL": 2,
     "EXT_URL": 2,
     "HASHTAGS": 2,
@@ -2420,7 +2420,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "950",
+   "publicViews": "953",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2450,15 +2450,15 @@
    "comments": 6,
    "subscribersGained": 12,
    "trafficSources": {
-    "SHORTS": 2426,
-    "YT_SEARCH": 140,
+    "SHORTS": 2408,
+    "YT_SEARCH": 148,
     "YT_CHANNEL": 8,
     "YT_OTHER_PAGE": 6,
     "SUBSCRIBER": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 34,
-   "publicViews": "2754",
+   "publicViews": "2762",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2480,22 +2480,22 @@
    "id": "HpIiecf_igY",
    "title": "This Map Is Lying To You #6 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-22T20:00:31Z",
-   "views": 1199,
-   "engagedViews": 622,
+   "views": 1195,
+   "engagedViews": 620,
    "averageViewDuration": 28,
-   "averageViewPercentage": 80.05,
+   "averageViewPercentage": 80.13,
    "likes": 14,
    "comments": 1,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 1145,
-    "YT_SEARCH": 24,
+    "SHORTS": 1143,
+    "YT_SEARCH": 26,
     "YT_OTHER_PAGE": 21,
     "YT_CHANNEL": 5,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "1203",
+   "publicViews": "1204",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2517,24 +2517,24 @@
    "id": "_U78PtTz-_o",
    "title": "Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts",
    "published": "2026-11-22T15:00:06Z",
-   "views": 3833,
-   "engagedViews": 2128,
+   "views": 3794,
+   "engagedViews": 2117,
    "averageViewDuration": 28,
    "averageViewPercentage": 84.62,
    "likes": 89,
    "comments": 10,
    "subscribersGained": 20,
    "trafficSources": {
-    "SHORTS": 3578,
-    "YT_SEARCH": 190,
+    "SHORTS": 3573,
+    "YT_SEARCH": 194,
     "YT_OTHER_PAGE": 14,
-    "YT_CHANNEL": 8,
+    "YT_CHANNEL": 7,
     "SUBSCRIBER": 3,
     "EXT_URL": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 34,
-   "publicViews": "3836",
+   "publicViews": "3843",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2550,7 +2550,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.555
+   "engagedShare": 0.558
   },
   {
    "id": "d8RgTGhLdqU",
@@ -2571,7 +2571,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "1018",
+   "publicViews": "1019",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2608,7 +2608,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 42,
-   "publicViews": "1052",
+   "publicViews": "1053",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2630,7 +2630,7 @@
    "id": "R-Oqrw1B_9o",
    "title": "Thanksgiving Trivia Quiz 🦃 50 Questions – Can You Get 40?",
    "published": "2026-11-21T13:00:11Z",
-   "views": 110,
+   "views": 109,
    "engagedViews": 62,
    "averageViewDuration": 159,
    "averageViewPercentage": 24.06,
@@ -2638,7 +2638,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 664,
-   "publicViews": "101",
+   "publicViews": "105",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2654,7 +2654,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.564
+   "engagedShare": 0.569
   },
   {
    "id": "J0f0JJrS5aE",
@@ -2698,7 +2698,7 @@
    "comments": 2,
    "subscribersGained": 1,
    "durationSec": 44,
-   "publicViews": "1019",
+   "publicViews": "1021",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2788,7 +2788,7 @@
    "comments": 2,
    "subscribersGained": 0,
    "durationSec": 43,
-   "publicViews": "1039",
+   "publicViews": "1040",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2878,7 +2878,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 50,
-   "publicViews": "291",
+   "publicViews": "293",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2908,7 +2908,7 @@
    "comments": 2,
    "subscribersGained": 0,
    "durationSec": 58,
-   "publicViews": "122",
+   "publicViews": "123",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2930,10 +2930,10 @@
    "id": "80E-pivnS50",
    "title": "The True Size of US States: 20 Maps That Lie to You 🇺🇸",
    "published": "2026-11-17T13:00:28Z",
-   "views": 44,
-   "engagedViews": 21,
+   "views": 43,
+   "engagedViews": 20,
    "averageViewDuration": 67,
-   "averageViewPercentage": 31.269999999999996,
+   "averageViewPercentage": 31.04,
    "likes": 0,
    "comments": 2,
    "subscribersGained": 2,
@@ -2954,7 +2954,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.477
+   "engagedShare": 0.465
   },
   {
    "id": "R5J0_opBkIk",
@@ -2998,7 +2998,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 56,
-   "publicViews": "150",
+   "publicViews": "151",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3058,7 +3058,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 55,
-   "publicViews": "154",
+   "publicViews": "155",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -3118,7 +3118,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 50,
-   "publicViews": "197",
+   "publicViews": "198",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,

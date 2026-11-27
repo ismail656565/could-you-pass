@@ -1,0 +1,125 @@
+{
+ "id": "missing-symbol-1",
+ "type": "flagduel",
+ "title": "Missing Symbol #1",
+ "ask": "WHICH IS THE REAL",
+ "kicker": "CAN YOU GET 4/4?",
+ "hookLine": "",
+ "music": "sfx/brain-pulse.wav",
+ "musicVolume": 0.08,
+ "timing": {
+  "think": 2.6,
+  "move": 0.7,
+  "tail": 0.2,
+  "outro": 0.6
+ },
+ "outroText": "GOT 4/4? HIT LIKE",
+ "outroSub": "Follow for number 2",
+ "rounds": [
+  {
+   "level": "EASY",
+   "target": "PORTUGAL",
+   "a": {
+    "flag": "pt",
+    "name": "Portugal"
+   },
+   "b": {
+    "flag": "fake/pt",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Which is the real Portugal? Left, or right?",
+    "a": "Left! It keeps its shield."
+   },
+   "start": 0.0,
+   "qAudio": "audio/missing-symbol-1/q1.mp3",
+   "aAudio": "audio/missing-symbol-1/a1.mp3",
+   "thinkStart": 2.63,
+   "reveal": 5.23,
+   "moveEnd": 5.93,
+   "aStart": 5.78,
+   "end": 7.73
+  },
+  {
+   "level": "MEDIUM",
+   "target": "KENYA",
+   "a": {
+    "flag": "fake/ke",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "ke",
+    "name": "Kenya"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "The real Kenya?",
+    "a": "Right! The Maasai shield."
+   },
+   "start": 7.73,
+   "qAudio": "audio/missing-symbol-1/q2.mp3",
+   "aAudio": "audio/missing-symbol-1/a2.mp3",
+   "thinkStart": 8.79,
+   "reveal": 11.39,
+   "moveEnd": 12.09,
+   "aStart": 11.94,
+   "end": 13.89
+  },
+  {
+   "level": "HARD",
+   "target": "CAMBODIA",
+   "a": {
+    "flag": "fake/kh",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "kh",
+    "name": "Cambodia"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "The real Cambodia?",
+    "a": "Right! Angkor Wat stays."
+   },
+   "start": 13.89,
+   "qAudio": "audio/missing-symbol-1/q3.mp3",
+   "aAudio": "audio/missing-symbol-1/a3.mp3",
+   "thinkStart": 15.17,
+   "reveal": 17.77,
+   "moveEnd": 18.47,
+   "aStart": 18.32,
+   "end": 20.27
+  },
+  {
+   "level": "LEGEND",
+   "target": "KAZAKHSTAN",
+   "a": {
+    "flag": "kz",
+    "name": "Kazakhstan"
+   },
+   "b": {
+    "flag": "fake/kz",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "Last one. The real Kazakhstan?",
+    "a": "Left! The golden pattern by the pole. Got all four? Hit like, and follow!"
+   },
+   "start": 20.27,
+   "qAudio": "audio/missing-symbol-1/q4.mp3",
+   "aAudio": "audio/missing-symbol-1/a4.mp3",
+   "thinkStart": 22.26,
+   "reveal": 24.86,
+   "moveEnd": 25.56,
+   "aStart": 25.41,
+   "end": 29.86
+  }
+ ],
+ "hook": {
+  "start": 0.0,
+  "end": 0.0
+ },
+ "durationInSeconds": 29.86
+}
