@@ -223,6 +223,76 @@
      "Proven: Tidal announced the ban. Debated: whether its detection can really tell AI from human."
     ]
    ]
+  },
+  "012-spacex-starmind": {
+   "video_id": "6ck1ghenS3M",
+   "publish_at": "2026-11-27T19:30:00+01:00",
+   "kind": "short",
+   "title": "SpaceX Got Approval for 1 Million Satellites. It Has 11,000. #shorts",
+   "uploaded": "2026-11-27T13:12:52+00:00",
+   "duration": 40.11,
+   "lines": [
+    [
+     0.15,
+     2.87,
+     "One million satellites. Just approved."
+    ],
+    [
+     3.22,
+     12.33,
+     "This week, America's FCC cleared SpaceX to launch up to one million satellites. Starlink has about eleven thousand today."
+    ],
+    [
+     12.73,
+     19.5,
+     "These aren't for internet. They're flying data centers, built to run AI in orbit, powered by the sun."
+    ],
+    [
+     19.9,
+     31.73,
+     "Today's fleet is this tiny corner. The first must fly by twenty thirty-three, all by twenty forty. Astronomers, Amazon and Viasat objected. The FCC said no."
+    ],
+    [
+     32.18,
+     38.81,
+     "Proven: the approval is official. Debated: whether a million data centers in orbit can really work."
+    ]
+   ]
+  },
+  "013-nvidia-crypto-settlement": {
+   "video_id": "fRWesCZ_YIs",
+   "publish_at": "2026-11-28T13:00:00+01:00",
+   "kind": "short",
+   "title": "Nvidia Will Pay $290 Million Over Crypto. It Admits Nothing. #shorts",
+   "uploaded": "2026-11-27T13:17:37+00:00",
+   "duration": 35.17,
+   "lines": [
+    [
+     0.15,
+     3.4,
+     "Nvidia is paying to end an eight-year fight."
+    ],
+    [
+     3.75,
+     14.16,
+     "Investors claimed that in twenty seventeen and eighteen, it hid how much of its gaming chip sales came from crypto miners. Their estimate: over a billion dollars."
+    ],
+    [
+     14.56,
+     19.35,
+     "When the crypto boom crashed, the stock fell about twenty-eight percent in two days."
+    ],
+    [
+     19.75,
+     27.66,
+     "The case reached the Supreme Court. Now Nvidia settles for two hundred ninety million dollars. It admits no wrongdoing."
+    ],
+    [
+     28.11,
+     33.87,
+     "Proven: the deal was filed in court. Debated: whether Nvidia really misled anyone."
+    ]
+   ]
   }
  },
  "longs_done": {
@@ -239,6 +309,13 @@
    "title": "Nvidia's CEO, an Alleged Chinese Spy, and the 11 Days That Shook a Trillion-Dollar Company",
    "thumb": true,
    "uploaded": "2026-11-25T14:05:36+00:00"
+  },
+  "003-huawei-guilty-verdict": {
+   "video_id": "JSldcnKE8O8",
+   "publish_at": "2026-11-28T17:00:00+01:00",
+   "title": "Huawei Found Guilty in Brooklyn: The 8-Year Case, the Arrested CFO and the Charge That Failed",
+   "thumb": true,
+   "uploaded": "2026-11-27T14:01:50+00:00"
   }
  }
 }
