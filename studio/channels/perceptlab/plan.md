@@ -1,28 +1,29 @@
-# Plan 2026-11-26
+# Plan 2026-11-27
 
-Data: Afterimage flag "Stare at This Flag for 20 Seconds…" 1,393 views after 2 days (was 592 on day 1) = best new short, back at old-winner level (Spiral 1,274 / Dot 1,098). Müller-Lyer 6 (stopped). Ebbinghaus "Brain Test #1" + Blind spot not live long enough for a verdict.
-Cause: the viewer DOES something for 20 s and gets a personal payoff (colours appear) → "stare, then look" afterimage = EXPLOIT (1 of 3 shorts). Static comparisons remain stopped.
-Competitors: Dramatic_science spin illusions 3j_BH1oT_SE (13×, 1.3M) + 5 more at 3.3–3.7×; MindWarp 3D ZP4wjmfjSw0 (5.3×) = full-screen black/white op-art rings with ONE red centre dot (thumbnail checked) → used for the spin + stare formats.
+Data (median ~1,000): afterimage flag "Stare at This Flag for 20 Seconds…" 1,394 (59.7 % stayed) = best short. "Which Orange Circle Is Bigger? Brain Test #1" (Ebbinghaus) only 53 after 1.5 days = SECOND static size-comparison flop (after Müller-Lyer 6).
+Cause: static "which is bigger/longer" = no action, no motion, classic everyone knows → swiped. Winners: viewer DOES something (stare 20 s, close an eye) + personal payoff. Blind spot (27.11.) + spin sphere (28.11.) not live long enough.
+Competitors: Dramatic_science 3j_BH1oT_SE "Can you reverse the spin…" (13×, 1.3M) + 5 spin variants 3.3–3.7×; MindWarp 3D Z3GmTopETSA/ZP4wjmfjSw0 (4.8–5.3×) = full-screen pulsing op-art rings (black/white + red/yellow), ONE red dot centre, title "This … Will Trick Your Brain" (thumbnails checked).
 
 ## Rules
 - Every short is a TEST the viewer does: line 1 = instruction or question to "you". Never open with a fact or a name.
-- Something MOVES from frame 0 (rotation, pulsing rings, zoom). No static line/bar comparisons any more.
-- Line 2 (2.5–6 s) raises the stakes ("Now make it spin the other way. Only with your mind."), never an explanation. Visual change at ~4.5 s.
+- Something MOVES from frame 0 (rotation, pulsing rings, zoom). Static comparisons are BANNED (Brain Test #1 = 53 views).
+- Line 2 (2.5–6 s) raises the stakes, never an explanation. Visual change at ~4.5 s.
 - Length 15–30 s, max ~60 words. Reveal ~60 %, explanation max 2 lines, last line loops ("Now look again.").
-- Titles: "[Instruction/question to you] + [challenge] + emoji #shorts". Series "Brain Test #N" in the description (not required in title).
-- Style: dark/black background, neon or white dots/lines, object large and centred (competitor look) OR chalkboard lab; high contrast.
-- ANIMATION TRICK (engine supports it): paint 16–24 stages of one plate (e.g. a sphere of dots rotated by 360/N degrees each, orthographic projection, NO size/brightness depth cues = ambiguous direction) and cycle them with a long `show` list, e.g. show=[(i/12, i % 24) for i in range(12*30)] → 12 fps rotation loop. Camera static (slow push max). Keep N ≤ 24 (memory).
+- Titles: "[Instruction to you] + [payoff] + emoji #shorts" (e.g. "Stare at the Red Dot for 20 Seconds…"). Series name in description ("Stare Test #N", "Spin Test #N").
+- Style: black background, high-contrast neon/white op-art, object large and centred; red fixation dot.
+- ANIMATION TRICK (engine supports it): paint 16–24 stages of one plate and cycle them with a long `show` list, e.g. show=[(i/12, i % 24) for i in range(12*30)] → 12 fps loop. Camera static. N ≤ 24.
 - Fact (illusion name + year) only in the last 1–2 lines; all facts verified.
 
-## Next 3 episodes (after 005-spin-sphere)
-1. 006-tickle – "Why Can't You Tickle Yourself? Try It 🧠 #shorts" (cerebellum predicts own touch, Blakemore/Wolpert/Frith 1998–2000). (written: 006-tickle) Why: experiment "Why can't you…?" (SciShow pattern). Hook starts with the instruction: "Try to tickle yourself. Right now."
-2. 007-see-first-1 – "What Did You See First? 👇 #1 #shorts" (10–14 s, 3–4 lines). Hook: "What did you see first? Don't think." L2: "Look again. There are two." Reveal: "A vase – or two faces. Your brain can't see both at once." Last: "Comment what you saw first." Own drawing of a Rubin vase in neon on black. Why: vidIQ outlier (ambiguous figures 1.6–4.2M).
-3. 008-afterimage-photo – EXPLOIT (afterimage #2): "Stare for 20 Seconds. This Black & White Photo Turns Colour 👁️ #shorts". Hook: "Stare at the red dot. Don't move your eyes." L2: "Twenty seconds. These colours look wrong on purpose." Countdown card 20→0, then cut to the SAME scene in plain grey/black & white: "Now – it's in colour. Isn't it?" Explanation (1 line): "Your colour cells got tired. Your brain paints the opposite." Last: "Blink, and it's gone. Watch again." Visual: own painted simple landscape (sky, sun, grass, red barn) – plate A = colour-INVERTED version (PIL ImageOps.invert: blue sky→yellow, green→magenta), white/red dot centred; plate B = grayscale of the normal painting (ImageOps.grayscale), same dot. Hold plate A still ≥ 20 s (no camera move!), hard cut to plate B. Why: exploit of 002 (1,393), one variable changed (photo instead of flag).
+## Next 3 episodes (after 006-tickle, already written)
+1. 007-afterimage-photo – EXPLOIT (Stare Test #2): "Stare for 20 Seconds. This Black & White Photo Turns Colour 👁️ #shorts". Hook: "Stare at the red dot. Don't move your eyes." L2: "Twenty seconds. These colours look wrong on purpose." Countdown card 20→0, hard cut to the SAME scene in grayscale: "Now – it's in colour. Isn't it?" Explain (1 line): "Your colour cells got tired. Your brain paints the opposite." Last: "Blink, and it's gone. Watch again." Visual: own painted landscape (sky, sun, grass, red barn); plate A = ImageOps.invert of the painting + red dot centred, held still ≥ 20 s; plate B = ImageOps.grayscale of the normal painting, same dot. Why: exploit of 002 (1,394).
+2. 008-pulse-rings – EXPERIMENT (competitor MindWarp ZP4wjmfjSw0 pattern, own design): "Stare at the Red Dot. The Rings Will Start to Breathe 🌀 #shorts". Hook: "Stare at the red dot. Only the dot." L2: "Ten seconds. Now the rings start moving – but nothing moves." Visual: 24 plate stages of concentric black/white rings with a tiny phase shift each (cycled = pulsing), then from ~10 s a STILL plate (static rings) – viewers see motion anyway (motion aftereffect / peripheral drift). Reveal: "That last picture was a still image." Explain: "Your motion cells got tired and now fire the other way." Last: "Scroll back. Watch it again." Why: competitor 4.8–5.3× + stare exploit.
+3. 009-spin-2 – only if 005-spin-sphere ≥ 800 views by 30.11.: "Can You Make the Dancer Dots Spin the Other Way? Spin Test #2 🧠 #shorts" (ring of dots instead of sphere, same 24-stage trick). Otherwise: 009 = "What Did You See First? 👇 #1" (own neon Rubin vase, 10–14 s, 4 lines, last line "Comment what you saw first.").
 
 ## Experiments
-- EXPLOIT: afterimage "stare 20 s, then look" (002 ✔ 1,393) – repeat as #2 (008); if ≥ 1,000 again, make it a weekly series "Stare Test #N".
-- Running: "Brain Test #N" (003 Ebbinghaus). Spin/motion tests (005) new. Ultra-short ambiguous figures (007) new. Verdict each after 7 days; stop a type after 3 below median (~1,000).
-- Verdicts: static length comparisons STOPPED (Müller-Lyer 6 views; Ponzo dropped). Probability paradoxes paused. Opinion topics stopped.
+- EXPLOIT: Stare Test (afterimage) – #2 = 007; if ≥ 1,000 → weekly series.
+- Running: blind spot (004), spin (005), tickle "Why can't you…" (006) – verdict 7 days after publish, stop a type after 3 below ~1,000.
+- New: pulsing-ring stare (008).
+- STOPPED: static size/length comparisons (Müller-Lyer 6, Ebbinghaus 53), probability paradoxes, opinion topics.
 
 ## Do not
-- No static two-line/bar comparisons, no slow openings, no opinion/spiritual topics, no invented statistics or fake poll percentages, no explanations > 2 lines, no real-person likeness, no copying competitor visuals 1:1 (own colours, own wording).
+- No static comparisons, no slow openings, no explanations > 2 lines, no invented statistics, no real-person likeness, no 1:1 copies of competitor visuals (own colours/geometry, own wording).

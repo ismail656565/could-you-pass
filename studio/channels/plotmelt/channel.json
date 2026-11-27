@@ -2,9 +2,10 @@
   "name": "PlotMelt",
   "enabled": true,
   "voice": "am_puck",
-  "shorts_per_day": 1,
+  "shorts_per_day": 2,
   "slots": [
-    "15:30"
+    "15:30",
+    "20:30"
   ],
   "warn_below": 3,
   "category": 24,

@@ -1,25 +1,27 @@
-# Plan 2026-11-26
+# Plan 2026-11-27
 
-Data: "He Bought a $50 Couch. Something Was Living In It." 1,345 views (98 % avg viewed) and "A Cat Kept Leaving Him Keys. Then He Found the Door." 1,225 (was 196 on day 1) = two hits in a row. Robot vacuum (first-person) + 3 AM pizza no data yet; smart-fridge long 0.
-What works: everyday thing + strange repeated behaviour/purchase + mystery in two short sentences, 22–30 s, twist reveal at the end. This is now the PROVEN formula (2 of 3 shorts).
-Competitors: Zealot gKYMcV4AbPg "When you start feeding your pet power ups" (10.8×, 2.4M), kcUGWzLT8KE (3×) = meme caption in a white top band, bold black text 3–4 lines, bright flat cartoon below (thumbnail checked). Our version = 006 "When…" experiment (own characters only).
+Data: 3 of 3 measurable shorts are hits – Couch 1,345 (109.8 % viewed = loops), Robot vacuum (first-person) 1,245 after 1 day, Cat keys 1,229. 3 AM pizza (27.11.) + Old photo (28.11.) not live yet. Smart-fridge long 0.
+What works: everyday thing/pet + strange REPEATED behaviour + "Then I/he found…" mystery, cosy-weird twist, 20–25 s, loop ending. First-person ("My…") works as well as "He…" → both allowed.
+Competitors: Zealot gKYMcV4AbPg (11.9×, 2.6M), kMTl5i3RjOM (3.4×), b4UqwfGEZdg (3.1×) – thumbnails checked: white top band with bold black 3–4-line "When…" caption, flat bright cartoon below, one shocked face. Our "When…" test = 006-dragon-weakness (queued).
+DECISION: shorts_per_day 1 → 2 (slots 15:30 + 20:30). Writers: write 2 episodes per run for plotmelt while the queue is < 4.
 
 ## Rules
-- Exploit format (2 of 3): tiny original story, 25–35 s, max ~80 words, one location, one main character, twist in the final 5 s, last frame loops to the first. Hook = the strange detail immediately; line 2 = a second, stranger detail. Title: two short sentences, setup + unease (≤ 60 chars).
-- NEW experiment format "When…" meme caption (1 of 3): title = caption "When [relatable/game/fantasy situation with a twist]" (no #shorts emoji spam). ENGINE: caption card supports multi-line text now – cards=[dict(at=0, until='END', text='When the dragon\nhas one weakness', font='AlfaSlabOne-400', size=78, paper=(255,255,255), ink=(20,20,20), tape=False, x=540, y=230, rot=0)]. Paint the TOP ~22 % of every plate plain (x,y of cards are 1080×1920 screen coordinates; camera must not zoom so far that art moves under the caption) (no objects/text there) so the caption never covers art. 15–25 s, 3–5 short narrated lines max, gag escalates 3 times, punchline visual + stamp.
-- First frame: character's shocked face next to the object (inked cartoon) + card with 2–4 words ("IT MOVED.") – or the meme caption for "When…" episodes.
-- Style: inked cartoon, bold outlines, 2–3 colours per scene, big expressions. Stories original, no known characters/brands/games.
-- Long videos: meta.json "thumb" = 2–4 huge words ≠ title ("IT WAS ALIVE"), shot = character face + object close-up.
+- Exploit format (≈70 %): tiny original story, 20–30 s, max ~75 words, one location, one main character (or "I"), strange repeated detail in line 1, stranger detail in line 2, twist in the final 5 s, last frame loops to the first. Title: two short sentences, setup + unease (≤ 60 chars), "He…" or "My…".
+- Experiment "When…" meme caption (≈30 %): cards=[dict(at=0, until='END', text='When the dragon\nhas one weakness', font='AlfaSlabOne-400', size=78, paper=(255,255,255), ink=(20,20,20), tape=False, x=540, y=230, rot=0)]; keep the top ~22 % of every plate empty; 15–25 s, gag escalates 3×, punchline stamp.
+- First frame: character's shocked face next to the object + card with 2–4 words ("IT MOVED."), or the meme caption.
+- Style: inked cartoon, bold outlines, 2–3 colours per scene, big expressions. Stories original; no known characters/brands/games.
+- Long thumbs: meta.json "thumb" 2–4 huge words ≠ title ("IT WAS ALIVE"), shot = face + object close-up.
 
-## Next 3 episodes (after 005-old-photo)
-1. 006-dragon-weakness – EXPERIMENT "When…" caption: "When the Dragon Has One Weird Weakness". (written: 006-dragon-weakness) Top caption: "When the dragon\nhas ONE weakness". Lines: "The knight tried fire." / "He tried swords. Arrows. A catapult." / "Then the dragon saw it… a tiny spider." Punchline: the giant dragon on a chair, screaming; stamp "WEAKNESS FOUND". Why: competitor Zealot gKYMcV4AbPg pattern (own story).
-2. 007-dog-wall – EXPLOIT (pet + repeated strange behaviour, like cat-keys): "His Dog Stared at One Wall for a Week. Then He Opened It. #shorts". Hook: "For seven days, his dog stared at the same spot on the wall." L2: "It didn't bark. It just sniffed – and wagged." Then: "He knocked. Something knocked back – very softly." Twist: behind the plaster, a tiny mouse bakery with lights and fresh bread; last line: "The dog had smelled the bread all week." Loop: last frame = dog staring at the wall again. Cosy, not horror. Why: exploit of 002 (1,225) + 001 (1,345).
-3. 008-cheap-plumber – "He Hired the Cheapest Plumber in Town. Big Mistake. #shorts". Hook: "The plumber cost five dollars. He brought a spoon." L2: "Then he said: 'Stand back.'" Escalation: water everywhere → fish in the kitchen; twist: plumber leaves, the leak is fixed – the house is now an aquarium. Why: vidIQ "friend fixes the leak" pattern (1.7M), own story.
+## Next 3 episodes (after 006-dragon-weakness)
+1. 007-dog-wall – EXPLOIT: "His Dog Stared at One Wall for a Week. Then He Opened It. #shorts". Hook: "For seven days, his dog stared at the same spot on the wall." L2: "It didn't bark. It just sniffed – and wagged." Then: "He knocked. Something knocked back – very softly." Twist: behind the plaster, a tiny mouse bakery with lights and fresh bread; last: "The dog had smelled the bread all week." Loop: dog staring at the wall again. Cosy, not horror.
+2. 008-printer-notes – EXPLOIT first-person: "My Printer Prints One Page Every Night. I Read It. #shorts". Hook: "Every night at 3:12, my printer prints one page." L2: "Nobody's connected. It's not even plugged in." Then: page 1 "Hi.", page 7 "Buy milk.", page 30 a perfect drawing of me asleep. Twist: I unplug the wall too – it prints: "Fine. Then I'll walk." (printer slowly scoots toward the bedroom, comic not scary: tiny paper feet). Loop.
+3. 009-cheap-plumber – "He Hired the Cheapest Plumber in Town. Big Mistake. #shorts". Hook: "The plumber cost five dollars. He brought a spoon." L2: "Then he said: 'Stand back.'" Escalation: water everywhere → fish in the kitchen; twist: leak fixed – the house is now an aquarium. (vidIQ "friend fixes the leak" 1.7M pattern, own story)
 
 ## Experiments
-- EXPLOIT confirmed 26.11.: "[Pet/thing] kept [strange act]. Then he found …" (Couch 1,345, Cat keys 1,225).
-- First-person titles (003 robot vacuum) – verdict 02.12.; only continue if ≥ median.
-- "When…" meme caption format (006) – verdict after 7 days; if ≥ Couch level, make it a weekly series.
+- EXPLOIT confirmed: "[pet/thing] kept doing X. Then…" (Couch 1,345, Cat 1,229, Vacuum 1,245).
+- Verdict 27.11.: first-person titles ✔ (1,245 day 1) → allowed in exploit.
+- Running: "When…" caption (006), surreal time-loop stories (004 pizza, 005 photo) – verdict 7 days after publish; stop a type after 3 below ~1,000.
+- New: 2 shorts/day – check 04.12. that per-video views don't halve.
 
 ## Do not
-- No horror/gore, no romance drama, no real brands/games/known characters, no copied plots or Zealot gags (no pet power-ups, no boss joining the party), no captions over painted text.
+- No horror/gore, no romance drama, no real brands/games/known characters, no copied plots or Zealot gags (pet power-ups, boss joining the party, NPC beating the boss), no captions over painted text.

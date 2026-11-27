@@ -1,7 +1,8 @@
-# Plan 2026-11-26
+# Plan 2026-11-27
 
 Data (median ~890): gaming history still best (tetris 1,932, nintendosony 1,774, gameboy 1,642). Greenland shark 388 (43 % stayed), space animals 175 – single-animal stories below median. Production PAUSED (owner reviewing the new motion look) – plan stays ready.
 Retention: every curve loses most at 4.5–6.7 s = beat 2.
+Status 27.11.: still PAUSED, no new uploads; plan unchanged and ready. New competitor signal: The Wildest Dose dP0-jKtFhzY "What is THAT?!" (19.9×, 1.27M) and E. FRANK fSIlQncWQ2k "5 Animals That Actually Hunt Humans" (9.8×) – thumbnail checked: real animal face (shoebill) huge, centred, one-word label ("HUMAN") → hero visual with one-word label from frame 0.
 Competitors: E. FRANK iykYjcSycNg "5 Extinct Animals Scientists Are Bringing Back 😨" (28×, 8.6M), j7MMYEKv9g4 (17×), 3CRpIIT5Uvs (14×) = LIST of 5 with one huge animal close-up per item; The Wildest Dose dP0-jKtFhzY "What is THAT?!" (18×) = one bizarre creature on plain background (thumbnail checked).
 
 ## Rules
