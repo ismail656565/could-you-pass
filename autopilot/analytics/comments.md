@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-27 21:56
+# Zuschauer-Kommentare – Stand 2026-11-27 23:31
 
-Letzte 21 Tage, ohne unsere eigenen. 46 Kommentare, 4 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 47 Kommentare, 4 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Real or Fake Flag? #2 Can You Spot All 4? 🧐 #shorts | 4/4 |
 | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 3/4 |
 | Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #shorts | 4/5 |
 | Flag Quiz #5: Which One Is Liberia? The Last One Is Brutal 🌍 | 4/4 |
@@ -40,8 +41,10 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (21)
+## SCORE (22)
 
+- 2026-11-27 · Real or Fake Flag? #2 Can You Spot All 4? 🧐 #short · @letter-E123 · id `UgyiIMhMYJzdST8fDfh4AaABAg`  
+  „4/4“
 - 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @seynaboudiokhane3442 · id `UgxrBgA-pN-ojjkhFyF4AaABAg`  
   „3/4“
 - 2026-11-27 · Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #s · @JoannSison-y8i **[OFFEN]** · id `UgyKPkGQ9GrqyBkvQal4AaABAg`  
