@@ -321,7 +321,7 @@ class Film:
             bump = 0.18 if self.counter_n(t - 0.15) != n9 else 0
             paste_rot(im, ci, X(c.get('x', 300)), Y(c.get('y', 300)), c.get('rot', -4), (1 + bump) * k_)
         for s in self.stamps:
-            if t >= s['t']:
+            if t >= s['t'] and ('until' not in s or t < self.cue(s['until'])):
                 k = eo((t - s['t']) / 0.16)
                 paste_rot(im, s['img'], X(s['x']), Y(s['y']), s.get('rot', 0), (1.9 - 0.9 * k) * k_, min(1, k * 1.4))
         self.captions(im, t)
