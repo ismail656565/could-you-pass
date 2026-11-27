@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-27T17:29",
+ "fetched": "2026-11-27T19:50",
  "channel": "COULD YOU PASS?",
- "subscribers": "78",
+ "subscribers": "79",
  "audience": {
   "countries": [
    {
@@ -141,7 +141,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 28,
-   "publicViews": "934",
+   "publicViews": "1348",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -165,7 +165,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 30,
-   "publicViews": "1604",
+   "publicViews": "2334",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 30,
-   "publicViews": "1604",
+   "publicViews": "1671",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 29,
-   "publicViews": "2020",
+   "publicViews": "2193",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -285,7 +285,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 662,
-   "publicViews": "29",
+   "publicViews": "40",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -309,7 +309,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 29,
-   "publicViews": "2997",
+   "publicViews": "3171",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -872,7 +872,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "997",
+   "publicViews": "999",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -911,7 +911,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 35,
-   "publicViews": "1140",
+   "publicViews": "1141",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1024,7 +1024,7 @@
     "NO_LINK_OTHER": 0
    },
    "durationSec": 34,
-   "publicViews": "2767",
+   "publicViews": "2774",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,

@@ -1,15 +1,15 @@
-# Scoreboard – Stand 2026-11-27T17:29 (78 Abos)
+# Scoreboard – Stand 2026-11-27T19:50 (79 Abos)
 
 Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind). Views = öffentliche Aufrufe (live); stayed/angesehen/Abos aus YouTube Analytics (2–3 Tage Verzug).
 
-## Shorts (68 Videos)
+## Shorts (69 Videos)
 
 ### Shorts nach Format
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 3 Fragen | 4 | 2019 | 1954 | 3843 | 54.9 | 78.6 | 33.0 |
-| Karten-VS (TrueSize) | 8 | 933 | 1008 | 1205 | 50.2 | 78.0 | 2.0 |
+| 3 Fragen | 5 | 2251 | 2774 | 3843 | 54.9 | 78.6 | 33.0 |
+| Karten-VS (TrueSize) | 8 | 933 | 1009 | 1205 | 50.2 | 78.0 | 2.0 |
 | Ersatz-Generator (1 Frage) | 5 | 700 | 622 | 1208 | 38.1 | 145.1 | 0 |
 | 1-Frage-Ego-Hook | 7 | 459 | 432 | 866 | 43.3 | 90.5 | 2.0 |
 | VS-Vergleich | 11 | 493 | 393 | 1189 | 49.6 | 62.3 | 5.0 |
@@ -27,8 +27,8 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 | WHO HAS MORE PEOPLE? | 1 | 1189 | 1189 | 1189 | 61.4 | 60.6 | 2.0 |
 | CAPITAL CITIES | 1 | 1068 | 1068 | 1068 | 56.5 | 54.1 | 1.0 |
 | CAPITALS QUIZ | 1 | 1054 | 1054 | 1054 | 52.8 | 71.3 | 2.0 |
+| – | 12 | 1533 | 1045 | 3843 | 51.9 | 79.5 | 35.0 |
 | GEOGRAPHY TRIVIA | 1 | 1040 | 1040 | 1040 | 46.1 | 61.9 | 0 |
-| – | 11 | 1383 | 1021 | 3843 | 51.9 | 79.5 | 35.0 |
 | IQ QUIZ | 1 | 1021 | 1021 | 1021 | 53.9 | 60.7 | 1.0 |
 | QUICK FIRE GEOGRAPHY | 1 | 996 | 996 | 996 | 49.1 | 45.6 | 2.0 |
 | TRICKY QUIZ | 1 | 953 | 953 | 953 | 51.0 | 69.0 | 1.0 |
@@ -67,7 +67,7 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| comic | 11 | 1383 | 1021 | 3843 | 51.9 | 79.5 | 35.0 |
+| comic | 12 | 1533 | 1045 | 3843 | 51.9 | 79.5 | 35.0 |
 | tvshow | 31 | 576 | 454 | 1223 | 52.7 | 69.2 | 13.0 |
 | neon | 7 | 417 | 327 | 1033 | 43.5 | 117.9 | 0 |
 | stick | 2 | 314 | 314 | 393 | 55.9 | 56.2 | 0 |
@@ -78,28 +78,28 @@ Automatisch aus queue/done + report.json (nur Videos, die ≥ 2 Tage online sind
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| world-trip.wav | 21 | 592 | 558 | 1205 | 51.2 | 69.7 | 6.0 |
-| game-show.wav | 33 | 780 | 484 | 3843 | 50.1 | 66.4 | 47.0 |
+| world-trip.wav | 21 | 593 | 558 | 1205 | 51.2 | 69.7 | 6.0 |
+| game-show.wav | 34 | 850 | 553 | 3843 | 50.1 | 66.4 | 47.0 |
 | brain-pulse.wav | 14 | 401 | 314 | 1092 | 48.2 | 85.8 | 3.0 |
 
 ### Shorts nach Sendezeit
 
 | Gruppe | Videos | Ø Views | Median | Bestes | Ø stayed % | Ø angesehen % | Abos |
 |---|---|---|---|---|---|---|---|
-| 16:00 | 33 | 733 | 432 | 3843 | 49.2 | 67.4 | 47.0 |
-| 21:00 | 34 | 567 | 406 | 1205 | 51.4 | 68.4 | 9.0 |
+| 16:00 | 33 | 734 | 432 | 3843 | 49.2 | 67.4 | 47.0 |
+| 21:00 | 35 | 641 | 418 | 3171 | 51.4 | 68.4 | 9.0 |
 | 10:00 | 1 | 316 | 316 | 316 | 34.5 | 290.6 | 0 |
 
 ### Top 8 Shorts
 
 - 3843 Views · stayed 0.558 · 3 Fragen · comic · game-show.wav · Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts
-- 2767 Views · stayed 0.551 · 3 Fragen · comic · game-show.wav · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts
+- 3171 Views · stayed – · 3 Fragen · comic · game-show.wav · Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts
+- 2774 Views · stayed 0.551 · 3 Fragen · comic · game-show.wav · Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts
 - 1556 Views · stayed 0.451 · 6+ Fragen · atlas · game-show.wav · Only Geniuses Get 6/6 🧠 Tricky Trivia Quiz #shorts
 - 1223 Views · stayed 0.535 · 6+ Fragen · tvshow · game-show.wav · Only Geniuses Get 6/6 🧠 Trivia Challenge Quiz #shorts
 - 1208 Views · stayed 0.44 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer: What is the smallest prime number? 🤯 #shorts
 - 1205 Views · stayed 0.519 · Karten-VS (TrueSize) · comic · world-trip.wav · This Map Is Lying To You #6 🌍 Which Is REALLY Bigger? #shorts
 - 1189 Views · stayed 0.614 · VS-Vergleich · tvshow · world-trip.wav · Which Has More People? 4 Rounds 90% Get Wrong 👥 #shorts
-- 1161 Views · stayed 0.382 · Ersatz-Generator (1 Frage) · tvshow · game-show.wav · Can You Answer This Quiz Question? 🤯 #2 #shorts
 
 ### Flop 5 Shorts
 
