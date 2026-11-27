@@ -886,3 +886,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Missing Symbol = flagduel-Renderer wie Real or Fake; Fälschung = echte Flagge ohne Wappen/Symbol (public/flags/fake/). Nur Flaggen, deren symbolfreie Version KEINE echte Flagge ist (verboten: Mexiko≈Italien, Spanien/Guatemala/Argentinien/Haiti/Costa Rica/Dom. Rep. = echte Zivilflaggen, Libanon≈Österreich, Paraguay≈Niederlande, Kanada≈Peru, Ecuador≈Kolumbien, Albanien/China/Vietnam/Japan = einfarbig, Israel/Saudi-Arabien sensibel).
 - Fakes benutzt (Missing Symbol): pt ke kh kz ug bb cy mt bt pg mn sz.
 - Verdict nach 7 Tagen (03.12.): Bleibt der Median Views pro Short ≥ Median der 2-Shorts-Woche, bleiben es 3; fällt er um > 30 %, zurück auf 2.
+
+## 2026-11-27 – Research
+- KPI: 59 Abos / 43.797 Analytics-Views = 1,35 pro 1.000 (Vortag 1,23); Kanal 61 Abos (+6 in 1 T). Flag Duel #1–#3 4,4/1k (33/7.475), #4 1.516 n. ≈1 T, Real or Fake #1 2.464.
+- **Bug (behoben):** Mit 3 Short-Slots zog der Abendlauf 26.11. flag-duel-5 (Datei 27.11.) vor → 26.11. 17:47 sofort öffentlich, 27.11. 16:00 leer. Fix `queue_due()`: Queue-Dateien erst an ihrem Datum. Dateiname = Sendetag ist Pflicht.
+- E14b Rätsel-Long #2 (exam, Text) ✗: 29 Views n. 3 T, Ø 24,8 % → keine Text-Rätsel-Longs mehr; Flag Blitz Sa ist der Long-Test.
+- 14 von 18 gemeldeten Scores 4/4 → LEGEND-Runden nur echte Doppelgänger (Cuba/Puerto Rico, Andorra/Moldova). Konkurrenz: Quiz Magnet „50 Old Items in 7 Seconds“ 1,18 Mio (142×) bestätigt Zeitlimit-Long-Muster.
+- Kommentare 2 offen → 1 beantwortet + Nachfass @Pirl1776, 1 Spam übersprungen; kein Faktenfehler.
