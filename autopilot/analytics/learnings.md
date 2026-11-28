@@ -912,3 +912,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Thumbnails: CTR per API weiter HttpError 400 → keine neuen Zahlen.
 - **Monaco/Indonesia ist in flag-icons pixelgleich (beide 4:3, gleiche Farben)** → als Duel unlösbar, nie verwenden. Flag Duel #9 LEGEND = Jordan/Sudan. Gleiches gilt für alle Paare, die sich nur im Seitenverhältnis unterscheiden.
 - Neue Fakes (public/flags/fake/): lk bz zm me ls vu dm mw (Symbol weg) · gb-sct jm th ae la gh np kz-mirror (Real or Fake). Alle gerendert und geprüft, keiner ist eine echte Landesflagge. Nepal-Fake: Pfad-Teilstück nach `z` braucht explizites `l` beim Umschreiben von relativ auf absolut.
+
+## 2026-11-28 09:45 – MEILENSTEIN 100 Abos (Besitzer-Screenshot) – neues Ziel
+- 100 Abos erreicht, 33 Tage vor dem Ziel 31.12. (79 → 100 in ≈14 h). 28 T: 44,6k Views, 206 Watch-Std.
+- Missing Symbol #1 **5,7k Views n. 21 h 46**, 85 Likes (1,5 %), 9 Kommentare = stärkster Short des Kanals. Flag Duel #6 3,7k n. 17 h 46 (33 Likes). Real or Fake #3 1,2k n. 12 h 46 (19 Likes = 1,6 %).
+- **Neue Ziel-Leiter:** 300 Abos bis 31.12., 500 Abos bis 31.01. (Fan-Funding-Stufe braucht zusätzlich 3 Mio. Shorts-Views in 90 T). KPI Abos/1.000 bleibt (Ziel ≥ 2,0).
+- Folge: Missing Symbol hat Vorrang (stärkster Start). Wenn #2/#3 n. 24 h ≥ 3.000, zweite Missing-Symbol-Folge statt Real or Fake an Tagen, an denen Real or Fake < 1.500 n. 24 h liegt.
