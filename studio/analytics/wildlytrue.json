@@ -3,7 +3,7 @@
  "name": "WILDLY TRUE",
  "checked": "2026-11-27",
  "subs": 50,
- "views": 76561,
+ "views": 76573,
  "videos": [
   {
    "id": "PidNeOcugUM",
@@ -13,27 +13,27 @@
    "views": 175,
    "likes": 3,
    "comments": 1,
-   "a_views": 172,
-   "engaged": 54,
-   "avgPct": 50.5,
+   "a_views": 176,
+   "engaged": 55,
+   "avgPct": 49.9,
    "avgSec": 15,
    "subs": 0,
-   "stayed": 31.4
+   "stayed": 31.2
   },
   {
    "id": "jgP2jPmLKac",
    "title": "This Shark Can Live Almost 400 Years 🦈 #shorts",
    "published": "2026-11-23T17:00:20Z",
    "seconds": 30,
-   "views": 391,
+   "views": 392,
    "likes": 3,
    "comments": 1,
-   "a_views": 388,
-   "engaged": 179,
-   "avgPct": 53,
+   "a_views": 391,
+   "engaged": 181,
+   "avgPct": 53.3,
    "avgSec": 15,
    "subs": 1,
-   "stayed": 46.1
+   "stayed": 46.3
   },
   {
    "id": "IqxlukzcrGk",
@@ -70,15 +70,15 @@
    "title": "This Bridge Collapsed. The Only Victim Was a Dog. #shorts",
    "published": "2026-10-15T19:01:24Z",
    "seconds": 27,
-   "views": 72,
+   "views": 75,
    "likes": 1,
    "comments": 1,
-   "a_views": 29,
-   "engaged": 18,
-   "avgPct": 82.3,
-   "avgSec": 22,
+   "a_views": 38,
+   "engaged": 23,
+   "avgPct": 80.7,
+   "avgSec": 21,
    "subs": 0,
-   "stayed": 62.1
+   "stayed": 60.5
   },
   {
    "id": "Jkne5L7h4VA",
@@ -193,9 +193,9 @@
    "views": 1213,
    "likes": 20,
    "comments": 0,
-   "a_views": 1209,
-   "engaged": 504,
-   "avgPct": 46.3,
+   "a_views": 1210,
+   "engaged": 505,
+   "avgPct": 46.4,
    "avgSec": 14,
    "subs": 0,
    "stayed": 41.7
@@ -298,12 +298,12 @@
    "views": 1667,
    "likes": 20,
    "comments": 0,
-   "a_views": 1666,
+   "a_views": 1667,
    "engaged": 931,
    "avgPct": 72.6,
    "avgSec": 29,
    "subs": 3,
-   "stayed": 55.9
+   "stayed": 55.8
   },
   {
    "id": "xIM9ud2KLjU",
@@ -643,12 +643,12 @@
    "views": 1037,
    "likes": 11,
    "comments": 0,
-   "a_views": 1034,
-   "engaged": 411,
-   "avgPct": 70.1,
+   "a_views": 1036,
+   "engaged": 412,
+   "avgPct": 70.0,
    "avgSec": 19,
    "subs": 0,
-   "stayed": 39.7
+   "stayed": 39.8
   },
   {
    "id": "lgxqCDj_tX8",
@@ -787,7 +787,7 @@
    "views": 1207,
    "likes": 10,
    "comments": 0,
-   "a_views": 1206,
+   "a_views": 1207,
    "engaged": 539,
    "avgPct": 130.9,
    "avgSec": 35,

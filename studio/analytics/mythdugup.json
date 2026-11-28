@@ -3,8 +3,17 @@
  "name": "Myth Dug Up",
  "checked": "2026-11-27",
  "subs": 1,
- "views": 1687,
+ "views": 1697,
  "videos": [
+  {
+   "id": "6ck1ghenS3M",
+   "title": "SpaceX Got Approval for 1 Million Satellites. It Has 11,000. #shorts",
+   "published": "2026-11-27T18:30:12Z",
+   "seconds": 41,
+   "views": 46,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "JSldcnKE8O8",
    "title": "Huawei Found Guilty in Brooklyn: The 8-Year Case, the Arrested CFO and the Charge That Failed",
@@ -24,20 +33,11 @@
    "comments": 0
   },
   {
-   "id": "6ck1ghenS3M",
-   "title": "SpaceX Got Approval for 1 Million Satellites. It Has 11,000. #shorts",
-   "published": "2026-11-27T13:12:46Z",
-   "seconds": 41,
-   "views": 0,
-   "likes": 0,
-   "comments": 0
-  },
-  {
    "id": "nktsL-UuUiw",
    "title": "Tidal Is Deleting 29 Million AI Songs. Spotify Isn't. #shorts",
    "published": "2026-11-27T12:00:27Z",
    "seconds": 38,
-   "views": 12,
+   "views": 30,
    "likes": 0,
    "comments": 0
   },
@@ -46,7 +46,7 @@
    "title": "Huawei Was Just Found Guilty in a U.S. Court. 10 of 12 Counts. #shorts",
    "published": "2026-11-26T18:30:18Z",
    "seconds": 41,
-   "views": 38,
+   "views": 47,
    "likes": 2,
    "comments": 0
   },
@@ -64,7 +64,7 @@
    "title": "CrowdStrike Is Buying Its Rival Zscaler for $43.9 Billion #shorts",
    "published": "2026-11-26T12:00:14Z",
    "seconds": 38,
-   "views": 12,
+   "views": 11,
    "likes": 0,
    "comments": 0
   },
@@ -73,9 +73,15 @@
    "title": "Senegal Lost Its Africa Cup Title. A Court Just Gave It Back. #shorts",
    "published": "2026-11-25T18:30:29Z",
    "seconds": 36,
-   "views": 71,
+   "views": 77,
    "likes": 1,
-   "comments": 0
+   "comments": 0,
+   "a_views": 38,
+   "engaged": 8,
+   "avgPct": 47.7,
+   "avgSec": 17,
+   "subs": 0,
+   "stayed": 21.1
   },
   {
    "id": "fp_wSKPhn9o",
@@ -84,7 +90,13 @@
    "seconds": 38,
    "views": 105,
    "likes": 0,
-   "comments": 0
+   "comments": 0,
+   "a_views": 101,
+   "engaged": 39,
+   "avgPct": 56.8,
+   "avgSec": 21,
+   "subs": 0,
+   "stayed": 38.6
   },
   {
    "id": "lBzdHmHiUws",
@@ -94,12 +106,12 @@
    "views": 149,
    "likes": 3,
    "comments": 0,
-   "a_views": 122,
-   "engaged": 51,
-   "avgPct": 138.8,
-   "avgSec": 61,
+   "a_views": 144,
+   "engaged": 61,
+   "avgPct": 123.3,
+   "avgSec": 54,
    "subs": 0,
-   "stayed": 41.8
+   "stayed": 42.4
   },
   {
    "id": "_nfmqmTdKoQ",
@@ -109,12 +121,12 @@
    "views": 69,
    "likes": 0,
    "comments": 0,
-   "a_views": 50,
-   "engaged": 21,
-   "avgPct": 49.3,
-   "avgSec": 21,
+   "a_views": 69,
+   "engaged": 27,
+   "avgPct": 52.2,
+   "avgSec": 22,
    "subs": 0,
-   "stayed": 42.0
+   "stayed": 39.1
   },
   {
    "id": "6kdKeaOFlwQ",
@@ -139,12 +151,12 @@
    "views": 913,
    "likes": 5,
    "comments": 0,
-   "a_views": 909,
-   "engaged": 444,
-   "avgPct": 91.7,
+   "a_views": 915,
+   "engaged": 446,
+   "avgPct": 91.6,
    "avgSec": 30,
    "subs": 0,
-   "stayed": 48.8
+   "stayed": 48.7
   },
   {
    "id": "azS-3-N5UGU",

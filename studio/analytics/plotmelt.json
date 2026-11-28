@@ -2,9 +2,18 @@
  "id": "plotmelt",
  "name": "PlotMelt",
  "checked": "2026-11-27",
- "subs": 5,
- "views": 3767,
+ "subs": 6,
+ "views": 3806,
  "videos": [
+  {
+   "id": "lTN6n96KKGw",
+   "title": "He Ordered Pizza at 3 AM. He Delivered It. #shorts",
+   "published": "2026-11-27T14:30:30Z",
+   "seconds": 24,
+   "views": 413,
+   "likes": 7,
+   "comments": 0
+  },
   {
    "id": "uENUief8Xak",
    "title": "He Found His Face in a 100-Year-Old Photo. #shorts",
@@ -19,17 +28,8 @@
    "title": "My Robot Vacuum Avoids One Spot. I Finally Checked. #shorts",
    "published": "2026-11-26T14:30:38Z",
    "seconds": 23,
-   "views": 1245,
+   "views": 1258,
    "likes": 7,
-   "comments": 0
-  },
-  {
-   "id": "lTN6n96KKGw",
-   "title": "He Ordered Pizza at 3 AM. He Delivered It. #shorts",
-   "published": "2026-11-26T13:16:40Z",
-   "seconds": 24,
-   "views": 0,
-   "likes": 0,
    "comments": 0
   },
   {
@@ -37,9 +37,15 @@
    "title": "A Cat Kept Leaving Him Keys. Then He Found the Door. #shorts",
    "published": "2026-11-25T14:30:37Z",
    "seconds": 23,
-   "views": 1229,
+   "views": 1239,
    "likes": 17,
-   "comments": 1
+   "comments": 1,
+   "a_views": 1225,
+   "engaged": 493,
+   "avgPct": 82.8,
+   "avgSec": 19,
+   "subs": 2,
+   "stayed": 40.2
   },
   {
    "id": "lqZh-0CHU9Q",
@@ -49,12 +55,12 @@
    "views": 1345,
    "likes": 18,
    "comments": 0,
-   "a_views": 1118,
-   "engaged": 480,
-   "avgPct": 109.8,
-   "avgSec": 20,
+   "a_views": 1358,
+   "engaged": 592,
+   "avgPct": 102.6,
+   "avgSec": 19,
    "subs": 1,
-   "stayed": 42.9
+   "stayed": 43.6
   },
   {
    "id": "l9zaJ9YEhOE",
@@ -82,12 +88,12 @@
    "views": 9,
    "likes": 0,
    "comments": 0,
-   "a_views": 5,
-   "engaged": 0,
-   "avgPct": 0,
-   "avgSec": 0,
+   "a_views": 9,
+   "engaged": 1,
+   "avgPct": 34.9,
+   "avgSec": 23,
    "subs": 0,
-   "stayed": 0.0
+   "stayed": 11.1
   }
  ]
 }

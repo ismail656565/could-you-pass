@@ -3,14 +3,14 @@
  "name": "HiddenFrontlines",
  "checked": "2026-11-27",
  "subs": 1,
- "views": 606,
+ "views": 623,
  "videos": [
   {
    "id": "bI9VWGwRgvQ",
    "title": "Britain Built a Rocket Wheel Bomb. It Went Out of Control. #shorts",
-   "published": "2026-11-27T13:10:20Z",
+   "published": "2026-11-27T17:30:13Z",
    "seconds": 31,
-   "views": 0,
+   "views": 20,
    "likes": 0,
    "comments": 0
   },
@@ -19,8 +19,8 @@
    "title": "The US Trained Pigeons to Steer Missiles. They Were Good. #shorts",
    "published": "2026-11-26T17:30:13Z",
    "seconds": 28,
-   "views": 17,
-   "likes": 0,
+   "views": 26,
+   "likes": 2,
    "comments": 0
   },
   {
@@ -30,7 +30,13 @@
    "seconds": 35,
    "views": 61,
    "likes": 1,
-   "comments": 0
+   "comments": 0,
+   "a_views": 38,
+   "engaged": 5,
+   "avgPct": 94.1,
+   "avgSec": 32,
+   "subs": 0,
+   "stayed": 13.2
   },
   {
    "id": "xR9toM7ZSSA",
@@ -40,12 +46,12 @@
    "views": 420,
    "likes": 5,
    "comments": 0,
-   "a_views": 88,
-   "engaged": 20,
-   "avgPct": 60.2,
-   "avgSec": 20,
+   "a_views": 316,
+   "engaged": 87,
+   "avgPct": 44.8,
+   "avgSec": 15,
    "subs": 0,
-   "stayed": 22.7
+   "stayed": 27.5
   },
   {
    "id": "qakhexcTOxI",
@@ -55,12 +61,12 @@
    "views": 105,
    "likes": 1,
    "comments": 0,
-   "a_views": 60,
-   "engaged": 6,
-   "avgPct": 29.7,
-   "avgSec": 8,
+   "a_views": 105,
+   "engaged": 24,
+   "avgPct": 36.5,
+   "avgSec": 10,
    "subs": 0,
-   "stayed": 10.0
+   "stayed": 22.9
   },
   {
    "id": "5d75kaUXnF8",

@@ -3,102 +3,205 @@
   "id": "xR9toM7ZSSA",
   "title": "Britain Tried to Build an Aircraft Carrier Out of Ice #shorts",
   "views": 420,
-  "start": 125,
-  "at3s": 110,
-  "mid": 55,
-  "end": 30,
+  "start": 116,
+  "at3s": 105,
+  "mid": 30,
+  "end": 18,
   "cliffs": [
    {
-    "sec": 4.3,
-    "drop": 10.0,
-    "said": "Satz 1: „…The idea came from Geoffrey Pyke:…“"
+    "sec": 5.0,
+    "drop": 8.0,
+    "said": "Satz 1: „…idea came from Geoffrey Pyke: freeze water…“"
    },
    {
-    "sec": 25.1,
-    "drop": 10.0,
-    "said": "Satz 4: „…enormous resources. By the end of nineteen…“"
+    "sec": 8.0,
+    "drop": 3.5,
+    "said": "Satz 1: „…wood pulp. They called it pykrete.…“"
    }
   ],
   "curve": [
    [
     0.3,
-    125
+    116
    ],
    [
     2.0,
-    120
+    108
    ],
    [
     3.7,
-    110
+    105
    ],
    [
     5.3,
-    80
+    82
    ],
    [
     7.0,
-    70
+    68
    ],
    [
     8.7,
-    70
+    59
    ],
    [
     10.4,
-    70
+    52
    ],
    [
     12.0,
-    65
+    45
    ],
    [
     13.7,
-    65
+    43
    ],
    [
     15.4,
-    65
+    36
    ],
    [
     17.0,
-    55
+    30
    ],
    [
     18.7,
-    55
+    29
    ],
    [
     20.4,
-    55
+    29
    ],
    [
     22.1,
-    55
+    29
    ],
    [
     23.7,
-    50
+    28
    ],
    [
     25.4,
-    40
+    25
    ],
    [
     27.1,
-    30
+    23
    ],
    [
     28.7,
-    30
+    22
    ],
    [
     30.4,
-    30
+    20
    ],
    [
     32.1,
-    30
+    18
+   ]
+  ]
+ },
+ {
+  "id": "qakhexcTOxI",
+  "title": "The US Army Fought With Rubber Tanks. It Worked. #shorts",
+  "views": 105,
+  "start": 104,
+  "at3s": 100,
+  "mid": 29,
+  "end": 8,
+  "cliffs": [
+   {
+    "sec": 4.9,
+    "drop": 16.7,
+    "said": ""
+   },
+   {
+    "sec": 9.0,
+    "drop": 8.3,
+    "said": ""
+   }
+  ],
+  "curve": [
+   [
+    0.3,
+    104
+   ],
+   [
+    1.7,
+    100
+   ],
+   [
+    3.2,
+    100
+   ],
+   [
+    4.6,
+    88
+   ],
+   [
+    6.1,
+    58
+   ],
+   [
+    7.5,
+    54
+   ],
+   [
+    9.0,
+    42
+   ],
+   [
+    10.4,
+    33
+   ],
+   [
+    11.9,
+    33
+   ],
+   [
+    13.3,
+    33
+   ],
+   [
+    14.8,
+    29
+   ],
+   [
+    16.2,
+    25
+   ],
+   [
+    17.7,
+    17
+   ],
+   [
+    19.1,
+    12
+   ],
+   [
+    20.6,
+    8
+   ],
+   [
+    22.0,
+    8
+   ],
+   [
+    23.5,
+    8
+   ],
+   [
+    24.9,
+    8
+   ],
+   [
+    26.4,
+    8
+   ],
+   [
+    27.8,
+    8
    ]
   ]
  }
