@@ -50,7 +50,15 @@
     "lines": {
      "q": "Who is Japan? Left, or right?",
      "a": "Right! White with a red sun."
-    }
+    },
+    "start": 0.0,
+    "qAudio": "audio/flag-duel-7/q1.mp3",
+    "aAudio": "audio/flag-duel-7/a1.mp3",
+    "thinkStart": 1.8,
+    "reveal": 4.4,
+    "moveEnd": 5.1,
+    "aStart": 4.95,
+    "end": 6.9
    },
    {
     "level": "MEDIUM",
@@ -67,7 +75,15 @@
     "lines": {
      "q": "Who is Peru?",
      "a": "Left! No maple leaf."
-    }
+    },
+    "start": 6.9,
+    "qAudio": "audio/flag-duel-7/q2.mp3",
+    "aAudio": "audio/flag-duel-7/a2.mp3",
+    "thinkStart": 7.91,
+    "reveal": 10.51,
+    "moveEnd": 11.21,
+    "aStart": 11.06,
+    "end": 13.01
    },
    {
     "level": "HARD",
@@ -84,7 +100,15 @@
     "lines": {
      "q": "Who is Greece?",
      "a": "Right! A cross, not a sun."
-    }
+    },
+    "start": 13.01,
+    "qAudio": "audio/flag-duel-7/q3.mp3",
+    "aAudio": "audio/flag-duel-7/a3.mp3",
+    "thinkStart": 14.04,
+    "reveal": 16.64,
+    "moveEnd": 17.34,
+    "aStart": 17.19,
+    "end": 19.14
    },
    {
     "level": "LEGEND",
@@ -101,8 +125,44 @@
     "lines": {
      "q": "Last one. Who is Cuba?",
      "a": "Left! Blue stripes, red triangle. Got all four? Hit like, and follow!"
-    }
+    },
+    "start": 19.14,
+    "qAudio": "audio/flag-duel-7/q4.mp3",
+    "aAudio": "audio/flag-duel-7/a4.mp3",
+    "thinkStart": 20.58,
+    "reveal": 23.18,
+    "moveEnd": 23.88,
+    "aStart": 23.73,
+    "end": 27.93
    }
-  ]
- }
+  ],
+  "hook": {
+   "start": 0.0,
+   "end": 0.0
+  },
+  "durationInSeconds": 27.93
+ },
+ "qa": {
+  "lufs": -19.2,
+  "truePeak": -4.4,
+  "lra": 11.9,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 92.1,
+  "hasAudio": true,
+  "durationSec": 28.0,
+  "longestBlackSec": 0.0,
+  "longestSilenceSec": 0.0,
+  "warnings": [],
+  "blocked": []
+ },
+ "scheduledFor": "2026-11-28T16:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "-ifCn8Fx2TU",
+  "at": "2026-11-28T06:17"
+ },
+ "linkedLong": "O1JbqPpFWkM"
 }

@@ -2507,3 +2507,41 @@
 [2026-11-27 21:56:54] Kommentare: 46 Zuschauer-Kommentare (21 T), 4 unbeantwortet, 1 Fehler-Hinweise
 [2026-11-27 23:31:30] Kommentare: 47 Zuschauer-Kommentare (21 T), 4 unbeantwortet, 1 Fehler-Hinweise
 [2026-11-28 02:48:49] Kommentare: 52 Zuschauer-Kommentare (21 T), 9 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-28 06:15:51] Kanal: COULD YOU PASS? | Kontrollnummer: 7QBU
+[2026-11-28 06:15:51] Analytics gespeichert (100 Videos)
+[2026-11-28 06:15:51] Thumbnail-Test: CTR über API nicht verfügbar – nutze Aufrufe/Tag <HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/report
+[2026-11-28 06:15:52] Thumbnail-Test iq-riddles-12-2: Variante B → {'views': 27, 'ctr': 6.75, 'metric': 'views/day'}
+[2026-11-28 06:15:53] Thumbnail-Test iq-riddles-12-2: jetzt Variante A
+[2026-11-28 06:15:58] Kommentar-Antworten gepostet: 8
+[2026-11-28 06:16:01] Kommentare: 53 Zuschauer-Kommentare (21 T), 2 unbeantwortet, 1 Fehler-Hinweise
+[2026-11-28 06:16:01] Produziere flag-duel-7 (short)
+[2026-11-28 06:17:14] Gerendert
+[2026-11-28 06:17:19] QA: -19.2 LUFS, TP -4.4 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 92.1, Dauer 28.0 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-28 06:17:22] Hochgeladen: https://youtube.com/watch?v=-ifCn8Fx2TU (private)
+[2026-11-28 06:17:22] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-28 06:17:22] Geplant für 28.11. 16:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-28 06:17:22] Produziere missing-symbol-2 (short)
+[2026-11-28 06:18:29] Gerendert
+[2026-11-28 06:18:37] QA: -20.5 LUFS, TP -4.5 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 88.1, Dauer 28.7 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-28 06:18:39] Hochgeladen: https://youtube.com/watch?v=QhMUGRgHtRo (private)
+[2026-11-28 06:18:40] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-28 06:18:40] Geplant für 28.11. 12:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-28 06:18:40] Produziere real-fake-flag-4 (short)
+[2026-11-28 06:19:50] Gerendert
+[2026-11-28 06:19:57] QA: -19.5 LUFS, TP -4.3 dBTP → normalisiert auf −14, Standbild max 0.0 s, Frame0-Luma 93.0, Dauer 29.8 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-28 06:19:59] Hochgeladen: https://youtube.com/watch?v=WHQWeLuNKD8 (private)
+[2026-11-28 06:20:00] In Playlist "Quiz Shorts – New Quiz Every Day 🧠"
+[2026-11-28 06:20:00] Geplant für 28.11. 21:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-28 06:20:00] Kein short-Video in der Warteschlange.
+[2026-11-28 06:20:00] Produziere flag-blitz-1 (long)
+[2026-11-28 06:44:00] Gerendert
+[2026-11-28 06:46:12] QA: -20.0 LUFS, TP -4.0 dBTP → normalisiert auf −14, Standbild max 0.2 s, Frame0-Luma 57.6, Dauer 645.7 s, schwarz max 0.0 s, Stille max 0.0 s
+[2026-11-28 06:46:20] Hochgeladen: https://youtube.com/watch?v=O1JbqPpFWkM (private)
+[2026-11-28 06:46:23] Vorschaubild gesetzt
+[2026-11-28 06:46:23] In Playlist "General Knowledge & Memory Quizzes 🧠"
+[2026-11-28 06:46:23] Geplant für 28.11. 14:00 Uhr (Berlin) – Kommentar folgt nach Veröffentlichung
+[2026-11-28 06:46:23] Kein long-Video in der Warteschlange.
+[2026-11-28 06:46:24] Short-Beschreibung (real-fake-flag-4) verlinkt auf langes Video O1JbqPpFWkM
+[2026-11-28 06:46:25] Short-Beschreibung (missing-symbol-2) verlinkt auf langes Video O1JbqPpFWkM
+[2026-11-28 06:46:25] Short-Beschreibung (flag-duel-7) verlinkt auf langes Video O1JbqPpFWkM
+[2026-11-28 06:46:35] Konkurrenz: 25 Kanäle, 117 Gewinner-Videos

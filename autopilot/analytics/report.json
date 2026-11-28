@@ -1,38 +1,38 @@
 {
- "fetched": "2026-11-27T19:50",
+ "fetched": "2026-11-28T06:15",
  "channel": "COULD YOU PASS?",
- "subscribers": "79",
+ "subscribers": "94",
  "audience": {
   "countries": [
    {
     "country": "US",
-    "views": 19024,
-    "engagedViews": 10023
+    "views": 20790,
+    "engagedViews": 11110
    },
    {
     "country": "GB",
-    "views": 2848,
-    "engagedViews": 1484
+    "views": 2865,
+    "engagedViews": 1492
    },
    {
     "country": "PH",
-    "views": 1387,
-    "engagedViews": 751
+    "views": 1422,
+    "engagedViews": 772
    },
    {
     "country": "CA",
-    "views": 819,
-    "engagedViews": 442
+    "views": 846,
+    "engagedViews": 459
    },
    {
     "country": "IN",
-    "views": 757,
-    "engagedViews": 377
+    "views": 752,
+    "engagedViews": 378
    },
    {
     "country": "ID",
-    "views": 576,
-    "engagedViews": 297
+    "views": 593,
+    "engagedViews": 307
    },
    {
     "country": "AU",
@@ -51,8 +51,8 @@
    },
    {
     "country": "MY",
-    "views": 246,
-    "engagedViews": 129
+    "views": 268,
+    "engagedViews": 141
    },
    {
     "country": "SE",
@@ -83,57 +83,81 @@
   "devices": [
    {
     "deviceType": "MOBILE",
-    "views": 22069,
-    "engagedViews": 10862
+    "views": 22980,
+    "engagedViews": 11402
    },
    {
     "deviceType": "TABLET",
-    "views": 6261,
-    "engagedViews": 3543
+    "views": 6781,
+    "engagedViews": 3896
    },
    {
     "deviceType": "TV",
-    "views": 4708,
-    "engagedViews": 2821
+    "views": 5253,
+    "engagedViews": 3091
    },
    {
     "deviceType": "DESKTOP",
-    "views": 2366,
-    "engagedViews": 1442
+    "views": 2476,
+    "engagedViews": 1530
    }
   ],
   "ageGroups": [
    {
     "ageGroup": "age13-17",
-    "viewerPercentage": 10
+    "viewerPercentage": 10.8
    },
    {
     "ageGroup": "age18-24",
-    "viewerPercentage": 1.5
+    "viewerPercentage": 1.7
    },
    {
     "ageGroup": "age25-34",
-    "viewerPercentage": 12.2
+    "viewerPercentage": 12.6
    },
    {
     "ageGroup": "age35-44",
-    "viewerPercentage": 20.8
+    "viewerPercentage": 21.9
    },
    {
     "ageGroup": "age45-54",
-    "viewerPercentage": 11.3
+    "viewerPercentage": 11.6
    },
    {
     "ageGroup": "age55-64",
-    "viewerPercentage": 8.8
+    "viewerPercentage": 8.5
    },
    {
     "ageGroup": "age65-",
-    "viewerPercentage": 35.4
+    "viewerPercentage": 32.9
    }
   ]
  },
  "videos": [
+  {
+   "id": "Jm_p9jv8Dp0",
+   "title": "Real or Fake Flag? #3 Can You Spot All 4? 🧐 #shorts",
+   "published": "2026-11-27T20:00:08Z",
+   "retention": [],
+   "trafficSources": {},
+   "durationSec": 29,
+   "publicViews": "1290",
+   "status": {
+    "privacyStatus": "public",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "uploadStatus": "processed",
+    "ytRating": null,
+    "regionRestriction": null,
+    "contentRating": null,
+    "licensedContent": false,
+    "rejectionReason": null,
+    "failureReason": null,
+    "license": "youtube"
+   }
+  },
   {
    "id": "3PGS_reIIvk",
    "title": "Flag Quiz #6: Which One Is Niger? The Last One Is Brutal 🌍 #shorts",
@@ -141,7 +165,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 28,
-   "publicViews": "1348",
+   "publicViews": "3227",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -165,33 +189,9 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 30,
-   "publicViews": "2334",
+   "publicViews": "4582",
    "status": {
     "privacyStatus": "public",
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false,
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "uploadStatus": "processed",
-    "ytRating": null,
-    "regionRestriction": null,
-    "contentRating": null,
-    "licensedContent": false,
-    "rejectionReason": null,
-    "failureReason": null,
-    "license": "youtube"
-   }
-  },
-  {
-   "id": "Jm_p9jv8Dp0",
-   "title": "Real or Fake Flag? #3 Can You Spot All 4? 🧐 #shorts",
-   "published": "2026-11-27T06:14:40Z",
-   "retention": [],
-   "trafficSources": {},
-   "durationSec": 29,
-   "publicViews": "0",
-   "status": {
-    "privacyStatus": "private",
     "madeForKids": false,
     "selfDeclaredMadeForKids": false,
     "embeddable": true,
@@ -213,7 +213,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 30,
-   "publicViews": "1671",
+   "publicViews": "1948",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -237,7 +237,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 29,
-   "publicViews": "2193",
+   "publicViews": "2653",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -261,7 +261,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 28,
-   "publicViews": "2974",
+   "publicViews": "3921",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -285,7 +285,7 @@
    "retention": [],
    "trafficSources": {},
    "durationSec": 662,
-   "publicViews": "40",
+   "publicViews": "53",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -306,10 +306,525 @@
    "id": "mKttO2L8cds",
    "title": "Real or Fake Flag? #1 Only 1 in 10 Spot All 4 🧐 #shorts",
    "published": "2026-11-25T19:35:33Z",
-   "retention": [],
-   "trafficSources": {},
+   "views": 1862,
+   "engagedViews": 1119,
+   "averageViewDuration": 24,
+   "averageViewPercentage": 85.28,
+   "likes": 16,
+   "comments": 3,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     1.334,
+     0.621
+    ],
+    [
+     0.02,
+     1.304,
+     0.612
+    ],
+    [
+     0.03,
+     1.261,
+     0.603
+    ],
+    [
+     0.04,
+     1.233,
+     0.593
+    ],
+    [
+     0.05,
+     1.212,
+     0.583
+    ],
+    [
+     0.06,
+     1.192,
+     0.573
+    ],
+    [
+     0.07,
+     1.176,
+     0.563
+    ],
+    [
+     0.08,
+     1.164,
+     0.554
+    ],
+    [
+     0.09,
+     1.159,
+     0.545
+    ],
+    [
+     0.1,
+     1.148,
+     0.536
+    ],
+    [
+     0.11,
+     1.147,
+     0.528
+    ],
+    [
+     0.12,
+     1.139,
+     0.52
+    ],
+    [
+     0.13,
+     1.138,
+     0.513
+    ],
+    [
+     0.14,
+     1.131,
+     0.506
+    ],
+    [
+     0.15,
+     1.123,
+     0.499
+    ],
+    [
+     0.16,
+     1.117,
+     0.493
+    ],
+    [
+     0.17,
+     1.108,
+     0.488
+    ],
+    [
+     0.18,
+     1.1,
+     0.483
+    ],
+    [
+     0.19,
+     1.09,
+     0.479
+    ],
+    [
+     0.2,
+     1.083,
+     0.475
+    ],
+    [
+     0.21,
+     1.072,
+     0.471
+    ],
+    [
+     0.22,
+     1.051,
+     0.468
+    ],
+    [
+     0.23,
+     1.028,
+     0.466
+    ],
+    [
+     0.24,
+     1.013,
+     0.464
+    ],
+    [
+     0.25,
+     0.995,
+     0.463
+    ],
+    [
+     0.26,
+     0.978,
+     0.462
+    ],
+    [
+     0.27,
+     0.967,
+     0.461
+    ],
+    [
+     0.28,
+     0.956,
+     0.461
+    ],
+    [
+     0.29,
+     0.953,
+     0.461
+    ],
+    [
+     0.3,
+     0.946,
+     0.462
+    ],
+    [
+     0.31,
+     0.938,
+     0.463
+    ],
+    [
+     0.32,
+     0.928,
+     0.464
+    ],
+    [
+     0.33,
+     0.921,
+     0.466
+    ],
+    [
+     0.34,
+     0.914,
+     0.468
+    ],
+    [
+     0.35,
+     0.912,
+     0.47
+    ],
+    [
+     0.36,
+     0.907,
+     0.473
+    ],
+    [
+     0.37,
+     0.902,
+     0.476
+    ],
+    [
+     0.38,
+     0.898,
+     0.479
+    ],
+    [
+     0.39,
+     0.896,
+     0.483
+    ],
+    [
+     0.4,
+     0.895,
+     0.487
+    ],
+    [
+     0.41,
+     0.893,
+     0.491
+    ],
+    [
+     0.42,
+     0.891,
+     0.496
+    ],
+    [
+     0.43,
+     0.885,
+     0.501
+    ],
+    [
+     0.44,
+     0.879,
+     0.506
+    ],
+    [
+     0.45,
+     0.871,
+     0.51
+    ],
+    [
+     0.46,
+     0.864,
+     0.515
+    ],
+    [
+     0.47,
+     0.858,
+     0.52
+    ],
+    [
+     0.48,
+     0.852,
+     0.525
+    ],
+    [
+     0.49,
+     0.845,
+     0.53
+    ],
+    [
+     0.5,
+     0.84,
+     0.535
+    ],
+    [
+     0.51,
+     0.84,
+     0.54
+    ],
+    [
+     0.52,
+     0.84,
+     0.544
+    ],
+    [
+     0.53,
+     0.837,
+     0.549
+    ],
+    [
+     0.54,
+     0.83,
+     0.553
+    ],
+    [
+     0.55,
+     0.825,
+     0.557
+    ],
+    [
+     0.56,
+     0.82,
+     0.561
+    ],
+    [
+     0.57,
+     0.812,
+     0.565
+    ],
+    [
+     0.58,
+     0.811,
+     0.568
+    ],
+    [
+     0.59,
+     0.807,
+     0.572
+    ],
+    [
+     0.6,
+     0.806,
+     0.575
+    ],
+    [
+     0.61,
+     0.804,
+     0.578
+    ],
+    [
+     0.62,
+     0.802,
+     0.582
+    ],
+    [
+     0.63,
+     0.802,
+     0.585
+    ],
+    [
+     0.64,
+     0.801,
+     0.588
+    ],
+    [
+     0.65,
+     0.795,
+     0.591
+    ],
+    [
+     0.66,
+     0.788,
+     0.593
+    ],
+    [
+     0.67,
+     0.773,
+     0.596
+    ],
+    [
+     0.68,
+     0.763,
+     0.599
+    ],
+    [
+     0.69,
+     0.755,
+     0.601
+    ],
+    [
+     0.7,
+     0.748,
+     0.604
+    ],
+    [
+     0.71,
+     0.744,
+     0.607
+    ],
+    [
+     0.72,
+     0.741,
+     0.609
+    ],
+    [
+     0.73,
+     0.738,
+     0.612
+    ],
+    [
+     0.74,
+     0.735,
+     0.614
+    ],
+    [
+     0.75,
+     0.729,
+     0.617
+    ],
+    [
+     0.76,
+     0.728,
+     0.619
+    ],
+    [
+     0.77,
+     0.729,
+     0.622
+    ],
+    [
+     0.78,
+     0.727,
+     0.625
+    ],
+    [
+     0.79,
+     0.724,
+     0.627
+    ],
+    [
+     0.8,
+     0.721,
+     0.631
+    ],
+    [
+     0.81,
+     0.721,
+     0.634
+    ],
+    [
+     0.82,
+     0.716,
+     0.638
+    ],
+    [
+     0.83,
+     0.712,
+     0.642
+    ],
+    [
+     0.84,
+     0.71,
+     0.646
+    ],
+    [
+     0.85,
+     0.708,
+     0.651
+    ],
+    [
+     0.86,
+     0.705,
+     0.656
+    ],
+    [
+     0.87,
+     0.7,
+     0.661
+    ],
+    [
+     0.88,
+     0.689,
+     0.667
+    ],
+    [
+     0.89,
+     0.674,
+     0.674
+    ],
+    [
+     0.9,
+     0.664,
+     0.681
+    ],
+    [
+     0.91,
+     0.643,
+     0.688
+    ],
+    [
+     0.92,
+     0.629,
+     0.695
+    ],
+    [
+     0.93,
+     0.619,
+     0.703
+    ],
+    [
+     0.94,
+     0.6,
+     0.71
+    ],
+    [
+     0.95,
+     0.585,
+     0.718
+    ],
+    [
+     0.96,
+     0.567,
+     0.725
+    ],
+    [
+     0.97,
+     0.52,
+     0.732
+    ],
+    [
+     0.98,
+     0.491,
+     0.738
+    ],
+    [
+     0.99,
+     0.491,
+     0.744
+    ],
+    [
+     1,
+     0.491,
+     0.749
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 1795,
+    "YT_SEARCH": 59,
+    "YT_CHANNEL": 4,
+    "YT_OTHER_PAGE": 4,
+    "NO_LINK_OTHER": 0,
+    "SUBSCRIBER": 0
+   },
    "durationSec": 29,
-   "publicViews": "3171",
+   "publicViews": "3620",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -324,14 +839,527 @@
     "rejectionReason": null,
     "failureReason": null,
     "license": "youtube"
-   }
+   },
+   "engagedShare": 0.601
   },
   {
    "id": "Eq6-MXbYEk8",
    "title": "Thanksgiving True or False 🦃 90% Get #4 Wrong #shorts",
    "published": "2026-11-25T15:00:18Z",
-   "retention": [],
-   "trafficSources": {},
+   "views": 137,
+   "engagedViews": 70,
+   "averageViewDuration": 24,
+   "averageViewPercentage": 55.95,
+   "likes": 5,
+   "comments": 0,
+   "subscribersGained": 0,
+   "retention": [
+    [
+     0.01,
+     1.229,
+     0.551
+    ],
+    [
+     0.02,
+     1.186,
+     0.509
+    ],
+    [
+     0.03,
+     1.157,
+     0.466
+    ],
+    [
+     0.04,
+     1.1,
+     0.426
+    ],
+    [
+     0.05,
+     1.1,
+     0.391
+    ],
+    [
+     0.06,
+     1.071,
+     0.361
+    ],
+    [
+     0.07,
+     1.071,
+     0.337
+    ],
+    [
+     0.08,
+     1.057,
+     0.317
+    ],
+    [
+     0.09,
+     1.057,
+     0.301
+    ],
+    [
+     0.1,
+     1.057,
+     0.289
+    ],
+    [
+     0.11,
+     1,
+     0.28
+    ],
+    [
+     0.12,
+     0.986,
+     0.275
+    ],
+    [
+     0.13,
+     0.943,
+     0.272
+    ],
+    [
+     0.14,
+     0.943,
+     0.272
+    ],
+    [
+     0.15,
+     0.9,
+     0.273
+    ],
+    [
+     0.16,
+     0.843,
+     0.276
+    ],
+    [
+     0.17,
+     0.771,
+     0.279
+    ],
+    [
+     0.18,
+     0.743,
+     0.282
+    ],
+    [
+     0.19,
+     0.757,
+     0.286
+    ],
+    [
+     0.2,
+     0.743,
+     0.29
+    ],
+    [
+     0.21,
+     0.714,
+     0.294
+    ],
+    [
+     0.22,
+     0.714,
+     0.299
+    ],
+    [
+     0.23,
+     0.714,
+     0.303
+    ],
+    [
+     0.24,
+     0.714,
+     0.307
+    ],
+    [
+     0.25,
+     0.714,
+     0.311
+    ],
+    [
+     0.26,
+     0.714,
+     0.315
+    ],
+    [
+     0.27,
+     0.714,
+     0.318
+    ],
+    [
+     0.28,
+     0.714,
+     0.322
+    ],
+    [
+     0.29,
+     0.714,
+     0.325
+    ],
+    [
+     0.3,
+     0.714,
+     0.329
+    ],
+    [
+     0.31,
+     0.686,
+     0.332
+    ],
+    [
+     0.32,
+     0.643,
+     0.335
+    ],
+    [
+     0.33,
+     0.629,
+     0.338
+    ],
+    [
+     0.34,
+     0.629,
+     0.341
+    ],
+    [
+     0.35,
+     0.629,
+     0.343
+    ],
+    [
+     0.36,
+     0.614,
+     0.345
+    ],
+    [
+     0.37,
+     0.6,
+     0.346
+    ],
+    [
+     0.38,
+     0.6,
+     0.346
+    ],
+    [
+     0.39,
+     0.586,
+     0.345
+    ],
+    [
+     0.4,
+     0.557,
+     0.342
+    ],
+    [
+     0.41,
+     0.557,
+     0.339
+    ],
+    [
+     0.42,
+     0.529,
+     0.334
+    ],
+    [
+     0.43,
+     0.514,
+     0.328
+    ],
+    [
+     0.44,
+     0.514,
+     0.321
+    ],
+    [
+     0.45,
+     0.5,
+     0.314
+    ],
+    [
+     0.46,
+     0.486,
+     0.306
+    ],
+    [
+     0.47,
+     0.5,
+     0.299
+    ],
+    [
+     0.48,
+     0.5,
+     0.292
+    ],
+    [
+     0.49,
+     0.471,
+     0.286
+    ],
+    [
+     0.5,
+     0.471,
+     0.281
+    ],
+    [
+     0.51,
+     0.429,
+     0.277
+    ],
+    [
+     0.52,
+     0.414,
+     0.276
+    ],
+    [
+     0.53,
+     0.414,
+     0.276
+    ],
+    [
+     0.54,
+     0.414,
+     0.28
+    ],
+    [
+     0.55,
+     0.429,
+     0.286
+    ],
+    [
+     0.56,
+     0.429,
+     0.295
+    ],
+    [
+     0.57,
+     0.429,
+     0.306
+    ],
+    [
+     0.58,
+     0.429,
+     0.319
+    ],
+    [
+     0.59,
+     0.429,
+     0.334
+    ],
+    [
+     0.6,
+     0.414,
+     0.35
+    ],
+    [
+     0.61,
+     0.414,
+     0.367
+    ],
+    [
+     0.62,
+     0.414,
+     0.385
+    ],
+    [
+     0.63,
+     0.414,
+     0.403
+    ],
+    [
+     0.64,
+     0.414,
+     0.422
+    ],
+    [
+     0.65,
+     0.414,
+     0.442
+    ],
+    [
+     0.66,
+     0.4,
+     0.462
+    ],
+    [
+     0.67,
+     0.4,
+     0.482
+    ],
+    [
+     0.68,
+     0.386,
+     0.503
+    ],
+    [
+     0.69,
+     0.386,
+     0.523
+    ],
+    [
+     0.7,
+     0.386,
+     0.543
+    ],
+    [
+     0.71,
+     0.386,
+     0.562
+    ],
+    [
+     0.72,
+     0.386,
+     0.58
+    ],
+    [
+     0.73,
+     0.386,
+     0.596
+    ],
+    [
+     0.74,
+     0.386,
+     0.611
+    ],
+    [
+     0.75,
+     0.386,
+     0.624
+    ],
+    [
+     0.76,
+     0.386,
+     0.635
+    ],
+    [
+     0.77,
+     0.386,
+     0.646
+    ],
+    [
+     0.78,
+     0.386,
+     0.655
+    ],
+    [
+     0.79,
+     0.386,
+     0.663
+    ],
+    [
+     0.8,
+     0.371,
+     0.67
+    ],
+    [
+     0.81,
+     0.371,
+     0.677
+    ],
+    [
+     0.82,
+     0.357,
+     0.683
+    ],
+    [
+     0.83,
+     0.357,
+     0.688
+    ],
+    [
+     0.84,
+     0.343,
+     0.692
+    ],
+    [
+     0.85,
+     0.343,
+     0.696
+    ],
+    [
+     0.86,
+     0.343,
+     0.7
+    ],
+    [
+     0.87,
+     0.343,
+     0.703
+    ],
+    [
+     0.88,
+     0.343,
+     0.706
+    ],
+    [
+     0.89,
+     0.343,
+     0.709
+    ],
+    [
+     0.9,
+     0.343,
+     0.712
+    ],
+    [
+     0.91,
+     0.329,
+     0.716
+    ],
+    [
+     0.92,
+     0.329,
+     0.719
+    ],
+    [
+     0.93,
+     0.329,
+     0.723
+    ],
+    [
+     0.94,
+     0.343,
+     0.728
+    ],
+    [
+     0.95,
+     0.343,
+     0.734
+    ],
+    [
+     0.96,
+     0.329,
+     0.74
+    ],
+    [
+     0.97,
+     0.3,
+     0.747
+    ],
+    [
+     0.98,
+     0.3,
+     0.754
+    ],
+    [
+     0.99,
+     0.286,
+     0.76
+    ],
+    [
+     1,
+     0.286,
+     0.765
+    ]
+   ],
+   "trafficSources": {
+    "SHORTS": 137,
+    "NO_LINK_OTHER": 0,
+    "YT_SEARCH": 0
+   },
    "durationSec": 44,
    "publicViews": "136",
    "status": {
@@ -348,531 +1376,532 @@
     "rejectionReason": null,
     "failureReason": null,
     "license": "youtube"
-   }
+   },
+   "engagedShare": 0.511
   },
   {
    "id": "NfdySlM8pEo",
    "title": "This Map Is Lying To You #8 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-24T20:00:36Z",
-   "views": 574,
-   "engagedViews": 293,
-   "averageViewDuration": 29,
-   "averageViewPercentage": 83.02,
-   "likes": 3,
-   "comments": 1,
+   "views": 810,
+   "engagedViews": 411,
+   "averageViewDuration": 30,
+   "averageViewPercentage": 83.66,
+   "likes": 5,
+   "comments": 2,
    "subscribersGained": 0,
    "retention": [
     [
      0.01,
-     1.293,
-     0.641
+     1.313,
+     0.655
     ],
     [
      0.02,
-     1.29,
-     0.631
+     1.298,
+     0.646
     ],
     [
      0.03,
-     1.273,
-     0.619
+     1.279,
+     0.637
     ],
     [
      0.04,
-     1.253,
-     0.607
+     1.264,
+     0.627
     ],
     [
      0.05,
-     1.236,
-     0.596
+     1.237,
+     0.616
     ],
     [
      0.06,
-     1.212,
-     0.585
+     1.21,
+     0.606
     ],
     [
      0.07,
-     1.198,
-     0.575
+     1.191,
+     0.595
     ],
     [
      0.08,
-     1.195,
-     0.565
+     1.186,
+     0.584
     ],
     [
      0.09,
-     1.181,
-     0.555
+     1.171,
+     0.573
     ],
     [
      0.1,
-     1.16,
-     0.546
+     1.152,
+     0.563
     ],
     [
      0.11,
-     1.154,
-     0.538
+     1.144,
+     0.553
     ],
     [
      0.12,
-     1.15,
-     0.529
+     1.137,
+     0.543
     ],
     [
      0.13,
-     1.137,
-     0.522
+     1.125,
+     0.534
     ],
     [
      0.14,
-     1.113,
-     0.515
+     1.105,
+     0.525
     ],
     [
      0.15,
-     1.106,
-     0.508
+     1.098,
+     0.518
     ],
     [
      0.16,
-     1.075,
-     0.503
+     1.071,
+     0.512
     ],
     [
      0.17,
-     1.051,
-     0.498
+     1.054,
+     0.506
     ],
     [
      0.18,
-     1.031,
-     0.494
+     1.037,
+     0.501
     ],
     [
      0.19,
-     1.027,
-     0.49
+     1.034,
+     0.498
     ],
     [
      0.2,
+     1.034,
+     0.494
+    ],
+    [
+     0.21,
+     1.029,
+     0.492
+    ],
+    [
+     0.22,
+     1.024,
+     0.49
+    ],
+    [
+     0.23,
      1.024,
      0.488
     ],
     [
-     0.21,
-     1.017,
-     0.485
-    ],
-    [
-     0.22,
-     1.014,
-     0.483
-    ],
-    [
-     0.23,
-     1.014,
-     0.482
-    ],
-    [
      0.24,
-     1.01,
-     0.481
-    ],
-    [
-     0.25,
-     1.007,
-     0.48
-    ],
-    [
-     0.26,
-     0.99,
-     0.479
-    ],
-    [
-     0.27,
-     0.959,
-     0.478
-    ],
-    [
-     0.28,
-     0.942,
-     0.477
-    ],
-    [
-     0.29,
-     0.928,
-     0.476
-    ],
-    [
-     0.3,
-     0.922,
-     0.476
-    ],
-    [
-     0.31,
-     0.904,
-     0.475
-    ],
-    [
-     0.32,
-     0.891,
-     0.475
-    ],
-    [
-     0.33,
-     0.884,
-     0.474
-    ],
-    [
-     0.34,
-     0.88,
-     0.474
-    ],
-    [
-     0.35,
-     0.877,
-     0.474
-    ],
-    [
-     0.36,
-     0.877,
-     0.474
-    ],
-    [
-     0.37,
-     0.874,
-     0.475
-    ],
-    [
-     0.38,
-     0.87,
-     0.475
-    ],
-    [
-     0.39,
-     0.867,
-     0.476
-    ],
-    [
-     0.4,
-     0.863,
-     0.477
-    ],
-    [
-     0.41,
-     0.86,
-     0.478
-    ],
-    [
-     0.42,
-     0.863,
-     0.479
-    ],
-    [
-     0.43,
-     0.863,
-     0.481
-    ],
-    [
-     0.44,
-     0.863,
-     0.483
-    ],
-    [
-     0.45,
-     0.863,
-     0.485
-    ],
-    [
-     0.46,
-     0.86,
+     1.024,
      0.487
     ],
     [
+     0.25,
+     1.02,
+     0.485
+    ],
+    [
+     0.26,
+     1.002,
+     0.484
+    ],
+    [
+     0.27,
+     0.971,
+     0.483
+    ],
+    [
+     0.28,
+     0.951,
+     0.482
+    ],
+    [
+     0.29,
+     0.941,
+     0.48
+    ],
+    [
+     0.3,
+     0.929,
+     0.479
+    ],
+    [
+     0.31,
+     0.914,
+     0.477
+    ],
+    [
+     0.32,
+     0.905,
+     0.476
+    ],
+    [
+     0.33,
+     0.895,
+     0.475
+    ],
+    [
+     0.34,
+     0.892,
+     0.473
+    ],
+    [
+     0.35,
+     0.887,
+     0.472
+    ],
+    [
+     0.36,
+     0.885,
+     0.472
+    ],
+    [
+     0.37,
+     0.883,
+     0.471
+    ],
+    [
+     0.38,
+     0.88,
+     0.471
+    ],
+    [
+     0.39,
+     0.878,
+     0.471
+    ],
+    [
+     0.4,
+     0.875,
+     0.471
+    ],
+    [
+     0.41,
+     0.873,
+     0.471
+    ],
+    [
+     0.42,
+     0.875,
+     0.472
+    ],
+    [
+     0.43,
+     0.873,
+     0.473
+    ],
+    [
+     0.44,
+     0.875,
+     0.474
+    ],
+    [
+     0.45,
+     0.875,
+     0.476
+    ],
+    [
+     0.46,
+     0.87,
+     0.477
+    ],
+    [
      0.47,
-     0.86,
-     0.489
+     0.868,
+     0.479
     ],
     [
      0.48,
-     0.853,
-     0.491
+     0.858,
+     0.481
     ],
     [
      0.49,
-     0.846,
-     0.493
+     0.853,
+     0.483
     ],
     [
      0.5,
-     0.84,
-     0.496
+     0.848,
+     0.485
     ],
     [
      0.51,
-     0.823,
-     0.499
+     0.836,
+     0.487
     ],
     [
      0.52,
+     0.824,
+     0.489
+    ],
+    [
+     0.53,
+     0.822,
+     0.492
+    ],
+    [
+     0.54,
+     0.814,
+     0.495
+    ],
+    [
+     0.55,
+     0.812,
+     0.498
+    ],
+    [
+     0.56,
      0.812,
      0.501
     ],
     [
-     0.53,
-     0.812,
-     0.504
-    ],
-    [
-     0.54,
-     0.805,
-     0.508
-    ],
-    [
-     0.55,
-     0.802,
-     0.511
-    ],
-    [
-     0.56,
-     0.802,
-     0.515
-    ],
-    [
      0.57,
-     0.799,
-     0.519
+     0.809,
+     0.505
     ],
     [
      0.58,
-     0.799,
-     0.523
+     0.809,
+     0.509
     ],
     [
      0.59,
-     0.795,
-     0.528
+     0.807,
+     0.513
     ],
     [
      0.6,
-     0.795,
-     0.533
+     0.804,
+     0.517
     ],
     [
      0.61,
-     0.795,
-     0.538
+     0.804,
+     0.522
     ],
     [
      0.62,
-     0.795,
-     0.544
+     0.804,
+     0.527
     ],
     [
      0.63,
-     0.799,
-     0.549
+     0.807,
+     0.532
     ],
     [
      0.64,
+     0.807,
+     0.537
+    ],
+    [
+     0.65,
+     0.807,
+     0.542
+    ],
+    [
+     0.66,
+     0.807,
+     0.547
+    ],
+    [
+     0.67,
+     0.804,
+     0.551
+    ],
+    [
+     0.68,
      0.799,
      0.555
     ],
     [
-     0.65,
-     0.799,
-     0.561
-    ],
-    [
-     0.66,
-     0.799,
-     0.566
-    ],
-    [
-     0.67,
-     0.799,
-     0.571
-    ],
-    [
-     0.68,
-     0.795,
-     0.577
-    ],
-    [
      0.69,
-     0.782,
-     0.581
+     0.79,
+     0.559
     ],
     [
      0.7,
-     0.768,
-     0.586
+     0.78,
+     0.562
     ],
     [
      0.71,
-     0.737,
-     0.59
+     0.753,
+     0.565
     ],
     [
      0.72,
-     0.734,
-     0.593
+     0.748,
+     0.567
     ],
     [
      0.73,
-     0.73,
-     0.596
+     0.746,
+     0.569
     ],
     [
      0.74,
-     0.727,
-     0.599
+     0.741,
+     0.57
     ],
     [
      0.75,
-     0.723,
-     0.602
+     0.736,
+     0.572
     ],
     [
      0.76,
-     0.723,
-     0.604
+     0.733,
+     0.573
     ],
     [
      0.77,
-     0.717,
-     0.606
+     0.724,
+     0.574
     ],
     [
      0.78,
-     0.717,
-     0.607
+     0.719,
+     0.575
     ],
     [
      0.79,
-     0.713,
-     0.609
+     0.719,
+     0.575
     ],
     [
      0.8,
-     0.71,
-     0.61
+     0.716,
+     0.576
     ],
     [
      0.81,
-     0.703,
-     0.611
+     0.712,
+     0.576
     ],
     [
      0.82,
-     0.707,
-     0.612
+     0.714,
+     0.577
     ],
     [
      0.83,
-     0.707,
-     0.612
+     0.714,
+     0.577
     ],
     [
      0.84,
-     0.7,
-     0.613
+     0.709,
+     0.578
     ],
     [
      0.85,
-     0.696,
-     0.615
+     0.707,
+     0.579
     ],
     [
      0.86,
-     0.696,
-     0.616
+     0.707,
+     0.58
     ],
     [
      0.87,
-     0.689,
-     0.618
+     0.699,
+     0.581
     ],
     [
      0.88,
-     0.686,
-     0.62
+     0.697,
+     0.584
     ],
     [
      0.89,
-     0.686,
-     0.623
+     0.699,
+     0.587
     ],
     [
      0.9,
-     0.672,
-     0.626
+     0.685,
+     0.59
     ],
     [
      0.91,
-     0.648,
-     0.63
+     0.66,
+     0.595
     ],
     [
      0.92,
-     0.608,
-     0.635
+     0.621,
+     0.601
     ],
     [
      0.93,
-     0.563,
-     0.641
+     0.582,
+     0.608
     ],
     [
      0.94,
-     0.522,
-     0.647
+     0.545,
+     0.615
     ],
     [
      0.95,
-     0.481,
-     0.654
+     0.501,
+     0.623
     ],
     [
      0.96,
-     0.433,
-     0.66
+     0.447,
+     0.631
     ],
     [
      0.97,
-     0.399,
-     0.666
+     0.403,
+     0.639
     ],
     [
      0.98,
-     0.321,
-     0.672
+     0.315,
+     0.646
     ],
     [
      0.99,
-     0.314,
-     0.677
+     0.308,
+     0.652
     ],
     [
      1,
-     0.314,
-     0.68
+     0.308,
+     0.658
     ]
    ],
    "trafficSources": {
-    "SHORTS": 565,
-    "YT_SEARCH": 4,
+    "SHORTS": 789,
+    "YT_SEARCH": 9,
+    "YT_OTHER_PAGE": 5,
     "SUBSCRIBER": 2,
-    "YT_OTHER_PAGE": 2,
-    "YT_CHANNEL": 1,
+    "YT_CHANNEL": 2,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "999",
+   "publicViews": "1006",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -888,30 +1917,30 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.51
+   "engagedShare": 0.507
   },
   {
    "id": "nRfmP5VG4Ys",
    "title": "Flag Quiz: Who Is Qatar? 90% Pick Wrong 🌍 #shorts",
    "published": "2026-11-24T15:00:29Z",
-   "views": 1061,
-   "engagedViews": 619,
-   "averageViewDuration": 29,
-   "averageViewPercentage": 84.68,
-   "likes": 10,
+   "views": 1114,
+   "engagedViews": 648,
+   "averageViewDuration": 34,
+   "averageViewPercentage": 98.76,
+   "likes": 13,
    "comments": 3,
    "subscribersGained": 1,
    "trafficSources": {
-    "SHORTS": 1018,
-    "YT_SEARCH": 33,
-    "YT_CHANNEL": 5,
+    "SHORTS": 1058,
+    "YT_SEARCH": 38,
+    "YT_CHANNEL": 11,
     "RELATED_VIDEO": 2,
-    "YT_OTHER_PAGE": 2,
     "SUBSCRIBER": 1,
+    "YT_OTHER_PAGE": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 35,
-   "publicViews": "1141",
+   "publicViews": "1257",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -927,13 +1956,13 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.583
+   "engagedShare": 0.582
   },
   {
    "id": "pMS8OcHVf0U",
    "title": "Test Your IQ: 12 Hard Riddles – Can You Solve 5? 🧠",
    "published": "2026-11-24T13:00:06Z",
-   "views": 25,
+   "views": 27,
    "engagedViews": 20,
    "averageViewDuration": 66,
    "averageViewPercentage": 24.77,
@@ -941,9 +1970,9 @@
    "comments": 1,
    "subscribersGained": 0,
    "trafficSources": {
-    "RELATED_VIDEO": 22,
-    "SUBSCRIBER": 2,
-    "NO_LINK_OTHER": 1
+    "RELATED_VIDEO": 23,
+    "SUBSCRIBER": 4,
+    "NO_LINK_OTHER": 0
    },
    "durationSec": 270,
    "publicViews": "30",
@@ -962,31 +1991,31 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.8
+   "engagedShare": 0.741
   },
   {
    "id": "cNB1_nkWQSo",
    "title": "This Map Is Lying To You #7 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-23T20:00:19Z",
-   "views": 939,
-   "engagedViews": 465,
+   "views": 952,
+   "engagedViews": 473,
    "averageViewDuration": 30,
-   "averageViewPercentage": 84.81,
-   "likes": 12,
+   "averageViewPercentage": 84.27,
+   "likes": 13,
    "comments": 1,
-   "subscribersGained": 0,
+   "subscribersGained": 1,
    "trafficSources": {
-    "SHORTS": 906,
-    "YT_SEARCH": 20,
+    "SHORTS": 912,
+    "YT_SEARCH": 22,
+    "YT_CHANNEL": 5,
     "YT_OTHER_PAGE": 5,
-    "YT_CHANNEL": 2,
-    "EXT_URL": 2,
+    "EXT_URL": 3,
     "HASHTAGS": 2,
     "SUBSCRIBER": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "957",
+   "publicViews": "962",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1002,29 +2031,30 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.495
+   "engagedShare": 0.497
   },
   {
    "id": "76QnVBBPOc0",
    "title": "Flag Quiz: Who Is Slovakia? 90% Pick Wrong 🌍 #shorts",
    "published": "2026-11-23T15:00:00Z",
-   "views": 2581,
-   "engagedViews": 1421,
+   "views": 2740,
+   "engagedViews": 1507,
    "averageViewDuration": 27,
-   "averageViewPercentage": 81.02,
-   "likes": 48,
+   "averageViewPercentage": 80.86,
+   "likes": 53,
    "comments": 6,
-   "subscribersGained": 12,
+   "subscribersGained": 13,
    "trafficSources": {
-    "SHORTS": 2408,
-    "YT_SEARCH": 148,
-    "YT_CHANNEL": 8,
-    "YT_OTHER_PAGE": 6,
+    "SHORTS": 2551,
+    "YT_SEARCH": 156,
+    "YT_CHANNEL": 12,
+    "YT_OTHER_PAGE": 10,
     "SUBSCRIBER": 1,
+    "NOTIFICATION": 1,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 34,
-   "publicViews": "2774",
+   "publicViews": "2781",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1040,28 +2070,28 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.551
+   "engagedShare": 0.55
   },
   {
    "id": "HpIiecf_igY",
    "title": "This Map Is Lying To You #6 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-22T20:00:31Z",
-   "views": 1195,
-   "engagedViews": 620,
+   "views": 1201,
+   "engagedViews": 622,
    "averageViewDuration": 28,
-   "averageViewPercentage": 80.13,
+   "averageViewPercentage": 80.06,
    "likes": 14,
    "comments": 1,
    "subscribersGained": 0,
    "trafficSources": {
-    "SHORTS": 1143,
+    "SHORTS": 1144,
     "YT_SEARCH": 26,
     "YT_OTHER_PAGE": 21,
-    "YT_CHANNEL": 5,
+    "YT_CHANNEL": 9,
     "NO_LINK_OTHER": 0
    },
    "durationSec": 36,
-   "publicViews": "1205",
+   "publicViews": "1208",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1077,21 +2107,21 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.519
+   "engagedShare": 0.518
   },
   {
    "id": "_U78PtTz-_o",
    "title": "Flag Quiz: Left or Right? Only 1 in 10 Get 4/4 🌍 #shorts",
    "published": "2026-11-22T15:00:06Z",
-   "views": 3794,
-   "engagedViews": 2117,
+   "views": 3834,
+   "engagedViews": 2140,
    "averageViewDuration": 28,
-   "averageViewPercentage": 84.62,
-   "likes": 89,
+   "averageViewPercentage": 84.5,
+   "likes": 92,
    "comments": 10,
    "subscribersGained": 20,
    "durationSec": 34,
-   "publicViews": "3843",
+   "publicViews": "3847",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1113,15 +2143,15 @@
    "id": "d8RgTGhLdqU",
    "title": "This Map Is Lying To You #5 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-21T20:00:08Z",
-   "views": 1011,
-   "engagedViews": 484,
+   "views": 1016,
+   "engagedViews": 485,
    "averageViewDuration": 26,
-   "averageViewPercentage": 74.52,
+   "averageViewPercentage": 74.58,
    "likes": 5,
    "comments": 1,
    "subscribersGained": 1,
    "durationSec": 36,
-   "publicViews": "1019",
+   "publicViews": "1021",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1137,21 +2167,21 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.479
+   "engagedShare": 0.477
   },
   {
    "id": "uXyl9faBKeg",
    "title": "Which Came First? Only 1 in 10 Get All 6 ⏳ #shorts",
    "published": "2026-11-21T15:00:34Z",
-   "views": 1045,
-   "engagedViews": 625,
+   "views": 1050,
+   "engagedViews": 628,
    "averageViewDuration": 17,
-   "averageViewPercentage": 41.53,
+   "averageViewPercentage": 41.72,
    "likes": 10,
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 42,
-   "publicViews": "1053",
+   "publicViews": "1055",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1173,15 +2203,15 @@
    "id": "R-Oqrw1B_9o",
    "title": "Thanksgiving Trivia Quiz 🦃 50 Questions – Can You Get 40?",
    "published": "2026-11-21T13:00:11Z",
-   "views": 109,
-   "engagedViews": 62,
-   "averageViewDuration": 159,
-   "averageViewPercentage": 24.06,
+   "views": 101,
+   "engagedViews": 55,
+   "averageViewDuration": 176,
+   "averageViewPercentage": 26.52,
    "likes": 0,
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 664,
-   "publicViews": "105",
+   "publicViews": "107",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1197,13 +2227,13 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.569
+   "engagedShare": 0.545
   },
   {
    "id": "J0f0JJrS5aE",
    "title": "This Map Is Lying To You #4 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-20T20:00:01Z",
-   "views": 1067,
+   "views": 1069,
    "engagedViews": 529,
    "averageViewDuration": 26,
    "averageViewPercentage": 73.87,
@@ -1211,7 +2241,7 @@
    "comments": 1,
    "subscribersGained": 1,
    "durationSec": 36,
-   "publicViews": "1069",
+   "publicViews": "1070",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1227,21 +2257,21 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.496
+   "engagedShare": 0.495
   },
   {
    "id": "iC_5rEZQZcM",
    "title": "Quick IQ Test: Can You Get 6/6? 🧠 #shorts",
    "published": "2026-11-20T15:00:10Z",
-   "views": 1016,
-   "engagedViews": 548,
+   "views": 1019,
+   "engagedViews": 549,
    "averageViewDuration": 26,
-   "averageViewPercentage": 60.650000000000006,
+   "averageViewPercentage": 60.72,
    "likes": 7,
    "comments": 2,
    "subscribersGained": 1,
    "durationSec": 44,
-   "publicViews": "1021",
+   "publicViews": "1023",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1263,7 +2293,7 @@
    "id": "QBb1d6S3yK0",
    "title": "This Map Is Lying To You #3 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-19T20:00:36Z",
-   "views": 258,
+   "views": 259,
    "engagedViews": 118,
    "averageViewDuration": 26,
    "averageViewPercentage": 72.27,
@@ -1271,7 +2301,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 36,
-   "publicViews": "259",
+   "publicViews": "261",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1287,16 +2317,16 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.457
+   "engagedShare": 0.456
   },
   {
    "id": "zUW_wa21LEg",
    "title": "Test Your IQ: 12 Tricky Riddles – Can You Solve 4? 🧠",
    "published": "2026-11-19T17:13:45Z",
-   "views": 234,
-   "engagedViews": 181,
-   "averageViewDuration": 46,
-   "averageViewPercentage": 11.64,
+   "views": 237,
+   "engagedViews": 184,
+   "averageViewDuration": 45,
+   "averageViewPercentage": 11.5,
    "likes": 0,
    "comments": 1,
    "subscribersGained": 0,
@@ -1317,21 +2347,21 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.774
+   "engagedShare": 0.776
   },
   {
    "id": "W8JH7B5MkBQ",
    "title": "Geography Trivia: 90% Get #4 Wrong 🌍 #shorts",
    "published": "2026-11-19T16:50:49Z",
-   "views": 1038,
-   "engagedViews": 478,
+   "views": 1039,
+   "engagedViews": 479,
    "averageViewDuration": 26,
-   "averageViewPercentage": 61.9,
+   "averageViewPercentage": 61.91,
    "likes": 18,
    "comments": 2,
    "subscribersGained": 0,
    "durationSec": 43,
-   "publicViews": "1040",
+   "publicViews": "1041",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1361,7 +2391,7 @@
    "comments": 2,
    "subscribersGained": 1,
    "durationSec": 41,
-   "publicViews": "953",
+   "publicViews": "954",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1391,7 +2421,7 @@
    "comments": 2,
    "subscribersGained": 2,
    "durationSec": 38,
-   "publicViews": "1054",
+   "publicViews": "1056",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1413,15 +2443,15 @@
    "id": "DXEMR7QUVmM",
    "title": "Only Geniuses Get 6/6 🧠 USA Quiz #shorts",
    "published": "2026-11-17T20:00:02Z",
-   "views": 289,
-   "engagedViews": 140,
+   "views": 291,
+   "engagedViews": 142,
    "averageViewDuration": 27,
-   "averageViewPercentage": 55.88999999999999,
+   "averageViewPercentage": 55.83,
    "likes": 32,
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 50,
-   "publicViews": "293",
+   "publicViews": "295",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1437,13 +2467,13 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.484
+   "engagedShare": 0.488
   },
   {
    "id": "TGUxdLi7K3o",
    "title": "Only Geniuses Get 6/6 🧠 Geography Quiz #shorts",
    "published": "2026-11-17T15:00:19Z",
-   "views": 120,
+   "views": 122,
    "engagedViews": 54,
    "averageViewDuration": 46,
    "averageViewPercentage": 80.64,
@@ -1451,7 +2481,7 @@
    "comments": 2,
    "subscribersGained": 0,
    "durationSec": 58,
-   "publicViews": "123",
+   "publicViews": "124",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1467,7 +2497,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.45
+   "engagedShare": 0.443
   },
   {
    "id": "80E-pivnS50",
@@ -1481,7 +2511,7 @@
    "comments": 2,
    "subscribersGained": 2,
    "durationSec": 217,
-   "publicViews": "43",
+   "publicViews": "45",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1503,7 +2533,7 @@
    "id": "R5J0_opBkIk",
    "title": "Only Geniuses Get 6/6 🧠 Landmarks Quiz #shorts",
    "published": "2026-11-16T20:00:38Z",
-   "views": 68,
+   "views": 69,
    "engagedViews": 23,
    "averageViewDuration": 33,
    "averageViewPercentage": 60.58,
@@ -1511,7 +2541,7 @@
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 55,
-   "publicViews": "69",
+   "publicViews": "70",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1527,21 +2557,21 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.338
+   "engagedShare": 0.333
   },
   {
    "id": "aIjMRxgPEuM",
    "title": "Only Geniuses Get 6/6 🧠 Country Quiz #shorts",
    "published": "2026-11-16T15:00:32Z",
-   "views": 149,
-   "engagedViews": 69,
+   "views": 150,
+   "engagedViews": 70,
    "averageViewDuration": 18,
-   "averageViewPercentage": 33.6,
+   "averageViewPercentage": 33.75,
    "likes": 14,
    "comments": 1,
    "subscribersGained": 0,
    "durationSec": 56,
-   "publicViews": "151",
+   "publicViews": "152",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -1557,16 +2587,16 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.463
+   "engagedShare": 0.467
   },
   {
    "id": "mdzMRCVkDXs",
    "title": "Which Country Is Bigger? 90% Get #4 Wrong 🌍 #shorts",
    "published": "2026-11-15T20:00:37Z",
-   "views": 157,
-   "engagedViews": 73,
+   "views": 158,
+   "engagedViews": 74,
    "averageViewDuration": 20,
-   "averageViewPercentage": 47.8,
+   "averageViewPercentage": 48,
    "likes": 7,
    "comments": 1,
    "subscribersGained": 0,
@@ -1587,13 +2617,13 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.465
+   "engagedShare": 0.468
   },
   {
    "id": "krs48Qg8u2s",
    "title": "Only Geniuses Get 6/6 🧠 World Geography Quiz #shorts",
    "published": "2026-11-15T15:00:29Z",
-   "views": 153,
+   "views": 154,
    "engagedViews": 67,
    "averageViewDuration": 23,
    "averageViewPercentage": 43.16,
@@ -1617,13 +2647,13 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.438
+   "engagedShare": 0.435
   },
   {
    "id": "HP4CN6Owrs4",
    "title": "This Map Is Lying To You #2 🌍 Which Is REALLY Bigger? #shorts",
    "published": "2026-11-14T20:00:36Z",
-   "views": 935,
+   "views": 936,
    "engagedViews": 485,
    "averageViewDuration": 28,
    "averageViewPercentage": 74.1,
@@ -1647,13 +2677,13 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.519
+   "engagedShare": 0.518
   },
   {
    "id": "XWKgyINVAl8",
    "title": "Only Geniuses Get 6/6 🧠 Animal Quiz #shorts",
    "published": "2026-11-14T15:00:22Z",
-   "views": 196,
+   "views": 197,
    "engagedViews": 99,
    "averageViewDuration": 22,
    "averageViewPercentage": 45.92,
@@ -1677,7 +2707,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.505
+   "engagedShare": 0.503
   },
   {
    "id": "8AUQEyKrHwQ",
@@ -1713,7 +2743,7 @@
    "id": "mQZpr4jsaog",
    "title": "Which Country Has More People? Round 3 – 90% Fail 👥 #shorts",
    "published": "2026-11-13T20:00:23Z",
-   "views": 194,
+   "views": 195,
    "engagedViews": 82,
    "averageViewDuration": 25,
    "averageViewPercentage": 61.03000000000001,
@@ -1737,7 +2767,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.423
+   "engagedShare": 0.421
   },
   {
    "id": "L65ciJxD4Xc",
@@ -2081,7 +3111,7 @@
    "comments": 0,
    "subscribersGained": 0,
    "durationSec": 380,
-   "publicViews": "23",
+   "publicViews": "25",
    "status": {
     "privacyStatus": "public",
     "madeForKids": false,
@@ -2558,7 +3588,7 @@
    "id": "Nz7lPovZA10",
    "title": "Which Came First? Round 2 – 6 Questions 🤯 #shorts",
    "published": "2026-11-03T15:00:03Z",
-   "views": 162,
+   "views": 163,
    "engagedViews": 113,
    "averageViewDuration": 27,
    "averageViewPercentage": 48.88,
@@ -2582,7 +3612,7 @@
     "failureReason": null,
     "license": "youtube"
    },
-   "engagedShare": 0.698
+   "engagedShare": 0.693
   },
   {
    "id": "rwbfV7G7Vpo",

@@ -1,0 +1,125 @@
+{
+ "id": "real-fake-flag-4",
+ "type": "flagduel",
+ "title": "Real or Fake Flag? #4",
+ "ask": "WHICH IS THE REAL",
+ "kicker": "CAN YOU GET 4/4?",
+ "hookLine": "",
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.08,
+ "timing": {
+  "think": 2.6,
+  "move": 0.7,
+  "tail": 0.2,
+  "outro": 0.6
+ },
+ "outroText": "GOT 4/4? HIT LIKE",
+ "outroSub": "Follow for number 5",
+ "rounds": [
+  {
+   "level": "EASY",
+   "target": "USA",
+   "a": {
+    "flag": "fake/us",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "us",
+    "name": "USA"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "Which is the real USA? Left, or right?",
+    "a": "Right! Red stripes top and bottom."
+   },
+   "start": 0.0,
+   "qAudio": "audio/real-fake-flag-4/q1.mp3",
+   "aAudio": "audio/real-fake-flag-4/a1.mp3",
+   "thinkStart": 2.47,
+   "reveal": 5.07,
+   "moveEnd": 5.77,
+   "aStart": 5.62,
+   "end": 7.65
+  },
+  {
+   "level": "MEDIUM",
+   "target": "BRAZIL",
+   "a": {
+    "flag": "br",
+    "name": "Brazil"
+   },
+   "b": {
+    "flag": "fake/br",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "The real Brazil?",
+    "a": "Left! It needs its motto."
+   },
+   "start": 7.65,
+   "qAudio": "audio/real-fake-flag-4/q2.mp3",
+   "aAudio": "audio/real-fake-flag-4/a2.mp3",
+   "thinkStart": 8.81,
+   "reveal": 11.41,
+   "moveEnd": 12.11,
+   "aStart": 11.96,
+   "end": 13.91
+  },
+  {
+   "level": "HARD",
+   "target": "TURKEY",
+   "a": {
+    "flag": "tr",
+    "name": "Turkey"
+   },
+   "b": {
+    "flag": "fake/tr",
+    "name": "Fake"
+   },
+   "winner": "a",
+   "lines": {
+    "q": "The real Turkey?",
+    "a": "Left! Crescent near the pole."
+   },
+   "start": 13.91,
+   "qAudio": "audio/real-fake-flag-4/q3.mp3",
+   "aAudio": "audio/real-fake-flag-4/a3.mp3",
+   "thinkStart": 15.02,
+   "reveal": 17.62,
+   "moveEnd": 18.32,
+   "aStart": 18.17,
+   "end": 20.12
+  },
+  {
+   "level": "LEGEND",
+   "target": "UNITED KINGDOM",
+   "a": {
+    "flag": "fake/gb",
+    "name": "Fake"
+   },
+   "b": {
+    "flag": "gb",
+    "name": "United Kingdom"
+   },
+   "winner": "b",
+   "lines": {
+    "q": "Last one. The real United Kingdom?",
+    "a": "Right! The red diagonals are offset. Got all four? Hit like, and follow!"
+   },
+   "start": 20.12,
+   "qAudio": "audio/real-fake-flag-4/q4.mp3",
+   "aAudio": "audio/real-fake-flag-4/a4.mp3",
+   "thinkStart": 22.21,
+   "reveal": 24.81,
+   "moveEnd": 25.51,
+   "aStart": 25.36,
+   "end": 29.76
+  }
+ ],
+ "hook": {
+  "start": 0.0,
+  "end": 0.0
+ },
+ "durationInSeconds": 29.76
+}

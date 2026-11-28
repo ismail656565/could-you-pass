@@ -53,7 +53,15 @@
     "lines": {
      "q": "Which is the real USA? Left, or right?",
      "a": "Right! Red stripes top and bottom."
-    }
+    },
+    "start": 0.0,
+    "qAudio": "audio/real-fake-flag-4/q1.mp3",
+    "aAudio": "audio/real-fake-flag-4/a1.mp3",
+    "thinkStart": 2.47,
+    "reveal": 5.07,
+    "moveEnd": 5.77,
+    "aStart": 5.62,
+    "end": 7.65
    },
    {
     "level": "MEDIUM",
@@ -70,7 +78,15 @@
     "lines": {
      "q": "The real Brazil?",
      "a": "Left! It needs its motto."
-    }
+    },
+    "start": 7.65,
+    "qAudio": "audio/real-fake-flag-4/q2.mp3",
+    "aAudio": "audio/real-fake-flag-4/a2.mp3",
+    "thinkStart": 8.81,
+    "reveal": 11.41,
+    "moveEnd": 12.11,
+    "aStart": 11.96,
+    "end": 13.91
    },
    {
     "level": "HARD",
@@ -87,7 +103,15 @@
     "lines": {
      "q": "The real Turkey?",
      "a": "Left! Crescent near the pole."
-    }
+    },
+    "start": 13.91,
+    "qAudio": "audio/real-fake-flag-4/q3.mp3",
+    "aAudio": "audio/real-fake-flag-4/a3.mp3",
+    "thinkStart": 15.02,
+    "reveal": 17.62,
+    "moveEnd": 18.32,
+    "aStart": 18.17,
+    "end": 20.12
    },
    {
     "level": "LEGEND",
@@ -104,8 +128,44 @@
     "lines": {
      "q": "Last one. The real United Kingdom?",
      "a": "Right! The red diagonals are offset. Got all four? Hit like, and follow!"
-    }
+    },
+    "start": 20.12,
+    "qAudio": "audio/real-fake-flag-4/q4.mp3",
+    "aAudio": "audio/real-fake-flag-4/a4.mp3",
+    "thinkStart": 22.21,
+    "reveal": 24.81,
+    "moveEnd": 25.51,
+    "aStart": 25.36,
+    "end": 29.76
    }
-  ]
- }
+  ],
+  "hook": {
+   "start": 0.0,
+   "end": 0.0
+  },
+  "durationInSeconds": 29.76
+ },
+ "qa": {
+  "lufs": -19.5,
+  "truePeak": -4.3,
+  "lra": 11.6,
+  "normalized": true,
+  "frozenShare": 0.0,
+  "longestFreezeSec": 0.0,
+  "frame0Luma": 93.0,
+  "hasAudio": true,
+  "durationSec": 29.8,
+  "longestBlackSec": 0.0,
+  "longestSilenceSec": 0.0,
+  "warnings": [],
+  "blocked": []
+ },
+ "scheduledFor": "2026-11-28T21:00+01:00",
+ "playlistAdded": true,
+ "pendingComment": true,
+ "uploaded": {
+  "videoId": "WHQWeLuNKD8",
+  "at": "2026-11-28T06:20"
+ },
+ "linkedLong": "O1JbqPpFWkM"
 }

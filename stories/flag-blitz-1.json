@@ -1,0 +1,1733 @@
+{
+ "id": "flag-blitz-1",
+ "type": "flagblitz",
+ "format": "long",
+ "title": "Guess the Flag in 3 Seconds – 100 Flags",
+ "hookLine": "100 flags. Three seconds each. From easy to impossible. Keep score!",
+ "outroLine": "How many did you get out of 100? Comment your score, and follow for more flag quizzes!",
+ "outroHold": 5.0,
+ "timing": {
+  "think": 3.0,
+  "move": 0.4,
+  "tail": 0.25
+ },
+ "music": "sfx/game-show.wav",
+ "musicVolume": 0.06,
+ "rounds": [
+  {
+   "level": "EASY",
+   "flag": "ie",
+   "name": "Ireland",
+   "lines": {
+    "q": "Level one. Easy. What country is this?",
+    "a": "Ireland."
+   },
+   "start": 4.38,
+   "qAudio": "audio/flag-blitz-1/q1.mp3",
+   "aAudio": "audio/flag-blitz-1/a1.mp3",
+   "thinkStart": 6.76,
+   "reveal": 9.76,
+   "moveEnd": 10.16,
+   "aStart": 10.31,
+   "end": 12.01
+  },
+  {
+   "level": "EASY",
+   "flag": "mx",
+   "name": "Mexico",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Mexico."
+   },
+   "start": 12.01,
+   "qAudio": "audio/flag-blitz-1/q2.mp3",
+   "aAudio": "audio/flag-blitz-1/a2.mp3",
+   "thinkStart": 13.03,
+   "reveal": 16.03,
+   "moveEnd": 16.43,
+   "aStart": 16.58,
+   "end": 18.28
+  },
+  {
+   "level": "EASY",
+   "flag": "es",
+   "name": "Spain",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Spain."
+   },
+   "start": 18.28,
+   "qAudio": "audio/flag-blitz-1/q3.mp3",
+   "aAudio": "audio/flag-blitz-1/a3.mp3",
+   "thinkStart": 19.37,
+   "reveal": 22.37,
+   "moveEnd": 22.77,
+   "aStart": 22.92,
+   "end": 24.62
+  },
+  {
+   "level": "EASY",
+   "flag": "it",
+   "name": "Italy",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Italy."
+   },
+   "start": 24.62,
+   "qAudio": "audio/flag-blitz-1/q4.mp3",
+   "aAudio": "audio/flag-blitz-1/a4.mp3",
+   "thinkStart": 25.5,
+   "reveal": 28.5,
+   "moveEnd": 28.9,
+   "aStart": 29.05,
+   "end": 30.75
+  },
+  {
+   "level": "EASY",
+   "flag": "no",
+   "name": "Norway",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Norway."
+   },
+   "start": 30.75,
+   "qAudio": "audio/flag-blitz-1/q5.mp3",
+   "aAudio": "audio/flag-blitz-1/a5.mp3",
+   "thinkStart": 31.84,
+   "reveal": 34.84,
+   "moveEnd": 35.24,
+   "aStart": 35.39,
+   "end": 37.09
+  },
+  {
+   "level": "EASY",
+   "flag": "fr",
+   "name": "France",
+   "lines": {
+    "q": "Quick!",
+    "a": "France."
+   },
+   "start": 37.09,
+   "qAudio": "audio/flag-blitz-1/q6.mp3",
+   "aAudio": "audio/flag-blitz-1/a6.mp3",
+   "thinkStart": 37.76,
+   "reveal": 40.76,
+   "moveEnd": 41.16,
+   "aStart": 41.31,
+   "end": 43.01
+  },
+  {
+   "level": "EASY",
+   "flag": "gb",
+   "name": "United Kingdom",
+   "lines": {
+    "q": "Quick!",
+    "a": "United Kingdom."
+   },
+   "start": 43.01,
+   "qAudio": "audio/flag-blitz-1/q7.mp3",
+   "aAudio": "audio/flag-blitz-1/a7.mp3",
+   "thinkStart": 43.68,
+   "reveal": 46.68,
+   "moveEnd": 47.08,
+   "aStart": 47.23,
+   "end": 48.93
+  },
+  {
+   "level": "EASY",
+   "flag": "pt",
+   "name": "Portugal",
+   "lines": {
+    "q": "Which country?",
+    "a": "Portugal."
+   },
+   "start": 48.93,
+   "qAudio": "audio/flag-blitz-1/q8.mp3",
+   "aAudio": "audio/flag-blitz-1/a8.mp3",
+   "thinkStart": 49.94,
+   "reveal": 52.94,
+   "moveEnd": 53.34,
+   "aStart": 53.49,
+   "end": 55.19
+  },
+  {
+   "level": "EASY",
+   "flag": "us",
+   "name": "USA",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "The U S A."
+   },
+   "start": 55.19,
+   "qAudio": "audio/flag-blitz-1/q9.mp3",
+   "aAudio": "audio/flag-blitz-1/a9.mp3",
+   "thinkStart": 56.49,
+   "reveal": 59.49,
+   "moveEnd": 59.89,
+   "aStart": 60.04,
+   "end": 61.74
+  },
+  {
+   "level": "EASY",
+   "flag": "br",
+   "name": "Brazil",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "Brazil."
+   },
+   "start": 61.74,
+   "qAudio": "audio/flag-blitz-1/q10.mp3",
+   "aAudio": "audio/flag-blitz-1/a10.mp3",
+   "thinkStart": 62.85,
+   "reveal": 65.85,
+   "moveEnd": 66.25,
+   "aStart": 66.4,
+   "end": 68.1
+  },
+  {
+   "level": "EASY",
+   "flag": "ch",
+   "name": "Switzerland",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Switzerland."
+   },
+   "start": 68.1,
+   "qAudio": "audio/flag-blitz-1/q11.mp3",
+   "aAudio": "audio/flag-blitz-1/a11.mp3",
+   "thinkStart": 69.12,
+   "reveal": 72.12,
+   "moveEnd": 72.52,
+   "aStart": 72.67,
+   "end": 74.37
+  },
+  {
+   "level": "EASY",
+   "flag": "au",
+   "name": "Australia",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Australia."
+   },
+   "start": 74.37,
+   "qAudio": "audio/flag-blitz-1/q12.mp3",
+   "aAudio": "audio/flag-blitz-1/a12.mp3",
+   "thinkStart": 75.69,
+   "reveal": 78.69,
+   "moveEnd": 79.09,
+   "aStart": 79.24,
+   "end": 80.94
+  },
+  {
+   "level": "EASY",
+   "flag": "in",
+   "name": "India",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "India."
+   },
+   "start": 80.94,
+   "qAudio": "audio/flag-blitz-1/q13.mp3",
+   "aAudio": "audio/flag-blitz-1/a13.mp3",
+   "thinkStart": 82.05,
+   "reveal": 85.05,
+   "moveEnd": 85.45,
+   "aStart": 85.6,
+   "end": 87.3
+  },
+  {
+   "level": "EASY",
+   "flag": "za",
+   "name": "South Africa",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "South Africa."
+   },
+   "start": 87.3,
+   "qAudio": "audio/flag-blitz-1/q14.mp3",
+   "aAudio": "audio/flag-blitz-1/a14.mp3",
+   "thinkStart": 88.41,
+   "reveal": 91.41,
+   "moveEnd": 91.81,
+   "aStart": 91.96,
+   "end": 93.66
+  },
+  {
+   "level": "EASY",
+   "flag": "ar",
+   "name": "Argentina",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Argentina."
+   },
+   "start": 93.66,
+   "qAudio": "audio/flag-blitz-1/q15.mp3",
+   "aAudio": "audio/flag-blitz-1/a15.mp3",
+   "thinkStart": 94.53,
+   "reveal": 97.53,
+   "moveEnd": 97.93,
+   "aStart": 98.08,
+   "end": 99.78
+  },
+  {
+   "level": "EASY",
+   "flag": "cn",
+   "name": "China",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "China."
+   },
+   "start": 99.78,
+   "qAudio": "audio/flag-blitz-1/q16.mp3",
+   "aAudio": "audio/flag-blitz-1/a16.mp3",
+   "thinkStart": 100.87,
+   "reveal": 103.87,
+   "moveEnd": 104.27,
+   "aStart": 104.42,
+   "end": 106.12
+  },
+  {
+   "level": "EASY",
+   "flag": "se",
+   "name": "Sweden",
+   "lines": {
+    "q": "Quick!",
+    "a": "Sweden."
+   },
+   "start": 106.12,
+   "qAudio": "audio/flag-blitz-1/q17.mp3",
+   "aAudio": "audio/flag-blitz-1/a17.mp3",
+   "thinkStart": 106.79,
+   "reveal": 109.79,
+   "moveEnd": 110.19,
+   "aStart": 110.34,
+   "end": 112.04
+  },
+  {
+   "level": "EASY",
+   "flag": "jm",
+   "name": "Jamaica",
+   "lines": {
+    "q": "Quick!",
+    "a": "Jamaica."
+   },
+   "start": 112.04,
+   "qAudio": "audio/flag-blitz-1/q18.mp3",
+   "aAudio": "audio/flag-blitz-1/a18.mp3",
+   "thinkStart": 112.71,
+   "reveal": 115.71,
+   "moveEnd": 116.11,
+   "aStart": 116.26,
+   "end": 117.96
+  },
+  {
+   "level": "EASY",
+   "flag": "jp",
+   "name": "Japan",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "Japan."
+   },
+   "start": 117.96,
+   "qAudio": "audio/flag-blitz-1/q19.mp3",
+   "aAudio": "audio/flag-blitz-1/a19.mp3",
+   "thinkStart": 119.26,
+   "reveal": 122.26,
+   "moveEnd": 122.66,
+   "aStart": 122.81,
+   "end": 124.51
+  },
+  {
+   "level": "EASY",
+   "flag": "kr",
+   "name": "South Korea",
+   "lines": {
+    "q": "Which country?",
+    "a": "South Korea."
+   },
+   "start": 124.51,
+   "qAudio": "audio/flag-blitz-1/q20.mp3",
+   "aAudio": "audio/flag-blitz-1/a20.mp3",
+   "thinkStart": 125.52,
+   "reveal": 128.52,
+   "moveEnd": 128.92,
+   "aStart": 129.07,
+   "end": 130.77
+  },
+  {
+   "level": "EASY",
+   "flag": "gr",
+   "name": "Greece",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Greece."
+   },
+   "start": 130.77,
+   "qAudio": "audio/flag-blitz-1/q21.mp3",
+   "aAudio": "audio/flag-blitz-1/a21.mp3",
+   "thinkStart": 132.09,
+   "reveal": 135.09,
+   "moveEnd": 135.49,
+   "aStart": 135.64,
+   "end": 137.34
+  },
+  {
+   "level": "EASY",
+   "flag": "de",
+   "name": "Germany",
+   "lines": {
+    "q": "Which country?",
+    "a": "Germany."
+   },
+   "start": 137.34,
+   "qAudio": "audio/flag-blitz-1/q22.mp3",
+   "aAudio": "audio/flag-blitz-1/a22.mp3",
+   "thinkStart": 138.35,
+   "reveal": 141.35,
+   "moveEnd": 141.75,
+   "aStart": 141.9,
+   "end": 143.6
+  },
+  {
+   "level": "EASY",
+   "flag": "eg",
+   "name": "Egypt",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Egypt."
+   },
+   "start": 143.6,
+   "qAudio": "audio/flag-blitz-1/q23.mp3",
+   "aAudio": "audio/flag-blitz-1/a23.mp3",
+   "thinkStart": 144.47,
+   "reveal": 147.47,
+   "moveEnd": 147.87,
+   "aStart": 148.02,
+   "end": 149.72
+  },
+  {
+   "level": "EASY",
+   "flag": "ca",
+   "name": "Canada",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "Canada."
+   },
+   "start": 149.72,
+   "qAudio": "audio/flag-blitz-1/q24.mp3",
+   "aAudio": "audio/flag-blitz-1/a24.mp3",
+   "thinkStart": 151.02,
+   "reveal": 154.02,
+   "moveEnd": 154.42,
+   "aStart": 154.57,
+   "end": 156.27
+  },
+  {
+   "level": "EASY",
+   "flag": "tr",
+   "name": "Turkey",
+   "lines": {
+    "q": "Quick!",
+    "a": "Turkey."
+   },
+   "start": 156.27,
+   "qAudio": "audio/flag-blitz-1/q25.mp3",
+   "aAudio": "audio/flag-blitz-1/a25.mp3",
+   "thinkStart": 156.94,
+   "reveal": 159.94,
+   "moveEnd": 160.34,
+   "aStart": 160.49,
+   "end": 162.19
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "sa",
+   "name": "Saudi Arabia",
+   "lines": {
+    "q": "Still with us? Subscribe! Level two. Medium. Do you know this one?",
+    "a": "Saudi Arabia."
+   },
+   "start": 162.19,
+   "qAudio": "audio/flag-blitz-1/q26.mp3",
+   "aAudio": "audio/flag-blitz-1/a26.mp3",
+   "thinkStart": 165.46,
+   "reveal": 168.46,
+   "moveEnd": 168.86,
+   "aStart": 169.01,
+   "end": 170.71
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "sg",
+   "name": "Singapore",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Singapore."
+   },
+   "start": 170.71,
+   "qAudio": "audio/flag-blitz-1/q27.mp3",
+   "aAudio": "audio/flag-blitz-1/a27.mp3",
+   "thinkStart": 171.8,
+   "reveal": 174.8,
+   "moveEnd": 175.2,
+   "aStart": 175.35,
+   "end": 177.05
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "pk",
+   "name": "Pakistan",
+   "lines": {
+    "q": "Got it?",
+    "a": "Pakistan."
+   },
+   "start": 177.05,
+   "qAudio": "audio/flag-blitz-1/q28.mp3",
+   "aAudio": "audio/flag-blitz-1/a28.mp3",
+   "thinkStart": 177.78,
+   "reveal": 180.78,
+   "moveEnd": 181.18,
+   "aStart": 181.33,
+   "end": 183.03
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "th",
+   "name": "Thailand",
+   "lines": {
+    "q": "Which country?",
+    "a": "Thailand."
+   },
+   "start": 183.03,
+   "qAudio": "audio/flag-blitz-1/q29.mp3",
+   "aAudio": "audio/flag-blitz-1/a29.mp3",
+   "thinkStart": 184.04,
+   "reveal": 187.04,
+   "moveEnd": 187.44,
+   "aStart": 187.59,
+   "end": 189.29
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "fi",
+   "name": "Finland",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Finland."
+   },
+   "start": 189.29,
+   "qAudio": "audio/flag-blitz-1/q30.mp3",
+   "aAudio": "audio/flag-blitz-1/a30.mp3",
+   "thinkStart": 190.31,
+   "reveal": 193.31,
+   "moveEnd": 193.71,
+   "aStart": 193.86,
+   "end": 195.56
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "ae",
+   "name": "UAE",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "The U A E."
+   },
+   "start": 195.56,
+   "qAudio": "audio/flag-blitz-1/q31.mp3",
+   "aAudio": "audio/flag-blitz-1/a31.mp3",
+   "thinkStart": 196.65,
+   "reveal": 199.65,
+   "moveEnd": 200.05,
+   "aStart": 200.2,
+   "end": 201.9
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "my",
+   "name": "Malaysia",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Malaysia."
+   },
+   "start": 201.9,
+   "qAudio": "audio/flag-blitz-1/q32.mp3",
+   "aAudio": "audio/flag-blitz-1/a32.mp3",
+   "thinkStart": 202.77,
+   "reveal": 205.77,
+   "moveEnd": 206.17,
+   "aStart": 206.32,
+   "end": 208.02
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "ph",
+   "name": "Philippines",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "Philippines."
+   },
+   "start": 208.02,
+   "qAudio": "audio/flag-blitz-1/q33.mp3",
+   "aAudio": "audio/flag-blitz-1/a33.mp3",
+   "thinkStart": 209.32,
+   "reveal": 212.32,
+   "moveEnd": 212.72,
+   "aStart": 212.87,
+   "end": 214.57
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "be",
+   "name": "Belgium",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "Belgium."
+   },
+   "start": 214.57,
+   "qAudio": "audio/flag-blitz-1/q34.mp3",
+   "aAudio": "audio/flag-blitz-1/a34.mp3",
+   "thinkStart": 215.87,
+   "reveal": 218.87,
+   "moveEnd": 219.27,
+   "aStart": 219.42,
+   "end": 221.12
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "ng",
+   "name": "Nigeria",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Nigeria."
+   },
+   "start": 221.12,
+   "qAudio": "audio/flag-blitz-1/q35.mp3",
+   "aAudio": "audio/flag-blitz-1/a35.mp3",
+   "thinkStart": 222.14,
+   "reveal": 225.14,
+   "moveEnd": 225.54,
+   "aStart": 225.69,
+   "end": 227.39
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "co",
+   "name": "Colombia",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Colombia."
+   },
+   "start": 227.39,
+   "qAudio": "audio/flag-blitz-1/q36.mp3",
+   "aAudio": "audio/flag-blitz-1/a36.mp3",
+   "thinkStart": 228.27,
+   "reveal": 231.27,
+   "moveEnd": 231.67,
+   "aStart": 231.82,
+   "end": 233.52
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "ke",
+   "name": "Kenya",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Kenya."
+   },
+   "start": 233.52,
+   "qAudio": "audio/flag-blitz-1/q37.mp3",
+   "aAudio": "audio/flag-blitz-1/a37.mp3",
+   "thinkStart": 234.84,
+   "reveal": 237.84,
+   "moveEnd": 238.24,
+   "aStart": 238.39,
+   "end": 240.09
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "cu",
+   "name": "Cuba",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "Cuba."
+   },
+   "start": 240.09,
+   "qAudio": "audio/flag-blitz-1/q38.mp3",
+   "aAudio": "audio/flag-blitz-1/a38.mp3",
+   "thinkStart": 241.2,
+   "reveal": 244.2,
+   "moveEnd": 244.6,
+   "aStart": 244.75,
+   "end": 246.45
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "cl",
+   "name": "Chile",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Chile."
+   },
+   "start": 246.45,
+   "qAudio": "audio/flag-blitz-1/q39.mp3",
+   "aAudio": "audio/flag-blitz-1/a39.mp3",
+   "thinkStart": 247.32,
+   "reveal": 250.32,
+   "moveEnd": 250.72,
+   "aStart": 250.87,
+   "end": 252.57
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "pl",
+   "name": "Poland",
+   "lines": {
+    "q": "Quick!",
+    "a": "Poland."
+   },
+   "start": 252.57,
+   "qAudio": "audio/flag-blitz-1/q40.mp3",
+   "aAudio": "audio/flag-blitz-1/a40.mp3",
+   "thinkStart": 253.24,
+   "reveal": 256.24,
+   "moveEnd": 256.64,
+   "aStart": 256.79,
+   "end": 258.49
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "hu",
+   "name": "Hungary",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Hungary."
+   },
+   "start": 258.49,
+   "qAudio": "audio/flag-blitz-1/q41.mp3",
+   "aAudio": "audio/flag-blitz-1/a41.mp3",
+   "thinkStart": 259.51,
+   "reveal": 262.51,
+   "moveEnd": 262.91,
+   "aStart": 263.06,
+   "end": 264.76
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "id",
+   "name": "Indonesia",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Indonesia."
+   },
+   "start": 264.76,
+   "qAudio": "audio/flag-blitz-1/q42.mp3",
+   "aAudio": "audio/flag-blitz-1/a42.mp3",
+   "thinkStart": 265.64,
+   "reveal": 268.64,
+   "moveEnd": 269.04,
+   "aStart": 269.19,
+   "end": 270.89
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "dk",
+   "name": "Denmark",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Denmark."
+   },
+   "start": 270.89,
+   "qAudio": "audio/flag-blitz-1/q43.mp3",
+   "aAudio": "audio/flag-blitz-1/a43.mp3",
+   "thinkStart": 271.98,
+   "reveal": 274.98,
+   "moveEnd": 275.38,
+   "aStart": 275.53,
+   "end": 277.23
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "cz",
+   "name": "Czechia",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Czechia."
+   },
+   "start": 277.23,
+   "qAudio": "audio/flag-blitz-1/q44.mp3",
+   "aAudio": "audio/flag-blitz-1/a44.mp3",
+   "thinkStart": 278.25,
+   "reveal": 281.25,
+   "moveEnd": 281.65,
+   "aStart": 281.8,
+   "end": 283.5
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "is",
+   "name": "Iceland",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Iceland."
+   },
+   "start": 283.5,
+   "qAudio": "audio/flag-blitz-1/q45.mp3",
+   "aAudio": "audio/flag-blitz-1/a45.mp3",
+   "thinkStart": 284.59,
+   "reveal": 287.59,
+   "moveEnd": 287.99,
+   "aStart": 288.14,
+   "end": 289.84
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "hr",
+   "name": "Croatia",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "Croatia."
+   },
+   "start": 289.84,
+   "qAudio": "audio/flag-blitz-1/q46.mp3",
+   "aAudio": "audio/flag-blitz-1/a46.mp3",
+   "thinkStart": 290.95,
+   "reveal": 293.95,
+   "moveEnd": 294.35,
+   "aStart": 294.5,
+   "end": 296.2
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "pe",
+   "name": "Peru",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "Peru."
+   },
+   "start": 296.2,
+   "qAudio": "audio/flag-blitz-1/q47.mp3",
+   "aAudio": "audio/flag-blitz-1/a47.mp3",
+   "thinkStart": 297.31,
+   "reveal": 300.31,
+   "moveEnd": 300.71,
+   "aStart": 300.86,
+   "end": 302.56
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "nz",
+   "name": "New Zealand",
+   "lines": {
+    "q": "Which country?",
+    "a": "New Zealand."
+   },
+   "start": 302.56,
+   "qAudio": "audio/flag-blitz-1/q48.mp3",
+   "aAudio": "audio/flag-blitz-1/a48.mp3",
+   "thinkStart": 303.57,
+   "reveal": 306.57,
+   "moveEnd": 306.97,
+   "aStart": 307.12,
+   "end": 308.82
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "ma",
+   "name": "Morocco",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Morocco."
+   },
+   "start": 308.82,
+   "qAudio": "audio/flag-blitz-1/q49.mp3",
+   "aAudio": "audio/flag-blitz-1/a49.mp3",
+   "thinkStart": 310.14,
+   "reveal": 313.14,
+   "moveEnd": 313.54,
+   "aStart": 313.69,
+   "end": 315.39
+  },
+  {
+   "level": "MEDIUM",
+   "flag": "at",
+   "name": "Austria",
+   "lines": {
+    "q": "Quick!",
+    "a": "Austria."
+   },
+   "start": 315.39,
+   "qAudio": "audio/flag-blitz-1/q50.mp3",
+   "aAudio": "audio/flag-blitz-1/a50.mp3",
+   "thinkStart": 316.06,
+   "reveal": 319.06,
+   "moveEnd": 319.46,
+   "aStart": 319.61,
+   "end": 321.31
+  },
+  {
+   "level": "HARD",
+   "flag": "uz",
+   "name": "Uzbekistan",
+   "lines": {
+    "q": "Level three. Hard. Which flag is this?",
+    "a": "Uzbekistan."
+   },
+   "start": 321.31,
+   "qAudio": "audio/flag-blitz-1/q51.mp3",
+   "aAudio": "audio/flag-blitz-1/a51.mp3",
+   "thinkStart": 323.47,
+   "reveal": 326.47,
+   "moveEnd": 326.87,
+   "aStart": 327.02,
+   "end": 328.72
+  },
+  {
+   "level": "HARD",
+   "flag": "kz",
+   "name": "Kazakhstan",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Kazakhstan."
+   },
+   "start": 328.72,
+   "qAudio": "audio/flag-blitz-1/q52.mp3",
+   "aAudio": "audio/flag-blitz-1/a52.mp3",
+   "thinkStart": 329.6,
+   "reveal": 332.6,
+   "moveEnd": 333.0,
+   "aStart": 333.15,
+   "end": 334.85
+  },
+  {
+   "level": "HARD",
+   "flag": "mn",
+   "name": "Mongolia",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Mongolia."
+   },
+   "start": 334.85,
+   "qAudio": "audio/flag-blitz-1/q53.mp3",
+   "aAudio": "audio/flag-blitz-1/a53.mp3",
+   "thinkStart": 335.94,
+   "reveal": 338.94,
+   "moveEnd": 339.34,
+   "aStart": 339.49,
+   "end": 341.19
+  },
+  {
+   "level": "HARD",
+   "flag": "np",
+   "name": "Nepal",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Nepal."
+   },
+   "start": 341.19,
+   "qAudio": "audio/flag-blitz-1/q54.mp3",
+   "aAudio": "audio/flag-blitz-1/a54.mp3",
+   "thinkStart": 342.28,
+   "reveal": 345.28,
+   "moveEnd": 345.68,
+   "aStart": 345.83,
+   "end": 347.53
+  },
+  {
+   "level": "HARD",
+   "flag": "ro",
+   "name": "Romania",
+   "lines": {
+    "q": "Got it?",
+    "a": "Romania."
+   },
+   "start": 347.53,
+   "qAudio": "audio/flag-blitz-1/q55.mp3",
+   "aAudio": "audio/flag-blitz-1/a55.mp3",
+   "thinkStart": 348.26,
+   "reveal": 351.26,
+   "moveEnd": 351.66,
+   "aStart": 351.81,
+   "end": 353.51
+  },
+  {
+   "level": "HARD",
+   "flag": "sn",
+   "name": "Senegal",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Senegal."
+   },
+   "start": 353.51,
+   "qAudio": "audio/flag-blitz-1/q56.mp3",
+   "aAudio": "audio/flag-blitz-1/a56.mp3",
+   "thinkStart": 354.39,
+   "reveal": 357.39,
+   "moveEnd": 357.79,
+   "aStart": 357.94,
+   "end": 359.64
+  },
+  {
+   "level": "HARD",
+   "flag": "ec",
+   "name": "Ecuador",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Ecuador."
+   },
+   "start": 359.64,
+   "qAudio": "audio/flag-blitz-1/q57.mp3",
+   "aAudio": "audio/flag-blitz-1/a57.mp3",
+   "thinkStart": 360.96,
+   "reveal": 363.96,
+   "moveEnd": 364.36,
+   "aStart": 364.51,
+   "end": 366.21
+  },
+  {
+   "level": "HARD",
+   "flag": "sk",
+   "name": "Slovakia",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Slovakia."
+   },
+   "start": 366.21,
+   "qAudio": "audio/flag-blitz-1/q58.mp3",
+   "aAudio": "audio/flag-blitz-1/a58.mp3",
+   "thinkStart": 367.3,
+   "reveal": 370.3,
+   "moveEnd": 370.7,
+   "aStart": 370.85,
+   "end": 372.55
+  },
+  {
+   "level": "HARD",
+   "flag": "lk",
+   "name": "Sri Lanka",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Sri Lanka."
+   },
+   "start": 372.55,
+   "qAudio": "audio/flag-blitz-1/q59.mp3",
+   "aAudio": "audio/flag-blitz-1/a59.mp3",
+   "thinkStart": 373.43,
+   "reveal": 376.43,
+   "moveEnd": 376.83,
+   "aStart": 376.98,
+   "end": 378.68
+  },
+  {
+   "level": "HARD",
+   "flag": "qa",
+   "name": "Qatar",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "Qatar."
+   },
+   "start": 378.68,
+   "qAudio": "audio/flag-blitz-1/q60.mp3",
+   "aAudio": "audio/flag-blitz-1/a60.mp3",
+   "thinkStart": 379.98,
+   "reveal": 382.98,
+   "moveEnd": 383.38,
+   "aStart": 383.53,
+   "end": 385.23
+  },
+  {
+   "level": "HARD",
+   "flag": "al",
+   "name": "Albania",
+   "lines": {
+    "q": "Which country?",
+    "a": "Albania."
+   },
+   "start": 385.23,
+   "qAudio": "audio/flag-blitz-1/q61.mp3",
+   "aAudio": "audio/flag-blitz-1/a61.mp3",
+   "thinkStart": 386.24,
+   "reveal": 389.24,
+   "moveEnd": 389.64,
+   "aStart": 389.79,
+   "end": 391.49
+  },
+  {
+   "level": "HARD",
+   "flag": "dz",
+   "name": "Algeria",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Algeria."
+   },
+   "start": 391.49,
+   "qAudio": "audio/flag-blitz-1/q62.mp3",
+   "aAudio": "audio/flag-blitz-1/a62.mp3",
+   "thinkStart": 392.81,
+   "reveal": 395.81,
+   "moveEnd": 396.21,
+   "aStart": 396.36,
+   "end": 398.06
+  },
+  {
+   "level": "HARD",
+   "flag": "am",
+   "name": "Armenia",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "Armenia."
+   },
+   "start": 398.06,
+   "qAudio": "audio/flag-blitz-1/q63.mp3",
+   "aAudio": "audio/flag-blitz-1/a63.mp3",
+   "thinkStart": 399.36,
+   "reveal": 402.36,
+   "moveEnd": 402.76,
+   "aStart": 402.91,
+   "end": 404.61
+  },
+  {
+   "level": "HARD",
+   "flag": "lv",
+   "name": "Latvia",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Latvia."
+   },
+   "start": 404.61,
+   "qAudio": "audio/flag-blitz-1/q64.mp3",
+   "aAudio": "audio/flag-blitz-1/a64.mp3",
+   "thinkStart": 405.93,
+   "reveal": 408.93,
+   "moveEnd": 409.33,
+   "aStart": 409.48,
+   "end": 411.18
+  },
+  {
+   "level": "HARD",
+   "flag": "py",
+   "name": "Paraguay",
+   "lines": {
+    "q": "Which country?",
+    "a": "Paraguay."
+   },
+   "start": 411.18,
+   "qAudio": "audio/flag-blitz-1/q65.mp3",
+   "aAudio": "audio/flag-blitz-1/a65.mp3",
+   "thinkStart": 412.19,
+   "reveal": 415.19,
+   "moveEnd": 415.59,
+   "aStart": 415.74,
+   "end": 417.44
+  },
+  {
+   "level": "HARD",
+   "flag": "ge",
+   "name": "Georgia",
+   "lines": {
+    "q": "Got it?",
+    "a": "Georgia."
+   },
+   "start": 417.44,
+   "qAudio": "audio/flag-blitz-1/q66.mp3",
+   "aAudio": "audio/flag-blitz-1/a66.mp3",
+   "thinkStart": 418.17,
+   "reveal": 421.17,
+   "moveEnd": 421.57,
+   "aStart": 421.72,
+   "end": 423.42
+  },
+  {
+   "level": "HARD",
+   "flag": "ci",
+   "name": "Ivory Coast",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "Ivory Coast."
+   },
+   "start": 423.42,
+   "qAudio": "audio/flag-blitz-1/q67.mp3",
+   "aAudio": "audio/flag-blitz-1/a67.mp3",
+   "thinkStart": 424.53,
+   "reveal": 427.53,
+   "moveEnd": 427.93,
+   "aStart": 428.08,
+   "end": 429.78
+  },
+  {
+   "level": "HARD",
+   "flag": "uy",
+   "name": "Uruguay",
+   "lines": {
+    "q": "Got it?",
+    "a": "Uruguay."
+   },
+   "start": 429.78,
+   "qAudio": "audio/flag-blitz-1/q68.mp3",
+   "aAudio": "audio/flag-blitz-1/a68.mp3",
+   "thinkStart": 430.51,
+   "reveal": 433.51,
+   "moveEnd": 433.91,
+   "aStart": 434.06,
+   "end": 435.76
+  },
+  {
+   "level": "HARD",
+   "flag": "mk",
+   "name": "North Macedonia",
+   "lines": {
+    "q": "Too easy?",
+    "a": "North Macedonia."
+   },
+   "start": 435.76,
+   "qAudio": "audio/flag-blitz-1/q69.mp3",
+   "aAudio": "audio/flag-blitz-1/a69.mp3",
+   "thinkStart": 436.64,
+   "reveal": 439.64,
+   "moveEnd": 440.04,
+   "aStart": 440.19,
+   "end": 441.89
+  },
+  {
+   "level": "HARD",
+   "flag": "tn",
+   "name": "Tunisia",
+   "lines": {
+    "q": "Got it?",
+    "a": "Tunisia."
+   },
+   "start": 441.89,
+   "qAudio": "audio/flag-blitz-1/q70.mp3",
+   "aAudio": "audio/flag-blitz-1/a70.mp3",
+   "thinkStart": 442.62,
+   "reveal": 445.62,
+   "moveEnd": 446.02,
+   "aStart": 446.17,
+   "end": 447.87
+  },
+  {
+   "level": "HARD",
+   "flag": "ba",
+   "name": "Bosnia",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "Bosnia and Herzegovina."
+   },
+   "start": 447.87,
+   "qAudio": "audio/flag-blitz-1/q71.mp3",
+   "aAudio": "audio/flag-blitz-1/a71.mp3",
+   "thinkStart": 448.98,
+   "reveal": 451.98,
+   "moveEnd": 452.38,
+   "aStart": 452.53,
+   "end": 454.3
+  },
+  {
+   "level": "HARD",
+   "flag": "lt",
+   "name": "Lithuania",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Lithuania."
+   },
+   "start": 454.3,
+   "qAudio": "audio/flag-blitz-1/q72.mp3",
+   "aAudio": "audio/flag-blitz-1/a72.mp3",
+   "thinkStart": 455.32,
+   "reveal": 458.32,
+   "moveEnd": 458.72,
+   "aStart": 458.87,
+   "end": 460.57
+  },
+  {
+   "level": "HARD",
+   "flag": "ee",
+   "name": "Estonia",
+   "lines": {
+    "q": "Name this flag.",
+    "a": "Estonia."
+   },
+   "start": 460.57,
+   "qAudio": "audio/flag-blitz-1/q73.mp3",
+   "aAudio": "audio/flag-blitz-1/a73.mp3",
+   "thinkStart": 461.68,
+   "reveal": 464.68,
+   "moveEnd": 465.08,
+   "aStart": 465.23,
+   "end": 466.93
+  },
+  {
+   "level": "HARD",
+   "flag": "gh",
+   "name": "Ghana",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "Ghana."
+   },
+   "start": 466.93,
+   "qAudio": "audio/flag-blitz-1/q74.mp3",
+   "aAudio": "audio/flag-blitz-1/a74.mp3",
+   "thinkStart": 468.23,
+   "reveal": 471.23,
+   "moveEnd": 471.63,
+   "aStart": 471.78,
+   "end": 473.48
+  },
+  {
+   "level": "HARD",
+   "flag": "si",
+   "name": "Slovenia",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Slovenia."
+   },
+   "start": 473.48,
+   "qAudio": "audio/flag-blitz-1/q75.mp3",
+   "aAudio": "audio/flag-blitz-1/a75.mp3",
+   "thinkStart": 474.36,
+   "reveal": 477.36,
+   "moveEnd": 477.76,
+   "aStart": 477.91,
+   "end": 479.61
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "fm",
+   "name": "Micronesia",
+   "lines": {
+    "q": "Final level. Impossible! What country is this?",
+    "a": "Micronesia."
+   },
+   "start": 479.61,
+   "qAudio": "audio/flag-blitz-1/q76.mp3",
+   "aAudio": "audio/flag-blitz-1/a76.mp3",
+   "thinkStart": 482.26,
+   "reveal": 485.26,
+   "moveEnd": 485.66,
+   "aStart": 485.81,
+   "end": 487.51
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "gd",
+   "name": "Grenada",
+   "lines": {
+    "q": "Which flag is this?",
+    "a": "Grenada."
+   },
+   "start": 487.51,
+   "qAudio": "audio/flag-blitz-1/q77.mp3",
+   "aAudio": "audio/flag-blitz-1/a77.mp3",
+   "thinkStart": 488.81,
+   "reveal": 491.81,
+   "moveEnd": 492.21,
+   "aStart": 492.36,
+   "end": 494.06
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "gq",
+   "name": "Equatorial Guinea",
+   "lines": {
+    "q": "Which country?",
+    "a": "Equatorial Guinea."
+   },
+   "start": 494.06,
+   "qAudio": "audio/flag-blitz-1/q78.mp3",
+   "aAudio": "audio/flag-blitz-1/a78.mp3",
+   "thinkStart": 495.07,
+   "reveal": 498.07,
+   "moveEnd": 498.47,
+   "aStart": 498.62,
+   "end": 500.32
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "lc",
+   "name": "Saint Lucia",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Saint Lucia."
+   },
+   "start": 500.32,
+   "qAudio": "audio/flag-blitz-1/q79.mp3",
+   "aAudio": "audio/flag-blitz-1/a79.mp3",
+   "thinkStart": 501.19,
+   "reveal": 504.19,
+   "moveEnd": 504.59,
+   "aStart": 504.74,
+   "end": 506.44
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "vc",
+   "name": "Saint Vincent",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Saint Vincent and the Grenadines."
+   },
+   "start": 506.44,
+   "qAudio": "audio/flag-blitz-1/q80.mp3",
+   "aAudio": "audio/flag-blitz-1/a80.mp3",
+   "thinkStart": 507.32,
+   "reveal": 510.32,
+   "moveEnd": 510.72,
+   "aStart": 510.87,
+   "end": 512.81
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "ls",
+   "name": "Lesotho",
+   "lines": {
+    "q": "Which country?",
+    "a": "Lesotho."
+   },
+   "start": 512.81,
+   "qAudio": "audio/flag-blitz-1/q81.mp3",
+   "aAudio": "audio/flag-blitz-1/a81.mp3",
+   "thinkStart": 513.82,
+   "reveal": 516.82,
+   "moveEnd": 517.22,
+   "aStart": 517.37,
+   "end": 519.07
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "mr",
+   "name": "Mauritania",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Mauritania."
+   },
+   "start": 519.07,
+   "qAudio": "audio/flag-blitz-1/q82.mp3",
+   "aAudio": "audio/flag-blitz-1/a82.mp3",
+   "thinkStart": 519.94,
+   "reveal": 522.94,
+   "moveEnd": 523.34,
+   "aStart": 523.49,
+   "end": 525.19
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "cf",
+   "name": "Central African Rep.",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Central African Republic."
+   },
+   "start": 525.19,
+   "qAudio": "audio/flag-blitz-1/q83.mp3",
+   "aAudio": "audio/flag-blitz-1/a83.mp3",
+   "thinkStart": 526.06,
+   "reveal": 529.06,
+   "moveEnd": 529.46,
+   "aStart": 529.61,
+   "end": 531.41
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "ws",
+   "name": "Samoa",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Samoa."
+   },
+   "start": 531.41,
+   "qAudio": "audio/flag-blitz-1/q84.mp3",
+   "aAudio": "audio/flag-blitz-1/a84.mp3",
+   "thinkStart": 532.5,
+   "reveal": 535.5,
+   "moveEnd": 535.9,
+   "aStart": 536.05,
+   "end": 537.75
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "bt",
+   "name": "Bhutan",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Bhutan."
+   },
+   "start": 537.75,
+   "qAudio": "audio/flag-blitz-1/q85.mp3",
+   "aAudio": "audio/flag-blitz-1/a85.mp3",
+   "thinkStart": 538.84,
+   "reveal": 541.84,
+   "moveEnd": 542.24,
+   "aStart": 542.39,
+   "end": 544.09
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "ki",
+   "name": "Kiribati",
+   "lines": {
+    "q": "Do you know this one?",
+    "a": "Kiribati."
+   },
+   "start": 544.09,
+   "qAudio": "audio/flag-blitz-1/q86.mp3",
+   "aAudio": "audio/flag-blitz-1/a86.mp3",
+   "thinkStart": 545.18,
+   "reveal": 548.18,
+   "moveEnd": 548.58,
+   "aStart": 548.73,
+   "end": 550.43
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "kn",
+   "name": "Saint Kitts and Nevis",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Saint Kitts and Nevis."
+   },
+   "start": 550.43,
+   "qAudio": "audio/flag-blitz-1/q87.mp3",
+   "aAudio": "audio/flag-blitz-1/a87.mp3",
+   "thinkStart": 551.3,
+   "reveal": 554.3,
+   "moveEnd": 554.7,
+   "aStart": 554.85,
+   "end": 556.55
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "mh",
+   "name": "Marshall Islands",
+   "lines": {
+    "q": "What country is this?",
+    "a": "Marshall Islands."
+   },
+   "start": 556.55,
+   "qAudio": "audio/flag-blitz-1/q88.mp3",
+   "aAudio": "audio/flag-blitz-1/a88.mp3",
+   "thinkStart": 557.87,
+   "reveal": 560.87,
+   "moveEnd": 561.27,
+   "aStart": 561.42,
+   "end": 563.12
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "sb",
+   "name": "Solomon Islands",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Solomon Islands."
+   },
+   "start": 563.12,
+   "qAudio": "audio/flag-blitz-1/q89.mp3",
+   "aAudio": "audio/flag-blitz-1/a89.mp3",
+   "thinkStart": 564.14,
+   "reveal": 567.14,
+   "moveEnd": 567.54,
+   "aStart": 567.69,
+   "end": 569.39
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "nr",
+   "name": "Nauru",
+   "lines": {
+    "q": "Got it?",
+    "a": "Nauru."
+   },
+   "start": 569.39,
+   "qAudio": "audio/flag-blitz-1/q90.mp3",
+   "aAudio": "audio/flag-blitz-1/a90.mp3",
+   "thinkStart": 570.12,
+   "reveal": 573.12,
+   "moveEnd": 573.52,
+   "aStart": 573.67,
+   "end": 575.37
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "tl",
+   "name": "East Timor",
+   "lines": {
+    "q": "Quick!",
+    "a": "East Timor."
+   },
+   "start": 575.37,
+   "qAudio": "audio/flag-blitz-1/q91.mp3",
+   "aAudio": "audio/flag-blitz-1/a91.mp3",
+   "thinkStart": 576.04,
+   "reveal": 579.04,
+   "moveEnd": 579.44,
+   "aStart": 579.59,
+   "end": 581.29
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "bf",
+   "name": "Burkina Faso",
+   "lines": {
+    "q": "Quick!",
+    "a": "Burkina Faso."
+   },
+   "start": 581.29,
+   "qAudio": "audio/flag-blitz-1/q92.mp3",
+   "aAudio": "audio/flag-blitz-1/a92.mp3",
+   "thinkStart": 581.96,
+   "reveal": 584.96,
+   "moveEnd": 585.36,
+   "aStart": 585.51,
+   "end": 587.21
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "er",
+   "name": "Eritrea",
+   "lines": {
+    "q": "Quick!",
+    "a": "Eritrea."
+   },
+   "start": 587.21,
+   "qAudio": "audio/flag-blitz-1/q93.mp3",
+   "aAudio": "audio/flag-blitz-1/a93.mp3",
+   "thinkStart": 587.88,
+   "reveal": 590.88,
+   "moveEnd": 591.28,
+   "aStart": 591.43,
+   "end": 593.13
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "to",
+   "name": "Tonga",
+   "lines": {
+    "q": "Which country?",
+    "a": "Tonga."
+   },
+   "start": 593.13,
+   "qAudio": "audio/flag-blitz-1/q94.mp3",
+   "aAudio": "audio/flag-blitz-1/a94.mp3",
+   "thinkStart": 594.14,
+   "reveal": 597.14,
+   "moveEnd": 597.54,
+   "aStart": 597.69,
+   "end": 599.39
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "st",
+   "name": "São Tomé",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Sao Tome and Principe."
+   },
+   "start": 599.39,
+   "qAudio": "audio/flag-blitz-1/q95.mp3",
+   "aAudio": "audio/flag-blitz-1/a95.mp3",
+   "thinkStart": 600.27,
+   "reveal": 603.27,
+   "moveEnd": 603.67,
+   "aStart": 603.82,
+   "end": 605.52
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "tv",
+   "name": "Tuvalu",
+   "lines": {
+    "q": "Got it?",
+    "a": "Tuvalu."
+   },
+   "start": 605.52,
+   "qAudio": "audio/flag-blitz-1/q96.mp3",
+   "aAudio": "audio/flag-blitz-1/a96.mp3",
+   "thinkStart": 606.25,
+   "reveal": 609.25,
+   "moveEnd": 609.65,
+   "aStart": 609.8,
+   "end": 611.5
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "pw",
+   "name": "Palau",
+   "lines": {
+    "q": "Too easy?",
+    "a": "Palau."
+   },
+   "start": 611.5,
+   "qAudio": "audio/flag-blitz-1/q97.mp3",
+   "aAudio": "audio/flag-blitz-1/a97.mp3",
+   "thinkStart": 612.38,
+   "reveal": 615.38,
+   "moveEnd": 615.78,
+   "aStart": 615.93,
+   "end": 617.63
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "km",
+   "name": "Comoros",
+   "lines": {
+    "q": "Got it?",
+    "a": "Comoros."
+   },
+   "start": 617.63,
+   "qAudio": "audio/flag-blitz-1/q98.mp3",
+   "aAudio": "audio/flag-blitz-1/a98.mp3",
+   "thinkStart": 618.36,
+   "reveal": 621.36,
+   "moveEnd": 621.76,
+   "aStart": 621.91,
+   "end": 623.61
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "dm",
+   "name": "Dominica",
+   "lines": {
+    "q": "Think fast!",
+    "a": "Dominica."
+   },
+   "start": 623.61,
+   "qAudio": "audio/flag-blitz-1/q99.mp3",
+   "aAudio": "audio/flag-blitz-1/a99.mp3",
+   "thinkStart": 624.48,
+   "reveal": 627.48,
+   "moveEnd": 627.88,
+   "aStart": 628.03,
+   "end": 629.73
+  },
+  {
+   "level": "IMPOSSIBLE",
+   "flag": "sc",
+   "name": "Seychelles",
+   "lines": {
+    "q": "Look closely.",
+    "a": "Seychelles."
+   },
+   "start": 629.73,
+   "qAudio": "audio/flag-blitz-1/q100.mp3",
+   "aAudio": "audio/flag-blitz-1/a100.mp3",
+   "thinkStart": 630.75,
+   "reveal": 633.75,
+   "moveEnd": 634.15,
+   "aStart": 634.3,
+   "end": 636.0
+  }
+ ],
+ "thumbTexts": [
+  "**80/100**?",
+  "",
+  "IMPOSSIBLE?"
+ ],
+ "hook": {
+  "audio": "audio/flag-blitz-1/hook.mp3",
+  "start": 0.0,
+  "end": 4.38
+ },
+ "outro": {
+  "start": 636.0,
+  "audio": "audio/flag-blitz-1/outro.mp3"
+ },
+ "durationInSeconds": 645.61
+}

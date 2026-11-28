@@ -1,12 +1,13 @@
-# Zuschauer-Kommentare – Stand 2026-11-28 02:48
+# Zuschauer-Kommentare – Stand 2026-11-28 06:16
 
-Letzte 21 Tage, ohne unsere eigenen. 52 Kommentare, 9 unbeantwortet.
+Letzte 21 Tage, ohne unsere eigenen. 53 Kommentare, 2 unbeantwortet.
 Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "…"}) – der nächste Kommentar-Lauf postet sie.
 
 ## Gemeldete Ergebnisse
 
 | Video | Score |
 |---|---|
+| Real or Fake Flag? #3 Can You Spot All 4? 🧐 #shorts | 4/4 |
 | Real or Fake Flag? #3 Can You Spot All 4? 🧐 #shorts | 4/4 |
 | Missing Symbol Flag Quiz #1: Spot the Real Portugal 🔍 #short | 4/4 |
 | Real or Fake Flag? #2 Can You Spot All 4? 🧐 #shorts | 4/4 |
@@ -43,17 +44,19 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 - 2026-11-08 · Which Country Has More People? 4 Rounds 90% Fail 👥 · @celynatividad4584 · id `UgyVcJTLmg_-SSuhTKx4AaABAg`  
   „So what’s the point of all the comparison?“
 
-## SCORE (24)
+## SCORE (25)
 
-- 2026-11-28 · Real or Fake Flag? #3 Can You Spot All 4? 🧐 #short · @xiavue2786 **[OFFEN]** · id `UgzGy4s0nM2bnJ5SYpt4AaABAg`  
+- 2026-11-28 · Real or Fake Flag? #3 Can You Spot All 4? 🧐 #short · @БибигульЕлюбаева-г4е **[OFFEN]** · id `UgwBU3TPuzUqKRa6eB54AaABAg`  
+  „4/4“
+- 2026-11-28 · Real or Fake Flag? #3 Can You Spot All 4? 🧐 #short · @xiavue2786 · id `UgzGy4s0nM2bnJ5SYpt4AaABAg`  
   „4/4 flags“
-- 2026-11-28 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @miguelitoambray1683 **[OFFEN]** · id `UgzmSkUzVbot34PLLv14AaABAg.Adiiu2aXLapAdjUC2e9ka0`  
+- 2026-11-28 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @miguelitoambray1683 · id `UgzmSkUzVbot34PLLv14AaABAg.Adiiu2aXLapAdjUC2e9ka0`  
   „4/4“
 - 2026-11-27 · Real or Fake Flag? #2 Can You Spot All 4? 🧐 #short · @letter-E123 · id `UgyiIMhMYJzdST8fDfh4AaABAg`  
   „4/4“
 - 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @seynaboudiokhane3442 · id `UgxrBgA-pN-ojjkhFyF4AaABAg`  
   „3/4“
-- 2026-11-27 · Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #s · @JoannSison-y8i **[OFFEN]** · id `UgyKPkGQ9GrqyBkvQal4AaABAg`  
+- 2026-11-27 · Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #s · @JoannSison-y8i · id `UgyKPkGQ9GrqyBkvQal4AaABAg`  
   „4/5“
 - 2026-11-27 · Flag Quiz #5: Which One Is Liberia? The Last One I · @JellieMaeLopez · id `UgziXOWg5C1-ohLaaxp4AaABAg`  
   „4/4“
@@ -96,15 +99,15 @@ Antworten: Einträge in autopilot/replies.json ({"commentId": "…", "text": "�
 
 ## SONSTIGES (25)
 
-- 2026-11-28 · Flag Quiz #6: Which One Is Niger? The Last One Is  · @AsiarVal **[OFFEN]** · id `Ugynrpqm_MLXL0kdm1Z4AaABAg`  
+- 2026-11-28 · Flag Quiz #6: Which One Is Niger? The Last One Is  · @AsiarVal · id `Ugynrpqm_MLXL0kdm1Z4AaABAg`  
   „4“
-- 2026-11-28 · Real or Fake Flag? #2 Can You Spot All 4? 🧐 #short · @AbdullahRayhan2007 **[OFFEN]** · id `UgxqvKDhIWs4yVpQTAJ4AaABAg`  
+- 2026-11-28 · Real or Fake Flag? #2 Can You Spot All 4? 🧐 #short · @AbdullahRayhan2007 · id `UgxqvKDhIWs4yVpQTAJ4AaABAg`  
   „Four out of four“
-- 2026-11-28 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @srinteriords **[OFFEN]** · id `UgwfdXcDZ3aGov4DP4V4AaABAg`  
+- 2026-11-28 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @srinteriords · id `UgwfdXcDZ3aGov4DP4V4AaABAg`  
   „I only got the last right“
-- 2026-11-27 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @AkatoSema-z4e **[OFFEN]** · id `UgzyBYZ2MaQoh5cCO1N4AaABAg`  
+- 2026-11-27 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @AkatoSema-z4e · id `UgzyBYZ2MaQoh5cCO1N4AaABAg`  
   „I 4 debate“
-- 2026-11-27 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @АйнурКемалашова **[OFFEN]** · id `UgyuhiranJkGZ9oYflp4AaABAg`  
+- 2026-11-27 · Missing Symbol Flag Quiz #1: Spot the Real Portuga · @АйнурКемалашова · id `UgyuhiranJkGZ9oYflp4AaABAg`  
   „🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿🇰🇿“
 - 2026-11-26 · Flag Quiz #4: Left or Right? Can You Get 4/4? 🌍 #s · @michaeltomassi5202 **[OFFEN]** · id `UgxvpoLqrvwhF-ILrEx4AaABAg`  
   „uhijh“
