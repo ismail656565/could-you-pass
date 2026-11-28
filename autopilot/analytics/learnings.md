@@ -898,3 +898,9 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Queue-Kaskade aufgelöst: flag-duel-6 → 27.11. 16:00, flag-duel-7 → 28.11. 16:00 (Fix 57dec2d aktiv). Fr 27.11. damit 3/3 Shorts (Missing Symbol #1 12:00, Flag Duel #6 16:00, Real or Fake #3 21:00); kein Long (Fr ist kein Long-Tag).
 - 26.11.: 4 Uploads (Christmas-Long, Flag Duel #4, Real or Fake #2, Flag Duel #5 ungeplant 17:47) – alle Läufe grün, kein weiterer Code-Fix nötig.
 - Neu: flag-duel-8 (29.11., IE/IT, SI/RU, VE/EC, AD/MD; Gewinner a/b/a/b). Queue bis So 29.11. vollständig (9 Shorts + Flag Blitz Long Sa).
+
+## 2026-11-28 – Research
+- Kanal 79 Abos (+18 in ≈24 h, Vortag 61) – bester Tag; Analytics gesamt 58/43.541 = 1,33 pro 1.000 (Verzug), live ≈ 2,2/1k. 100er-Ziel voraussichtlich Mitte Dezember.
+- **Missing Symbol #1 (Portugal) 2.334 Views n. ≈8 h = schnellster Start des Kanals** → Missing Symbol ist Exploit (täglich 12:00), nicht mehr Experiment. Schwierigkeit passt (auch 1/4-Kommentare).
+- Real or Fake #2 1.671 n. 1,7 T vs #1 3.171 → generischer Titel + grobe Fälschungen; ab #4 Land im Titel, Fälschungen nur 1 Detail. 18/23 gemeldete Scores 4/4.
+- Zuschauer-Wunsch Kazakhstan (16× 🇰🇿) → Real or Fake #6 am 30.11. versprochen. Events: St Andrew's Day 30.11., Rumänien 1.12., UAE 2.12. Kommentare 8/9 beantwortet, kein Faktenfehler.
