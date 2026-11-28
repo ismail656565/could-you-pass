@@ -375,11 +375,11 @@ def build_audio(item, out_mp3):
 
 # ---------------------------------------------------------------- Upload
 PUBLISH_AT = {'short': '16:00', 'long': '14:00'}  # deutsche Uhrzeit
-SHORT_SLOTS = ['12:00', '16:00', '21:00']  # bis zu 3 Shorts pro Tag (UK-Mittag / UK-Nachmittag / US-Nachmittag) – Besitzer 26.11.
+SHORT_SLOTS = ['12:00', '14:00', '16:00', '21:00']  # 4 Shorts pro Tag – Besitzer 28.11.: Fokus 3 Mio. Shorts-Views, Longs pausiert
 PER_DAY = {'short': len(SHORT_SLOTS), 'long': 1}
 # Lange Videos nur noch an festen Tagen (0 = Montag): Di, Do, Sa. Grund (09.11.): 20 tägliche Longs seit 22.10.
 # mit 0–14 Views – lieber 3 starke pro Woche als 7 gleichförmige; spart außerdem Action-Minuten.
-LONG_DAYS = {1, 3, 5}
+LONG_DAYS = set()  # 28.11.: Longs pausiert (Besitzer: Fokus Shorts). Einzeltest nur per item force. Vorher {1, 3, 5}
 
 
 def long_day(day=None):

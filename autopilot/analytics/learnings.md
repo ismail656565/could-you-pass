@@ -918,3 +918,10 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - Missing Symbol #1 **5,7k Views n. 21 h 46**, 85 Likes (1,5 %), 9 Kommentare = stärkster Short des Kanals. Flag Duel #6 3,7k n. 17 h 46 (33 Likes). Real or Fake #3 1,2k n. 12 h 46 (19 Likes = 1,6 %).
 - **Neue Ziel-Leiter:** 300 Abos bis 31.12., 500 Abos bis 31.01. (Fan-Funding-Stufe braucht zusätzlich 3 Mio. Shorts-Views in 90 T). KPI Abos/1.000 bleibt (Ziel ≥ 2,0).
 - Folge: Missing Symbol hat Vorrang (stärkster Start). Wenn #2/#3 n. 24 h ≥ 3.000, zweite Missing-Symbol-Folge statt Real or Fake an Tagen, an denen Real or Fake < 1.500 n. 24 h liegt.
+
+## 2026-11-28 12:00 – STRATEGIE (Besitzer: „Jetzt auf die 3 Millionen konzentrieren, Longs kacken leider ab“) – GILT AB SOFORT
+- Ziel: **3 Mio. Shorts-Views in 90 Tagen** (Fan-Funding-Stufe, zusammen mit 500 Abos) = Ø ≈ 33.000 Views/Tag. Stand 28.11.: 59,3k Views in 28 T, letzte 24 h ≈ 12–15k (Missing Symbol #1 6,8k, Flag Duel #6 4,1k, Real or Fake #3 1,3k) → Faktor ≈ 2,5 nötig.
+- **Longs pausiert:** LONG_DAYS = set() in autopilot.py, generate_queue erzeugt keine Longs mehr. Flag Blitz #1 (28.11.) läuft als letzter Test; Verdict 01.12. Einzelne Long-Tests nur noch per `"force": true` in der Queue-Datei. science-quiz-30-1 → queue/backlog/.
+- **4 Shorts pro Tag:** SHORT_SLOTS = 12:00 / **14:00** / 16:00 / 21:00 (alter Long-Slot). 14:00 = neue Flaggen-Serie im flagduel-Renderer („Upside Down Flag Quiz #N“, Fake = Flagge umgedreht/gespiegelt; nur Flaggen, deren Umkehrung KEINE echte Flagge ist und deutlich sichtbar ist; verboten: Polen/Indonesien/Monaco, Philippinen (= Kriegsflagge), symmetrische Flaggen).
+- Hebel für die 3 Mio. (Reihenfolge): (1) mehr Versuche im Gewinnerformat, (2) schwerere Runden (< 70 % 4/4 → mehr Rewatch/Kommentare), (3) Land im Titel + Länderwünsche aus Kommentaren, (4) Gewinner innerhalb 24 h nachlegen (gleiche Serie, gleicher Titeltyp), (5) Missing Symbol vor Real or Fake bevorzugen.
+- Abbruchkriterium: Fällt der Median Views/Short über 7 Tage um > 30 % gegenüber der 3-Shorts-Woche (27.–29.11.), zurück auf 3 Slots.

@@ -147,9 +147,9 @@ def ensure_queue():
                 queued_keys.add(key)
 
     missing = {
-        "short": max(0, 3 - done_today["short"] - len(queued["short"])),
-        # lange Videos nur Di/Do/Sa (siehe LONG_DAYS in autopilot.py)
-        "long": max(0, (1 if today.weekday() in (1, 3, 5) else 0) - done_today["long"] - len(queued["long"])),
+        "short": max(0, 4 - done_today["short"] - len(queued["short"])),
+        # lange Videos pausiert seit 28.11. (LONG_DAYS leer in autopilot.py)
+        "long": max(0, 0 - done_today["long"] - len(queued["long"])),
     }
     if not any(missing.values()):
         print(
@@ -248,10 +248,17 @@ def ensure_queue():
     random.Random(today.toordinal() + done_today["short"] * 11 + done_today["long"] * 31).shuffle(pool)
     cursor = 0
     specs = []
+    taken = set()
+    for qp in queued["short"]:
+        try:
+            taken.add(json.loads(qp.read_text(encoding="utf-8")).get("publishAt"))
+        except Exception:
+            pass
+    free = [t for t in ("12:00", "14:00", "16:00", "21:00") if t not in taken] or ["21:00"]
     for offset in range(missing["short"]):
         slot = done_today["short"] + len(queued["short"]) + offset
         suffix = f"short-{slot + 1}"
-        specs.append((suffix, "short", pool[cursor:cursor + 1], ("12:00", "16:00", "21:00")[min(slot, 2)]))
+        specs.append((suffix, "short", pool[cursor:cursor + 1], free[min(offset, len(free) - 1)]))
         cursor += 1
     if missing["long"]:
         rank = {"EASY": 0, "MEDIUM": 1, "HARD": 2, "VERY HARD": 3, "EXPERT": 3, "LEGEND": 4}
