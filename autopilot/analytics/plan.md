@@ -75,3 +75,12 @@ Bandit 28.11.–1.12. (14 Slots): 11 Exploit (Flaggen-Serien), 3 Experiment (Fla
 4. **Kazakhstan-Versprechen einhalten** (Real or Fake #6, 30.11.).
 5. Science-Long: 30 eigene, per WebSearch geprüfte Fragen; keine Fragen aus iq-test-1/six-q-science-trivia wiederholen; thumbTexts[1] = „CAN YOU GET **20**?“; Kommentar „You asked for it – science! @Jo-wl5fj, how many did you get?“.
 6. Titel ohne erfundene Prozente; keine Halloween-/Alters-/Politik-Themen; Longs nur Di/Do/Sa 14:00; Shorts 12:00/16:00/21:00.
+
+## NACHTRAG 28.11. 12:00 – Besitzer: Fokus 3 Mio. Shorts-Views, Longs pausiert (Code 67f609a)
+**Für den Produktions-Agenten (nächster Lauf, VOR dem 08:15-Lauf anlegen):**
+1. Neuer Slot **14:00 täglich** = „Upside Down Flag Quiz #N“ (flagduel-Renderer, `ask: "WHICH IS THE REAL"`, Fake = `fake/<iso2>-flip.svg`, umgedreht oder gespiegelt). Regeln: Umkehrung deutlich sichtbar und KEINE echte Flagge (verboten: pl/id/mc, ph, symmetrische Flaggen). E23-Timing, Like-CTA, Kommentar mit Score + Land wie alle Flaggen-Serien.
+   - `2026-11-29-upside-down-1.json`: **Canada · Mexico · Brazil · South Korea**, Titel „Upside Down Flag Quiz #1: Spot the Real Canada 🙃 #shorts“, Gewinner a/b/b/a.
+   - `2026-11-30-upside-down-2.json`: **USA · Nepal (gespiegelt) · Sri Lanka · Kenya**, Titel „Upside Down Flag Quiz #2: Spot the Real Nepal 🙃 #shorts“.
+   - `2026-12-01-science-short-1.json` (exam-Hochformat, 4 Fragen, ≤ 30 s): Zuschauer-Wunsch @Jo-wl5fj, Titel „Science Quiz #1: Can You Get 4/4? 🔬 #shorts“, Kommentar „You asked for it – science!“. Einmaliger Wunsch-Slot, danach 14:00 wieder Upside Down.
+2. `queue/2026-12-01-science-quiz-30-1.json` liegt jetzt in queue/backlog/ (Longs pausiert) – nicht zurückholen.
+3. Erfolg 14:00-Serie (E30): Median #1–#3 ≥ 1.500 n. 3 T; sonst 14:00 = zweite Missing-Symbol-Folge.
