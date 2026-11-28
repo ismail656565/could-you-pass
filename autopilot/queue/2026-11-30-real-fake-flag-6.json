@@ -1,0 +1,111 @@
+{
+ "id": "real-fake-flag-6",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "Real or Fake Flag? #6 Can You Spot the Real Kazakhstan? 🧐 #shorts",
+  "description": "One flag is real, one is a sneaky fake – pick the real one before the countdown ends 🧐 Scotland, Kazakhstan, Jamaica and Thailand.\nKazakhstan requested in the comments 🇰🇿 Happy St Andrew's Day, Scotland!\nComment your score out of 4 👇\n\nFollow – Real or Fake Flag #7 drops tomorrow! 🌍\n\n#flagquiz #fakeflag #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), fakes edited by us. Music: original.",
+  "tags": [
+   "real or fake flag",
+   "fake flag",
+   "spot the fake flag",
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "scotland flag",
+   "kazakhstan flag",
+   "jamaica flag",
+   "thailand flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "real-fake-flag-6",
+  "type": "flagduel",
+  "title": "Real or Fake Flag? #6",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 7",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "SCOTLAND",
+    "a": {
+     "flag": "gb-sct",
+     "name": "Scotland"
+    },
+    "b": {
+     "flag": "fake/gb-sct",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Which is the real Scotland? Left, or right?",
+     "a": "Left! The darker blue."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "KAZAKHSTAN",
+    "a": {
+     "flag": "fake/kz-mirror",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "kz",
+     "name": "Kazakhstan"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Kazakhstan?",
+     "a": "Right! The pattern hugs the pole."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "JAMAICA",
+    "a": {
+     "flag": "fake/jm",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "jm",
+     "name": "Jamaica"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Jamaica?",
+     "a": "Right! Green on top and bottom."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "THAILAND",
+    "a": {
+     "flag": "th",
+     "name": "Thailand"
+    },
+    "b": {
+     "flag": "fake/th",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. The real Thailand?",
+     "a": "Left! The blue band is double width. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

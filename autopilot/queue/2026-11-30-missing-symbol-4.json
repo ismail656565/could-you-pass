@@ -1,0 +1,110 @@
+{
+ "id": "missing-symbol-4",
+ "publishAt": "12:00",
+ "youtube": {
+  "title": "Missing Symbol Flag Quiz #4: Spot the Real Sri Lanka 🔍 #shorts",
+  "description": "One flag is real, the other lost its symbol – pick the real one before the countdown ends 🔍 Sri Lanka, Belize, Zambia and Montenegro.\nComment your score out of 4 👇\n\nFollow – a new Missing Symbol quiz drops every day! 🌍\n\n#flagquiz #missingsymbol #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), edited versions by us. Music: original.",
+  "tags": [
+   "missing symbol flag",
+   "flag quiz",
+   "guess the flag",
+   "real or fake flag",
+   "flags of the world",
+   "sri lanka flag",
+   "belize flag",
+   "zambia flag",
+   "montenegro flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "missing-symbol-4",
+  "type": "flagduel",
+  "title": "Missing Symbol #4",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 5",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "SRI LANKA",
+    "a": {
+     "flag": "fake/lk",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "lk",
+     "name": "Sri Lanka"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Which is the real Sri Lanka? Left, or right?",
+     "a": "Right! The lion with a sword."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "BELIZE",
+    "a": {
+     "flag": "bz",
+     "name": "Belize"
+    },
+    "b": {
+     "flag": "fake/bz",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Belize?",
+     "a": "Left! The coat of arms."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "ZAMBIA",
+    "a": {
+     "flag": "zm",
+     "name": "Zambia"
+    },
+    "b": {
+     "flag": "fake/zm",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Zambia?",
+     "a": "Left! The flying eagle."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "MONTENEGRO",
+    "a": {
+     "flag": "fake/me",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "me",
+     "name": "Montenegro"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. The real Montenegro?",
+     "a": "Right! The golden double eagle. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

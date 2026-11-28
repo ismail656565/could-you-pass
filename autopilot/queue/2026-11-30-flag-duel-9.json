@@ -1,0 +1,108 @@
+{
+ "id": "flag-duel-9",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz #9: Which One Is Jordan? The Last One Is Brutal 🌍 #shorts",
+  "description": "Two flags, almost the same – pick the right country before the countdown ends 🌍 Czechia, Malaysia, Paraguay and Jordan.\nComment your score out of 4 👇\n\nFollow – a new flag duel drops every day! 🧠\n\n#flagquiz #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "jordan vs sudan",
+   "czechia vs philippines",
+   "malaysia vs usa",
+   "paraguay vs netherlands",
+   "geography quiz",
+   "left or right",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes! Play with a friend – first to 4/4 wins!"
+ },
+ "story": {
+  "id": "flag-duel-9",
+  "type": "flagduel",
+  "title": "Who Is CZECHIA? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 10",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "CZECHIA",
+    "a": {
+     "flag": "cz",
+     "name": "Czechia"
+    },
+    "b": {
+     "flag": "ph",
+     "name": "Philippines"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Czechia? Left, or right?",
+     "a": "Left! No sun, no stars."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "MALAYSIA",
+    "a": {
+     "flag": "us",
+     "name": "USA"
+    },
+    "b": {
+     "flag": "my",
+     "name": "Malaysia"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Malaysia?",
+     "a": "Right! A crescent and a star."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "PARAGUAY",
+    "a": {
+     "flag": "py",
+     "name": "Paraguay"
+    },
+    "b": {
+     "flag": "nl",
+     "name": "Netherlands"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Paraguay?",
+     "a": "Left! The emblem in the middle."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "JORDAN",
+    "a": {
+     "flag": "sd",
+     "name": "Sudan"
+    },
+    "b": {
+     "flag": "jo",
+     "name": "Jordan"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. Who is Jordan?",
+     "a": "Right! Look for the white star. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "id": "missing-symbol-5",
+ "publishAt": "12:00",
+ "youtube": {
+  "title": "Missing Symbol Flag Quiz #5: Spot the Real Lesotho 🔍 #shorts",
+  "description": "One flag is real, the other lost its symbol – pick the real one before the countdown ends 🔍 Lesotho, Vanuatu, Dominica and Malawi.\nComment your score out of 4 👇\n\nFollow – a new Missing Symbol quiz drops every day! 🌍\n\n#flagquiz #missingsymbol #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), edited versions by us. Music: original.",
+  "tags": [
+   "missing symbol flag",
+   "flag quiz",
+   "guess the flag",
+   "real or fake flag",
+   "flags of the world",
+   "lesotho flag",
+   "vanuatu flag",
+   "dominica flag",
+   "malawi flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "missing-symbol-5",
+  "type": "flagduel",
+  "title": "Missing Symbol #5",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/brain-pulse.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 6",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "LESOTHO",
+    "a": {
+     "flag": "ls",
+     "name": "Lesotho"
+    },
+    "b": {
+     "flag": "fake/ls",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Which is the real Lesotho? Left, or right?",
+     "a": "Left! The Basotho hat."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "VANUATU",
+    "a": {
+     "flag": "fake/vu",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "vu",
+     "name": "Vanuatu"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Vanuatu?",
+     "a": "Right! The curled boar's tusk."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "DOMINICA",
+    "a": {
+     "flag": "fake/dm",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "dm",
+     "name": "Dominica"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "The real Dominica?",
+     "a": "Right! The parrot in the red circle."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "MALAWI",
+    "a": {
+     "flag": "mw",
+     "name": "Malawi"
+    },
+    "b": {
+     "flag": "fake/mw",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Last one. The real Malawi?",
+     "a": "Left! The rising red sun. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

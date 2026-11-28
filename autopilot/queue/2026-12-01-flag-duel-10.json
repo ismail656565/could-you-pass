@@ -1,0 +1,108 @@
+{
+ "id": "flag-duel-10",
+ "publishAt": "16:00",
+ "youtube": {
+  "title": "Flag Quiz #10: Which One Is El Salvador? The Last One Is Brutal 🌍 #shorts",
+  "description": "Two flags, almost the same – pick the right country before the countdown ends 🌍 Romania, Nigeria, Cameroon and El Salvador. Happy National Day, Romania!.\nComment your score out of 4 👇\n\nFollow – a new flag duel drops every day! 🧠\n\n#flagquiz #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence). Music: original.",
+  "tags": [
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "el salvador vs nicaragua",
+   "romania vs colombia",
+   "nigeria vs ireland",
+   "cameroon vs mali",
+   "geography quiz",
+   "left or right",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "flag-duel-10",
+  "type": "flagduel",
+  "title": "Who Is ROMANIA? Left or Right?",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 11",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "ROMANIA",
+    "a": {
+     "flag": "ro",
+     "name": "Romania"
+    },
+    "b": {
+     "flag": "co",
+     "name": "Colombia"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Romania? Left, or right?",
+     "a": "Left! Three equal stripes."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "NIGERIA",
+    "a": {
+     "flag": "ie",
+     "name": "Ireland"
+    },
+    "b": {
+     "flag": "ng",
+     "name": "Nigeria"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Who is Nigeria?",
+     "a": "Right! Green, white, green."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "CAMEROON",
+    "a": {
+     "flag": "cm",
+     "name": "Cameroon"
+    },
+    "b": {
+     "flag": "ml",
+     "name": "Mali"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "Who is Cameroon?",
+     "a": "Left! The yellow star."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "EL SALVADOR",
+    "a": {
+     "flag": "ni",
+     "name": "Nicaragua"
+    },
+    "b": {
+     "flag": "sv",
+     "name": "El Salvador"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. Who is El Salvador?",
+     "a": "Right! Flags and a laurel wreath. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}

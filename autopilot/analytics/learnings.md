@@ -904,3 +904,11 @@ Quellen: YouTube Help "Viewed vs swiped away", Todd Sherman (Creator Insider), V
 - **Missing Symbol #1 (Portugal) 2.334 Views n. ≈8 h = schnellster Start des Kanals** → Missing Symbol ist Exploit (täglich 12:00), nicht mehr Experiment. Schwierigkeit passt (auch 1/4-Kommentare).
 - Real or Fake #2 1.671 n. 1,7 T vs #1 3.171 → generischer Titel + grobe Fälschungen; ab #4 Land im Titel, Fälschungen nur 1 Detail. 18/23 gemeldete Scores 4/4.
 - Zuschauer-Wunsch Kazakhstan (16× 🇰🇿) → Real or Fake #6 am 30.11. versprochen. Events: St Andrew's Day 30.11., Rumänien 1.12., UAE 2.12. Kommentare 8/9 beantwortet, kein Faktenfehler.
+
+## 2026-11-28 07:40 – Produktion (Queue 30.11./1.12.)
+- Technik: alle Läufe 27.11. grün; 27.11. (Fr) = 3/3 Shorts in done (missing-symbol-1, flag-duel-6, real-fake-flag-3). Heute liegen flag-blitz-1 (Long) + 3 Shorts bereit, 29.11. komplett. Kein Code-Fix nötig.
+- Shorts (report.json 27.11. 19:50, publicViews): Real or Fake #1 3.171 · Flag Duel #4 2.974 · Missing Symbol #1 2.334 (≈8 h) · Flag Duel #5 2.193 · Real or Fake #2 1.671 · Flag Duel #6 1.348 (≈4 h). Kanal 79 Abos.
+- Longs: Christmas-Long 40 Views n. ≈1,2 T, Thanksgiving-T/F (tvshow) 136 → Text-Longs bleiben schwach; Flag Blitz heute ist der Test.
+- Thumbnails: CTR per API weiter HttpError 400 → keine neuen Zahlen.
+- **Monaco/Indonesia ist in flag-icons pixelgleich (beide 4:3, gleiche Farben)** → als Duel unlösbar, nie verwenden. Flag Duel #9 LEGEND = Jordan/Sudan. Gleiches gilt für alle Paare, die sich nur im Seitenverhältnis unterscheiden.
+- Neue Fakes (public/flags/fake/): lk bz zm me ls vu dm mw (Symbol weg) · gb-sct jm th ae la gh np kz-mirror (Real or Fake). Alle gerendert und geprüft, keiner ist eine echte Landesflagge. Nepal-Fake: Pfad-Teilstück nach `z` braucht explizites `l` beim Umschreiben von relativ auf absolut.

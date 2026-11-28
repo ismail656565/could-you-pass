@@ -1,0 +1,542 @@
+{
+ "id": "science-quiz-30-1",
+ "publishAt": "14:00",
+ "timing": {
+  "count": 5.0,
+  "tail": 1.2,
+  "tempo": 1.0
+ },
+ "outroLine": "How many did you get? Comment your score below, and subscribe with the bell on for a new quiz every day!",
+ "youtube": {
+  "title": "Science Quiz in 6 Minutes: Can You Get 20/30? 🔬",
+  "description": "30 science questions from easy to legend 🔬 Chemistry, biology, physics and the human body – five seconds each. Get 20 and you pass!\nComment your score 👇\n\nSubscribe and turn on the bell for a new quiz every day! 🔔\n\n#ScienceQuiz #ScienceTrivia #Quiz #GeneralKnowledge #TriviaQuiz #Chemistry\n\nPhotos via Wikimedia Commons: Sun – NASA/SDO (public domain)\nMusic: original.",
+  "tags": [
+   "science quiz",
+   "science trivia",
+   "science quiz questions and answers",
+   "general science quiz",
+   "chemistry quiz",
+   "biology quiz",
+   "physics quiz",
+   "trivia quiz",
+   "general knowledge quiz",
+   "quiz"
+  ],
+  "categoryId": "27",
+  "comment": "You asked for it – science! @Jo-wl5fj, how many did you get? Everyone else: comment your score out of 30 👇"
+ },
+ "lines": [
+  {
+   "q": "Thirty science questions, five seconds each, get twenty and you pass! First one: what is the chemical formula for water?",
+   "a": "H two O! Two hydrogens, one oxygen."
+  },
+  {
+   "q": "How many legs does an insect have?",
+   "a": "Six! Spiders have eight, so they're not insects."
+  },
+  {
+   "q": "Which organ pumps blood around your body?",
+   "a": "The heart! It never takes a day off."
+  },
+  {
+   "q": "What do caterpillars turn into?",
+   "a": "Butterflies! Or moths."
+  },
+  {
+   "q": "Which gas do we need to breathe in?",
+   "a": "Oxygen! We breathe out carbon dioxide."
+  },
+  {
+   "q": "Plants make food from sunlight by what process?",
+   "a": "Photosynthesis! Easy round done. Now it gets harder."
+  },
+  {
+   "q": "Medium round! What is the chemical symbol for sodium?",
+   "a": "N A! From its old Latin name, natrium."
+  },
+  {
+   "q": "Animals that eat only plants are called what?",
+   "a": "Herbivores! Like cows and rabbits."
+  },
+  {
+   "q": "The energy of a moving object is called what?",
+   "a": "Kinetic! From the Greek word for motion."
+  },
+  {
+   "q": "What is called the powerhouse of the cell?",
+   "a": "Mitochondria! They turn food into energy. If you're enjoying this, subscribe and turn on the bell!"
+  },
+  {
+   "q": "What is the pH of pure water?",
+   "a": "Seven! Right in the middle, neutral."
+  },
+  {
+   "q": "Which gas makes party balloons float?",
+   "a": "Helium! Lighter than air, and it won't burn."
+  },
+  {
+   "q": "Hard round! What is the chemical symbol for tin?",
+   "a": "S N! From the Latin stannum."
+  },
+  {
+   "q": "Who made the first vaccine, back in seventeen ninety six?",
+   "a": "Edward Jenner! Against smallpox."
+  },
+  {
+   "q": "Electrical resistance is measured in what?",
+   "a": "Ohms! Named after Georg Ohm."
+  },
+  {
+   "q": "How many chromosomes do humans usually have?",
+   "a": "Forty six! Twenty three pairs."
+  },
+  {
+   "q": "Who discovered penicillin in nineteen twenty eight?",
+   "a": "Alexander Fleming! Thanks to a mouldy dish."
+  },
+  {
+   "q": "Which acid is in your stomach?",
+   "a": "Hydrochloric! A special lining keeps it from eating your stomach."
+  },
+  {
+   "q": "Very hard round! Absolute zero is about how many degrees Celsius?",
+   "a": "Minus two hundred seventy three! Nothing gets colder."
+  },
+  {
+   "q": "Which element has the symbol S B?",
+   "a": "Antimony! From the Latin stibium."
+  },
+  {
+   "q": "What is the S I unit of force?",
+   "a": "The newton! Named after Isaac Newton."
+  },
+  {
+   "q": "What is the most common protein in your body?",
+   "a": "Collagen! It holds skin and bones together."
+  },
+  {
+   "q": "Who put the Sun at the centre of the universe, in fifteen forty three?",
+   "a": "Copernicus! In the year he died."
+  },
+  {
+   "q": "Which vitamin helps your blood clot?",
+   "a": "Vitamin K! Leafy greens are full of it. Still with me? Legend round next!"
+  },
+  {
+   "q": "Legend round! How many elements are on the periodic table?",
+   "a": "One hundred eighteen! The last four were named in twenty sixteen."
+  },
+  {
+   "q": "Who measured the electron's charge with oil drops?",
+   "a": "Robert Millikan! Nobel Prize in nineteen twenty three."
+  },
+  {
+   "q": "Which mineral is number one on the Mohs hardness scale?",
+   "a": "Talc! Soft enough to scratch with a fingernail. Three left, stay with me!"
+  },
+  {
+   "q": "Which element is named after Poland?",
+   "a": "Polonium! Marie Curie named it after her homeland."
+  },
+  {
+   "q": "Which element is the most electronegative?",
+   "a": "Fluorine! It grabs electrons like nothing else."
+  },
+  {
+   "q": "Last one. Carbon fourteen's half life is about how long?",
+   "a": "Five thousand seven hundred thirty years! That's how we date old bones."
+  }
+ ],
+ "story": {
+  "type": "quiz",
+  "format": "long",
+  "layout": "exam",
+  "title": "Science Quiz",
+  "header": "SCIENCE QUIZ",
+  "hook": "CAN YOU GET 20/30?",
+  "finalLabel": "FINAL QUESTION",
+  "ctaText": "Comment your score",
+  "correctLabel": "CORRECT!",
+  "music": "sfx/world-trip.wav",
+  "musicVolume": 0.1,
+  "outroText": "Did you get 20?",
+  "outroSub": "Comment your score",
+  "midCtaIndex": 9,
+  "midCtaText": "Enjoying the quiz? Subscribe & hit the bell!",
+  "subscribeText": "New quiz every day – turn on the bell 🔔",
+  "thumbImage": "bilder/q2-sun.jpg",
+  "thumbTexts": [
+   "SCIENCE **QUIZ**",
+   "CAN YOU GET **20**?",
+   "6 **MINUTES**"
+  ],
+  "thumbEmoji": "🔬",
+  "thumbBadge": "30 QUESTIONS",
+  "cardColors": [
+   "#0F766E",
+   "#042F2E"
+  ],
+  "questions": [
+   {
+    "q": "What is the chemical formula for **water**?",
+    "answers": [
+     "CO2",
+     "H2O",
+     "O2",
+     "NaCl"
+    ],
+    "correct": 1,
+    "level": "EASY",
+    "cardText": "💧"
+   },
+   {
+    "q": "How many **legs** does an insect have?",
+    "answers": [
+     "Four",
+     "Ten",
+     "Eight",
+     "Six"
+    ],
+    "correct": 3,
+    "level": "EASY",
+    "cardText": "🐜"
+   },
+   {
+    "q": "Which organ pumps **blood** around your body?",
+    "answers": [
+     "Heart",
+     "Liver",
+     "Lungs",
+     "Kidneys"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🫀"
+   },
+   {
+    "q": "What do **caterpillars** turn into?",
+    "answers": [
+     "Beetles",
+     "Bees",
+     "Butterflies",
+     "Dragonflies"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🐛"
+   },
+   {
+    "q": "Which **gas** do we need to breathe in?",
+    "answers": [
+     "Oxygen",
+     "Helium",
+     "Nitrogen",
+     "Carbon dioxide"
+    ],
+    "correct": 0,
+    "level": "EASY",
+    "cardText": "🫁"
+   },
+   {
+    "q": "Plants make food from **sunlight** by…?",
+    "answers": [
+     "Digestion",
+     "Fermentation",
+     "Photosynthesis",
+     "Respiration"
+    ],
+    "correct": 2,
+    "level": "EASY",
+    "cardText": "🌿"
+   },
+   {
+    "q": "What is the chemical symbol for **sodium**?",
+    "answers": [
+     "So",
+     "Sd",
+     "S",
+     "Na"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🧂"
+   },
+   {
+    "q": "Animals that eat only **plants** are called…?",
+    "answers": [
+     "Carnivores",
+     "Herbivores",
+     "Omnivores",
+     "Insectivores"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🐄"
+   },
+   {
+    "q": "Energy of a **moving** object is called…?",
+    "answers": [
+     "Potential",
+     "Thermal",
+     "Kinetic",
+     "Nuclear"
+    ],
+    "correct": 2,
+    "level": "MEDIUM",
+    "cardText": "⚽"
+   },
+   {
+    "q": "What is the **powerhouse** of the cell?",
+    "answers": [
+     "Mitochondria",
+     "Ribosome",
+     "Nucleus",
+     "Cell wall"
+    ],
+    "correct": 0,
+    "level": "MEDIUM",
+    "cardText": "🔬"
+   },
+   {
+    "q": "What is the **pH** of pure water?",
+    "answers": [
+     "One",
+     "Three",
+     "Five",
+     "Seven"
+    ],
+    "correct": 3,
+    "level": "MEDIUM",
+    "cardText": "🧪"
+   },
+   {
+    "q": "Which gas makes party **balloons** float?",
+    "answers": [
+     "Hydrogen",
+     "Helium",
+     "Neon",
+     "Oxygen"
+    ],
+    "correct": 1,
+    "level": "MEDIUM",
+    "cardText": "🎈"
+   },
+   {
+    "q": "What is the chemical symbol for **tin**?",
+    "answers": [
+     "Sn",
+     "Tn",
+     "Ti",
+     "T"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🥫"
+   },
+   {
+    "q": "Who made the first **vaccine**, in 1796?",
+    "answers": [
+     "Louis Pasteur",
+     "Robert Koch",
+     "Edward Jenner",
+     "Joseph Lister"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "💉"
+   },
+   {
+    "q": "Electrical **resistance** is measured in…?",
+    "answers": [
+     "Volts",
+     "Amps",
+     "Watts",
+     "Ohms"
+    ],
+    "correct": 3,
+    "level": "HARD",
+    "cardText": "⚡"
+   },
+   {
+    "q": "How many **chromosomes** do humans usually have?",
+    "answers": [
+     "23",
+     "46",
+     "48",
+     "64"
+    ],
+    "correct": 1,
+    "level": "HARD",
+    "cardText": "🧬"
+   },
+   {
+    "q": "Who discovered **penicillin** in 1928?",
+    "answers": [
+     "Alexander Fleming",
+     "Marie Curie",
+     "Jonas Salk",
+     "Louis Pasteur"
+    ],
+    "correct": 0,
+    "level": "HARD",
+    "cardText": "🍄"
+   },
+   {
+    "q": "Which **acid** is in your stomach?",
+    "answers": [
+     "Citric",
+     "Sulfuric",
+     "Hydrochloric",
+     "Acetic"
+    ],
+    "correct": 2,
+    "level": "HARD",
+    "cardText": "🫃"
+   },
+   {
+    "q": "Absolute **zero** is about how many °C?",
+    "answers": [
+     "-180",
+     "-273",
+     "-373",
+     "-459"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "🥶"
+   },
+   {
+    "q": "Which element has the symbol **Sb**?",
+    "answers": [
+     "Selenium",
+     "Strontium",
+     "Tin",
+     "Antimony"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🔤"
+   },
+   {
+    "q": "What is the SI unit of **force**?",
+    "answers": [
+     "Newton",
+     "Pascal",
+     "Joule",
+     "Watt"
+    ],
+    "correct": 0,
+    "level": "VERY HARD",
+    "cardText": "🍎"
+   },
+   {
+    "q": "Most common **protein** in your body?",
+    "answers": [
+     "Keratin",
+     "Insulin",
+     "Collagen",
+     "Hemoglobin"
+    ],
+    "correct": 2,
+    "level": "VERY HARD",
+    "cardText": "🦴"
+   },
+   {
+    "q": "Who put the **Sun** at the centre, in 1543?",
+    "answers": [
+     "Galileo",
+     "Copernicus",
+     "Kepler",
+     "Ptolemy"
+    ],
+    "correct": 1,
+    "level": "VERY HARD",
+    "cardText": "☀️"
+   },
+   {
+    "q": "Which **vitamin** helps your blood clot?",
+    "answers": [
+     "Vitamin A",
+     "Vitamin C",
+     "Vitamin D",
+     "Vitamin K"
+    ],
+    "correct": 3,
+    "level": "VERY HARD",
+    "cardText": "🩸"
+   },
+   {
+    "q": "How many **elements** are on the periodic table?",
+    "answers": [
+     "108",
+     "112",
+     "118",
+     "126"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "⚛️"
+   },
+   {
+    "q": "Who measured the **electron's** charge with oil drops?",
+    "answers": [
+     "Robert Millikan",
+     "Niels Bohr",
+     "Ernest Rutherford",
+     "J. J. Thomson"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🛢️"
+   },
+   {
+    "q": "Which mineral is **1** on the Mohs scale?",
+    "answers": [
+     "Gypsum",
+     "Quartz",
+     "Calcite",
+     "Talc"
+    ],
+    "correct": 3,
+    "level": "LEGEND",
+    "cardText": "🪨"
+   },
+   {
+    "q": "Which element is named after **Poland**?",
+    "answers": [
+     "Plutonium",
+     "Polonium",
+     "Promethium",
+     "Palladium"
+    ],
+    "correct": 1,
+    "level": "LEGEND",
+    "cardText": "📜"
+   },
+   {
+    "q": "Which element is the most **electronegative**?",
+    "answers": [
+     "Fluorine",
+     "Chlorine",
+     "Oxygen",
+     "Nitrogen"
+    ],
+    "correct": 0,
+    "level": "LEGEND",
+    "cardText": "🧲"
+   },
+   {
+    "q": "Carbon-14 **half-life** is about…?",
+    "answers": [
+     "57 years",
+     "570 years",
+     "5,730 years",
+     "57,300 years"
+    ],
+    "correct": 2,
+    "level": "LEGEND",
+    "cardText": "⏳"
+   }
+  ]
+ }
+}

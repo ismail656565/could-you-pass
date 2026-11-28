@@ -1,0 +1,111 @@
+{
+ "id": "real-fake-flag-7",
+ "publishAt": "21:00",
+ "youtube": {
+  "title": "Real or Fake Flag? #7 Can You Spot the Real UAE? 🧐 #shorts",
+  "description": "One flag is real, one is a sneaky fake – pick the real one before the countdown ends 🧐 UAE, Ghana, Laos and Nepal.\nUAE National Day is on December 2nd 🇦🇪\nComment your score out of 4 👇\n\nFollow – Real or Fake Flag #8 drops tomorrow! 🌍\n\n#flagquiz #fakeflag #flags #geography #guesstheflag #quiz #shorts\n\nFlag images: flag-icons by Lipis (MIT licence), fakes edited by us. Music: original.",
+  "tags": [
+   "real or fake flag",
+   "fake flag",
+   "spot the fake flag",
+   "flag quiz",
+   "guess the flag",
+   "flags of the world",
+   "uae flag",
+   "ghana flag",
+   "laos flag",
+   "nepal flag",
+   "geography quiz",
+   "shorts"
+  ],
+  "comment": "Comment your score /4 AND your country 👇 We pick countries from the comments for the next episodes!"
+ },
+ "story": {
+  "id": "real-fake-flag-7",
+  "type": "flagduel",
+  "title": "Real or Fake Flag? #7",
+  "ask": "WHICH IS THE REAL",
+  "kicker": "CAN YOU GET 4/4?",
+  "hookLine": "",
+  "music": "sfx/game-show.wav",
+  "musicVolume": 0.08,
+  "timing": {
+   "think": 2.6,
+   "move": 0.7,
+   "tail": 0.2,
+   "outro": 0.6
+  },
+  "outroText": "GOT 4/4? HIT LIKE",
+  "outroSub": "Follow for number 8",
+  "rounds": [
+   {
+    "level": "EASY",
+    "target": "UAE",
+    "a": {
+     "flag": "fake/ae",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "ae",
+     "name": "UAE"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Which is the real UAE? Left, or right?",
+     "a": "Right! The red bar is by the pole."
+    }
+   },
+   {
+    "level": "MEDIUM",
+    "target": "GHANA",
+    "a": {
+     "flag": "gh",
+     "name": "Ghana"
+    },
+    "b": {
+     "flag": "fake/gh",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Ghana?",
+     "a": "Left! The star is black."
+    }
+   },
+   {
+    "level": "HARD",
+    "target": "LAOS",
+    "a": {
+     "flag": "la",
+     "name": "Laos"
+    },
+    "b": {
+     "flag": "fake/la",
+     "name": "Fake"
+    },
+    "winner": "a",
+    "lines": {
+     "q": "The real Laos?",
+     "a": "Left! The circle is white."
+    }
+   },
+   {
+    "level": "LEGEND",
+    "target": "NEPAL",
+    "a": {
+     "flag": "fake/np",
+     "name": "Fake"
+    },
+    "b": {
+     "flag": "np",
+     "name": "Nepal"
+    },
+    "winner": "b",
+    "lines": {
+     "q": "Last one. The real Nepal?",
+     "a": "Right! The moon sits on top. Got all four? Hit like, and follow!"
+    }
+   }
+  ]
+ }
+}
